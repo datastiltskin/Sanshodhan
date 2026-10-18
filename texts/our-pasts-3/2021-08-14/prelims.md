@@ -74,27 +74,17 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 Director National Council of Educational
 
-Research and Training New Delhi 30 November 2007
+Research and Training New Delhi 30 November 2007 Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
 
 <!-- page 22 (pdf 5) -->
 
 ### TEXTBOOK DEVELOPMENT COMMITTEE
 
-> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE
-
-Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi
-
-> [caption] CHIEF ADVISOR
-
-> [caption] MEMBERS
-
-> [caption] MEMBER-COORDINATOR
+> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE CHIEF ADVISOR MEMBERS MEMBER-COORDINATOR
 
 <!-- page 22 (pdf 6) -->
 
 ### ACKNOWLEDGEMENTS
-
-The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
 
 Many individuals and institutions helped in the production of the book. Professor Muzaffar Alam and Dr Kumkum Roy read drafts and offered suggestions for change. We drew upon the image collections of several institutions in illustrating the book. A number of photographs of the city of Delhi and of the events of 1857 are from the Alkazi Foundation for the Arts. Many of the nineteenth-century illustrated books on the British Raj are to be found in the valuable India Collection of the India International Centre. We are particularly glad that Sunil Janah, now 90 years of age, has given us permission to reproduce his photographs. From the early 1940s, he has explored the tribal areas and recorded with his camera the daily life of different communities. Some of these photographs are now published (The Tribals of India, Oxford University of Press, 2003), and many are at the Indira Gandhi National Centre for Arts.
 

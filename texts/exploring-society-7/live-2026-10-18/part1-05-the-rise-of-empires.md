@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf"
 source_sha256: "f28e28634f62926ca8f00338cc3951e390ece3cd8557e6c871c043bbe3ea739d"
 pdf_pages: 34
 printed_pages: "83-116"
-body_fingerprint: "96256f0f1c9dbc72f25b30b89fd59f83dcaf38f5d0aeabff6848c1012c6b5313"
+body_fingerprint: "bc696fe2793ebe4d1322a27201a958905ab03201cc0da5aaca4705273eb8544f"
 ---
 
 <!-- page 83 (pdf 1) -->
@@ -102,7 +102,7 @@ Indian history is full of empires. They rose, expanded, lasted for a while, decl
 
 > [table] Maintains an army to keep the tributary states under control, expand the empire 06 02 or protect it from outside aggression Designs and maintains an administration, with Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
 
-Emperor exerts central authority over the empire's tributary territories and kings
+Emperor exerts central authority over the empire's tributary territories and kings Æ Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 > [table] and order, etc.
 
@@ -119,8 +119,6 @@ Emperor exerts central authority over the empire's tributary territories and kin
 <!-- page 89 (pdf 7) -->
 
 ### LET’S EXPLORE
-
-Æ Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 Æ Looking at the many challenges involved in managing an empire, why should a king be so keen to expand his kingdom into an empire and become an emperor? Here are a few possible answers; see if you can think of a few more:
 

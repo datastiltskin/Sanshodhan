@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch02.pdf"
 source_sha256: "68d1f68c586036816facbd301841aa42cc7351ac1bc824c7a96e18c3a3647acb"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "d222f2cc071f50adc0346787e5d23659f60b4472c6a0f5f20ba43b4d06353abc"
+body_fingerprint: "023a1c068655fea479010ed56c6d459411c4c8dc3080340bfed2de52276f1c6d"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -148,15 +148,13 @@ In many cases it was necessary to water crops artificially. A variety of methods
 
 The Administration of the Empire of peasants, known as , became prosperous with the spread of irrigation agriculture. Groups of such villages formed larger units called . The village council and the performed several administrative functions including dispensing justice and collecting taxes.
 
-Rich peasants exercised considerable control over the affairs of the under the supervision of the central Chola government. The Chola kings gave some rich landowners titles like (a or peasant serving three kings), (chief), etc., as markers of respect, and entrusted them
+Rich peasants exercised considerable control over the affairs of the under the supervision of the central Chola government. The Chola kings gave some rich landowners titles like (a or peasant serving three kings), (chief), etc., as markers of respect, and entrusted them Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam land donated to Jaina institutions We have seen that Brahmanas often received land grants or . As a result, a large number of Brahmana settlements emerged in the Kaveri valley as in other parts of south India.
 
 > [caption] Fig. 5 A ninth-century sluice gate in Tamil Nadu. It regulated the from a tank into the channels that irrigated A sluice gate is traditionally a wood or metal barrier which is commonly used to control water levels rivers and canals.
 
 <!-- page 26 (pdf 11) -->
 
 ### Types of land
-
-Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam land donated to Jaina institutions We have seen that Brahmanas often received land grants or . As a result, a large number of Brahmana settlements emerged in the Kaveri valley as in other parts of south India.
 
 Each was looked after by an assembly or of prominent Brahmana landholders. These recorded in detail in inscriptions, often on the stone walls of temples. Associations of traders known as also occasionally performed administrative functions in towns.
 

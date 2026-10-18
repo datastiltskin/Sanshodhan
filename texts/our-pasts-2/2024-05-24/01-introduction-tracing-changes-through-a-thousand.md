@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch01.pdf"
 source_sha256: "88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "0b652bf268d93b8d8cdfb870a28149079b15a4dd61d8663161802a5185bc9bd3"
+body_fingerprint: "736c36031abc3fb3026981af0973a952da8c88d1b863a908ee8041c4dc807c94"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -52,11 +52,9 @@ In the medieval period, a “foreigner” was any stranger who appeared say in a
 
 Historians use different types of sources to learn about the past depending upon the period of their study example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period, paper gradually became cheaper and more
+You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period, paper gradually became cheaper and more Compare the following:
 
 ### The value of paper
-
-Compare the following:
 
 (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch04.pdf"
 source_sha256: "c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "17954404b4f6bd558949c63a21feba8aca86eb13b98d7c9b40b2f91d67bc25a4"
+body_fingerprint: "de0791a1e77cd8619dbb6d08836971e50b5b87a83989805c66d4ee3a92c16c0f"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -58,11 +58,9 @@ Mughal authority for a long time. Once defeated, however, they were honourably t
 
 ## Mansabdars and Jagirdars
 
-As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as . The term refers to an individual who holds a , meaning a position or rank. It was
+As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as . The term refers to an individual who holds a , meaning a position or rank. It was and salary were determined by a numerical value called . The higher the , the more prestigious was the noble’s position in court and the larger his salary.
 
 ### Zat ranking
-
-and salary were determined by a numerical value called . The higher the , the more prestigious was the noble’s position in court and the larger his salary.
 
 > [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
 
@@ -170,11 +168,9 @@ primogeniture
 
 7. Why did the Mughals emphasise their Timurid and not their Mongol descent?
 
-coparcenary zamindar
+coparcenary zamindar the stability of the Mughal Empire?
 
 ### Let’s discuss
-
-the stability of the Mughal Empire?
 
 from diverse backgrounds and not just Turanis and Iranis?
 

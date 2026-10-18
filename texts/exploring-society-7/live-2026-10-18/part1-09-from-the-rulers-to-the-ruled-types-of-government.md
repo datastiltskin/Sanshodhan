@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "c3ad9af9eac8cc4bd5c6eccaedd13a91ef12d6e9559eb3b80a1366004ad90064"
+body_fingerprint: "164496f75bee107535d99144d0c39f3f654ad19cbcda4b7eac6fbac9589bd057"
 ---
 
 <!-- page 185 (pdf 1) -->
@@ -434,13 +434,11 @@ These different types of governments show us that democracy is not the only way 
 
 Consider the characteristics below in different forms of government and fill in the blank boxes with Yes or No:
 
-Characteristics Democracy Dictatorship Absolute Monarchy Oligarchy Universal Adult Franchise Yes No Equality amongst citizens Freedom of speech Separation of powers Wellbeing and Prosperity of all citizens
+Characteristics Democracy Dictatorship Absolute Monarchy Oligarchy Universal Adult Franchise Yes No Equality amongst citizens Freedom of speech Separation of powers Wellbeing and Prosperity of all citizens You have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:
 
 <!-- page 206 (pdf 22) -->
 
 ### LET’S EXPLORE
-
-You have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:
 
 Æ Enact democracy
 

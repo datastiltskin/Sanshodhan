@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch06.pdf"
 source_sha256: "a1e8a27b4c7f398feb11a7ff55fbe4bbc47e427fe0378172de79713867dfd61f"
 pdf_pages: 18
 printed_pages: "61-78"
-body_fingerprint: "28b6e80d63879a79951b3e63bba4f1c03e8965d2ea7560b7b087ae6bf449ea73"
+body_fingerprint: "52caba6dec22bd8bc61c02702dce245f185d71ceb77a9e69d3f75d33a581bb1c"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -269,11 +269,9 @@ Virashaivism
 
 bhakti
 
-Sufi
+Sufi khanqah
 
 ### Let’s understand
-
-khanqah
 
 5. What were the major beliefs and practices of the Sufis?
 

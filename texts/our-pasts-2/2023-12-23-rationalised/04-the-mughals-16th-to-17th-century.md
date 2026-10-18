@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch04.pdf"
 source_sha256: "e3f56c65af2e2d925e5024a62b81c111f77ab3e08e7819fadf98bf085154f717"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "061eaeb65df2d6d06a6284b332388307ac83fca10db1749627b5327cd866211a"
+body_fingerprint: "66ed8c2b14b2c5a6c173fb27f818363f12b7f591aef10bcd52f4492d9a6701bf"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -155,11 +155,9 @@ Keywords
 
 4. What was the relationship between the mansabdar and the jagir?
 
-Mughal mansab
+Mughal mansab jagir
 
 ### Let’s understand
-
-jagir
 
 5. What was the role of the zamindar in Mughal zat administration?
 

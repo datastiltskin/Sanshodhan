@@ -231,10 +231,8 @@ Foreword iii
 
 Letter to the Student v
 
-Theme A — India and the World: Land and the People Chapter 1 The Story of Indian Farming 1 Chapter 2 India and Her Neighbours 29 Theme B — Tapestry of the Past Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61 Chapter 4 Turning Tides: 11th and 12th Centuries 97 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125 Theme D — Governance and Democracy Chapter 6 The State, the Government, and You 143 Theme E — Economic Life Around Us Chapter 7 Infrastructure: Engine of India’s Development 169 Chapter 8 Banks and the Magic of Finance 193 Maps of India 214 Glossary 216 Images and maps from external sources 218
+Theme A — India and the World: Land and the People Chapter 1 The Story of Indian Farming 1 Chapter 2 India and Her Neighbours 29 Theme B — Tapestry of the Past Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61 Chapter 4 Turning Tides: 11th and 12th Centuries 97 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125 Theme D — Governance and Democracy Chapter 6 The State, the Government, and You 143 Theme E — Economic Life Around Us Chapter 7 Infrastructure: Engine of India’s Development 169 Chapter 8 Banks and the Magic of Finance 193 Maps of India 214 Glossary 216 Images and maps from external sources 218 The whole world is family
 
 <!-- page 27 (pdf 16) -->
 
 ### Vasudhaiva Kutumbakam:
-
-The whole world is family

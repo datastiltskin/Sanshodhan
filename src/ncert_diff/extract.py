@@ -387,15 +387,16 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
                     flush()
                     pending_body = text
                 continue
-            if b.role in ("h2", "h3"):
+            if b.role == "h2":
                 flush()
-                if b.role == "h2":
-                    level = "#" if not first_heading_done else "##"
-                    first_heading_done = True
-                    lines.append(f"{level} {b.text}")
-                else:
-                    lines.append(f"### {b.text}")
-                lines.append("")
+                level = "#" if not first_heading_done else "##"
+                first_heading_done = True
+                lines.extend((f"{level} {b.text}", ""))
+                continue
+            if b.role == "h3":
+                # Box and activity headings often sit between a paragraph and its continuation
+                # on the next page. They are written after the paragraph they interrupt.
+                emit(f"### {b.text}", "")
                 continue
             # Captions, notes, sources, tables: kept in place, without ending the paragraph.
             if clean.has_content(b.text):

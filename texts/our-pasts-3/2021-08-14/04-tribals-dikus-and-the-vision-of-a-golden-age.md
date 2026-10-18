@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch04.pdf"
 source_sha256: "b9c38cb3268123bbc2374ba8236421618e7648dbc84b2127c595233e87625f01"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "61d0f3a701b196849cf13b09b0d2dfb181b0c1710f3e4c2b62a917d2040c4fca"
+body_fingerprint: "193785cab41fbd1f38f6bec45d3e5980c728504d4a82065eb05e10cbb3148b2b"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -37,11 +37,9 @@ Some were jhum cultivators Some of them practised jhum cultivation, that is, shi
 
 Sal – A tree
 
-Mahua – A flower that is eaten or used to make alcohol
+Mahua – A flower that is eaten or used to make alcohol In many regions tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
 
 ### Some were hunters and gatherers
-
-In many regions tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
 
 > [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
 

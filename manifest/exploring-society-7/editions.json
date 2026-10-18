@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "e9c1d8bd93994f2ac9f9baa1a0e074536009a7874a1f7fa29ba69b8ec351317b",
+      "fingerprint": "aa6d48e9537ff7949b5cdf8c2b280d65c02eeca725b973c37feb5ba68b60be14",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -117,7 +117,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf",
           "pdf_pages": 34,
           "printed_pages": "83-116",
-          "fingerprint": "96256f0f1c9dbc72f25b30b89fd59f83dcaf38f5d0aeabff6848c1012c6b5313",
+          "fingerprint": "bc696fe2793ebe4d1322a27201a958905ab03201cc0da5aaca4705273eb8544f",
           "role_counts": {
             "footer": 80,
             "h2": 20,
@@ -194,7 +194,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf",
           "pdf_pages": 24,
           "printed_pages": "185-208",
-          "fingerprint": "c3ad9af9eac8cc4bd5c6eccaedd13a91ef12d6e9559eb3b80a1366004ad90064",
+          "fingerprint": "164496f75bee107535d99144d0c39f3f654ad19cbcda4b7eac6fbac9589bd057",
           "role_counts": {
             "footer": 52,
             "h2": 24,
@@ -309,7 +309,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf",
           "pdf_pages": 36,
           "printed_pages": "61-96",
-          "fingerprint": "f8913020247794f60c07be196efa0efa413351a7594fe891672e3024b4110933",
+          "fingerprint": "fd09fa5fa0a0af1aa89694c853b7230a265c59de0fcf674b486399af75429fdf",
           "role_counts": {
             "h2": 24,
             "chapter-number": 1,

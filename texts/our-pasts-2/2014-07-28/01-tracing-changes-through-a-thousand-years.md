@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch01.pdf"
 source_sha256: "99ec837d84ed04837bc03728950335d92ef99114dc648ceb05f475045ce1b11f"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "43f307b68ca1f12aea00400b6fc81d4cafd656d1c73eb567c1a5b689a0c29233"
+body_fingerprint: "f84b6d02cba80f33b848557de46e1782cc355a68c3398d53de21e0c907d11ad4"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -49,7 +49,7 @@ Historians have to be careful about the terms they use because they meant differ
 
 Historians use different types of sources to learn about the past depending upon the period of their study and the nature of their investigation. Last year, for example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750 CE.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely upon coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more
+You will notice some continuity in the sources used by historians for the study of this period. They still rely upon coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives archives archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
 
 ### The value of paper
 
@@ -62,8 +62,6 @@ You will notice some continuity in the sources used by historians for the study 
 > [note] When was paper more expensive and easily available — in the thirteenth or the fourteenth century?
 
 <!-- page 5 (pdf 5) -->
-
-widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives archives archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
 
 There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes — a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result historians have to read different manuscript versions of the same text to guess what the author had originally written.
 

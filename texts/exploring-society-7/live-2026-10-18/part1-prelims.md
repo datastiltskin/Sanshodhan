@@ -263,10 +263,8 @@ Letter to the Student v
 
 Your Journey through this Textbook vii
 
-Theme A — India and the World: Land and the People Chapter 1 Geographical Diversity of India 1 Chapter 2 Understanding the Weather 27 Chapter 3 Climates of India 45 Theme B — Tapestry of the Past Chapter 4 New Beginnings: Cities and States 67 Chapter 5 The Rise of Empires 83 Chapter 6 The Age of Reorganisation 117 Chapter 7 The Gupta Era: An Age of Tireless Creativity 145 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 8 How the Land Becomes Sacred 167 Theme D — Governance and Democracy Chapter 9 From the Rulers to the Ruled: Types of Governments 185 Chapter 10 The Constitution of India — An Introduction 209 Theme E — Economic Life Around Us Chapter 11 From Barter to Money 229 Chapter 12 Understanding Markets 247 Political Map of India 274 Physical Map of India 275 Glossary 276 Images and maps from external sources 284
+Theme A — India and the World: Land and the People Chapter 1 Geographical Diversity of India 1 Chapter 2 Understanding the Weather 27 Chapter 3 Climates of India 45 Theme B — Tapestry of the Past Chapter 4 New Beginnings: Cities and States 67 Chapter 5 The Rise of Empires 83 Chapter 6 The Age of Reorganisation 117 Chapter 7 The Gupta Era: An Age of Tireless Creativity 145 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 8 How the Land Becomes Sacred 167 Theme D — Governance and Democracy Chapter 9 From the Rulers to the Ruled: Types of Governments 185 Chapter 10 The Constitution of India — An Introduction 209 Theme E — Economic Life Around Us Chapter 11 From Barter to Money 229 Chapter 12 Understanding Markets 247 Political Map of India 274 Physical Map of India 275 Glossary 276 Images and maps from external sources 284 The whole world is one family
 
 <!-- page 27 (pdf 22) -->
 
 ### Vasudhaiva Kutumbakam:
-
-The whole world is one family

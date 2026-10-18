@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf"
 source_sha256: "2c03eea83b15b8718697bbdb9bfa57c200e19c6db71014698de73432f0589fbc"
 pdf_pages: 36
 printed_pages: "61-96"
-body_fingerprint: "f8913020247794f60c07be196efa0efa413351a7594fe891672e3024b4110933"
+body_fingerprint: "fd09fa5fa0a0af1aa89694c853b7230a265c59de0fcf674b486399af75429fdf"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -610,11 +610,9 @@ It is worth noting that long before the rise of Islam, India and Arabia were wel
 
 The table lists common everyday words, highlighting their similar pronunciation across the three languages. By comparing these sounds, you can identify words that are closely related or share common roots in all three languages. With the help of your teacher, use this observation to complete the table.
 
-Sanskrit Arabic English sandal sandalwood tāmbūla tanbūl karpūra camphor pippalī filfil
+Sanskrit Arabic English sandal sandalwood tāmbūla tanbūl karpūra camphor pippalī filfil The most significant cultural interactions are perhaps in the field of science, since, especially in the 9th century, Sanskrit texts of mathematics, astronomy and medicine were translated into Arabic, notably in Baghdad. Among many other things, the Arabs adopted India’s decimal numeral system with the zero, along with the Indian numerals. Their mathematicians acknowledged the Indian origin of this revolutionary numeral system, but once transmitted to Europe by the Arabs, these numerals became known as ‘Arabic numerals’. Nowadays, several dictionaries add the term ‘Hindu-Arabic numerals’. You will come across this important example of cultural transmission in your mathematics textbooks.
 
 ### DON’T MISS OUT
-
-The most significant cultural interactions are perhaps in the field of science, since, especially in the 9th century, Sanskrit texts of mathematics, astronomy and medicine were translated into Arabic, notably in Baghdad. Among many other things, the Arabs adopted India’s decimal numeral system with the zero, along with the Indian numerals. Their mathematicians acknowledged the Indian origin of this revolutionary numeral system, but once transmitted to Europe by the Arabs, these numerals became known as ‘Arabic numerals’. Nowadays, several dictionaries add the term ‘Hindu-Arabic numerals’. You will come across this important example of cultural transmission in your mathematics textbooks.
 
 <!-- page 94 (pdf 34) -->
 

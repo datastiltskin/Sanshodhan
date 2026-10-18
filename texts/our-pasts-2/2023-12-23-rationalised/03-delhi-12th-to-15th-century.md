@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch03.pdf"
 source_sha256: "518b5751da911955b116bcb28c972e5c457dc7c7a24e492c6095c91aab690014"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "8954c1866e339928d1971b7971ae4d8bd9d8486f99117e7b9bca1a7ef8809159"
+body_fingerprint: "deee4d276243467f3ac1bb83c2d7d6eec02880f7d04b4c649d7b3797f5536d25"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -189,11 +189,9 @@ Keywords
 
 7. What were the steps taken to ensure that muqtis performed their duties? Why do you think they may have wanted to defy the orders of the Sultans?
 
-iqta
+iqta tarikh garrison
 
 ### Let’s discuss
-
-tarikh garrison
 
 8. Do you think the authors of tawarikh would provide information about the lives of ordinary men and women?
 

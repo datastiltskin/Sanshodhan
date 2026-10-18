@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch04.pdf"
 source_sha256: "82734b433ad002c2add5b3b3e62dc3203ce2927b7f90495c9e8a86da890e3512"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "1e90559e2c4729f315d736848c42999c48979f92c899904e4fcca825b1e3a785"
+body_fingerprint: "2f50c6be186163cb919b0c7b6ac7029cf0f00e4d911909304e27b7cda79a8751"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -219,11 +219,9 @@ sawar
 
 4. What was the relationship between the mansabdar and the jagir?
 
-sulh-i kul primogeniture coparcenary zabt
+sulh-i kul primogeniture coparcenary zabt zamindar
 
 ### Let’s understand
-
-zamindar
 
 5. What was the role of the zamindar in Mughal administration?
 

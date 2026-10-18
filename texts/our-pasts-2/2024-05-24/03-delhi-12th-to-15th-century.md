@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch03.pdf"
 source_sha256: "897fb315a6f8489538ede02ee1bd3bf2a9ef472f3726971e132970e4ab611e40"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "b77e9423ccce35dda2b6625032b733f149180ca435cebbcf80a4cb6c7c1cb5b9"
+body_fingerprint: "9e2b9e23598a0e5929c0c4846552659fff826aa5ebb50fa66bc51691117aaa95"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -100,11 +100,9 @@ A slave, whom one has brought up and promoted, must be looked after for it needs
 
 The Khaljis and Tughluqs continued to use and also raised people of humble birth, who were often their clients, to high political positions. They were appointed as generals and governors. However, this also introduced an element of political instability.
 
-Slaves and clients were loyal to their masters and patrons, but not to their heirs. Sultans had their own servants. As a result the accession of a new monarch The patronage of these humble people by the Delhi Sultans also shocked many elites and the authors of Persian criticised the Delhi Sultans for
+Slaves and clients were loyal to their masters and patrons, but not to their heirs. Sultans had their own servants. As a result the accession of a new monarch The patronage of these humble people by the Delhi Sultans also shocked many elites and the authors of Persian criticised the Delhi Sultans for Sultan Muhammad Tughluq appointed Aziz Khummar, a wine distiller, Firuz Hajjam, a barber, Manka Tabbakh, a cook, and two gardeners, Ladha and Pira, to high administrative posts. Ziyauddin Barani, a mid-fourteenth-century chronicler, reported their appointments as a sign of the Sultan’s loss of political judgement and his incapacity to rule.
 
 ### Officials of Sultan Muhammad Tughluq
-
-Sultan Muhammad Tughluq appointed Aziz Khummar, a wine distiller, Firuz Hajjam, a barber, Manka Tabbakh, a cook, and two gardeners, Ladha and Pira, to high administrative posts. Ziyauddin Barani, a mid-fourteenth-century chronicler, reported their appointments as a sign of the Sultan’s loss of political judgement and his incapacity to rule.
 
 Why do you think Barani criticised the Sultan?
 
@@ -172,13 +170,9 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 
 6. What is meant by the “internal” and “external” frontiers KEYWORDS
 
-7. What were the steps taken to ensure that performed their duties? Why do you think they may
+7. What were the steps taken to ensure that performed their duties? Why do you think they may garrison Do you think the authors of would provide information about the lives of ordinary men and women?
 
 ### Let’s discuss
-
-garrison
-
-Do you think the authors of would provide information about the lives of ordinary men and women?
 
 Mongols gender more readily today?
 

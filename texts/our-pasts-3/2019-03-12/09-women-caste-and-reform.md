@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch03.pdf"
 source_sha256: "b6da3bc354ec93f325e48339bab8bedab3e407b3723586473c6f2a587c6fdd76"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "49dd15b52268dda5100b23f21d253e95b51268c8eee4c138dc8342daf848fc26"
+body_fingerprint: "a869e327af1031386bffbb01fc74fcd1c6c8bb063bb81d2071ee2816b5f92a4c"
 ---
 
 <!-- page 108 (pdf 1) -->
@@ -180,13 +180,11 @@ Demands for equality and justice Gradually, by the second half of the nineteenth
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
-All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru 2018-19
+All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru 2018-19 One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 <!-- page 117 (pdf 10) -->
 
 ### Gulamgiri
-
-One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 > [caption] Fig. 13 – Jyotirao Phule
 

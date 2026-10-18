@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch07.pdf"
 source_sha256: "80c2022b9e949f14fcf7b33582c56bcc6de0e793b3ffdaec6a2174a61072aee6"
 pdf_pages: 13
 printed_pages: "81-93"
-body_fingerprint: "8039cbd4a6e350f1faac134d9264207eaed1b1b1e8d6c251b10d0e761814228b"
+body_fingerprint: "718eca4dcfc91fab5b7c3a599259cda7b1edf98260cf792054d30585df32cb72"
 ---
 
 <!-- page 81 (pdf 1) -->
@@ -55,11 +55,9 @@ Madrasa – An Arabic word for a place of learning; any type of school or colleg
 
 > [table] This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
-Orientalists – Those with a scholarly knowledge of the language and culture of Asia
+Orientalists – Those with a scholarly knowledge of the language and culture of Asia From the early nineteenth century many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
 
 ### “Grave errors of the East”
-
-From the early nineteenth century many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
 
 Munshi – A person who can read, write and teach Persian Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
 
