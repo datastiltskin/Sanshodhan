@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch02.pdf"
 source_sha256: "98a61eaa644ea21518471512cc6761853f75c0923bec62e5ea16e0ac129df081"
 pdf_pages: 13
 printed_pages: "95-107"
-body_fingerprint: "57b1bdbc581a81b4f1f0a654ec863dc2c5fb61f1ac85b0f51b69dd0d8429d805"
+body_fingerprint: "aae6d0c2dc687f265f8b9d435a0cfbe5accdc9164d44897ac4c44797371c62ca"
 ---
 
 <!-- page 95 (pdf 1) -->
@@ -141,7 +141,7 @@ Adam discovered that this flexible system was suited to local needs. For instanc
 
 <!-- page 102 (pdf 8) -->
 
-New routines, new rules Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854 the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
+hNew routines, new rules Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854 the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
 
 Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
 

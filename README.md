@@ -20,7 +20,8 @@ India and Beyond", and Class 8 "Our Pasts III". English editions only for now.
 
 ## Running it
 
-Needs [uv](https://docs.astral.sh/uv/).
+Needs [uv](https://docs.astral.sh/uv/), curl, and, for the rasterised 2022-23 printing,
+[tesseract](https://github.com/tesseract-ocr/tesseract) with English data (`brew install tesseract`).
 
 ```sh
 uv sync

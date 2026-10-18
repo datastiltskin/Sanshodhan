@@ -33,6 +33,16 @@ books:
       # Same digest is served through 2025 and 2026 captures.
       - { label: "2024-05-24", wayback: "20240524024822", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      # No whole-book zip survives for the 2016-17 to 2018-19 printings (the 2019-03-12 zip
+      # turned out to hold other books). These are the only per-chapter captures from those
+      # years. "partial" snapshots form partial editions and are compared chapter by chapter.
+      - { label: "2017-partial", wayback: "20170516190845", url: "http://ncert.nic.in/ncerts/l/gess101.pdf" }
+      - { label: "2017-partial", wayback: "20170712000000", url: "http://ncert.nic.in/ncerts/l/gess105.pdf" }
+      - { label: "2017-partial", wayback: "20180516000000", url: "http://ncert.nic.in/ncerts/l/gess109.pdf" }
+      - { label: "2018-partial", wayback: "20180827000000", url: "https://ncert.nic.in/textbook/pdf/gess101.pdf" }
+      - { label: "2018-partial", wayback: "20180827000000", url: "https://ncert.nic.in/textbook/pdf/gess103.pdf" }
+      - { label: "2018-partial", wayback: "20181123000000", url: "https://ncert.nic.in/textbook/pdf/gess104.pdf" }
+      - { label: "2018-partial", wayback: "20181123000000", url: "https://ncert.nic.in/textbook/pdf/gess109.pdf" }
 
   our-pasts-3:
     class: 8

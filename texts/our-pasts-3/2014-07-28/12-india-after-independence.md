@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch06.pdf"
 source_sha256: "b983a28bfc030939e289043f4b3d81994d9a1438e54214e487fbe4ff1e207cf5"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "040f93a06f9992705531a55e1d9aa1b37c3b709ad95e0b55d73e7178d3ce2e37"
+body_fingerprint: "66201d45b1b33a673e9049b197093d3b3d5e6c500e0d18dcc731ca56a4d2bf32"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -27,7 +27,7 @@ When India became independent in August 1947, it faced a series of very great ch
 
 <!-- page 161 (pdf 2) -->
 
-India’s population in 1947 was large, almost 345 million. It was also divided. There were divisions between high castes and low castes, between the majority Hindu community and Indians who practised other faiths. The citizens of this vast land spoke many different languages, wore many different kinds of dress, ate different kinds of food and practised different professions. How could they be made to live together in one nation-state?
+hIndia’s population in 1947 was large, almost 345 million. It was also divided. There were divisions between high castes and low castes, between the majority Hindu community and Indians who practised other faiths. The citizens of this vast land spoke many different languages, wore many different kinds of dress, ate different kinds of food and practised different professions. How could they be made to live together in one nation-state?
 
 Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
 
@@ -65,7 +65,7 @@ Nehru wrote in a letter to the Chief Ministers of states:
 
 We were suppressed for thousands of years. You engaged us in your service to serve your own ends and suppressed us to such an extent that neither our minds nor our bodies and nor even our hearts work, nor are we able to march forward. Along with the former Untouchables, the adivasis or Scheduled Tribes were also granted reservation in seats and jobs. Like the Scheduled Castes, these Indians too had been deprived and discriminated against. The tribals had been deprived of modern health care and education, while their lands and forests had been taken away by more powerful outsiders. The new privileges granted them by the Constitution were meant to make amends for this.
 
-Activity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
+hActivity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
 
 The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that
 
@@ -81,7 +81,7 @@ Another major debate in the Constituent Assembly concerned language. Many member
 
 > [table] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
 
-Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
+Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was hActivity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
 going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
@@ -115,7 +115,7 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 > [caption] Fig. 5 (b) – Indian States before 1 November 1956
 
-Activity
+hActivity
 
 Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear in 5 (b). Identify the new states that were formed in 1956 and later and the languages of these states.
 
@@ -157,7 +157,7 @@ Prime Minister Jawaharlal Nehru was a great supporter of the planning process. H
 
 Some felt that it had put inadequate emphasis on agriculture. Others argued that it had neglected primary education. Still others believed that it had not taken account of the environmental implications of economic policies. As Mahatma Gandhi’s follower Mira Behn wrote in 1949, by “science and machinery he [mankind] may get huge returns for a time, but ultimately will come desolation. We have got to study Nature’s balance, and develop our lives within her laws, if we are to survive as a physically healthy and morally decent species.”
 
-Activity
+hActivity
 
 Discuss in your class whether Mira Behn was right in her view that science and machinery would create problems for human beings. You may like to think about examples of the effects of industrial pollution and de-forestation on the world today.
 

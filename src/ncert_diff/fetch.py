@@ -195,12 +195,12 @@ def fetch_snapshot(book: Book, snap: Snapshot, *, log=print) -> list[FileRecord]
     records: list[FileRecord] = []
     now = datetime.now(timezone.utc).isoformat(timespec="seconds")
 
-    def record(path: Path, url: str, members: list[str] | None = None) -> None:
+    def record(path: Path, url: str, members: list[str] | None = None, download_url: str | None = None) -> None:
         records.append(
             FileRecord(
                 path=str(path.relative_to(PDF_DIR.parent)),
                 source_url=url,
-                download_url=snap.download_url if url == snap.url else url,
+                download_url=download_url or (snap.download_url if url == snap.url else url),
                 wayback=snap.wayback,
                 fetched_at=now,
                 sha256=sha256_of(path),
@@ -219,7 +219,9 @@ def fetch_snapshot(book: Book, snap: Snapshot, *, log=print) -> list[FileRecord]
         members = unzip_book(zip_path, code, snap.part, log=log)
         record(zip_path, snap.url, members)
         for member in members:
-            record(PDF_DIR.parent / member, f"{snap.url}#{Path(member).name}")
+            # A member's provenance is the zip it came out of: the archived copy when there is one.
+            name = Path(member).name
+            record(PDF_DIR.parent / member, f"{snap.url}#{name}", download_url=f"{snap.download_url}#{name}")
         return records
 
     target = directory / (readable_member_name(snap.url.rsplit("/", 1)[-1], code, snap.part) or "file.pdf")

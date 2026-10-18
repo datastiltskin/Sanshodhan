@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf"
 source_sha256: "b08a9af74359a5edfc940ed5022dcf2faeaaa194584af724defea4c909406e1c"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "b024d017e33fce47d3bb901f92b6230311c5c58d5d195e0952bad7337de4734d"
+body_fingerprint: "48615f547f2247fcfbb67e394a5d8d4cd4446dc9980581b11142ca719d19fad4"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -69,7 +69,7 @@ There were other cloths in the order book that were noted by their place of orig
 
 ### Indian textiles in European markets
 
-Activity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
+hActivity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
 
 By the early eighteenth century, worried by the popularity of Indian textiles, wool and silk makers in England began protesting against the import of Indian cotton textiles. In 1720, the British government enacted a legislation banning the use of printed cotton textiles – chintz – in England. Interestingly, this Act was known as the Calico Act.
 
@@ -149,7 +149,7 @@ But worse was still to come. By the 1830s British cotton cloth flooded Indian ma
 
 Handloom weaving did not completely die in India. This was because some types of cloths could not be supplied by machines. How could machines produce saris with intricate borders or cloths with traditional woven patterns? These had a wide demand not only amongst the rich but also amongst the middle classes. Nor did the textile manufacturers in Britain produce the very coarse cloths used by the poor people in India.
 
-Activity Read Sources 1 and 2. What reasons do the petition writers give for their condition of starvation?
+hActivity Read Sources 1 and 2. What reasons do the petition writers give for their condition of starvation?
 
 <!-- page 87 (pdf 9) -->
 
@@ -171,7 +171,7 @@ In the first few decades of its existence, the textile factory industry in India
 
 The sword of Tipu Sultan and Wootz steel We begin the story of Indian steel and iron metallurgy by recounting the famous story of Tipu Sultan who ruled Mysore till 1799, fought four wars with the British and died fighting with his sword in his hand. Tipu’s legendary swords are now part of valuable collections in museums in England. But do you know why the sword was so special? The sword had an incredibly hard and sharp edge that could easily rip through the opponent’s armour. This quality of the sword came from a special type of high carbon steel called Wootz which was produced all over south India. Wootz steel when made into swords produced a very sharp edge with a flowing water pattern. This pattern came from very small carbon crystals embedded in the iron.
 
-Francis Buchanan who toured through Mysore in 1800, a year after Tipu Sultan’s death, has left us an account of the technique by which Wootz steel was produced in many hundreds of smelting furnaces in Mysore. In these furnaces, iron was mixed with charcoal and put inside small clay pots. Through an intricate control of temperatures the smelters produced steel ingots that were used for sword making not just in India but in West and Central Asia too. Wootz is an anglicised version of the Kannada word ukku, Telugu hukku and Tamil and Malayalam urukku – meaning steel.
+Francis Buchanan who toured through Mysore in 1800, a year after Tipu Sultan’s death, has left us an account of the technique by which Wootz steel was produced in many hundreds of smelting furnaces in Mysore. In these furnaces, iron was mixed with charcoal and put inside small clay pots. Through an intricate control of temperatures the smelters produced steel ingots that were used for sword making not just in India but in West and Central Asia too. Wootz is an anglicised hversion of the Kannada word ukku, Telugu hukku and Tamil and Malayalam urukku – meaning steel.
 
 > [table] Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
 

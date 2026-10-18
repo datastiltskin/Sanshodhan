@@ -4,6 +4,7 @@ book_title: "Our Pasts II"
 edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
+  - "2017-partial"
 chapter: 10
 title: "EIGHTEENTH-CENTURY POLITICAL FORMATIONS"
 source_pdf: "pdfs/our-pasts-2/2016-09-10/ch10.pdf"

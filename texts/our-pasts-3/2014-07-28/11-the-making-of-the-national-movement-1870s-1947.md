@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch05.pdf"
 source_sha256: "fdd92995781d3f9c5afc0e9aaa8f0fbac10abcc16aaa2f7475c4028ea86ccd90"
 pdf_pages: 19
 printed_pages: "141-159"
-body_fingerprint: "848917126fe0b52c2ed20326bd58c07bf9868b299d8458400c47ebec3055caac"
+body_fingerprint: "a747471f66706b19faf828c6d35d67c33cb42cd85236b16aa2b013ac986beb1a"
 ---
 
 <!-- page 141 (pdf 1) -->
@@ -81,7 +81,7 @@ this Congress is composed of the representatives, not of any one class or commun
 
 It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose it called for civil service examinations to be held in India as well, not just in London.
 
-Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
+hActivity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
 
 The demand for Indianisation of the administration was part of a movement against racisim, since most important jobs at the time were monopolised by white officials, and the British generally assumed that Indians could not be given positions of responsibility. Since British officers were sending a major part of their large salaries home, Indianisation, it was hoped, would also reduce the drain of wealth to England. Other demands included the separation of the judiciary from the executive, the repeal of the Arms Act and the freedom of speech and expression.
 
@@ -99,7 +99,7 @@ Pherozeshah is nowadays too busy with his personal work … They are already ric
 
 The Moderate leaders wanted to develop public awareness about the unjust nature of British rule. They published newspapers, wrote articles, and showed how British rule was leading to the economic ruin of the country. They criticised British rule in their speeches and sent representatives to different parts of the country to mobilise public opinion. They felt that the British had respect for the ideals of freedom and justice, and so they would accept the just demands of Indians. What was necessary, therefore, was to express these demands, and make the government aware of the feelings of Indians.
 
-“Freedom is our birthright” By the 1890s many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
+h“Freedom is our birthright” By the 1890s many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
 
 Activity What problems regarding the early Congress does this comment highlight?
 
@@ -129,7 +129,7 @@ Revolutionary violence The use of violence to make a radical change within socie
 
 After 1919 the struggle against British rule gradually became a mass movement, involving peasants, tribals, students and women in large numbers and occasionally factory workers as well. Certain business groups too began to actively support the Congress in the 1920s. Why was this so?
 
-Council – An appointed or elected body of people with an administrative, advisory or representative function The First World War altered the economic and political situation in India. It led to a huge rise in the defence expenditure of the Government of India. The government in turn increased taxes on individual incomes and business profits. Increased military expenditure and the demands for war supplies led to a sharp rise in prices which created great difficulties for the common people. On the other hand, business groups reaped fabulous profits from the war. As you have seen (Chapter 7), the war created a demand for industrial goods (jute bags, cloth, rails) and caused a decline of imports from other countries into India. So Activity Find out which countries fought the First World War.
+Council – An appointed or elected body of people with an administrative, advisory or representative function The First World War altered the economic and political situation in India. It led to a huge rise in the defence expenditure of the Government of India. The government in turn increased taxes on individual incomes and business profits. Increased military expenditure and the demands for war supplies led to a sharp rise in prices which created great difficulties for the common people. On the other hand, business groups reaped fabulous profits from the war. As you have seen (Chapter 7), the war created a demand for industrial goods (jute bags, cloth, rails) and caused a decline of imports from other countries into India. So hActivity Find out which countries fought the First World War.
 
 <!-- page 147 (pdf 7) -->
 
@@ -153,7 +153,7 @@ Let us now focus in some detail on the movements organised between 1919 and 1922
 
 The Rowlatt Satyagraha In 1919 Gandhiji gave a call for a satyagraha against the Rowlatt Act that the British had just passed. The Act curbed fundamental rights such as the freedom of expression and strengthened police powers. Mahatma Gandhi, Mohammad Ali Jinnah and others felt that the government had no right to restrict people’s basic freedoms. They criticised the Act as “devilish” and tyrannical. Gandhiji asked the Indian people to observe 6 April 1919 as a day of non-violent opposition to this Act, as a day of “humiliation and prayer” and hartal (strike). Satyagraha Sabhas were set up to launch the movement.
 
-Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
+hActivity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
 > [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
 
@@ -215,7 +215,7 @@ The following is an extract from a CID report on the kisan movement in Allahabad
 
 The currency which Mr. Gandhi’s name has acquired even in the remotest villages is astonishing. No one seems to know quite who or what he is, but it is an accepted fact that what he says is so, and what he orders must be done. He is a Mahatma or sadhu, a Pundit, a Brahmin who lives at Allahabad, even a deota … the real power of his name is to be traced back to the idea that it was he who got bedakhli [illegal eviction] stopped in Pratapgarh … as a general rule, Gandhi is not thought of as being antagonistic to Government, but only to the zamindars … We are for Gandhiji and the Sarkar.
 
-Activity Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
+hActivity Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
 
 The happenings of 1922-1929 Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922 a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
 

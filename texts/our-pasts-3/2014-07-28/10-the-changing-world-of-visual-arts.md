@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch04.pdf"
 source_sha256: "859777d342dfd1aa2e7027d92a85e630916de485540d32aa0f735d7e52e3f8d7"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "d8752c416840d7ad4ea09eb9ee0581acd84b0c6628ace1200bb40fbebf2a90b1"
+body_fingerprint: "d7edf500385e3921daba1d8b7cd6e6903d2e82b492be21c0d18e14f6366b9d03"
 ---
 
 <!-- page 123 (pdf 1) -->
@@ -67,7 +67,7 @@ Portrait – A picture of a person in which the face and its expression is promi
 
 > [table] Thomas Dashwood was married to Charlotte Lousia Aurial. Here you see them entertaining their friends and relatives. Notice the various servants serving tea.
 
-Activity
+hActivity
 
 Look at Figs. 4 and 5. 1. In what ways are the Indians depicted as inferior? 2. Notice the clothes the British are wearing. What do they convey to you?
 
@@ -99,7 +99,7 @@ Imperial history paintings sought to create a public memory of imperial triumphs
 
 > [table] Look at the way General Baird, who led the British army that stormed Tipu’s fort, is shown standing triumphantly in the middle. The lantern lights up Baird, making him visible to the spectator. Tipu lies dead (left corner), his body hidden in semi-darkness. His forces are defeated, his royal clothes torn and stripped off. The painting seems to announce: this is the fate of those who dare to oppose the British.
 
-Activity
+hActivity
 
 Look at Fig. 9 David Wilkie was commissioned by David Baird’s wife to paint this picture. Why do you think she wanted such a picture painted?
 
@@ -115,7 +115,7 @@ What happened to artists who earlier painted miniatures? How did the painters at
 
 We can see different trends in different courts. In Mysore, Tipu Sultan not only fought the British on the battlefield but also resisted the cultural traditions associated with them. He continued to encourage local traditions, and had the walls of his palace at Seringapatam covered with mural paintings done by local artists. Fig. 10 shows you one of these. This painting celebrates the famous battle of Polilur of 1780 in which Tipu and Haidar Ali defeated the English troops.
 
-Activity
+hActivity
 
 Compare Figs. 8 and 10. 1. What similarities and differences do you see in the themes of the paintings? 2. If you were a nawab fighting the British, which battle scenes would you ask the artists to paint – the ones you lost or the ones you won? 3. Do you think that the mural in Fig. 10 is realistic?
 
@@ -223,7 +223,7 @@ The art of Raja Ravi Varma Raja Ravi Varma was one of the first artists who trie
 
 Responding to the huge popular appeal of such paintings, Ravi Varma decided to set up a picture production team and printing press on the outskirts of Bombay. Here colour prints of his religious paintings were mass produced. Even the poor could now buy these cheap prints.
 
-A different vision of national art In Bengal, a new group of nationalist artists gathered around Abanindranath Tagore (1871-1951), the nephew of Rabindranath Tagore. They rejected the art of Ravi Varma as imitative and westernised, and declared that such a style was unsuitable for depicting the nation’s ancient myths and legends. They felt that a genuine Indian style of painting had to draw inspiration from non-Western art traditions, and try to capture the spiritual essence of the East. So they broke away from the convention of oil painting and the realistic style, and turned for inspiration to medieval Indian traditions of miniature painting and the ancient art of mural Activity Look at Fig.25 along with the images of Indian miniatures you saw in the History book of Class VII. Can you identify some of the elements of similarity between them? Look for differences too.
+A different vision of national art In Bengal, a new group of nationalist artists gathered around Abanindranath Tagore (1871-1951), the nephew of Rabindranath Tagore. They rejected the art of Ravi Varma as imitative and westernised, and declared that such a style was unsuitable for depicting the nation’s ancient myths and legends. They felt that a genuine Indian style of painting had to draw inspiration from non-Western art traditions, and try to capture the spiritual essence of the East. So they broke away from the convention of oil painting and the realistic style, and turned for inspiration to medieval Indian traditions of miniature painting and the ancient art of mural hActivity Look at Fig.25 along with the images of Indian miniatures you saw in the History book of Class VII. Can you identify some of the elements of similarity between them? Look for differences too.
 
 > [caption] Fig. 24 – Krishna Sandhan, by Raja Ravi Varma
 

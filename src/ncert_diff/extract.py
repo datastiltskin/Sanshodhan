@@ -196,7 +196,13 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
             b.role = "chapter-number"
             continue
         if b.size >= body_size + 2.5:
-            b.role = "h2" if sum(ch.isalpha() for ch in b.text) >= 2 else "decoration"
+            letters = sum(ch.isalpha() for ch in b.text)
+            if letters >= 2:
+                b.role = "h2"
+            elif letters == 1 and len(b.text) == 1:
+                b.role = "dropcap"  # OCR sees the drop cap as an oversized one-letter paragraph
+            else:
+                b.role = "decoration"
             continue
         if b.bold and b.size >= body_size + 0.8:
             b.role = "h3"

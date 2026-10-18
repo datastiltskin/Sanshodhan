@@ -4,6 +4,7 @@ book_title: "Our Pasts II"
 edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
+  - "2017-partial"
 chapter: 2
 title: "NEW KINGS AND KINGDOMS"
 source_pdf: "pdfs/our-pasts-2/2016-09-10/ch02.pdf"

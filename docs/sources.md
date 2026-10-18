@@ -59,12 +59,22 @@ Whole-book zips with distinct content (these are what `sources.yaml` lists):
 
 What the downloaded zips turned out to contain:
 
-- Our Pasts II 2019-03-12: not chapter files but one whole-book PDF (`gess1dd.pdf`, the
-  2018-19 edition) plus two cover files and a stray civics chapter. The whole-book PDF is
-  corrupt as archived (PyMuPDF and poppler both see zero pages). The 2018-19 text is therefore
-  still missing. The per-chapter captures from 2018 may fill it later.
-- Our Pasts II 2022-08-04: the chapter PDFs are rasterised. The only text in them is the
-  "2022-23" footer. This edition (the November 2021 reprint) needs OCR before it can be diffed.
+- Our Pasts II 2019-03-12: NCERT's own packaging error, faithfully archived (the file sizes
+  match the archive's records, so this is not a bad download). The zip holds no chapter
+  files. Its `gess1dd.pdf` is itself a zip with the wrong extension, containing two cover
+  images, the 2018-19 prelims (`gess1ps.pdf`, reused as `2018-partial/prelims.pdf`), and the
+  whole Social and Political Life II civics book misnamed `gess301.pdf`.
+- Our Pasts II 2017-partial and 2018-partial: the only per-chapter captures between the 2016
+  and 2019 zips (three on the old path from 2017-18, four on the new path from 2018). Their
+  text is identical, chapter for chapter, to the 2013-reprint edition and the 2019 edition
+  respectively, so no printing is missing from the lineage: the "January 2019" edition is the
+  text NCERT introduced with the December 2017 reprint.
+- Our Pasts II 2022-08-04: the chapter PDFs are rasterised at 292 dpi. The only text in them
+  is the "2022-23" footer. This printing (November 2021) is read with tesseract and kept as
+  its own edition with an `-ocr` suffix. Word confidence is around 92 percent. A sentence-level
+  fuzzy comparison against the 2019 edition found no changed sentences: every difference is
+  an OCR split, a heading, or a fill-in-the-blank line. Chapter 10, the one file with a text
+  layer, is byte-for-byte the 2019 text.
 - Our Pasts III 2014 to 2019: two zips per year, `hess1dd.zip` (Part 1, chapters 1 to 6) and
   `hess2dd.zip` (Part 2, chapters 7 to 12, numbered 01 to 06 inside the files). From 2020 the
   book is one volume under `hess2`, with 10 chapters, then 8 after rationalisation.

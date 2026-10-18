@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf"
 source_sha256: "e6f9b0341a8d44a54b5dc123b888d147f979c15375bedff9bc68c724b8e9e36f"
 pdf_pages: 22
 printed_pages: "145-166"
-body_fingerprint: "ca7140f61b255423f69212233cae489a8da6284aeb908c039432915c3dfadc45"
+body_fingerprint: "f644b4e615b611c3bb51ac52a075d213dd03f83cac13d3104bc3d7fe93035e06"
 ---
 
 <!-- page 145 (pdf 1) -->
@@ -60,7 +60,7 @@ Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom
 
 <!-- page 147 (pdf 3) -->
 
-Bhavisha: My head is spinning. There are so many kingdoms and empires. How am I ever going to remember all of this?
+EBhavisha: My head is spinning. There are so many kingdoms and empires. How am I ever going to remember all of this?
 
 Dhruv: Do not worry, Bhavisha! Let us understand what is happening, and we’ll remember it.
 

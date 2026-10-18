@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "aa6d48e9537ff7949b5cdf8c2b280d65c02eeca725b973c37feb5ba68b60be14",
+      "fingerprint": "b3ce5699deb052b53eaf45b2c39bb99f0c2ea42ab8a60a295e4ea73170ab2495",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -33,6 +33,7 @@
         }
       },
       "chapter_count": 20,
+      "ocr": false,
       "chapters": [
         {
           "part": 1,
@@ -51,6 +52,8 @@
             "h3": 21,
             "note": 2
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-01-geographical-diversity-of-india.md"
         },
         {
@@ -70,6 +73,8 @@
             "h3": 17,
             "table": 42
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-02-understanding-the-weather.md"
         },
         {
@@ -89,6 +94,8 @@
             "h3": 12,
             "table": 27
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-03-climates-of-india.md"
         },
         {
@@ -108,6 +115,8 @@
             "footer": 31,
             "h3": 8
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-04-new-beginnings-cities-and-states.md"
         },
         {
@@ -127,6 +136,8 @@
             "table": 35,
             "h3": 18
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-05-the-rise-of-empires.md"
         },
         {
@@ -147,6 +158,8 @@
             "note": 1,
             "table": 1
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-06-the-age-of-reorganisation.md"
         },
         {
@@ -156,17 +169,19 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf",
           "pdf_pages": 22,
           "printed_pages": "145-166",
-          "fingerprint": "ca7140f61b255423f69212233cae489a8da6284aeb908c039432915c3dfadc45",
+          "fingerprint": "f644b4e615b611c3bb51ac52a075d213dd03f83cac13d3104bc3d7fe93035e06",
           "role_counts": {
             "footer": 46,
             "body": 87,
             "h2": 15,
             "chapter-number": 1,
             "caption": 89,
-            "decoration": 2,
+            "dropcap": 2,
             "h3": 11,
             "table": 1
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-07-the-gupta-era-an-age-of-tireless-creativity.md"
         },
         {
@@ -185,6 +200,8 @@
             "caption": 43,
             "h3": 9
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-08-how-the-land-becomes-sacred.md"
         },
         {
@@ -204,6 +221,8 @@
             "caption": 51,
             "h3": 12
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-09-from-the-rulers-to-the-ruled-types-of-government.md"
         },
         {
@@ -224,6 +243,8 @@
             "h3": 14,
             "table": 55
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-10-the-constitution-of-india-an-introduction.md"
         },
         {
@@ -242,6 +263,8 @@
             "caption": 97,
             "h3": 20
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-11-from-barter-to-money.md"
         },
         {
@@ -262,6 +285,8 @@
             "table": 21,
             "note": 1
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-12-understanding-markets.md"
         },
         {
@@ -281,6 +306,8 @@
             "h3": 22,
             "table": 22
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-01-the-story-of-indian-farming.md"
         },
         {
@@ -300,6 +327,8 @@
             "caption": 131,
             "h3": 18
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-02-india-and-her-neighbours.md"
         },
         {
@@ -319,6 +348,8 @@
             "h3": 23,
             "table": 1
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-03-empires-and-kingdoms-6th-to-10th-centuries.md"
         },
         {
@@ -338,6 +369,8 @@
             "table": 2,
             "h3": 13
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-04-turning-tides-11th-and-12th-centuries.md"
         },
         {
@@ -357,6 +390,8 @@
             "h3": 10,
             "caption": 44
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-05-india-a-home-to-many.md"
         },
         {
@@ -376,6 +411,8 @@
             "h3": 12,
             "table": 47
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-06-the-state-the-government-and-you.md"
         },
         {
@@ -395,6 +432,8 @@
             "h3": 9,
             "table": 23
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-07-infrastructure-engine-of-indias-development.md"
         },
         {
@@ -415,6 +454,8 @@
             "h3": 7,
             "table": 37
           },
+          "ocr": false,
+          "ocr_confidence": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-08-banks-and-the-magic-of-finance.md"
         }
       ]

@@ -6,6 +6,7 @@ snapshots:
   - "2019-05-04"
   - "2020-06-16"
   - "2021-08-13"
+  - "2018-partial"
 chapter: 7
 title: "TRIBES, NOMADS AND SETTLED COMMUNITIES"
 source_pdf: "pdfs/our-pasts-2/2019-05-04/ch07.pdf"

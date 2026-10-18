@@ -49,6 +49,17 @@ Dropped entirely: running footers (page number, book or chapter name, "Rationali
 the rotated "©NCERT not to be republished" watermark in older files, and the chapter number
 glyph. InDesign slug lines sit outside the page crop box and never reach the text layer.
 
+## OCR editions
+
+Snapshots without a text layer are read with tesseract (`src/ncert_diff/ocr.py`). Pages are
+rendered at 300 dpi, tesseract's TSV word boxes are grouped into its paragraphs, and those
+become the same blocks the normal path classifies. Font sizes are estimated from line
+heights, so roles are rougher: captions sometimes land as `[table]`, and paragraph breaks
+follow tesseract's segmentation rather than the typesetter's. Such editions carry `-ocr` in
+their id, `ocr: true` and an `ocr_confidence` in the front matter, and the raw tesseract
+output is cached under `pdfs/<book>/<snapshot>/ocr/`. Treat word-level differences against an
+OCR edition with suspicion until they are checked against the page image.
+
 ## Known limits
 
 - Consecutive printings that were re-typeset (2023-24 to 2024-25, 2014 to 2019 for Class 8)

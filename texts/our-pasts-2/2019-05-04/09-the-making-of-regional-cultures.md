@@ -6,6 +6,7 @@ snapshots:
   - "2019-05-04"
   - "2020-06-16"
   - "2021-08-13"
+  - "2018-partial"
 chapter: 9
 title: "THE MAKING OF REGIONAL CULTURES"
 source_pdf: "pdfs/our-pasts-2/2019-05-04/ch09.pdf"

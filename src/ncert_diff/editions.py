@@ -17,6 +17,7 @@ import pymupdf
 
 from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
+from . import ocr
 from .extract import body_text, extract_chapter, extract_whole_book, has_text_layer
 from .fetch import load_manifest
 from .sources import Book
@@ -125,10 +126,49 @@ def _front_matter(fields: dict) -> str:
     return "\n".join(lines) + "\n\n"
 
 
-def edition_id(label: str, prelims: Prelims | None) -> str:
+_WORD = re.compile(r"[a-z’'-]+")
+
+
+def _corpus(extracted: dict[str, dict]) -> tuple[set[str], set[tuple[str, str]]]:
+    """Words and word pairs used by the born-digital editions of a book."""
+    vocab: set[str] = set()
+    bigrams: set[tuple[str, str]] = set()
+    for info in extracted.values():
+        for ch in info["chapters"]:
+            if ch.get("ocr"):
+                continue
+            for para in body_text(ch["markdown"]).splitlines():
+                words = _WORD.findall(para.lower())
+                vocab.update(words)
+                bigrams.update(zip(words, words[1:]))
+    return vocab, bigrams
+
+
+def restore_dropcap(markdown: str, vocab: set[str], bigrams: set[tuple[str, str]]) -> tuple[str, str | None]:
+    """Prepend the one capital letter that turns a lower-case opening word into a known word."""
+    lines = markdown.splitlines()
+    for i, line in enumerate(lines):
+        if not line or line.startswith(("<!--", "#", ">")):
+            continue
+        m = re.match(r"^([a-z’'-]+)\b\s*(\S*)", line)
+        if not m:
+            return markdown, None
+        stub, nxt = m.group(1), m.group(2).lower().strip(".,;:!?“”\"'")
+        found = [c for c in "abcdefghijklmnopqrstuvwxyz" if c + stub in vocab]
+        if len(found) > 1 and nxt:
+            found = [c for c in found if (c + stub, nxt) in bigrams] or found
+        if len(found) != 1:
+            return markdown, None
+        word = found[0].upper() + stub
+        lines[i] = word + line[len(stub):]
+        return "\n".join(lines) + ("\n" if markdown.endswith("\n") else ""), word
+    return markdown, None
+
+
+def edition_id(label: str, prelims: Prelims | None, ocr_used: bool = False) -> str:
     if prelims and prelims.rationalised:
-        return f"{label}-rationalised"
-    return label
+        label = f"{label}-rationalised"
+    return f"{label}-ocr" if ocr_used else label
 
 
 def process_book(book: Book, *, log=print) -> Path:
@@ -143,16 +183,21 @@ def process_book(book: Book, *, log=print) -> Path:
         chapters = []
         units: list[tuple[int | None, int | None, Path, tuple[str, dict]]] = []
         files = chapter_files(snap)
-        image_only = [pdf for _, _, pdf in files if not has_text_layer(pdf)]
-        if image_only:
-            log(f"  {len(image_only)} of {len(files)} chapter PDFs have no text layer (needs OCR), skipped")
-            skipped.append({"snapshot": label, "reason": "no text layer, needs OCR", "files": [str(p.relative_to(PDF_DIR.parent)) for p in image_only]})
+        image_only = {pdf for _, _, pdf in files if not has_text_layer(pdf)}
+        if image_only and not ocr.available():
+            log(f"  {len(image_only)} of {len(files)} chapter PDFs have no text layer and tesseract is missing, skipped")
+            skipped.append({"snapshot": label, "reason": "no text layer, needs OCR (tesseract not installed)", "files": sorted(str(p.relative_to(PDF_DIR.parent)) for p in image_only)})
             continue
+        if image_only:
+            log(f"  {len(image_only)} of {len(files)} chapter PDFs have no text layer, running OCR (slow)")
         toc: dict[int, str] = {}
         for pre in sorted(snap.glob("*prelims.pdf")):
             toc.update(contents_titles(pre))
         for part, file_number, pdf in files:
-            units.append((part, file_number, pdf, extract_chapter(pdf)))
+            if pdf in image_only:
+                units.append((part, file_number, pdf, ocr.extract_chapter_ocr(pdf)))
+            else:
+                units.append((part, file_number, pdf, extract_chapter(pdf)))
         if not units:
             for whole in sorted(snap.glob("*whole-book.pdf")):
                 m = re.match(r"^(?:part(\d)-)?whole-book\.pdf$", whole.name)
@@ -188,6 +233,8 @@ def process_book(book: Book, *, log=print) -> Path:
                     "fingerprint": _sha(body_text(md)),
                     "markdown": md,
                     "role_counts": meta["role_counts"],
+                    "ocr": meta.get("ocr", False),
+                    "ocr_confidence": meta.get("ocr_confidence"),
                 }
             )
         prelims_meta: dict[int | None, Prelims] = {}
@@ -202,6 +249,17 @@ def process_book(book: Book, *, log=print) -> Path:
         fingerprint = _sha("\n".join(c["fingerprint"] for c in chapters))
         extracted[label] = {"chapters": chapters, "prelims": prelims_meta, "fingerprint": fingerprint}
         log(f"  {len(chapters)} chapters, fingerprint {fingerprint[:12]}")
+
+    # OCR skips the ornamental drop cap, so an OCR'd chapter can open with "uling as large a
+    # territory". The missing letter is the one that makes a word the book itself uses.
+    vocab, bigrams = _corpus(extracted)
+    for info in extracted.values():
+        for ch in info["chapters"]:
+            if ch.get("ocr"):
+                ch["markdown"], fixed = restore_dropcap(ch["markdown"], vocab, bigrams)
+                if fixed:
+                    log(f"  drop cap restored in chapter {ch['number']}: {fixed}")
+                    ch["fingerprint"] = _sha(body_text(ch["markdown"]))
 
     # Titles lost to unmapped fonts: borrow from the nearest snapshot that has one.
     labels = sorted(extracted)
@@ -218,17 +276,39 @@ def process_book(book: Book, *, log=print) -> Path:
                     ch["title_borrowed_from"] = other
                     break
 
+    # A partial snapshot (a few per-chapter captures) belongs to the full edition whose
+    # chapters it matches one for one. It then adds its label as evidence and no texts.
+    full_count = max(len(info["chapters"]) for info in extracted.values())
+    folded: dict[str, str] = {}  # partial label -> full label
+    for label, info in extracted.items():
+        if len(info["chapters"]) >= full_count:
+            continue
+        mine = {(c["part"], c["number"]): c["fingerprint"] for c in info["chapters"]}
+        for other, oinfo in extracted.items():
+            if other == label or len(oinfo["chapters"]) < full_count:
+                continue
+            theirs = {(c["part"], c["number"]): c["fingerprint"] for c in oinfo["chapters"]}
+            if all(theirs.get(k) == v for k, v in mine.items()):
+                folded[label] = other
+                log(f"  {label}: all {len(mine)} chapters identical to {other}, folded in")
+                break
+
     # Group by fingerprint. The earliest snapshot names the edition.
     groups: dict[str, list[str]] = {}
     for label, info in extracted.items():
+        if label in folded:
+            continue
         groups.setdefault(info["fingerprint"], []).append(label)
+    for partial, full in folded.items():
+        groups[extracted[full]["fingerprint"]].append(partial)
 
     editions = []
     for fingerprint, labels in sorted(groups.items(), key=lambda kv: kv[1][0]):
         first = labels[0]
         info = extracted[first]
         prelims = info["prelims"].get(None) or next(iter(info["prelims"].values()), None)
-        eid = edition_id(first, prelims)
+        ocr_used = any(c.get("ocr") for c in info["chapters"])
+        eid = edition_id(first, prelims, ocr_used)
         out_dir = TEXTS_DIR / book.id / eid
         if out_dir.exists():
             for old in out_dir.glob("*.md"):
@@ -257,11 +337,13 @@ def process_book(book: Book, *, log=print) -> Path:
                     "pdf_pages": ch["pdf_pages"],
                     "printed_pages": ch["printed_pages"],
                     "body_fingerprint": ch["fingerprint"],
+                    "ocr": True if ch.get("ocr") else None,
+                    "ocr_confidence": ch.get("ocr_confidence") if ch.get("ocr") else None,
                 }
             )
             (out_dir / fname).write_text(fm + ch["markdown"], encoding="utf-8")
             chapter_records.append(
-                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts")}
+                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts", "ocr", "ocr_confidence")}
                 | ({"title_borrowed_from": ch["title_borrowed_from"]} if ch.get("title_borrowed_from") else {})
                 | {"file": str((out_dir / fname).relative_to(TEXTS_DIR.parent))}
             )
@@ -293,6 +375,7 @@ def process_book(book: Book, *, log=print) -> Path:
                     for k, v in info["prelims"].items()
                 },
                 "chapter_count": len(chapter_records),
+                "ocr": ocr_used,
                 "chapters": chapter_records,
             }
         )
