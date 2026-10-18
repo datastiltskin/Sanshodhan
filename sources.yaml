@@ -1,0 +1,73 @@
+# Every file the project downloads, hand-curated. This is the only place Wayback URLs live.
+#
+# Each snapshot is fetched exactly once. Wayback entries use the raw-file form
+#   http://web.archive.org/web/<wayback>id_/<url>
+# so the archive serves the original bytes without its toolbar. Entries without a
+# "wayback" key are fetched live from ncert.nic.in.
+#
+# NCERT file naming: <code><NN>.pdf is chapter NN, <code>ps.pdf is the prelims
+# (title pages, foreword, contents), <code>dd.zip is the whole book.
+#
+# Labels are capture dates (UTC) for Wayback snapshots and "live" for the current site.
+# The fetcher turns "live" into live-<today>.
+
+books:
+  our-pasts-2:
+    class: 7
+    subject: history
+    language: en
+    title: "Our Pasts II"
+    code: gess1
+    snapshots:
+      # ncerts/l era. The 2014 zip contains PDFs created in March/April 2007 (first edition text).
+      - { label: "2014-07-28", wayback: "20140728062605", url: "http://ncert.nic.in/ncerts/l/gess1dd.zip" }
+      - { label: "2016-09-10", wayback: "20160910135511", url: "http://ncert.nic.in/ncerts/l/gess1dd.zip" }
+      # textbook/pdf era.
+      - { label: "2019-03-12", wayback: "20190312171730", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504064921", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      - { label: "2020-06-16", wayback: "20200616105531", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      - { label: "2021-08-13", wayback: "20210813011729", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      - { label: "2022-08-04", wayback: "20220804013741", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      # Rationalised 2023-24: 8 chapters instead of 10.
+      - { label: "2023-12-23", wayback: "20231223073926", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      # Same digest is served through 2025 and 2026 captures.
+      - { label: "2024-05-24", wayback: "20240524024822", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+
+  our-pasts-3:
+    class: 8
+    subject: history
+    language: en
+    title: "Our Pasts III"
+    # Until 2019 the book was printed in two parts: hess1 (Part 1, chapters 1 to 6) and
+    # hess2 (Part 2, chapters 7 to 12). From 2020 hess2 is the whole book.
+    code: hess2
+    parts:
+      - { part: 1, code: hess1 }
+      - { part: 2, code: hess2, first_chapter: 7 }
+    snapshots:
+      - { label: "2014-07-28", part: 1, wayback: "20140728062312", url: "http://ncert.nic.in/ncerts/l/hess1dd.zip" }
+      - { label: "2014-07-28", part: 2, wayback: "20140728085943", url: "http://ncert.nic.in/ncerts/l/hess2dd.zip" }
+      - { label: "2016-09-10", part: 1, wayback: "20160910191819", url: "http://ncert.nic.in/ncerts/l/hess1dd.zip" }
+      - { label: "2016-09-10", part: 2, wayback: "20160910180101", url: "http://ncert.nic.in/ncerts/l/hess2dd.zip" }
+      - { label: "2019-03-12", part: 1, wayback: "20190312172034", url: "https://ncert.nic.in/textbook/pdf/hess1dd.zip" }
+      - { label: "2019-03-12", part: 2, wayback: "20190312130305", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "2020-10-15", wayback: "20201015205544", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "2021-08-14", wayback: "20210814231213", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "2022-08-02", wayback: "20220802182615", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223073402", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "2024-08-04", wayback: "20240804102308", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+
+  exploring-society-7:
+    class: 7
+    subject: social science
+    language: en
+    title: "Exploring Society: India and Beyond"
+    # Two parts, each with its own code. "part" is used in filenames.
+    parts:
+      - { part: 1, code: gees1 }
+      - { part: 2, code: gees2 }
+    snapshots:
+      - { label: "live", part: 1, url: "https://ncert.nic.in/textbook/pdf/gees1dd.zip" }
+      - { label: "live", part: 2, url: "https://ncert.nic.in/textbook/pdf/gees2dd.zip" }

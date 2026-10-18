@@ -1,0 +1,1158 @@
+{
+  "book": "our-pasts-2",
+  "title": "Our Pasts II",
+  "editions": [
+    {
+      "id": "2014-07-28",
+      "fingerprint": "011945c5a258ad6013aa679573498955af6515222f76bf9da9a7eea83ddde14b",
+      "snapshots": [
+        "2014-07-28"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "TRACING CHANGES THROUGH A THOUSAND YEARS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "43f307b68ca1f12aea00400b6fc81d4cafd656d1c73eb567c1a5b689a0c29233",
+          "role_counts": {
+            "footer": 23,
+            "dropcap": 1,
+            "body": 56,
+            "note": 24,
+            "chapter-number": 1,
+            "h2": 7,
+            "caption": 6,
+            "h3": 6,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2014-07-28/01-tracing-changes-through-a-thousand-years.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "NEW KINGS AND KINGDOMS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "0b0b24570335be12f6da0920cdf92e81b9611e3d68411d28d8a620b23a6af12c",
+          "role_counts": {
+            "footer": 22,
+            "dropcap": 1,
+            "body": 76,
+            "chapter-number": 1,
+            "caption": 7,
+            "note": 25,
+            "h2": 5,
+            "h3": 9,
+            "source": 4
+          },
+          "file": "texts/our-pasts-2/2014-07-28/02-new-kings-and-kingdoms.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "THE DELHI SULTANS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch03.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "30-44",
+          "fingerprint": "426c8e0d1aecc8b0ead4bdf833f53fc46b7ac6a0b2a61df9c75e4c2ee36f6b07",
+          "role_counts": {
+            "footer": 23,
+            "dropcap": 1,
+            "body": 79,
+            "chapter-number": 1,
+            "caption": 23,
+            "h2": 5,
+            "h3": 9,
+            "note": 17,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2014-07-28/03-the-delhi-sultans.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "THE CREATION OF AN EMPIRE: The Mughal Dynasty",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch04.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "45-59",
+          "fingerprint": "f372815e627118d045e7b84eae314c4ac5e9b3c1fb872215beec0567fd459635",
+          "role_counts": {
+            "footer": 23,
+            "dropcap": 1,
+            "body": 73,
+            "chapter-number": 1,
+            "h2": 11,
+            "caption": 11,
+            "note": 13,
+            "table": 15,
+            "h3": 8,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2014-07-28/04-the-creation-of-an-empire-the-mughal-dynasty.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "RULERS AND BUILDINGS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch05.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "60-74",
+          "fingerprint": "f15c50d4a972fdd8e9559873ca90011439808da1a2d1dc02202a937020a75217",
+          "role_counts": {
+            "footer": 24,
+            "dropcap": 1,
+            "body": 51,
+            "chapter-number": 1,
+            "caption": 42,
+            "h2": 5,
+            "note": 34,
+            "h3": 5,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2014-07-28/05-rulers-and-buildings.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "TOWNS, TRADERS AND CRAFTSPERSONS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "75-90",
+          "fingerprint": "69f5cac0cee1b218cf2330f3abdc52441bdfb16d22df7b0f4c7884d6c200f712",
+          "role_counts": {
+            "footer": 24,
+            "dropcap": 1,
+            "body": 79,
+            "chapter-number": 1,
+            "caption": 11,
+            "h2": 9,
+            "note": 22,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2014-07-28/06-towns-traders-and-craftspersons.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "91-103",
+          "fingerprint": "d26412704ea8191a63e2e3ccb7c8ffb87ba95d3166e2069789d092287142ad99",
+          "role_counts": {
+            "footer": 20,
+            "dropcap": 1,
+            "body": 86,
+            "h2": 7,
+            "chapter-number": 1,
+            "caption": 10,
+            "note": 11,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2014-07-28/07-tribes-nomads-and-settled-communities.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "DEVOTIONAL PATHS TO THE DIVINE",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch08.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "104-121",
+          "fingerprint": "462fe009b2ea15467909a6d48e1642d29a3513412aab41a04ef6ec7a40000ef4",
+          "role_counts": {
+            "footer": 27,
+            "dropcap": 1,
+            "body": 81,
+            "h2": 10,
+            "chapter-number": 1,
+            "note": 26,
+            "caption": 13,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2014-07-28/08-devotional-paths-to-the-divine.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "THE MAKING OF REGIONAL CULTURES",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "122-137",
+          "fingerprint": "b1876226dabdc168e206469fe92900610de4cd3734ce104705c83cf29327d443",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "note": 21,
+            "h2": 9,
+            "dropcap": 1,
+            "body": 64,
+            "caption": 16,
+            "h3": 3
+          },
+          "file": "texts/our-pasts-2/2014-07-28/09-the-making-of-regional-cultures.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "EIGHTEENTH-CENTURY POLITICAL FORMATIONS",
+          "pdf": "pdfs/our-pasts-2/2014-07-28/ch10.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "138-154",
+          "fingerprint": "fa3b4a554b3496b04bf4f81bb8f9caadf1293c24d6ff35b18a7c94be9e0e00d1",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "h2": 6,
+            "dropcap": 1,
+            "body": 89,
+            "caption": 10,
+            "note": 12,
+            "source": 5,
+            "h3": 3
+          },
+          "file": "texts/our-pasts-2/2014-07-28/10-eighteenth-century-political-formations.md"
+        }
+      ]
+    },
+    {
+      "id": "2016-09-10",
+      "fingerprint": "a73d8950299505b25a538a97959eee87afc0d68f7b0d636f8c88e6c057d6e82f",
+      "snapshots": [
+        "2016-09-10"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "April 2007",
+          "revised": null,
+          "reprints": [
+            "November 2007",
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "March 2012",
+            "October 2013"
+          ],
+          "latest_print": "October 2013",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "TRACING CHANGES THROUGH A THOUSAND YEARS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "79227b35f52ecc1d520125428f27102d14f007d273b273b07aaa1fb7373eb56f",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 70,
+            "note": 15,
+            "chapter-number": 1,
+            "h2": 7,
+            "caption": 6,
+            "h3": 4,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2016-09-10/01-tracing-changes-through-a-thousand-years.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "NEW KINGS AND KINGDOMS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "0b0b24570335be12f6da0920cdf92e81b9611e3d68411d28d8a620b23a6af12c",
+          "role_counts": {
+            "footer": 22,
+            "dropcap": 1,
+            "body": 76,
+            "chapter-number": 1,
+            "caption": 7,
+            "note": 25,
+            "h2": 5,
+            "h3": 9,
+            "source": 4
+          },
+          "file": "texts/our-pasts-2/2016-09-10/02-new-kings-and-kingdoms.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "THE DELHI SULTANS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch03.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "30-44",
+          "fingerprint": "426c8e0d1aecc8b0ead4bdf833f53fc46b7ac6a0b2a61df9c75e4c2ee36f6b07",
+          "role_counts": {
+            "footer": 23,
+            "dropcap": 1,
+            "body": 79,
+            "chapter-number": 1,
+            "caption": 23,
+            "h2": 5,
+            "h3": 9,
+            "note": 17,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2016-09-10/03-the-delhi-sultans.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "THE MUGHAL EMPIRE",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch04.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "45-59",
+          "fingerprint": "1e90559e2c4729f315d736848c42999c48979f92c899904e4fcca825b1e3a785",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 80,
+            "chapter-number": 1,
+            "caption": 11,
+            "h2": 10,
+            "note": 7,
+            "table": 18,
+            "h3": 4,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2016-09-10/04-the-mughal-empire.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "RULERS AND BUILDINGS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch05.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "60-74",
+          "fingerprint": "992c7daf6a5fc60f9aae10e7deae7fa34900ac1d081773db364b789c377ea3b2",
+          "role_counts": {
+            "footer": 37,
+            "dropcap": 1,
+            "body": 55,
+            "chapter-number": 1,
+            "caption": 44,
+            "h2": 5,
+            "note": 19,
+            "table": 10,
+            "decoration": 2,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2016-09-10/05-rulers-and-buildings.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "TOWNS, TRADERS AND CRAFTSPERSONS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "75-90",
+          "fingerprint": "69f5cac0cee1b218cf2330f3abdc52441bdfb16d22df7b0f4c7884d6c200f712",
+          "role_counts": {
+            "footer": 24,
+            "dropcap": 1,
+            "body": 79,
+            "chapter-number": 1,
+            "caption": 11,
+            "h2": 9,
+            "note": 22,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2016-09-10/06-towns-traders-and-craftspersons.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "91-103",
+          "fingerprint": "d26412704ea8191a63e2e3ccb7c8ffb87ba95d3166e2069789d092287142ad99",
+          "role_counts": {
+            "footer": 20,
+            "dropcap": 1,
+            "body": 86,
+            "h2": 7,
+            "chapter-number": 1,
+            "caption": 10,
+            "note": 11,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2016-09-10/07-tribes-nomads-and-settled-communities.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "DEVOTIONAL PATHS TO THE DIVINE",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch08.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "104-121",
+          "fingerprint": "462fe009b2ea15467909a6d48e1642d29a3513412aab41a04ef6ec7a40000ef4",
+          "role_counts": {
+            "footer": 27,
+            "dropcap": 1,
+            "body": 81,
+            "h2": 10,
+            "chapter-number": 1,
+            "note": 26,
+            "caption": 13,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-2/2016-09-10/08-devotional-paths-to-the-divine.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "THE MAKING OF REGIONAL CULTURES",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "122-137",
+          "fingerprint": "b1876226dabdc168e206469fe92900610de4cd3734ce104705c83cf29327d443",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "note": 21,
+            "h2": 9,
+            "dropcap": 1,
+            "body": 64,
+            "caption": 16,
+            "h3": 3
+          },
+          "file": "texts/our-pasts-2/2016-09-10/09-the-making-of-regional-cultures.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "EIGHTEENTH-CENTURY POLITICAL FORMATIONS",
+          "pdf": "pdfs/our-pasts-2/2016-09-10/ch10.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "138-154",
+          "fingerprint": "fa3b4a554b3496b04bf4f81bb8f9caadf1293c24d6ff35b18a7c94be9e0e00d1",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "h2": 6,
+            "dropcap": 1,
+            "body": 89,
+            "caption": 10,
+            "note": 12,
+            "source": 5,
+            "h3": 3
+          },
+          "file": "texts/our-pasts-2/2016-09-10/10-eighteenth-century-political-formations.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "0495b5098829dcdc7064e5e5ab129a8ace8bcd479093b3dfdb2894503aad6699",
+      "snapshots": [
+        "2019-05-04",
+        "2020-06-16",
+        "2021-08-13"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "April 2007",
+          "revised": null,
+          "reprints": [
+            "November 2007",
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "March 2012",
+            "October 2013",
+            "December 2014",
+            "December 2015",
+            "December 2016",
+            "December 2017",
+            "January 2019"
+          ],
+          "latest_print": "January 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "TRACING CHANGES THROUGH A THOUSAND YEARS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "5667a596a38bb4317bca3a64f388f8fc027514f1c27420546e87def5af7edc24",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 57,
+            "note": 24,
+            "chapter-number": 1,
+            "h2": 7,
+            "caption": 6,
+            "h3": 6,
+            "source": 1,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/01-tracing-changes-through-a-thousand-years.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "NEW KINGS AND KINGDOMS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "e81424511109ccb118012dbdd224e9254d52dad4e088855f5cce2729daaa421d",
+          "role_counts": {
+            "footer": 36,
+            "dropcap": 1,
+            "body": 76,
+            "chapter-number": 1,
+            "caption": 8,
+            "note": 24,
+            "h2": 5,
+            "h3": 9,
+            "source": 4,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/02-new-kings-and-kingdoms.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "THE DELHI SULTANS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch03.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "30-44",
+          "fingerprint": "35fa945daa1259dec3d3ce937e3bb2bf74e0847faab6c8fc8d8339ac55cb3c11",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 77,
+            "chapter-number": 1,
+            "caption": 23,
+            "h2": 5,
+            "h3": 10,
+            "note": 18,
+            "source": 3,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/03-the-delhi-sultans.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "THE MUGHAL EMPIRE",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch04.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "45-59",
+          "fingerprint": "592b0a7278e138572e59174101a4d6714f2f84c46d2a3101a760f65ab62a7b97",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 73,
+            "chapter-number": 1,
+            "caption": 14,
+            "h2": 10,
+            "note": 12,
+            "table": 15,
+            "h3": 8,
+            "source": 1,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/04-the-mughal-empire.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "RULERS AND BUILDINGS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch05.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "60-74",
+          "fingerprint": "e3ecc0c03d46cc7462b99e9416880162294c8d12928b82135da3a0b4be67b64f",
+          "role_counts": {
+            "footer": 37,
+            "dropcap": 1,
+            "body": 51,
+            "chapter-number": 1,
+            "caption": 45,
+            "h2": 5,
+            "note": 30,
+            "h3": 5,
+            "source": 1,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/05-rulers-and-buildings.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "TOWNS, TRADERS AND CRAFTSPERSONS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "75-90",
+          "fingerprint": "402a058e47ace7121c52e7bee1871d39fbe813db904bba8b57eb9a3b037a977c",
+          "role_counts": {
+            "footer": 40,
+            "dropcap": 1,
+            "body": 71,
+            "chapter-number": 1,
+            "caption": 11,
+            "h2": 9,
+            "note": 22,
+            "h3": 10,
+            "source": 2,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/06-towns-traders-and-craftspersons.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "91-103",
+          "fingerprint": "0f8bcdf51a0914da105f83b7853bc5f8987f75d9a785ff77a91ac0e0f3fe4760",
+          "role_counts": {
+            "footer": 33,
+            "dropcap": 1,
+            "body": 83,
+            "h2": 7,
+            "chapter-number": 1,
+            "caption": 10,
+            "note": 11,
+            "h3": 6,
+            "source": 1,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/07-tribes-nomads-and-settled-communities.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "DEVOTIONAL PATHS TO THE DIVINE",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch08.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "104-121",
+          "fingerprint": "977682df7d93e83f9099bdc31c370b77bc5809915a6270c0cd0f958037f6d74e",
+          "role_counts": {
+            "footer": 45,
+            "dropcap": 1,
+            "body": 64,
+            "h2": 10,
+            "chapter-number": 1,
+            "note": 26,
+            "caption": 15,
+            "h3": 10,
+            "source": 12,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/08-devotional-paths-to-the-divine.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "THE MAKING OF REGIONAL CULTURES",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "122-137",
+          "fingerprint": "464db308158479695a4e4888254d16a54d85bfcc55af2e70f1730e1566ebc250",
+          "role_counts": {
+            "footer": 39,
+            "chapter-number": 1,
+            "note": 21,
+            "h2": 9,
+            "dropcap": 1,
+            "body": 62,
+            "caption": 16,
+            "h3": 5,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/09-the-making-of-regional-cultures.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "EIGHTEENTH-CENTURY POLITICAL FORMATIONS",
+          "pdf": "pdfs/our-pasts-2/2019-05-04/ch10.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "138-154",
+          "fingerprint": "0b302426c1327a7d83402ff37e1503356e70f8837fd79632dee8bb9103731852",
+          "role_counts": {
+            "footer": 43,
+            "chapter-number": 1,
+            "h2": 6,
+            "dropcap": 1,
+            "body": 87,
+            "caption": 16,
+            "note": 12,
+            "h3": 7,
+            "source": 5,
+            "decoration": 2
+          },
+          "file": "texts/our-pasts-2/2019-05-04/10-eighteenth-century-political-formations.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "0463af4255bd0cea345b87ed8be295e2c336e81998b501b835c1212c9f66a8db",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": "Our Pasts — II Textbook for Class VII",
+          "first_edition": "April 2007",
+          "revised": "May 2022",
+          "reprints": [
+            "November 2007",
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "March 2012",
+            "October 2013",
+            "December 2014",
+            "December 2015",
+            "December 2016",
+            "December 2017",
+            "January 2019",
+            "August 2019",
+            "March 2021",
+            "July 2021",
+            "November 2021",
+            "May 2022"
+          ],
+          "latest_print": "May 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 8,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Introduction: Tracing Changes through a Thousand Years",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "68936235b9c14147638a537d37bafee170179cad21a5ef5ee5a53bf2f5cee92c",
+          "role_counts": {
+            "footer": 30,
+            "dropcap": 1,
+            "body": 65,
+            "note": 27,
+            "chapter-number": 1,
+            "h2": 7,
+            "caption": 6,
+            "h3": 6,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/01-introduction-tracing-changes-through-a-thousand.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "kings and kingdoms",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "da6da518891f15e1c438a58a5cf182dfaae2bd17f7f820e275159b280cde81e4",
+          "role_counts": {
+            "footer": 29,
+            "dropcap": 1,
+            "body": 79,
+            "chapter-number": 1,
+            "caption": 7,
+            "note": 24,
+            "h2": 5,
+            "h3": 9,
+            "source": 4
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/02-kings-and-kingdoms.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "delhI: 12th TO 15th CENTURY",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch03.pdf",
+          "pdf_pages": 9,
+          "printed_pages": "30-38",
+          "fingerprint": "8954c1866e339928d1971b7971ae4d8bd9d8486f99117e7b9bca1a7ef8809159",
+          "role_counts": {
+            "footer": 26,
+            "dropcap": 1,
+            "body": 73,
+            "chapter-number": 1,
+            "caption": 2,
+            "h2": 4,
+            "h3": 9,
+            "note": 14,
+            "source": 3
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/03-delhi-12th-to-15th-century.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "the mughals (16th TO 17th CENTURY)",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "39-48",
+          "fingerprint": "061eaeb65df2d6d06a6284b332388307ac83fca10db1749627b5327cd866211a",
+          "role_counts": {
+            "footer": 20,
+            "dropcap": 1,
+            "body": 67,
+            "chapter-number": 1,
+            "caption": 9,
+            "h2": 7,
+            "note": 6,
+            "h3": 8,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/04-the-mughals-16th-to-17th-century.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Tribes, Nomads and Settled Communities",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "49-60",
+          "fingerprint": "0c4d7fd38cdab055f13cb7b6b665ebe005807313f3b073dbbbb451daa4a1ddc9",
+          "role_counts": {
+            "footer": 24,
+            "dropcap": 1,
+            "body": 73,
+            "h2": 6,
+            "chapter-number": 1,
+            "caption": 10,
+            "note": 25,
+            "h3": 6,
+            "source": 1
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/05-tribes-nomads-and-settled-communities.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "devotional paths to the divine",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "61-78",
+          "fingerprint": "28b6e80d63879a79951b3e63bba4f1c03e8965d2ea7560b7b087ae6bf449ea73",
+          "role_counts": {
+            "footer": 38,
+            "dropcap": 1,
+            "body": 67,
+            "h2": 10,
+            "chapter-number": 1,
+            "caption": 14,
+            "note": 21,
+            "h3": 10,
+            "source": 15
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/06-devotional-paths-to-the-divine.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "the MAKING OF REGIONAL CULTURES",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch07.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "79-93",
+          "fingerprint": "d780393593197b1e71a9933f7b6104012c5c7f6c347759b4e0b9e93685788f4b",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "note": 21,
+            "h2": 9,
+            "dropcap": 1,
+            "body": 60,
+            "caption": 16,
+            "h3": 5
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/07-the-making-of-regional-cultures.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "EIGHTEENTH-CENTURY POLITICAL FORMATIONS",
+          "pdf": "pdfs/our-pasts-2/2023-12-23/ch08.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "94-106",
+          "fingerprint": "34a7427df85288e209505e029adb85af5ff449ba94cdaeff0ded32b8a189f96b",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "h2": 6,
+            "dropcap": 1,
+            "body": 49,
+            "caption": 14,
+            "note": 14,
+            "h3": 6,
+            "source": 4
+          },
+          "file": "texts/our-pasts-2/2023-12-23-rationalised/08-eighteenth-century-political-formations.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-05-24",
+      "fingerprint": "e15b943906927cc0b3929b18df23f34f2a1a00556e1612615ffaa873cede1853",
+      "snapshots": [
+        "2024-05-24",
+        "live-2026-10-18"
+      ],
+      "prelims": {
+        "single": {
+          "title": "Our Pasts — II Textbook for Class VII",
+          "first_edition": "April 2007",
+          "revised": "May 2022",
+          "reprints": [
+            "November 2007",
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "March 2012",
+            "October 2013",
+            "December 2014",
+            "December 2015",
+            "December 2016",
+            "December 2017",
+            "January 2019",
+            "August 2019",
+            "March 2021",
+            "July 2021",
+            "November 2021",
+            "May 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": "Reprint 2024-25",
+          "pages": 14
+        }
+      },
+      "chapter_count": 8,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "INTRODUCTION: TRACING CHANGES THROUGH A THOUSAND YEARS",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "0b652bf268d93b8d8cdfb870a28149079b15a4dd61d8663161802a5185bc9bd3",
+          "role_counts": {
+            "footer": 15,
+            "dropcap": 1,
+            "body": 106,
+            "note": 11,
+            "h2": 7,
+            "caption": 7,
+            "h3": 6
+          },
+          "file": "texts/our-pasts-2/2024-05-24/01-introduction-tracing-changes-through-a-thousand.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "KINGS AND KINGDOMS",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "d222f2cc071f50adc0346787e5d23659f60b4472c6a0f5f20ba43b4d06353abc",
+          "role_counts": {
+            "footer": 15,
+            "dropcap": 1,
+            "body": 107,
+            "chapter-number": 1,
+            "caption": 10,
+            "note": 8,
+            "h2": 5,
+            "h3": 9
+          },
+          "file": "texts/our-pasts-2/2024-05-24/02-kings-and-kingdoms.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "DELHI: 12th TO 15th CENTURY",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch03.pdf",
+          "pdf_pages": 9,
+          "printed_pages": "30-38",
+          "fingerprint": "b77e9423ccce35dda2b6625032b733f149180ca435cebbcf80a4cb6c7c1cb5b9",
+          "role_counts": {
+            "footer": 13,
+            "dropcap": 1,
+            "body": 76,
+            "h2": 5,
+            "caption": 2,
+            "h3": 9,
+            "note": 18
+          },
+          "file": "texts/our-pasts-2/2024-05-24/03-delhi-12th-to-15th-century.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "THE MUGHALS (16th TO 17th CENTURY)",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "39-48",
+          "fingerprint": "17954404b4f6bd558949c63a21feba8aca86eb13b98d7c9b40b2f91d67bc25a4",
+          "role_counts": {
+            "footer": 10,
+            "dropcap": 1,
+            "body": 72,
+            "h2": 8,
+            "caption": 10,
+            "note": 3,
+            "h3": 8
+          },
+          "file": "texts/our-pasts-2/2024-05-24/04-the-mughals-16th-to-17th-century.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "49-60",
+          "fingerprint": "9411c12bb07b048150a8bf8d06fce1ab08be0f1d40b1384157f2597703c9c789",
+          "role_counts": {
+            "footer": 12,
+            "dropcap": 1,
+            "body": 90,
+            "h2": 7,
+            "caption": 10,
+            "note": 12,
+            "h3": 6
+          },
+          "file": "texts/our-pasts-2/2024-05-24/05-tribes-nomads-and-settled-communities.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "DEVOTIONAL PATHS TO THE DIVINE",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "61-78",
+          "fingerprint": "a6c76f3160b788188d5ac8076540f9c2c0c9633be0aeb67f4567a27ecb39aa2e",
+          "role_counts": {
+            "footer": 18,
+            "dropcap": 1,
+            "body": 114,
+            "h2": 11,
+            "caption": 19,
+            "note": 11,
+            "h3": 10
+          },
+          "file": "texts/our-pasts-2/2024-05-24/06-devotional-paths-to-the-divine.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "THE MAKING OF REGIONAL CULTURES",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch07.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "79-93",
+          "fingerprint": "f498b103559e022d55e08ddcedc9f3c7554947f0821e66a16b0f293a194e8730",
+          "role_counts": {
+            "footer": 15,
+            "note": 14,
+            "h2": 9,
+            "dropcap": 1,
+            "body": 93,
+            "caption": 16,
+            "h3": 5
+          },
+          "file": "texts/our-pasts-2/2024-05-24/07-the-making-of-regional-cultures.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "EIGHTEENTH-CENTURY POLITICAL FORMATIONS",
+          "pdf": "pdfs/our-pasts-2/2024-05-24/ch08.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "94-106",
+          "fingerprint": "2a49099603a22e7a947c6249d6c64322f5d7081b6b5b5189fe0084f19eca9edd",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 6,
+            "dropcap": 1,
+            "body": 49,
+            "caption": 15,
+            "note": 15,
+            "h3": 6,
+            "source": 4
+          },
+          "file": "texts/our-pasts-2/2024-05-24/08-eighteenth-century-political-formations.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [
+    {
+      "snapshot": "2019-03-12",
+      "reason": "whole-book PDF unreadable or without text layer",
+      "files": [
+        "pdfs/our-pasts-2/2019-03-12/whole-book.pdf"
+      ]
+    },
+    {
+      "snapshot": "2022-08-04",
+      "reason": "no text layer, needs OCR",
+      "files": [
+        "pdfs/our-pasts-2/2022-08-04/ch01.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch02.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch03.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch04.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch05.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch06.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch07.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch08.pdf",
+        "pdfs/our-pasts-2/2022-08-04/ch09.pdf"
+      ]
+    }
+  ]
+}

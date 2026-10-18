@@ -1,0 +1,8 @@
+# Downloaded textbooks. Kept in the worktree, not in git, until a permanent home is chosen.
+pdfs/
+
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/

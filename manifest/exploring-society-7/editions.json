@@ -1,0 +1,424 @@
+{
+  "book": "exploring-society-7",
+  "title": "Exploring Society: India and Beyond",
+  "editions": [
+    {
+      "id": "live-2026-10-18",
+      "fingerprint": "e9c1d8bd93994f2ac9f9baa1a0e074536009a7874a1f7fa29ba69b8ec351317b",
+      "snapshots": [
+        "live-2026-10-18"
+      ],
+      "prelims": {
+        "part1": {
+          "title": null,
+          "first_edition": "April 2025",
+          "revised": null,
+          "reprints": [
+            "February 2026"
+          ],
+          "latest_print": "February 2026",
+          "rationalised": null,
+          "reprint_label": "Reprint 2026-27",
+          "pages": 22
+        },
+        "part2": {
+          "title": null,
+          "first_edition": "November 2025",
+          "revised": null,
+          "reprints": [],
+          "latest_print": "November 2025",
+          "rationalised": null,
+          "reprint_label": "Reprint 2026-27",
+          "pages": 16
+        }
+      },
+      "chapter_count": 20,
+      "chapters": [
+        {
+          "part": 1,
+          "number": 1,
+          "title": "Geographical Diversity of India",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "1-26",
+          "fingerprint": "a907e0f1a2880eb8c24bba24328f23080052cc854296132399eb44b60b484a74",
+          "role_counts": {
+            "footer": 65,
+            "h2": 19,
+            "chapter-number": 1,
+            "body": 95,
+            "caption": 70,
+            "h3": 21,
+            "note": 2
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-01-geographical-diversity-of-india.md"
+        },
+        {
+          "part": 1,
+          "number": 2,
+          "title": "Understanding the Weather",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "27-44",
+          "fingerprint": "97c464d52ebbe231fe4d34296ea71bd7c2a65de7fdee7bd9aa926adeda4f7108",
+          "role_counts": {
+            "footer": 43,
+            "h2": 16,
+            "chapter-number": 1,
+            "body": 101,
+            "caption": 65,
+            "h3": 17,
+            "table": 42
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-02-understanding-the-weather.md"
+        },
+        {
+          "part": 1,
+          "number": 3,
+          "title": "Climates of India",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "45-66",
+          "fingerprint": "ca2cbf7039e76c6b689960759f737e035cae92dbf159e65605a4648d5ad181fa",
+          "role_counts": {
+            "footer": 47,
+            "h2": 20,
+            "chapter-number": 1,
+            "body": 107,
+            "caption": 62,
+            "h3": 12,
+            "table": 27
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-03-climates-of-india.md"
+        },
+        {
+          "part": 1,
+          "number": 4,
+          "title": "New Beginnings: Cities and States",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch04.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "67-82",
+          "fingerprint": "7dc3e704fa6595f50a9b4795820a746daf29f2dc6b07e7c202c6bc14fc5b6339",
+          "role_counts": {
+            "h2": 7,
+            "chapter-number": 1,
+            "body": 58,
+            "note": 1,
+            "caption": 46,
+            "footer": 31,
+            "h3": 8
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-04-new-beginnings-cities-and-states.md"
+        },
+        {
+          "part": 1,
+          "number": 5,
+          "title": "The Rise of Empires",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf",
+          "pdf_pages": 34,
+          "printed_pages": "83-116",
+          "fingerprint": "96256f0f1c9dbc72f25b30b89fd59f83dcaf38f5d0aeabff6848c1012c6b5313",
+          "role_counts": {
+            "footer": 80,
+            "h2": 20,
+            "body": 147,
+            "chapter-number": 1,
+            "caption": 135,
+            "table": 35,
+            "h3": 18
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-05-the-rise-of-empires.md"
+        },
+        {
+          "part": 1,
+          "number": 6,
+          "title": "The Age of Reorganisation",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "117-144",
+          "fingerprint": "f8b7b93f82190281c5c76643dcc77e103ebd86adb738cddb081655efc4271edb",
+          "role_counts": {
+            "footer": 62,
+            "h2": 19,
+            "chapter-number": 1,
+            "body": 119,
+            "caption": 97,
+            "h3": 24,
+            "note": 1,
+            "table": 1
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-06-the-age-of-reorganisation.md"
+        },
+        {
+          "part": 1,
+          "number": 7,
+          "title": "The Gupta Era: An Age of Tireless Creativity",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "145-166",
+          "fingerprint": "ca7140f61b255423f69212233cae489a8da6284aeb908c039432915c3dfadc45",
+          "role_counts": {
+            "footer": 46,
+            "body": 87,
+            "h2": 15,
+            "chapter-number": 1,
+            "caption": 89,
+            "decoration": 2,
+            "h3": 11,
+            "table": 1
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-07-the-gupta-era-an-age-of-tireless-creativity.md"
+        },
+        {
+          "part": 1,
+          "number": 8,
+          "title": "How the Land Becomes Sacred",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "167-184",
+          "fingerprint": "291582cb2f3e34f4a4c99a35bfbb3d68f5c5de4ed053a34e7e303a1aebfe5b89",
+          "role_counts": {
+            "footer": 40,
+            "h2": 15,
+            "chapter-number": 1,
+            "body": 84,
+            "caption": 43,
+            "h3": 9
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-08-how-the-land-becomes-sacred.md"
+        },
+        {
+          "part": 1,
+          "number": 9,
+          "title": "From the Rulers to the Ruled: Types of Governments",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "185-208",
+          "fingerprint": "c3ad9af9eac8cc4bd5c6eccaedd13a91ef12d6e9559eb3b80a1366004ad90064",
+          "role_counts": {
+            "footer": 52,
+            "h2": 24,
+            "body": 190,
+            "note": 5,
+            "chapter-number": 1,
+            "caption": 51,
+            "h3": 12
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-09-from-the-rulers-to-the-ruled-types-of-government.md"
+        },
+        {
+          "part": 1,
+          "number": 10,
+          "title": "The Constitution of India — An Introduction",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "209-228",
+          "fingerprint": "4a0d88a976b63af2d3629f00062c4095c8e4ed38585b27c70671e081422b4b93",
+          "role_counts": {
+            "footer": 46,
+            "h2": 21,
+            "body": 105,
+            "note": 1,
+            "chapter-number": 1,
+            "caption": 53,
+            "h3": 14,
+            "table": 55
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-10-the-constitution-of-india-an-introduction.md"
+        },
+        {
+          "part": 1,
+          "number": 11,
+          "title": "From Barter to Money",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "229-246",
+          "fingerprint": "e92c354c0f9b6341e509304fb077721855d7e6f59e1349d550ccb7dd62fe2760",
+          "role_counts": {
+            "footer": 41,
+            "chapter-number": 1,
+            "body": 87,
+            "h2": 5,
+            "caption": 97,
+            "h3": 20
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-11-from-barter-to-money.md"
+        },
+        {
+          "part": 1,
+          "number": 12,
+          "title": "Understanding Markets",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "247-272",
+          "fingerprint": "90bad4d41e82ce399283b3f8327ddc582c9dd2926a8363fb5b1d360cb58bd6d2",
+          "role_counts": {
+            "footer": 60,
+            "h2": 17,
+            "body": 132,
+            "chapter-number": 1,
+            "caption": 127,
+            "h3": 18,
+            "table": 21,
+            "note": 1
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part1-12-understanding-markets.md"
+        },
+        {
+          "part": 2,
+          "number": 1,
+          "title": "The Story of Indian Farming",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "851b4d74cea617f4252100f751b829f415be3dfd10c931f51d298a9b52e62618",
+          "role_counts": {
+            "footer": 69,
+            "h2": 24,
+            "chapter-number": 1,
+            "body": 127,
+            "caption": 144,
+            "h3": 22,
+            "table": 22
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-01-the-story-of-indian-farming.md"
+        },
+        {
+          "part": 2,
+          "number": 2,
+          "title": "India and Her Neighbours",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf",
+          "pdf_pages": 32,
+          "printed_pages": "29-60",
+          "fingerprint": "60cfdd061ad1c01a5c2dd47f7a83bc8a5547fb328fa444eec25939858c0453cc",
+          "role_counts": {
+            "footer": 71,
+            "h2": 22,
+            "chapter-number": 1,
+            "body": 126,
+            "note": 4,
+            "caption": 131,
+            "h3": 18
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-02-india-and-her-neighbours.md"
+        },
+        {
+          "part": 2,
+          "number": 3,
+          "title": "Empires and Kingdoms: 6th to 10th Centuries",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf",
+          "pdf_pages": 36,
+          "printed_pages": "61-96",
+          "fingerprint": "f8913020247794f60c07be196efa0efa413351a7594fe891672e3024b4110933",
+          "role_counts": {
+            "h2": 24,
+            "chapter-number": 1,
+            "body": 171,
+            "caption": 167,
+            "footer": 80,
+            "h3": 23,
+            "table": 1
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-03-empires-and-kingdoms-6th-to-10th-centuries.md"
+        },
+        {
+          "part": 2,
+          "number": 4,
+          "title": "Turning Tides: 11th and 12th Centuries",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "97-124",
+          "fingerprint": "9adad8a29b73289b7ded34f184728d3ce016d032f24a62caf2ed11e461b9c0a6",
+          "role_counts": {
+            "footer": 60,
+            "h2": 17,
+            "chapter-number": 1,
+            "body": 117,
+            "caption": 100,
+            "table": 2,
+            "h3": 13
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-04-turning-tides-11th-and-12th-centuries.md"
+        },
+        {
+          "part": 2,
+          "number": 5,
+          "title": "India, a Home to Many",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "125-142",
+          "fingerprint": "258f260937cfd9bb806ca94dcbab17153bc8a0cbe7d3ddcfc0959365773df757",
+          "role_counts": {
+            "footer": 41,
+            "h2": 15,
+            "body": 72,
+            "chapter-number": 1,
+            "note": 1,
+            "h3": 10,
+            "caption": 44
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-05-india-a-home-to-many.md"
+        },
+        {
+          "part": 2,
+          "number": 6,
+          "title": "The State, the Government, and You",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "143-168",
+          "fingerprint": "3f0334757f0b7115e2144fc16193accaaaf9053fcfc2e0ff46d159ec20825946",
+          "role_counts": {
+            "footer": 58,
+            "h2": 20,
+            "body": 129,
+            "chapter-number": 1,
+            "caption": 73,
+            "h3": 12,
+            "table": 47
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-06-the-state-the-government-and-you.md"
+        },
+        {
+          "part": 2,
+          "number": 7,
+          "title": "Infrastructure: Engine of India’s Development",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "169-192",
+          "fingerprint": "6c29181e770b4c2595d20d4d64ad28e1d774c611d058ca7f844fcaa0ea7da899",
+          "role_counts": {
+            "body": 74,
+            "h2": 14,
+            "chapter-number": 1,
+            "caption": 216,
+            "footer": 57,
+            "h3": 9,
+            "table": 23
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-07-infrastructure-engine-of-indias-development.md"
+        },
+        {
+          "part": 2,
+          "number": 8,
+          "title": "Banks and the Magic of Finance",
+          "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "193-212",
+          "fingerprint": "34f7a98e0060ff22bad3a2fb1dcf5a7ec24f3a11a88c5e8431fb17ea0ba87a35",
+          "role_counts": {
+            "footer": 43,
+            "h2": 12,
+            "body": 122,
+            "chapter-number": 1,
+            "note": 2,
+            "caption": 103,
+            "h3": 7,
+            "table": 37
+          },
+          "file": "texts/exploring-society-7/live-2026-10-18/part2-08-banks-and-the-magic-of-finance.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": []
+}

@@ -1,0 +1,351 @@
+---
+book: "exploring-society-7"
+book_title: "Exploring Society: India and Beyond"
+edition: "live-2026-10-18"
+snapshots:
+  - "live-2026-10-18"
+part: 1
+chapter: 11
+title: "From Barter to Money"
+source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf"
+source_sha256: "b3e45b2aa51b9948bb7bacdc953214b886992da6ed3d561a54601747edef16af"
+pdf_pages: 18
+printed_pages: "229-246"
+body_fingerprint: "e92c354c0f9b6341e509304fb077721855d7e6f59e1349d550ccb7dd62fe2760"
+---
+
+<!-- page 229 (pdf 1) -->
+
+# From Barter to Money
+
+The importance of money flows from it being a link between the present and the future.
+
+– John Maynard Keynes
+
+20th century economist
+
+> [caption] Fig. 11.1
+
+The Big
+
+1. How did exchange take place before money? 2. Why did money come into existence? 3. How has money transformed into various forms over time?
+
+## Questions
+
+In the theme “Tapestry of the Past”, you read about the crops that people grew, such as food grains or goods they made like carnelian beads. How do you think they exchanged these goods for things that they needed?
+
+<!-- page 230 (pdf 2) -->
+
+People exchanged goods or services for other goods and services. This system is called the barter system. How did this work? Suppose you need a pencil and have an extra eraser. Meanwhile, your classmate forgot to bring their eraser but has an extra pencil. You could exchange your extra eraser for the extra pencil that your classmate has. Wouldn’t this satisfy your and the classmate’s needs? This is how the barter system works.
+
+> [caption] Barter System: a way of exchanging goods and services without using money.
+
+> [caption] Money: the common tool that everybody accepts and uses in order
+
+Today, we use coins and notes to buy and sell things. People also use their mobile phones and computers for such transactions.
+
+> [caption] to make or receive payments in exchange for
+
+The barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc. Transaction:
+
+> [caption] goods and services.
+
+> [caption] a piece of business that is done between
+
+> [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones people, especially an act of buying
+
+> [caption] – were used as money on the Yap Island, in the Pacific Ocean or selling.
+
+> [caption] country of Micronesia.
+
+> [caption] Commodities:
+
+> [caption] Products or goods that can be traded,
+
+> [caption] Fig.11.2.2. The Aztec copper Tajadero (Spanish word for chopping knife) was a form of money used in Central Mexico and parts of Central America.
+
+> [caption] bought and sold.
+
+> [caption] Fig. 11.2.3.Tevau (Red feather coil made from birds’
+
+> [caption] feathers) used as money on the Solomon Islands.
+
+<!-- page 231 (pdf 3) -->
+
+## Why Do we Need Money?
+
+### LET’S EXPLORE
+
+Imagine that you are a farmer and that people use a barter system where you live. You need a whole variety of things — a pair of new shoes, a sweater, and medicines for your grandmother. But you only have an ox that you can spare. How would you be able to exchange the ox for all the different things you need from different people or places? What difficulties are you likely to face?
+
+For one, you would have to find someone who needed an ox. Now, swapping your ox for a pair of shoes would hardly be a fair exchange! You may have had to go through a series of exchanges — for example, find someone to exchange your ox for several bags of wheat. You would then have to transport all that wheat to several places; first, find someone willing to exchange a part of the wheat for shoes, another person for the sweater, and yet another for the medicines.
+
+<!-- page 232 (pdf 4) -->
+
+In each of these cases, a discussion would take place to arrive at the fair amount of wheat that you could exchange for shoes or for the sweater.
+
+You would have to take the leftover bags of wheat and find a place to store them safely. The next time you needed something, you would have to carry the bags of wheat with you again!
+
+### THINK ABOUT IT
+
+What are the different types of difficulties you encountered in the situation above?
+
+In the farmer’s story, imagine he finds someone who is willing to trade a pair of new shoes, a sweater, and medicines — all in exchange for his ox. Do you think it would be easy to come across such a situation?
+
+<!-- page 233 (pdf 5) -->
+
+Just like the farmer, people who depended on the barter system would face many problems in making an exchange in their everyday lives. They would have to find someone who wants the exact item that they want to give, and in return are also able to offer exactly what the other party wants. This scenario is called double coincidence of wants.
+
+Even if there are two people who want each other’s goods and are also willing to make an exchange, other issues could arise — in what proportion should the two goods be exchanged? In such cases, it becomes difficult to compare the value of one good against another. If one of the people feels that the exchange is disadvantageous, they would not be interested in the exchange. This is because there is no common standard measure of value.
+
+### THINK ABOUT IT
+
+What are the instances of double coincidence of wants in the above example?
+
+Even if there are two people who want each other’s goods and are also willing to make an exchange, other issues could arise — in what proportion should the two goods be exchanged? In such cases, it becomes difficult to compare the value of one good against another. If one of the people feels that the exchange is disadvantageous, they would not be interested in the exchange. This is because there is no common standard measure of value.
+
+In the situation given above, what are the cases where you could encounter the lack of a common standard measure of value?
+
+Similarly, you cannot exchange only a part of the ox for a sweater; this is the problem of divisibility. Taking the ox everywhere is a problem and leads to the problem of portability. You solved part of the problem by exchanging the ox for bags of wheat, but you cannot store the wheat for long; it would rot or get eaten by rats! Thus arises the problem of durability.
+
+> [caption] Double coincidence of wants: an economic concept that describes a situation where two people each have something the other wants and can exchange them directly.
+
+> [caption] Common standard measure of value: an agreed-upon worth for a transaction that helps in determining the value of goods and services in the economy.
+
+> [caption] Divisibility: The capacity of an object or material to be split into pieces or portions.
+
+> [caption] Portability: The ability of an object or material to be carried or moved from one place to another.
+
+<!-- page 234 (pdf 6) -->
+
+### THINK ABOUT IT
+
+What are the different ways in which money would make the above situation easier for the farmer?
+
+### DON’T MISS OUT
+
+Although money has replaced traditional barter systems all around the world, there are some that still exist today! One of them is the Junbeel Mela (jun means moon in Assamese and beel means wetland), a three-day annual socio-cultural fair at Junbeel in Morigaon district of Assam. Interestingly, the mela begins with the Agni Puja or worship of fire, a prayer for universal wellbeing.
+
+> [caption] Fig. 11.3
+
+Beginning in the 15th century, the chiefs of the Tiwa, Karbi, Khasi, and Jaintia tribal communities of Assam and Meghalaya would gather every year to discuss political issues and to maintain friendly relationships. Members of these communities began to gather around this event and soon it turned into a fair, where people would bring their produce and began exchanging them among each other.
+
+> [caption] Fig. 11.4
+
+> [caption] Durability:
+
+> [caption] Trait of an object or material that indicates its longevity and ability to withstand damage due to which it can be stored for a longer time period.
+
+<!-- page 235 (pdf 7) -->
+
+This continues to be an important socio-cultural event even today. Bartering begins early in the morning, with the trade of local products such as roots, vegetables, fruit, herbs, and spices. Also seen at the fair are handmade goods and artifacts, made from natural materials sourced from the forests of the hilly region. These are often exchanged with people from the plains for rice cakes, and other types of food that cannot be grown in the hills.
+
+> [caption] Fig. 11.5
+
+ Book exchange: Think of a fun club where you can trade your old books with friends! It’s like a treasure hunt for stories. You bring books you’ve read and pick new ones from a big collection. For example, you might swap your exciting jungle adventure book for a friend’s mystery story. It’s a cool way to discover new adventures without spending any money!  One common example is the exchange of old clothes for new utensils, a practice that has persisted over the years. In this system, a vendor visits homes, offering households new utensils or other household items in return for their used clothes or fabrics. This exchange benefits both parties—households get rid of items they no longer need, while vendors collect materials that can be resold, repurposed, or recycled.
+
+> [caption] Fig. 11.6
+
+<!-- page 236 (pdf 8) -->
+
+> [caption] Fig. 11.7
+
+### LET’S EXPLORE
+
+The illustrations above show you some of the ways in which people practise barter today. Have you observed similar practices in your locality? What are the types of experiences people have in this process?
+
+## Basic Functions of Money
+
+It is said that “necessity is the mother of invention.” As the types and numbers of things that were being exchanged grew, and the distances across which barter was beginning to take place became longer, it became clear that there was a need for a different system. A common medium of exchange would make trade easier and so, money came into existence. As more and more people began to use it for transactions — buying and selling goods and services — it became the accepted method of payment.
+
+As we saw in the farmer’s story above, he could not store the wheat for long as it would rot or get eaten by rats.
+
+<!-- page 237 (pdf 9) -->
+
+If the farmer uses money instead of wheat as a medium of exchange, he can keep the money for a longer time and use it for making purchases later. So, money acts as a store of value that can be used later. Isn’t it fascinating!
+
+Money also serves as a common denomination that measures the value of goods and services, and enables the comparison of goods and services in terms of their prices.
+
+For example, your parents pay money to the shopkeepers in exchange for various products. This money is used by the shopkeepers to pay salaries to their workers. The workers use the same medium to buy everyday essentials and other goods, pay their children’s school fees, etc.
+
+> [caption] Fig. 11.9
+
+### THINK ABOUT IT
+
+Suppose you need to buy a book. You have ₹50 in your pocket. You visit the bookshop in your neighbourhood where the shopkeeper tells you that the book is worth ₹100. What options do you have to buy the book today? Will you request the shopkeeper to allow you to make the rest of the payment later?
+
+The fact that money is accepted as a way of making deferred payments makes money a standard of deferred payment.
+
+<!-- page 238 (pdf 10) -->
+
+## The Journey of Money
+
+### LET’S EXPLORE
+
+Look at the timeline given below. What are the changes in money that you observe?
+
+### Coinage
+
+As you can see from the timeline, coins were among the earliest forms of money. During those times, rulers would issue coins that were used by the citizens of their respective kingdoms for transactions. So different kingdoms would have their own coinage. The minting and issue of coins was controlled entirely by the rulers. Over time, the coins of powerful rulers were accepted across various kingdoms and not just their own. This facilitated trade across geographies.
+
+The coins were made from precious metals like gold, silver, and copper or their alloys. They were called kārṣhāpaṇas or paṇas. They had symbols punched on them called rūpas.
+
+> [caption] digital money debit cards and credit cards cowrie barter metal coinage iron, silver, gold, copper 1980 6000 BCE 1000 BCE 600 BCE 1861 2016 official paper money Minting: The process of producing coins. A mint refers to a manufacturing facility that produces coins that are used as a nation’s currency.
+
+> [caption] Alloy: A metal made by combining two or more metallic elements. This makes the coin strong.
+
+<!-- page 239 (pdf 11) -->
+
+Does this word sound familiar to a word we use for money today in India?
+
+### DON’T MISS OUT
+
+ Is it not interesting that variations of the word ‘paṇa’
+
+continue to be used in Tamil, Telugu, and Malayalam as paṇaṁ and in Kannada as ‘haṇa’ for money?
+
+ Alloys of silver and copper were used to mint coins. The coins we use today are also alloys consisting largely of iron. They contain other materials like chromium, silicon, and carbon in precise proportions. You will learn more about alloys in your science lessons.
+
+In ancient times, the two sides of the coins — the head (obverse) and the tail (reverse) — had different kinds of symbols and motifs engraved on them. These included nature motifs like animals, trees and hills, and those of kings or queens, and deities.
+
+For example, the coins of the Chalukyas had a Varaha image (avatar of Viṣhṇu) on one side and decorated three-tiered parasol on the other.
+
+> [caption] Silver coin showing tiger emblem of Cholas (850–1279 CE) Coinage from Chalukyas of Kalyana featuring Varaha (avatar of Viṣhṇu)
+
+> [caption] and Royal Parasol
+
+> [caption] Fig. 11.11
+
+### LET’S EXPLORE
+
+The coins shown in Fig. 11.12 were found during excavations in Pudukkottai in Tamil Nadu. Their heads embossed are those of Roman kings. What conclusions can we draw from such a finding?
+
+> [caption] Obverse: the side of a coin or medal bearing the head or principal design.
+
+<!-- page 240 (pdf 12) -->
+
+> [caption] Fig. 11.12. Roman gold coins excavated in Pudukottai India
+
+The use of coinage helped boost India’s maritime trade with the world. For example, they were found in parts of Kerala and Tamil Nadu. This throws light on the trading activities of southern India with the rest of the world. Based on this finding, scholars conclude that the trade was in favour of India.
+
+### DON’T MISS OUT
+
+1 anna was equal to 1 / 16 of a rupee! In 1947, one anna could buy a dozen bananas.
+
+1 half anna, 1942
+
+1 quarter anna, 1918
+
+1 anna, 1943 1 paisa, 1945
+
+> [caption] Fig. 11.13
+
+Today, we see coins of different sizes (shown below) for various denominations with both Hindi and English used on each coin. Special coins are also minted to mark important events for the nation.
+
+### DON’T MISS OUT
+
+The ₹ sign was adopted by the Government of India in 2010. It was designed by Udaya Kumar from the Indian Institute of Technology, Bombay (Mumbai). The symbol is a mix of the Devanagari “Ra” and the Roman “R” with two parallel horizontal stripes running at the top representing the national flag and also the “equal to” sign.
+
+<!-- page 241 (pdf 13) -->
+
+> [caption] Coinage today Coin with symbol marking India’s 75 years of independence in 2021 Fig. 11.14
+
+### LET’S EXPLORE
+
+Organise yourselves into groups of five students each. Take up a group project to collect old coins from family members, neighbours, shopkeepers, and so on. Document their various features — what are they made of, what is the year inscribed on the coins, what do you observe on the obverse and reverse sides of the coins. What can you guess from your observations? How would you know if your guesses are true?
+
+While the barter system used non-metallic money as discussed above, coinage, that is metallic money, gave way to other forms of money!
+
+### Paper Money
+
+### LET’S EXPLORE
+
+What do you think happened as coins began to be used for all types of exchanges, whether to buy vegetables or to buy some land? What problems could have come up?
+
+As you may have imagined, it became difficult to carry a large number of coins. Storing the coins also became a problem. The search for a more suitable alternative ended with the use of paper money. Paper money or currency was first used in China and was introduced in India in the late 18th century.
+
+<!-- page 242 (pdf 14) -->
+
+> [caption] Fig. 11.15. Uniface notes of Bank of Bengal (Left) and Ten rupee note from Bank of Bombay (Source:RBI)
+
+While coins are used for smaller denominations, paper currency is used for higher denominations.
+
+Today, most of the currency notes you see look like this …
+
+> [caption] Fig. 11.16. Paper currency today
+
+### LET’S EXPLORE
+
+Look at a 50 and a 100-rupee note. Can you identify the motifs depicting India’s cultural heritage on the reverse side of the notes? Find out more about them.
+
+Æ Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?
+
+> [caption] Currency:
+
+> [caption] System of money that is used in a particular country. For example, coins and paper notes that are used in India in terms of rupee is the Indian currency.
+
+> [caption] Denominations:
+
+> [caption] Units in which coins and paper notes are classified.
+
+> [caption] For example, denominations of
+
+> [caption] Indian currency include 50 paisa,
+
+> [caption] ₹1, ₹2, ₹5, ₹10,
+
+> [caption] ₹20 coins and paper notes of
+
+> [caption] ₹10, ₹20, ₹50, ₹100, ₹200, ₹500 and ₹1000.
+
+<!-- page 243 (pdf 15) -->
+
+Earlier in this chapter, we read that in ancient times coins were issued by rulers. Today, in India, we have a central authority called the Reserve Bank of India (RBI) that controls the issue of currency. It is not legal for anybody other than the RBI to issue currency.
+
+### New Forms of Money
+
+As time has progressed and technology has advanced, other forms of money have come to be used today. Let’s look at some of them.
+
+Krishnappa sells seasonal fruit on a cart. Alongside the colourful fruit that he arranges neatly on his cart is a little card with a QR code. His customers scan the QR code with their mobile phones and pay for their purchase digitally. The payment then goes directly into Krishnappa’s bank account.
+
+> [caption] Fig. 11.18
+
+Apart from tangible forms of money such as coins and paper notes, money has taken intangible forms that we cannot touch and feel. This is called digital money which is in electronic form. Have you observed other people around you making or receiving payments without using coins and notes? Different payment methods like debit cards, credit cards, net banking, UPI (Unified Payments Interface), etc., are also used for transactions. These mediums directly transfer money from one person’s bank account into another. You will learn more about the modern methods of monetary transactions later.
+
+> [caption] QR Code: Stands for “quick-response” codes, these are collections of black and white squares, which are readable by devices like smartphones and QR scanners. They contain information about the receiver’s bank account and are used for making monetary transactions.
+
+<!-- page 244 (pdf 16) -->
+
+### Before we move on ...
+
+Æ The barter system existed before money came into existence. A variety of commodities were used to facilitate exchange.
+
+Æ The limitations of the barter system led to the development of money as a medium of exchange.
+
+Æ Forms of money evolved through time, such as shells, coins, and paper currency. This evolution continues as we create new and easier ways to make and receive payments, including the QR code that you saw in the illustration above.
+
+### Questions and activities
+
+1. How does the barter system take place and what kinds of commodities were used for exchange under the system?
+
+2. What were the limitations of the barter system?
+
+3. What were the salient features of ancient Indian coins?
+
+4. How has money as a medium of exchange transformed over time?
+
+5. What steps might have been taken in ancient times so that Indian coins could become the medium of exchange across countries?
+
+6. Read the following lines from the Arthaśhāstra. “An annual salary of 60 paṇas could be substituted by an āḍhaka of grain per day, enough for four meals…” (One āḍhaka is equal to about 3 kg) What does this indicate about the value of one paṇa? The fine for failing to help a neighbour was 100 paṇas. Compare this with the annual salary. What conclusion can you draw about the human values being encouraged through this?
+
+7. Write and enact a skit to show how people may have persuaded each other to use cowrie shells (or other such items) as the medium of exchange.
+
+<!-- page 245 (pdf 17) -->
+
+8. The RBI is the only legal source that prints and distributes paper currency in India. To prevent illegal printing of notes and their misuse, the RBI has introduced many security features. Find out what some of these measures are and discuss them in class.
+
+9. Interview a few of your family members and local shopkeepers, and ask them their preferences in making and receiving payments — do they prefer cash or UPI? Why?
+
+<!-- page 246 (pdf 18) -->
+
+## Noodles

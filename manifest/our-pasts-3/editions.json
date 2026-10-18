@@ -1,0 +1,1615 @@
+{
+  "book": "our-pasts-3",
+  "title": "Our Pasts III",
+  "editions": [
+    {
+      "id": "2014-07-28",
+      "fingerprint": "5eba0cace16cd536b798e23a057afd3179a7c6dca77345fdef87f2a54749ae28",
+      "snapshots": [
+        "2014-07-28",
+        "2016-09-10"
+      ],
+      "prelims": {
+        "part1": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        },
+        "part2": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 12,
+      "chapters": [
+        {
+          "part": 1,
+          "number": 1,
+          "title": "How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "8009de4b8de6c489deffb23c93d72e2429897a02d65ac1682eb4f947778017cb",
+          "role_counts": {
+            "footer": 11,
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 61,
+            "caption": 14,
+            "table": 7,
+            "h3": 1
+          },
+          "file": "texts/our-pasts-3/2014-07-28/01-how-when-and-where.md"
+        },
+        {
+          "part": 1,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "652234cf754312ed0b4e1166c7557e9a155527bcab1541b9e494536756e8b6ce",
+          "role_counts": {
+            "footer": 26,
+            "chapter-number": 1,
+            "body": 113,
+            "caption": 21,
+            "h2": 16,
+            "h3": 2,
+            "note": 3,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2014-07-28/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": 1,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "be7f73db22e041016d2ea5a31b2a338513ac14f34e19f00c8fcddd5a2d224160",
+          "role_counts": {
+            "footer": 18,
+            "caption": 31,
+            "h2": 12,
+            "body": 95,
+            "chapter-number": 1,
+            "h3": 3,
+            "table": 4
+          },
+          "file": "texts/our-pasts-3/2014-07-28/03-ruling-the-countryside.md"
+        },
+        {
+          "part": 1,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "2c956d73e43420ccc9f18f5c3e79fce2919a5c8cc9b774a6642e7c525370af05",
+          "role_counts": {
+            "footer": 17,
+            "chapter-number": 1,
+            "body": 86,
+            "caption": 22,
+            "h2": 11,
+            "table": 6,
+            "h3": 1,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2014-07-28/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": 1,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch05.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "51-63",
+          "fingerprint": "da2d6bae33ad1a2bf9d8b4498f71d3d06218c4ce29de7616e6ebdd823777ee16",
+          "role_counts": {
+            "footer": 21,
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 69,
+            "caption": 19,
+            "h3": 1,
+            "table": 3
+          },
+          "file": "texts/our-pasts-3/2014-07-28/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": 1,
+          "number": 6,
+          "title": "Colonialism and the City The Story of an Imperial Capital",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part1-ch06.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "64-78",
+          "fingerprint": "a7f846f3de207e2c5358c78cc1d8cfd464e9128fbfe2e1576df37fbcb101cfbc",
+          "role_counts": {
+            "footer": 20,
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 94,
+            "caption": 23,
+            "table": 3,
+            "h3": 2
+          },
+          "file": "texts/our-pasts-3/2014-07-28/06-colonialism-and-the-city-the-story-of-an-imperia.md"
+        },
+        {
+          "part": 2,
+          "number": 7,
+          "title": "Weavers, Iron Smelters and Factory Owners",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "79-94",
+          "fingerprint": "b024d017e33fce47d3bb901f92b6230311c5c58d5d195e0952bad7337de4734d",
+          "role_counts": {
+            "footer": 22,
+            "chapter-number": 1,
+            "caption": 21,
+            "table": 12,
+            "body": 88,
+            "h2": 9,
+            "h3": 6,
+            "decoration": 3
+          },
+          "file": "texts/our-pasts-3/2014-07-28/07-weavers-iron-smelters-and-factory-owners.md"
+        },
+        {
+          "part": 2,
+          "number": 8,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch02.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "95-107",
+          "fingerprint": "57b1bdbc581a81b4f1f0a654ec863dc2c5fb61f1ac85b0f51b69dd0d8429d805",
+          "role_counts": {
+            "footer": 20,
+            "chapter-number": 1,
+            "body": 90,
+            "h2": 12,
+            "caption": 16,
+            "table": 5,
+            "note": 3,
+            "decoration": 1,
+            "h3": 3
+          },
+          "file": "texts/our-pasts-3/2014-07-28/08-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": 2,
+          "number": 9,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch03.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "108-122",
+          "fingerprint": "6c899d1c491ccaa0fcedd1dd6d0401634d0591a6cfde99cff3cd228ea4b6f0be",
+          "role_counts": {
+            "footer": 22,
+            "body": 116,
+            "chapter-number": 1,
+            "caption": 24,
+            "h2": 10,
+            "h3": 3,
+            "table": 15,
+            "note": 11
+          },
+          "file": "texts/our-pasts-3/2014-07-28/09-women-caste-and-reform.md"
+        },
+        {
+          "part": 2,
+          "number": 10,
+          "title": "The Changing World of Visual Arts",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "123-140",
+          "fingerprint": "d8752c416840d7ad4ea09eb9ee0581acd84b0c6628ace1200bb40fbebf2a90b1",
+          "role_counts": {
+            "footer": 19,
+            "body": 82,
+            "h2": 9,
+            "note": 10,
+            "chapter-number": 1,
+            "caption": 33,
+            "h3": 3,
+            "table": 17,
+            "decoration": 4
+          },
+          "file": "texts/our-pasts-3/2014-07-28/10-the-changing-world-of-visual-arts.md"
+        },
+        {
+          "part": 2,
+          "number": 11,
+          "title": "The Making of the National Movement: 1870s--1947",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch05.pdf",
+          "pdf_pages": 19,
+          "printed_pages": "141-159",
+          "fingerprint": "848917126fe0b52c2ed20326bd58c07bf9868b299d8458400c47ebec3055caac",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "body": 111,
+            "caption": 27,
+            "h2": 16,
+            "h3": 6,
+            "decoration": 5,
+            "table": 19,
+            "note": 8
+          },
+          "file": "texts/our-pasts-3/2014-07-28/11-the-making-of-the-national-movement-1870s-1947.md"
+        },
+        {
+          "part": 2,
+          "number": 12,
+          "title": "India After Independence",
+          "pdf": "pdfs/our-pasts-3/2014-07-28/part2-ch06.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "160-174",
+          "fingerprint": "040f93a06f9992705531a55e1d9aa1b37c3b709ad95e0b55d73e7178d3ce2e37",
+          "role_counts": {
+            "footer": 21,
+            "chapter-number": 1,
+            "caption": 21,
+            "h2": 13,
+            "body": 94,
+            "decoration": 6,
+            "table": 7,
+            "note": 4,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-3/2014-07-28/12-india-after-independence.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-03-12",
+      "fingerprint": "a6daf7fa532b64a3ba6a422552de01161c4f26dcd1eb9a2634ef3ef94fcce672",
+      "snapshots": [
+        "2019-03-12"
+      ],
+      "prelims": {
+        "part1": {
+          "title": null,
+          "first_edition": "January 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "February 2013",
+            "January 2014",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2018"
+          ],
+          "latest_print": "January 2018",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 9
+        },
+        "part2": {
+          "title": null,
+          "first_edition": "January 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "February 2013",
+            "January 2014",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2018"
+          ],
+          "latest_print": "January 2018",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 9
+        }
+      },
+      "chapter_count": 12,
+      "chapters": [
+        {
+          "part": 1,
+          "number": 1,
+          "title": "How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "b75bddf4ef510c2671d9e02b9b7d0c9758405e6f5f79920afc29595c7890426e",
+          "role_counts": {
+            "footer": 11,
+            "body": 56,
+            "caption": 10,
+            "h3": 4,
+            "table": 3
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/01-how-when-and-where.md"
+        },
+        {
+          "part": 1,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "0152ff0da91393c26f01c5a059fa7aa3db45cf660e4ab64c96665d227f9e1eff",
+          "role_counts": {
+            "footer": 25,
+            "body": 107,
+            "caption": 20,
+            "note": 2,
+            "h3": 4,
+            "table": 4
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": 1,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "2f17f255826a7605f2f7c6b9c63188257efaa354ba821132b69ff2b099679f5d",
+          "role_counts": {
+            "footer": 19,
+            "caption": 15,
+            "body": 86,
+            "h3": 7,
+            "table": 12
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/03-ruling-the-countryside.md"
+        },
+        {
+          "part": 1,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "09e612ec9bf4f3af638b6999dc5f4d03ac431befe542074f9b8e3ff7b78a75de",
+          "role_counts": {
+            "footer": 17,
+            "body": 85,
+            "caption": 11,
+            "h3": 8,
+            "table": 3,
+            "note": 1
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": 1,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "449a547333de97bbd0915f63580b599983e046e9db113477891d8533c85e2d95",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "h2": 11,
+            "body": 92,
+            "caption": 24,
+            "h3": 3,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2019-03-12/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": 1,
+          "number": 6,
+          "title": "Colonialism and the City The Story of an Imperial Capital",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part1-ch06.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "65-78",
+          "fingerprint": "007ba68f1e8604f430dffb3f6fb538ba1debd9f4500a5481192a65d4b987a84b",
+          "role_counts": {
+            "footer": 20,
+            "chapter-number": 1,
+            "h2": 11,
+            "body": 108,
+            "caption": 17,
+            "table": 7,
+            "h3": 2
+          },
+          "file": "texts/our-pasts-3/2019-03-12/06-colonialism-and-the-city-the-story-of-an-imperia.md"
+        },
+        {
+          "part": 2,
+          "number": 7,
+          "title": "Weavers, Iron Smelters and Factory Owners",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "79-94",
+          "fingerprint": "d72bb2a4c9e8e4d26d940d5af8d64a55dbeb93f50b608380e2debcaecedf12ef",
+          "role_counts": {
+            "footer": 22,
+            "caption": 20,
+            "table": 8,
+            "body": 88,
+            "h3": 4
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/07-weavers-iron-smelters-and-factory-owners.md"
+        },
+        {
+          "part": 2,
+          "number": 8,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch02.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "95-107",
+          "fingerprint": "947ad509b26ead428d2a70f9ba67737b66a0bfe11282e41a4d601a7e1dba1e89",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "body": 108,
+            "h2": 12,
+            "h3": 5,
+            "caption": 14,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2019-03-12/08-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": 2,
+          "number": 9,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch03.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "108-122",
+          "fingerprint": "49dd15b52268dda5100b23f21d253e95b51268c8eee4c138dc8342daf848fc26",
+          "role_counts": {
+            "footer": 21,
+            "body": 134,
+            "chapter-number": 1,
+            "caption": 20,
+            "h2": 10,
+            "h3": 5,
+            "table": 16,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2019-03-12/09-women-caste-and-reform.md"
+        },
+        {
+          "part": 2,
+          "number": 10,
+          "title": "The Changing World of Visual Arts",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "123-140",
+          "fingerprint": "178d24ef34f7afa1f11c0baaa07c237db435c4b40dda5901e83698296a406487",
+          "role_counts": {
+            "footer": 19,
+            "body": 88,
+            "note": 2,
+            "caption": 23,
+            "h3": 2,
+            "table": 20
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/10-the-changing-world-of-visual-arts.md"
+        },
+        {
+          "part": 2,
+          "number": 11,
+          "title": "The Making of the National Movement: 1870s-1947",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch05.pdf",
+          "pdf_pages": 19,
+          "printed_pages": "141-159",
+          "fingerprint": "05f0fbcb4d273e9a3b129e90598675433ee4f232930ae8adc44fe864e58efe31",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "body": 135,
+            "caption": 20,
+            "h2": 16,
+            "h3": 7,
+            "table": 21,
+            "note": 6
+          },
+          "file": "texts/our-pasts-3/2019-03-12/11-the-making-of-the-national-movement-1870s-1947.md"
+        },
+        {
+          "part": 2,
+          "number": 12,
+          "title": "India After Independence",
+          "pdf": "pdfs/our-pasts-3/2019-03-12/part2-ch06.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "160-174",
+          "fingerprint": "a1b2fb02c156a9248e16aa669b30658d728f0b1004a4a5e4bc57f88394bf9c29",
+          "role_counts": {
+            "footer": 21,
+            "body": 103,
+            "caption": 18,
+            "table": 7,
+            "note": 2,
+            "h3": 2
+          },
+          "title_borrowed_from": "2016-09-10",
+          "file": "texts/our-pasts-3/2019-03-12/12-india-after-independence.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-10-15",
+      "fingerprint": "83e52d4eda9563886f9d3188c060c537e20e80e9b7d457ef60999535e3246d26",
+      "snapshots": [
+        "2020-10-15"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "January 2019",
+          "reprints": [
+            "January 2009",
+            "November 2010",
+            "January 2012",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2019",
+            "October 2019"
+          ],
+          "latest_print": "October 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "395249a00226d4ae7002cb3c43b25c8062362bb8e2c9ac85250926af32e2303c",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 61,
+            "caption": 9,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2020-10-15/01-how-when-and-where.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "f2a6e2e67bf4c317ba5d935555b8568ea8881943d739af2df43f1d491d849fdf",
+          "role_counts": {
+            "footer": 42,
+            "chapter-number": 1,
+            "body": 114,
+            "caption": 20,
+            "h2": 16,
+            "note": 3,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2020-10-15/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "138a9825342bd49114a797c8ff7459472ea840a97e7034e2e944a44fd925099f",
+          "role_counts": {
+            "footer": 33,
+            "caption": 17,
+            "h2": 12,
+            "body": 95,
+            "chapter-number": 1,
+            "h3": 7,
+            "table": 17
+          },
+          "file": "texts/our-pasts-3/2020-10-15/03-ruling-the-countryside.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "61d0f3a701b196849cf13b09b0d2dfb181b0c1710f3e4c2b62a917d2040c4fca",
+          "role_counts": {
+            "footer": 29,
+            "chapter-number": 1,
+            "body": 86,
+            "caption": 16,
+            "h2": 11,
+            "h3": 8,
+            "table": 10,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2020-10-15/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "09a403d4919a819b5fabeb793e0907d3504588881356707696f7842d775d0aad",
+          "role_counts": {
+            "footer": 33,
+            "chapter-number": 1,
+            "h2": 11,
+            "body": 78,
+            "caption": 24,
+            "h3": 3,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2020-10-15/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Weavers, Iron Smelters and Factory Owners",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "65-80",
+          "fingerprint": "869e40ba9e9d744c91600f0b7fd8eb27d0bd47108520d300a22cf13dc495d945",
+          "role_counts": {
+            "footer": 38,
+            "chapter-number": 1,
+            "caption": 20,
+            "table": 13,
+            "body": 90,
+            "h2": 9,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-3/2020-10-15/06-weavers-iron-smelters-and-factory-owners.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "81-93",
+          "fingerprint": "8039cbd4a6e350f1faac134d9264207eaed1b1b1e8d6c251b10d0e761814228b",
+          "role_counts": {
+            "footer": 32,
+            "chapter-number": 1,
+            "body": 95,
+            "h2": 12,
+            "h3": 5,
+            "caption": 14,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2020-10-15/07-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch08.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "94-108",
+          "fingerprint": "159a634b92c9bc8a67dec7441477eefc43265790d5efee429a6cfef9ee13e480",
+          "role_counts": {
+            "footer": 36,
+            "body": 120,
+            "chapter-number": 1,
+            "caption": 19,
+            "h2": 10,
+            "h3": 4,
+            "table": 16,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2020-10-15/08-women-caste-and-reform.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "The Making of the National Movement: 1870s--1947",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch09.pdf",
+          "pdf_pages": 19,
+          "printed_pages": "109-127",
+          "fingerprint": "b463a0b1ab29c337c0c2492d1308254b20d5f937074fe35483c4faec93842012",
+          "role_counts": {
+            "footer": 38,
+            "chapter-number": 1,
+            "body": 116,
+            "caption": 20,
+            "h2": 16,
+            "h3": 7,
+            "table": 21,
+            "note": 6
+          },
+          "file": "texts/our-pasts-3/2020-10-15/09-the-making-of-the-national-movement-1870s-1947.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "India After Independence",
+          "pdf": "pdfs/our-pasts-3/2020-10-15/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "128-142",
+          "fingerprint": "0bc7bd90f2755e8554539ca4cf0342be9bac13c39360ca1800b58d0c13aaff5f",
+          "role_counts": {
+            "footer": 36,
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 80,
+            "caption": 20,
+            "table": 7,
+            "note": 1,
+            "h3": 2
+          },
+          "file": "texts/our-pasts-3/2020-10-15/10-india-after-independence.md"
+        }
+      ]
+    },
+    {
+      "id": "2021-08-14",
+      "fingerprint": "2b3fee461317e189b8ee05f60cdcdae794a16e4f8a6ee8ff44dea5c05ebba906",
+      "snapshots": [
+        "2021-08-14"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "January 2019",
+          "reprints": [
+            "January 2009",
+            "November 2010",
+            "January 2012",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2019",
+            "October 2019",
+            "March 2021"
+          ],
+          "latest_print": "March 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "395249a00226d4ae7002cb3c43b25c8062362bb8e2c9ac85250926af32e2303c",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 61,
+            "caption": 9,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2021-08-14/01-how-when-and-where.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "f2a6e2e67bf4c317ba5d935555b8568ea8881943d739af2df43f1d491d849fdf",
+          "role_counts": {
+            "footer": 42,
+            "chapter-number": 1,
+            "body": 114,
+            "caption": 20,
+            "h2": 16,
+            "note": 3,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2021-08-14/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "138a9825342bd49114a797c8ff7459472ea840a97e7034e2e944a44fd925099f",
+          "role_counts": {
+            "footer": 31,
+            "caption": 17,
+            "h2": 12,
+            "body": 95,
+            "chapter-number": 1,
+            "h3": 7,
+            "table": 17
+          },
+          "file": "texts/our-pasts-3/2021-08-14/03-ruling-the-countryside.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "61d0f3a701b196849cf13b09b0d2dfb181b0c1710f3e4c2b62a917d2040c4fca",
+          "role_counts": {
+            "footer": 29,
+            "chapter-number": 1,
+            "body": 86,
+            "caption": 16,
+            "h2": 11,
+            "h3": 8,
+            "table": 10,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2021-08-14/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "dec05a5f1dc634c3b555de1b8aeae30f082ae87e2ef4a93049b544a6ad82ad8c",
+          "role_counts": {
+            "footer": 34,
+            "chapter-number": 1,
+            "h2": 11,
+            "body": 78,
+            "caption": 24,
+            "h3": 3,
+            "table": 6
+          },
+          "file": "texts/our-pasts-3/2021-08-14/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Weavers, Iron Smelters and Factory Owners",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "65-80",
+          "fingerprint": "869e40ba9e9d744c91600f0b7fd8eb27d0bd47108520d300a22cf13dc495d945",
+          "role_counts": {
+            "footer": 39,
+            "chapter-number": 1,
+            "caption": 20,
+            "table": 12,
+            "body": 90,
+            "h2": 9,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-3/2021-08-14/06-weavers-iron-smelters-and-factory-owners.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "81-93",
+          "fingerprint": "8039cbd4a6e350f1faac134d9264207eaed1b1b1e8d6c251b10d0e761814228b",
+          "role_counts": {
+            "footer": 33,
+            "chapter-number": 1,
+            "body": 95,
+            "h2": 12,
+            "h3": 5,
+            "caption": 13,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2021-08-14/07-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch08.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "94-108",
+          "fingerprint": "159a634b92c9bc8a67dec7441477eefc43265790d5efee429a6cfef9ee13e480",
+          "role_counts": {
+            "footer": 36,
+            "body": 120,
+            "chapter-number": 1,
+            "caption": 19,
+            "h2": 10,
+            "h3": 4,
+            "table": 16,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2021-08-14/08-women-caste-and-reform.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "The Making of the National Movement: 1870s--1947",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch09.pdf",
+          "pdf_pages": 19,
+          "printed_pages": "109-127",
+          "fingerprint": "b463a0b1ab29c337c0c2492d1308254b20d5f937074fe35483c4faec93842012",
+          "role_counts": {
+            "footer": 38,
+            "chapter-number": 1,
+            "body": 116,
+            "caption": 20,
+            "h2": 16,
+            "h3": 7,
+            "table": 21,
+            "note": 6
+          },
+          "file": "texts/our-pasts-3/2021-08-14/09-the-making-of-the-national-movement-1870s-1947.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "India After Independence",
+          "pdf": "pdfs/our-pasts-3/2021-08-14/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "128-142",
+          "fingerprint": "0bc7bd90f2755e8554539ca4cf0342be9bac13c39360ca1800b58d0c13aaff5f",
+          "role_counts": {
+            "footer": 37,
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 80,
+            "caption": 19,
+            "table": 7,
+            "note": 1,
+            "h3": 2
+          },
+          "file": "texts/our-pasts-3/2021-08-14/10-india-after-independence.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-08-02",
+      "fingerprint": "929c7ac544b1ed976ce050d7feb62bb9a6e27dc1b2a4bbb9bd62d03a7db16a6e",
+      "snapshots": [
+        "2022-08-02"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "January 2019",
+          "reprints": [
+            "January 2009",
+            "November 2010",
+            "January 2012",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2019",
+            "October 2019",
+            "March 2021",
+            "October 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 10,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "395249a00226d4ae7002cb3c43b25c8062362bb8e2c9ac85250926af32e2303c",
+          "role_counts": {
+            "footer": 19,
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 61,
+            "caption": 9,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2022-08-02/01-how-when-and-where.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "f2a6e2e67bf4c317ba5d935555b8568ea8881943d739af2df43f1d491d849fdf",
+          "role_counts": {
+            "footer": 42,
+            "chapter-number": 1,
+            "body": 114,
+            "caption": 20,
+            "h2": 16,
+            "note": 3,
+            "h3": 4,
+            "table": 11
+          },
+          "file": "texts/our-pasts-3/2022-08-02/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "89a7e3d3a13d6755333dd4cb0fe36b0cb74948eeaa1101bd682706151619d131",
+          "role_counts": {
+            "footer": 31,
+            "caption": 17,
+            "h2": 12,
+            "body": 95,
+            "chapter-number": 1,
+            "h3": 7,
+            "table": 17
+          },
+          "file": "texts/our-pasts-3/2022-08-02/03-ruling-the-countryside.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "e33cfe0f666b94a01c875598a0151c7dbd1a57b74d2c702fa32923bcda6f0fd2",
+          "role_counts": {
+            "footer": 29,
+            "chapter-number": 1,
+            "body": 89,
+            "caption": 15,
+            "h2": 11,
+            "h3": 5,
+            "table": 11,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2022-08-02/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "dec05a5f1dc634c3b555de1b8aeae30f082ae87e2ef4a93049b544a6ad82ad8c",
+          "role_counts": {
+            "footer": 34,
+            "chapter-number": 1,
+            "h2": 11,
+            "body": 78,
+            "caption": 24,
+            "h3": 3,
+            "table": 6
+          },
+          "file": "texts/our-pasts-3/2022-08-02/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Weavers, Iron Smelters and Factory Owners",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch06.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "65-80",
+          "fingerprint": "869e40ba9e9d744c91600f0b7fd8eb27d0bd47108520d300a22cf13dc495d945",
+          "role_counts": {
+            "footer": 38,
+            "chapter-number": 1,
+            "caption": 20,
+            "table": 13,
+            "body": 90,
+            "h2": 9,
+            "h3": 4
+          },
+          "file": "texts/our-pasts-3/2022-08-02/06-weavers-iron-smelters-and-factory-owners.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch07.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "81-93",
+          "fingerprint": "8039cbd4a6e350f1faac134d9264207eaed1b1b1e8d6c251b10d0e761814228b",
+          "role_counts": {
+            "footer": 33,
+            "chapter-number": 1,
+            "body": 95,
+            "h2": 12,
+            "h3": 5,
+            "caption": 13,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2022-08-02/07-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch08.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "94-108",
+          "fingerprint": "159a634b92c9bc8a67dec7441477eefc43265790d5efee429a6cfef9ee13e480",
+          "role_counts": {
+            "footer": 36,
+            "body": 120,
+            "chapter-number": 1,
+            "caption": 19,
+            "h2": 10,
+            "h3": 4,
+            "table": 16,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2022-08-02/08-women-caste-and-reform.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "The Making of the National Movement: 1870s--1947",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch09.pdf",
+          "pdf_pages": 19,
+          "printed_pages": "109-127",
+          "fingerprint": "b463a0b1ab29c337c0c2492d1308254b20d5f937074fe35483c4faec93842012",
+          "role_counts": {
+            "footer": 38,
+            "chapter-number": 1,
+            "body": 116,
+            "caption": 20,
+            "h2": 16,
+            "h3": 7,
+            "table": 21,
+            "note": 6
+          },
+          "file": "texts/our-pasts-3/2022-08-02/09-the-making-of-the-national-movement-1870s-1947.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "India After Independence",
+          "pdf": "pdfs/our-pasts-3/2022-08-02/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "128-142",
+          "fingerprint": "0bc7bd90f2755e8554539ca4cf0342be9bac13c39360ca1800b58d0c13aaff5f",
+          "role_counts": {
+            "footer": 37,
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 80,
+            "caption": 19,
+            "table": 7,
+            "note": 1,
+            "h3": 2
+          },
+          "file": "texts/our-pasts-3/2022-08-02/10-india-after-independence.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "f1afd4a99dbdd0e63e85ff302cd0e804495fcbea8c33a2d30bf3a94e69ddf9c6",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "January 2019",
+          "reprints": [
+            "January 2009",
+            "November 2010",
+            "January 2012",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2019",
+            "October 2019",
+            "March 2021",
+            "October 2021",
+            "November 2021",
+            "July 2022",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Introduction: How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "a80610151012008dfa7dba022c31de2bf478e19a7ddfd12d6940a04521ae0736",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 57,
+            "caption": 14,
+            "footer": 15,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/01-introduction-how-when-and-where.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "1d8be12cefdd8806106ed05fd8d5f3177fb7409839ba2b1104644556295b4fe8",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 108,
+            "caption": 22,
+            "footer": 34,
+            "h2": 16,
+            "note": 4,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "8a1845f385323a0cc1cc795b9dd51755ed9f3a179a8ac96e9e9330bb8e7086c5",
+          "role_counts": {
+            "caption": 16,
+            "h2": 12,
+            "body": 92,
+            "chapter-number": 1,
+            "footer": 25,
+            "table": 16
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/03-ruling-the-countryside.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "60f481b5c2f3d7b017f63843b8c40d5b5e4c0d6566ebedf3649777427b8634d9",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 88,
+            "caption": 17,
+            "footer": 24,
+            "h2": 10,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "When People Rebel 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "9a6647e5c430197fd444f053e54ae3a967e794b7202c589257e7a1e04d71abcb",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 74,
+            "caption": 27,
+            "footer": 28,
+            "table": 2,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/05-when-people-rebel-1857-and-after.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch06.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "65-77",
+          "fingerprint": "d44381974e1a143ccd63b7188f4b94553adef0859c4fefd9fcc19e04c88bbb0b",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 87,
+            "h2": 12,
+            "footer": 26,
+            "caption": 18,
+            "table": 6,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/06-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch07.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "78-92",
+          "fingerprint": "5c04bd9a1eedc5dff2287e9855135f6630c70d9ee59cab5dfbf267ca223ae9da",
+          "role_counts": {
+            "body": 109,
+            "chapter-number": 1,
+            "caption": 23,
+            "footer": 29,
+            "h2": 10,
+            "table": 14,
+            "note": 11
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/07-women-caste-and-reform.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "The Making of the National Movement: 1870s–1947",
+          "pdf": "pdfs/our-pasts-3/2023-12-23/ch08.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "93-112",
+          "fingerprint": "0fb3800d7e502954400cb23274b3a193c733fa9460da5e62f2de8734271bbcd4",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 122,
+            "caption": 25,
+            "footer": 37,
+            "h2": 18,
+            "table": 19,
+            "note": 10
+          },
+          "file": "texts/our-pasts-3/2023-12-23-rationalised/08-the-making-of-the-national-movement-1870s1947.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-08-04",
+      "fingerprint": "fadeb841256a6641dfaeade1a1c77a116bf63425207a517b8af1ab1cee32c4ed",
+      "snapshots": [
+        "2024-08-04",
+        "live-2026-10-18"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "January 2019",
+          "reprints": [
+            "January 2009",
+            "November 2010",
+            "January 2012",
+            "December 2014",
+            "January 2016",
+            "December 2016",
+            "January 2019",
+            "October 2019",
+            "March 2021",
+            "October 2021",
+            "November 2021",
+            "July 2022",
+            "November 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": "Reprint 2024-25",
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Introduction: How, When and Where",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "1-8",
+          "fingerprint": "2b5d1d5713044517c6c3ec313764afa2c63d258de8b8a355f608c7291708463b",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 9,
+            "body": 57,
+            "caption": 14,
+            "footer": 15,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2024-08-04/01-introduction-how-when-and-where.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "From Trade to Territory The Company Establishes Power",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch02.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "9-25",
+          "fingerprint": "40458ecdc4a29cd6a5ca7798bfa44b5d1a6733e30073b8213fbb01a9f8a64102",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 108,
+            "caption": 22,
+            "footer": 34,
+            "h2": 16,
+            "note": 4,
+            "table": 9
+          },
+          "file": "texts/our-pasts-3/2024-08-04/02-from-trade-to-territory-the-company-establishes.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Ruling the Countryside",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch03.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "26-38",
+          "fingerprint": "8a1845f385323a0cc1cc795b9dd51755ed9f3a179a8ac96e9e9330bb8e7086c5",
+          "role_counts": {
+            "caption": 16,
+            "h2": 12,
+            "body": 92,
+            "chapter-number": 1,
+            "footer": 25,
+            "table": 16
+          },
+          "file": "texts/our-pasts-3/2024-08-04/03-ruling-the-countryside.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Tribals, Dikus and the Vision of a Golden Age",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "39-50",
+          "fingerprint": "1dc13740fcdd0e7a04c60547c558c7364da0a96a2a48191d593894b681092b93",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 88,
+            "caption": 18,
+            "footer": 24,
+            "h2": 10,
+            "table": 7
+          },
+          "file": "texts/our-pasts-3/2024-08-04/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "When People Revolt 1857 and After",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "51-64",
+          "fingerprint": "ffc918f2f4dbe769ca6524b0778c07b4cec962525864c349db1421cacc2e3c52",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 74,
+            "caption": 27,
+            "footer": 28,
+            "table": 2,
+            "note": 1
+          },
+          "file": "texts/our-pasts-3/2024-08-04/05-when-people-revolt-1857-and-after.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Civilising the “Native”, Educating the Nation",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch06.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "65-77",
+          "fingerprint": "d44381974e1a143ccd63b7188f4b94553adef0859c4fefd9fcc19e04c88bbb0b",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 87,
+            "h2": 12,
+            "footer": 26,
+            "caption": 18,
+            "table": 6,
+            "note": 3
+          },
+          "file": "texts/our-pasts-3/2024-08-04/06-civilising-the-native-educating-the-nation.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch07.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "78-92",
+          "fingerprint": "73d59403b56689c0a4d7e98aec4ca2b46ce67f4b262bf55044e12d4821450e36",
+          "role_counts": {
+            "body": 109,
+            "chapter-number": 1,
+            "caption": 23,
+            "footer": 29,
+            "h2": 10,
+            "table": 14,
+            "note": 11
+          },
+          "file": "texts/our-pasts-3/2024-08-04/07-women-caste-and-reform.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "The Making of the National Movement: 1870s–1947",
+          "pdf": "pdfs/our-pasts-3/2024-08-04/ch08.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "93-112",
+          "fingerprint": "e2f8d9d78f440fa95ca9ad1b43d3246786b8ef32765be8df5bc13c6e613d453e",
+          "role_counts": {
+            "chapter-number": 1,
+            "body": 122,
+            "caption": 25,
+            "footer": 37,
+            "h2": 18,
+            "table": 19,
+            "note": 10
+          },
+          "file": "texts/our-pasts-3/2024-08-04/08-the-making-of-the-national-movement-1870s1947.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": []
+}
