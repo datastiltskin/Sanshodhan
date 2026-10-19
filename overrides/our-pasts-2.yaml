@@ -1,0 +1,243 @@
+# Hand corrections to extracted text. Applied after extraction, before fingerprinting.
+# Fields: snapshot (label or "*"), chapter (number or "*"), find, replace, note (why).
+# An entry with a specific snapshot and chapter must match, or the editions step reports it.
+- snapshot: "2016-09-10"
+  chapter: 4
+  find: "(1588-1629); ; and"
+  replace: "(1588-1629); and"
+  note: "doubled semicolon in the Elsewhere box on page 57, the page has one"
+- snapshot: "*"
+  chapter: 5
+  find: "defeated the Importance of water king, Sena I"
+  replace: "defeated the king, Sena I"
+  note: "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
+- snapshot: "*"
+  chapter: "*"
+  find: "These are to remind you of important ideas/ themes introduced There is a lot to read, see, think about and do in this book. We hope you will enjoy it.\n\n- in the lesson."
+  replace: "These are to remind you of important ideas/ themes introduced in the lesson."
+  note: "Keywords box on the 'In this book' page (xiii) ends 'in the lesson.', the closing line below the purple note was read into it"
+- snapshot: "*"
+  chapter: "*"
+  find: "You will also find different kinds of activities listed at the end of each chapter — Let’s recall, Let’s discuss, Let’s do and Let’s understand."
+  replace: "You will also find different kinds of activities listed at the end of each chapter — Let’s recall, Let’s discuss, Let’s do and Let’s understand.\n\nThere is a lot to read, see, think about and do in this book. We hope you will enjoy it."
+  note: "closing line of the 'In this book' page (xiii) sits below the purple note, put back after it"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "ake a look at Maps 1 and 2. Map 1 was made in 1154 ce"
+  replace: "Take a look at Maps 1 and 2. Map 1 was made in 1154 CE"
+  note: "drop capital T lost and small-capital CE read in lower case on page 1"
+- snapshot: "2022-08-04"
+  chapter: 2
+  find: "canals had to be constructed to In many cases it was necessary"
+  replace: "canals had to be constructed to carry water to the fields. In many areas two crops were grown in a year.\n\nIn many cases it was necessary"
+  note: "page 24 breaks off at 'constructed to' and page 25 opens 'carry water to the fields. In many areas two crops were grown in a year.' before the next paragraph"
+- snapshot: "2022-08-04"
+  chapter: 2
+  find: "<!-- page 25 (pdf 10) -->\n\ncarry water to the fields. In many areas two crops were grown in a year.\n\nThe Administration"
+  replace: "<!-- page 25 (pdf 10) -->\n\nThe Administration"
+  note: "the opening sentence of page 25 now stands in the paragraph on page 24 where the page continues it"
+- snapshot: "2022-08-04"
+  chapter: 2
+  find: "Rnowledge"
+  replace: "Knowledge"
+  note: "OCR read k as R in the Inscriptions and texts box on page 27, the page reads Knowledge"
+- snapshot: "2022-08-04"
+  chapter: 3
+  find: "Quuwwat"
+  replace: "Quwwat"
+  note: "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "defeated Rana anges Rajput rulers"
+  replace: "defeated Rana Sanga, Rajput rulers"
+  note: "OCR misread of Sanga in Table 1 on page 48, the page reads 'Rana Sanga, Rajput rulers'"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "after ye an accident"
+  replace: "after an accident"
+  note: "stray OCR token in Table 1 on page 48, the page reads 'after an accident'"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "Prince paling,"
+  replace: "Prince Salim,"
+  note: "OCR misread of Salim in Table 1 on page 48"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "The Mughals\n\n~-.» used one term - zamindars - to describe all statistical details about things as diverse as = Akbar recieving the Akbar Nama crops, yields, prices, wages and revenues. from Abul Fazl.\n\nintermediaries,"
+  replace: "The Mughals used one term – zamindars – to describe all intermediaries,"
+  note: "text of the box and caption from page 53 spliced into the paragraph on page 52, which reads 'used one term – zamindars – to describe all intermediaries'"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "is its rich Fig.7"
+  replace: "is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.\n\n> [caption] Fig. 7 Akbar recieving the Akbar Nama from Abul Fazl."
+  note: "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it"
+- snapshot: "2022-08-04"
+  chapter: 5
+  find: "Notice how the names A royal architect of the ruler"
+  replace: "Notice how the names of the ruler"
+  note: "margin box title 'A royal architect' glued into the sentence on page 64, the sentence runs on from page 63"
+- snapshot: "2022-08-04"
+  chapter: 7
+  find: "the daughter of Dalpat, however, died early. Rani Durgawati"
+  replace: "the daughter of Salbahan, the Chandel Rajput raja of Mahoba.\n\nDalpat, however, died early. Rani Durgawati"
+  note: "the paragraph wraps round Fig. 6 on page 98 and its second half was read after the map legend, the page continues 'daughter of Salbahan, the Chandel Rajput raja of Mahoba.'"
+- snapshot: "2022-08-04"
+  chapter: 7
+  find: "Sarkar\n\nSalbahan, the Chandel Rajput raja of Mahoba.\n\n> [caption] Map 2"
+  replace: "Sarkar\n\n> [caption] Map 2"
+  note: "the line 'Salbahan, the Chandel Rajput raja of Mahoba.' belongs to the paragraph on page 98 and is not part of the map legend"
+- snapshot: "2022-08-04"
+  chapter: 8
+  find: "Mark fim as a saint"
+  replace: "Mark him as a saint"
+  note: "OCR read h as f in the abhang on page 109"
+- snapshot: "2022-08-04"
+  chapter: 8
+  find: "And yet Rana why have you Rept up\n\n4 Rana"
+  replace: "And yet Rana why have you kept up\n\n4 Rana"
+  note: "OCR read k as R in Mirabai's song on page 115"
+- snapshot: "2022-08-04"
+  chapter: 8
+  find: "I will not be destroyed by you. And yet Rana why have you Rept up"
+  replace: "I will not be destroyed by you. And yet Rana why have you kept up"
+  note: "OCR read k as R in Mirabai's song on page 115"
+- snapshot: "2022-08-04"
+  chapter: 8
+  find: "translated\n\nKey ga ag Se 7 qt the Bible into German."
+  replace: "translated the Bible into German."
+  note: "noise from the picture on page 119 read as words, the page reads 'translated the Bible into German.'"
+- snapshot: "2022-08-04"
+  chapter: 8
+  find: "## E, es i Beyond the Rana’s palace"
+  replace: "## Beyond the Rana’s palace"
+  note: "noise words before the box title on page 115"
+- snapshot: "2022-08-04"
+  chapter: 9
+  find: "growing Maynamati, Gopichandra and"
+  replace: "growing"
+  note: "box title from page 132 glued into the sentence on page 130, which continues 'influence of Sanskrit.' on the next page"
+- snapshot: "2022-08-04"
+  chapter: 9
+  find: "Match the following: NSA Anantavarman Kerala"
+  replace: "Match the following: Anantavarman Kerala"
+  note: "stray OCR token 'NSA' from the margin triangle on page 136"
+- snapshot: "2023-12-23"
+  chapter: 7
+  find: "By the late seventeenth painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.\n\n> [caption] Fig. 7 Akbar resting during a hunt, Mughal miniature.\n\n<!-- page 86 (pdf 8) -->\n\nRemember that ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries."
+  replace: "By the late seventeenth century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.\n\n> [caption] Fig. 7 Akbar resting during a hunt, Mughal miniature.\n\n<!-- page 86 (pdf 8) -->\n\nRemember that ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries."
+  note: "text wrapped round Fig. 9 on page 86 (and round the Fig. 7 break from page 85), the Basohli and Kangra paragraph and the 'Remember that' paragraph had been read into each other"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "example of a . prashasti))"
+  replace: "example of a prashasti)"
+  note: "stray full stop and doubled bracket from an italic word in the caption on page 9"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "Masalik : al-Absar"
+  replace: "Masalik al-Absar"
+  note: "stray colon in the map caption on page 9"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "Maharashtra and Gujarati apparently fled"
+  replace: "Maharashtra and Gujarat apparently fled"
+  note: "page 9 reads 'Gujarat'"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "(Hanafi and in theology and and Shaf'i mainly in India), mystic traditions."
+  replace: "(Hanafi and Shafi’i mainly in India), and in theology and mystic traditions."
+  note: "words out of order on page 12"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "The : nastaliq style"
+  replace: "The nastaliq style"
+  note: "stray colon in the caption on page 6"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "How were the affairs of f jatis regulated?"
+  replace: "How were the affairs of jatis regulated?"
+  note: "stray 'f' before the italic word on page 15"
+- snapshot: "2024-05-24"
+  chapter: 1
+  find: "\"medieval\". . You will find out"
+  replace: "\"medieval\". You will find out"
+  note: "stray full stop after the closing quotation mark on page 13"
+- snapshot: "2024-05-24"
+  chapter: 2
+  find: "finance the kings establishment"
+  replace: "finance the king’s establishment"
+  note: "apostrophe lost on page 18"
+- snapshot: "2024-05-24"
+  chapter: 2
+  find: "Unlike the writers of : prashastis,"
+  replace: "Unlike the writers of prashastis,"
+  note: "stray colon before an italic word on page 20"
+- snapshot: "2024-05-24"
+  chapter: 3
+  find: "twelfth century.. Delhi first became the capital Take a look at Table 1. of a kingdom"
+  replace: "twelfth century.\n\nTake a look at Table 1.\n\nDelhi first became the capital of a kingdom"
+  note: "on page 30 the blue question 'Take a look at Table 1.' is a separate box and had been read into the sentence, and the full stop was doubled"
+- snapshot: "2024-05-24"
+  chapter: 3
+  find: "Wise men have said\n\n## that a worthy and experienced slave is better than a son."
+  replace: "Wise men have said that a worthy and experienced slave is better than a son."
+  note: "quotation tail read as a heading on page 34"
+- snapshot: "2024-05-24"
+  chapter: 3
+  find: "cut down the\n\n## bamboos with specially prepared instruments."
+  replace: "cut down the bamboos with specially prepared instruments."
+  note: "quotation tail read as a heading on page 36"
+- snapshot: "2024-05-24"
+  chapter: 3
+  find: "annual sayings to the needs and the travellers"
+  replace: "annual savings to the needy and the travellers"
+  note: "OCR misreadings in the zakat note on page 35, the page reads 'annual savings to the needy and the travellers'"
+- snapshot: "2024-05-24"
+  chapter: 3
+  find: "the samanta: aristocrats"
+  replace: "the samanta aristocrats"
+  note: "stray colon after an italic word on page 35"
+- snapshot: "2024-05-24"
+  chapter: 4
+  find: "## Babur, the first Mughal emperor (1526 - 1530), succeeded to the 1494 when throne of Ferghana in\n\nhe was only 12 years old."
+  replace: "Babur, the first Mughal emperor (1526 - 1530), succeeded to the throne of Ferghana in 1494 when he was only 12 years old."
+  note: "paragraph opening read as a heading and words out of order on page 40, the page reads 'succeeded to the throne of Ferghana in 1494 when he was only 12 years old.'"
+- snapshot: "2024-05-24"
+  chapter: 4
+  find: "Shah Jahans reign"
+  replace: "Shah Jahan’s reign"
+  note: "apostrophe lost on page 45"
+- snapshot: "2024-05-24"
+  chapter: 4
+  find: "the mansabdar and the jagir:?"
+  replace: "the mansabdar and the jagir?"
+  note: "stray colon after an italic word on page 47"
+- snapshot: "2024-05-24"
+  chapter: 5
+  find: "Varnas -based society"
+  replace: "Varna-based society"
+  note: "page 58 reads 'Varna-based society'"
+- snapshot: "2024-05-24"
+  chapter: 5
+  find: "(c) The chaurasii in Gond states"
+  replace: "(c) The chaurasi in Gond states"
+  note: "page 59 reads 'chaurasi'"
+- snapshot: "2024-05-24"
+  chapter: 5
+  find: "(a) The new castes emerging within were called"
+  replace: "(a) The new castes emerging within varnas were called"
+  note: "italic word 'varnas' lost on page 59"
+- snapshot: "2024-05-24"
+  chapter: 6
+  find: "w or shi pped in different areas came to be identified with Shi va, Vish n u or Durga."
+  replace: "worshipped in different areas came to be identified with Shiva, Vishnu or Durga."
+  note: "letter-spaced column on page 62 read as broken words, the page reads 'worshipped in different areas came to be identified with Shiva, Vishnu or Durga.'"
+- snapshot: "2024-05-24"
+  chapter: 6
+  find: "Bhagavata Purana1. He also encouraged the establishment\n\nfo satra monasteries"
+  replace: "Bhagavata Purana. He also encouraged the establishment\n\nof satra or monasteries"
+  note: "note on page 71 reads 'Bhagavata Purana. He also encouraged the establishment of satra or monasteries', the '1' is a stray mark and 'of' was misread as 'fo' with 'or' lost"
+- snapshot: "2024-05-24"
+  chapter: 7
+  find: "Many of the modest brick Why do you think"
+  replace: "Many of the modest brick\n\nWhy do you think"
+  note: "the blue question on page 89 is a separate box and had been read into the paragraph, which continues 'and terracotta temples' on page 90"

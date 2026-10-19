@@ -1,0 +1,118 @@
+# Hand corrections to extracted text. Applied after extraction, before fingerprinting.
+# Fields: snapshot (label or "*"), chapter (number or "*"), find (exact text), replace, note (why).
+- snapshot: "2014-07-28"
+  chapter: 2
+  find: "### Sawar – Men on horses"
+  replace: "Sawar – Men on horses"
+  note: "glossary entry in the margin box on page 22 (between Dharmashastras and Musket), not a heading"
+- snapshot: "2014-07-28"
+  chapter: 4
+  find: "### Sal – A tree"
+  replace: "Sal – A tree"
+  note: "glossary entry in the margin box on page 40 (after Fallow, before Mahua), not a heading"
+- snapshot: "2014-07-28"
+  chapter: 6
+  find: "### Dargah – The tomb of a Sufi saint"
+  replace: "Dargah – The tomb of a Sufi saint"
+  note: "glossary entry at the top of the margin box on page 66 (before Khanqah), not a heading"
+- snapshot: "2019-03-12"
+  chapter: 4
+  find: "### Why do we\n\n> [note] need cash!"
+  replace: "### Why do we need cash!"
+  note: "the Elsewhere box on page 49 prints the title as one two-line heading, \"Why do we need cash!\""
+- snapshot: "2014-07-28"
+  chapter: 10
+  find: "fghsdtysd\n\n"
+  replace: ""
+  note: "hidden stray text on page 127 between the nawab paragraph and the heading Painting history, nothing is printed there"
+- snapshot: "2019-03-12"
+  chapter: 10
+  find: "fghsdtysd\n\n"
+  replace: ""
+  note: "hidden stray text on page 127 between the nawab paragraph and the heading Painting history, nothing is printed there"
+- snapshot: "2019-03-12"
+  chapter: 9
+  find: "what new opportunities openedup for people"
+  replace: "what new opportunities opened up for people"
+  note: "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
+- snapshot: "2020-10-15"
+  chapter: 8
+  find: "what new opportunities openedup for people"
+  replace: "what new opportunities opened up for people"
+  note: "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
+- snapshot: "2021-08-14"
+  chapter: 8
+  find: "what new opportunities openedup for people"
+  replace: "what new opportunities opened up for people"
+  note: "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
+- snapshot: "2022-08-02"
+  chapter: 8
+  find: "what new opportunities openedup for people"
+  replace: "what new opportunities opened up for people"
+  note: "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
+- snapshot: "2023-12-23"
+  chapter: 2
+  find: "(b) Haidar Ali and Tipu Sultan were the rulers of\n"
+  replace: "(b) Haidar Ali and Tipu Sultan were the rulers of ___________.\n"
+  note: "page 24 prints an answer blank after \"rulers of\" on the next line, not extracted"
+- snapshot: "2023-12-23"
+  chapter: 2
+  find: "(c) Dalhousie implemented the Doctrine of\n"
+  replace: "(c) Dalhousie implemented the Doctrine of ___________.\n"
+  note: "page 24 prints an answer blank after \"Doctrine of\" on the next line, not extracted"
+- snapshot: "2024-08-04"
+  chapter: 2
+  find: "(b) Haidar Ali and Tipu Sultan were the rulers of\n"
+  replace: "(b) Haidar Ali and Tipu Sultan were the rulers of ___________.\n"
+  note: "page 24 prints an answer blank after \"rulers of\" on the next line, not extracted"
+- snapshot: "2024-08-04"
+  chapter: 2
+  find: "(c) Dalhousie implemented the Doctrine of\n"
+  replace: "(c) Dalhousie implemented the Doctrine of ___________.\n"
+  note: "page 24 prints an answer blank after \"Doctrine of\" on the next line, not extracted"
+- snapshot: "2023-12-23"
+  chapter: 8
+  find: "Mr. Telang too r em ains busy."
+  replace: "Mr. Telang too remains busy."
+  note: "wide word spacing in the Source 2 box on page 96, the print reads \"remains\""
+- snapshot: "2024-08-04"
+  chapter: 8
+  find: "Mr. Telang too r em ain s busy."
+  replace: "Mr. Telang too remains busy."
+  note: "wide word spacing in the Source 2 box on page 96, the print reads \"remains\""
+
+- snapshot: "2016-09-10"
+  chapter: 2
+  find: "### Sawar – Men on horses"
+  replace: "Sawar – Men on horses"
+  note: "glossary entry in the margin box on page 22 (between Dharmashastras and Musket), not a heading"
+- snapshot: "2016-09-10"
+  chapter: 4
+  find: "### Sal – A tree"
+  replace: "Sal – A tree"
+  note: "glossary entry in the margin box on page 40 (after Fallow, before Mahua), not a heading"
+- snapshot: "2016-09-10"
+  chapter: 6
+  find: "### Dargah – The tomb of a Sufi saint"
+  replace: "Dargah – The tomb of a Sufi saint"
+  note: "glossary entry at the top of the margin box on page 66 (before Khanqah), not a heading"
+- snapshot: "2016-09-10"
+  chapter: 10
+  find: "fghsdtysd\n\n"
+  replace: ""
+  note: "hidden stray text on page 127 between the nawab paragraph and the heading Painting history, nothing is printed there"
+- snapshot: "2020-10-15"
+  chapter: "prelims"
+  find: "> [table] F EDUCATI TIONAL RESEARCH AND T\n\nTRAIN i\n\n> [table] NATI TIONAL COUNCIL"
+  replace: "> [table] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING"
+  note: "the cover (pdf page 1) prints this as one line, the font made the extractor split it into three fragments"
+- snapshot: "2021-08-14"
+  chapter: "prelims"
+  find: "> [table] F EDUCATI TIONAL RESEARCH AND T\n\nTRAIN i\n\n> [table] NATI TIONAL COUNCIL"
+  replace: "> [table] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING"
+  note: "the cover (pdf page 1) prints this as one line, the font made the extractor split it into three fragments"
+- snapshot: "2022-08-02"
+  chapter: "prelims"
+  find: "> [table] F EDUCATI TIONAL RESEARCH AND T\n\nTRAIN i\n\n> [table] NATI TIONAL COUNCIL"
+  replace: "> [table] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING"
+  note: "the cover (pdf page 1) prints this as one line, the font made the extractor split it into three fragments"

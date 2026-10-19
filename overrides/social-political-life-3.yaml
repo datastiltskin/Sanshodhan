@@ -1,0 +1,122 @@
+# Hand corrections to extracted text. Applied after extraction, before fingerprinting.
+# Fields: snapshot (label or "*"), chapter (number or "*"), find, replace, note (why).
+- snapshot: "2014-07-28"
+  chapter: 5
+  find: "### Upholding the Law and Enforcing Fundamental\n\nRights: Every citizen"
+  replace: "Upholding the Law and Enforcing Fundamental Rights: Every citizen"
+  note: "The bold run-in heading wraps onto a second line on page 55 and is one heading followed by its paragraph, the page shows no break"
+- snapshot: "2014-07-28"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2016-09-10"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2019-05-04"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2020-06-16"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2021-08-14"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2022-08-02"
+  chapter: 5
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2023-12-23"
+  chapter: 4
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2024-05-24"
+  chapter: 4
+  find: "> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  replace: "> [caption] Laws that are in violation of the Constitution\n\n> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?"
+  note: "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+- snapshot: "2016-09-10"
+  chapter: 5
+  find: "Subordinate Courts However, inspite of this"
+  replace: "Subordinate Courts\n\nHowever, inspite of this"
+  note: "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+- snapshot: "2019-05-04"
+  chapter: 5
+  find: "Subordinate Courts However, inspite of this"
+  replace: "Subordinate Courts\n\nHowever, inspite of this"
+  note: "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+- snapshot: "2020-06-16"
+  chapter: 5
+  find: "Subordinate Courts However, inspite of this"
+  replace: "Subordinate Courts\n\nHowever, inspite of this"
+  note: "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+- snapshot: "2021-08-14"
+  chapter: 5
+  find: "Subordinate Courts However, inspite of this"
+  replace: "Subordinate Courts\n\nHowever, inspite of this"
+  note: "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+- snapshot: "2022-08-02"
+  chapter: 5
+  find: "Subordinate Courts However, inspite of this"
+  replace: "Subordinate Courts\n\nHowever, inspite of this"
+  note: "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+- snapshot: "2016-09-10"
+  chapter: 7
+  find: "reality they faced in Assam. Come Mini, let’s go to Assam Forest lands have been cleared"
+  replace: "reality they faced in Assam.\n\n> [caption] Come Mini, let’s go to Assam\n\nForest lands have been cleared"
+  note: "The first song line of the box on page 85 was written in front of the paragraph that opens page 86 (Forest lands have been cleared), the page shows them apart"
+- snapshot: "2016-09-10"
+  chapter: 7
+  find: "25.3% of Hindus have access to piped water All Hindus Muslims Christians Sikhs Buddhists Jains 65% 65% 59% 80% 70% 73% 94% Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)"
+  replace: "25.3% of Hindus have access to piped water"
+  note: "The cells of the two tables on page 89 were written into the page 88 table, the page 88 table ends at piped water"
+- snapshot: "2016-09-10"
+  chapter: 7
+  find: "> [table] II. Literacy Rate by Religion, 2001\n"
+  replace: "> [table] II. Literacy Rate by Religion, 2001\n\nAll Hindus Muslims Christians Sikhs Buddhists Jains 65% 65% 59% 80% 70% 73% 94%\n"
+  note: "The literacy cells belong to table II on page 89"
+- snapshot: "2016-09-10"
+  chapter: 7
+  find: "> [table] III. Public Employment of Muslims (percentages)\n"
+  replace: "> [table] III. Public Employment of Muslims (percentages)\n\nPopulation IAS IPS IFS Central Public Sector Unit (PSU) State PSU Banks & RBI\n"
+  note: "The header cells belong to table III on page 89"
+- snapshot: "2016-09-10"
+  chapter: "prelims"
+  find: "> [caption] Cover and Layout Storyboards CMAC Dipankar Bhattacharya Reprinted January 2009"
+  replace: "> [caption] Cover and Layout Storyboards CMAC Dipankar Bhattacharya\n\n> [caption] Reprinted January 2009"
+  note: "The credits box and the reprint list are separate blocks on the second page of the prelims"
+- snapshot: "2021-08-14"
+  chapter: 9
+  find: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] Central Sector Scheme"
+  replace: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] 9 p.\n\n> [caption] Central Sector Scheme"
+  note: "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+- snapshot: "2022-08-02"
+  chapter: 9
+  find: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] Central Sector Scheme"
+  replace: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] 9 p.\n\n> [caption] Central Sector Scheme"
+  note: "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+- snapshot: "2023-12-23"
+  chapter: 7
+  find: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] Central Sector Scheme"
+  replace: "> [caption] Centrally Sponsored\n\n> [caption] Scheme\n\n> [caption] 9 p.\n\n> [caption] Central Sector Scheme"
+  note: "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+- snapshot: "2023-12-23"
+  chapter: "prelims"
+  find: "THE CO ONSTITUTIO ON INDIA\n\nPREAMBLE\n\n> [caption] OF INDIA, having\n\n> [caption] WE, solemnly resolved to constitute India into 'ISC OVEREIGN SC OCIALIST SECULAR DEMO OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and c of o opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the 'unity and integrity c of the Nation; IN OUR ONSTITUENT ASSEMBLY this twenty-sixth day c of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.\n\n> [caption] THE PEC OPLE\n\n> [table] JUSTICE,\n\n> [caption] SO\n\n> [caption] J overeign Dem Subs. by the Cor MITATTO a (Forty-secor D 11:1 nocratic Republic\" ( 1 (Forty-secor 107 w.e.f. 3.1.1977)\n\n> [caption] w.e.f. 3.1.1977)\n\nOF"
+  replace: "THE CONSTITUTION OF INDIA\n\nPREAMBLE\n\nWE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a 1[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens:\n\nJUSTICE, social, economic and political;\n\nLIBERTY of thought, expression, belief, faith and worship;\n\nEQUALITY of status and of opportunity;\n\nand to promote among them all\n\nFRATERNITY assuring the dignity of the individual and the 2[unity and integrity of the Nation];\n\nIN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n\n1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for \"Sovereign Democratic Republic\" (w.e.f. 3.1.1977)\n\n2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for \"Unity of the Nation\" (w.e.f. 3.1.1977)"
+  note: "The Preamble page (pdf page 14) is an ornamental image read with dropped and doubled letters, the page shows the full Preamble and its two footnotes as given"
+- snapshot: "2024-05-24"
+  chapter: "prelims"
+  find: "THE CO ONSTITUTIO ON INDIA\n\nPREAMBLE\n\n> [caption] OF INDIA, having\n\n> [caption] WE, solemnly resolved to constitute India into osI, OVEREIGN SC OCIALIST SECULAR DEMO OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and c of o opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the 'unity and integrity of the Nation; IN OUR ONSTITUENT ASSEMBLY this twenty-sixth day c of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.\n\n> [caption] THE PEC OPLE\n\n> [table] JUSTICE,\n\n> [caption] SO\n\n> [caption] Subs. by the Cor J overeign Dem Subs. by the Cor C n (Forty-secor nocratic Republic\" ( n (Forty-secor 107 w.e.f. 3.1.1977)\n\n> [caption] w.e.f. 3.1.1977)\n\nOF"
+  replace: "THE CONSTITUTION OF INDIA\n\nPREAMBLE\n\nWE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a 1[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens:\n\nJUSTICE, social, economic and political;\n\nLIBERTY of thought, expression, belief, faith and worship;\n\nEQUALITY of status and of opportunity;\n\nand to promote among them all\n\nFRATERNITY assuring the dignity of the individual and the 2[unity and integrity of the Nation];\n\nIN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n\n1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for \"Sovereign Democratic Republic\" (w.e.f. 3.1.1977)\n\n2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for \"Unity of the Nation\" (w.e.f. 3.1.1977)"
+  note: "The Preamble page (pdf page 14) is an ornamental image read with dropped and doubled letters, the page shows the full Preamble and its two footnotes as given"

@@ -1,0 +1,298 @@
+# Hand corrections to the extracted text of Exploring Society 7 (parts 1 and 2). Applied after extraction, before fingerprinting.
+# Fields: snapshot (label or "*"), chapter (number, "prelims" or "*"), find (exact text), replace, note (why).
+# Chapter numbers repeat across the two parts, so every chapter entry also names its part. The only
+# entry without a part is the front cover, which both parts share. The find strings were copied from
+# the Markdown and each occurs exactly once in its file.
+- snapshot: "live-2026-10-18"
+  chapter: 1
+  part: 1
+  find: "> [caption] Fig. 1.6. Kath-kuni House,\n\n> [caption] Himachal Pradesh"
+  replace: "> [caption] Fig. 1.6. Kath-kuni House, Himachal Pradesh"
+  note: "part 1 chapter 1, page 6: the Fig. 1.6 caption is one two-line caption"
+- snapshot: "live-2026-10-18"
+  chapter: 1
+  part: 1
+  find: "> [caption] Fig. 1.11. Modern agricultural practices\n\n> [caption] Fig. 1.12. Aerial view of Delhi with the in the plains river Yamuna on top right Fig. 1.13. Multi-cropping in Uttar Pradesh Fig. 1.14. Rural women working in a paddy field in West Bengal"
+  replace: "> [caption] Fig. 1.11. Modern agricultural practices in the plains\n\n> [caption] Fig. 1.12. Aerial view of Delhi with the river Yamuna on top right\n\n> [caption] Fig. 1.13. Multi-cropping in Uttar Pradesh\n\n> [caption] Fig. 1.14. Rural women working in a paddy field in West Bengal"
+  note: "part 1 chapter 1, page 10: four captions of the photo grid, each under its own photo"
+- snapshot: "live-2026-10-18"
+  chapter: 1
+  part: 1
+  find: "> [caption] Fig. 1.16. Satellite image of the Gangetic plains Fig. 1.17. The Northern plains grey langur Fig. 1.18. The majestic tiger that was on the verge of extinction. Project Tiger has sits on a wooden beam in Bandhavgarh National Park, Madhya Pradesh supported the return of the tiger to its habitats."
+  replace: "> [caption] Fig. 1.16. Satellite image of the Gangetic plains\n\n> [caption] Fig. 1.17. The Northern plains grey langur sits on a wooden beam in Bandhavgarh National Park, Madhya Pradesh\n\n> [caption] Fig. 1.18. The majestic tiger that was on the verge of extinction. Project Tiger has supported the return of the tiger to its habitats."
+  note: "part 1 chapter 1, page 11: three captions interleaved by line"
+- snapshot: "live-2026-10-18"
+  chapter: 1
+  part: 1
+  find: "> [caption] Fig. 1.23.\n\n> [caption] Camel vendor at the Pushkar\n\n> [caption] Mela (at the edge of the Thar\n\n> [caption] Desert)"
+  replace: "> [caption] Fig. 1.23. Camel vendor at the Pushkar Mela (at the edge of the Thar Desert)"
+  note: "part 1 chapter 1, page 13: the Fig. 1.23 caption wrapped in a narrow column into four blocks"
+- snapshot: "live-2026-10-18"
+  chapter: 1
+  part: 1
+  find: "> [caption] Fig. 1.28. Powerhouse Waterfalls at Periyakanal, near Munnar, Kerala Fig. 1.29. Lion-tailed macaque Fig. 1.30. King cobra of the in the Western Ghats Western Ghats Fig. 1.31. This is an insectivorous plant, meaning it feeds on insects, found in the Western Ghats. It catches Fig. 1.32. Coal mines in the plateau; an important resource, especially in the production of electricity.\n\n> [caption] small insects in sticky traps and digests them!\n\n> [caption] Coal is a fossil fuel, the use of which contributes to global warming."
+  replace: "> [caption] Fig. 1.28. Powerhouse Waterfalls at Periyakanal, near Munnar, Kerala\n\n> [caption] Fig. 1.29. Lion-tailed macaque in the Western Ghats\n\n> [caption] Fig. 1.30. King cobra of the Western Ghats\n\n> [caption] Fig. 1.31. This is an insectivorous plant, meaning it feeds on insects, found in the Western Ghats. It catches small insects in sticky traps and digests them!\n\n> [caption] Fig. 1.32. Coal mines in the plateau; an important resource, especially in the production of electricity. Coal is a fossil fuel, the use of which contributes to global warming."
+  note: "part 1 chapter 1, page 18: five captions each under its own photo"
+- snapshot: "live-2026-10-18"
+  chapter: 2
+  part: 1
+  find: "> [caption] to set in cold weather."
+  replace: "> [caption] Fig. 2.4.3. In winter, coconut oil turns solid.\n\n> [caption] Fig. 2.4.4. Curd takes longer to set in cold weather."
+  note: "part 1 chapter 2, page 31: captions of the two lower drawings are missing from the text layer, read from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 5
+  part: 1
+  find: "> [table] 01\n\n> [table] Maintains an army to keep the tributary states under control, 02 or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02\n\n> [table] Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,\n\nEmperor exerts central authority over the empire's tributary territories and kings Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.\n\n> [table] and order, etc.\n\n> [table] trade and people’s welfare\n\n> [table] 05 Encourages art, literature, religions, 05 03\n\n> [table] Makes laws, issues currencies, weights and measures, regulates trade 04 Controls and regulates access schools of thought, 04 centres of learning to resources (mines, forest and agricultural produce, manpower)"
+  replace: "> [table] 01 Maintains an army to keep the tributary states under control, expand the empire or protect it from outside aggression\n\n> [table] 02 Designs and maintains an administration, with officials to manage the territories, collect taxes, maintain law and order, etc.\n\n> [table] 03 Makes laws, issues currencies, weights and measures, regulates trade\n\n> [table] 04 Controls and regulates access to resources (mines, forest and agricultural produce, manpower)\n\n> [table] 05 Encourages art, literature, religions, schools of thought, centres of learning\n\n> [table] 06 Maintains communication networks (roads, river and sea navigation) and other infrastructure for administration, trade and people’s welfare\n\nEmperor exerts central authority over the empire's tributary territories and kings\n\nEmpires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class."
+  note: "part 1 chapter 5, page 88: the six hexagon boxes were read line by line across each other, rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 5
+  part: 1
+  find: "> [caption] Fig. 5.11. A Greek coin\n\nHistorians view such exchanges as a meeting of two great traditions — Greek and Indian philosophies.\n\n> [caption] probably showing Alexander on horseback attacking Porus on his elephant."
+  replace: "> [caption] Fig. 5.11. A Greek coin probably showing Alexander on horseback attacking Porus on his elephant.\n\nHistorians view such exchanges as a meeting of two great traditions — Greek and Indian philosophies."
+  note: "part 1 chapter 5, page 98: the coin caption is one caption, the paragraph runs beside it"
+- snapshot: "live-2026-10-18"
+  chapter: 5
+  part: 1
+  find: "as can be seen in this capital of the\n"
+  replace: "as can be seen in this capital of the Sarnath pillar.\n"
+  note: "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer"
+- snapshot: "live-2026-10-18"
+  chapter: 5
+  part: 1
+  find: "> [caption] Fig. 5.24. Terracotta of Saptamātrikās or seven Fig. 5.25. Head of a terracotta mother goddesses (a continuing tradition).\n\n> [caption] horse (notice the elaborate design of the bridle)."
+  replace: "> [caption] Fig. 5.24. Terracotta of Saptamātrikās or seven mother goddesses (a continuing tradition).\n\n> [caption] Fig. 5.25. Head of a terracotta horse (notice the elaborate design of the bridle)."
+  note: "part 1 chapter 5, page 110: two side-by-side captions interleaved by line"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "> [caption] 70E 80E 90E Fig. 6.2. Prominent dynasties of India during the age of reorganisation 60E"
+  replace: "> [caption] Fig. 6.2. Prominent dynasties of India during the age of reorganisation"
+  note: "part 1 chapter 6, page 119: axis tick labels of the map were glued into the caption"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "Dynasties from\n\nDynasties from outside the Subcontinent within the Subcontinent Śhungas, Chedis, Sātavāhanas, Indo-Greeks, Śhakas, Kuṣhāṇ as Cholas, Cheras, Pānḍyas\n\n### Prominent dynasties of the\n\n### Subcontinent"
+  replace: "Dynasties from within the Subcontinent: Śhungas, Chedis, Sātavāhanas, Cholas, Cheras, Pānḍyas.\n\nDynasties from outside the Subcontinent: Indo-Greeks, Śhakas, Kuṣhāṇas.\n\n### Prominent dynasties of the Subcontinent"
+  note: "part 1 chapter 6, page 120: the two halves of the Fig. 6.3 diagram were read line by line across each other"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "Fig. 6.22. Headless statue\n"
+  replace: "Fig. 6.22. Headless statue of King Kaṇiṣhka\n"
+  note: "part 1 chapter 6, page 136: the Fig. 6.22 caption continues on a second line under the statue"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "Fig. 6.23. Coins of Kaṇiṣhka of King Kaṇiṣhka"
+  replace: "Fig. 6.23. Coins of Kaṇiṣhka"
+  note: "part 1 chapter 6, page 136: the tail of the Fig. 6.22 caption landed on the coin caption"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "Błack Sea"
+  replace: "Black Sea"
+  note: "part 1 chapter 6, page 138: map label misread"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 1
+  find: "10E 20E 30E 40E 50E 60E Fig. 6.25."
+  replace: "Fig. 6.25."
+  note: "part 1 chapter 6, page 138: axis ticks glued to the front of the caption"
+- snapshot: "live-2026-10-18"
+  chapter: 7
+  part: 1
+  find: "flourished from the 3rd to Kāmarūpa Kingdom the 6th century CE"
+  replace: "flourished from the 3rd to the 6th century CE"
+  note: "part 1 chapter 7, page 146: the map label Kāmarūpa Kingdom sits between two lines of the Gupta call-out"
+- snapshot: "live-2026-10-18"
+  chapter: 7
+  part: 1
+  find: "70E 80E 90E Fig. 7.8."
+  replace: "Fig. 7.8."
+  note: "part 1 chapter 7, page 152: axis ticks glued to the front of the caption"
+- snapshot: "live-2026-10-18"
+  chapter: 9
+  part: 1
+  find: "## RIGHTS\n\n"
+  replace: ""
+  note: "part 1 chapter 9, page 192: the word RIGHTS is printed on an icon, not a heading"
+- snapshot: "live-2026-10-18"
+  chapter: 9
+  part: 1
+  find: "Institution Executive Legislature Judiciary\n\nLower House (Lok Sabha) is more powerful than Upper House (Rajya Sabha)\n\nindependent from executive and legislature (separation of power)\n\nprime minister and the council of ministers\n\nIndia\n\nequal power between Upper House (Senate) and Lower House (House of Representatives)\n\nindependent from executive and legislature (separation of power)\n\nUSA president\n\nindependent from executive and legislature (separation of power)\n\nSouth Korea\n\npresident single house (National Assembly)\n\nequal power between Upper House (Senate) and Lower House (House of Representatives)\n\nindependent from executive and legislature (separation of power)\n\nprime minister and the council of ministers\n\nAustralia\n\nA\n\nB"
+  replace: "> [table] Institution | Executive | Legislature | Judiciary\n\n> [table] India | prime minister and the council of ministers | Lower House (Lok Sabha) is more powerful than Upper House (Rajya Sabha) | independent from executive and legislature (separation of power)\n\n> [table] USA | president | equal power between Upper House (Senate) and Lower House (House of Representatives) | independent from executive and legislature (separation of power)\n\n> [table] South Korea | president | single house (National Assembly) | independent from executive and legislature (separation of power)\n\n> [table] Australia | prime minister and the council of ministers | equal power between Upper House (Senate) and Lower House (House of Representatives) | independent from executive and legislature (separation of power)\n\n> [table] A | | |\n\n> [table] B | | |"
+  note: "part 1 chapter 9, page 195: Table 9.1 rows rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 9
+  part: 1
+  find: "Fig. 9.7. Adoration of the pillar of Sanchi Stūpa Slave: A person"
+  replace: "Fig. 9.7. Adoration of the pillar of Sanchi Stūpa\n\n> [caption] Slave: A person"
+  note: "part 1 chapter 9, page 198: the margin glossary entry Slave landed on the Fig. 9.7 caption"
+- snapshot: "live-2026-10-18"
+  chapter: 9
+  part: 1
+  find: "Characteristics Democracy Dictatorship Absolute Monarchy Oligarchy Yes No Equality amongst citizens Freedom of speech Separation of powers Wellbeing and Prosperity of all citizens You have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:\n\n### Universal Adult Franchise"
+  replace: "> [table] Characteristics | Democracy | Dictatorship | Absolute Monarchy | Oligarchy\n\n> [table] Universal Adult Franchise | Yes | No | No | No\n\n> [table] Equality amongst citizens | | | |\n\n> [table] Freedom of speech | | | |\n\n> [table] Separation of powers | | | |\n\n> [table] Wellbeing and Prosperity of all citizens | | | |\n\nYou have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:"
+  note: "part 1 chapter 9, page 205: Table 9.2 rebuilt from the page image, the box sentence stays below the table"
+- snapshot: "live-2026-10-18"
+  chapter: 9
+  part: 1
+  find: "S. No Practice in the country Type of Government\n\nI. All citizens are treated equally before law Dictatorship\n\nThe government refers to the religious leader for each and every decision it takes.\n\nII.\n\nMonarchy\n\nIII. After the queen’s death, her son became the new king. Democracy\n\nThe ruler is not bound to follow any Constitution. He makes all the decisions as per his choice.\n\nIV.\n\nTheocracy"
+  replace: "> [table] S. No | Practice in the country | Type of Government\n\n> [table] I. | All citizens are treated equally before law | Dictatorship\n\n> [table] II. | The government refers to the religious leader for each and every decision it takes. | Monarchy\n\n> [table] III. | After the queen’s death, her son became the new king. | Democracy\n\n> [table] IV. | The ruler is not bound to follow any Constitution. He makes all the decisions as per his choice. | Theocracy"
+  note: "part 1 chapter 9, page 208: exercise table rebuilt from the page image (the printed pairing is as shown, not a correct matching)"
+- snapshot: "live-2026-10-18"
+  chapter: 10
+  part: 1
+  find: "> [caption] Fig. 10.5. This ‘Declaration of the Rights of Man and of the Citizen’, which focused on equality, liberty and justice for all, was formulated during the 1789 French Revolution. It helped the spread of such ideals in many parts of the world;\n\n> [caption] many constitutions (including the French one)\n\n> [caption] adopted or adapted its values and principles."
+  replace: "> [caption] Fig. 10.5. This ‘Declaration of the Rights of Man and of the Citizen’, which focused on equality, liberty and justice for all, was formulated during the 1789 French Revolution. It helped the spread of such ideals in many parts of the world; many constitutions (including the French one) adopted or adapted its values and principles."
+  note: "part 1 chapter 10, page 217: the Fig. 10.5 caption wrapped around the photo into three blocks"
+- snapshot: "live-2026-10-18"
+  chapter: 10
+  part: 1
+  find: "> [table] - Right to Equality (Article 14. Equality before law)\n\n> [table] - Right to Freedom (Article 21. Protection of life and personal liberty)\n\n> [table] - Right against Exploitation\n\n> [table] - Article 21-A. (Right to education)\n\n## Fundamental\n\n## Rights\n\n## Directive Principles of\n\n## State Policy\n\n## Fundamental\n\n> [table] - Article 41: Welfare Government\n\n## Duties\n\n> [table] - Article 44: Uniform Civil Code\n\n> [table] - Article 38: Social, Political, and Economic Justice a. to abide by the Constitution and respect\n\n> [table] - Article 48-A: Environment and Wildlife Protection its ideals and institutions, the National Flag, and the National Anthem;\n\n> [table] - Article 49: Protection of monuments, places, and objects of national importance b. to defend the country and render national service when called upon to do so;\n\n> [table] c. to value and preserve the rich heritage of our composite culture;\n\n> [table] - Article 47: Nutrition, standard of living, and public health d. to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;\n\n> [table] e. to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;\n\n> [table] f. if a parent or guardian, to provide opportunities for education to his or her child or, as the case may be, ward between the age of six and fourteen years;"
+  replace: "## Fundamental Rights\n\n> [table] - Right to Equality (Article 14. Equality before law)\n\n> [table] - Right to Freedom (Article 21. Protection of life and personal liberty)\n\n> [table] - Right against Exploitation\n\n> [table] - Article 21-A. (Right to education)\n\n## Directive Principles of State Policy\n\n> [table] - Article 41: Welfare Government\n\n> [table] - Article 44: Uniform Civil Code\n\n> [table] - Article 38: Social, Political, and Economic Justice\n\n> [table] - Article 48-A: Environment and Wildlife Protection\n\n> [table] - Article 49: Protection of monuments, places, and objects of national importance\n\n> [table] - Article 47: Nutrition, standard of living, and public health\n\n## Fundamental Duties\n\n> [table] a. to abide by the Constitution and respect its ideals and institutions, the National Flag, and the National Anthem;\n\n> [table] b. to defend the country and render national service when called upon to do so;\n\n> [table] c. to value and preserve the rich heritage of our composite culture;\n\n> [table] d. to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;\n\n> [table] e. to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;\n\n> [table] f. if a parent or guardian, to provide opportunities for education to his or her child or, as the case may be, ward between the age of six and fourteen years;"
+  note: "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 10
+  part: 1
+  find: "> [caption] THE CO ONSTITUTIC NC INDIA\n\n> [caption] OF\n\n> [caption] PREAMBLE\n\n> [caption] OF INDIA, having\n\n> [caption] THE PEO OPLE\n\n> [caption] WE, solemnly resolved to o constitute India into os!, OVEREIGN SO OCIALIST SECULAR DEMO OCRATIC REPUBLIC and to to all its citizens : social, economic and political; LIBERTY o of thought, expression, belief, JUSTICE, faith and worship; LIBERTY EQUALITY of status and o of opportunity; There are no and to promote among them all unreasonable FRATERNITY assuring the dignity restrictions on the the individual and the unity and citizens in what they think, how they wish integrity of the Nation; to express their IN OUR CO ONSTITUENT ASSEMBLY thoughts and the this twenty-sixth day of November, 1949 do way they wish follow HEREBY ADO OPT, ENACT AND GIVE TO up their thoughts in OURSELVES THIS CO ONSTITUTIO ON. action. SECULAR Subs. by the Con for \"Covereion De n (Forty-se in Denhlir Citizens have complete ratic Republic\" Subs. by the Con n (Forty-se r \"Unity of the Nation FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior."
+  replace: "> [caption] THE CONSTITUTION OF INDIA\n\n> [caption] PREAMBLE\n\n> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n\n> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)\n\n> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Unity of the Nation” (w.e.f. 3.1.1977)\n\n> [caption] LIBERTY There are no unreasonable restrictions on the citizens in what they think, how they wish to express their thoughts and the way they wish follow up their thoughts in action.\n\n> [caption] SECULAR Citizens have complete freedom to follow any religion. But there is no official religion. Government treats all religious beliefs and practices with equal respect.\n\n> [caption] FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior.\n\n> [caption] Fig. 10.16. Preamble of the Indian Constitution"
+  note: "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 10
+  part: 1
+  find: "> [caption] freedom to follow any religion. But there is no official religion. Government treats all religious beliefs and practices with equal respect.\n\n"
+  replace: ""
+  note: "part 1 chapter 10, page 225: tail of the SECULAR margin note, now part of the rebuilt note"
+- snapshot: "live-2026-10-18"
+  chapter: 12
+  part: 1
+  find: "> [caption] Eurc Europe\n\n"
+  replace: ""
+  note: "part 1 chapter 12, page 256: map label noise in a caption block"
+- snapshot: "live-2026-10-18"
+  chapter: 12
+  part: 1
+  find: "> [caption] Eur ica Atlantic Ocean West Asia Soutl outn An 5.\n\n"
+  replace: ""
+  note: "part 1 chapter 12, page 256: map label noise in a caption block"
+- snapshot: "live-2026-10-18"
+  chapter: 12
+  part: 1
+  find: "> [caption] Middle-East\n\n"
+  replace: ""
+  note: "part 1 chapter 12, page 256: map label noise in a caption block"
+- snapshot: "live-2026-10-18"
+  chapter: 12
+  part: 1
+  find: "> [caption] 80E Fig. 12.23. Supply of raw cotton from surrounding cotton clusters to Surat 70°E 75°E 80°E Port River Surat City Textile Market Railway Road Airport 0 5 10 2.5 km"
+  replace: "> [caption] Fig. 12.23. Supply of raw cotton from surrounding cotton clusters to Surat\n\n> [caption] Fig. 12.24. Surat City Map"
+  note: "part 1 chapter 12, page 261: axis ticks and the next map's legend were glued into the Fig. 12.23 caption and the Fig. 12.24 caption is missing from the text layer"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  find: "> [caption] TRUE TRAIN\n\n> [caption] NATI TIONAL COUNCIL\n\n> [caption] F EDUCATI TIONAL RESEARCH AND T"
+  replace: "> [caption] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING"
+  note: "front cover, parts 1 and 2: the title page footer line is clean type but was read as OCR noise"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 1
+  find: " Seema Shukla Ojha, Professor of History, Department of Education in Social Science, NCERT; CAG (Social Science)\n\n<!-- pdf page 16 -->\n\n### Member Coordinators\n\n"
+  replace: "\n\n<!-- pdf page 16 -->\n\n### Member Coordinators\n\nSeema Shukla Ojha, Professor of History, Department of Education in Social Science, NCERT; CAG (Social Science)\n\n"
+  note: "part 1 prelims: Seema Shukla Ojha is the first Member Coordinator on the page"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 1
+  find: "THE CO ONSTITUTIO ON INDIA\n\n> [table] PREAMBLE\n\n> [caption] OF INDIA, having\n\n> [caption] THE PEC OPLE\n\n> [caption] WE, solemnly resolved to constitute India into 'ISC OVEREIGN SC OCIALIST SECULAR DEMC OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY O of thought, expression, belief, faith and worship; EQUALITY O of status and c of c opportunity; and to promote among them all FRATERNITY assuring the dignity JO the individual and the 'unity and integrity c of the Nation; IN OUR ONSTITUENT ASSEMBLY this twenty-sixth day c of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.\n\n> [caption] JUSTICE,\n\n> [caption] SO\n\n> [caption] J overeign Dem O. Subs. by the Cor n (Forty-secor D nocratic Republic\" ( n (Forty-secor w.e.f. 3.1.1977)\n\n> [caption] w.e.f. 3.1.1977)\n\n> [table] OF"
+  replace: "THE CONSTITUTION OF INDIA\n\n> [table] PREAMBLE\n\n> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.\n\n> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)\n\n> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Unity of the Nation” (w.e.f. 3.1.1977)"
+  note: "part 1 prelims, pdf page 18: the Preamble was outlined type read as OCR noise, rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 2
+  part: 2
+  find: "### DON’T MISS OUT S\n"
+  replace: "### DON’T MISS OUT\n"
+  note: "part 2 chapter 2, page 40: stray S from the Bhutan emblem ring"
+- snapshot: "live-2026-10-18"
+  chapter: 2
+  part: 2
+  find: "Several important rivers originate in\n\nBhutan and flow into India;"
+  replace: "Several important rivers originate in Bhutan and flow into India;"
+  note: "part 2 chapter 2, page 40: the box text wraps round the emblem"
+- snapshot: "live-2026-10-18"
+  chapter: 2
+  part: 2
+  find: "by the two countries’\n\n> [caption] respective prime ministers in 2008."
+  replace: "by the two countries’ respective prime ministers in 2008."
+  note: "part 2 chapter 2, page 40: the Fig. 2.11 caption is one caption"
+- snapshot: "live-2026-10-18"
+  chapter: 3
+  part: 2
+  find: "> [caption] Fig. 3.21. A Chola inscription in an early Tamil script (Bṛihadīśhvara\n"
+  replace: "> [caption] Fig. 3.21. A Chola inscription in an early Tamil script (Bṛihadīśhvara temple, Thanjavur)\n"
+  note: "part 2 chapter 3, page 82: last caption line is missing from the text layer"
+- snapshot: "live-2026-10-18"
+  chapter: 6
+  part: 2
+  find: "> [caption] People – the citizens who live in the\n\n> [caption] Land – a fixed area\n\n> [caption] Government\n\n> [caption] Sovereignty – the full power to make laws and\n\n> [caption] – a system or territory to run the take decisions without country country any outside control Fig. 6.3. The four important parts of the state."
+  replace: "> [caption] People – the citizens who live in the country\n\n> [caption] Land – a fixed area or territory\n\n> [caption] Government – a system to run the country\n\n> [caption] Sovereignty – the full power to make laws and take decisions without any outside control\n\n> [caption] Fig. 6.3. The four important parts of the state."
+  note: "part 2 chapter 6, page 144: the infographic boxes were interleaved, rebuilt from the page image"
+- snapshot: "live-2026-10-18"
+  chapter: 7
+  part: 2
+  find: "> [caption] L 0 50000 100000"
+  replace: "> [caption] 0 50000 100000"
+  note: "part 2 chapter 7, page 179: stray L from the track drawing"
+- snapshot: "live-2026-10-18"
+  chapter: 7
+  part: 2
+  find: "> [caption] Fig. 7.23. Timeline of development of communication systems E-governance:"
+  replace: "> [caption] Fig. 7.23. Timeline of development of communication systems\n\n> [caption] E-governance:"
+  note: "part 2 chapter 7, page 185: caption and margin note were fused"
+- snapshot: "live-2026-10-18"
+  chapter: 7
+  part: 2
+  find: "> [caption] A Right granted by the government or institutions Fig. 7.24. J. C. Bose to be the only person or company who can make, sell, or use the invention for a certain number of"
+  replace: "> [caption] A Right granted by the government or institutions to be the only person or company who can make, sell, or use the invention for a certain number of years.\n\n> [caption] Fig. 7.24. J. C. Bose"
+  note: "part 2 chapter 7, page 186: margin note and caption were interleaved and the last word of the note was lost"
+- snapshot: "live-2026-10-18"
+  chapter: 8
+  part: 2
+  find: "> [caption] Funds are received by the xxxxxx\n\n4\n\n> [caption] payee’s bank (Piyush)."
+  replace: "> [caption] 4 Funds are received by the payee’s bank (Piyush)."
+  note: "part 2 chapter 8, page 206: xxxxxx is the dummy phone number from the app drawing"
+- snapshot: "live-2026-10-18"
+  chapter: 8
+  part: 2
+  find: "> [caption] Kumar scans Piyush’s\n\n> [caption] The application sends a payment\n\n> [caption] (a vegetable vendor)\n\n> [caption] request to his\n\n> [caption] QR code using a payment application on his mobile phone, enters the amount to bank.\n\n> [caption] be sent and then his\n\n> [caption] UPI PIN. Payee’s Bank"
+  replace: "> [caption] Kumar scans Piyush’s (a vegetable vendor) QR code using a payment application on his mobile phone, enters the amount to be sent and then his UPI PIN.\n\n> [caption] The application sends a payment request to his bank.\n\n> [caption] Payee’s Bank"
+  note: "part 2 chapter 8, page 206: two interleaved sentences of the Fig. 8.18 flow chart re-threaded"
+- snapshot: "live-2026-10-18"
+  chapter: 8
+  part: 2
+  find: "> [caption] Fig.8.20. Share certificate in earlier days Investment:\n\n> [caption] The act of putting"
+  replace: "> [caption] Fig.8.20. Share certificate in earlier days\n\n> [caption] Investment: The act of putting"
+  note: "part 2 chapter 8, page 208: the margin note label was glued to the previous caption"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 2
+  find: "Michel Danino, Guest Professor, IIT Gandhinagar Sanjeev Sanyal, Member, EAC-PM Aasheerwad Dwivedi"
+  replace: "Michel Danino, Guest Professor, IIT Gandhinagar\n\n### CAG Economics Chairperson\n\nSanjeev Sanyal, Member, EAC-PM\n\n### Contributors\n\nAasheerwad Dwivedi"
+  note: "part 2 prelims, page ix: development team grouped under the right headings"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 2
+  find: "### CAG Economics Chairperson\n\n### Contributors\n\n<!-- pdf page 10 -->"
+  replace: "<!-- pdf page 10 -->"
+  note: "part 2 prelims, page ix: the two empty duplicate headings"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 2
+  find: "> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 19' tAr 10 1 1057 for \"Sovereign Democratic Republic\" (w.e.f. 3.1.1977) 2. Subs. by the Constitution (Forty-second Amendment) - IT 1077.1977)"
+  replace: "> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)\n\n> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for “Unity of the Nation” (w.e.f. 3.1.1977)"
+  note: "part 2 prelims, page xiv: the footnotes were garbled by OCR"
+- snapshot: "live-2026-10-18"
+  chapter: "prelims"
+  part: 2
+  find: "> [table] PREAMBLE\n\n> [caption] CONSTITUTION."
+  replace: "> [table] PREAMBLE\n\n> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION."
+  note: "part 2 prelims, page xiv: the body of the Preamble is missing from the text layer"
