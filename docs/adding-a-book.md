@@ -61,7 +61,9 @@ Things seen so far:
 - Rasterised printings with no text layer (2022-23 Our Pasts II). The pipeline OCRs them if
   tesseract is installed. The edition gets an `-ocr` suffix and a caveat on the site.
 - Files whose italic terms are drawn as outlines (2024-25 Our Pasts II). Recovered with
-  OCR of the small rectangles automatically. Spot check a page.
+  OCR of the small rectangles automatically, then snapped to words the book uses in its
+  other editions. Spot check a page, and add the book's earlier editions first so the
+  vocabulary exists.
 - Fonts with no Unicode map (2018 Our Pasts III). Their text is marked `[unreadable]`.
 - Fonts that map letters into the private-use range U+F0xx (2022 Social and Political Life
   III). Decoded automatically; if a new file shows `[unreadable]` or empty chapters, check
@@ -98,7 +100,9 @@ uv run ncert-diff extract <book-id>
 uv run ncert-diff editions <book-id>
 ```
 
-Extraction writes `texts/<book>/<edition>/` and `manifest/<book>/editions.json`. The
+Extraction writes `texts/<book>/<edition>/` and `manifest/<book>/editions.json`. Snapshots
+whose PDFs are byte-identical (a live capture that matches an archived one, a mirror) are
+extracted once and the log says "files identical to X, extraction reused". The
 editions listing shows which snapshots collapsed into one text and the chapter titles and
 page ranges per edition. Check that:
 
@@ -125,7 +129,8 @@ Writes `diffs/<book>/<from>__<to>.json` and `.html` for consecutive editions. Re
 for each pair once. Noise you can expect and how it is handled is in `docs/diff-engine.md`.
 Add what you learn to `docs/findings.md`, with page numbers.
 
-The command also prints "pages to look at" per pair, and the site gets a
+Whatever looks like noise must be checked against the page images of both editions before
+it is "fixed"; see `docs/verification.md`. The command also prints "pages to look at" per pair, and the site gets a
 `/<book>/checks/` page listing them with both page images. Go through that list once. A
 page that is a real cut needs nothing. A page the extractor misread gets an entry in
 `overrides/<book>.yaml` (snapshot, chapter, find, replace, note), and the editions step

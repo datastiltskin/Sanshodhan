@@ -10,6 +10,8 @@ editions only for now.
 
 ## What is here
 
+- `docs/verification.md` is the rule for checking any doubtful diff: open the page images of
+  both editions. Text compared with text cannot tell an extraction fault from an edit.
 - The site's compare view (`/<book>/compare/`) shows any two editions of a chapter page
   against page, with both page images and both texts, in split or unified form.
 - `overrides/<book>.yaml` holds hand corrections to extracted text (an OCR misreading, a stray
