@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block title %}{{ book.title }}, {{ ed.label }}{% endblock %}
+{% set active = book.id %}
+{% block content %}
+<div class="title-block">
+  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a></p>
+  <h1>{{ ed.label }}</h1>
+  <p class="subtitle">{{ ed.detail }}</p>
+</div>
+{% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
+{% if prev %}<p>Changes are shown against the <a href="{{ prev.url }}">{{ prev.label }}</a>.</p>{% endif %}
+<h2>Chapters</h2>
+<ol class="chapters">
+{% for c in chapters %}
+  <li><a href="/{{ book.id }}/{{ ed.id }}/{{ c.dir }}/">{% if c.ch.part %}Part {{ c.ch.part }}, {% endif %}{{ c.ch.number }}. {{ c.ch.title|ttl }}</a>
+    <span class="pages">pp. {{ c.ch.printed_pages }}</span>
+    {% set real = (c.counts.get('deleted', 0) + c.counts.get('inserted', 0) + c.counts.get('modified', 0)) %}
+    {% if prev and real %}<span class="count">{{ real }} change{{ 's' if real != 1 }}</span>{% elif prev and c.diff %}<span class="count none">no changes</span>{% endif %}
+  </li>
+{% endfor %}
+</ol>
+{% if dropped %}
+<h2>Chapters dropped since the {{ prev.label }}</h2>
+<ul>{% for d in dropped %}<li><a href="{{ prev.url }}{{ 'part%d-' % d.from.part if d.from.part else '' }}ch{{ '%02d' % d.from.number }}/">{{ d.from.number }}. {{ d.from.title|ttl }}</a></li>{% endfor %}</ul>
+{% endif %}
+<h2>Source files</h2>
+<p>Read the original: these are the files this text was taken from, as published by NCERT and as archived.</p>
+<ul class="sources">
+{% for f in sources %}
+  <li>{{ f.path.split('/')[2] }}: <a href="{{ f.source_url }}">NCERT URL</a>{% if f.wayback %} · <a href="{{ f.download_url }}">Wayback Machine capture {{ f.wayback[:4] }}-{{ f.wayback[4:6] }}-{{ f.wayback[6:8] }}</a>{% endif %} <small>sha256 {{ f.sha256[:12] }}</small></li>
+{% endfor %}
+</ul>
+{% endblock %}

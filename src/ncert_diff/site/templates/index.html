@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="title-block">
+  <h1>How India's school history books have changed</h1>
+  <p class="subtitle">Every edition of these NCERT textbooks since 2007, page by page, with the words that were added, removed, or rewritten between one printing and the next.</p>
+</div>
+<div class="cards">
+{% for id, b in books.items() if id in editions %}
+  <article>
+    <h2><a href="/{{ id }}/">{{ b.title }}</a></h2>
+    <p>Class {{ b.klass }} {{ b.subject }}. {{ editions[id]|length }} distinct editions, {{ editions[id][0].raw.chapter_count }} chapters at first, {{ editions[id][-1].raw.chapter_count }} now.</p>
+    <p><a href="/{{ id }}/">Timeline</a> · <a href="/{{ id }}/changes/">Every change</a></p>
+  </article>
+{% endfor %}
+</div>
+<h2>Start here</h2>
+<ul>
+  <li><a href="/changes/">What changed</a>: a plain summary, edition by edition.</li>
+  <li><a href="/method/">Method</a>: where the files come from, how the text was read, and which comparisons to treat with care.</li>
+</ul>
+{% endblock %}

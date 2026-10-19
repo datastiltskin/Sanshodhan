@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+{% block title %}Every change in {{ book.title }}{% endblock %}
+{% set active = book.id %}
+{% block mainclass %}wide with-toc{% endblock %}
+{% block content %}
+<div class="content">
+<div class="title-block">
+  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a></p>
+  <h1>Every change, edition by edition</h1>
+</div>
+<p class="lede">Generated from the text. Each line links to the page in the viewer. Minor differences (punctuation, case, text moved between a box and the main text) are not listed. For the written summary see <a href="/changes/">What changed</a>.</p>
+{% for ed in editions %}
+  {% set prev = previous_edition(editions, ed) %}
+  {% set pair = diffs.get((prev.id, ed.id)) if prev else none %}
+  {% if pair %}
+  <section id="{{ prev.id }}__{{ ed.id }}">
+  <h2><a href="{{ prev.url }}">{{ prev.label }}</a> → <a href="{{ ed.url }}">{{ ed.label }}</a></h2>
+  {% if pair.ocr %}<p class="callout">One side of this comparison is OCR text. Small differences are likely reading errors.</p>{% endif %}
+  {% for c in pair.chapters %}
+    {% if c.status == 'dropped' %}
+      <h3 class="dropped">Dropped: {{ c.from.number }}. {{ c.from.title|ttl }} <a href="{{ prev.url }}{{ 'part%d-' % c.from.part if c.from.part else '' }}ch{{ '%02d' % c.from.number }}/">read it in the {{ prev.label }}</a></h3>
+    {% elif c.status == 'added' %}
+      <h3 class="added">Added: {{ c.to.number }}. {{ c.to.title|ttl }}</h3>
+    {% else %}
+      {% set hunks = c.real_hunks %}
+      {% if hunks %}
+      {% set newdir = ('part%d-' % c.to.part if c.to.part else '') ~ 'ch' ~ '%02d' % c.to.number %}
+      {% set olddir = ('part%d-' % c.from.part if c.from.part else '') ~ 'ch' ~ '%02d' % c.from.number %}
+      <h3>{{ c.from.number }}. {{ c.from.title|ttl }}{% if (c.to.title or '')|lower != (c.from.title or '')|lower or c.to.number != c.from.number %} → {{ c.to.number }}. {{ c.to.title|ttl }}{% endif %} <small>{{ hunks|length }} change{{ 's' if hunks|length != 1 }}</small></h3>
+      <ul class="hunks">
+      {% for h in hunks %}
+        <li class="h-{{ h.type }}">
+          {% if h.type == 'deleted' %}<a href="{{ prev.url }}{{ olddir }}/#p{{ h.old_page }}">p. {{ h.old_page }}</a> <span class="chg chg-deleted">{{ h.old }}</span>
+          {% elif h.type == 'inserted' %}<a href="{{ ed.url }}{{ newdir }}/#p{{ h.new_page }}">p. {{ h.new_page }}</a> <span class="chg chg-inserted">{{ h.new }}</span>
+          {% else %}<a href="{{ ed.url }}{{ newdir }}/#p{{ h.new_page }}">p. {{ h.new_page }}</a> <span class="chg chg-modified">{% for op, tok in h.words %}{% if op == '=' %}{{ tok }}{% elif op == '-' %}<del>{{ tok }}</del>{% else %}<ins>{{ tok }}</ins>{% endif %} {% endfor %}</span>{% endif %}
+          <small class="stream">{{ h.stream }}</small>
+        </li>
+      {% endfor %}
+      </ul>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </section>
+  {% endif %}
+{% endfor %}
+</div>
+<aside class="toc">
+  <h2>On this page</h2>
+  <ul>{% for ed in editions %}{% set prev = previous_edition(editions, ed) %}{% if prev and diffs.get((prev.id, ed.id)) %}<li><a href="#{{ prev.id }}__{{ ed.id }}">{{ prev.label }} → {{ ed.label }}</a></li>{% endif %}{% endfor %}</ul>
+</aside>
+{% endblock %}

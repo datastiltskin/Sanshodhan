@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block title %}{{ chapter.ch.title|ttl }} ({{ book.title }}, {{ ed.label }}){% endblock %}
+{% set active = book.id %}
+{% block mainclass %}wide with-toc{% endblock %}
+{% block content %}
+<div class="content">
+<div class="title-block">
+  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › <a href="{{ ed.url }}">{{ ed.label }}</a></p>
+  <h1>{% if chapter.ch.part %}Part {{ chapter.ch.part }}, {% endif %}{{ chapter.ch.number }}. {{ chapter.ch.title|ttl }}</h1>
+</div>
+<div class="viewer-bar">
+  <span class="switcher">Edition:
+    <select id="edition-switch">
+    {% for e in editions %}<option value="/{{ book.id }}/{{ e.id }}/{{ chdir }}/" {% if e.id == ed.id %}selected{% endif %}>{{ e.label }}</option>{% endfor %}
+    </select>
+  </span>
+  {% if prev and chapter.diff %}
+  <label><input type="checkbox" id="toggle-changes" checked> Show changes since the {{ prev.label }}</label>
+  <label><input type="checkbox" id="toggle-minor"> Include minor differences (punctuation, case, moved text)</label>
+  {% elif prev %}
+  <span class="callout">No matching chapter in the {{ prev.label }}: this chapter is new or was renumbered beyond recognition.</span>
+  {% endif %}
+</div>
+<p class="legend"><span class="chg chg-inserted">added</span> <span class="chg chg-deleted">removed</span> <span class="chg chg-modified"><del>old</del> <ins>new</ins> reworded</span></p>
+{% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
+<div class="pages">
+{% for p in chapter.pages %}
+  <section class="page" id="p{{ p.page }}">
+    <div class="scan">
+      {% if p.page %}
+      <a href="{{ images_base }}/{{ book.id }}/{{ ed.id }}/{{ chdir }}/p{{ '%03d' % p.page }}.webp" target="_blank" rel="noopener"><img loading="lazy" src="{{ images_base }}/{{ book.id }}/{{ ed.id }}/{{ chdir }}/p{{ '%03d' % p.page }}.webp" alt="Page {{ p.page }}"></a>
+      <div class="pageno">p. {{ p.page }}</div>
+      {% endif %}
+    </div>
+    <div class="text">{{ p.html|safe }}</div>
+  </section>
+{% endfor %}
+</div>
+<nav class="chapter-nav">
+  {% if prev_chapter %}<a href="/{{ book.id }}/{{ ed.id }}/{{ prev_chapter.dir }}/">← {{ prev_chapter.ch.number }}. {{ prev_chapter.ch.title|ttl }}</a>{% else %}<span></span>{% endif %}
+  {% if next_chapter %}<a href="/{{ book.id }}/{{ ed.id }}/{{ next_chapter.dir }}/">{{ next_chapter.ch.number }}. {{ next_chapter.ch.title|ttl }} →</a>{% endif %}
+</nav>
+</div>
+<aside class="toc">
+  <h2>On this page</h2>
+  <ul>{% for p in chapter.pages if p.page %}<li><a href="#p{{ p.page }}">Page {{ p.page }}</a></li>{% endfor %}</ul>
+</aside>
+{% endblock %}
+{% block scripts %}<script src="/static/viewer.js"></script>{% endblock %}

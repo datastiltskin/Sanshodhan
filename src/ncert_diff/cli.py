@@ -90,6 +90,33 @@ def diff(
 
 
 @app.command()
+def render_pages(
+    book: str = typer.Argument(None, help="Book id. Default: all."),
+    out: Path = typer.Option(Path("site/images"), help="Where to write <book>/<edition>/<chapter>/pNNN.webp."),
+    force: bool = typer.Option(False, help="Re-render pages that already exist."),
+):
+    """Render a JPEG of every printed page, for the site and for upload to object storage."""
+    from .site.render_pages import render_book
+
+    total = 0
+    for b in _select(book):
+        total += render_book(b.id, out, log=typer.echo, force=force)
+    typer.echo(f"rendered {total} pages into {out}")
+
+
+@app.command()
+def build(
+    out: Path = typer.Option(Path("site"), help="Output directory for the HTML."),
+    images_base: str = typer.Option("/images", help="URL prefix where page images are served (local folder or object storage)."),
+):
+    """Build the static site into site/."""
+    from .site.build import build as build_site
+
+    build_site(out, images_base.rstrip("/"), log=typer.echo)
+    typer.echo(f"site written to {out}")
+
+
+@app.command()
 def status(book: str = typer.Argument(None)):
     """Show what is on disk for each snapshot."""
     import pymupdf

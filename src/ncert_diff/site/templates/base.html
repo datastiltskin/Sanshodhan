@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}NCERT textbook changes{% endblock %}</title>
+<link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+<nav class="navbar">
+  <div class="inner">
+    <a href="/" class="brand">NCERT textbook changes</a>
+    <span class="links">
+      {% for id, b in books.items() %}<a href="/{{ id }}/"{% if active == id %} class="active"{% endif %}>{{ b.title }}</a>{% endfor %}
+      <a href="/changes/"{% if active == 'changes' %} class="active"{% endif %}>What changed</a>
+      <a href="/method/"{% if active == 'method' %} class="active"{% endif %}>Method</a>
+    </span>
+  </div>
+</nav>
+<main class="{% block mainclass %}{% endblock %}">
+{% block content %}{% endblock %}
+</main>
+<footer><div class="inner">
+  <p>The textbooks are the copyright of the National Council of Educational Research and Training (NCERT), which publishes them free of charge. They are reproduced here, with links to NCERT's own files and to archived copies, to document how a public curriculum changes over time. Reading text is set in TeX Gyre Bonum, a free version of the Bookman typeface NCERT uses.</p>
+</div></footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

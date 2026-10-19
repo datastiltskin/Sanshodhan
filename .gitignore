@@ -6,3 +6,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 dist/
+
+# Build outputs. HTML goes to Pages, images to R2.
+/site/

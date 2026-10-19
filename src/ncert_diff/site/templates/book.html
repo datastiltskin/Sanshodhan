@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ book.title }} editions{% endblock %}
+{% set active = book.id %}
+{% block content %}
+<div class="title-block">
+  <h1>{{ book.title }}</h1>
+  <p class="subtitle">Class {{ book.klass }} {{ book.subject }} textbook. Each entry is a distinct text: printings with identical words are grouped together.</p>
+</div>
+<ol class="timeline">
+{% for ed in editions %}
+  {% set prev = previous_edition(editions, ed) %}
+  {% set pair = diffs.get((prev.id, ed.id)) if prev else none %}
+  <li>
+    <h2><a href="{{ ed.url }}">{{ ed.label }}</a></h2>
+    <p>{{ ed.detail }} {{ ed.raw.chapter_count }} chapters.</p>
+    {% if pair %}
+      {% set s = pair.summary %}
+      <p class="changes-line">Since the {{ prev.label }}:
+        {% if s.chapters_dropped %}<strong>{{ s.chapters_dropped }} chapter{{ 's' if s.chapters_dropped != 1 }} dropped</strong>,{% endif %}
+        {{ s.body.deleted }} sentences removed, {{ s.body.inserted }} added, {{ s.body.modified }} reworded in the main text{% if s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified %}, and {{ s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified }} changes in boxes, captions and tables{% endif %}.
+        <a href="/{{ book.id }}/changes/#{{ prev.id }}__{{ ed.id }}">See them</a>.</p>
+    {% endif %}
+    {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
+  </li>
+{% endfor %}
+</ol>
+{% endblock %}

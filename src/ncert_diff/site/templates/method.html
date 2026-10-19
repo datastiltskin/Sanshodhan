@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Method{% endblock %}
+{% set active = 'method' %}
+{% block content %}
+<div class="title-block">
+  <h1>Method</h1>
+</div>
+<p class="lede">How the files were found, how the text was read out of them, and how editions are compared. The code and every intermediate file are public.</p>
+<h2>Where the books come from</h2>
+<div class="prose">{{ sources|md|safe }}</div>
+<h2>How the text was extracted</h2>
+<div class="prose">{{ text_format|md|safe }}</div>
+<h2>How editions are compared</h2>
+<div class="prose">{{ engine|md|safe }}</div>
+{% endblock %}
