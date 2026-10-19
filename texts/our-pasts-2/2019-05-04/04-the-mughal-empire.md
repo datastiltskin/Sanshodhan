@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch04.pdf"
 source_sha256: "5927298f842f159d766b7cae4202bde2a1e08041df30b5a36c5ea5873cec092f"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "3caa2bd83d05cfade05be6026bb5cde1a26c7e394c078a05184b359dc5afbad3"
+body_fingerprint: "4e61da05b28a5e37acaf67be5981b148ce4825131d39befe54bc3ce852b0f31b"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -100,13 +100,13 @@ As the empire expanded to encompass different regions the Mughals recruited dive
 
 The term mansabdar refers to an individual who holds a mansab, meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat. The higher the zat, the more prestigious was the noble’s position in court and the larger his salary.
 
-### Zat ranking
-
-> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
-
 The mansabdar’s military responsibilities required him to maintain a specified number of sawar or cavalrymen. The mansabdar brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary.
 
 Mansabdars received their salaries as revenue assignments called jagirs which were somewhat like iqtas. But unlike muqtis, most mansabdars did not actually reside in or administer their jagirs. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
+
+### Zat ranking
+
+> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
 
 <!-- page 52 (pdf 8) -->
 
@@ -210,29 +210,23 @@ Nur Jahan rank subadar Jahangir
 
 <!-- page 58 (pdf 14) -->
 
+KEYWORDS
+
+Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
+
 2. Fill in the blanks:
 
 (a) The capital of Mirza Hakim, Akbar’s half-brother, was ____________.
 
 (b) The five Deccan Sultanates were Berar, Khandesh, Ahmadnagar, ____________ and _________________.
 
-KEYWORDS
-
 (c) If zat determined a mansabdar’s rank and salary, sawar indicated his ____________ .
-
-Mughal
 
 (d) Abul Fazl, Akbar’s friend and counsellor, helped him frame the idea of ____________ so that he could govern a society composed of many religions, cultures and castes.
 
-mansab jagir zat
-
 3. What were the central provinces under the control of the Mughals?
 
-sawar sulh-i kul
-
 4. What was the relationship between the mansabdar and the jagir?
-
-primogeniture coparcenary zabt zamindar
 
 ### Let’s understand
 

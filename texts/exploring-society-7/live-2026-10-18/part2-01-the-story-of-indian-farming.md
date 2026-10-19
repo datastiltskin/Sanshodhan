@@ -56,7 +56,7 @@ A little over 18 per cent of the country’s total value of goods and services p
 
 When you read or hear the word ‘farmer’, what do you visualise? Many people imagine a man. However, in rural areas of India, more than 75 per cent of people working in the agriculture sector are women (2025). They perform most of the farming operations, from sowing to harvesting and threshing.
 
-> [caption] Threshing:
+> [caption] Gy) Threshing:
 
 > [caption] Removing the edible grain from the straw or husk, manually or using a
 
@@ -158,7 +158,13 @@ Farmers have been following this rhythm for centuries. A wide variety of agricul
 
 > [caption] cool, less water
 
-> [caption] RABI sowing growing harvesting hot, heavy rainfall KHARIF growing sowing harvesting summer season ZAID harvesting sowing
+> [caption] RABI sowing growing harvesting hot, heavy rainfall
+
+> [table] KHARIF growing y VV Y B ig WW
+
+> [caption] sowing harvesting summer season
+
+> [caption] ZAID harvesting O he sowing
 
 > [table] rabi season (winter crops)
 

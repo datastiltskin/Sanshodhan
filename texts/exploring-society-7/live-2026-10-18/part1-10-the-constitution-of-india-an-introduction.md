@@ -318,7 +318,15 @@ The Constitution’s core values are the guiding principles for policies and dec
 
 ### CONSTITUTION
 
-> [caption] LIBERTY There are no unreasonable restrictions on the citizens in what they think, how they wish to express their thoughts and the way they wish follow up their thoughts in action. SECULAR Citizens have complete FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior.
+> [caption] INSTITUTIC INDIA
+
+> [caption] THE C
+
+> [caption] PREAMBLE having
+
+> [caption] PEC
+
+> [caption] JPLE constitute India intc CIALIST SECULAR INDIA, WE, solemnly resolved t IVEREIGN YCRATIC REPUBLIC and tc DEM( to allits citizens. social, economic political; of thought, expression, belief, LIBERTY THE JUSTICE, faith and worship; LIBERTY EQUALITY of status and 0 of opportunity; There are no and to promote among them all unreasonable FRATERNITY assuring the dignity restrictions on the individual and and unity citizens in what they think, how they wish integrity of the Nation to express their INSTITUENT ASSEMBLY JUR IN thoughts and the this twenty-sixth day of November, 1949 dc way they wish follow Y)PT, ENACT AND GIVE T( HEREBY AD( up their thoughts in action. JURSELVES THIS C INSTITUTIC SECULAR Foy Citizens have complete "Unity of the Natio FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior.
 
 > [caption] DEMOCRATIC A form of government where the people enjoy equal political rights, elect their rulers and hold them accountable. The government is run according to some basic rules.
 
@@ -331,6 +339,8 @@ The Constitution’s core values are the guiding principles for policies and dec
 > [caption] a king or any outside powers.
 
 > [caption] SOVEREIGN The people have supreme right to make decisions on internal as well as external matters.
+
+> [caption] and
 
 > [caption] No external power can dictate the government of India.
 

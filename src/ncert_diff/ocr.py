@@ -11,6 +11,7 @@ from __future__ import annotations
 
 import csv
 import io
+import json
 import re
 import shutil
 import statistics
@@ -119,6 +120,45 @@ def read_pages_ocr(pdf_path: Path) -> tuple[list[Page], float, float]:
         pages.append(Page(i, printed, blocks))
     fix_page_numbers(pages)
     return pages, width, (statistics.fmean(confs) if confs else 0.0)
+
+
+_OUTLINED_JUNK = re.compile(r"[^A-Za-z0-9\u00C0-\u024F’'\"“”‘.,;:()\-\s]")
+
+
+def clean_outlined(raw: str) -> str:
+    """Tesseract's reading of an outlined word or line, with the symbols it hallucinates on
+    italics and macrons removed ("pardes i |" -> "pardes i")."""
+    word = _OUTLINED_JUNK.sub("", raw).strip()
+    word = re.sub(r"\s+", " ", word)
+    return word if sum(ch.isalpha() for ch in word) >= 2 else ""
+
+
+def outlined_reader(pdf_path: Path):
+    """A callable that OCRs a small page rectangle (an outlined word), cached per PDF."""
+    if not available():
+        return None
+    cache_path = pdf_path.parent / "ocr" / f"{pdf_path.stem}-outlined.json"
+    cache: dict[str, str] = json.loads(cache_path.read_text()) if cache_path.exists() else {}
+
+    def read(page: pymupdf.Page, rect: pymupdf.Rect) -> str | None:
+        key = f"{page.number}:{round(rect.x0)}:{round(rect.y0)}:{round(rect.x1)}:{round(rect.y1)}"
+        if key in cache:
+            return cache[key] or None
+        clip = (rect + (-4, -4, 4, 4)) & page.rect
+        if clip.is_empty or clip.width < 3 or clip.height < 3:
+            cache[key] = ""
+            return None
+        cache_path.parent.mkdir(parents=True, exist_ok=True)
+        png = cache_path.parent / f"{pdf_path.stem}-outlined.png"
+        page.get_pixmap(dpi=600, clip=clip, colorspace=pymupdf.csGRAY).save(png)
+        proc = subprocess.run([TESSERACT, str(png), "stdout", "--psm", "7", "-l", "eng"], capture_output=True, text=True, check=False)
+        png.unlink(missing_ok=True)
+        word = clean_outlined(proc.stdout)
+        cache[key] = word
+        cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0))
+        return word or None
+
+    return read
 
 
 def _rounded(b: Block) -> Block:

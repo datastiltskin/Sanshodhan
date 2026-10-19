@@ -15,6 +15,8 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-prelims.pdf"
 
 ## Grade 7 | Part 1
 
+> [caption] sta 3far fae sq sine atest fstatorT IONAL COUNCI EDUCAI IONAL RESEARCH AND Uke Rave
+
 <!-- page 27 (pdf 2) -->
 
 > [caption] First Edition April 2025 Chaitra 1947
@@ -237,11 +239,23 @@ M V Srinivasan, Professor of Economics, Department of Education in Social Scienc
 
 Reviewers
 
-Aditi Mishra, Director Principal, Delhi Public School, Gurgaon; and Teachers: Kanu Chopra, Leeza Dutta, Avni Mehta, Mamta Kumar, Suparna Sharma Anurag Behar, Member, National Curriculum Frameworks Oversight Committee, and CEO, Azim Premji Foundation Aparna Pandey, Professor of Geography, DESS Arnab Bhattacharya, Centre Director, Homi Bhabha Centre for Science Education, Tata Institute of Fundamental Research (TIFR), Mumbai; Professor, Department of Condensed Matter Physics and Material Science, TIFR, Mumbai Birbal Luniwal, Assistant Professor of Geography, DESS Gauri Srivastava, Professor of History, DESS Jagbir Singh, Professor, Chairperson, NOC, and Chancellor, Central University of Punjab Jaya Singh, Professor of Economics, DESS Kumari Rohini, Assistant Professor of History, DESS P.K. Mandal, Professor of History; Head, DESS Pratima Kumari, Professor of Economics, DESS Priyadarsini Samantaray, Assistant Professor of Sociology, DESS Rashmi, Associate Professor of Commerce (Business Studies), DESS Ruchika Singh, IKS Division Sainath Kabade, Assistant Professor of History, DESS Savita Sagar, Assistant Professor of Political Science, DESS Shankar Sharan, Professor of Political Science, DESS Shipra Vaidya, Professor of Commerce, DESS Subhash Singh, Assistant Professor of Political Science, DESS Tannu Malik, Professor of Geography, DESS Vanthangpui Khobung, Assistant Professor of Political Science, DESS
+Aditi Mishra, Director Principal, Delhi Public School, Gurgaon; and Teachers: Kanu Chopra, Leeza Dutta, Avni Mehta, Mamta Kumar, Suparna Sharma Anurag Behar, Member, National Curriculum Frameworks Oversight Committee, and CEO, Azim Premji Foundation Aparna Pandey, Professor of Geography, DESS Arnab Bhattacharya, Centre Director, Homi Bhabha Centre for Science Education, Tata Institute of Fundamental Research (TIFR), Mumbai; Professor, Department of Condensed Matter Physics and Material Science, TIFR, Mumbai Birbal Luniwal, Assistant Professor of Geography, DESS Gauri Srivastava, Professor of History, DESS Jagbir Singh, Professor, Chairperson, NOC, and Chancellor, Central University of Punjab Jaya Singh, Professor of Economics, DESS Kumari Rohini, Assistant Professor of History, DESS P.K. Mandal, Professor of History; Head, DESS Pratima Kumari, Professor of Economics, DESS Priyadarsini Samantaray, Assistant Professor of Sociology, DESS Rashmi, Associate Professor of Commerce (Business Studies), DESS Ruchika Singh, IKS Division Sainath Kabade, Assistant Professor of History, DESS Savita Sagar, Assistant Professor of Political Science, DESS Shankar Sharan, Professor of Political Science, DESS Shipra Vaidya, Professor of Commerce, DESS Subhash Singh, Assistant Professor of Political Science, DESS Tannu Malik, Professor of Geography, DESS Vanthangpui Khobung, Assistant Professor of Political Science, DESS INSTITUTI INDIA THE Ct having
 
 <!-- page 27 (pdf 17) -->
 
 <!-- page 27 (pdf 18) -->
+
+> [caption] IN
+
+> [caption] PREAMBLE
+
+> [caption] PE(
+
+> [caption] PLE constitute India intc ICIALIST SECULAR and tc Secure INDIA, THE WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial. CCl political; of thought, expression, belief, LIBERTY faith and worship: yf status and EQUALITY ypportunity; and t promote among them all FRATERNITY assuring the dignity the the individual and and unity f the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 de this twenty-sixth day ENACT AND GIVE T PT, HEREBY AD YURSELVES THIS C INSTITUTIC and JUSTICE, ymic Subs. by the Co
+
+> [caption] (Forty-seco ef. 3.1.1977)
+
+> [caption] Subs. by the Cc "Unity of the Natio ef. 3.1.1977)
 
 <!-- page 27 (pdf 19) -->
 

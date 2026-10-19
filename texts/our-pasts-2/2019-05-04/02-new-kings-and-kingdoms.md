@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch02.pdf"
 source_sha256: "ad8a013dd2910da8412fea6e6bd99d5e0a9424a728adb31caa5c5744b6bd46cf"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "e81424511109ccb118012dbdd224e9254d52dad4e088855f5cce2729daaa421d"
+body_fingerprint: "e2584f1988a83dac9fa64738aee6c1cd5cb28fb7148d7b48624af1997d4080e0"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -228,19 +228,11 @@ Cholas Tamil Nadu
 
 5. How did the Rashtrakutas become powerful?
 
-KEYWORDS
-
 6. What did the new dynasties do to gain acceptance?
-
-samanta
 
 7. What kind of irrigation works were developed in the Tamil region?
 
-temple nadu
-
 8. What were the activities associated with Chola temples?
-
-sabha
 
 ### Let’s discuss
 
@@ -253,3 +245,5 @@ sabha
 11. Compare the temple shown in this chapter with any present-day temple in your neighbourhood, highlighting any similarities and differences that you notice.
 
 12. Find out more about taxes that are collected at present. Are these in cash, kind, or labour services?
+
+KEYWORDS samanta temple nadu sabha

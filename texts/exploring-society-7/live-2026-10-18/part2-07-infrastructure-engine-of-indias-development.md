@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf"
 source_sha256: "9eb6c456f5f0fab9fbdcc84d3c433126e118d0568b6e3bb64339b90a3a93d303"
 pdf_pages: 24
 printed_pages: "169-192"
-body_fingerprint: "6c29181e770b4c2595d20d4d64ad28e1d774c611d058ca7f844fcaa0ea7da899"
+body_fingerprint: "35a6d1370c07db94bcd080ce28ea2be1810496f6cf0e932214047cad7e56890c"
 ---
 
 <!-- page 169 (pdf 1) -->
@@ -154,11 +154,9 @@ Today, Indian Railways is the fourth-largest railway system in the world.
 
 <!-- page 179 (pdf 11) -->
 
-y x
+y lo et
 
 > [caption] USA
-
-> [table] 293,564
 
 > [caption] China
 
@@ -172,11 +170,11 @@ y x
 
 > [table] 69,181
 
-> [caption] Canada
+> [caption] had fad Ee 0 50000 100000 150000 200000 250000 300000 Canada
 
 > [table] 48,000
 
-> [caption] 0 50000 100000 150000 200000 250000 300000 Length of railway tracks (km)
+> [caption] Length of railway tracks (km)
 
 > [caption] Fig. 7.11. Country-wise comparison — length of railway tracks (km) in 2024 1895: F-734, steam locomotive 1970: WAM-4, electric locomotive
 
@@ -187,6 +185,10 @@ y x
 > [caption] 1957: WDM-1, diesel locomotive
 
 > [caption] Fig. 7.12. Timeline of development of trains in India
+
+> [table] 293,564
+
+) VJ PT) ) pp x
 
 <!-- page 180 (pdf 12) -->
 

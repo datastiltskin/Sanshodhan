@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "f66926a2dc48c707bcb30435089fc9a7833c52a6ba9bc6b32f12f264fddaebcc",
+      "fingerprint": "f4ef0759eb36307dc4c025770021e31d069fb7a0c95a24561d6ef8c6c4a6784d",
       "snapshots": [
         "2014-07-28"
       ],
@@ -53,7 +53,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "0b0b24570335be12f6da0920cdf92e81b9611e3d68411d28d8a620b23a6af12c",
+          "fingerprint": "e62d67f66049e8b96fec09fa98f049db3fd4782e4ad481d558ba1d071ab862cf",
           "role_counts": {
             "footer": 22,
             "dropcap": 1,
@@ -76,7 +76,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "426c8e0d1aecc8b0ead4bdf833f53fc46b7ac6a0b2a61df9c75e4c2ee36f6b07",
+          "fingerprint": "c03bfc2d4813349f427073401b806c051140193c4556bfa8327f6d53f695a70c",
           "role_counts": {
             "footer": 23,
             "dropcap": 1,
@@ -99,7 +99,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "320b492687edb7711d1e68cc9556cc2684f00fd2370e7c14bb00938d1702a8a8",
+          "fingerprint": "5e44869f0b480ca0f41742c4bfb42706e313ff7207299c082702a5a1cd7cea36",
           "role_counts": {
             "footer": 23,
             "dropcap": 1,
@@ -123,7 +123,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "f15c50d4a972fdd8e9559873ca90011439808da1a2d1dc02202a937020a75217",
+          "fingerprint": "7e70517c0c29c0dee1d4c73c6ecd983ea3236981eacdc4f166f20a7f8e720f56",
           "role_counts": {
             "footer": 24,
             "dropcap": 1,
@@ -146,7 +146,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "69f5cac0cee1b218cf2330f3abdc52441bdfb16d22df7b0f4c7884d6c200f712",
+          "fingerprint": "c61f0026bd5cb5c9d79ace7c959c8953109ef28b9dc936862d6edc5930c71375",
           "role_counts": {
             "footer": 24,
             "dropcap": 1,
@@ -168,7 +168,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch07.pdf",
           "pdf_pages": 13,
           "printed_pages": "91-103",
-          "fingerprint": "d26412704ea8191a63e2e3ccb7c8ffb87ba95d3166e2069789d092287142ad99",
+          "fingerprint": "6e0ec4b7c2634fa39af89c2eee369d3da102fbb2cd4682c9745e1c1025294224",
           "role_counts": {
             "footer": 20,
             "dropcap": 1,
@@ -234,7 +234,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch10.pdf",
           "pdf_pages": 17,
           "printed_pages": "138-154",
-          "fingerprint": "fa3b4a554b3496b04bf4f81bb8f9caadf1293c24d6ff35b18a7c94be9e0e00d1",
+          "fingerprint": "570b9abd0c5681dc32291b17e902feb71dcad1c6061a0b564b300c2cffd566d8",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -254,7 +254,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "1cc1f25b704f87deaff7dbcab1e404df8cf4ae0837be297cd86888c04399ac92",
+      "fingerprint": "9bf9b3745ccae43645bc83931213b3b60afd4e100258977d5942ef512ff9430b",
       "snapshots": [
         "2016-09-10",
         "2017-partial"
@@ -312,7 +312,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "0b0b24570335be12f6da0920cdf92e81b9611e3d68411d28d8a620b23a6af12c",
+          "fingerprint": "e62d67f66049e8b96fec09fa98f049db3fd4782e4ad481d558ba1d071ab862cf",
           "role_counts": {
             "footer": 22,
             "dropcap": 1,
@@ -335,7 +335,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "426c8e0d1aecc8b0ead4bdf833f53fc46b7ac6a0b2a61df9c75e4c2ee36f6b07",
+          "fingerprint": "c03bfc2d4813349f427073401b806c051140193c4556bfa8327f6d53f695a70c",
           "role_counts": {
             "footer": 23,
             "dropcap": 1,
@@ -358,7 +358,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "2f50c6be186163cb919b0c7b6ac7029cf0f00e4d911909304e27b7cda79a8751",
+          "fingerprint": "f3e5529c14092eb788ba0d6c073228ffe8b10cb361e2f81297e98f37035a6266",
           "role_counts": {
             "footer": 38,
             "dropcap": 1,
@@ -406,7 +406,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "69f5cac0cee1b218cf2330f3abdc52441bdfb16d22df7b0f4c7884d6c200f712",
+          "fingerprint": "c61f0026bd5cb5c9d79ace7c959c8953109ef28b9dc936862d6edc5930c71375",
           "role_counts": {
             "footer": 24,
             "dropcap": 1,
@@ -428,7 +428,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch07.pdf",
           "pdf_pages": 13,
           "printed_pages": "91-103",
-          "fingerprint": "d26412704ea8191a63e2e3ccb7c8ffb87ba95d3166e2069789d092287142ad99",
+          "fingerprint": "6e0ec4b7c2634fa39af89c2eee369d3da102fbb2cd4682c9745e1c1025294224",
           "role_counts": {
             "footer": 20,
             "dropcap": 1,
@@ -494,7 +494,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch10.pdf",
           "pdf_pages": 17,
           "printed_pages": "138-154",
-          "fingerprint": "fa3b4a554b3496b04bf4f81bb8f9caadf1293c24d6ff35b18a7c94be9e0e00d1",
+          "fingerprint": "570b9abd0c5681dc32291b17e902feb71dcad1c6061a0b564b300c2cffd566d8",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -514,7 +514,7 @@
     },
     {
       "id": "2019-05-04",
-      "fingerprint": "4dea334675b4c0b3a7b9876d36a48b8a6c017c31e9c1602e7f9f106d051aedf0",
+      "fingerprint": "f326a46a5de047d264f882fcf16045067521e19775ec2a8054cc2c8c5162e51c",
       "snapshots": [
         "2019-05-04",
         "2020-06-16",
@@ -580,7 +580,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "e81424511109ccb118012dbdd224e9254d52dad4e088855f5cce2729daaa421d",
+          "fingerprint": "e2584f1988a83dac9fa64738aee6c1cd5cb28fb7148d7b48624af1997d4080e0",
           "role_counts": {
             "footer": 36,
             "dropcap": 1,
@@ -604,7 +604,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "35fa945daa1259dec3d3ce937e3bb2bf74e0847faab6c8fc8d8339ac55cb3c11",
+          "fingerprint": "3eb67780c092c94ec736b485eabb4b0888647d2bd34c38f3fab421621c9b0414",
           "role_counts": {
             "footer": 38,
             "dropcap": 1,
@@ -628,7 +628,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "3caa2bd83d05cfade05be6026bb5cde1a26c7e394c078a05184b359dc5afbad3",
+          "fingerprint": "4e61da05b28a5e37acaf67be5981b148ce4825131d39befe54bc3ce852b0f31b",
           "role_counts": {
             "footer": 38,
             "dropcap": 1,
@@ -653,7 +653,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "e3ecc0c03d46cc7462b99e9416880162294c8d12928b82135da3a0b4be67b64f",
+          "fingerprint": "736c3c2de337370353c3b884fe2f5f550a6458f20cc0d1409e58b3a7a48f8d9d",
           "role_counts": {
             "footer": 37,
             "dropcap": 1,
@@ -677,7 +677,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "402a058e47ace7121c52e7bee1871d39fbe813db904bba8b57eb9a3b037a977c",
+          "fingerprint": "d09c32f7e768f18fb708795f363a089a255dbc347a80de205253c5d602f9eb18",
           "role_counts": {
             "footer": 40,
             "dropcap": 1,
@@ -701,7 +701,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch07.pdf",
           "pdf_pages": 13,
           "printed_pages": "91-103",
-          "fingerprint": "0f8bcdf51a0914da105f83b7853bc5f8987f75d9a785ff77a91ac0e0f3fe4760",
+          "fingerprint": "b76e4b4ee24cc4007512f4b0585c8261d1e7532760b3b1f4cc9ceed436863cae",
           "role_counts": {
             "footer": 33,
             "dropcap": 1,
@@ -772,7 +772,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch10.pdf",
           "pdf_pages": 17,
           "printed_pages": "138-154",
-          "fingerprint": "0b302426c1327a7d83402ff37e1503356e70f8837fd79632dee8bb9103731852",
+          "fingerprint": "7a0ef1f81cd834440e95639e83b7a993da6e6e17aed9e9024cc469a92afe36ba",
           "role_counts": {
             "footer": 43,
             "chapter-number": 1,
@@ -793,7 +793,7 @@
     },
     {
       "id": "2022-08-04-ocr",
-      "fingerprint": "e15176d28a0b4a04aa9d8e78a9042d5fd92e904fe088d141a0ea1c67b6695282",
+      "fingerprint": "91e1c45f8cdf12b643b1aa381a1d9ab0e843ab10ce22dc14bd396b02594344f7",
       "snapshots": [
         "2022-08-04"
       ],
@@ -878,7 +878,7 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "533909fc685a51fbb4229da645bf00585119cc68a5dec1958fd7a6f5582f6fea",
+          "fingerprint": "6c4cd9e4e35e65c45f74593ac81d2dd04bbfdc883f896d8b81a7ecc69f612f4a",
           "role_counts": {
             "caption": 31,
             "h2": 7,
@@ -1021,7 +1021,7 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch10.pdf",
           "pdf_pages": 17,
           "printed_pages": "138-154",
-          "fingerprint": "0b302426c1327a7d83402ff37e1503356e70f8837fd79632dee8bb9103731852",
+          "fingerprint": "7a0ef1f81cd834440e95639e83b7a993da6e6e17aed9e9024cc469a92afe36ba",
           "role_counts": {
             "footer": 43,
             "chapter-number": 1,
@@ -1042,7 +1042,7 @@
     },
     {
       "id": "2023-12-23-rationalised",
-      "fingerprint": "ab4e8e723b2ae3b171367cc16cd5cbceffa95b15cbe9b6377bb184df5c673e7d",
+      "fingerprint": "f6e9e94cd4a720355042fdacbd71df598781d911c15ce732157878f46b037b45",
       "snapshots": [
         "2023-12-23"
       ],
@@ -1109,7 +1109,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "da6da518891f15e1c438a58a5cf182dfaae2bd17f7f820e275159b280cde81e4",
+          "fingerprint": "7641f68b45a275f7b3b610169a4d3a7a63bbfe6f3f3a6ec2929b78cb6ff0ac09",
           "role_counts": {
             "footer": 29,
             "dropcap": 1,
@@ -1132,7 +1132,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch03.pdf",
           "pdf_pages": 9,
           "printed_pages": "30-38",
-          "fingerprint": "deee4d276243467f3ac1bb83c2d7d6eec02880f7d04b4c649d7b3797f5536d25",
+          "fingerprint": "44f0e83aa1b472de6c62af8742dc6e3ee23a3ac251a1c0a8564c0c9ba7b62012",
           "role_counts": {
             "footer": 26,
             "dropcap": 1,
@@ -1155,7 +1155,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "39-48",
-          "fingerprint": "66ed8c2b14b2c5a6c173fb27f818363f12b7f591aef10bcd52f4492d9a6701bf",
+          "fingerprint": "4933a79792917a534632ffb63eb1cbd93cdd48adfa40203175d5fde49d5afda1",
           "role_counts": {
             "footer": 20,
             "dropcap": 1,
@@ -1201,7 +1201,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch06.pdf",
           "pdf_pages": 18,
           "printed_pages": "61-78",
-          "fingerprint": "52caba6dec22bd8bc61c02702dce245f185d71ceb77a9e69d3f75d33a581bb1c",
+          "fingerprint": "e86695ce92a8d5c1e5d4b468adfcdccdfe66003f716b7eb614070e1834b6fbbd",
           "role_counts": {
             "footer": 38,
             "dropcap": 1,
@@ -1224,7 +1224,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch07.pdf",
           "pdf_pages": 15,
           "printed_pages": "79-93",
-          "fingerprint": "d780393593197b1e71a9933f7b6104012c5c7f6c347759b4e0b9e93685788f4b",
+          "fingerprint": "5290630bd776f3bc460887d05a3d1348ce88d40d5cb9bd97099082d58c98e0f2",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
@@ -1266,7 +1266,7 @@
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "beeb26144176b8f1dcb38613b9c581cc2e884e76dc49249eb2239a02d08c952a",
+      "fingerprint": "551086b34873cf8a4158c485d44b330c4bd4795c7146dbe7ea8f040320427de6",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-18"
@@ -1312,14 +1312,14 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch01.pdf",
           "pdf_pages": 15,
           "printed_pages": "1-15",
-          "fingerprint": "736c36031abc3fb3026981af0973a952da8c88d1b863a908ee8041c4dc807c94",
+          "fingerprint": "33b44bfd369f6e8d9e201e39ddc02d3ad964edba195533345aee4e1462d005e9",
           "role_counts": {
-            "footer": 15,
+            "footer": 36,
             "dropcap": 1,
-            "body": 106,
-            "note": 11,
+            "body": 101,
+            "note": 18,
             "h2": 7,
-            "caption": 7,
+            "caption": 10,
             "h3": 6
           },
           "ocr": false,
@@ -1333,13 +1333,13 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "023a1c068655fea479010ed56c6d459411c4c8dc3080340bfed2de52276f1c6d",
+          "fingerprint": "027270850300852ef92f50e0754caf79b11eb9e5cc7876913652382a4aaacc01",
           "role_counts": {
-            "footer": 15,
+            "footer": 36,
             "dropcap": 1,
             "body": 107,
             "chapter-number": 1,
-            "caption": 10,
+            "caption": 14,
             "note": 8,
             "h2": 5,
             "h3": 9
@@ -1355,15 +1355,15 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch03.pdf",
           "pdf_pages": 9,
           "printed_pages": "30-38",
-          "fingerprint": "9e2b9e23598a0e5929c0c4846552659fff826aa5ebb50fa66bc51691117aaa95",
+          "fingerprint": "6bc65f2999adaa6b58f64be22eca9fb4e4af098fe0bde8ec9c371f23d55e4dec",
           "role_counts": {
-            "footer": 13,
+            "footer": 24,
             "dropcap": 1,
-            "body": 76,
-            "h2": 5,
-            "caption": 2,
-            "h3": 9,
-            "note": 18
+            "body": 74,
+            "h2": 7,
+            "caption": 8,
+            "note": 20,
+            "h3": 9
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1376,13 +1376,12 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "39-48",
-          "fingerprint": "de0791a1e77cd8619dbb6d08836971e50b5b87a83989805c66d4ee3a92c16c0f",
+          "fingerprint": "1ed58863601f53d2cd6195c3860eef911aa6c92f0996a531ffe21b8c11c73915",
           "role_counts": {
-            "footer": 10,
-            "dropcap": 1,
+            "footer": 25,
+            "h2": 9,
             "body": 72,
-            "h2": 8,
-            "caption": 10,
+            "caption": 16,
             "note": 3,
             "h3": 8
           },
@@ -1397,13 +1396,12 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch05.pdf",
           "pdf_pages": 12,
           "printed_pages": "49-60",
-          "fingerprint": "9411c12bb07b048150a8bf8d06fce1ab08be0f1d40b1384157f2597703c9c789",
+          "fingerprint": "20d480b80e1d9116b65ccf905b2a01edeb92d70fbcd541c3de26f3c2542643c0",
           "role_counts": {
-            "footer": 12,
-            "dropcap": 1,
+            "footer": 30,
+            "h2": 8,
             "body": 90,
-            "h2": 7,
-            "caption": 10,
+            "caption": 23,
             "note": 12,
             "h3": 6
           },
@@ -1418,13 +1416,13 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch06.pdf",
           "pdf_pages": 18,
           "printed_pages": "61-78",
-          "fingerprint": "a6c76f3160b788188d5ac8076540f9c2c0c9633be0aeb67f4567a27ecb39aa2e",
+          "fingerprint": "b8fbd53077280ba87cb88df0045670a13c3e07999a19e940f7f8686f832f8ccb",
           "role_counts": {
-            "footer": 18,
+            "footer": 45,
             "dropcap": 1,
             "body": 114,
             "h2": 11,
-            "caption": 19,
+            "caption": 26,
             "note": 11,
             "h3": 10
           },
@@ -1439,14 +1437,14 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch07.pdf",
           "pdf_pages": 15,
           "printed_pages": "79-93",
-          "fingerprint": "f498b103559e022d55e08ddcedc9f3c7554947f0821e66a16b0f293a194e8730",
+          "fingerprint": "8e7cde04be87977b9efa1ca5cca1e6dd18ddeaf9a376f0da834f0894cae66b64",
           "role_counts": {
-            "footer": 15,
+            "footer": 37,
             "note": 14,
             "h2": 9,
             "dropcap": 1,
             "body": 93,
-            "caption": 16,
+            "caption": 20,
             "h3": 5
           },
           "ocr": false,

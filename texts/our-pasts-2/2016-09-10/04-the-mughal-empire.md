@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch04.pdf"
 source_sha256: "82734b433ad002c2add5b3b3e62dc3203ce2927b7f90495c9e8a86da890e3512"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "2f50c6be186163cb919b0c7b6ac7029cf0f00e4d911909304e27b7cda79a8751"
+body_fingerprint: "f3e5529c14092eb788ba0d6c073228ffe8b10cb361e2f81297e98f37035a6266"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -194,7 +194,7 @@ mansab Marwar Mongol governor
 
 Sisodiya Rajput Uzbeg
 
-Rathor Rajput Mewar Nur Jahan rank subadar Jahangir
+Rathor Rajput Mewar Nur Jahan rank subadar Jahangir KEYWORDS Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 <!-- page 58 (pdf 14) -->
 
@@ -204,23 +204,13 @@ Rathor Rajput Mewar Nur Jahan rank subadar Jahangir
 
 (b) The five Deccan Sultanates were Berar, Khandesh, Ahmadnagar, ____________ and _________________.
 
-KEYWORDS
-
 (c) If zat determined a mansabdar’s rank and salary, sawar indicated his ____________ .
-
-Mughal
 
 (d) Abul Fazl, Akbar’s friend and counsellor, helped him frame the idea of ____________ so that he could govern a society composed of many religions, cultures and castes.
 
-mansab jagir zat
-
 3. What were the central provinces under the control of the Mughals?
 
-sawar
-
 4. What was the relationship between the mansabdar and the jagir?
-
-sulh-i kul primogeniture coparcenary zabt zamindar
 
 ### Let’s understand
 

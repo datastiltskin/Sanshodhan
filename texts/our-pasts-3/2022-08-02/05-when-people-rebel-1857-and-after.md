@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch05.pdf"
 source_sha256: "18be5e96ad3cd34487062b6b91a9be4438a230f82f99414b16b5ff853affec24"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "dec05a5f1dc634c3b555de1b8aeae30f082ae87e2ef4a93049b544a6ad82ad8c"
+body_fingerprint: "d3b09e2424208e56a5dc40c09b9182f80e9f5df9ff9fb647f2447af514cc0e6f"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -39,9 +39,9 @@ In the countryside peasants and zamindars resented the high taxes and the rigid 
 
 The Indian sepoys in the employ of the Company also had reasons for discontent. They were unhappy about their pay, allowances and conditions of service. Some of the new rules, moreover, violated their religious sensibilities and beliefs. Did you know that in those days many people in the country believed that if they crossed the sea they would lose their religion and caste? So when in 1824 the sepoys were told to go to Burma by the sea route to fight for the Company, they refused to follow the order, though they agreed to go by the land route. They were severely punished, and since the issue did not die down, in 1856 the Company passed a new law which stated that every new person who took up employment in the Company’s army had to agree to serve overseas if required.
 
-Activity Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
-
 Sepoys also reacted to what was happening in the countryside. Many of them were peasants and had families living in the villages. So the anger of the peasants quickly spread among the sepoys.
+
+Activity Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
 
 <!-- page 53 (pdf 3) -->
 
@@ -81,11 +81,7 @@ It is my humble opinion that this seizing of Oudh filled the minds of the Sepoys
 
 > [table] Source 2 contd.
 
-Activity 
-
 It chanced that about this time the Sarkar sent parties of men from each regiment to different garrisons for instructions in the use of the new rifle. These men performed the new drill for some time until a report got about by some means or the other, that the cartridges used for these new rifles were greased with the fat of cows and pigs. The men from our regiment wrote to others in the regiment telling them about this, and there was soon excitement in every regiment. Some men pointed out that in forty years’ service nothing had ever been done by the Sarkar to insult their religion, but as I have already mentioned the sepoys’ minds had been inflamed by the seizure of Oudh. Interested parties were quick to point out that the great aim of the English was to turn us all into Christians, and they had therefore introduced the cartridge in order to bring this about, since both Mahommedans and Hindus would be defiled by using it.
-
-1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
 The Colonel sahib was of the opinion that the excitement, which even he could not fail to see, would pass off, as it had done before, and he recommended me to go to my home.
 
@@ -95,25 +91,29 @@ The Colonel sahib was of the opinion that the excitement, which even he could no
 
 Though struggles between rulers and the ruled are not unusual, sometimes such struggles become quite widespread as a popular resistance so that the power of the state breaks down. A very large number of people begin to believe that they have a common enemy and rise up against the enemy at the same time. For such a situation to develop people have to organise, communicate, take initiative and display the confidence to turn the situation around.
 
-Mutiny – When soldiers as a group disobey their officers in the army Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
+Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
+
+Activity 
+
+1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
+
+Mutiny – When soldiers as a group disobey their officers in the army Firangis – Foreigners The term reflects an attitude of contempt.
 
 <!-- page 56 (pdf 6) -->
 
 > [caption] Fig. 4 – The battle in the cavalry lines
 
+> [table] On the evening of 3 July 1857, over 3,000 rebels came from Bareilly, crossed the river Jamuna, entered Delhi, and attacked the British cavalry posts. The battle continued all through the night.
+
+> [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
+
 ### From Meerut to Delhi
 
 On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
 
-> [table] On the evening of 3 July 1857, over 3,000 rebels came from Bareilly, crossed the river Jamuna, entered Delhi, and attacked the British cavalry posts. The battle continued all through the night.
-
 The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
 
 The sepoys of Meerut rode all night of 10 May to reach Delhi in the early hours next morning. As news of their arrival spread, the regiments stationed in Delhi also rose up in rebellion. Again british officers were killed, arms and ammunition seized, buildings set on fire. Triumphant soldiers gathered around the walls of the Red Fort where the Badshah lived, demanding to meet him. The emperor was not quite willing to challenge the mighty British power but the soldiers persisted. They forced their way into the palace and proclaimed Bahadur Shah Zafar as their leader.
-
-> [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
-
-Firangis – Foreigners The term reflects an attitude of contempt.
 
 <!-- page 57 (pdf 7) -->
 
@@ -135,11 +135,9 @@ Regiment after regiment mutinied and took off to join other troops at nodal poin
 
 <!-- page 58 (pdf 8) -->
 
-Activity 1. Why did the Mughal emperor agree to support the rebels? 2. Write a paragraph on the assessment he may have made before accepting the offer of the sepoys.
-
 The British were greatly outnumbered by the rebel forces. They were defeated in a number of battles. This convinced the people that the rule of the British had collapsed for good and gave them the confidence to take the plunge and join the rebellion. A situation of widespread popular rebellion developed in the region of Awadh in particular. On 6 August 1857, we find a telegram sent by Lieutenant Colonel Tytler to his Commander-in-Chief expressing the fear felt by the British: “Our men are cowed by the numbers opposed to them and the endless fighting. Every village is held against us, the zamindars have risen to oppose us.”
 
-Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, prophesied that the rule of the British would come to an end soon. He caught the imagination of the people and raised a huge force of supporters. He came to Lucknow to fight the British. In Delhi, a large number of ghazis or religious warriors came together to wipe out the white people. Bakht Khan, a soldier from Bareilly, took charge of a large force of fighters who came to Delhi. He became a key military leader of the rebellion. In Bihar, an old zamindar, Kunwar Singh, joined the rebel sepoys and battled with the British for many months. Leaders and fighters from across the land joined the fight. The Company Fights Back Unnerved by the scale of the upheaval, the Company decided to repress the revolt with all its might. It brought reinforcements from England, passed new laws so that the rebels could be convicted with ease, and then moved into the storm centres of the revolt. Delhi was recaptured from the rebel forces in September 1857. The last Mughal emperor, Bahadur Shah Zafar was tried in court and sentenced to life imprisonment. He and his wife Begum Zinat Mahal were sent to prison in Rangoon in October 1858. Bahadur Shah Zafar died in the Rangoon jail in November 1862.
+Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, prophesied that the rule of the British would come to an end soon. He caught the imagination of the people and raised a huge force of supporters. He came to Lucknow to fight the British. In Delhi, a large number of ghazis or religious warriors came together to wipe out the white people. Bakht Khan, a soldier from Bareilly, took charge of a large force of fighters who came to Delhi. He became a key military leader of the rebellion. In Bihar, an old zamindar, Kunwar Singh, joined the rebel sepoys and battled with the British for many months. Leaders and fighters from across the land joined the fight. The Company Fights Back Unnerved by the scale of the upheaval, the Company decided to repress the revolt with all its might. It brought Activity 1. Why did the Mughal emperor agree to support the rebels? 2. Write a paragraph on the assessment he may have made before accepting the offer of the sepoys.
 
 > [caption] Fig. 9 – A portrait of Nana Saheb
 
@@ -151,17 +149,19 @@ Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, 
 
 <!-- page 59 (pdf 9) -->
 
-> [caption] Fig. 12– The siege train reaches Delhi
-
-> [caption] The British forces initially found it difficult to break through the heavy fortification in Delhi. On 3 September 1857 reinforcements arrived – a 7- mile-long siege train comprising cartloads of canons and ammunition pulled by elephants.
+reinforcements from England, passed new laws so that the rebels could be convicted with ease, and then moved into the storm centres of the revolt. Delhi was recaptured from the rebel forces in September 1857. The last Mughal emperor, Bahadur Shah Zafar was tried in court and sentenced to life imprisonment. He and his wife Begum Zinat Mahal were sent to prison in Rangoon in October 1858. Bahadur Shah Zafar died in the Rangoon jail in November 1862.
 
 The recapture of Delhi, however, did not mean that the rebellion died down after that. People continued to resist and battle the British. The British had to fight for two years to suppress the massive forces of popular rebellion.
 
 Lucknow was taken in March 1858. Rani Lakshmibai was defeated and killed in June 1858. A similar fate awaited Rani Avantibai, who after initial victory in Kheri, chose to embrace death when surrounded by the British on all sides. Tantia Tope escaped to the jungles of central India and continued to fight a guerrilla war with the support of many tribal and peasant leaders. He was captured, tried and killed in April 1859.
 
-> [caption] Fig. 13 – Postal stamp Essued in commemoration of Tantia Tope
-
 Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, Activity Make a list of places where the uprising took place in May, June and July 1857.
+
+> [caption] Fig. 12– The siege train reaches Delhi
+
+> [caption] The British forces initially found it difficult to break through the heavy fortification in Delhi. On 3 September 1857 reinforcements arrived – a 7- mile-long siege train comprising cartloads of canons and ammunition pulled by elephants.
+
+> [caption] Fig. 13 – Postal stamp Essued in commemoration of Tantia Tope
 
 <!-- page 60 (pdf 10) -->
 
@@ -233,13 +233,17 @@ The British and French armed forces operating in China helped the emperor of the
 
 <!-- page 64 (pdf 14) -->
 
-## Let’s recall
-
 ## Let’s imagine
 
-1. What was the demand of Rani Lakshmibai of Jhansi that was refused by the British?
-
 Imagine you are a British officer in Awadh during the rebellion. What would you do to keep your plans of fighting the rebels a top secret.
+
+> [caption] Fig. 17 – Ruins of the Residency in Lucknow
+
+> [table] In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
+
+## Let’s recall
+
+1. What was the demand of Rani Lakshmibai of Jhansi that was refused by the British?
 
 2. What did the British do to protect the interests of those who converted to Christianity?
 
@@ -256,10 +260,6 @@ Imagine you are a British officer in Awadh during the rebellion. What would you 
 7. How did the British succeed in securing the submission of the rebel landowners of Awadh?
 
 8. In what ways did the British change their policies as a result of the rebellion of 1857?
-
-> [caption] Fig. 17 – Ruins of the Residency in Lucknow
-
-> [table] In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
 
 ## Let’s do
 

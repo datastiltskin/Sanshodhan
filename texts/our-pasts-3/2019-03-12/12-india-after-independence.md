@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch06.pdf"
 source_sha256: "292aaeb765772c3b77ec811ad1ea2c7c607daacc6e2d955f867933800c110b51"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "a1b2fb02c156a9248e16aa669b30658d728f0b1004a4a5e4bc57f88394bf9c29"
+body_fingerprint: "9efbb482c4ecea7a6916a98fe95963b2232a7294d2e2905879f21b6f7d1a51d7"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -21,8 +21,6 @@ When India became independent in August 1947, it faced a series of very great ch
 > [caption] Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
 
 > [table] Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
-
-2018-19
 
 <!-- page 161 (pdf 2) -->
 
@@ -34,7 +32,7 @@ Unity and development had to go hand in hand. If the divisions between different
 
 Between December 1946 and November 1949, some three hundred Indians had a series of meetings on the country’s political future. The meetings of this “Constituent Assembly” were held in New Delhi, but the participants came from all over India, and from different political parties. These discussions resulted in the framing of the Indian Constitution, which came into effect on 26 January 1950.
 
-One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and 2018-19 the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
+One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
 
 > [note] Franchise – The right to vote
 
@@ -44,7 +42,7 @@ A second feature of the Constitution was that it guaranteed equality before the 
 
 Besides Muslims, India also had large populations of Sikhs and Christians, as well as many Parsis and Jains. Under the new Constitution, they would have the same rights as Hindus – the same opportunities when it came to seeking jobs in government or the private sector, the same rights before the law.
 
-A third feature of the Constitution was that it offered special privileges for the poorest and most disadvantaged 2018-19 Indians. The practice of untouchability, described as a “slur and a blot” on the “fair name of India”, was abolished. Hindu temples, previously open to only the higher castes, were thrown open to all, including the former untouchables. After a long debate, the Constituent Assembly also recommended that a certain percentage of seats in legislatures as well as jobs in government be reserved for members of the lowest castes. It had been argued by some that Untouchable or as they were now known, Harijan, candidates did not have good enough grades to get into the prestigious Indian Administrative Service. But, as one member of the Constituent Assembly, H.J. Khandekar, argued, it was the upper castes who were responsible for the Harijans “being unfit today”. Addressing his more privileged colleagues, Khandekar said:
+A third feature of the Constitution was that it offered special privileges for the poorest and most disadvantaged Indians. The practice of untouchability, described as a “slur and a blot” on the “fair name of India”, was abolished. Hindu temples, previously open to only the higher castes, were thrown open to all, including the former untouchables. After a long debate, the Constituent Assembly also recommended that a certain percentage of seats in legislatures as well as jobs in government be reserved for members of the lowest castes. It had been argued by some that Untouchable or as they were now known, Harijan, candidates did not have good enough grades to get into the prestigious Indian Administrative Service. But, as one member of the Constituent Assembly, H.J. Khandekar, argued, it was the upper castes who were responsible for the Harijans “being unfit today”. Addressing his more privileged colleagues, Khandekar said:
 
 > [caption] Fig. 2 – Jawaharlal Nehru introducing the resolution that outlined the objectives of the Constitution
 
@@ -52,7 +50,7 @@ A third feature of the Constitution was that it offered special privileges for t
 
 We were suppressed for thousands of years. You engaged us in your service to serve your own ends and suppressed us to such an extent that neither our minds nor our bodies and nor even our hearts work, nor are we able to march forward. Along with the former Untouchables, the adivasis or Scheduled Tribes were also granted reservation in seats and jobs. Like the Scheduled Castes, these Indians too had been deprived and discriminated against. The tribals had been deprived of modern health care and education, while their lands and forests had been taken away by more powerful outsiders. The new privileges granted them by the Constitution were meant to make amends for this.
 
-The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that 2018-19
+The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that
 
 <!-- page 164 (pdf 5) -->
 
@@ -62,7 +60,7 @@ The Constitution sought to balance these competing claims by providing three lis
 
 Another major debate in the Constituent Assembly concerned language. Many members believed that the English language should leave India with the British rulers. Its place, they argued, should be taken by Hindi. However, those who did not speak Hindi were of a different opinion. Speaking in the Assembly, T.T. Krishnamachari conveyed “a warning on behalf of people of the South”, some of whom threatened to separate from India if Hindi was imposed on them. A compromise was finally arrived at: namely, that while Hindi would be the “official language” of India, English would be used in the courts, the services, and communications between one state and another.
 
-Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics 2018-19 we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
+Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
 > [caption] Fig. 3 – Dr B.R. Ambedkar
 
@@ -75,8 +73,6 @@ Back in the 1920s, the Indian National Congress – the main party of the freedo
 Both Prime Minister Nehru and Deputy Prime Minister Vallabhbhai Patel were against the creation of linguistic states. After the Partition, Nehru said, “disruptionist tendencies had come to the fore”; to check them, the nation had to be strong and united. Or, as Patel put it:
 
 ... the first and last need of India at the present moment is that it should be made a nation … Everything which helps the growth of nationalism has to go forward and everything which throws obstacles in its way has to be rejected … We have applied this test to linguistic provinces also, and by this test, in our opinion [they] cannot be supported. That the Congress leaders would now go back on their promise created great disappointment. The Kannada speakers, Malayalam speakers, the Marathi speakers, had all looked forward to having their own state. The strongest protests, however, came from the Telugu-speaking districts of what was the Madras Presidency. When Nehru went to campaign there during the general elections of 1952, he was met with black flags and slogans demanding “We want Andhra”. In October of that year, a veteran Gandhian named Potti Sriramulu went on a hunger strike demanding the formation of Andhra state to protect the interests of Telugu speakers. As the fast went on, it attracted much support. Hartals and bandhs were observed in many towns.
-
-2018-19
 
 > [note] Linguistic – Relating to language
 
@@ -94,8 +90,6 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 > [caption] Fig. 5 (a) Indian Provinces and Princely States before 14 August 1947 Princely States British India
 
-2018-19
-
 <!-- page 167 (pdf 8) -->
 
 > [table] Erstwhile Princely States*
@@ -103,8 +97,6 @@ After the creation of Andhra, other linguistic communities also demanded their o
 > [table] Other States
 
 > [table] *A state ceased to be a “princely state” as and when its prince agreed to merger with India or Pakistan or was defeated. But many of these states were retained as administrative units until 31 October 1956. Hence the category, “erstwhile princely states” for the period 1947-48 to 31 October 1956.
-
-2018-19
 
 > [caption] Fig. 5 (b) – Indian States before 1 November 1956 Fig. 5 (c) – Indian States in 1975
 
@@ -114,21 +106,17 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 State – Concerned with the government. (Note that used in this sense, the word does not refer to the different states which are found in a country.)
 
-Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
-
 > [caption] Fig. 7 – Work going on at the Gandhi Sagar bandh
 
 > [table] This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
 
-In 1956, the Second Five Year Plan was formulated. This focused strongly on the development of heavy industries such as steel, and on the building of large dams. These sectors would be under the control of the State. This focus on heavy industry, and the effort at state regulation of the economy was to guide economic policy for the next few decades. This approach had many strong supporters, but also some vocal critics.
+Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
 
-2018-19
+In 1956, the Second Five Year Plan was formulated. This focused strongly on the development of heavy industries such as steel, and on the building of large dams. These sectors would be under the control of the State. This focus on heavy industry, and the effort at state regulation of the economy was to guide economic policy for the next few decades. This approach had many strong supporters, but also some vocal critics.
 
 <!-- page 169 (pdf 10) -->
 
 Some felt that it had put inadequate emphasis on agriculture. Others argued that it had neglected primary education. Still others believed that it had not taken account of the environmental implications of economic policies. As Mahatma Gandhi’s follower Mira Behn wrote in 1949, by “science and machinery he [mankind] may get huge returns for a time, but ultimately will come desolation. We have got to study Nature’s balance, and develop our lives within her laws, if we are to survive as a physically healthy and morally decent species.”
-
-2018-19
 
 > [caption] Fig. 8– Jawaharlal Nehru at the Bhilai Steel Plant The Bhilai steel plant was set up with the help of the former Soviet Union in 1959. Located in the backward rural area of Chhattisgarh, it came to be seen as an important sign of the development of modern India after Independence.
 
@@ -142,8 +130,6 @@ Some felt that it had put inadequate emphasis on agriculture. Others argued that
 
 > [table] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
 
-2018-19
-
 <!-- page 171 (pdf 12) -->
 
 On 15 August 2007, India celebrated sixty years of its existence as a free nation. How well has the country done in this time? And to what extent has it fulfilled the ideals set out in its Constitution?
@@ -154,17 +140,11 @@ On the other hand, deep divisions persist. Despite constitutional guarantees, th
 
 The Constitution recognises equality before the law, but in real life some Indians are more equal than others. Judged by the standards it set itself at Independence, the Republic of India has not been a great success. But it has not been a failure either.
 
-2018-19
-
 > [caption] Fig. 11 – Dharavi in Bombay is one of the world’s largest slums Notice the high-rise buildings in the background.
 
 <!-- page 172 (pdf 13) -->
 
-> [caption] Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
-
 1. Name three problems that the newly independent nation of India faced.
-
-You are witness to an argument between an adivasi and a person who is opposed to the reservation of seats and jobs. What might be the arguments you heard each of them put forward? Act out the conversation.
 
 2. What was the role of the Planning Commission?
 
@@ -176,7 +156,9 @@ You are witness to an argument between an adivasi and a person who is opposed to
 
 _________ and _________.
 
-2018-19
+> [caption] Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
+
+You are witness to an argument between an adivasi and a person who is opposed to the reservation of seats and jobs. What might be the arguments you heard each of them put forward? Act out the conversation.
 
 <!-- page 173 (pdf 14) -->
 
@@ -205,8 +187,6 @@ _________ and _________.
 9. Who was Mira Behn? Find out more about her life and her ideas.
 
 10. Find out more about the language divisions in Pakistan that led to the creation of the new nation of Bangladesh. How did Bangladesh achieve independence from Pakistan?
-
-2018-19
 
 <!-- page 174 (pdf 15) -->
 
@@ -257,5 +237,3 @@ U.Ball, Jungle Life in India (Ch. 7, Fig. 12)
 Verrier Elwin, The Agaria (Ch. 7, Fig. 13)
 
 Textiles for Temple Trade and Dowry, Collection Sanskriti Museum of Everyday Art (Ch. 7, Figs. 2, 6)
-
-2018-19

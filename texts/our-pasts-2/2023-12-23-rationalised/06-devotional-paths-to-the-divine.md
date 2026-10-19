@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch06.pdf"
 source_sha256: "a1e8a27b4c7f398feb11a7ff55fbe4bbc47e427fe0378172de79713867dfd61f"
 pdf_pages: 18
 printed_pages: "61-78"
-body_fingerprint: "52caba6dec22bd8bc61c02702dce245f185d71ceb77a9e69d3f75d33a581bb1c"
+body_fingerprint: "e86695ce92a8d5c1e5d4b468adfcdccdfe66003f716b7eb614070e1834b6fbbd"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -261,15 +261,7 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 3. Describe the beliefs and practices of the Nathpanthis, Siddhas and Yogis.
 
-Keywords
-
-Virashaivism
-
 4. What were the major ideas expressed by Kabir? How did he express these?
-
-bhakti
-
-Sufi khanqah
 
 ### Let’s understand
 
@@ -284,6 +276,12 @@ Sufi khanqah
 8. For either the Virashaivas or the sants of Maharashtra, discuss their attitude towards caste.
 
 9. Why do you think ordinary people preserved the memory of Mirabai?
+
+Keywords
+
+Virashaivism bhakti
+
+Sufi khanqah
 
 <!-- page 78 (pdf 18) -->
 

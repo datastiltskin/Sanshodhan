@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch07.pdf"
 source_sha256: "fd7030705ddb1d99417f6171e311d9320b5b937bae09e9c375e72ee2369cfcf8"
 pdf_pages: 15
 printed_pages: "79-93"
-body_fingerprint: "d780393593197b1e71a9933f7b6104012c5c7f6c347759b4e0b9e93685788f4b"
+body_fingerprint: "5290630bd776f3bc460887d05a3d1348ce88d40d5cb9bd97099082d58c98e0f2"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -79,17 +79,17 @@ Under the Mughal emperors and their nobles, Kathak was performed in the court, w
 
 Kathak, like several other cultural practices, was viewed with disfavour by most British administrators in the nineteenth and twentieth centuries. However, it survived and continued to be performed by courtesans, and was recognised as one of the six “classical” forms of dance in the country after independence.
 
-### “Classical” dances
-
 > [note] The question of defining any art form as “classical” is often quite complicated. Do we define something as classical if it deals with a religious theme? Or do we consider it classical because it appears to require a great deal of skill acquired through long years of training? Or is it classical because it is performed according to rules that are laid down, and variations are not encouraged? These are questions we need to think about. It is worth remembering that many dance forms that are classified as “folk” also share several of the characteristics considered typical of “classical” forms. So, while the use of the term “classical” may suggest that these forms are superior, this need not always be literally true.
-
-> [note] Other dance forms that are recognised as classical at present are:
-
-> [note] Bharatanatyam (Tamil Nadu) Kathakali (Kerala) Odissi (Odisha) Kuchipudi (Andhra Pradesh) Manipuri (Manipur)
 
 > [caption] Fig. 6 Kathak dancers, a court painting.
 
 > [note] Find out more about any one of these dance forms.
+
+### “Classical” dances
+
+> [note] Other dance forms that are recognised as classical at present are:
+
+> [note] Bharatanatyam (Tamil Nadu) Kathakali (Kerala) Odissi (Odisha) Kuchipudi (Andhra Pradesh) Manipuri (Manipur)
 
 <!-- page 85 (pdf 7) -->
 
@@ -99,13 +99,13 @@ Another tradition that developed in different ways was that of miniature paintin
 
 With the decline of the Mughal Empire, many painters moved out to the courts of the emerging regional states (see also Chapter 8). As a result Mughal artistic tastes influenced the regional courts of the Deccan and the Rajput courts of Rajasthan. At the same time, they retained and developed their distinctive characteristics. Portraits of rulers and court scenes came to be painted, following the Mughal example. Besides, themes from mythology and poetry were depicted at centres such as Mewar, Jodhpur, Bundi, Kota and Kishangarh.
 
-Another region that attracted miniature paintings was the Himalayan foothills around the modern-day state of Himachal Pradesh. By the late seventeenth century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.
+Another region that attracted miniature paintings was the Himalayan foothills around the modern-day state of Himachal Pradesh. By the late seventeenth painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.
 
 > [caption] Fig. 7 Akbar resting during a hunt, Mughal miniature.
 
 <!-- page 86 (pdf 8) -->
 
-R e m e m b e r t h a t ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries.
+R e m e m b e r t h a t ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries.
 
 > [caption] Fig. 8 Maharana Ram Singh II playing holi. Rajput miniature, Kota.
 

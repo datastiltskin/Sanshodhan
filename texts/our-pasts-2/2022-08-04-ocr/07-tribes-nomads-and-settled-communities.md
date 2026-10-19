@@ -197,6 +197,10 @@ garh khel clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS The me
 
 <!-- page 102 (pdf 12) -->
 
+> [table] varna Jjati tanda garh chaurasi barhot bhuiyans paik Kchel buranji
+
+> [caption] census
+
 > [caption] Fill in the blanks:
 
 > [table] (a)
@@ -206,8 +210,6 @@ garh khel clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS The me
 > [table] (b)
 
 > [table] were historical works written by the Ahoms.
-
-> [table] varna Jjati tanda garh chaurasi barhot bhuiyans paik Kchel buranji
 
 > [table] (c)
 
@@ -228,8 +230,6 @@ As tribal states became bigger and stronger, they gave land grants to and
 > [table] (c)
 
 > [caption] The chaurasi in Gond states contained several cities.
-
-> [caption] census
 
 > [table] (d)
 

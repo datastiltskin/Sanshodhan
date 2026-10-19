@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "533909fc685a51fbb4229da645bf00585119cc68a5dec1958fd7a6f5582f6fea"
+body_fingerprint: "6c4cd9e4e35e65c45f74593ac81d2dd04bbfdc883f896d8b81a7ecc69f612f4a"
 ocr: true
 ocr_confidence: 92.1
 ---
@@ -141,15 +141,15 @@ PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = 
 
 > [table] Fig. 2
 
-> [caption] Quuwwat al-Islam mosque and minaret, built during the last decade of the twelfth century. This was the congregational mosque of the first city built by the Delhi Sultans, described in the chronicles as Dehli-i-Kuhna (the old city). The mosque was enlarged by Iltutmish and Alauddin Khalji. The minar was built by two Sultans: Qutbuddin Aybak and Iltutmish.
-
 > [table] Fig. 3
 
 for the rituals of prayer.,He also delivers the sermon (khutba) during the Friday prayer.
 
-> [caption] Begumpuri mosque, built in the reign of Muhammad Tughluq, was the main mosque of Jahanpanah, the “Sanctuary of the World”, his new capital in Delhi. See Map 1.
-
 During prayer, Muslims stand facing Mecca. In India this is to the west. This is called the qibla.
+
+> [caption] Quuwwat al-Islam mosque and minaret, built during the last decade of the twelfth century. This was the congregational mosque of the first city built by the Delhi Sultans, described in the chronicles as Dehli-i-Kuhna (the old city). The mosque was enlarged by Iltutmish and Alauddin Khalji. The minar was built by two Sultans: Qutbuddin Aybak and Iltutmish.
+
+> [caption] Begumpuri mosque, built in the reign of Muhammad Tughluq, was the main mosque of Jahanpanah, the “Sanctuary of the World”, his new capital in Delhi. See Map 1.
 
 <!-- page 37 (pdf 8) -->
 
@@ -209,27 +209,27 @@ The Mongols under Genghis Khan invaded Transoxiana in north-east Iran in 1219 an
 
 Alauddin Khalji
 
-Muhammad Tughluq
-
 > [caption] Delhi was attacked twice, in 1299/1300 and 1302-1303. As a defensive measure, Alauddin Khalji raised a large standing army.
 
-> [table] The Sultanate was attacked in the early years of Muhammad Tughluq’s reign. The Mongol army was defeated. Muhammad Tughluq was confident about the strength of his army and his resources to plan an attack on Transoxiana. He therefore raised a large standing army.
-
-> [table] Rather than constructing a new garrison town, the oldest of the four cities of Delhi (Dehli-i Kuhna) was emptied of its residents and the soldiers garrisoned there. The residents of the old city were sent to the new capital of Daulatabad in the south.
-
 > [table] Alauddin constructed a new garrison town named Siri for his soldiers. See Map 1.
-
-> [caption] Produce from the same area was collected as tax to feed the army. But to meet the expense of maintaining such a large number of soldiers the Sultan levied additional taxes. This coincided with famine in the area.
 
 > [table] The soldiers had to be fed. This was done through the produce collected as tax from lands between the Ganga and Yamuna. Tax was fixed at 50 per cent of the peasant’s yield.
 
 > [table] The soldiers had to be paid. Alauddin chose to pay his soldiers salaries in cash rather than igqtas. The soldiers would buy their supplies from merchants in Delhi and it was thus feared that merchants would raise their prices. To stop this, Alauddin controlled the prices of goods in Delhi. Prices were carefully surveyed by officers, and merchants who did not sell at the prescribed rates were punished.
 
+> [table] Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
+
+Muhammad Tughluq
+
+> [table] The Sultanate was attacked in the early years of Muhammad Tughluq’s reign. The Mongol army was defeated. Muhammad Tughluq was confident about the strength of his army and his resources to plan an attack on Transoxiana. He therefore raised a large standing army.
+
+> [table] Rather than constructing a new garrison town, the oldest of the four cities of Delhi (Dehli-i Kuhna) was emptied of its residents and the soldiers garrisoned there. The residents of the old city were sent to the new capital of Daulatabad in the south.
+
+> [caption] Produce from the same area was collected as tax to feed the army. But to meet the expense of maintaining such a large number of soldiers the Sultan levied additional taxes. This coincided with famine in the area.
+
 > [table] Muhammad Tughluq also paid his soldiers cash salaries. But instead of controlling prices, he used a “token” currency, somewhat like present-day paper currency, but made out of cheap metals, not gold and silver. People in the fourteenth century did not trust these coins. They were very smart: they saved their gold and silver coins and paid all their taxes to the state with this token currency. This cheap currency could also be counterfeited easily.
 
 > [table] Muhammad Tughluq’s administrative measures were a failure. His campaign into Kashmir was a disaster. He then gave up his plans to invade Transoxiana and disbanded his large army. Meanwhile, his administrative measures created complications. The shifting of people to Daulatabad was resented. The raising of taxes and famine in the Ganga-Yamuna belt led to widespread rebellion. And finally, the “token” currency had to be recalled.
-
-> [table] Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
 
 <!-- page 42 (pdf 13) -->
 
@@ -259,25 +259,19 @@ The “Three Orders”, the “Peace of God”, Knights and the Crusades Imagine
 
 <!-- page 44 (pdf 15) -->
 
-According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
+KEYWORDS iqta tarikh garrison Mongols gender kharaj According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
 
 > [caption] 5.
 
 > [table] What is meant by the “internal” and “external” frontiers of the Sultanate?
 
-KEYWORDS
-
 What were the steps taken to ensure that mudqtis performed their duties? Why do you think they may have wanted to defy the orders of the Sultans?
-
-iqta tarikh garrison Mongols gender
 
 > [table] What was the impact of the Mongol invasions on the Delhi Sultanate?
 
 Do you think the authors of tawarikh would provide information about the lives of ordinary men and women?
 
 > [caption] 9.
-
-kharaj
 
 . Raziyya Sultan was unique in the history of the Delhi Sultanate. Do you think women leaders are accepted more readily today?
 

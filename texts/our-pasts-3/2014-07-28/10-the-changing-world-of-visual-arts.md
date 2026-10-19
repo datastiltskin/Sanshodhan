@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch04.pdf"
 source_sha256: "859777d342dfd1aa2e7027d92a85e630916de485540d32aa0f735d7e52e3f8d7"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "d7edf500385e3921daba1d8b7cd6e6903d2e82b492be21c0d18e14f6366b9d03"
+body_fingerprint: "6870a93cf6a856af79290f6df1e80315282c8bd7a473e2625fd0c5e973b09b68"
 ---
 
 <!-- page 123 (pdf 1) -->
@@ -23,13 +23,13 @@ When you look at a work of art – a painting, sculpture, etc. – it may not be
 
 Colonial rule introduced several new art forms, styles, materials and techniques which were creatively adapted by Indian artists for local patrons and markets, in both elite and popular circles. You will find that many of the visual forms that you take for granted today – say, a grand public building with domes, columns and arches; a scenic landscape, the realistic human image in a portrait, or in popular icons of gods and goddesses; a mechanically printed and mass-produced picture – had their origins in the period we will discuss in this chapter.
 
-> [caption] Fig. 1 – Damayanthi, painted by Raja Ravi Verma
-
 To understand this history we will focus primarily on the changes in one sphere – painting and print making.
 
 ## New Forms of Imperial Art
 
 From the eighteenth century a stream of European artists came to India along with the British traders and rulers. The artists brought with them new styles and new conventions of painting. They began producing pictures which became widely popular in Europe and helped shape Western perceptions of India.
+
+> [caption] Fig. 1 – Damayanthi, painted by Raja Ravi Verma
 
 > [note] Convention – An accepted norm or style
 
@@ -41,21 +41,21 @@ Not all European artists in India were inspired by the same things. The subjects
 
 ### Looking for the picturesque
 
-Engraving – A picture printed onto paper from a piece of wood or metal into which the design or drawing has been cut One popular imperial tradition was that of picturesque landscape painting. What was the picturesque? This style of painting depicted India as a quaint land, to be explored by travelling British artists; its landscape was rugged and wild, seemingly untamed by human hands. Thomas Daniell and his nephew William Daniell were the most famous of the artists who painted within this tradition. They came to India in 1785 and stayed for seven years, journeying from Calcutta to northern and southern India. They produced some of the most evocative picturesque landscapes of Britain’s newly conquered territories in India. Their large oil paintings on canvas were regularly exhibited to select audiences in Britain, and their albums of engravings were eagerly bought up by a British public keen to know about Britain’s empire.
-
-> [caption] Fig. 2 – Ruins on the banks of the Ganges at Ghazipur, painted by Thomas Daniell (oil, 1791)
+One popular imperial tradition was that of picturesque landscape painting. What was the picturesque? This style of painting depicted India as a quaint land, to be explored by travelling British artists; its landscape was rugged and wild, seemingly untamed by human hands. Thomas Daniell and his nephew William Daniell were the most famous of the artists who painted within this tradition. They came to India in 1785 and stayed for seven years, journeying from Calcutta to northern and southern India. They produced some of the most evocative picturesque landscapes of Britain’s newly conquered territories in India. Their large oil paintings on canvas were regularly exhibited to select audiences in Britain, and their albums of engravings were eagerly bought up by a British public keen to know about Britain’s empire.
 
 Fig. 2 is a typical example of a picturesque landscape painted by the Daniells. Notice the ruins of local buildings that were once grand. The buildings are reminders of past glory, remains of an ancient civilisation that was now in ruins. It was as if this decaying civilisation would change and modernise only through British governance.
 
+Engraving – A picture printed onto paper from a piece of wood or metal into which the design or drawing has been cut This image of British rule bringing modern civilisation to India is powerfully emphasised in the numerous pictures of late-eighteenth-century Calcutta drawn by the Daniells. In these drawings you can see the making of a new Calcutta, with wide avenues, majestic European-style buildings, and new modes of transport (Fig. 3). There is life and activity on the roads, there is drama and excitement. Look carefully at Figs. 2 and 3. See how the Daniells contrast the image of traditional India with that of life under British rule. Fig. 2 seeks to represent the traditional life of India as pre-modern, changeless and motionless, typified by faqirs, cows, and boats sailing on the river. Fig. 3 shows the modernising influence of British rule, by emphasising a picture of dramatic change.
+
+> [caption] Fig. 2 – Ruins on the banks of the Ganges at Ghazipur, painted by Thomas Daniell (oil, 1791)
+
 <!-- page 125 (pdf 3) -->
-
-> [caption] Fig. 3 – Clive street in Calcutta, drawn by Thomas and William Daniell, 1786
-
-This image of British rule bringing modern civilisation to India is powerfully emphasised in the numerous pictures of late-eighteenth-century Calcutta drawn by the Daniells. In these drawings you can see the making of a new Calcutta, with wide avenues, majestic European-style buildings, and new modes of transport (Fig. 3). There is life and activity on the roads, there is drama and excitement. Look carefully at Figs. 2 and 3. See how the Daniells contrast the image of traditional India with that of life under British rule. Fig. 2 seeks to represent the traditional life of India as pre-modern, changeless and motionless, typified by faqirs, cows, and boats sailing on the river. Fig. 3 shows the modernising influence of British rule, by emphasising a picture of dramatic change.
 
 Portraits of authority Another tradition of art that became immensely popular in colonial India was portrait painting. The rich and the powerful, both British and Indian, wanted to see themselves on canvas. Unlike the existing Indian tradition of painting portraits in miniature, colonial portraits were life-size images that looked lifelike and real. The size of the paintings itself projected the importance of the patrons who commissioned these portraits. This new style of portraiture also served as an ideal means of displaying the lavish lifestyles, wealth and status that the empire generated.
 
-Portrait – A picture of a person in which the face and its expression is prominent Portraiture – The art of making portraits As portrait painting became popular, many European portrait painters came to India in search of profitable commissions. One of the most famous of the visiting European painters was Johann Zoffany. He was born in Germany, migrated to England and came to India in the mid-1780s for five years. Figs. 3 and 4 are two examples of the portraits that Zoffany painted. Notice the way Commission – To formally choose someone to do a special piece of work usually against payment figures of Indian servants and the sprawling lawns of colonial mansions appear in such portraits. See how the Indians are shown as submissive, as inferior, as serving their white masters, while the British are shown as superior and imperious: they flaunt their clothes, stand regally or sit arrogantly, and live a life of luxury. Indians are never at the centre of such paintings; they usually occupy a shadowy background.
+> [caption] Fig. 3 – Clive street in Calcutta, drawn by Thomas and William Daniell, 1786
+
+Portrait – A picture of a person in which the face and its expression is prominent Portraiture – The art of making portraits Commission – To formally choose someone to do a special piece of work usually against payment As portrait painting became popular, many European portrait painters came to India in search of profitable commissions. One of the most famous of the visiting European painters was Johann Zoffany. He was born in Germany, migrated to England and came to India in the mid-1780s for five years. Figs. 3 and 4 are two examples of the portraits that Zoffany painted. Notice the way figures of Indian servants and the sprawling lawns of colonial mansions appear in such portraits. See how the Indians are shown as submissive, as inferior, as serving their white masters, while the British are shown as superior and imperious: they flaunt their clothes, stand regally or sit arrogantly, and live a life of luxury. Indians are never at the centre of such paintings; they usually occupy a shadowy background.
 
 <!-- page 126 (pdf 4) -->
 
@@ -127,31 +127,33 @@ In the court of Murshidabad we see a different trend. Here, after defeating Sira
 
 <!-- page 131 (pdf 9) -->
 
-Perspective – The way that objects appear smaller when they are further away and the way parallel lines appear to meet each other at a point in the distance With the establishment of British power many of the local courts lost their influence and wealth. They could no longer support painters and pay them to paint for the court. How could the artists earn a living? Many of them turned to the British.
-
-> [caption] Fig. 11 Nawab Mubarakuddaulah of Murshidabad at an Id procession, a miniature copy by a local court painter of an oil painting by the visiting British artist, G.Farrington (1799-1800)
+With the establishment of British power many of the local courts lost their influence and wealth. They could no longer support painters and pay them to paint for the court. How could the artists earn a living? Many of them turned to the British.
 
 At the same time, British officials, who found the world in the colonies different from that back home, wanted images through which they could understand India, remember their life in India, and depict India to the Western world. So we find local painters producing a vast number of images of local plants and animals, historical buildings and monuments, festivals and processions, trades and crafts, castes and communities. These pictures, eagerly collected by the East India Company officials, came to be known as Company paintings.
 
 Not all artists, however, were court painters. Not all of them painted for the nawabs. Let us see what was happening outside the court.
 
+Perspective – The way that objects appear smaller when they are further away and the way parallel lines appear to meet each other at a point in the distance Scroll painting Painting on a long roll of paper that could be rolled up
+
+> [caption] Fig. 11 Nawab Mubarakuddaulah of Murshidabad at an Id procession, a miniature copy by a local court painter of an oil painting by the visiting British artist, G.Farrington (1799-1800)
+
 <!-- page 132 (pdf 10) -->
 
-> [table] In Company paintings, such as this one, people are painted against empty spaces. We get no idea of the social surroundings within which they lived or worked. The paintings tried to identify some of the visible features through which people and communities could be recognised with ease by people from foreign lands. Like the different types of Indian plants, birds and animals depicted in Company paintings, the human figures are shown as mere specimens of different trades, castes and sects of a region.
-
 > [caption] Fig. 12 – Paired couples representing different religious sects of the Tanjore region, Company painting from Tanjore (1830)
-
-## The New Popular Indian Art
-
-Scroll painting Painting on a long roll of paper that could be rolled up In the nineteenth century a new world of popular art developed in many of the cities of India.
-
-In Bengal, around the pilgrimage centre of the temple of Kalighat, local village scroll painters (called patuas) and potters (called kumors in eastern India and kumhars in north India) began developing a new style of art. They moved from the surrounding villages into Calcutta in the early nineteenth century. This was a time when the city was expanding as a commercial and administrative centre. Colonial offices were coming up, new buildings and roads were being built, markets were being established. The city appeared as a place of opportunity where people could come to make a new living. Village artists too came and settled in the city in the hope of new patrons and new buyers of their art.
-
-Before the nineteenth century, the village patuas and kumors had worked on mythological themes and produced images of gods and goddesses. On shifting to Kalighat, they continued to paint these religious images. Traditionally, the figures in scroll paintings looked flat, not rounded. Now Kalighat painters began to use shading to give them a rounded form, to make the images look three-dimensional. Yet the images were not realistic and lifelike. In fact, what is specially to be noted in these early Kalighat paintings is the use of a bold, deliberately non-realistic style, where the figures emerge large and powerful, with a minimum of lines, detail and colours.
 
 > [caption] Fig. 13 – Battle between Hanuman and Jambuvan, Kalighat painting, mid-nineteenth century, Calcutta (watercolour on paper)
 
 > [table] Notice how the artists have modernised traditional images. Hanuman is wearing footwear which became popular in the nineteenth century.
+
+> [table] In Company paintings, such as this one, people are painted against empty spaces. We get no idea of the social surroundings within which they lived or worked. The paintings tried to identify some of the visible features through which people and communities could be recognised with ease by people from foreign lands. Like the different types of Indian plants, birds and animals depicted in Company paintings, the human figures are shown as mere specimens of different trades, castes and sects of a region.
+
+## The New Popular Indian Art
+
+In the nineteenth century a new world of popular art developed in many of the cities of India.
+
+In Bengal, around the pilgrimage centre of the temple of Kalighat, local village scroll painters (called patuas) and potters (called kumors in eastern India and kumhars in north India) began developing a new style of art. They moved from the surrounding villages into Calcutta in the early nineteenth century. This was a time when the city was expanding as a commercial and administrative centre. Colonial offices were coming up, new buildings and roads were being built, markets were being established. The city appeared as a place of opportunity where people could come to make a new living. Village artists too came and settled in the city in the hope of new patrons and new buyers of their art.
+
+Before the nineteenth century, the village patuas and kumors had worked on mythological themes and produced images of gods and goddesses. On shifting to Kalighat, they continued to paint these religious images. Traditionally, the figures in scroll paintings looked flat, not rounded. Now Kalighat painters began to use shading to give them a rounded form, to make the images look three-dimensional. Yet the images were not realistic and lifelike. In fact, what is specially to be noted in these early Kalighat paintings is the use of a bold, deliberately non-realistic style, where the figures emerge large and powerful, with a minimum of lines, detail and colours.
 
 After the 1840s, we see a new trend within the Kalighat artists. Living in a society where values, tastes, social norms and customs were undergoing rapid changes, Kalighat artists responded to the world around, and produced paintings on social and political themes. Many of the late-nineteenth-century Kalighat paintings depict social life under British rule. Often the artists mocked at the changes they saw around, ridiculing the new tastes of those who spoke in English and adopted Western habits, dressed like sahibs, smoked cigarettes, or sat on chairs. They made fun of the westernised baboo, criticised the corrupt priests, and warned against women moving out of their homes. They often expressed the anger of common people against the rich, and the fear many people had about dramatic changes of social norms.
 
@@ -159,11 +161,11 @@ After the 1840s, we see a new trend within the Kalighat artists. Living in a soc
 
 Many of these Kalighat pictures were printed in large numbers and sold in the market. Initially, the images were engraved in wooden blocks. The carved block was inked, pressed against paper, and then the woodcut prints that were produced were coloured by hand. In this way, many copies could be produced from the same block. By the late-nineteenth century, mechanical printing presses were set up in different parts of India, which allowed prints to be produced in even larger numbers. These prints could therefore be sold cheap in the market. Even the poor could buy them.
 
+Popular prints were not painted only by the poor village Kalighat patuas. Often, middle-class Indian artists set up printing presses and produced prints for a wide market. They were trained in British art schools in new methods of life study, oil painting and print making. One of the most successful of these presses that were set up in late-nineteenth-century Calcutta was the Calcutta Art Studio. It produced lifelike images of eminent Bengali personalities as well as mythological pictures. But these mythological pictures were realistic. The figures were located in picturesque landscape settings, with mountains, lakes, rivers and forests. You must have seen many popular calendar pictures of Hindu deities in shops and roadside stalls. The characteristic elements Life study – Study of human figures from living models who pose for the artists of these pictures came into being in the late nineteenth century.
+
 > [caption] Fig. 14 – Englishman on an elephant hunting a tiger, Kalighat painting, mid-nineteenth century, Calcutta (watercolour on paper)
 
 > [table] This painting is a typical example of how patuas depicted English life in India. In the colonies Englishmen loved to hunt. They saw hunting as a sport that could demonstrate their courage and manliness.
-
-Popular prints were not painted only by the poor village Kalighat patuas. Often, middle-class Indian artists set up printing presses and produced prints for a wide market. They were trained in British art schools in new methods of life study, oil painting and print making. One of the most successful of these presses that were set up in late-nineteenth-century Calcutta was the Calcutta Art Studio. It produced lifelike images of eminent Bengali personalities as well as mythological pictures. But these mythological pictures were realistic. The figures were located in picturesque landscape settings, with mountains, lakes, rivers and forests. You must have seen many popular calendar pictures of Hindu deities in shops and roadside stalls. The characteristic elements Life study – Study of human figures from living models who pose for the artists of these pictures came into being in the late nineteenth century.
 
 > [caption] Fig. 15 – Baboo on a chair, Kalighat painting, nineteenth century
 
@@ -181,21 +183,23 @@ These types of popular pictures were printed and circulated in other parts of In
 
 Photographing India
 
-> [note] You have seen how European painters created a variety of images of India. Such images were being produced by photographers as well.
+> [caption] Fig. 20 – Sati Chaura Ghat, Kanpur, photograph by Samuel Bourne, 1865
 
-> [note] By the mid-nineteenth century photographers from Europe began travelling to India, taking pictures, setting up studios, and establishing photographic societies to promote the art of photography. Some of them were portrait painters who began taking photographs of imperial officials, presenting them as figures of authority and power. Others travelled around the country searching for ruined buildings and picturesque landscapes, very much like some of the painters we have discussed. Yet others recorded moments of British military triumph. There were also those who recorded the cultural diversity of India in ways that tried to show how India was a primitive country.
+> [table] Samuel Bourne came to India in the early 1860s and set up one of the most famous photographic studios in Calcutta, known as Bourne and Shephard. Compare this photograph with Fig. 2. Notice how the painter and the photographer are both fascinated by the image of ruins.
+
+> [note] around the country searching for ruined buildings and picturesque landscapes, very much like some of the painters we have discussed. Yet others recorded moments of British military triumph. There were also those who recorded the cultural diversity of India in ways that tried to show how India was a primitive country.
 
 > [caption] Fig. 19 – The Horse Regiment led by William Hodson, which played an important role in suppressing the 1857 revolt, photograph by Felice Bearto, 1858
 
 > [table] Notice the way the British officer is shown at the centre, standing in an assertive and authoritative way, while his soldiers gather around him.
 
-> [caption] Fig. 20 – Sati Chaura Ghat, Kanpur, photograph by Samuel Bourne, 1865
-
-> [table] Samuel Bourne came to India in the early 1860s and set up one of the most famous photographic studios in Calcutta, known as Bourne and Shephard. Compare this photograph with Fig. 2. Notice how the painter and the photographer are both fascinated by the image of ruins.
-
 > [caption] Fig. 21 – A nationlist demonstration in a Bombay street, photograph by Vikar
 
 > [table] By the late nineteenth century Indian photographers began taking pictures that often offer us a different image of India. They recorded the nationalist marches and meetings, as well as the everyday life of the people.
+
+> [note] You have seen how European painters created a variety of images of India. Such images were being produced by photographers as well.
+
+> [note] By the mid-nineteenth century photographers from Europe began travelling to India, taking pictures, setting up studios, and establishing photographic societies to promote the art of photography. Some of them were portrait painters who began taking photographs of imperial officials, presenting them as figures of authority and power. Others travelled
 
 <!-- page 136 (pdf 14) -->
 
@@ -271,15 +275,13 @@ The effort to define what ought to be an authentic Indian style of art continued
 
 <!-- page 140 (pdf 18) -->
 
-(c) Paintings which showed the social lives of
-
 ## Let’s imagine
 
-Europeans in India are called _________.
+Imagine you are a painter living in the early-twentieth-century India trying to develop a “national” style of painting. What elements discussed in this chapter will form part of that style? Explain your choice.
 
-(d) Paintings which depicted scenes from British Imagine you are a painter living in the early-twentieth-century India trying to develop a “national” style of painting. What elements discussed in this chapter will form part of that style? Explain your choice.
+(c) Paintings which showed the social lives of Europeans in India are called _________.
 
-imperial history and their victories are called _________.
+(d) Paintings which depicted scenes from British imperial history and their victories are called _________.
 
 2. Point out which of the following were brought in with British art:
 

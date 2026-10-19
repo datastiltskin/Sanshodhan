@@ -22,6 +22,8 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
 
 ## for Class VII
 
+sta Siler FAA SR TART fap sy f31aToT NATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
+
 <!-- page 23 (pdf 4) -->
 
 > [caption] PD 620T RSP

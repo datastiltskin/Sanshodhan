@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "b3ce5699deb052b53eaf45b2c39bb99f0c2ea42ab8a60a295e4ea73170ab2495",
+      "fingerprint": "31b3a659f312efd99c7a925fceca056ffdd5dfa8cb082ed26c440201bbde8217",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -48,7 +48,7 @@
             "h2": 19,
             "chapter-number": 1,
             "body": 95,
-            "caption": 70,
+            "caption": 71,
             "h3": 21,
             "note": 2
           },
@@ -63,13 +63,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf",
           "pdf_pages": 18,
           "printed_pages": "27-44",
-          "fingerprint": "97c464d52ebbe231fe4d34296ea71bd7c2a65de7fdee7bd9aa926adeda4f7108",
+          "fingerprint": "433f9a0ce672c2c5ba85108afc95c3430042bf650a4da3c03125800af9204679",
           "role_counts": {
             "footer": 43,
-            "h2": 16,
+            "h2": 17,
             "chapter-number": 1,
             "body": 101,
-            "caption": 65,
+            "caption": 66,
             "h3": 17,
             "table": 42
           },
@@ -84,15 +84,15 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf",
           "pdf_pages": 22,
           "printed_pages": "45-66",
-          "fingerprint": "ca2cbf7039e76c6b689960759f737e035cae92dbf159e65605a4648d5ad181fa",
+          "fingerprint": "d4747585ccc749fab82029d13f82e2b4e024309a55c1e579264bb21b40d6d3ed",
           "role_counts": {
             "footer": 47,
-            "h2": 20,
+            "h2": 22,
             "chapter-number": 1,
             "body": 107,
-            "caption": 62,
+            "caption": 63,
             "h3": 12,
-            "table": 27
+            "table": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -111,7 +111,7 @@
             "chapter-number": 1,
             "body": 58,
             "note": 1,
-            "caption": 46,
+            "caption": 47,
             "footer": 31,
             "h3": 8
           },
@@ -126,13 +126,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf",
           "pdf_pages": 34,
           "printed_pages": "83-116",
-          "fingerprint": "bc696fe2793ebe4d1322a27201a958905ab03201cc0da5aaca4705273eb8544f",
+          "fingerprint": "c19e7f51d9e880597b797bad088663061e6d2c8159b6373f712ed097446eb412",
           "role_counts": {
             "footer": 80,
-            "h2": 20,
+            "h2": 21,
             "body": 147,
             "chapter-number": 1,
-            "caption": 135,
+            "caption": 136,
             "table": 35,
             "h3": 18
           },
@@ -147,13 +147,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf",
           "pdf_pages": 28,
           "printed_pages": "117-144",
-          "fingerprint": "f8b7b93f82190281c5c76643dcc77e103ebd86adb738cddb081655efc4271edb",
+          "fingerprint": "ca1e89ec6ddff0a3a5b7cb7054e09834adc0ce2c0e0b933f6a4f6dc3cd71ae8f",
           "role_counts": {
-            "footer": 62,
+            "footer": 63,
             "h2": 19,
             "chapter-number": 1,
-            "body": 119,
-            "caption": 97,
+            "body": 121,
+            "caption": 111,
             "h3": 24,
             "note": 1,
             "table": 1
@@ -169,13 +169,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf",
           "pdf_pages": 22,
           "printed_pages": "145-166",
-          "fingerprint": "f644b4e615b611c3bb51ac52a075d213dd03f83cac13d3104bc3d7fe93035e06",
+          "fingerprint": "3fba155728d12f877b46df6cbf8900496e1088edda269dfb1b7aac6f3fe03143",
           "role_counts": {
             "footer": 46,
             "body": 87,
             "h2": 15,
             "chapter-number": 1,
-            "caption": 89,
+            "caption": 90,
             "dropcap": 2,
             "h3": 11,
             "table": 1
@@ -211,14 +211,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf",
           "pdf_pages": 24,
           "printed_pages": "185-208",
-          "fingerprint": "164496f75bee107535d99144d0c39f3f654ad19cbcda4b7eac6fbac9589bd057",
+          "fingerprint": "a157f502fcccbf0a81a4584581bbc26e1e2d60d1e9ef539cfd157cd469fa7a2c",
           "role_counts": {
             "footer": 52,
-            "h2": 24,
-            "body": 190,
+            "h2": 25,
+            "body": 192,
             "note": 5,
             "chapter-number": 1,
-            "caption": 51,
+            "caption": 52,
             "h3": 12
           },
           "ocr": false,
@@ -239,7 +239,7 @@
             "body": 105,
             "note": 1,
             "chapter-number": 1,
-            "caption": 53,
+            "caption": 64,
             "h3": 14,
             "table": 55
           },
@@ -260,7 +260,7 @@
             "chapter-number": 1,
             "body": 87,
             "h2": 5,
-            "caption": 97,
+            "caption": 98,
             "h3": 20
           },
           "ocr": false,
@@ -274,16 +274,17 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf",
           "pdf_pages": 26,
           "printed_pages": "247-272",
-          "fingerprint": "90bad4d41e82ce399283b3f8327ddc582c9dd2926a8363fb5b1d360cb58bd6d2",
+          "fingerprint": "9a541a8e20feabe69f7effde45ced275bef82a1324b1e73e1329ae93ca7ce791",
           "role_counts": {
             "footer": 60,
-            "h2": 17,
+            "h2": 18,
             "body": 132,
             "chapter-number": 1,
-            "caption": 127,
+            "caption": 129,
             "h3": 18,
             "table": 21,
-            "note": 1
+            "note": 1,
+            "dropcap": 1
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -302,9 +303,9 @@
             "h2": 24,
             "chapter-number": 1,
             "body": 127,
-            "caption": 144,
+            "caption": 143,
             "h3": 22,
-            "table": 22
+            "table": 23
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -317,15 +318,15 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf",
           "pdf_pages": 32,
           "printed_pages": "29-60",
-          "fingerprint": "60cfdd061ad1c01a5c2dd47f7a83bc8a5547fb328fa444eec25939858c0453cc",
+          "fingerprint": "bbc2df56bc94abe58e4d0d23e397e10410bc5b1d6d791e4a8a44f745948acdb6",
           "role_counts": {
             "footer": 71,
             "h2": 22,
             "chapter-number": 1,
-            "body": 126,
+            "body": 127,
             "note": 4,
-            "caption": 131,
-            "h3": 18
+            "caption": 132,
+            "h3": 17
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -401,15 +402,16 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf",
           "pdf_pages": 26,
           "printed_pages": "143-168",
-          "fingerprint": "3f0334757f0b7115e2144fc16193accaaaf9053fcfc2e0ff46d159ec20825946",
+          "fingerprint": "79725879db0d54923539f5d7f98248efec7e823841eaa134e54f83685008fc3e",
           "role_counts": {
             "footer": 58,
             "h2": 20,
-            "body": 129,
+            "body": 130,
             "chapter-number": 1,
-            "caption": 73,
+            "caption": 74,
             "h3": 12,
-            "table": 47
+            "table": 47,
+            "note": 2
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -422,9 +424,9 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf",
           "pdf_pages": 24,
           "printed_pages": "169-192",
-          "fingerprint": "6c29181e770b4c2595d20d4d64ad28e1d774c611d058ca7f844fcaa0ea7da899",
+          "fingerprint": "35a6d1370c07db94bcd080ce28ea2be1810496f6cf0e932214047cad7e56890c",
           "role_counts": {
-            "body": 74,
+            "body": 76,
             "h2": 14,
             "chapter-number": 1,
             "caption": 216,
@@ -450,7 +452,7 @@
             "body": 122,
             "chapter-number": 1,
             "note": 2,
-            "caption": 103,
+            "caption": 105,
             "h3": 7,
             "table": 37
           },

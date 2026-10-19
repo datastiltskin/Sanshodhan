@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch03.pdf"
 source_sha256: "518b5751da911955b116bcb28c972e5c457dc7c7a24e492c6095c91aab690014"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "deee4d276243467f3ac1bb83c2d7d6eec02880f7d04b4c649d7b3797f5536d25"
+body_fingerprint: "44f0e83aa1b472de6c62af8742dc6e3ee23a3ac251a1c0a8564c0c9ba7b62012"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -163,7 +163,7 @@ Take a look at Table 1 again. You will notice that after the Tughluqs, the Sayyi
 
 Some of the states established in this period were small but powerful and extremely well administered. Sher Shah Sur (1540 –1545) started his career as the manager of a small territory for his uncle in Bihar and eventually challenged and defeated the Mughal emperor Humayun (1530 –1540, 1555 –1556). Sher Shah captured Delhi and established his own dynasty. Although the Sur dynasty ruled for only fifteen years (1540 –1555), it introduced an administration that borrowed elements from Alauddin Khalji and made them more efficient. Sher Shah’s administration became the model followed by the great emperor Akbar (1556 –1605) when he consolidated the Mughal Empire.
 
-Imagine
+[unreadable] Imagine
 
 You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 
@@ -179,25 +179,23 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 
 <!-- page 38 (pdf 9) -->
 
+Keywords iqta tarikh garrison
+
+Mongols gender kharaj
+
 ### Let’s understand
 
 5. According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
 
 6. What is meant by the “internal” and “external” frontiers of the Sultanate?
 
-Keywords
-
 7. What were the steps taken to ensure that muqtis performed their duties? Why do you think they may have wanted to defy the orders of the Sultans?
-
-iqta tarikh garrison
 
 ### Let’s discuss
 
 8. Do you think the authors of tawarikh would provide information about the lives of ordinary men and women?
 
-Mongols gender
-
-9. Raziyya Sultan was unique in the history of the Delhi kharaj Sultanate. Do you think women leaders are accepted more readily today?
+9. Raziyya Sultan was unique in the history of the Delhi Sultanate. Do you think women leaders are accepted more readily today?
 
 10. Why were the Delhi Sultans interested in cutting down forests? Does deforestation occur for the same reasons today?
 

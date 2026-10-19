@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "164496f75bee107535d99144d0c39f3f654ad19cbcda4b7eac6fbac9589bd057"
+body_fingerprint: "a157f502fcccbf0a81a4584581bbc26e1e2d60d1e9ef539cfd157cd469fa7a2c"
 ---
 
 <!-- page 185 (pdf 1) -->
@@ -82,7 +82,7 @@ Shobha: But you will finish school in a few months. The students in Grade 11 sho
 
 Gurpreet: If the students of only one grade will take care of everything, then how will they know about the problems that other grades face?
 
-> [caption] THINK ABOUT IT
+> [caption] Vl THINK ABOUT IT
 
 > [caption] The school example helps us to understand the concept of representation and how it works. However, the students’ committee is different from Parliamentary and Legislative committees, as class representatives in a school are quite different from Members of Parliament (MPs) and Members of the Legislative Assembly (MLAs). What are these differences? Discuss with your teacher in the classroom and make a list.
 
@@ -166,13 +166,21 @@ Representative participation means that every person has a right to choose and e
 
 > [note] What is the government working for? What goals is it trying to achieve?
 
+> [caption] NS es e SI
+
+## we
+
 <!-- page 192 (pdf 8) -->
 
 Universal adult franchise grants every citizen (above a certain age) the right to vote to choose their representative.
 
 Fundamental rights of a citizen, such as — right to equality, right to freedom of speech and expression, and right against exploitation — are all provided and protected in a democracy.
 
+is
+
 Independent judiciary ensures that every citizen’s fundamental rights are protected, and that laws are followed by the citizens and also by all the parts of the government.
+
+GY OE;
 
 It is useful to remember that even these fundamental principles have evolved over time. For example, India provided universal adult franchise (meaning the right to vote in elections to all adults) from the very beginning of the Indian republic in 1950; on the other hand, in Switzerland, women got the right to vote only in 1971.
 

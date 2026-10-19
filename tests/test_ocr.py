@@ -41,3 +41,10 @@ def test_restore_dropcap_uses_the_books_own_vocabulary():
     assert restore_dropcap(md, vocab, bigrams) == (md, None)
     md = "# T\n\nAlready fine.\n"
     assert restore_dropcap(md, vocab, bigrams) == (md, None)
+
+
+def test_clean_outlined():
+    assert ocr.clean_outlined("pardes i |\n") == "pardes i"
+    assert ocr.clean_outlined("EX€YIcise.") == "EXYIcise."
+    assert ocr.clean_outlined("dehliwal,") == "dehliwal,"
+    assert ocr.clean_outlined("|| 1") == ""

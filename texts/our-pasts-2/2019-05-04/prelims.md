@@ -22,6 +22,10 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/prelims.pdf"
 
 ## for Class VII
 
+cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
+
+> [caption] Raq
+
 <!-- pdf page 4 -->
 
 > [caption] ISBN 81-7450-724-8

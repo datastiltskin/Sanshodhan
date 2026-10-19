@@ -83,11 +83,11 @@ Many Rajput chieftains built a number of forts on hill tops which became the cen
 
 > [caption] Fig. 3 Chittorgarh Fort, Rajasthan
 
-> [caption] Fig. 4 Jantar Mantar in Jaipur
-
 ### Raja Jai Singh of Jaipur
 
 > [source] A description of Raja Jai Singh in a Persian account of 1732: Raja Jai Singh was at the height of his power. He was the governor of Agra for 12 years and of Malwa for 5 or 6 years. He possessed a large army, artillery and great wealth. His sway extended from Delhi to the banks of the Narmada.
+
+> [caption] Fig. 4 Jantar Mantar in Jaipur
 
 Sawai Jai Singh, the ruler of Amber constructed five astronomical observatories, one each in Delhi, Jaipur, Ujjain, Mathura and Varanasi. Commonly known as Jantar Mantar, these observatories had various instruments to study heavenly bodies.
 

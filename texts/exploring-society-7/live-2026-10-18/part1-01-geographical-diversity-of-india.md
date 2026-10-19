@@ -407,3 +407,5 @@ Mawlynnong Village, situated in the East Khasi Hills of Meghalaya, is renowned a
 9. Despite having such different regions (mountains, deserts, plains, coasts), India remains one country. How do you think our geography has helped unite people?
 
 <!-- page 26 (pdf 26) -->
+
+> [caption] XN aN yN

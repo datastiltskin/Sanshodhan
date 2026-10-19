@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch03.pdf"
 source_sha256: "4bb904dfc52ef62e640a40b74626dfb2ae222195d4e72cdfe8d6cfb893e3a76c"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "6c899d1c491ccaa0fcedd1dd6d0401634d0591a6cfde99cff3cd228ea4b6f0be"
+body_fingerprint: "49c814767042fca8c4437ea35b40204b9c50f72a33ce2ff6509b32d4045dae88"
 ---
 
 <!-- page 108 (pdf 2) -->
@@ -67,17 +67,17 @@ Rammohun Roy published many pamphlets to spread his ideas. Some of these were wr
 
 ADVOCATE OF SATI: Women are by nature of inferior understanding, without resolution, unworthy of trust … Many of them, on the death of their husbands, become desirous of accompanying them; but to remove every chance of their trying to escape from the blazing fire, in burning them we first tie them down to the pile.
 
-Activity This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
-
 OPPONENT OF SATI: When did you ever afford them a fair opportunity of exhibiting their natural capacity? How then can you accuse them of want of understanding? If, after instruction in knowledge and wisdom, a person cannot comprehend or retain what has been taught him, we may consider him as deficient; but if you do not educate women how can you see them as inferior.
 
 For instance, one of the most famous reformers, Ishwarchandra Vidyasagar, used the ancient texts to suggest that widows could remarry. His suggestion was adopted by British officials, and a law was passed in 1856 permitting widow remarriage. Those who were against the remarriage of widows opposed Vidyasagar, and even boycotted him.
 
 By the second half of the nineteenth century, the movement in favour of widow remarriage spread to other parts of the country. In the Telugu-speaking areas of the Madras Presidency, Veerasalingam Pantulu formed an association for widow remarriage. Around the same time young intellectuals and reformers in Bombay pledged themselves to working for the same cause. In the north, Swami Dayanand Saraswati, who founded the reform association called Arya Samaj, also supported widow remarriage.
 
-> [caption] Fig. 4 – Swami Dayanand Saraswati
-
 Yet, the number of widows who actually remarried remained low. Those who married were not easily accepted in society and conservative groups continued to oppose the new law.
+
+Activity This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
+
+> [caption] Fig. 4 – Swami Dayanand Saraswati
 
 > [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
@@ -99,15 +99,7 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 <!-- page 113 (pdf 7) -->
 
-> [table] Source 2
-
-## Once a woman’s husband has died...
-
 By the 1880s, Indian women began to enter universities. Some of them trained to be doctors, some became teachers. Many women began to write and publish their critical views on the place of women in society. Tarabai Shinde, a woman educated at home at Poona, published a book, Stripurushtulna, (A Comparison between Women and Men), criticising the social differences between men and women.
-
-In her book, Stripurushtulna, Tarabai Shinde wrote:
-
-Isn’t a woman’s life as dear to her as yours is to you? It’s as if women are meant to be made of something different from men altogether, made from dust from earth or rock or rusted iron whereas you and your lives are made from the purest gold. … You’re asking me what I mean. I mean once a woman’s husband has died, … what’s in store for her? The barber comes to shave all the curls and hair off her head, just to cool your eyes. … She is shut out from going to weddings, receptions and other auspicious occasions that married women go to. And why all these restrictions? Because her husband has died. She is unlucky: ill fate is written on her forehead. Her face is not to be seen, it’s a bad omen.
 
 Pandita Ramabai, a great scholar of Sanskrit, felt that Hinduism was oppressive towards women, and wrote a book about the miserable lives of upper-caste Hindu women. She founded a widows’ home at Poona to provide shelter to widows who had been treated badly by their husbands’ relatives. Here women were trained so that they could support themselves economically.
 
@@ -118,6 +110,14 @@ Needless to say, all this more than alarmed the orthodox. For instance, many Hin
 As you can see, by the end of the nineteenth century, women themselves were actively working for reform. They wrote books, edited magazines, founded schools and training centres, and set up women’s associations. From the early twentieth century, they formed political pressure groups to push through laws for female suffrage (the right to vote) and better health care and education for women. Some of them joined various kinds of nationalist and socialist movements from the 1920s.
 
 In the twentieth century, leaders such as Jawaharlal Nehru and Subhas Chandra Bose lent their support to demands for greater equality and freedom for women. Nationalist leaders promised that there would be full suffrage for all men and women after Independence. However, till then they asked women to concentrate on the anti-British struggles.
+
+> [table] Source 2
+
+## Once a woman’s husband has died...
+
+In her book, Stripurushtulna, Tarabai Shinde wrote:
+
+Isn’t a woman’s life as dear to her as yours is to you? It’s as if women are meant to be made of something different from men altogether, made from dust from earth or rock or rusted iron whereas you and your lives are made from the purest gold. … You’re asking me what I mean. I mean once a woman’s husband has died, … what’s in store for her? The barber comes to shave all the curls and hair off her head, just to cool your eyes. … She is shut out from going to weddings, receptions and other auspicious occasions that married women go to. And why all these restrictions? Because her husband has died. She is unlucky: ill fate is written on her forehead. Her face is not to be seen, it’s a bad omen.
 
 > [table] Tarabai Shinde, Stripurushtulna
 
@@ -173,8 +173,6 @@ All these sects were founded by leaders who came from Non-Brahman castes and wor
 
 <!-- page 117 (pdf 11) -->
 
-> [caption] Fig. 13 – Jyotirao Phule
-
 Phule claimed that before Aryan rule there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways. He proposed that Shudras (labouring castes) and Ati Shudras (untouchables) should unite to challenge caste discrimination. The Satyashodhak Samaj, an association Phule founded, propagated caste equality.
 
 > [table] Source 3
@@ -185,11 +183,11 @@ Phule was also critical of the anti-colonial nationalism that was preached by up
 
 The Brahmans have hidden away the sword of their religion which has cut the throat of the peoples’ prosperity and now go about posing as great patriots of their country. They … give this advice to ... our Shudra, Muslim and Parsi youth that unless we put away all quarrelling amongst ourselves about the divisions between high and low in our country and come together, our ... country will never make any progress ... It will be unity to serve their purposes, and then it will be me here and you over there again.
 
-Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
-
 > [table] Jyotiba Phule, The Cultivator’s Whipcord
 
-In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
+In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
+
+> [caption] Fig. 13 – Jyotirao Phule
 
 <!-- page 118 (pdf 12) -->
 
@@ -197,17 +195,19 @@ In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years bef
 
 ## “We are also human beings”
 
-As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
-
 In 1927, Ambedkar said:
 
 We now want to go to the Tank only to prove that like others, we are also human beings … Hindu society should be reorganised on two main principles – equality and absence of casteism.
 
-Who could enter temples? Ambedkar was born into a Mahar family. As a child he experienced what caste prejudice meant in everyday life. In school he was forced to sit outside the classroom on the ground, and was not allowed to drink water from taps that upper-caste children used. After finishing school, he got a fellowship to go to the US for higher studies. On his return to India in 1919, he wrote extensively about “upper”-caste power in contemporary society.
-
 > [caption] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792
 
 > [table] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
+
+those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
+
+As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
+
+Who could enter temples? Ambedkar was born into a Mahar family. As a child he experienced what caste prejudice meant in everyday life. In school he was forced to sit outside the classroom on the ground, and was not allowed to drink water from taps that upper-caste children used. After finishing school, he got a fellowship to go to the US for higher studies. On his return to India in 1919, he wrote extensively about “upper”-caste power in contemporary society.
 
 In 1927, Ambedkar started a temple entry movement, in which his Mahar caste followers participated. Brahman priests were outraged when the Dalits used water from the temple tank.
 
@@ -221,6 +221,10 @@ The Non-Brahman movement In the early twentieth century, the non-Brahman movemen
 
 E.V. Ramaswamy Naicker, or Periyar, as he was called, came from a middle-class family. Interestingly, he had been an ascetic in his early life and had studied Sanskrit scriptures carefully. Later, he became a member of the Congress, only to leave it in disgust when he found that at a feast organised by nationalists, seating arrangements followed caste distinctions – that is, the lower castes were made to sit at a distance from the upper castes. Convinced that untouchables had to fight for their dignity, Periyar founded the Self Respect Movement. He argued that untouchables were the true upholders of an original Tamil and Dravidian culture which had been subjugated by Brahmans. He felt that all religious authorities saw social divisions and inequality as God-given. Untouchables had to free themselves, therefore, from all religions in order to achieve social equality.
 
+Periyar was an outspoken critic of Hindu scriptures, especially the Codes of Manu, the ancient lawgiver, and the Bhagavad Gita and the Ramayana. He said that these texts had been used to establish the authority of Brahmans over lower castes and the domination of men over women.
+
+These assertions did not go unchallenged. The forceful speeches, writings and movements of lower-caste leaders did lead to rethinking and some self-criticism among upper-caste nationalist leaders. But orthodox Hindu society also reacted by founding Sanatan Dharma Sabhas and the Bharat Dharma Mahamandal in the north, and associations like the Brahman Sabha in Bengal. The object of these associations was to uphold caste distinctions as a cornerstone of Hinduism, and show how this was sanctified by scriptures. Debates and struggles over caste continued beyond the colonial period and are still going on in our own times.
+
 > [caption] Fig. 15 – E.V. Ramaswamy Naicker (Periyar)
 
 > [table] Source 5
@@ -230,10 +234,6 @@ E.V. Ramaswamy Naicker, or Periyar, as he was called, came from a middle-class f
 Periyar wrote:
 
 Only with the arrival of words such as Thara Mukurtham our women had become puppets in the hands of their husbands … we ended up with such fathers who advise their daughters ... that they had been gifted away to their husbands and they belong to their husband’s place. This is the … result of our association with Sanskrit.
-
-Periyar was an outspoken critic of Hindu scriptures, especially the Codes of Manu, the ancient lawgiver, and the Bhagavad Gita and the Ramayana. He said that these texts had been used to establish the authority of Brahmans over lower castes and the domination of men over women.
-
-These assertions did not go unchallenged. The forceful speeches, writings and movements of lower-caste leaders did lead to rethinking and some self-criticism among upper-caste nationalist leaders. But orthodox Hindu society also reacted by founding Sanatan Dharma Sabhas and the Bharat Dharma Mahamandal in the north, and associations like the Brahman Sabha in Bengal. The object of these associations was to uphold caste distinctions as a cornerstone of Hinduism, and show how this was sanctified by scriptures. Debates and struggles over caste continued beyond the colonial period and are still going on in our own times.
 
 > [caption] Periyar, cited in Periyar
 

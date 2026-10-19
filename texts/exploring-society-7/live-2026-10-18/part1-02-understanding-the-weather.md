@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf"
 source_sha256: "43d8115e9b568aa69ae9c319ae37a78bd6e8f271f68b1f48519ba27604f78786"
 pdf_pages: 18
 printed_pages: "27-44"
-body_fingerprint: "97c464d52ebbe231fe4d34296ea71bd7c2a65de7fdee7bd9aa926adeda4f7108"
+body_fingerprint: "433f9a0ce672c2c5ba85108afc95c3430042bf650a4da3c03125800af9204679"
 ---
 
 <!-- page 27 (pdf 1) -->
@@ -40,11 +40,11 @@ You wake up one winter morning and shiver. You reach for thick clothes to keep y
 
 ## What is weather?
 
-Weather is a state of the Earth’s atmosphere at a particular time and place. But what is an atmosphere? In simple terms, it is the layer of gases that surround some planets — in the case of our Earth, we call these gases ‘air’. The Earth’s atmosphere may be compared to a cake with several layers. The layer closest to the surface of the Earth is called the ‘troposphere’, and that is where all land-based plants and animals (including humans!) live and breathe. It is also where almost all weather phenomena, which we will explore in this chapter, take place. The troposphere extends to a height of 6 to 18 kilometres from the ground; it is less thick at the poles (where the cold air contracts) and thicker in the tropical zone (where the warmer air expands). You will study more about the other layers in your Science classes.
+Weather is a state of the Earth’s atmosphere at a particular time and place. But what is an atmosphere? In simple ld terms, it is the layer of gases that surround some planets — in the case of our Earth, we call these gases ‘air’. The Earth’s atmosphere may Fig. 2.2 be compared to a cake with several layers. The layer closest to the surface of the Earth is called the ‘troposphere’, and that is where all land-based plants and animals (including humans!) live and breathe. It is also where almost all weather phenomena, which we will explore in this chapter, take place. The troposphere extends to a height of 6 to 18 kilometres from the ground; it is less thick at the poles (where the cold air contracts) and thicker in the tropical zone (where the warmer air expands). You will study more about the other layers in your Science classes.
 
 > [table] Stratosphere
 
-> [table] Tropopause Ozone Layer
+> [table] Ozone Layer Tropopause oo ve
 
 > [table] Troposphere
 
@@ -316,6 +316,10 @@ Meteorologists collect data using these instruments over long periods of time. T
 
 <!-- page 40 (pdf 14) -->
 
+## en aap
+
+> [caption] Fog
+
 > [caption] Heat Wave
 
 > [caption] Heavy Rain
@@ -351,8 +355,6 @@ Meteorologists collect data using these instruments over long periods of time. T
 > [caption] Warning (Take Action)
 
 > [caption] Hot and Humid
-
-> [caption] Fog
 
 <!-- page 41 (pdf 15) -->
 
@@ -479,3 +481,5 @@ Note: ACT means actual; NOR means normal; DEP is departure from normal; R/F is r
 <!-- page 44 (pdf 18) -->
 
 *‘Noodles’ is our abbreviation for ‘Notes and Doodles’!
+
+> [caption] XN aN yN

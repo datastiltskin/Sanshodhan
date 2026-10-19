@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch10.pdf"
 source_sha256: "020fee1ef5931fe9120d12bffa6d5d8cc2ab81ded499e22e98e0e5ed73889a3a"
 pdf_pages: 17
 printed_pages: "138-154"
-body_fingerprint: "fa3b4a554b3496b04bf4f81bb8f9caadf1293c24d6ff35b18a7c94be9e0e00d1"
+body_fingerprint: "570b9abd0c5681dc32291b17e902feb71dcad1c6061a0b564b300c2cffd566d8"
 ---
 
 <!-- page 138 (pdf 1) -->
@@ -205,23 +205,15 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 
 1. Match the following:
 
-subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl Maratha peasant warriors chauth a Mughal military commander kunbis a band of Sikh warriors KEYWORDS umara tax levied by the Marathas
+subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl Maratha peasant warriors chauth a Mughal military commander kunbis a band of Sikh warriors umara tax levied by the Marathas
 
 2. Fill in the blanks:
 
-subadari
-
 (a) Aurangzeb fought a protracted war in the ____________________.
-
-dal khalsa misl
 
 (b) Umara and jagirdars constituted powerful sections of the Mughal __________________.
 
-faujdari ijaradari
-
 (c) Asaf Jah was given charge of the Deccan subadari in _____________________.
-
-chauth sardeshmukhi
 
 (d) The founder of the Awadh nawabi was ______________________.
 
@@ -236,6 +228,8 @@ chauth sardeshmukhi
 (d) Poona became the capital of the Marathas in the eighteenth century.
 
 4. What were the offices held by Sa‘adat Khan?
+
+KEYWORDS subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
 
 <!-- page 154 (pdf 17) -->
 

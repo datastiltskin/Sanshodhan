@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch03.pdf"
 source_sha256: "b6da3bc354ec93f325e48339bab8bedab3e407b3723586473c6f2a587c6fdd76"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "a869e327af1031386bffbb01fc74fcd1c6c8bb063bb81d2071ee2816b5f92a4c"
+body_fingerprint: "2cf4bd977cdf6d271d99cfe703526333ecff7940d09e9be076ee2f3814fd6eda"
 ---
 
 <!-- page 108 (pdf 1) -->
@@ -23,8 +23,6 @@ Have you ever thought of how children lived about two hundred years ago? Nowaday
 Two hundred years ago things were very different. Most children were married off at an early age. Both Hindu and Muslim men could marry more than one wife. In some parts of the country, widows were praised if they chose death by burning themselves on the funeral pyre of their husbands. Women who died in this manner, whether willingly or otherwise, were called “sati”, meaning virtuous women. Women’s rights to property were also restricted. Besides, most women had virtually no access to education. In many parts of the country people believed that if a woman was educated, she would become a widow.
 
 > [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813 This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
-
-2018-19
 
 <!-- page 109 (pdf 2) -->
 
@@ -40,8 +38,6 @@ These debates were often initiated by Indian reformers and reform groups. One su
 
 Activity Can you think of the ways in which social customs and practices were discussed in the pre-printing age when books, newspapers and pamphlets were not readily available?
 
-2018-19
-
 <!-- page 110 (pdf 3) -->
 
 Rammohun Roy was keen to spread the knowledge of Western education in the country and bring about greater freedom and equality for women. He wrote about the way women were forced to bear the burden of domestic work, confined to the home and the kitchen, and not allowed to move out and become educated.
@@ -56,8 +52,6 @@ The strategy adopted by Rammohun was used by later reformers as well. Whenever t
 
 > [table] Fig. 3 – Hook swinging festival In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
-2018-19
-
 > [caption] Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 
 <!-- page 111 (pdf 4) -->
@@ -70,21 +64,19 @@ Rammohun Roy published many pamphlets to spread his ideas. Some of these were wr
 
 ADVOCATE OF SATI: Women are by nature of inferior understanding, without resolution, unworthy of trust … Many of them, on the death of their husbands, become desirous of accompanying them; but to remove every chance of their trying to escape from the blazing fire, in burning them we first tie them down to the pile.
 
-Activity This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
-
 OPPONENT OF SATI: When did you ever afford them a fair opportunity of exhibiting their natural capacity? How then can you accuse them of want of understanding? If, after instruction in knowledge and wisdom, a person cannot comprehend or retain what has been taught him, we may consider him as deficient; but if you do not educate women how can you see them as inferior.
 
 For instance, one of the most famous reformers, Ishwarchandra Vidyasagar, used the ancient texts to suggest that widows could remarry. His suggestion was adopted by British officials, and a law was passed in 1856 permitting widow remarriage. Those who were against the remarriage of widows opposed Vidyasagar, and even boycotted him.
 
 By the second half of the nineteenth century, the movement in favour of widow remarriage spread to other parts of the country. In the Telugu-speaking areas of the Madras Presidency, Veerasalingam Pantulu formed an association for widow remarriage. Around the same time young intellectuals and reformers in Bombay pledged themselves to working for the same cause. In the north, Swami Dayanand Saraswati, who founded the reform association called Arya Samaj, also supported widow remarriage.
 
-> [caption] Fig. 4 – Swami Dayanand Saraswati
-
 Yet, the number of widows who actually remarried remained low. Those who married were not easily accepted in society and conservative groups continued to oppose the new law.
 
-> [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
+Activity This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
 
-2018-19
+> [caption] Fig. 4 – Swami Dayanand Saraswati
+
+> [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
 <!-- page 112 (pdf 5) -->
 
@@ -98,7 +90,7 @@ In the latter part of the century, schools for girls were established by the Ary
 
 In aristocratic Muslim households in North India, women learnt to read the Koran in Arabic. They were taught by women who came home to teach. Some reformers such as Mumtaz Ali reinterpreted verses from the Koran to argue for women’s education. The first Urdu novels began to be written from the late nineteenth century. Amongst other things, these were meant to encourage women to read about religion and domestic management in a language they could understand.
 
-Women write about women From the early twentieth century, Muslim women like the Begums of Bhopal played a notable role in promoting education among women. They founded a primary school for girls at Aligarh. Another remarkable woman, Begum Rokeya Sakhawat Hossain started schools for Muslim girls in Patna and Calcutta. She 2018-19 was a fearless critic of conservative ideas, arguing that religious leaders of every faith accorded an inferior place to women.
+Women write about women From the early twentieth century, Muslim women like the Begums of Bhopal played a notable role in promoting education among women. They founded a primary school for girls at Aligarh. Another remarkable woman, Begum Rokeya Sakhawat Hossain started schools for Muslim girls in Patna and Calcutta. She was a fearless critic of conservative ideas, arguing that religious leaders of every faith accorded an inferior place to women.
 
 > [caption] Fig. 5 Ishwarchandra Vidyasagar
 
@@ -106,15 +98,7 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 <!-- page 113 (pdf 6) -->
 
-> [table] Source 2
-
-## Once a woman’s husband has died...
-
 By the 1880s, Indian women began to enter universities. Some of them trained to be doctors, some became teachers. Many women began to write and publish their critical views on the place of women in society. Tarabai Shinde, a woman educated at home at Poona, published a book, Stripurushtulna, (A Comparison between Women and Men), criticising the social differences between men and women.
-
-In her book, Stripurushtulna, Tarabai Shinde wrote:
-
-Isn’t a woman’s life as dear to her as yours is to you? It’s as if women are meant to be made of something different from men altogether, made from dust from earth or rock or rusted iron whereas you and your lives are made from the purest gold. … You’re asking me what I mean. I mean once a woman’s husband has died, … what’s in store for her? The barber comes to shave all the curls and hair off her head, just to cool your eyes. … She is shut out from going to weddings, receptions and other auspicious occasions that married women go to. And why all these restrictions? Because her husband has died. She is unlucky: ill fate is written on her forehead. Her face is not to be seen, it’s a bad omen.
 
 Pandita Ramabai, a great scholar of Sanskrit, felt that Hinduism was oppressive towards women, and wrote a book about the miserable lives of upper-caste Hindu women. She founded a widows’ home at Poona to provide shelter to widows who had been treated badly by their husbands’ relatives. Here women were trained so that they could support themselves economically.
 
@@ -126,9 +110,15 @@ As you can see, by the end of the nineteenth century, women themselves were acti
 
 In the twentieth century, leaders such as Jawaharlal Nehru and Subhas Chandra Bose lent their support to demands for greater equality and freedom for women. Nationalist leaders promised that there would be full suffrage for all men and women after Independence. However, till then they asked women to concentrate on the anti-British struggles.
 
-> [table] Tarabai Shinde, Stripurushtulna
+> [table] Source 2
 
-2018-19
+## Once a woman’s husband has died...
+
+In her book, Stripurushtulna, Tarabai Shinde wrote:
+
+Isn’t a woman’s life as dear to her as yours is to you? It’s as if women are meant to be made of something different from men altogether, made from dust from earth or rock or rusted iron whereas you and your lives are made from the purest gold. … You’re asking me what I mean. I mean once a woman’s husband has died, … what’s in store for her? The barber comes to shave all the curls and hair off her head, just to cool your eyes. … She is shut out from going to weddings, receptions and other auspicious occasions that married women go to. And why all these restrictions? Because her husband has died. She is unlucky: ill fate is written on her forehead. Her face is not to be seen, it’s a bad omen.
+
+> [table] Tarabai Shinde, Stripurushtulna
 
 <!-- page 114 (pdf 7) -->
 
@@ -146,7 +136,7 @@ Some of the social reformers we have been discussing also criticised caste inequ
 
 There were also others who questioned the injustices of the caste social order. During the course of the nineteenth century, Christian missionaries began setting up schools for tribal groups and “lower”-caste children. These children were thus equipped with some resources to make their way into a changing world.
 
-At the same time, the poor began leaving their villages to look for jobs that were opening up in the cities. There was work in the factories that were coming up, and jobs in municipalities. You have read about 2018-19 the expansion of cities in Chapter 6. Think of the new demands of labour this created. Drains had to be dug, roads laid, buildings constructed, and cities cleaned. This required coolies, diggers, carriers, bricklayers, sewage cleaners, sweepers, palanquin bearers, rickshaw pullers. Where did this labour come from? The poor from the villages and small towns, many of them from low castes, began moving to the cities where there was a new demand for labour. Some also went to work in plantations in Assam, Mauritius, Trinidad and Indonesia. Work in the new locations was often very hard. But the poor, the people from low castes, saw this as an opportunity to get away from the oppressive hold that upper-caste landowners exercised over their lives and the daily humiliation they suffered.
+At the same time, the poor began leaving their villages to look for jobs that were opening up in the cities. There was work in the factories that were coming up, and jobs in municipalities. You have read about the expansion of cities in Chapter 6. Think of the new demands of labour this created. Drains had to be dug, roads laid, buildings constructed, and cities cleaned. This required coolies, diggers, carriers, bricklayers, sewage cleaners, sweepers, palanquin bearers, rickshaw pullers. Where did this labour come from? The poor from the villages and small towns, many of them from low castes, began moving to the cities where there was a new demand for labour. Some also went to work in plantations in Assam, Mauritius, Trinidad and Indonesia. Work in the new locations was often very hard. But the poor, the people from low castes, saw this as an opportunity to get away from the oppressive hold that upper-caste landowners exercised over their lives and the daily humiliation they suffered.
 
 <!-- page 115 (pdf 8) -->
 
@@ -161,8 +151,6 @@ Who could produce shoes?
 > [table] Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
 
 There were other jobs too. The army, for instance, offered opportunities. A number of Mahar people, who were regarded as untouchable, found jobs in the Mahar Regiment. The father of B.R. Ambedkar, the leader of the Dalit movement, taught at an army school.
-
-2018-19
 
 <!-- page 116 (pdf 9) -->
 
@@ -180,13 +168,11 @@ Demands for equality and justice Gradually, by the second half of the nineteenth
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
-All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru 2018-19 One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
+All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 <!-- page 117 (pdf 10) -->
 
 ### Gulamgiri
-
-> [caption] Fig. 13 – Jyotirao Phule
 
 Phule claimed that before Aryan rule there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways. He proposed that Shudras (labouring castes) and Ati Shudras (untouchables) should unite to challenge caste discrimination. The Satyashodhak Samaj, an association Phule founded, propagated caste equality.
 
@@ -198,11 +184,11 @@ Phule was also critical of the anti-colonial nationalism that was preached by up
 
 The Brahmans have hidden away the sword of their religion which has cut the throat of the peoples’ prosperity and now go about posing as great patriots of their country. They … give this advice to ... our Shudra, Muslim and Parsi youth that unless we put away all quarrelling amongst ourselves about the divisions between high and low in our country and come together, our ... country will never make any progress ... It will be unity to serve their purposes, and then it will be me here and you over there again.
 
-Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
-
 > [table] Jyotiba Phule, The Cultivator’s Whipcord
 
-In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all 2018-19 those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
+In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
+
+> [caption] Fig. 13 – Jyotirao Phule
 
 <!-- page 118 (pdf 11) -->
 
@@ -210,27 +196,27 @@ In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years bef
 
 ## “We are also human beings”
 
-As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
-
 In 1927, Ambedkar said:
 
 We now want to go to the Tank only to prove that like others, we are also human beings … Hindu society should be reorganised on two main principles – equality and absence of casteism.
 
-### Who could enter temples?
-
-Ambedkar was born into a Mahar family. As a child he experienced what caste prejudice meant in everyday life. In school he was forced to sit outside the classroom on the ground, and was not allowed to drink water from taps that upper-caste children used. After finishing school, he got a fellowship to go to the US for higher studies. On his return to India in 1919, he wrote extensively about “upper”-caste power in contemporary society.
-
 > [caption] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792
 
 > [table] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
+
+those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
+
+As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
+
+### Who could enter temples?
+
+Ambedkar was born into a Mahar family. As a child he experienced what caste prejudice meant in everyday life. In school he was forced to sit outside the classroom on the ground, and was not allowed to drink water from taps that upper-caste children used. After finishing school, he got a fellowship to go to the US for higher studies. On his return to India in 1919, he wrote extensively about “upper”-caste power in contemporary society.
 
 In 1927, Ambedkar started a temple entry movement, in which his Mahar caste followers participated. Brahman priests were outraged when the Dalits used water from the temple tank.
 
 Ambedkar led three such movements for temple entry between 1927 and 1935.
 
 His aim was to make everyone see the power of caste prejudices within society.
-
-2018-19
 
 <!-- page 119 (pdf 12) -->
 
@@ -239,6 +225,10 @@ His aim was to make everyone see the power of caste prejudices within society.
 In the early twentieth century, the non-Brahman movement started. The initiative came from those non-Brahman castes that had acquired access to education, wealth and influence. They argued that Brahmans were heirs of Aryan invaders from the north who had conquered southern lands from the original inhabitants of the region – the indigenous Dravidian races. They also challenged Brahmanical claims to power.
 
 E.V. Ramaswamy Naicker, or Periyar, as he was called, came from a middle-class family. Interestingly, he had been an ascetic in his early life and had studied Sanskrit scriptures carefully. Later, he became a member of the Congress, only to leave it in disgust when he found that at a feast organised by nationalists, seating arrangements followed caste distinctions – that is, the lower castes were made to sit at a distance from the upper castes. Convinced that untouchables had to fight for their dignity, Periyar founded the Self Respect Movement. He argued that untouchables were the true upholders of an original Tamil and Dravidian culture which had been subjugated by Brahmans. He felt that all religious authorities saw social divisions and inequality as God-given. Untouchables had to free themselves, therefore, from all religions in order to achieve social equality.
+
+Periyar was an outspoken critic of Hindu scriptures, especially the Codes of Manu, the ancient lawgiver, and the Bhagavad Gita and the Ramayana. He said that these texts had been used to establish the authority of Brahmans over lower castes and the domination of men over women.
+
+These assertions did not go unchallenged. The forceful speeches, writings and movements of lower-caste leaders did lead to rethinking and some self-criticism among upper-caste nationalist leaders. But orthodox Hindu society also reacted by founding Sanatan Dharma Sabhas and the Bharat Dharma Mahamandal in the north, and associations like the Brahman Sabha in Bengal. The object of these associations was to uphold caste distinctions as a cornerstone of Hinduism, and show how this was sanctified by scriptures. Debates and struggles over caste continued beyond the colonial period and are still going on in our own times.
 
 > [caption] Fig. 15 – E.V. Ramaswamy Naicker (Periyar)
 
@@ -250,17 +240,11 @@ Periyar wrote:
 
 Only with the arrival of words such as Thara Mukurtham our women had become puppets in the hands of their husbands … we ended up with such fathers who advise their daughters ... that they had been gifted away to their husbands and they belong to their husband’s place. This is the … result of our association with Sanskrit.
 
-Periyar was an outspoken critic of Hindu scriptures, especially the Codes of Manu, the ancient lawgiver, and the Bhagavad Gita and the Ramayana. He said that these texts had been used to establish the authority of Brahmans over lower castes and the domination of men over women.
-
-These assertions did not go unchallenged. The forceful speeches, writings and movements of lower-caste leaders did lead to rethinking and some self-criticism among upper-caste nationalist leaders. But orthodox Hindu society also reacted by founding Sanatan Dharma Sabhas and the Bharat Dharma Mahamandal in the north, and associations like the Brahman Sabha in Bengal. The object of these associations was to uphold caste distinctions as a cornerstone of Hinduism, and show how this was sanctified by scriptures. Debates and struggles over caste continued beyond the colonial period and are still going on in our own times.
-
 > [table] Periyar, cited in Periyar
 
 > [table] Chintahnaikal
 
 Activity Why does caste remain such a controversial issue today? What do you think was the most important movement against caste in colonial times?
-
-2018-19
 
 <!-- page 120 (pdf 13) -->
 
@@ -286,8 +270,6 @@ The Veda Samaj
 
 Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
 
-2018-19
-
 <!-- page 121 (pdf 14) -->
 
 The Aligarh Movement The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
@@ -311,8 +293,6 @@ Many people, white and black, opposed slavery through organised protest. In doin
 > [caption] Fig. 21 – Slave Sale, South Carolina, USA, 1856
 
 > [table] Here you see potential buyers examining African slaves at an auction.
-
-2018-19
 
 <!-- page 122 (pdf 15) -->
 
@@ -351,5 +331,3 @@ Would some people have supported them too? If so, for what reasons?
 9. What did Ambedkar want to achieve through the temple entry movement?
 
 10. Why were Jyoti rao Phule and Ramaswamy Naicker critical of the national movement? Did their criticism help the national struggle in any way?
-
-2018-19

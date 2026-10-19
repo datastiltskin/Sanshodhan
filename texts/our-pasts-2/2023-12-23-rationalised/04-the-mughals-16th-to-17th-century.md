@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch04.pdf"
 source_sha256: "e3f56c65af2e2d925e5024a62b81c111f77ab3e08e7819fadf98bf085154f717"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "66ed8c2b14b2c5a6c173fb27f818363f12b7f591aef10bcd52f4492d9a6701bf"
+body_fingerprint: "4933a79792917a534632ffb63eb1cbd93cdd48adfa40203175d5fde49d5afda1"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -63,13 +63,13 @@ As the empire expanded to encompass different regions, the Mughals recruited div
 
 The term mansabdar refers to an individual who holds a mansab, meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat. The higher the zat, the more prestigious was the noble’s position in court and the larger his salary.
 
-### Zat ranking
-
-> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
-
 The mansabdar’s military responsibilities required him to maintain a specified number of sawar or cavalrymen. The mansabdar brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary.
 
 Mansabdars received their salaries as revenue assignments called jagirs which were somewhat like iqtas. But unlike muqtis, most mansabdars did not actually reside in or administer their jagirs. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
+
+### Zat ranking
+
+> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
 
 <!-- page 43 (pdf 5) -->
 
@@ -151,31 +151,25 @@ Nur Jahan Jahangir
 
 3. What were the central provinces under the control of the Mughals?
 
-Keywords
-
 4. What was the relationship between the mansabdar and the jagir?
-
-Mughal mansab jagir
 
 ### Let’s understand
 
-5. What was the role of the zamindar in Mughal zat administration?
+5. What was the role of the zamindar in Mughal administration?
 
-sawar
-
-6. How were the debates with religious scholars important sulh-i kul in the formation of Akbar’s ideas on governance?
-
-primogeniture
+6. How were the debates with religious scholars important in the formation of Akbar’s ideas on governance?
 
 7. Why did the Mughals emphasise their Timurid and not their Mongol descent?
-
-coparcenary zabt zamindar
 
 ### Let’s discuss
 
 8. How important was the income from land revenue to the stability of the Mughal Empire?
 
 9. Why was it important for the Mughals to recruit mansabdars from diverse backgrounds and not just Turanis and Iranis?
+
+Keywords
+
+Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 <!-- page 48 (pdf 10) -->
 

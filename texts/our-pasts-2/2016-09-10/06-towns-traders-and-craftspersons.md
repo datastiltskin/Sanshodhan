@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch06.pdf"
 source_sha256: "b677932871196927d7c0ceab29b38b652db88b945c0d53afa4f3e78a65ae7deb"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "69f5cac0cee1b218cf2330f3abdc52441bdfb16d22df7b0f4c7884d6c200f712"
+body_fingerprint: "c61f0026bd5cb5c9d79ace7c959c8953109ef28b9dc936862d6edc5930c71375"
 ---
 
 <!-- page 75 (pdf 1) -->
@@ -202,13 +202,13 @@ Vasco da Gama and Christopher Columbus
 
 > [note] Vasco da Gama, a Portuguese sailor, was one of those who sailed across the Atlantic to the African coast, went round it, crossing over to the Indian Ocean. His first journey took more than a year; he reached Calicut in 1498, and returned to Lisbon, the capital of Portugal, the following year. He lost two of his four ships, and of the 170 men at the start of the journey, only 54 survived. In spite of the obvious hazards, the routes that were opened up proved to be extremely profitable – and he was followed by English, Dutch and French sailors.
 
-> [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area.
-
 > [caption] Fig. 9 Vasco da Gama.
 
 Imagine
 
 You are planning a journey from Surat to West Asia in the seventeenth century. What are the arrangements you will make?
+
+> [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area.
 
 <!-- page 89 (pdf 15) -->
 
@@ -220,23 +220,13 @@ You are planning a journey from Surat to West Asia in the seventeenth century. W
 
 (b) Ajmer is associated with the Sufi saint ————.
 
-KEYWORDS
-
 (c) Hampi was the capital of the ———— Empire.
-
-temple towns
 
 (d) The Dutch established a settlement at ———— in Andhra Pradesh.
 
-urbanisation
-
-Vishwakarma
-
 2. State whether true or false:
 
-emporium
-
-(a) We know the name of the architect of the Black Town Rajarajeshvara temple from an inscription.
+(a) We know the name of the architect of the Rajarajeshvara temple from an inscription.
 
 (b) Merchants preferred to travel individually rather than in caravans.
 
@@ -247,6 +237,12 @@ emporium
 3. How was water supplied to the city of Thanjavur?
 
 4. Who lived in the “Black Towns” in cities such as Madras?
+
+KEYWORDS temple towns urbanisation
+
+Vishwakarma emporium
+
+Black Town
 
 <!-- page 90 (pdf 16) -->
 

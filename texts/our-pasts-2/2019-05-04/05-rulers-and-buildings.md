@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch05.pdf"
 source_sha256: "fa4bfd70b322e0cb3491cdc53755f6d8370d3823164586e84d5670dce36330d3"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "e3ecc0c03d46cc7462b99e9416880162294c8d12928b82135da3a0b4be67b64f"
+body_fingerprint: "736c3c2de337370353c3b884fe2f5f550a6458f20cc0d1409e58b3a7a48f8d9d"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -86,19 +86,19 @@ Temples and mosques were beautifully constructed because they were places of wor
 
 <!-- page 64 (pdf 5) -->
 
-### A royal architect
-
-> [note] The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
-
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Quwwat al-Islam mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great lawgivers of the past. The greatest lawgiver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
 
-> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
-
 > [caption] W
 
 > [caption] Qibla (Direction towards Mecca)
+
+### A royal architect
+
+> [note] The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
+
+> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
 
 <!-- page 65 (pdf 6) -->
 

@@ -266,29 +266,19 @@ Cheque
 
 A cheque is a paper instrument that allows you to pay someone directly from your bank account. The bank provides a cheque book with multiple cheques. To pay ₹5,000 to your friend Rohan, you write a cheque with the exact amount, Rohan’s name, and your signature. Rohan can then deposit the cheque in his bank. The amount gets withdrawn (debited) from your account and is transferred (credited) to Rohan’s bank account.
 
-> [table] Date on which you wish
-
-> [caption] Name of person
-
-> [table] to issue the cheque
-
-> [caption] you wish to pay
-
-> [caption] Amount of money in words
-
-> [table] Amount of money in number
-
-> [table] Where the cheque issuer needs to sign
-
-> [caption] Cheque issuer’s account number
-
-> [table] MICR code Cheque number MICR band
+> [table] Date on which you wish to issue the cheque Amount of money in number Where the cheque issuer needs to sign MICR code Cheque number MICR band
 
 > [caption] Fig. 8.14. Cheque
 
 The transfer or payment of money through a cheque requires physically visiting a bank and takes time. However, electronic modes of payment allow instant transfers from the sender’s account to the receiver’s account. These are called electronic payment methods, some of which are discussed below.
 
 Debit cards and Point of Sale (POS) machines Debit cards can be used to make payments at retails stores such as a grocery or clothing store, and chemist. On one hand, they help withdraw cash from ATMs as seen above, and on the other hand, they enable the transfer of money from customers to the store owner. Customers use their debit card by swiping or inserting it into a POS machine, inputting the amount, and entering the PIN. The cashier can also enter the amount, while the customer enters their PIN. The amount is instantly deducted from the customer’s account.
+
+> [caption] Name of person you wish to pay
+
+> [caption] Amount of money in words
+
+> [caption] Cheque issuer’s account number
 
 <!-- page 205 (pdf 13) -->
 
@@ -312,7 +302,7 @@ Additionally, digital payments are made through mobile phones using digital paym
 
 > [caption] NPCI decrypts the request, verifies the user’s UPI PIN and QR Code processes the transfer.
 
-> [caption] Pay Contact
+> [caption] Pay Contact ww
 
 > [caption] Pay Phone Number
 
@@ -322,7 +312,7 @@ Additionally, digital payments are made through mobile phones using digital paym
 
 > [caption] payee’s bank (Piyush).
 
-> [caption] Kumar scans Piyush’s
+> [caption] he Kumar scans Piyush’s
 
 > [caption] The application sends a payment
 
@@ -347,6 +337,8 @@ Additionally, digital payments are made through mobile phones using digital paym
 > [caption] Fig. 8.18. Process of a digital transaction between a buyer and a seller using UPI
 
 Unified Payments Interface (UPI) — India’s gift to the world of payment systems Traditionally, transferring funds from one person’s bank account to another person’s account required filling out the cheque with the details of the receiver, dropping it into the bank’s drop box or handing it over to a bank official. It was time-consuming and discouraged a majority of people from using banking services, leading to heavy reliance on cash due to which billions of rupees were used every day without a record.
+
+> [caption] aul
 
 <!-- page 207 (pdf 15) -->
 

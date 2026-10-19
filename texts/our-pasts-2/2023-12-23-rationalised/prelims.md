@@ -12,6 +12,8 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/prelims.pdf"
 
 ## for Class VII
 
+cla 3rfar PAA SR TART fap sy f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
+
 <!-- page 24 (pdf 2) -->
 
 > [table] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8

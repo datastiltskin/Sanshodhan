@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf"
 source_sha256: "b2aa2a75ad57586cedc58d4037a10907b1018062bd7215fc05b59e28bc546090"
 pdf_pages: 22
 printed_pages: "45-66"
-body_fingerprint: "ca2cbf7039e76c6b689960759f737e035cae92dbf159e65605a4648d5ad181fa"
+body_fingerprint: "d4747585ccc749fab82029d13f82e2b4e024309a55c1e579264bb21b40d6d3ed"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -90,13 +90,13 @@ We studied about latitudes in Grade 6. Do you remember that latitudes measure th
 
 Places near the Equator, that is, at low latitudes, are warmer, while those near the poles (high latitudes) are colder. This happens due to the angle at which the sun’s rays hit a particular area. At the Equator, the rays are nearly perpendicular, and so all their energy is focused on a smaller area of the Earth’s surface. In the polar regions, the rays are inclined or oblique, and the energy is distributed over a larger surface. Moreover, they have to pass through more of the Earth’s atmosphere, as the diagram shows, which further dissipates their energy. As a result, the polar regions receive less heat than the equatorial zone. We can see this in India too: Kanniyakumari and the Nicobar Islands being close to the Equator are warm or hot almost throughout the year, whereas places in the north, such as Srinagar, are much cooler.
 
-> [caption] Solar radiation
-
 > [table] Atmosphere
 
 > [table] At the equator exposure to the sun’s rays is concentrated, but near the poles it is dispersed over a wide area
 
 > [caption] Fig. 3.4
+
+> [caption] Solar radiation
 
 <!-- page 50 (pdf 6) -->
 
@@ -166,9 +166,13 @@ Temperatures in coastal areas do not vary much; the summers are not too hot and 
 
 Wind can move masses of warmer or cooler air. States like Punjab, Haryana, Rajasthan and Madhya Pradesh often receive winds blowing from the west. Having travelled over the deserts of Arabia to Afghanistan, they bring dry and hot air that causes severe heat waves in summer. In winter cold winds from across the Himalayas creep into the Himalayan foothills, resulting in cold waves.
 
-Winds affect not only temperature, but also humidity, and in turn, precipitation. We saw dry winds coming from distant deserts; in contrast, winds coming from the sea bring moisture over the land, which may result in rainfall. We will soon see the case of the monsoon winds.
+Winds affect not only temperature, but also humidity, and in turn, precipitation. We saw dry winds coming from distant deserts; in contrast, winds coming from the sea bring moisture over the land, which may result in rainfall. We will soon see the case of the monsoon oy winds.
 
-> [table] cyclonic circulation
+> [caption] cyclonic circulation LZ Ay es ve any LF we, Cs
+
+## ye Ly):
+
+## oR ot
 
 > [caption] Fig. 3.7
 

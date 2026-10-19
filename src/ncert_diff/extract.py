@@ -15,6 +15,7 @@ from __future__ import annotations
 
 import re
 from collections import Counter
+from collections.abc import Callable
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -24,6 +25,8 @@ from . import clean
 
 HORIZONTAL = (1.0, 0.0)
 CHAPTER_NUMBER = re.compile(r"^(\d{1,2})\b|\b(\d{1,2})$")
+SESSION_LABEL = re.compile(r"(Reprint|Rationalised)?\s*20\d\d-\d\d")  # "2018-19" print-run footers
+UNREADABLE = "[unreadable]"  # text set in a font without a Unicode map comes out as blanks
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)", re.IGNORECASE)
 FOOTER_BAND = 0.86  # fraction of page height below which small text is a footer
 HEADER_BAND = 0.06
@@ -74,6 +77,10 @@ def _overlap_ratio(a: tuple, b: tuple) -> float:
     return ix * iy / smaller if smaller > 0 else 0.0
 
 
+def _dedupe_shadow_spans_keep_blank(lines: list[dict]) -> list[list[dict]]:
+    return _dedupe_shadow_spans(lines)
+
+
 def _dedupe_shadow_spans(lines: list[dict]) -> list[list[dict]]:
     """Drop spans drawn on top of an identical earlier span (shadow and fake-bold effects).
 
@@ -92,14 +99,109 @@ def _dedupe_shadow_spans(lines: list[dict]) -> list[list[dict]]:
             if text:
                 kept.append((text, s["bbox"]))
             spans.append(s)
-        if any(s["text"].strip() for s in spans):
+        if any(s["text"].strip() for s in spans) or any(len(s["text"]) >= 3 and s["bbox"][2] - s["bbox"][0] > 20 for s in spans):
             out.append(spans)
     return out
 
 
-def read_blocks(page: pymupdf.Page) -> list[Block]:
+OutlinedReader = Callable[[pymupdf.Page, pymupdf.Rect], str | None]
+
+
+def outlined_word_rects(page: pymupdf.Page) -> list[pymupdf.Rect]:
+    """Runs of filled glyph outlines on one baseline: text the typesetter converted to curves.
+
+    NCERT's 2024-25 Our Pasts II files draw transliterated terms with diacritics
+    ("dehlīwāl", "tawārīkh") this way, and sometimes whole lines, so the words are absent
+    from the text layer. Glyph drawings sharing a baseline are merged, across word spaces,
+    into one run per line fragment so that tesseract reads whole words.
+    """
+    glyphs = []
+    for d in page.get_drawings():
+        r = d["rect"]
+        if d["type"] == "f" and len(d["items"]) >= 12 and 4 <= r.height <= 30 and 1.5 <= r.width <= 250:
+            glyphs.append(pymupdf.Rect(r))
+    # Baseline groups: glyphs whose bottoms are within 4 pt of the group's bottom.
+    groups: list[list[pymupdf.Rect]] = []
+    for g in sorted(glyphs, key=lambda r: r.y1):
+        if groups and abs(groups[-1][-1].y1 - g.y1) <= 4:
+            groups[-1].append(g)
+        else:
+            groups.append([g])
+    runs: list[pymupdf.Rect] = []
+    for group in groups:
+        group.sort(key=lambda r: r.x0)
+        current = pymupdf.Rect(group[0])
+        for g in group[1:]:
+            if -2 <= g.x0 - current.x1 <= max(9.0, 0.8 * current.height):
+                current |= g
+            else:
+                runs.append(current)
+                current = pymupdf.Rect(g)
+        runs.append(current)
+    return [r for r in runs if r.width >= 12 and 6 <= r.height <= 30]
+
+
+def read_blocks(page: pymupdf.Page, read_outlined: OutlinedReader | None = None) -> list[Block]:
     """Text blocks with rotated (watermark) lines removed and lines joined."""
-    return blocks_from_dict(page.get_text("dict"))
+    textpage = page.get_text("dict")
+    if read_outlined is not None:
+        _fill_outlined_words(page, textpage, outlined_word_rects(page), read_outlined)
+    return blocks_from_dict(textpage)
+
+
+def _fill_outlined_words(page: pymupdf.Page, textpage: dict, rects: list[pymupdf.Rect], read_outlined: OutlinedReader) -> None:
+    """Insert OCR'd pseudo-spans for outlined runs: into a gap of a text line, or as a new line."""
+    if not rects:
+        return
+    text_blocks = [b for b in textpage["blocks"] if b["type"] == 0]
+    all_lines = [
+        (raw, ln) for raw in text_blocks for ln in raw["lines"]
+        if tuple(round(v, 1) for v in ln["dir"]) == HORIZONTAL and any(sp["text"].strip() for sp in ln["spans"])
+    ]
+    for r in rects:
+        cy = (r.y0 + r.y1) / 2
+        # The text line this run belongs to: nearest vertical centre among lines it touches horizontally.
+        best = None
+        for raw, ln in all_lines:
+            lx0, ly0, lx1, ly1 = ln["bbox"]
+            if r.x1 < lx0 - 3 or r.x0 > lx1 + 3 or r.height > 1.4 * (ly1 - ly0):
+                continue
+            dist = abs((ly0 + ly1) / 2 - cy)
+            if dist <= 0.4 * (ly1 - ly0) and (best is None or dist < best[0]):
+                best = (dist, ln)
+        if best is not None:
+            ln = best[1]
+            spans = [sp for sp in ln["spans"] if sp["text"].strip()]
+            if any(sp["bbox"][0] < r.x1 - 2 and sp["bbox"][2] > r.x0 + 2 for sp in spans):
+                continue  # overlaps real text: decoration behind it, or invisible text already there
+            word = read_outlined(page, r)
+            if not word:
+                continue
+            nxt = next((sp for sp in spans if sp["bbox"][0] >= r.x1 - 2), None)
+            if nxt and word[-1] in ",.;:" and nxt["text"].lstrip().startswith(word[-1]):
+                word = word[:-1]
+            ln["spans"].append({"text": f" {word} ", "bbox": tuple(r), "size": spans[0]["size"], "font": "OUTLINED", "flags": 2})
+            ln["spans"].sort(key=lambda sp: sp["bbox"][0])
+            continue
+        # No text line there: a whole outlined line. Attach it to the block it sits in or next to.
+        word = read_outlined(page, r)
+        if not word:
+            continue
+        host = None
+        for raw in text_blocks:
+            bx0, by0, bx1, by1 = raw["bbox"]
+            if r.x0 < bx1 + 4 and r.x1 > bx0 - 4 and by0 - r.height * 1.6 <= cy <= by1 + r.height * 1.6:
+                host = raw
+                break
+        size = max((sp["size"] for ln in host["lines"] for sp in ln["spans"]), default=r.height * 0.9) if host else r.height * 0.9
+        line = {"dir": (1.0, 0.0), "bbox": tuple(r), "spans": [{"text": word, "bbox": tuple(r), "size": size, "font": "OUTLINED", "flags": 2}]}
+        if host:
+            host["lines"].append(line)
+            host["lines"].sort(key=lambda ln: ln["bbox"][1])
+            host["bbox"] = tuple(pymupdf.Rect(host["bbox"]) | r)
+        else:
+            textpage["blocks"].append({"type": 0, "bbox": tuple(r), "lines": [line]})
+            text_blocks.append(textpage["blocks"][-1])
 
 
 def blocks_from_dict(textpage: dict) -> list[Block]:
@@ -116,7 +218,14 @@ def blocks_from_dict(textpage: dict) -> list[Block]:
         texts: list[str] = []
         max_size = 0.0
         for spans in _dedupe_shadow_spans(lines):
-            texts.append(_join_spans(spans))
+            joined = _join_spans(spans)
+            if not joined.strip() and any(len(sp["text"]) >= 3 and sp["bbox"][2] - sp["bbox"][0] > 20 for sp in spans):
+                joined = UNREADABLE  # glyphs are drawn but the font maps them to nothing
+                for sp in spans:
+                    sizes[round(sp["size"], 1)] += 10
+                    fonts[sp["font"]] += 10
+                    flags[_span_flags(sp)] += 10
+            texts.append(joined)
             for s in spans:
                 max_size = max(max_size, s["size"])
                 n = len(s["text"].strip())
@@ -180,7 +289,7 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         delta = body_size - b.size  # positive when smaller than body text
         # Footers are short and set small. An exercise question that happens to end the
         # page is neither, even though it sits in the same band.
-        if b.y0 > FOOTER_BAND * height and len(b.text) <= 60 and (delta >= 1.4 or len(b.text) <= 4):
+        if b.y0 > FOOTER_BAND * height and len(b.text) <= 60 and (delta >= 1.4 or len(b.text) <= 4 or SESSION_LABEL.fullmatch(b.text)):
             b.role = "footer"
             m = re.match(r"^(\d{1,3})\b", b.text) or re.search(r"\b(\d{1,3})$", b.text)
             if m and printed is None:
@@ -230,6 +339,9 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
 
 
 def _read_all_pages(pdf_path: Path) -> tuple[list[Page], float]:
+    from .ocr import outlined_reader  # lazy: tesseract is optional
+
+    reader = outlined_reader(pdf_path)
     pages: list[Page] = []
     width = 600.0
     with pymupdf.open(pdf_path) as doc:
@@ -237,7 +349,7 @@ def _read_all_pages(pdf_path: Path) -> tuple[list[Page], float]:
         for i, page in enumerate(doc):
             if i == 0:
                 width = page.rect.width
-            raw.append((i, read_blocks(page), page.rect.width, page.rect.height))
+            raw.append((i, read_blocks(page, reader), page.rect.width, page.rect.height))
     body_size = font_profile([blocks for _, blocks, _, _ in raw])
     for i, blocks, w, h in raw:
         printed = classify(blocks, w, h, body_size)
@@ -269,17 +381,51 @@ def split_into_chapters(pages: list[Page]) -> list[list[Page]]:
     return [pages[a:b] for a, b in zip(starts, starts[1:] + [len(pages)])]
 
 
+def _columns(body: list[Block], width: float) -> list[tuple[float, float]]:
+    """Left-to-right x ranges of the text columns the body blocks form (usually one)."""
+    if not body:
+        return [(0.0, width)]
+    xs = sorted(set(round(b.x0) for b in body))
+    groups: list[list[int]] = [[xs[0]]]
+    for x in xs[1:]:
+        if x - groups[-1][-1] > 0.12 * width:
+            groups.append([x])
+        else:
+            groups[-1].append(x)
+    cols = []
+    for g in groups:
+        members = [b for b in body if round(b.x0) in g]
+        if len(members) >= 2 or len(groups) == 1:
+            cols.append((min(b.x0 for b in members) - 6, max(b.x1 for b in members) + 6))
+    cols.sort()
+    # Columns that overlap are one column (an indented paragraph is not a new column).
+    merged: list[tuple[float, float]] = []
+    for left, right in cols:
+        if merged and left < merged[-1][1] - 20:
+            merged[-1] = (merged[-1][0], max(merged[-1][1], right))
+        else:
+            merged.append((left, right))
+    return merged or [(0.0, width)]
+
+
 def _reading_order(blocks: list[Block], width: float) -> list[Block]:
-    """Body column first (top to bottom), then side column, then the rest."""
+    """Each text column top to bottom, left column first, then the side notes."""
     body = [b for b in blocks if b.role in ("body", "table", "h2", "h3", "dropcap", "chapter-number")]
-    if body:
-        col_left = min(b.x0 for b in body) - 6
-        col_right = max(b.x1 for b in body) + 6
-    else:
-        col_left, col_right = 0.0, width
-    main = sorted((b for b in blocks if col_left <= b.centre_x <= col_right), key=lambda b: (b.y0, b.x0))
-    side = sorted((b for b in blocks if not (col_left <= b.centre_x <= col_right)), key=lambda b: (b.y0, b.x0))
-    return main + side
+    cols = _columns(body, width)
+    ordered: list[Block] = []
+    side: list[Block] = []
+    buckets: list[list[Block]] = [[] for _ in cols]
+    for b in blocks:
+        for k, (left, right) in enumerate(cols):
+            if left <= b.centre_x <= right:
+                buckets[k].append(b)
+                break
+        else:
+            side.append(b)
+    for bucket in buckets:
+        ordered.extend(sorted(bucket, key=lambda b: (b.y0, b.x0)))
+    ordered.extend(sorted(side, key=lambda b: (b.y0, b.x0)))
+    return ordered
 
 
 def title_page_position(pages: list[Page]) -> int:

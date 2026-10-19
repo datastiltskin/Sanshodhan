@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf"
 source_sha256: "653ae8cb238af256d7a495c8fae6db54de39ea7295db7aad60dadbb07444dc2c"
 pdf_pages: 32
 printed_pages: "29-60"
-body_fingerprint: "60cfdd061ad1c01a5c2dd47f7a83bc8a5547fb328fa444eec25939858c0453cc"
+body_fingerprint: "bbc2df56bc94abe58e4d0d23e397e10410bc5b1d6d791e4a8a44f745948acdb6"
 ---
 
 <!-- page 29 (pdf 1) -->
@@ -232,11 +232,9 @@ What is an ‘open border’? It is when people from two countries can travel ac
 
 Bhutan, called ‘Drukyul’ or ‘Land of the Thunder Dragon’ by its inhabitants, is a small, landlocked Himalayan kingdom nestled between India and China. Bhutan’s border with India touches the states of Sikkim, West Bengal, Assam, and Arunachal Pradesh (see Fig. 2.7). Over centuries, Bhutan has developed strong economic and cultural links with India.
 
-### DON’T MISS OUT
+DON’T MISS OUT SS Se es Ee se iy so Raise Several important rivers originate in Bhutan and flow into India; they are not only vital for agriculture but also serve as the foundation for hydroelectric power generation, which is one of the most significant areas of bilateral cooperation. Some major power plants contribute to Bhutan’s economic growth and also supply renewable energy to India.
 
-Several important rivers originate in
-
-Bhutan and flow into India; they are not only vital for agriculture but also serve as the foundation for hydroelectric power generation, which is one of the most significant areas of bilateral cooperation. Some major power plants contribute to Bhutan’s economic growth and also supply renewable energy to India.
+> [caption] Nee"
 
 > [caption] Fig. 2.10. The emblem of Bhutan. Notice the dragons that symbolise the ‘Land of the Thunder Dragon’. What other elements look familiar?
 

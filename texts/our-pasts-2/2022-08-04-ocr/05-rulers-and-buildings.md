@@ -65,11 +65,11 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [caption] placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 kmaway so that it would not be too steep. This was dismantled after the temple was
 
-What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
-
 > [table] constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the
 
 > [caption] temple is called Charupallam, the “Village of the Incline”.
+
+What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
 
 <!-- page 63 (pdf 4) -->
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf"
 source_sha256: "c78925f200070bb78d56e0ac599cbc659226bca8d4f7861c4e6366e43813fc85"
 pdf_pages: 26
 printed_pages: "143-168"
-body_fingerprint: "3f0334757f0b7115e2144fc16193accaaaf9053fcfc2e0ff46d159ec20825946"
+body_fingerprint: "79725879db0d54923539f5d7f98248efec7e823841eaa134e54f83685008fc3e"
 ---
 
 <!-- page 143 (pdf 1) -->
@@ -54,9 +54,9 @@ A state (or a nation) is a political organisation that has the authority to gove
 
 A state has four important parts:
 
-> [caption] People – the citizens who live in the
+> [caption] w fi Land – a fixed area
 
-> [caption] Land – a fixed area
+> [caption] People – the citizens who live in the
 
 > [caption] Government
 
@@ -128,7 +128,9 @@ The police work closely with courts, prisons, and other parts of the criminal ju
 
 > [caption] PEOPLE
 
-> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India
+> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India BS Ss
+
+> [note] uh
 
 <!-- page 148 (pdf 6) -->
 
@@ -156,7 +158,7 @@ This brings us to the difference between a democracy and a republic.
 
 The core idea of a democracy is ʻrule by the people’ (demos = people, kratos = rule). In a democracy, people have the power to choose their government through free and fair elections.
 
-In a republic, the head of state (the highest office) is elected and not hereditary. Very simply, a republic is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. Moreover, in a republic, there are limitations set on the power of rulers through a constitution or laws.
+In a republic, the head of state (the highest office) is elected and not hereditary. Very simply, a republic Ys is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. Moreover, in a republic, there are limitations set on the power of rulers through a constitution or laws.
 
 Note that a country can be both a democracy and a republic, e.g., India or the U.S.A. But not all democracies are republics; for example, the UK, Canada, and Sweden are democracies but not republics — they each have a monarch.
 
@@ -235,6 +237,8 @@ Some key functions of the bureaucracy are —
  Creating a link between citizens and the government: Through various departments and field offices, bureaucrats interact with the public, deliver services such as public schools, roads, and hospitals, and address grievances.
 
  Record-keeping and governance: They keep records of government work, decisions, and procedures.
+
+> [note] lA
 
 <!-- page 154 (pdf 12) -->
 
@@ -503,3 +507,5 @@ Have a class discussion on the following:
 5. Ask your parents / guardians how they engaged with the government over the past year. Make a list and classify the items based on the level of government they had to work with. What challenges did they face?
 
 <!-- page 168 (pdf 26) -->
+
+XN sN aN yN

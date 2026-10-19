@@ -15,6 +15,8 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 
 ## Grade 7 | Part 2
 
+> [caption] sta 3far fap sq sine afer fstatorT IONAL COUNCI EDUCAI IONAL RESEARCH AND UR Rave
+
 <!-- page 27 (pdf 2) -->
 
 > [caption] First Edition
@@ -222,6 +224,12 @@ We are also much obliged to Shweta Rao of the Banyan Tree for her outstanding co
 The illustrators — Albert Shrivastava, Attri Chetan, Nidhi Kashyap, Prachi Sahasrabudhe, and Prashant Singh — deserve commendation for their innovative designs, and sketches, which have significantly enriched the visual quality of the textbook. The contribution made by the cartographer, Arkaprovo Das, and for patiently revising maps multiple times, is much appreciated.
 
 <!-- page 27 (pdf 14) -->
+
+> [caption] PREAMBLE
+
+> [caption] ‘CONSTITUTION.
+
+> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1
 
 <!-- page 27 (pdf 15) -->
 

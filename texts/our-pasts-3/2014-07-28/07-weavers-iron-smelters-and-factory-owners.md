@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf"
 source_sha256: "b08a9af74359a5edfc940ed5022dcf2faeaaa194584af724defea4c909406e1c"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "48615f547f2247fcfbb67e394a5d8d4cd4446dc9980581b11142ca719d19fad4"
+body_fingerprint: "e712f453127745c103db4575e8f7e03e910b942f144b3801f5719cabb831bc88"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -69,17 +69,17 @@ There were other cloths in the order book that were noted by their place of orig
 
 ### Indian textiles in European markets
 
-hActivity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
-
 By the early eighteenth century, worried by the popularity of Indian textiles, wool and silk makers in England began protesting against the import of Indian cotton textiles. In 1720, the British government enacted a legislation banning the use of printed cotton textiles – chintz – in England. Interestingly, this Act was known as the Calico Act.
 
 At this time textile industries had just begun to develop in England. Unable to compete with Indian textiles, English producers wanted a secure market within the country by preventing the entry of Indian textiles. The first to grow under government protection was the calico printing industry. Indian designs were now imitated and printed in England on white muslin or plain unbleached Indian cloth.
 
-Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
-
 Competition with Indian textiles also led to a search for technological innovation in England. In 1764, the spinning jenny was invented by John Kaye which increased the productivity of the traditional spindles. The invention of the steam engine by Richard Arkwright in 1786 revolutionised cotton textile weaving. Cloth could now be woven in immense quantities and cheaply too.
 
 However, Indian textiles continued to dominate world trade till the end of the eighteenth century. European trading companies – the Dutch, the French and the English – made enormous profits out of this flourishing trade. These companies purchased cotton and silk textiles in India by importing silver. But as you know (Chapter 2), when the English East India Company gained political power in Bengal, it no longer had to import precious metal to buy Indian goods. Instead, they collected revenues from peasants and zamindars in India, and used this revenue to buy Indian textiles.
+
+hActivity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
+
+Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
 
 > [caption] Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century
 
@@ -163,27 +163,27 @@ Cotton mills come up The first cotton mill in India was set up as a spinning mil
 
 <!-- page 88 (pdf 10) -->
 
-By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
+> [table] Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+
+Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
 
 In the first few decades of its existence, the textile factory industry in India faced many problems. It found it difficult to compete with the cheap textiles imported from Britain. In most countries, governments supported industrialisation by imposing heavy duties on imports. This eliminated competition and protected infant industries. The colonial government in India usually refused such protection to local industries. The first major spurt in the development of cotton factory production in India, therefore, was during the First World War when textile imports from Britain declined and Indian factories were called upon to produce cloth for military supplies.
 
 The sword of Tipu Sultan and Wootz steel We begin the story of Indian steel and iron metallurgy by recounting the famous story of Tipu Sultan who ruled Mysore till 1799, fought four wars with the British and died fighting with his sword in his hand. Tipu’s legendary swords are now part of valuable collections in museums in England. But do you know why the sword was so special? The sword had an incredibly hard and sharp edge that could easily rip through the opponent’s armour. This quality of the sword came from a special type of high carbon steel called Wootz which was produced all over south India. Wootz steel when made into swords produced a very sharp edge with a flowing water pattern. This pattern came from very small carbon crystals embedded in the iron.
 
-Francis Buchanan who toured through Mysore in 1800, a year after Tipu Sultan’s death, has left us an account of the technique by which Wootz steel was produced in many hundreds of smelting furnaces in Mysore. In these furnaces, iron was mixed with charcoal and put inside small clay pots. Through an intricate control of temperatures the smelters produced steel ingots that were used for sword making not just in India but in West and Central Asia too. Wootz is an anglicised hversion of the Kannada word ukku, Telugu hukku and Tamil and Malayalam urukku – meaning steel.
-
-> [table] Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+Francis Buchanan who toured through Mysore in 1800, a year after Tipu Sultan’s death, has left us an account of the technique by which Wootz steel was produced in many hundreds of smelting furnaces in Mysore. In these furnaces, iron was mixed with charcoal and put inside small clay pots. Through an intricate control of temperatures the smelters produced steel ingots that were used for sword making not just in India but in West and Central Asia too. Wootz is an anglicised version of the Kannada word ukku, Telugu hukku and Tamil and Malayalam urukku – meaning steel.
 
 <!-- page 89 (pdf 11) -->
-
-Activity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
 
 Indian Wootz steel fascinated European scientists. Michael Faraday, the legendary scientist and discoverer of electricity and electromagnetism, spent four years studying the properties of Indian Wootz (1818-22). However, the Wootz steel making process, which was so widely known in south India, was completely lost by the mid-nineteenth century. Can you guess why this was so? The swords and armour making industry died with the conquest of India by the British and imports of iron and steel from England displaced the iron and steel produced by craftspeople in India.
 
 ### Abandoned furnaces in villages
 
 Production of Wootz steel required a highly specialised technique of refining iron. But iron smelting in India was extremely common till the end of the nineteenth century. In Bihar and Central India, in particular, every district had smelters that used local deposits of ore to produce iron which was widely used for the manufacture of implements and tools of daily use. The furnaces were most often built of clay and sun-dried bricks. The smelting was done by men while women worked the bellows, pumping air that kept the charcoal burning.
+
+hActivity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
 
 Bellows – A device or equipment that can pump air By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
 
@@ -217,15 +217,15 @@ By the early twentieth century, the artisans producing iron and steel faced a ne
 
 Iron and steel factories come up in India The year was 1904. In the hot month of April, Charles Weld, an American geologist and Dorabji Tata, the eldest son of Jamsetji Tata, were travelling in Chhattisgarh in search of iron ore deposits. They had spent many months on a costly venture looking for sources of good iron ore to set up a modern iron and steel plant in India. Jamsetji Tata had decided to spend a large part of his fortune to build a big iron and steel industry in India. But this could not be done without identifying the source of fine quality iron ore.
 
-Slag heaps – The waste left when smelting metal One day, after travelling for many hours in the forests, Weld and Dorabji came upon a small village and found a group of men and women carrying basketloads of iron ore. These people were the Agarias. When asked where they had found the iron ore, the Agarias pointed to a hill in the distance. Weld and Dorabji reached the hill after an exhausting trek through dense forests. On exploring the hill the geologist declared that they had at last found what they had been looking for. Rajhara Hills had one of the finest ores in the world.
+One day, after travelling for many hours in the forests, Weld and Dorabji came upon a small village and found a group of men and women carrying basketloads of iron ore. These people were the Agarias. When asked where they had found the iron ore, the Agarias pointed to a hill in the distance. Weld and Dorabji reached the hill after an exhausting trek through dense forests. On exploring the hill the geologist declared that they had at last found what they had been looking for. Rajhara Hills had one of the finest ores in the world.
 
 But there was a problem. The region was dry and water – necessary for running the factory – was not to be found nearby. The Tatas had to continue their search for a more suitable place to set up their factory. However, the Agarias helped in the discovery of a source of iron ore that would later supply the Bhilai Steel Plant.
 
 A few years later a large area of forest was cleared on the banks of the river Subarnarekha to set up the factory and an industrial township – Jamshedpur. Here there was water near iron ore deposits. The Tata Iron and Steel Company (TISCO) that came up began producing steel in 1912.
 
-> [caption] Fig. 14 – The Tata Iron and Steel factory on the banks of the river Subarnarekha, 1940
+TISCO was set up at an opportune time. All through the late nineteenth century, India was importing steel that was manufactured in Britain. Expansion of the railways in India Slag heaps – The waste left when smelting metal had provided a huge market for rails that Britain produced. For a long while, British experts in the Indian Railways were unwilling to believe that good quality steel could be produced in India.
 
-TISCO was set up at an opportune time. All through the late nineteenth century, India was importing steel that was manufactured in Britain. Expansion of the railways in India had provided a huge market for rails that Britain produced. For a long while, British experts in the Indian Railways were unwilling to believe that good quality steel could be produced in India.
+> [caption] Fig. 14 – The Tata Iron and Steel factory on the banks of the river Subarnarekha, 1940
 
 <!-- page 92 (pdf 14) -->
 

@@ -14,6 +14,8 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/prelims.pdf"
 
 ## for Class VIII
 
+Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
+
 <!-- page 22 (pdf 2) -->
 
 > [table] ISBN 978-93-5292-113-3 0864 – OUR PASTS – III Textbook in History for Class VIII
@@ -61,8 +63,6 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/prelims.pdf"
 <!-- page 22 (pdf 3) -->
 
 ### FOREWORD
-
-The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
 

@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch02.pdf"
 source_sha256: "3c21d098b05cecad46dad7ed6e26d22c2e4aec65f1efabd3892221e21fbbc3a4"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "652234cf754312ed0b4e1166c7557e9a155527bcab1541b9e494536756e8b6ce"
+body_fingerprint: "4c9b2acfdbfbf3e47207e5f22573887cdd67369bbe5c7c2c662b05913fbbedf3"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -31,11 +31,11 @@ By the second half of the eighteenth century, however, a new power was emerging 
 
 In 1600, the East India Company acquired a charter from the ruler of England, Queen Elizabeth I, granting it the sole right to trade with the East. This meant that no other trading group in England could compete with the East India Company. With this charter the Company could venture across the oceans, looking for new lands from which it could buy goods at a cheap price, and carry them back to Europe to sell at higher prices. The Company did not have to fear competition from other English trading companies. Mercantile trading companies in those days made profit primarily by excluding competition, so that they could buy cheap and sell dear.
 
-> [caption] Fig. 2 – Routes to India in the eighteenth century
-
 The royal charter, however, could not prevent other European powers from entering the Eastern markets. By the time the first English ships sailed down the west coast of Africa, round the Cape of Good Hope, and crossed the Indian Ocean, the Portuguese had already established their presence in the western coast of India, and had their base in Goa. In fact, it was Vasco da Gama, a Portuguese explorer, who had discovered this sea route to India in 1498. By the early seventeenth century, the Dutch too were exploring the possibilities of trade in the Indian Ocean. Soon the French traders arrived on the scene.
 
-Mercantile – A business enterprise that makes profit primarily through trade, buying goods cheap and selling them at higher prices The problem was that all the companies were interested in buying the same things. The fine qualities of cotton and silk produced in India had a big market in Europe. Pepper, cloves, cardamom and cinnamon too were in great demand. Competition amongst the European companies inevitably pushed up the prices at which these goods could be purchased, and this reduced the profits that could be earned. The only way the trading companies could flourish was by eliminating rival competitors. The urge to secure markets therefore led to fierce battles between the trading companies. Through the seventeenth and eighteenth centuries they regularly sank each other’s ships, blockaded routes, and prevented rival ships from moving with supplies of goods. Trade was carried on with arms and trading posts were protected through fortification.
+The problem was that all the companies were interested in buying the same things. The fine qualities of cotton and silk produced in India had a big market in Europe. Pepper, cloves, cardamom and cinnamon too were in great demand. Competition amongst the European companies inevitably pushed up the prices at which these goods could be purchased, and this reduced the profits that could be earned. The only way the trading companies could flourish was by eliminating rival competitors. The urge to secure markets therefore led to fierce battles between the trading companies. Through the seventeenth and eighteenth centuries they regularly sank each other’s ships, blockaded routes, and prevented rival ships from moving with supplies of Mercantile – A business enterprise that makes profit primarily through trade, buying goods cheap and selling them at higher prices goods. Trade was carried on with arms and trading posts were protected through fortification.
+
+> [caption] Fig. 2 – Routes to India in the eighteenth century
 
 <!-- page 11 (pdf 3) -->
 
@@ -53,21 +53,21 @@ The Company tried continuously to press for more concessions and manipulate exis
 
 <!-- page 12 (pdf 4) -->
 
-How trade led to battles Through the early eighteenth century the conflict between the Company and the nawabs of Bengal intensified. After the death of Aurangzeb, the Bengal nawabs asserted their power and autonomy, as other regional powers were doing at that time. Murshid Quli Khan was followed by Alivardi Khan and then Sirajuddaulah as the Nawab of Bengal. Each one of them was a strong ruler. They refused to grant the Company concessions, demanded large tributes for the Company’s right to trade, denied it any right to mint coins, and stopped it from extending its fortifications. Accusing the Company of deceit, they claimed that the Company was depriving the Bengal government of huge amounts of revenue and undermining the authority of the nawab. It was refusing to pay taxes, writing disrespectful letters, and trying to humiliate the nawab and his officials.
-
 > [caption] Fig. 4 – Robert Clive
+
+Puppet – Literally, a toy that you can move with strings. The term is used disapprovingly to refer to a person who is controlled by someone else.
+
+Did you know?
+
+Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
+
+How trade led to battles Through the early eighteenth century the conflict between the Company and the nawabs of Bengal intensified. After the death of Aurangzeb, the Bengal nawabs asserted their power and autonomy, as other regional powers were doing at that time. Murshid Quli Khan was followed by Alivardi Khan and then Sirajuddaulah as the Nawab of Bengal. Each one of them was a strong ruler. They refused to grant the Company concessions, demanded large tributes for the Company’s right to trade, denied it any right to mint coins, and stopped it from extending its fortifications. Accusing the Company of deceit, they claimed that the Company was depriving the Bengal government of huge amounts of revenue and undermining the authority of the nawab. It was refusing to pay taxes, writing disrespectful letters, and trying to humiliate the nawab and his officials.
 
 The Company on its part declared that the unjust demands of the local officials were ruining the trade of the Company, and trade could flourish only if the duties were removed. It was also convinced that to expand trade it had to enlarge its settlements, buy up villages, and rebuild its forts.
 
 The conflicts led to confrontations and finally culminated in the famous Battle of Plassey.
 
-Puppet – Literally, a toy that you can move with strings. The term is used disapprovingly to refer to a person who is controlled by someone else.
-
 The Battle of Plassey When Alivardi Khan died in 1756, Sirajuddaulah became the nawab of Bengal. The Company was worried about his power and keen on a puppet ruler who would willingly give trade concessions and other privileges. So it tried, though without success, to help one of Sirajuddaulah’s rivals become the nawab. An infuriated Sirajuddaulah asked the Company to stop meddling in the political affairs of his dominion, stop fortification, and pay the revenues. After negotiations failed, the Nawab marched with 30,000 soldiers to the English factory at Kassimbazar, captured the Company officials, locked the warehouse, disarmed all Englishmen, and blockaded English ships. Then he marched to Calcutta to establish control over the Company’s fort there.
-
-Did you know?
-
-Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
 
 On hearing the news of the fall of Calcutta, Company officials in Madras sent forces under the command of Robert Clive, reinforced by naval fleets. Prolonged negotiations with the Nawab followed. Finally, in 1757, Robert Clive led the Company’s army against Sirajuddaulah at Plassey. One of the main reasons for the defeat of the Nawab was that the forces led by Mir Jafar, one of Sirajuddaulah’s commanders, never fought the battle. Clive had managed to secure his support by promising to make him nawab after crushing Sirajuddaulah.
 
@@ -89,17 +89,17 @@ But so large a sovereignty may possibly be an object too extensive for a mercant
 
 > [table] Source 2
 
-After the defeat at Plassey, Sirajuddaulah was assassinated and Mir Jafar made the nawab. The Company was still unwilling to take over the responsibility of administration. Its prime objective was the expansion of trade. If this could be done without conquest, through the help of local rulers who were willing to grant privileges, then territories need not be taken over directly.
-
 ## The Nawab
 
 ## complains
 
 In 1733 the Nawab of Bengal said this about the English traders:
 
-Soon the Company discovered that this was rather difficult. For even the puppet nawabs were not always as helpful as the Company wanted them to be. After all, they had to maintain a basic appearance of dignity and sovereignty if they wanted respect from their subjects.
-
 When they first came into the country they petitioned the then government in a humble manner for liberty to purchase a spot of ground to build a factory house upon, which was no sooner granted but they built a strong fort, surrounded it with a ditch which has communication with the river and mounted a great number of guns upon the walls. They have enticed several merchants and others to go and take protection under them and they collect a revenue which amounts to Rs 100, 000 … they rob and plunder and carry great number of the king’s subjects of both sexes into slavery into their own country …
+
+After the defeat at Plassey, Sirajuddaulah was assassinated and Mir Jafar made the nawab. The Company was still unwilling to take over the responsibility of administration. Its prime objective was the expansion of trade. If this could be done without conquest, through the help of local rulers who were willing to grant privileges, then territories need not be taken over directly.
+
+Soon the Company discovered that this was rather difficult. For even the puppet nawabs were not always as helpful as the Company wanted them to be. After all, they had to maintain a basic appearance of dignity and sovereignty if they wanted respect from their subjects.
 
 What could the Company do? When Mir Jafar protested, the Company deposed him and installed Mir Qasim in his place. When Mir Qasim complained, he in turn was defeated in a battle fought at Buxar (1764), driven out of Bengal, and Mir Jafar was reinstalled. The Nawab had to pay Rs 500,000 every month but the Company wanted more money to finance its wars, and meet the demands of trade and its other expenses. It wanted more territories and more revenue. By the time Mir Jafar died in 1765 the mood of the Company had changed. Having failed to work with puppet nawabs, Clive declared: “We must indeed become nawabs ourselves.”
 
@@ -109,9 +109,17 @@ Company officials become “nabobs” What did it mean to be nawabs? It meant of
 
 <!-- page 15 (pdf 7) -->
 
-> [table] Source 3
-
 After the Battle of Plassey the actual nawabs of Bengal were forced to give land and vast sums of money as personal gifts to Company officials. Robert Clive himself amassed a fortune in India. He had come to Madras (now Chennai) from England in 1743 at the age of 18. When in 1767 he left India his Indian fortune was worth £401,102. Interestingly, when he was appointed Governor of Bengal in 1764, he was asked to remove corruption in Company administration but he was himself cross-examined in 1772 by the British Parliament which was suspicious of his vast wealth. Although he was acquitted, he committed suicide in 1774.
+
+However, not all Company officials succeeded in making money like Clive. Many died an early death in India due to disease and war and it would not be right to regard all of them as corrupt and dishonest. Many of them came from humble backgrounds and their uppermost desire was to earn enough in India, return to Britain and lead a comfortable life. Those who managed to return with wealth led flashy lives and flaunted their riches. They were called “nabobs” – an anglicised version of the Indian word nawab. They were often seen as upstarts and social climbers in British society and were ridiculed or made fun of in plays and cartoons.
+
+## Company Rule Expands
+
+If we analyse the process of annexation of Indian states by the East India Company from 1757 to 1857, certain key aspects emerge. The Company rarely launched a direct military attack on an unknown territory. Instead it used a variety of political, economic and diplomatic methods to extend its influence before annexing an Indian kingdom.
+
+After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but
+
+> [table] Source 3
 
 ## How did Clive
 
@@ -121,15 +129,9 @@ At his hearing in front of a Committee in Parliament, Clive declared that he had
 
 Consider the situation in which the victory at Plassey had placed me! A great prince was dependent on my pleasure; an opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels! Mr Chairman, at this moment I stand astonished at my moderation.
 
-However, not all Company officials succeeded in making money like Clive. Many died an early death in India due to disease and war and it would not be right to regard all of them as corrupt and dishonest. Many of them came from humble backgrounds and their uppermost desire was to earn enough in India, return to Britain and lead a comfortable life. Those who managed to return with wealth led flashy lives and flaunted their riches. They were called “nabobs” – an anglicised version of the Indian word nawab. They were often seen as upstarts and social climbers in British society and were ridiculed or made fun of in plays and cartoons.
-
-## Company Rule Expands
-
-If we analyse the process of annexation of Indian states by the East India Company from 1757 to 1857, certain key aspects emerge. The Company rarely launched a direct military attack on an unknown territory. Instead it used a variety of political, economic and diplomatic methods to extend its influence before annexing an Indian kingdom.
-
  Activity
 
-After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
+Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
 <!-- page 16 (pdf 8) -->
 
@@ -209,17 +211,17 @@ Activity Imagine that you are a nawab’s nephew and have been brought up thinki
 
 Warren Hastings (Governor-General from 1773 to 1785) was one of the many important figures who played a significant role in the expansion of Company power. By his time the Company had acquired power not only in Bengal, but also in Bombay and Madras. British territories were broadly divided into administrative units called Presidencies. There were three Presidencies: Bengal, Madras and Bombay. Each was ruled by a Governor. The supreme head of the administration was the Governor-General. Warren Hastings, the first Governor-General, introduced several administrative reforms, notably in the sphere of justice.
 
-Qazi – A judge
-
-Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons From 1772 a new system of justice was established. Each district was to have two courts – a criminal court ( faujdari adalat ) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
+From 1772 a new system of justice was established. Each district was to have two courts – a criminal court ( faujdari adalat ) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
 
 > [caption] Fig. 12 – The trial of Warren Hastings, painted by R.G. Pollard, 1789 When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+
+Qazi – A judge
+
+Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons
 
 <!-- page 22 (pdf 14) -->
 
 > [table] Source 5
-
-A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
 
 ## “I impeach the common enemy and
 
@@ -227,9 +229,11 @@ A major problem was that the Brahman pandits gave different interpretations of l
 
 Here is a passage from Edmund Burke’s eloquent opening speech during the impeachment of Warren Hastings:
 
-The principal figure in an Indian district was the Collector. As the title suggests, his main job was to collect revenue and taxes and maintain law and order in his district with the help of judges, police officers and darogas. His office – the Collectorate – became the new centre of power and patronage that steadily replaced previous holders of authority.
-
 I impeach him in the name of the people of India, whose rights he has trodden under his foot and whose country he has turned into a desert. Lastly in the name of human nature itself, in the name of both the sexes, in the name of every age, in the name of every rank, I impeach the common enemy and oppressor of all.
+
+Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards Sawar – Men on horses Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
+
+The principal figure in an Indian district was the Collector. As the title suggests, his main job was to collect revenue and taxes and maintain law and order in his district with the help of judges, police officers and darogas. His office – the Collectorate – became the new centre of power and patronage that steadily replaced previous holders of authority.
 
 ### The Company army
 
@@ -237,11 +241,9 @@ Colonial rule in India brought in some new ideas of administration and reform bu
 
 A change occurred in the eighteenth century when Mughal successor states like Awadh and Benaras started recruiting peasants into their armies and training them as professional soldiers. The East India Company adopted the same method when it began recruitment for its own army, which came to be known as the sepoy army (from the Indian word sipahi, meaning soldier).
 
-Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards As warfare technology changed from the 1820s, the cavalry requirements of the Company’s army declined. This is because the British empire was fighting in Burma, Afghanistan and Egypt where soldiers were armed with muskets and matchlocks. The soldiers of the Company’s army had to keep pace with changing military requirements and its infantry regiments now became more important.
+As warfare technology changed from the 1820s, the cavalry requirements of the Company’s army declined. This is because the British empire was fighting in Burma, Afghanistan and Egypt where soldiers were armed with muskets and matchlocks. The soldiers of the Company’s army had to keep pace with changing military requirements and its infantry regiments now became more important.
 
-Sawar – Men on horses
-
-Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match In the early nineteenth century the British began to develop a uniform military culture. Soldiers were increasingly subjected to European-style training, drill and discipline that regulated their life far more than before. Often this created problems since caste and community feelings were ignored in building a force of professional soldiers. Could individuals so easily give up their caste and religious feelings? Could they see themselves only as soldiers and not as members of communities?
+In the early nineteenth century the British began to develop a uniform military culture. Soldiers were increasingly subjected to European-style training, drill and discipline that regulated their life far more than before. Often this created problems since caste and community feelings were ignored in building a force of professional soldiers. Could individuals so easily give up their caste and religious feelings? Could they see themselves only as soldiers and not as members of communities?
 
 <!-- page 23 (pdf 15) -->
 

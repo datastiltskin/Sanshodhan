@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch05.pdf"
 source_sha256: "97f89dc6e7bf6b1f656ecc33d7af1f3f2e12b6b3fd7a12fc9dd9b6453734eb39"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "f15c50d4a972fdd8e9559873ca90011439808da1a2d1dc02202a937020a75217"
+body_fingerprint: "7e70517c0c29c0dee1d4c73c6ecd983ea3236981eacdc4f166f20a7f8e720f56"
 ---
 
 <!-- page 60 (pdf 2) -->
@@ -83,17 +83,17 @@ Temples and mosques were beautifully constructed because they were places of wor
 
 <!-- page 64 (pdf 6) -->
 
-### ct
-
-> [note] l emperor n’s chro-ared that was the t of the of empire on”.
-
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Delhi mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great law-givers of the past. The greatest law-giver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
 
-> [caption] mi masjid h Jahan in tal at bad,
-
 > [caption] Qibla (Direction towards Mecca)
+
+### ct
+
+> [note] l emperor n’s chro-ared that was the t of the of empire on”.
+
+> [caption] mi masjid h Jahan in tal at bad,
 
 <!-- page 65 (pdf 7) -->
 

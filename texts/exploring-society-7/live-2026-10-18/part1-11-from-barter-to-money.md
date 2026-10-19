@@ -38,37 +38,29 @@ In the theme “Tapestry of the Past”, you read about the crops that people gr
 
 People exchanged goods or services for other goods and services. This system is called the barter system. How did this work? Suppose you need a pencil and have an extra eraser. Meanwhile, your classmate forgot to bring their eraser but has an extra pencil. You could exchange your extra eraser for the extra pencil that your classmate has. Wouldn’t this satisfy your and the classmate’s needs? This is how the barter system works.
 
-> [caption] Barter System: a way of exchanging goods and services without using money.
-
-> [caption] Money: the common tool that everybody accepts and uses in order
-
 Today, we use coins and notes to buy and sell things. People also use their mobile phones and computers for such transactions.
-
-> [caption] to make or receive payments in exchange for
 
 The barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc. Transaction:
 
-> [caption] goods and services.
+> [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones
 
-> [caption] a piece of business that is done between
-
-> [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones people, especially an act of buying
-
-> [caption] – were used as money on the Yap Island, in the Pacific Ocean or selling.
-
-> [caption] country of Micronesia.
-
-> [caption] Commodities:
-
-> [caption] Products or goods that can be traded,
+> [caption] – were used as money on the Yap Island, in the Pacific Ocean country of Micronesia.
 
 > [caption] Fig.11.2.2. The Aztec copper Tajadero (Spanish word for chopping knife) was a form of money used in Central Mexico and parts of Central America.
-
-> [caption] bought and sold.
 
 > [caption] Fig. 11.2.3.Tevau (Red feather coil made from birds’
 
 > [caption] feathers) used as money on the Solomon Islands.
+
+> [caption] Barter System: a way of exchanging goods and services without using money.
+
+> [caption] Money: the common tool that everybody accepts and uses in order to make or receive payments in exchange for goods and services.
+
+> [caption] a piece of business that is done between people, especially an act of buying or selling.
+
+> [caption] Commodities:
+
+> [caption] Products or goods that can be traded, bought and sold.
 
 <!-- page 231 (pdf 3) -->
 
@@ -349,3 +341,5 @@ Apart from tangible forms of money such as coins and paper notes, money has take
 <!-- page 246 (pdf 18) -->
 
 ## Noodles
+
+> [caption] XN aN yN

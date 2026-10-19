@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch07.pdf"
 source_sha256: "2e4ea1dd13239e31a2a9a288d425fefb9832097460b6e4459a4d906b5c34d56f"
 pdf_pages: 13
 printed_pages: "81-93"
-body_fingerprint: "718eca4dcfc91fab5b7c3a599259cda7b1edf98260cf792054d30585df32cb72"
+body_fingerprint: "ec67081cb98a152f20a0dd0013d384fd6dd1dc56cf5568a01bcbbb50d48bd59a"
 ---
 
 <!-- page 81 (pdf 1) -->
@@ -21,27 +21,25 @@ In the earlier chapters you have seen how British rule affected rajas and nawabs
 
 What changes were to be introduced? How were Indians to be educated, “civilised”, and made into what the British believed were “good subjects”? The British could find no simple answers to these questions. They continued to be debated for many decades.
 
-Linguist – Someone who knows and studies several languages
-
 ## How the British saw Education
 
 Let us look at what the British thought and did, and how some of the ideas of education that we now take for granted evolved in the last two hundred years. In the process of this enquiry we will also see how Indians reacted to British ideas, and how they developed their own views about how Indians were to be educated.
 
 ### The tradition of Orientalism
 
-In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages Madrasa – An Arabic word for a place of learning; any type of school or college poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
 
 > [caption] Fig. 1 Fig. 1 – William Jones learning Persian
 
 <!-- page 82 (pdf 2) -->
 
-Jones discovered that his interests were shared by many British officials living in Calcutta at the time. Englishmen like Henry Thomas Colebrooke and Nathaniel Halhed were also busy discovering the ancient Indian heritage, mastering Indian languages and translating Sanskrit and Persian works into English. Together with them, Jones set up the Asiatic Society of Bengal, and started a journal called Asiatick Researches.
-
-Jones and Colebrooke came to represent a particular attitude towards India. They shared a deep respect for ancient cultures, both of India and the West. Indian civilisation, they felt, had attained its glory in the ancient past, but had subsequently declined. In order to understand India it was necessary to discover the sacred and legal texts that were produced in the ancient period. For only those texts could reveal the real ideas and laws of the Hindus and Muslims, and only a new study of these texts could form the basis of future development in India.
-
 > [caption] Fig. 2 Fig. 2 – Henry Thomas Colebrooke
 
 > [table] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
+
+Jones discovered that his interests were shared by many British officials living in Calcutta at the time. Englishmen like Henry Thomas Colebrooke and Nathaniel Halhed were also busy discovering the ancient Indian heritage, mastering Indian languages and translating Sanskrit and Persian works into English. Together with them, Jones set up the Asiatic Society of Bengal, and started a journal called Asiatick Researches.
+
+Jones and Colebrooke came to represent a particular attitude towards India. They shared a deep respect for ancient cultures, both of India and the West. Indian civilisation, they felt, had attained its glory in the ancient past, but had subsequently declined. In order to understand India it was necessary to discover the sacred and legal texts that were produced in the ancient period. For only those texts could reveal the real ideas and laws of the Hindus and Muslims, and only a new study of these texts could form the basis of future development in India.
 
 So Jones and Colebrooke went about discovering ancient texts, understanding their meaning, translating them, and making their findings known to others. This project, they believed, would not only help the British learn from Indian culture, but it would also help Indians rediscover their own heritage, and understand the lost glories of their past. In this process the British would become the guardians of Indian culture as well as its masters.
 
@@ -49,35 +47,27 @@ Influenced by such ideas, many Company officials argued that the British ought t
 
 With this object in view a madrasa was set up in Calcutta in 1781 to promote the study of Arabic, Persian and Islamic law; and the Hindu College was established in Benaras in 1791 to encourage the study of ancient Sanskrit texts that would be useful for the administration of the country.
 
-Madrasa – An Arabic word for a place of learning; any type of school or college Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
-
 <!-- page 83 (pdf 3) -->
 
 > [caption] Fig. 3 Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
 
 > [table] This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
-Orientalists – Those with a scholarly knowledge of the language and culture of Asia From the early nineteenth century many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
+Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
 ### “Grave errors of the East”
 
-Munshi – A person who can read, write and teach Persian Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
+From the early nineteenth century many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
 
 James Mill was one of those who attacked the Orientalists. The British effort, he declared, should not be to teach what the natives wanted, or what they respected, in order to please them and “win a place in their heart”. The aim of education ought to be to teach what was useful and practical. So Indians should be made familiar with the scientific and technical advances that the West had made, rather than with the poetry and sacred literature of the Orient.
 
-By the 1830s the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that
+By the 1830s the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that Orientalists – Those with a scholarly knowledge of the language and culture of Asia Munshi – A person who can read, write and teach Persian Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
 
 <!-- page 84 (pdf 4) -->
-
-“a single shelf of a good European library was worth the whole native literature of India and Arabia”. He urged that the British government in India stop wasting public money in promoting Oriental learning, for it was of no practical use.
-
-With great energy and passion, Macaulay emphasised the need to teach the English language. He felt that knowledge of English would allow Indians to read some of the finest literature the world had produced; it would make them aware of the developments in Western science and philosophy. Teaching of English could thus be a way of civilising people, changing their tastes, values and culture.
 
 > [caption] Fig. 4 Fig. 4 – Thomas Babington Macaulay in his study
 
 > [table] Source 1
-
-Following Macaulay’s minute, the English Education Act of 1835 was introduced. The decision was to make English the medium of instruction for higher education, and to stop the promotion of Oriental institutions like the Calcutta Madrasa and Benaras Sanskrit College. These institutions were seen as “temples of darkness that were falling of themselves into decay”. English textbooks now began to be produced for schools.
 
 ## Language of
 
@@ -85,21 +75,33 @@ Following Macaulay’s minute, the English Education Act of 1835 was introduced.
 
 Emphasising the need to teach English, Macaulay declared:
 
-### Education for commerce
-
 All parties seem to be agreed on one point, that the dialects commonly spoken among the natives … of India, contain neither literary nor scientific information, and are, moreover, so poor and rude that, until they are enriched from some other quarter, it will not be easy to translate any valuable work into them …
+
+> [table] From Thomas Babington Macaulay, Minute of 2 February 1835 on Indian Education
+
+“a single shelf of a good European library was worth the whole native literature of India and Arabia”. He urged that the British government in India stop wasting public money in promoting Oriental learning, for it was of no practical use.
+
+With great energy and passion, Macaulay emphasised the need to teach the English language. He felt that knowledge of English would allow Indians to read some of the finest literature the world had produced; it would make them aware of the developments in Western science and philosophy. Teaching of English could thus be a way of civilising people, changing their tastes, values and culture.
+
+Following Macaulay’s minute, the English Education Act of 1835 was introduced. The decision was to make English the medium of instruction for higher education, and to stop the promotion of Oriental institutions like the Calcutta Madrasa and Benaras Sanskrit College. These institutions were seen as “temples of darkness that were falling of themselves into decay”. English textbooks now began to be produced for schools.
+
+### Education for commerce
 
 In 1854, the Court of Directors of the East India Company in London sent an educational despatch to the Governor-General in India. Issued by Charles Wood, the President of the Board of Control of the Company, it has come to be known as Wood’s Despatch. Outlining the educational policy that was to be followed in India, it emphasised once again the practical benefits of a system of European learning, as opposed to Oriental knowledge.
 
 One of the practical uses the Despatch pointed to was economic. European learning, it said, would enable Indians to recognise the advantages that flow from the expansion of trade and commerce, and make them see the importance of developing the resources of the country. Introducing them to European ways of life, would change their tastes and desires, and create a demand for British goods, for Indians would begin to appreciate and buy things that were produced in Europe.
 
-> [table] From Thomas Babington Macaulay, Minute of 2 February 1835 on Indian Education
-
 <!-- page 85 (pdf 5) -->
 
-> [table] Source 2
-
 Wood’s Despatch also argued that European learning would improve the moral character of Indians. It would make them truthful and honest, and thus supply the Company with civil servants who could be trusted and depended upon. The literature of the East was not only full of grave errors, it could also not instill in people a sense of duty and a commitment to work, nor could it develop the skills required for administration.
+
+Following the 1854 Despatch, several measures were introduced by the British. Education departments of the government were set up to extend control over all matters regarding education. Steps were taken to establish a system of university education. In 1857, while the sepoys rose in revolt in Meerut and Delhi, universities were being established in Calcutta, Madras and Bombay. Attempts were also made to bring about changes within the system of school education.
+
+Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions. 
+
+> [caption] Fig. 5 Fig. 5 – Bombay University in the nineteenth century
+
+> [table] Source 2
 
 ## An argument for European
 
@@ -107,21 +109,21 @@ Wood’s Despatch also argued that European learning would improve the moral cha
 
 Wood’s Despatch of 1854 marked the final triumph of those who opposed Oriental learning. It stated:
 
-Following the 1854 Despatch, several measures were introduced by the British. Education departments of the government were set up to extend control over all matters regarding education. Steps were taken to establish a system of university education. In 1857, while the sepoys rose in revolt in Meerut and Delhi, universities were being established in Calcutta, Madras and Bombay. Attempts were also made to bring about changes within the system of school education.
-
 We must emphatically declare that the education which we desire to see extended in India is that which has for its object the diffusion of the improved arts, services, philosophy, and literature of Europe, in short, European knowledge.
 
-Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions.  The demand for moral education The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
-
-> [caption] Fig. 5 Fig. 5 – Bombay University in the nineteenth century
-
 <!-- page 86 (pdf 6) -->
+
+The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
 
 Until 1813, the East India Company was opposed to missionary activities in India. It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India. Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company. A printing press was set up in 1800 and a college established in 1818.
 
 Over the nineteenth century, missionary schools were set up all over India. After 1857, however, the British government in India was reluctant to directly support missionary education. There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.
 
-> [caption] Fig. 6 Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission Fig. 7 Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+> [caption] Fig. 7 Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+
+The demand for moral education
+
+> [caption] Fig. 6 Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
 
 <!-- page 87 (pdf 7) -->
 
@@ -143,19 +145,19 @@ Adam discovered that this flexible system was suited to local needs. For instanc
 
 <!-- page 88 (pdf 8) -->
 
-### New routines, new rules
-
 Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
+
+> [caption] Fig. 9 Fig. 9 – Sri Aurobindo Ghose
+
+> [table] In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
+
+### New routines, new rules
 
 Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854 the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
 
 How was this to be done? What measures did the Company undertake? It appointed a number of government pandits, each in charge of looking after four to five schools. The task of the pandit was to visit the pathshalas and try and improve the standard of teaching. Each guru was asked to submit periodic reports and take classes according to a regular timetable. Teaching was now to be based on textbooks and learning was to be tested through a system of annual examination. Students were asked to pay a regular fee, attend regular classes, sit on fixed seats, and obey the new rules of discipline.
 
 Pathshalas which accepted the new rules were supported through government grants. Those who were unwilling to work within the new system received no government support. Over time gurus who wanted to retain their independence found it difficult to compete with the government aided and regulated pathshalas.
-
-> [caption] Fig. 9 Fig. 9 – Sri Aurobindo Ghose
-
-> [table] In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
 
 The new rules and routines had another consequence. In the earlier system children from poor peasant families had been able to go to pathshalas, since the timetable was flexible. The discipline of the new system demanded regular attendance, even during harvest time when children of poor families had to work in the fields. Inability to attend school came to be seen as indiscipline, as evidence of the lack of desire to learn.
 

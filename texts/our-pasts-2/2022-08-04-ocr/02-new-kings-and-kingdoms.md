@@ -221,8 +221,6 @@ Inscriptions and texts inscription lays down:
 
 All those who wish to become members of the sabha should be owners of land from which land revenue 1s collected.
 
-> [table] Do you think women participated in these assemblies? In your view are lotteries useful in choosing members of committees?
-
 They should have their own homes.
 
 They should be between 35 and 70 years of age.
@@ -236,6 +234,8 @@ If anyone has been a member of any committee in the last three years, he cannot 
 While inscriptions tell us about kings and powerful men, here is an excerpt from the Periyapuranam, a twelfth-century Tamil work, which informs us about the lives of ordinary men and women.
 
 On the outskirts of Adanur was a small hamlet of Pulatyas (a name used for a social group considered “outcastes” by Brahmanas and Vellalas), studded with small huts under old thatches and inhabited by agrarian labourers engaged in mental occupations. In the thresholds of the huts covered with strips of leather, little chickens moved about in groups; dark, children who wore bracelets of black iron were prancing about, carrying little puppies ... In the shade of the marudu (arjuna) trees, a female labourer put her baby to sleep on a sheet of leather; there were mango trees from whose branches drums were hanging; and under the coconut palms, in little hollows on the ground, tiny-headed bitches lay after whelping. The red-crested cocks crowed before dawn calling the brawny Pulatyar (plural) to their day’s work; and by day, under the shade of the Ranji tree spread the voice of the wavy-haired Pulatya women singing as they were husking paddy ...
+
+> [table] Do you think women participated in these assemblies? In your view are lotteries useful in choosing members of committees?
 
 > [table] Were there any Brahmanas in this hamlet?
 

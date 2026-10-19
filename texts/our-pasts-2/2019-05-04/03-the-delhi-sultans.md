@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch03.pdf"
 source_sha256: "927a24bcf26e30df6f7beef462184ab6fab3d5ad494d5b00b2bdfbb6af85b1be"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "35fa945daa1259dec3d3ce937e3bb2bf74e0847faab6c8fc8d8339ac55cb3c11"
+body_fingerprint: "3eb67780c092c94ec736b485eabb4b0888647d2bd34c38f3fab421621c9b0414"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -276,29 +276,23 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 
 <!-- page 44 (pdf 15) -->
 
+KEYWORDS iqta tarikh garrison
+
+Mongols gender kharaj
+
 ### Let’s understand
 
 5. According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
 
 6. What is meant by the “internal” and “external” frontiers of the Sultanate?
 
-KEYWORDS
-
 7. What were the steps taken to ensure that muqtis performed their duties? Why do you think they may have wanted to defy the orders of the Sultans?
-
-iqta
 
 8. What was the impact of the Mongol invasions on the Delhi Sultanate?
 
-tarikh garrison
-
 ### Let’s discuss
 
-Mongols gender
-
 9. Do you think the authors of tawarikh would provide information about the lives of ordinary men and women?
-
-kharaj
 
 10. Raziyya Sultan was unique in the history of the Delhi Sultanate. Do you think women leaders are accepted more readily today?
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch08.pdf"
 source_sha256: "111e1c414cff326cdee3541509d311b6cea1d736e8aa6448972dc186f63bf8a4"
 pdf_pages: 20
 printed_pages: "93-112"
-body_fingerprint: "0fb3800d7e502954400cb23274b3a193c733fa9460da5e62f2de8734271bbcd4"
+body_fingerprint: "6d2f9fc233848ef6a98abc142f1546978432e7ace80e5b6cd32c3949031145bd"
 ---
 
 <!-- page 93 (pdf 1) -->
@@ -49,13 +49,11 @@ This consciousness began to be clearly stated by the political associations form
 
 Note the name, “Poona Sarvajanik Sabha”. The literal meaning of “sarvajanik” is “of or for all the people” (sarva = all + janik = of the people). Though many of these associations functioned in specific parts of the country, their goals were stated as the goals of all the people of India, not those of any one region, community or class. They worked with the idea that the people should be sovereign – a modern consciousness and a key feature of nationalism. In other words, they believed that the Indian people should be empowered to take decisions regarding their affairs.
 
-Sovereign – The capacity to act independently without outside interference The dissatisfaction with British rule intensified in the 1870s and 1880s. The Arms Act was passed in 1878, disallowing Indians from possessing arms. In the same year, the Vernacular Press Act was also enacted in an effort to silence those who were critical of the government. The Act allowed the government to confiscate the assets of newspapers including their printing presses if the newspapers published anything that was found “objectionable”. In 1883, there was a furore over the attempt by the government to introduce the Ilbert Bill. The bill provided for the trial of British or European persons by Indians, and sought equality between British and Indian judges in the country. But when white opposition forced the government to withdraw the bill, Indians were enraged. The event highlighted the racial attitudes of the British in India.
+The dissatisfaction with British rule intensified in the 1870s and 1880s. The Arms Act was passed in 1878, disallowing Indians from possessing arms. In the same year, the Vernacular Press Act was also enacted in an effort to silence those who were critical of the government. The Act allowed the government to confiscate the assets of newspapers including their printing presses if the newspapers published anything that was found “objectionable”. In 1883, there was a furore over the attempt by the government to introduce the Ilbert Bill. The bill provided for the trial of British or European persons by Indians, and sought equality between British and Indian judges in the country. But when white opposition forced the government to withdraw the bill, Indians were enraged. The event highlighted the racial attitudes of the British in India.
+
+Sovereign – The capacity to act independently without outside interference The need for an all-India organisation of educated Indians had been felt since 1880, but the Ilbert Bill controversy deepened this desire. The Indian National Congress was established when 72 delegates from all over the country met at Bombay in December 1885. The early leadership – Dadabhai Naoroji, Pherozeshah Mehta, Badruddin Tyabji, W.C. Bonnerji, Surendranath Banerji, Romesh Chandra Dutt, S. Subramania Iyer, among others – was largely from Bombay and Calcutta. Naoroji, a businessman and publicist settled in London, and for a time member of the British Parliament, guided the younger nationalists. A retired British official, A.O. Hume, also played a part in bringing Indians from the various regions together.
 
 <!-- page 95 (pdf 3) -->
-
-The need for an all-India organisation of educated Indians had been felt since 1880, but the Ilbert Bill controversy deepened this desire. The Indian National Congress was established when 72 delegates from all over the country met at Bombay in December 1885. The early leadership – Dadabhai Naoroji, Pherozeshah Mehta, Badruddin Tyabji, W.C. Bonnerji, Surendranath Banerji, Romesh Chandra Dutt, S. Subramania Iyer, among others – was largely from Bombay and Calcutta. Naoroji, a businessman and publicist settled in London, and for a time member of the British Parliament, guided the younger nationalists. A retired British official, A.O. Hume, also played a part in bringing Indians from the various regions together.
-
-Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings
 
 > [table] Source 1
 
@@ -71,21 +69,17 @@ Badruddin Tyabji addressed the Congress as President in 1887 thus:
 
 this Congress is composed of the representatives, not of any one class or community of India, but of all the different communities of India.
 
+A nation in the making It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period, it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose, it called for civil service examinations to be held in India as well, not just in London.
+
+The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
+
 > [table] Fig. 2 – Dadabhai Naoroji
 
 > [table] Naoroji’s book Poverty and Un-British Rule in India offered a scathing criticism of the economic impact of British rule.
 
-A nation in the making It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period, it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose, it called for civil service examinations to be held in India as well, not just in London.
-
-Activity
-
-From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
-
-The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by white officials, and the British generally assumed that Indians could not be given positions of responsibility. Since British officers were sending a major part of their large salaries home, Indianisation, it was hoped, would also reduce the drain of wealth to England. Other demands included the separation of the judiciary from the executive, the repeal of the Arms Act and the freedom of speech and expression.
-
 <!-- page 96 (pdf 4) -->
 
-Repeal – To undo law; to officially end the validity of something such as a law The early Congress also raised a number of economic issues. It declared that British rule had led to poverty and famines: increase in the land revenue had impoverished peasants and zamindars, and exports of grains to Europe had created food shortages. The Congress demanded reduction of revenue, cut in military expenditure, and more funds for irrigation. It passed many resolutions on the salt tax, treatment of Indian labourers abroad, and the sufferings of forest dwellers – caused by an interfering forest administration. All this shows that despite being a body of the educated elite, the Congress did not talk only on behalf of professional groups, zamindars or industrialists.
+Repeal – To undo law; to officially end the validity of something such as a law
 
 > [table] Source 2
 
@@ -95,13 +89,17 @@ This is what a Moderate leader, Dinshaw Wacha, wrote to Naoroji in 1887:
 
 P h e r o z e s h a h i s nowadays too busy with his personal work … They are already r i c h e n o u g h … M r . T e l a n g t o o r em ains busy. I wonder how if all remain busy in the pursuit of gold can the progress of the country be advanced?
 
-The Moderate leaders wanted to develop public awareness about the unjust nature of British rule. They published newspapers, wrote articles, and showed how British rule was leading to the economic ruin of the country. They criticised British rule in their speeches and sent representatives to different parts of the country to mobilise public opinion. They felt that the British had respect for the ideals of freedom and justice, and so they would accept the just demands of Indians. What was necessary, therefore, was to express these demands, and make the government aware of the feelings of Indians.
-
 Activity
 
-“Freedom is our birthright” By the 1890s, many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
-
 What problems regarding the early Congress does this comment highlight?
+
+officials, and the British generally assumed that Indians could not be given positions of responsibility. Since British officers were sending a major part of their large salaries home, Indianisation, it was hoped, would also reduce the drain of wealth to England. Other demands included the separation of the judiciary from the executive, the repeal of the Arms Act and the freedom of speech and expression.
+
+The early Congress also raised a number of economic issues. It declared that British rule had led to poverty and famines: increase in the land revenue had impoverished peasants and zamindars, and exports of grains to Europe had created food shortages. The Congress demanded reduction of revenue, cut in military expenditure, and more funds for irrigation. It passed many resolutions on the salt tax, treatment of Indian labourers abroad, and the sufferings of forest dwellers – caused by an interfering forest administration. All this shows that despite being a body of the educated elite, the Congress did not talk only on behalf of professional groups, zamindars or industrialists.
+
+The Moderate leaders wanted to develop public awareness about the unjust nature of British rule. They published newspapers, wrote articles, and showed how British rule was leading to the economic ruin of the country. They criticised British rule in their speeches and sent representatives to different parts of the country to mobilise public opinion. They felt that the British had respect for the ideals of freedom and justice, and so they would accept the just demands of Indians. What was necessary, therefore, was to express these demands, and make the government aware of the feelings of Indians.
+
+“Freedom is our birthright” By the 1890s, many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
 
 <!-- page 97 (pdf 5) -->
 
@@ -113,27 +111,25 @@ The partition of Bengal infuriated people all over India. All sections of the Co
 
 <!-- page 98 (pdf 6) -->
 
-The Swadeshi movement sought to oppose British rule and encourage the ideas of self-help, swadeshi enterprise, national education, and use of Indian languages. To fight for swaraj, the radicals advocated mass mobilisation and boycott of British institutions and goods. Some individuals also began to suggest that “revolutionary violence” would be necessary to overthrow British rule.
-
-The opening decades of the twentieth century were marked by other developments as well. A group of Muslim landlords and nawabs formed the All India Muslim League at Dacca in 1906. The League supported the partition of Bengal. It desired separate electorates for Muslims, a demand conceded by the government in 1909. Some seats in the councils were now reserved for Muslims who would be elected by Muslim voters. This tempted politicians to gather a following by distributing favours to their own religious groups.
-
 > [caption] Fig. 5 – Lala Lajpat Rai
 
 > [table] A nationalist from Punjab, he was one of the leading members of the Radical group which was critical of the politics of petitions. He was also an active member of the Arya Samaj.
 
-Meanwhile, the Congress split in 1907. The Moderates were opposed to the use of boycott. They felt that it involved the use of force. After the split, the Congress came to be dominated by the Moderates with Tilak’s followers functioning from outside. The two groups reunited in December 1915. Next year, the Congress and the Muslim League signed the historic Lucknow Pact and decided to work together for representative government in the country.
+Revolutionary violence The use of violence to make a radical change within society Council – An appointed or elected body of people with an administrative, advisory or representative function Activity Find out which countries fought the First World War.
 
-Revolutionary violence The use of violence to make a radical change within society
+The Swadeshi movement sought to oppose British rule and encourage the ideas of self-help, swadeshi enterprise, national education, and use of Indian languages. To fight for swaraj, the radicals advocated mass mobilisation and boycott of British institutions and goods. Some individuals also began to suggest that “revolutionary violence” would be necessary to overthrow British rule.
+
+The opening decades of the twentieth century were marked by other developments as well. A group of Muslim landlords and nawabs formed the All India Muslim League at Dacca in 1906. The League supported the partition of Bengal. It desired separate electorates for Muslims, a demand conceded by the government in 1909. Some seats in the councils were now reserved for Muslims who would be elected by Muslim voters. This tempted politicians to gather a following by distributing favours to their own religious groups.
+
+Meanwhile, the Congress split in 1907. The Moderates were opposed to the use of boycott. They felt that it involved the use of force. After the split, the Congress came to be dominated by the Moderates with Tilak’s followers functioning from outside. The two groups reunited in December 1915. Next year, the Congress and the Muslim League signed the historic Lucknow Pact and decided to work together for representative government in the country.
 
 ## The Growth of Mass Nationalism
 
 After 1919, the struggle against British rule gradually became a mass movement, involving peasants, tribals, students and women in large numbers and occasionally factory workers as well. Certain business groups too began to actively support the Congress in the 1920s. Why was this so?
 
-Council – An appointed or elected body of people with an administrative, advisory or representative function The First World War altered the economic and political situation in India. It led to a huge rise in the defence expenditure of the Government of India. The government in turn increased taxes on individual incomes and business profits. Increased military expenditure and the demands for war supplies led to a sharp rise in prices which created great difficulties for the common people. On the other hand, business groups reaped fabulous profits from the war. As you have seen (Chapter 6), the war created a demand for industrial goods (jute bags, cloth, rails) and caused a decline of imports from other countries into India. So Activity Find out which countries fought the First World War.
+The First World War altered the economic and political situation in India. It led to a huge rise in the defence expenditure of the Government of India. The government in turn increased taxes on individual incomes and business profits. Increased military expenditure and the demands for war supplies led to a sharp rise in prices which created great difficulties for the common people. On the other hand, business groups reaped fabulous profits from the war. As you have seen (Chapter 6), the war created a demand for industrial goods (jute bags, cloth, rails) and caused a decline of imports from other countries into India. So Indian industries expanded during the war, and Indian business groups began to demand greater opportunities for development.
 
 <!-- page 99 (pdf 7) -->
-
-Indian industries expanded during the war, and Indian business groups began to demand greater opportunities for development.
 
 The war also lead the British to expand their army. Villages were pressurised to supply soldiers for an alien cause. A large number of soldiers were sent to serve abroad. Many returned after the war with an understanding of the ways in which imperialist powers were exploiting the peoples of Asia and Africa and with a desire to oppose colonial rule in India.
 
@@ -141,29 +137,35 @@ Furthermore, in 1917, there was a revolution in Russia. News about peasants’ a
 
 The advent of Mahatma Gandhi It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As you may know, Gandhiji, aged 46, arrived in India in 1915 from South Africa. Having led Indians in that country in non-violent marches against racist restrictions, he was already a respected leader, known internationally. His South African campaigns had brought him in contact with various types of Indians: Hindus, Muslims, Parsis and Christians; Gujaratis, Tamils and north Indians; and upper-class merchants, lawyers and workers.
 
-Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest interventions were in local movements in Champaran, Kheda and Ahmedabad where he came into contact with Rajendra Prasad and Vallabhbhai Patel. In Ahmedabad, he led a successful millworkers’ strike in 1918.
+Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
 > [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895 In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
 
 <!-- page 100 (pdf 8) -->
 
+> [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
+
+> [table] The people are pointing to the bullet marks on the wall.
+
+Knighthood – An honour granted by the British Crown for exceptional personal achievement or public service interventions were in local movements in Champaran, Kheda and Ahmedabad where he came into contact with Rajendra Prasad and Vallabhbhai Patel. In Ahmedabad, he led a successful millworkers’ strike in 1918.
+
 Let us now focus in some detail on the movements organised between 1919 and 1922.
 
 The Rowlatt Satyagraha In 1919, Gandhiji gave a call for a satyagraha against the Rowlatt Act that the British had just passed. The Act curbed fundamental rights such as the freedom of expression and strengthened police powers. Mahatma Gandhi, Mohammad Ali Jinnah and others felt that the government had no right to restrict people’s basic freedoms. They criticised the Act as “devilish” and tyrannical. Gandhiji asked the Indian people to observe 6 April 1919 as a day of non-violent opposition to this Act, as a day of “humiliation and prayer” and hartal (strike). Satyagraha Sabhas were set up to launch the movement.
 
-Activity
-
-Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
-
-> [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
-
 The Rowlatt Satyagraha turned out to be the first all-India struggle against the British government although it was largely restricted to cities. In April 1919, there were a number of demonstrations and hartals in the country and the government used brutal measures to suppress them. The Jallianwala Bagh atrocities, inflicted by General Dyer in Amritsar on Baisakhi day (13 April), were a part of this repression. On learning about the massacre, Rabindranath Tagore expressed the pain and anger of the country by renouncing his knighthood.
 
-> [table] The people are pointing to the bullet marks on the wall.
-
-Knighthood – An honour granted by the British Crown for exceptional personal achievement or public service During the Rowlatt Satyagraha, the participants tried to ensure that Hindus and Muslims were united in the fight against British rule. This was also the call of Mahatma Gandhi who always saw India as a land of all the people who lived in the country – Hindus, Muslims and those of other religions. He was keen that Hindus and Muslims support each other in any just cause.
-
 <!-- page 101 (pdf 9) -->
+
+During the Rowlatt Satyagraha, the participants tried to ensure that Hindus and Muslims were united in the fight against British rule. This was also the call of Mahatma Gandhi who always saw India as a land of all the people who lived in the country – Hindus, Muslims and those of other religions. He was keen that Hindus and Muslims support each other in any just cause.
+
+Khilafat agitation and the Non-Cooperation Movement The Khilafat issue was one such cause. In 1920, the British imposed a harsh treaty on the Turkish Sultan or Khalifa. People were furious about this as they had been about the Jallianwala massacre. Also, Indian Muslims were keen that the Khalifa be allowed to retain control over Muslim sacred places in the erstwhile Ottoman Empire. The leaders of the Khilafat agitation, Mohammad Ali and Shaukat Ali, now wished to initiate a full-fledged Non-Cooperation Movement. Gandhiji supported their call and urged the Congress to campaign against “Punjab wrongs” (Jallianwala massacre), the Khilafat wrong and demand swaraj.
+
+The Non-Cooperation Movement gained momentum through 1921–22. Thousands of students left government-controlled schools and colleges. Many lawyers such as Motilal Nehru, C.R. Das, C. Rajagopalachari and Asaf Ali gave up their practices. British titles were surrendered and legislatures boycotted. People lit public bonfires of foreign cloth. The imports of foreign cloth fell drastically between 1920 and 1922. But all this was merely the tip of the iceberg. Large parts of the country were on the brink of a formidable revolt.
+
+People’s initiatives In many cases, people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
+
+In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against the high land revenue demand of the British. In coastal Andhra and interior Tamil Nadu, liquor shops were picketed. In the Guntur district of Andhra Pradesh, tribals and poor peasants staged a number of “forest satyagrahas”, sometimes sending their cattle into forests without paying grazing fee. They were protesting because the colonial state
 
 > [table] Source 3
 
@@ -173,31 +175,25 @@ Knighthood – An honour granted by the British Crown for exceptional personal a
 
 What did Mahatma Gandhi mean by ahimsa (non-violence)? How could ahimsa become the basis of struggle? This is what Gandhiji said:
 
-Khilafat agitation and the Non-Cooperation Movement The Khilafat issue was one such cause. In 1920, the British imposed a harsh treaty on the Turkish Sultan or Khalifa. People were furious about this as they had been about the Jallianwala massacre. Also, Indian Muslims were keen that the Khalifa be allowed to retain control over Muslim sacred places in the erstwhile Ottoman Empire. The leaders of the Khilafat agitation, Mohammad Ali and Shaukat Ali, now wished to initiate a full-fledged Non-Cooperation Movement. Gandhiji supported their call and urged the Congress to campaign against “Punjab wrongs” (Jallianwala massacre), the Khilafat wrong and demand swaraj.
-
 Non-violence comes to us through doing good continually without the slightest expectation of return. … That is the indispensable lesson in non-violence … In South Africa … I succeeded in learning the eternal law of suffering as the only remedy for undoing wrong and injustice. It means positively the law of non-violence. You have to be prepared to suffer cheerfully at the hands of all and sundry and you will wish ill to no one, not even to those who may have wronged you.
-
-The Non-Cooperation Movement gained momentum through 1921–22. Thousands of students left government-controlled schools and colleges. Many lawyers such as Motilal Nehru, C.R. Das, C. Rajagopalachari and Asaf Ali gave up their practices. British titles were surrendered and legislatures boycotted. People lit public bonfires of foreign cloth. The imports of foreign cloth fell drastically between 1920 and 1922. But all this was merely the tip of the iceberg. Large parts of the country were on the brink of a formidable revolt.
-
-People’s initiatives In many cases, people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
 
 > [caption] Mahatma Gandhi,
 
 > [caption] 12 March 1938
 
-In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against the high land revenue demand of the British. In coastal Andhra and interior Tamil Nadu, liquor shops were picketed. In the Guntur district of Andhra Pradesh, tribals and poor peasants staged a number of “forest satyagrahas”, sometimes sending their cattle into forests without paying grazing fee. They were protesting because the colonial state Picket – People protesting outside a building or shop to prevent others from entering had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
 
 <!-- page 102 (pdf 10) -->
 
-Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
+> [caption] Fig. 8 – A popular representation of Mahatma Gandhi
+
+> [table] In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+
+In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
 
 In Punjab, the Akali agitation of the Sikhs sought to remove corrupt mahants – supported by the British – from their gurdwaras. This movement got closely identified with the Non-Cooperation Movement. In Assam, tea garden labourers, shouting “Gandhi Maharaj ki Jai”, demanded a big increase in their wages. They left the British-owned plantations amidst declarations that they were following Gandhiji’s wish. Interestingly, in the Assamese Vaishnava songs of the period, the reference to Krishna was substituted by “Gandhi Raja”.
 
-> [caption] Fig. 8 – A popular representation of Mahatma Gandhi
-
 The people’s Mahatma We can see from the above that sometimes people thought of Gandhiji as a kind of messiah, as someone who could help them overcome their misery and poverty. Gandhiji wished to build class unity, not class conflict, yet peasants could imagine that he would help them in their fight against zamindars, and agricultural labourers believed he would provide them land. At times, ordinary people credited Gandhiji with their own achievements. For instance, at the end of a powerful movement, peasants of Pratapgarh in the United Provinces (now Uttar Pradesh) managed to stop illegal eviction of tenants; but they felt it was Gandhiji who had won this demand for them. At other times, using Gandhiji’s name, tribals and peasants undertook actions that did not conform to Gandhian ideals.
-
-> [table] In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 <!-- page 103 (pdf 11) -->
 
@@ -211,23 +207,21 @@ The following is an extract from a CID report on the kisan movement in Allahabad
 
 The currency which Mr. Gandhi’s name has acquired even in the remotest villages is astonishing. No one seems to know quite who or what he is, but it is an accepted fact that what he says is so, and what he orders must be done. He is a Mahatma or sadhu, a Pundit, a Brahmin who lives at Allahabad, even a deota … the real power of his name is to be traced back to the idea that it was he who got bedakhli [illegal eviction] stopped in Pratapgarh … as a general rule, Gandhi is not thought of as being antagonistic to Government, but only to the zamindars … We are for Gandhiji and the Sarkar.
 
-Activity
-
-Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
-
 The happenings of 1922–1929 Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922, a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
 
 Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that the Congress must undertake constructive work in the rural areas. Other leaders such as Chitta Ranjan Das and Motilal Nehru argued that the party should fight elections to the councils and enter them in order to influence government policies. Through sincere social work in villages in the mid-1920s, the Gandhians were able to extend their support base. This proved to be very useful in launching the Civil Disobedience movement in 1930.
 
 Two important developments of the mid-1920s were the formation of the Rashtriya Swayamsevak Sangh (RSS), a Hindu organisation, and the Communist Party of India. These parties have held very different ideas about the kind of country India should be. Find out about their ideas with the help of your teacher. The revolutionary nationalist Bhagat Singh too was active in this period.
 
+Activity
+
+Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
+
 > [caption] Fig. 9 – Chitta Ranjan Das
 
 > [table] A major figure in the freedom movement, Das was a lawyer from East Bengal. He was especially active in the Non-Cooperation Movement.
 
 <!-- page 104 (pdf 12) -->
-
-> [caption] Fig. 10 – Demonstrators oppose the Simon Commission
 
 > [table] In 1927, the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived, it was met with demonstrations with banners saying “Simon Go Back”.
 
@@ -239,9 +233,9 @@ The decade closed with the Congress resolving to fight for Purna Swaraj (complet
 
 > [note] On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly. The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.
 
-> [caption] Fig. 11 – Bhagat Singh
-
 > [note] Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931. Bhagat Singh’s age at that time was only 23.
+
+> [caption] Fig. 10 – Demonstrators oppose the Simon Commission Fig. 11 – Bhagat Singh
 
 <!-- page 105 (pdf 13) -->
 
@@ -253,7 +247,7 @@ Gandhiji and his followers marched for over 240 miles from Sabarmati to the coas
 
 > [caption] Fig. 12 – Mahatma Gandhi breaking the salt law by picking up a lump of natural salt, Dandi, 6 April 1930
 
-Women in the freedom struggle: Ambabai from Karnataka Peasants, tribals and women participated in large numbers. A business federation published a pamphlet on the salt issue. The government tried to crush the movement through brutal action against peaceful satyagrahis. Thousands were sent to jail.
+Women in the freedom struggle: Ambabai from Karnataka Provincial autonomy Capacity of the provinces to make relatively independent decisions while remaining within a federation Peasants, tribals and women participated in large numbers. A business federation published a pamphlet on the salt issue. The government tried to crush the movement through brutal action against peaceful satyagrahis. Thousands were sent to jail.
 
 > [note] Women from diverse backgrounds participated in the national movement. Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes. Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.
 
@@ -265,13 +259,13 @@ Women in the freedom struggle: Ambabai from Karnataka Peasants, tribals and wome
 
 <!-- page 106 (pdf 14) -->
 
-The combined struggles of the Indian people bore fruit when the Government of India Act of 1935 prescribed provincial autonomy and the government announced elections to the provincial legislatures in 1937. The Congress formed governments in 7 out of 11 provinces.
-
-In September 1939, after two years of Congress rule in the provinces, the Second World War broke out. Critical of Hitler, Congress leaders were ready to support the British war effort. But in return they wanted that India be granted independence after the war. The British refused to concede the demand. The Congress ministries resigned in protest.
-
 > [caption] Fig. 13 – Sarojini Naidu with Mahatma Gandhi, Paris, 1931
 
 > [table] Active in the national movement since the early 1920s, Naidu was a significant leader of the Dandi March. She was the first Indian woman to become President of the Indian National Congress (1925).
+
+The combined struggles of the Indian people bore fruit when the Government of India Act of 1935 prescribed provincial autonomy and the government announced elections to the provincial legislatures in 1937. The Congress formed governments in 7 out of 11 provinces.
+
+In September 1939, after two years of Congress rule in the provinces, the Second World War broke out. Critical of Hitler, Congress leaders were ready to support the British war effort. But in return they wanted that India be granted independence after the war. The British refused to concede the demand. The Congress ministries resigned in protest.
 
 > [table] Source 5
 
@@ -284,8 +278,6 @@ On August 25, 1942 … nineteen people died on the spot in police firing at Papa
 Nayak, Baji tells us, was not worried about being executed, only sad that he would not live to see freedom’s dawn.
 
 Baji Mohammad mobilised 20,000 people to join the national struggle. He offered satyagraha many times over. He participated in protests against the Second World War and in the Quit India movement, and served long jail terms.
-
-Provincial autonomy Capacity of the provinces to make relatively independent decisions while remaining within a federation
 
 <!-- page 107 (pdf 15) -->
 
@@ -313,6 +305,10 @@ Towards Independence and Partition Meanwhile, in 1940 the Muslim League had move
 
 > [table] Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
+> [caption] Fig. 20 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
+
+> [table] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
+
 > [caption] Fig. 18 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
 > [table] A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
@@ -321,35 +317,35 @@ Towards Independence and Partition Meanwhile, in 1940 the Muslim League had move
 
 > [table] Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
 
-> [caption] Fig. 20 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
-
-> [table] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
-
 <!-- page 109 (pdf 17) -->
 
 From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion, it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More importantly, the provincial elections of 1937 seemed to have convinced the League that Muslims were a minority, and they would always have to play second fiddle in any democratic structure. It feared that Muslims may even go unrepresented. The Congress’s rejection of the League’s desire to form a joint Congress-League government in the United Provinces in 1937 also annoyed the League.
 
-“General”constituencies Election districts with no reservations for any religious or other community The Congress’s failure to mobilise the Muslim masses in the 1930s allowed the League to widen its social support. It sought to enlarge its support in the early 1940s when most Congress leaders were in jail. At the end of the war in 1945, the British opened negotiations between the Congress, the League and themselves for the independence of India. The talks failed because the League saw itself as the sole spokesperson of India’s Muslims. The Congress could not accept this claim since a large number of Muslims still supported it.
-
-> [table] Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
+The Congress’s failure to mobilise the Muslim masses in the 1930s allowed the League to widen its social support. It sought to enlarge its support in the early 1940s when most Congress leaders were in jail. At the end of the war in 1945, the British opened negotiations between the Congress, the League and themselves for the independence of India. The talks failed because the League saw itself as the sole spokesperson of India’s Muslims. The Congress could not accept this claim since a large number of Muslims still supported it.
 
 Elections to the provinces were again held in 1946. The Congress did well in the “General” constituencies but the League’s success in the seats reserved for Muslims was spectacular. It persisted with its demand for “Pakistan”. In March 1946, the British cabinet sent a three-member mission to Delhi to examine this demand and to suggest a suitable political framework for a free India. This mission suggested that India should remain united and constitute itself as a loose confederation with some autonomy for Muslim-majority areas. But it could not get the Congress and the Muslim League to agree to specific details of the proposal. Partition now became more or less inevitable.
 
 After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947, violence spread to different parts of northern India.
 
-Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
+Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien
+
+“General”constituencies Election districts with no reservations for any religious or other community
+
+> [table] Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
 > [caption] Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 
 <!-- page 110 (pdf 18) -->
 
-## Let’s recall
-
 ## Let’s imagine
 
-1. Why were people dissatisfied with British rule in the 1870s and 1880s?
-
 Imagine that you are involved in the Indian national movement. Based on your reading of this chapter, briefly discuss your preferred methods of struggle and your vision of a free India.
+
+lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
+
+## Let’s recall
+
+1. Why were people dissatisfied with British rule in the 1870s and 1880s?
 
 2. Who did the Indian National Congress wish to speak for?
 

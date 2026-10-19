@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf"
 source_sha256: "e6f9b0341a8d44a54b5dc123b888d147f979c15375bedff9bc68c724b8e9e36f"
 pdf_pages: 22
 printed_pages: "145-166"
-body_fingerprint: "f644b4e615b611c3bb51ac52a075d213dd03f83cac13d3104bc3d7fe93035e06"
+body_fingerprint: "3fba155728d12f877b46df6cbf8900496e1088edda269dfb1b7aac6f3fe03143"
 ---
 
 <!-- page 145 (pdf 1) -->
@@ -36,31 +36,27 @@ The Big
 
 <!-- page 146 (pdf 2) -->
 
-Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom. They had seen the splendid markets, taken a short trip on a ship, and met some Roman traders buying pearls. Now they were itching to use Itihāsa again and jump a few centuries. “What would that be like?” they wondered. “Will the cities be the same? What about the people and society — would they have changed? What kind of governance would they have? Would there be new literature, new art?” They could not wait to find out and were soon whisked away to …
+> [caption] Fig. 7.2. Empires and kingdoms during the period from 3rd to 6th century CE.
+
+EDhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom. They had seen the splendid markets, taken a short trip on a ship, and met some Roman traders buying pearls. Now they were itching to use Itihāsa again and jump a few centuries. “What would that be like?” they wondered. “Will the cities be the same? What about the people and society — would they have changed? What kind of governance would they have? Would there be new literature, new art?” They could not wait to find out and were soon whisked away to …
 
 > [caption] The Kāmarūpa kingdom was an important power that ruled in parts of modern-day Assam.
 
-> [caption] Kāmarūpa
+> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to Kāmarūpa Kingdom the 6th century CE, with its capital at Pāṭaliputra
 
-> [caption] Kingdom
+> [caption] (present-day Patna).
 
 > [caption] Vākāṭaka
 
 > [caption] Kingdom
 
-> [caption] With their capital at Kanchipuram, the Pallavas rose to power after the Sātavāhana dynasty and ruled till the latter half of the 9th century CE.
-
-> [caption] Fig. 7.2. Empires and kingdoms during the period from 3rd to 6th century CE.
-
-> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to the 6th century CE, with its capital at Pāṭaliputra
-
-> [caption] (present-day Patna).
-
 > [caption] The Vākāṭakas ruled in the central part of the subcontinent with their capital at Nandivardhana (near present-day Nagpur).
+
+> [caption] With their capital at Kanchipuram, the Pallavas rose to power after the Sātavāhana dynasty and ruled till the latter half of the 9th century CE.
 
 <!-- page 147 (pdf 3) -->
 
-EBhavisha: My head is spinning. There are so many kingdoms and empires. How am I ever going to remember all of this?
+Bhavisha: My head is spinning. There are so many kingdoms and empires. How am I ever going to remember all of this?
 
 Dhruv: Do not worry, Bhavisha! Let us understand what is happening, and we’ll remember it.
 
@@ -189,6 +185,8 @@ Take a political map of India and locate the present-day states and Union territ
 > [caption] Sea
 
 > [caption] Kānchīpura
+
+> [caption] Gupta Empire Important Cities
 
 > [caption] Fig. 7.8. The Gupta Empire’s extent. Note that the Vākāṭakas were the allies of the Guptas. The Guptas claim to have conquered parts of the east coast, down to the
 

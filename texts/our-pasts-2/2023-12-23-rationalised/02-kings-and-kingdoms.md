@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch02.pdf"
 source_sha256: "c7e77701576aa7a96e1566e836cf4b59094bf53d07820bed0fb26a0c7b9f4480"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "da6da518891f15e1c438a58a5cf182dfaae2bd17f7f820e275159b280cde81e4"
+body_fingerprint: "7641f68b45a275f7b3b610169a4d3a7a63bbfe6f3f3a6ec2929b78cb6ff0ac09"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -155,7 +155,7 @@ Rich peasants exercised considerable control over the affairs of the nadu under 
 
 ### Types of land
 
-> [note] Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam land donated to Jaina institutions
+> [note] Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam [unreadable] land donated to Jaina institutions
 
 We have seen that Brahmanas often received land grants or brahmadeya. As a result, a large number of Brahmana settlements emerged in the Kaveri valley as in other parts of south India.
 
@@ -219,15 +219,9 @@ Cholas Tamil Nadu
 
 ### Let’s discuss
 
-Keywords
-
 9. Look at Map 1 once more and find out whether there were any kingdoms in the state in which you live.
 
-samanta
-
-10. Contrast the “elections” in Uttaramerur with present-temple day panchayat elections.
-
-nadu sabha
+10. Contrast the “elections” in Uttaramerur with present-day panchayat elections.
 
 ### Let’s do
 
@@ -236,3 +230,5 @@ nadu sabha
 12. Find out more about taxes that are collected at present.
 
 Are these in cash, kind, or labour services?
+
+Keywords samanta temple nadu sabha

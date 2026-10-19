@@ -14,35 +14,41 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/prelims.pdf"
 
 ## for Class VIII
 
-<!-- page 21 (pdf 2) -->
+Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
-> [table] ISBN 978-93-5292-113-3
+> [caption] Raq
+
+<!-- page 21 (pdf 2) -->
 
 > [caption] First Edition March 2008 Chaitra 1929
 
-> [caption] ALL RIGHTS RESERVED
-
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
-
-> [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
-
-> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941 q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941
 
 > [table] PD 570T RPS
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT
-
-> [caption] © National Council of Educational Research and Training, 2008, 2019 NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] © National Council of Educational Research and Training, 2008, 2019
 
 > [table] ` 65.00
+
+> [caption] Printed on 80 GSM paper with NCERT watermark
+
+> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at New Bharat Offset Printers, B-16, Sector-6, Noida - 201 301 (U.P.)
+
+> [table] ISBN 978-93-5292-113-3
+
+> [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+
+> [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+
+> [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] Publication Team
 
 > [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Bibash Kumar Das Manager Assistant Production : Deepak Jaiswal Officer
 
-> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout
-
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at New Bharat Offset Printers, B-16, Sector-6, Noida - 201 301 (U.P.)
+> [caption] Cover and Layout
 
 > [caption] Arrt Creations
 
@@ -51,8 +57,6 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/prelims.pdf"
 <!-- page 21 (pdf 3) -->
 
 ### FOREWORD
-
-The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
 

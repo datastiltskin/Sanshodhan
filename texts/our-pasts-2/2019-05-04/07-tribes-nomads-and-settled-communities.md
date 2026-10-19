@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch07.pdf"
 source_sha256: "d88723a1d6ef3c06495a7e360c129943a14957b4ca6bb250ac0737693d0b0136"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "0f8bcdf51a0914da105f83b7853bc5f8987f75d9a785ff77a91ac0e0f3fe4760"
+body_fingerprint: "b76e4b4ee24cc4007512f4b0585c8261d1e7532760b3b1f4cc9ceed436863cae"
 ---
 
 <!-- page 91 (pdf 1) -->
@@ -180,7 +180,7 @@ You are a member of a nomadic community that shifts residence every three months
 
 1. Match the following:
 
-garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state Durgawati paik
+garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS varna jati tanda garh chaurasi barhot bhuiyans paik khel buranji census
 
 <!-- page 102 (pdf 12) -->
 
@@ -188,35 +188,19 @@ garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom stat
 
 (a) The new castes emerging within varnas were called ____________.
 
-KEYWORDS
-
 (b) _____________ were historical works written by the Ahoms.
-
-varna jati
 
 (c) The ____________ mentions that Garha Katanga had 70,000 villages.
 
-tanda garh
-
 (d) As tribal states became bigger and stronger, they gave land grants to _________ and ________.
-
-chaurasi barhot
 
 3. State whether true or false:
 
-bhuiyans
-
 (a) Tribal societies had rich oral traditions.
-
-paik
 
 (b) There were no tribal communities in the north-western part of the subcontinent.
 
-khel buranji
-
 (c) The chaurasi in Gond states contained several cities.
-
-census
 
 (d) The Bhils lived in the north-eastern part of the subcontinent.
 

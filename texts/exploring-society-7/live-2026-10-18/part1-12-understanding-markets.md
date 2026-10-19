@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf"
 source_sha256: "9fb8476d1480fcd2844b84d1cbd26c690c1ffaea0fc64c5d523d0973323e7687"
 pdf_pages: 26
 printed_pages: "247-272"
-body_fingerprint: "90bad4d41e82ce399283b3f8327ddc582c9dd2926a8363fb5b1d360cb58bd6d2"
+body_fingerprint: "9a541a8e20feabe69f7effde45ced275bef82a1324b1e73e1329ae93ca7ce791"
 ---
 
 <!-- page 247 (pdf 1) -->
@@ -188,35 +188,7 @@ International markets exist outside a nation’s boundary; the sellers in one co
 
 > [caption] North America
 
-> [caption] Middle-East
-
-> [caption] West
-
-> [caption] Atlantic Ocean
-
-> [caption] Atlantic Ocean
-
-> [caption] Asia India
-
-> [caption] India
-
-> [caption] Africa
-
-> [caption] Africa
-
-> [caption] South East Asia
-
-> [caption] South East Asia
-
-> [caption] South America
-
-> [caption] South America
-
-> [caption] Indian Ocean
-
-> [caption] Indian Ocean
-
-> [caption] 6.
+> [caption] "ef 8 CREE tf : Atlantic Ocean iy CT su oh Middle-East West Atlantic Ocean Asia India India Africa a : A South East Asia Africa South East Asia South America South America Indian Ocean Indian Ocean 6.
 
 > [caption] 5.
 
@@ -252,6 +224,8 @@ India was the world’s largest importer of vegetable oils like palm oil, sunflo
 
 > [caption] India’s exports:
 
+## eal
+
 > [caption] Pacific Ocean
 
 > [caption] Pacific Ocean
@@ -264,7 +238,7 @@ India was the world’s largest importer of vegetable oils like palm oil, sunflo
 
 Several participants play their role in the smooth functioning of the markets.
 
-> [table] Movement of Physical Goods in Markets
+> [table] Movement of Physical Goods in Markets TT cum ff) Finished
 
 > [caption] manufacture & converted into go to
 
@@ -272,19 +246,17 @@ Several participants play their role in the smooth functioning of the markets.
 
 > [caption] purchased by
 
-> [table] Finished
-
 > [table] Goods
 
 > [table] Producers
 
-> [caption] send to
+> [caption] La send to
 
-> [table] Mandis / Wholesale
+> [table] Mandis / Se Wholesale
 
 > [caption] reach
 
-> [table] Wholesalers Warehouses &
+> [table] Warehouses & Se Sy Wholesalers
 
 > [table] Distributors
 
@@ -292,13 +264,15 @@ Several participants play their role in the smooth functioning of the markets.
 
 > [table] Consumers
 
+> [caption] com
+
 > [table] Retailers
 
 > [caption] Fig. 12.11
 
 ### LET’S EXPLORE
 
-Observe the diagram and describe the flow of goods from the manufacturer / producer to the consumer. What is the role of the wholesaler and the retailer in the flow?
+ehObserve the diagram and describe the flow of goods from the manufacturer / producer to the consumer. What is the role of the wholesaler and the retailer in the flow?
 
 In the case of physical markets, wholesalers buy goods in large quantities from the producer or manufacturer of the product. For example, grains, vegetables, and fruits are bought by wholesalers directly from the farms. The produce is then stored in large warehouses called godowns. In the case of perishables, the warehouses Fig. 12.12. Cold storage facility for vegetables ​ may also have cold s torage facilities. They are then brought to markets called mandīs.
 
@@ -342,7 +316,7 @@ The Surat textile market consists of thousands of factories manu-facturing cotto
 
 <!-- page 261 (pdf 15) -->
 
-The finished product from the fabric is traded by the manufacturing units in the wholesale market. The wholesalers are an important channel of supply as they oversee the distribution of products to small shopkeepers and big retail stores across the country and internationally. They also assess how much product is required by retailers. This helps maintain the stock of products with the manufacturers and ensures an uninterrupted supply of products to the end consumers.
+The finished product from the fabric is traded by the manufacturing units in the wholesale market. The wholesalers are an important channel of supply as they oversee the distribution of products to small shopkeepers and big retail stores across the country and internationally. They also assess how much product is required by retailers. This helps maintain the stock of products with the manufacturers and ensures an uninterrupted supply of products to the end consumers. vs Cc, er, pes pe fos ‘ as AS co nd om al NG oe at ate il Me Se Ask your nearest retailer about a product, its place of origin, and the chain of suppliers in the process of the product reaching the shop. Trace this using a flow chart like Fig. 12.11 and share it in class.
 
 > [caption] 70°E
 
@@ -389,8 +363,6 @@ The finished product from the fabric is traded by the manufacturing units in the
 > [caption] Fig. 12.25. A wholesaler’s warehouse of fabric
 
 ### LET’S EXPLORE
-
-Ask your nearest retailer about a product, its place of origin, and the chain of suppliers in the process of the product reaching the shop. Trace this using a flow chart like Fig. 12.11 and share it in class.
 
 ### DON’T MISS OUT
 

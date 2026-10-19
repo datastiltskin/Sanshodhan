@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf"
 source_sha256: "f28e28634f62926ca8f00338cc3951e390ece3cd8557e6c871c043bbe3ea739d"
 pdf_pages: 34
 printed_pages: "83-116"
-body_fingerprint: "bc696fe2793ebe4d1322a27201a958905ab03201cc0da5aaca4705273eb8544f"
+body_fingerprint: "c19e7f51d9e880597b797bad088663061e6d2c8159b6373f712ed097446eb412"
 ---
 
 <!-- page 83 (pdf 1) -->
@@ -100,21 +100,13 @@ Indian history is full of empires. They rose, expanded, lasted for a while, decl
 
 > [table] 01
 
-> [table] Maintains an army to keep the tributary states under control, expand the empire 06 02 or protect it from outside aggression Designs and maintains an administration, with Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
+> [table] Maintains an army to keep the tributary states under control, le 2 an or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02 Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
 
 Emperor exerts central authority over the empire's tributary territories and kings Æ Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 > [table] and order, etc.
 
-> [table] trade and people’s welfare
-
-> [table] 05
-
-> [table] 03
-
-> [table] Makes laws, issues currencies, weights
-
-> [table] Encourages art, literature, religions, and measures, regulates trade schools of thought, 04 centres of learning Controls and regulates access to resources (mines, forest and agricultural produce, manpower)
+> [table] trade and people’s welfare a sae Encourages art, literature, religions, 05 03 Makes laws, issues currencies, weights and measures, regulates trade ja Controls and regulates access schools of thought, 04 centres of learning to resources (mines, forest and agricultural produce, manpower)
 
 <!-- page 89 (pdf 7) -->
 
@@ -136,13 +128,13 @@ Fig. 5.4.1. Trained armies were deployed to conquer neighbouring kingdoms, maint
 
 <!-- page 90 (pdf 8) -->
 
-Fig. 5.4.2. Fortified settlements would be built in strategic places, such as the empire’s borders.
-
 Fig. 5.4.3. To expand into an empire, a kingdom might first wage war against neighbouring territories so as to conquer them.
 
-Fig. 5.4.4. Rulers endeavoured to control rivers and trade networks as that would give them control over precious resources, apart from tax revenue from the trade.
-
 Fig. 5.4.5. With many smaller kingdoms warring for control, the one with access to stronger military power and surplus resources would eventually become the overlord.
+
+Fig. 5.4.2. Fortified settlements would be built in strategic places, such as the empire’s borders.
+
+Fig. 5.4.4. Rulers endeavoured to control rivers and trade networks as that would give them control over precious resources, apart from tax revenue from the trade.
 
 <!-- page 91 (pdf 9) -->
 
@@ -273,6 +265,8 @@ While events unfolded in Magadha, located in the eastern part of the subcontinen
 > [caption] Persepolis
 
 > [caption] Babylon
+
+## if
 
 > [caption] Fig. 5.9
 
@@ -677,3 +671,5 @@ After reading the above edict of Aśhoka, do you think he was tolerant towards o
 9. Suppose you had to travel from Kauśhāmbī to Kāveripattanam in the 3rd century BCE. How would you undertake this journey, and how long would you expect it to take, with reasonable halts on the way?
 
 <!-- page 116 (pdf 34) -->
+
+> [caption] XN aN yN

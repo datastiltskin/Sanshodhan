@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch10.pdf"
 source_sha256: "efac9e88284699ee786ad6173a96a50abae5aa2e3ebb27040590be04f574634c"
 pdf_pages: 17
 printed_pages: "138-154"
-body_fingerprint: "0b302426c1327a7d83402ff37e1503356e70f8837fd79632dee8bb9103731852"
+body_fingerprint: "7a0ef1f81cd834440e95639e83b7a993da6e6e17aed9e9024cc469a92afe36ba"
 ---
 
 <!-- page 138 (pdf 1) -->
@@ -132,13 +132,13 @@ These influential Rajput families claimed the subadari of the rich provinces of 
 
 <!-- page 147 (pdf 10) -->
 
-> [caption] Fig. 4b. Chittorgarh Fort, Rajasthan
-
 from the 1740s put severe pressure on these principalities and checked their further expansion.
 
 ### Raja Jai Singh of Jaipur
 
 > [source] A description of Raja Jai Singh in a Persian account of 1732: Raja Jai Singh was at the height of his power. He was the governor of Agra for 12 years and of Malwa for 5 or 6 years. He possessed a large army, artillery and great wealth. His sway extended from Delhi to the banks of the Narmada.
+
+> [caption] Fig. 4b. Chittorgarh Fort, Rajasthan
 
 > [caption] Fig. 4c Jantar Mantar in Jaipur
 
@@ -222,23 +222,15 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 
 1. Match the following:
 
-subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl Maratha peasant warriors chauth a Mughal military commander kunbis a band of Sikh warriors KEYWORDS umara tax levied by the Marathas
+subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl Maratha peasant warriors chauth a Mughal military commander kunbis a band of Sikh warriors umara tax levied by the Marathas
 
 2. Fill in the blanks:
 
-subadari
-
 (a) Aurangzeb fought a protracted war in the ____________________.
-
-dal khalsa misl
 
 (b) Umara and jagirdars constituted powerful sections of the Mughal __________________.
 
-faujdari ijaradari
-
 (c) Asaf Jah founded the Hyderabad state in _____________________.
-
-chauth sardeshmukhi
 
 (d) The founder of the Awadh state was ______________________.
 
@@ -253,6 +245,8 @@ chauth sardeshmukhi
 (d) Poona became the capital of the Marathas in the eighteenth century.
 
 4. What were the offices held by Sa‘adat Khan?
+
+KEYWORDS subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
 
 <!-- page 154 (pdf 17) -->
 

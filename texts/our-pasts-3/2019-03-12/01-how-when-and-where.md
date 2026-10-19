@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch01.pdf"
 source_sha256: "46a81ac9db9b48736a3bd3f1104bb5d1c57878df43197b91ea4af4da502956ab"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "b75bddf4ef510c2671d9e02b9b7d0c9758405e6f5f79920afc29595c7890426e"
+body_fingerprint: "0671ea491d60da509eeb05dc14edc665a6f75b223acb61681c5c76983dcfe143"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -21,8 +21,6 @@ There was a time when historians were fascinated with dates. There were heated d
 History is certainly about changes that occur over time. It is about finding out how things were in the past and how things have changed. As soon as we compare the past with the present we refer to time, we talk of “before” and “after”.
 
 Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall you may wonder – when did people begin to drink tea or coffee? Looking out of the window of a train you may ask yourself – when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.
-
-2018-19
 
 > [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
@@ -38,7 +36,7 @@ As you have seen in the history textbooks of the past two years, historians now 
 
 By what criteria do we choose a set of dates as important? The dates we select, the dates around which we compose our story of the past, are not important on their own. They become vital because we focus on a particular set of events as important. If our focus of study changes, if we begin to look at new issues, a new set of dates will appear significant.
 
-Consider an example. In the histories written by British historians in India, the rule of each Governor-General was important. These histories began with the rule of the first Governor-General, Warren Hastings, and ended with the last Viceroy, Lord Mountbatten. In separate chapters we read about the deeds of others – 2018-19 Hastings, Wellesley, Bentinck, Dalhousie, Canning, Lawrence, Lytton, Ripon, Curzon, Harding, Irwin. It was a seemingly never-ending succession of Governor-Generals and Viceroys. All the dates in these history books were linked to these personalities – to their activities, policies, achievements. It was as if there was nothing outside their lives that was important for us to know. The chronology of their lives marked the different chapters of the history of British India.
+Consider an example. In the histories written by British historians in India, the rule of each Governor-General was important. These histories began with the rule of the first Governor-General, Warren Hastings, and ended with the last Viceroy, Lord Mountbatten. In separate chapters we read about the deeds of others – Hastings, Wellesley, Bentinck, Dalhousie, Canning, Lawrence, Lytton, Ripon, Curzon, Harding, Irwin. It was a seemingly never-ending succession of Governor-Generals and Viceroys. All the dates in these history books were linked to these personalities – to their activities, policies, achievements. It was as if there was nothing outside their lives that was important for us to know. The chronology of their lives marked the different chapters of the history of British India.
 
 > [caption] Fig. 2 – Advertisements help create taste Old advertisements help us understand how markets for new products were created and new tastes were popularised. This 1922 advertisement for Lipton tea suggests that royalty all over the world is associated with this tea. In the background you see the outer wall of an Indian palace, while in the foreground, seated on horseback is the third son of Queen Victoria of Britain, Prince Arthur, who was given the title Duke of Connaught.
 
@@ -54,7 +52,7 @@ In 1817, James Mill, a Scottish economist and political philosopher, published a
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated 2018-19 social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
 
 > [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773 While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
 
@@ -74,8 +72,6 @@ In this book you will read about the way the British came to conquer the country
 
 You will, however, find that all classes and groups did not experience these changes in the same way. That is why the book is called Our Pasts in the plural.
 
-2018-19
-
 <!-- page 5 (pdf 5) -->
 
 What sources do historians use in writing about the last 250 years of Indian history?
@@ -92,8 +88,6 @@ In the early years of the nineteenth century these documents were carefully copi
 
 > [table] When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
 
-2018-19
-
 <!-- page 6 (pdf 6) -->
 
 ### Surveys become important
@@ -102,15 +96,15 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-> [caption] Botanical gardens and natural history museums established by the British collected plant specimens and information about their uses. Local artists were asked to draw pictures of these specimens. Historians are now looking at the way such information was gathered and what this information reveals about the nature of colonialism.
-
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what 2018-19 they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
 > [table] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
 
 > [caption] Fig. 5 – A custard-apple plant, 1770s
+
+> [caption] Botanical gardens and natural history museums established by the British collected plant specimens and information about their uses. Local artists were asked to draw pictures of these specimens. Historians are now looking at the way such information was gathered and what this information reveals about the nature of colonialism.
 
 <!-- page 7 (pdf 7) -->
 
@@ -124,13 +118,9 @@ All these sources, however, were produced by those who were literate. From these
 
 Yet this can be done, if we make a little bit of effort. When you read this book you will see how this can be done.
 
-2018-19
-
 <!-- page 8 (pdf 8) -->
 
 1. State whether true or false:
-
-Imagine that you are a historian wanting to find out about how agriculture changed in a remote tribal area after independence. List the different ways in which you would find information on this.
 
 (a) James Mill divided Indian history into three periods – Hindu, Muslim, Christian.
 
@@ -146,4 +136,4 @@ Imagine that you are a historian wanting to find out about how agriculture chang
 
 5. Can you think of examples of surveys in your world today? Think about how toy companies get information about what young people enjoy playing with or how the government finds out about the number of young people in school. What can a historian derive from such surveys?
 
-2018-19
+Imagine that you are a historian wanting to find out about how agriculture changed in a remote tribal area after independence. List the different ways in which you would find information on this.

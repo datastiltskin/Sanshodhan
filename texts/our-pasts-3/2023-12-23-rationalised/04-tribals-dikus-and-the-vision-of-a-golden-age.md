@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch04.pdf"
 source_sha256: "cf8d36f7be8bc0c0c326a29eaabb86986d7574d455c7d796046174a385c9fcf0"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "60f481b5c2f3d7b017f63843b8c40d5b5e4c0d6566ebedf3649777427b8634d9"
+body_fingerprint: "d4c9bc7a4696d0b1b48e428504029b6ede3d47d59f521b4ae93cedfd5a2bd1a4"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -29,17 +29,17 @@ You have read about tribal societies last year. Most tribes had customs and ritu
 
 <!-- page 40 (pdf 2) -->
 
+Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that is eaten or used to make alcohol
+
+> [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
+
 ## How did Tribal Groups Live?
 
 By the nineteenth century, tribal people in different parts of India were involved in a variety of activities.
 
-Some were jhum cultivators Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Fallow – A field left uncultivated for a while so that the soil recovers fertility Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
+Some were jhum cultivators Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
 
-Sal – A tree
-
-Mahua – A flower that is eaten or used to make alcohol Some were hunters and gatherers In many regions, tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
-
-> [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
+Some were hunters and gatherers In many regions, tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
 
 <!-- page 41 (pdf 3) -->
 
@@ -77,7 +77,7 @@ Look carefully at the tasks that Baiga men and women did. Do you see any pattern
 
 Some took to settled cultivation Even before the nineteenth century, many from within the tribal groups had begun settling down, and cultivating their fields in one place year after year, instead of moving from place to place. They began to use the plough, and gradually got rights over the land they lived on. In many cases, like the Mundas of Chottanagpur, the land belonged to the clan as a whole. All members of the clan were regarded as descendants of the original settlers, who had first cleared the land. Therefore, all of them had rights on the land. Very often some people within the clan acquired more power than others, some became chiefs and others followers. Powerful men often rented out their land instead of cultivating it themselves.
 
-Bewar – A term used in Madhya Pradesh for shifting cultivation British officials saw settled tribal groups like the Gonds and Santhals as more civilised than hunter-gatherers or shifting cultivators. Those who lived in the forests were considered to be wild and savage: they needed to be settled and civilised.
+British officials saw settled tribal groups like the Gonds and Santhals as more civilised than hunter-gatherers or shifting cultivators. Those who lived in the forests were considered to be wild and savage: they needed to be settled and civilised.
 
 ## How did Colonial Rule Affect Tribal Lives?
 
@@ -85,9 +85,9 @@ The lives of tribal groups changed during British rule. Let us see what these ch
 
 What happened to tribal chiefs? Before the arrival of the British, in many areas the tribal chiefs were important people. They enjoyed a certain amount of economic power and had the right to administer and control their territories. In some places they had their own police and decided on the local rules of land and forest management. Under British rule, the functions and powers of the tribal chiefs changed considerably. They were allowed to keep their land titles over a cluster of villages and rent out lands, but they lost much of their administrative power and were forced to follow laws made by British officials in India. They also had to pay tribute to the British, and discipline the tribal groups on behalf of the British. They lost the authority they had earlier enjoyed amongst their people, and were unable to fulfil their traditional functions.
 
-> [caption] Fig. 5 – A log house being built in a village of the Nyishi tribes of Arunachal Pradesh.
+What happened to the shifting cultivators? The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal Bewar – A term used in Madhya Pradesh for shifting cultivation groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
 
-What happened to the shifting cultivators? The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
+> [caption] Fig. 5 – A log house being built in a village of the Nyishi tribes of Arunachal Pradesh.
 
 <!-- page 44 (pdf 6) -->
 
@@ -133,25 +133,23 @@ Hazaribagh, in present-day Jharkhand, was an area where the Santhals reared coco
 
 <!-- page 47 (pdf 9) -->
 
-> [caption] Fig. 10 – Coal miners of Bihar, 1948
-
-> [table] In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
-
 The search for work The plight of the tribals who had to go far away from their homes in search of work was even worse. From the late nineteenth century, tea plantations started coming up and mining became an important industry. Tribals were recruited in large numbers to work at the tea plantations of Assam and the coal mines of Jharkhand. They were recruited through contractors who paid them miserably low wages, and prevented them from returning home.
-
-Activity
-
-Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
 
 ## A Closer Look
 
 Through the nineteenth and twentieth centuries, tribal groups in different parts of the country rebelled against the changes in laws, the restrictions on their practices, the new taxes they had to pay, and the exploitation by traders and moneylenders. The Kols rebelled in 1831–32, Santhals rose in revolt in 1855, the Bastar Rebellion in central India broke out in 1910 and the Warli Revolt in Maharashtra in 1940. The movement that Birsa led was one such movement.
 
+> [caption] Fig. 10 – Coal miners of Bihar, 1948
+
+> [table] In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
+
+Activity
+
+Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
+
 <!-- page 48 (pdf 10) -->
 
 > [table] Source 3
-
-Birsa Munda Birsa was born in the mid-1870s. The son of a poor father, he grew up around the forests of Bohonda, grazing sheep, playing the flute, and dancing in the local akhara. Forced by poverty, his father had to move from place to place looking for work. As an adolescent, Birsa heard tales of the Munda uprisings of the past and saw the sirdars (leaders) of the community urging the people to revolt. They talked of a golden age when the Mundas had been free of the oppression of dikus, and said there would be a time when the ancestral right of the community would be restored. They saw themselves as the descendants of the original settlers of the region, fighting for their land (mulk ki larai), reminding people of the need to win back their kingdom.
 
 ## ‘Blood trickles from my shoulders’
 
@@ -159,17 +157,19 @@ The songs the Mundas sang bemoaned their misery.
 
 Alas! under [the drudgery of] forced labour Blood trickles from my shoulders Day and night the emissary from the zamindars, Annoys and irritates me, day and night I groan Alas! This is my condition I do not have a home, where shall I get happiness Alas!
 
-Birsa went to the local missionary school, and listened to the sermons of missionaries. There too he heard it said that it was possible for the Mundas to attain the Kingdom of Heaven, and regain their lost rights. This would be possible if they became good Christians and gave up their “bad practices”. Later Birsa also spent some time in the company of a prominent Vaishnav preacher. He wore the sacred thread, and began to value the importance of purity and piety.
-
-Birsa was deeply influenced by many of the ideas he came in touch with in his growing-up years. His movement was aimed at reforming tribal society. He urged the Mundas to give up drinking liquor, clean their village, and stop believing in witchcraft and sorcery. But we must remember that Birsa also turned against missionaries and Hindu landlords. He saw them as outside forces that were ruining the Munda way of life.
-
 > [table] K.S. Singh, Birsa Munda and
 
 > [table] His Movement, p.12.
 
-In 1895, Birsa urged his followers to recover their glorious past. He talked of a golden age in the past – a satyug (the age of truth) – when Mundas lived a good life, constructed embankments, tapped natural springs, planted trees and orchards, practised cultivation to earn their living. They did not kill their brethren and relatives. They lived honestly. Birsa also wanted people to once again work on their land, settle down and cultivate their fields.
-
 Vaishnav – Worshippers of Vishnu
+
+Birsa Munda Birsa was born in the mid-1870s. The son of a poor father, he grew up around the forests of Bohonda, grazing sheep, playing the flute, and dancing in the local akhara. Forced by poverty, his father had to move from place to place looking for work. As an adolescent, Birsa heard tales of the Munda uprisings of the past and saw the sirdars (leaders) of the community urging the people to revolt. They talked of a golden age when the Mundas had been free of the oppression of dikus, and said there would be a time when the ancestral right of the community would be restored. They saw themselves as the descendants of the original settlers of the region, fighting for their land (mulk ki larai), reminding people of the need to win back their kingdom.
+
+Birsa went to the local missionary school, and listened to the sermons of missionaries. There too he heard it said that it was possible for the Mundas to attain the Kingdom of Heaven, and regain their lost rights. This would be possible if they became good Christians and gave up their “bad practices”. Later Birsa also spent some time in the company of a prominent Vaishnav preacher. He wore the sacred thread, and began to value the importance of purity and piety.
+
+Birsa was deeply influenced by many of the ideas he came in touch with in his growing-up years. His movement was aimed at reforming tribal society. He urged the Mundas to give up drinking liquor, clean their village, and stop believing in witchcraft and sorcery. But we must remember that Birsa also turned against missionaries and Hindu landlords. He saw them as outside forces that were ruining the Munda way of life.
+
+In 1895, Birsa urged his followers to recover their glorious past. He talked of a golden age in the past – a satyug (the age of truth) – when Mundas lived a good life, constructed embankments, tapped natural springs, planted trees and orchards, practised cultivation to earn their living. They did not kill their brethren and relatives. They lived honestly. Birsa also wanted people to once again work on their land, settle down and cultivate their fields.
 
 What worried British officials most was the political aim of the Birsa movement, for it wanted to drive out missionaries, moneylenders, Hindu landlords, and the government and set up a Munda Raj with Birsa at its head. The movement identified all these forces as the cause of the misery the Mundas were suffering.
 
@@ -197,13 +197,13 @@ In 1900, Birsa died of cholera and the movement faded out. However, the movement
 
 <!-- page 50 (pdf 12) -->
 
-2. State whether true or false:
-
 ## Let’s imagine
 
-(a) Jhum cultivators plough the land and sow seeds.
-
 Imagine you are a jhum cultivator living in a forest village in the nineteenth century. You have just been told that the land you were born on no longer belongs to you. In a meeting with British officials you try to explain the kinds of problems you face. What would you say?
+
+2. State whether true or false:
+
+(a) Jhum cultivators plough the land and sow seeds.
 
 (b) Cocoons were bought from the Santhals and sold by the traders at five times the purchase price.
 

@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch06.pdf"
 source_sha256: "b983a28bfc030939e289043f4b3d81994d9a1438e54214e487fbe4ff1e207cf5"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "66201d45b1b33a673e9049b197093d3b3d5e6c500e0d18dcc731ca56a4d2bf32"
+body_fingerprint: "7a6b499f964c8aa974742d19824085c6fe40b0feaedf06ed075fec928948559a"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -27,9 +27,7 @@ When India became independent in August 1947, it faced a series of very great ch
 
 <!-- page 161 (pdf 2) -->
 
-hIndia’s population in 1947 was large, almost 345 million. It was also divided. There were divisions between high castes and low castes, between the majority Hindu community and Indians who practised other faiths. The citizens of this vast land spoke many different languages, wore many different kinds of dress, ate different kinds of food and practised different professions. How could they be made to live together in one nation-state?
-
-Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
+India’s population in 1947 was large, almost 345 million. It was also divided. There were divisions between high castes and low castes, between the majority Hindu community and Indians who practised other faiths. The citizens of this vast land spoke many different languages, wore many different kinds of dress, ate different kinds of food and practised different professions. How could they be made to live together in one nation-state?
 
 To the problem of unity was added the problem of development. At Independence, the vast majority of Indians lived in the villages. Farmers and peasants depended on the monsoon for their survival. So did the non-farm sector of the rural economy, for if the crops failed, barbers, carpenters, weavers and other service groups would not get paid for their services either. In the cities, factory workers lived in crowded slums with little access to education or health care. Clearly, the new nation had to lift its masses out of poverty by increasing the productivity of agriculture and by promoting new, job-creating industries.
 
@@ -39,7 +37,9 @@ Unity and development had to go hand in hand. If the divisions between different
 
 Between December 1946 and November 1949, some three hundred Indians had a series of meetings on the country’s political future. The meetings of this “Constituent Assembly” were held in New Delhi, but the participants came from all over India, and from different political parties. These discussions resulted in the framing of the Indian Constitution, which was adopted on 26 January 1950.
 
-One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and Franchise – The right to vote the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
+One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and hActivity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
+
+Franchise – The right to vote the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
 
 <!-- page 162 (pdf 3) -->
 
@@ -53,6 +53,10 @@ A third feature of the Constitution was that it offered special privileges for t
 
 <!-- page 163 (pdf 4) -->
 
+We were suppressed for thousands of years. You engaged us in your service to serve your own ends and suppressed us to such an extent that neither our minds nor our bodies and nor even our hearts work, nor are we able to march forward. Along with the former Untouchables, the adivasis or Scheduled Tribes were also granted reservation in seats and jobs. Like the Scheduled Castes, these Indians too had been deprived and discriminated against. The tribals had been deprived of modern health care and education, while their lands and forests had been taken away by more powerful outsiders. The new privileges granted them by the Constitution were meant to make amends for this.
+
+The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that
+
 > [table] Source 1
 
 ## We must give them
@@ -63,13 +67,15 @@ Nehru wrote in a letter to the Chief Ministers of states:
 
 ... we have a Muslim minority who are so large in numbers that they cannot, even if they want, go anywhere else. That is a basic fact about which there can be no argument. Whatever the provocation from Pakistan and whatever the indignities and horrors inflicted on non-Muslims there, we have got to deal with this minority in a civilised manner. We must give them security and the rights of citizens in a democratic State.
 
-We were suppressed for thousands of years. You engaged us in your service to serve your own ends and suppressed us to such an extent that neither our minds nor our bodies and nor even our hearts work, nor are we able to march forward. Along with the former Untouchables, the adivasis or Scheduled Tribes were also granted reservation in seats and jobs. Like the Scheduled Castes, these Indians too had been deprived and discriminated against. The tribals had been deprived of modern health care and education, while their lands and forests had been taken away by more powerful outsiders. The new privileges granted them by the Constitution were meant to make amends for this.
-
 hActivity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
 
-The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that
-
 <!-- page 164 (pdf 5) -->
+
+> [caption] Fig. 3 – Dr B.R. Ambedkar
+
+> [table] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
+
+hActivity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
 “the initial responsibility for the well-being of the people of the provinces should rest with the Provincial Governments”.
 
@@ -77,13 +83,7 @@ The Constitution sought to balance these competing claims by providing three lis
 
 Another major debate in the Constituent Assembly concerned language. Many members believed that the English language should leave India with the British rulers. Its place, they argued, should be taken by Hindi. However, those who did not speak Hindi were of a different opinion. Speaking in the Assembly, T.T. Krishnamachari conveyed “a warning on behalf of people of the South”, some of whom threatened to separate from India if Hindi was imposed on them. A compromise was finally arrived at: namely, that while Hindi would be the “official language” of India, English would be used in the courts, the services, and communications between one state and another.
 
-> [caption] Fig. 3 – Dr B.R. Ambedkar
-
-> [table] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
-
-Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was hActivity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
-
-going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
+Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
 <!-- page 165 (pdf 6) -->
 
@@ -133,15 +133,15 @@ Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear i
 
 > [table] Bridges and dams became the symbol of development in independent India.
 
-## Planning for Development
-
 State – Concerned with the government. (Note that used in this sense, the word does not refer to the different states which are found in a country.)
-
-Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
 
 > [caption] Fig. 7 – Work going on at the Gandhi Sagar bandh
 
 > [table] This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
+
+## Planning for Development
+
+Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
 
 In 1956, the Second Five Year Plan was formulated. This focused strongly on the development of heavy industries such as steel, and on the building of large dams. These sectors would be under the control of the State. This focus on heavy industry, and the effort at state regulation of the economy was to guide economic policy for the next few decades. This approach had many strong supporters, but also some vocal critics.
 
@@ -165,21 +165,21 @@ Discuss in your class whether Mira Behn was right in her view that science and m
 
 <!-- page 170 (pdf 11) -->
 
-The search for an independent foreign policy
-
-> [note] India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
-
 > [caption] Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations
 
 > [table] Krishna Menon led the Indian delegation to the UN between 1952 and 1962 and argued for a policy of non-alignment.
 
-> [note] Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war — often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
-
-> [note] By the 1970s, a large number of countries had joined the non-aligned movement.
-
 > [caption] Fig. 10 – Leaders of Asian and African countries meet at Bandung, Indonesia 1955
 
 > [table] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
+
+The search for an independent foreign policy
+
+> [note] India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
+
+> [note] Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war — often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
+
+> [note] By the 1970s, a large number of countries had joined the non-aligned movement.
 
 <!-- page 171 (pdf 12) -->
 

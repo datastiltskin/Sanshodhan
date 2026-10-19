@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf"
 source_sha256: "b6a9adf1dcaed3c505075bb7e1a5ed759c49fe74b940928a7d0038851c2fad6f"
 pdf_pages: 28
 printed_pages: "117-144"
-body_fingerprint: "f8b7b93f82190281c5c76643dcc77e103ebd86adb738cddb081655efc4271edb"
+body_fingerprint: "ca1e89ec6ddff0a3a5b7cb7054e09834adc0ce2c0e0b933f6a4f6dc3cd71ae8f"
 ---
 
 <!-- page 117 (pdf 1) -->
@@ -61,6 +61,8 @@ Create a timeline on a sheet of paper marking the period from the first year of 
 ## Bay of Bengal
 
 ## Sea
+
+> [caption] 1,000 km
 
 > [caption] Fig. 6.2. Prominent dynasties of India during the age of reorganisation
 
@@ -244,6 +246,12 @@ Arabian sea Bay of Bengal
 
 > [caption] Madurai
 
+> [caption] LEGEND South Indian Kingdoms
+
+> [caption] Capital Cities Rivers.
+
+> [caption] 200 km
+
 > [caption] Fig. 6.14. Kingdoms in the South (note that borders are approximate and fluctuated in time).
 
 That period saw the advent of many poets whose works, collectively known as ‘Sangam literature’, defined the entire era: it came to be known as the ‘Sangam Age’. The word sangam is derived from the Sanskrit sangha, which translates to ‘association’ and ‘coming together’ — in this context, referring to an assembly of the poets. The Sangam literature, the oldest in south India, consists of several collections or anthologies of poems and is much consulted by historians who investigate the society and culture of the times. Primarily, Sangam poetry expresses with great skill and delicacy personal emotions such as love or societal values like heroism and generosity.
@@ -364,7 +372,7 @@ The Kuṣhāṇas held control over significant sections of the Silk Route (on t
 
 Continuing the trend set under the Indo-Greek rulers, Kuṣhāṇa art and architecture, exemplified by the Gāndhāra and Mathurā schools of art, are celebrated for their fusion of Indian and Greek styles. The sculptures feature a variety of deities reflecting the peaceful co-existence of various schools of thought. This era saw the rise of representations of deities — like Sūrya or the sun god — which looked more similar to humans and the increase in the development of religious art, laying the groundwork for later temple architecture in the subcontinent.
 
-The Gāndhāra style, which emerged in the western regions of Punjab, blended Greco-Roman elements with Indian features. Most sculptures and artefacts from this tradition were crafted in intricate detail from grey-black schist stone. In particular, sculptors produced many fine Buddha images with realistic anatomy and flowing robes.
+The Gāndhāra style, which emerged in the western regions of Punjab, blended Greco-Roman elements with Indian features. Most sculptures and artefacts from this tradition were crafted in intricate detail from grey-black schist stone. In particular, sculptors produced many fine Buddha images with realistic anatomy and flowing robes. Ce Do you know where Gāndhāra is? Does it remind you of a character from the epic Mahābhārata?
 
 > [caption] Fig. 6.24. Head of a bodhisattva
 
@@ -372,31 +380,37 @@ The Gāndhāra style, which emerged in the western regions of Punjab, blended Gr
 
 ### THINK ABOUT IT
 
-Do you know where Gāndhāra is? Does it remind you of a character from the epic Mahābhārata?
-
 <!-- page 138 (pdf 22) -->
 
-> [caption] Samarkand
+Black Sea
 
 > [caption] Antioch
 
-> [caption] Qumis- Iran
+EGYPT
 
-> [caption] Damascus
+> [caption] 2,000 km
+
+> [caption] Fig. 6.25. Some of the trade routes of the ancient world. The network marked in green shows the Silk Route connecting China with the Mediterranean world Byzantium Rome Samarkand Balkh Qumis- Iran Damascus Alexandria
 
 PERSIA
 
 ARABIA
 
-EGYPT
-
-> [caption] Fig. 6.25. Some of the trade routes of the ancient world. The network marked in green shows the Silk Route connecting China with the Mediterranean world Byzantium Rome Balkh Alexandria
-
 <!-- page 139 (pdf 23) -->
+
+> [caption] LEGEND
+
+> [caption] Main Route of Silk Road Other Caravan Routes Important Centres:
+
+> [caption] Luoyang
+
+> [caption] Yellow
 
 > [caption] Takṣhaśhilā
 
 CHINA
+
+> [caption] Fast China
 
 > [caption] Mathura
 
@@ -406,7 +420,15 @@ CHINA
 
 INDIA
 
-> [caption] Luoyang
+> [caption] Bay
+
+> [caption] ‘China
+
+> [caption] Bengal
+
+> [caption] ‘Celebes Sea
+
+> [caption] Indian Ocean
 
 <!-- page 140 (pdf 24) -->
 
@@ -428,19 +450,19 @@ Recognising these connections encourages us to view this ‘Tapestry of the Past
 
 1
 
-2
-
-3
-
 4
 
-5
+2
 
-6
+5
 
 > [caption] Fig. 6.27.1. A scene of the death of Buddha. Fig. 6.27.2. Bodhisattva Maitreya.
 
 > [caption] Fig. 6.27.3. Śhiva linga being worshipped by Kuṣhāna devotees. Fig. 6.27.4. A Nāga between two Nāgīs, with an inscription referring to the eighth year of Kaṇiṣhka’s reign. Fig. 6.27.5. Kartikeya, the god of war, and
+
+3
+
+6
 
 <!-- page 142 (pdf 26) -->
 
@@ -505,3 +527,5 @@ Recognising these connections encourages us to view this ‘Tapestry of the Past
 6. You have read about the architectural developments of the post-Maurya era. Take an outline of the Indian subcontinent and mark the approximate locations of some of the ancient structures mentioned in this chapter.
 
 <!-- page 144 (pdf 28) -->
+
+SN aN yN

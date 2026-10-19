@@ -135,9 +135,9 @@ Remember that ordinary women and men painted as well - on pots, walls, floors, c
 
 A Closer Look: Bengal The Growth of a Regional Language As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium sce) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
 
-> [caption] Fig. 10
-
 ‘ adele eee ; From the fourth-third centuries sce, commercial of the earliest Bengali ties began to develop between Bengal and Magadha Ramayana. (south Bihar), which may have led to the growing influence of Sanskrit. During the fourth century the Gupta rulers established political control over north Bengal and began to settle Brahmanas in this area. Thus, the linguistic and cultural influence from the mid-Ganga valley became stronger. In the seventh century the Chinese traveller Xuan Zang observed that languages related to Sanskrit were in use all over Bengal.
+
+> [caption] Fig. 10
 
 <!-- page 131 (pdf 10) -->
 

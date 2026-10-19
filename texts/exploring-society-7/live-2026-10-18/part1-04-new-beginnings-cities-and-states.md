@@ -267,3 +267,5 @@ About the same time, the mahājanapadas ceased to exist, leaving the place to fr
 4. Why was the development of iron metallurgy so important for the growth of urbanism in the 1st millennium BCE? You may use points from the chapter but also from your knowledge or imagination.
 
 <!-- page 82 (pdf 16) -->
+
+> [caption] XN aN yN
