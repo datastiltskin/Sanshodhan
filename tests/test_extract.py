@@ -153,3 +153,41 @@ def test_chapter_title_ignores_dropcap_line():
         (BODY, 12.0, 85, 340, "Bookman-Light"),
     ])
     assert extract.chapter_title([extract.Page(0, printed, blocks)]) == (None, "TRIBES, NOMADS AND SETTLED COMMUNITIES")
+
+
+def test_bold_first_line_becomes_its_own_heading_block():
+    def span(text, font, size=11.0):
+        return {"text": text, "font": font, "size": size, "flags": 0, "bbox": (80, 100, 400, 100 + size)}
+    textpage = {"blocks": [{"type": 0, "bbox": (80, 100, 400, 140), "lines": [
+        {"dir": (1.0, 0.0), "bbox": (80, 100, 240, 112), "spans": [span("A nation in the making", "Bookman-Demi", 12.0)]},
+        {"dir": (1.0, 0.0), "bbox": (80, 114, 400, 126), "spans": [span("It has often been said that the Congress", "Bookman-Light")]},
+        {"dir": (1.0, 0.0), "bbox": (80, 128, 400, 140), "spans": [span("in the first twenty years was moderate.", "Bookman-Light")]},
+    ]}]}
+    blocks = extract.blocks_from_dict(textpage)
+    assert [(b.text, b.bold) for b in blocks] == [("A nation in the making", True), ("It has often been said that the Congress in the first twenty years was moderate.", False)]
+    # A bold lead-in that shares its line with regular text is left in the paragraph.
+    textpage["blocks"][0]["lines"][0]["spans"].append(span(" It has often been said", "Bookman-Light"))
+    assert len(extract.blocks_from_dict(textpage)) == 1
+
+
+def test_sdg_badge_label_is_a_caption_not_body():
+    blocks, _ = _page([
+        ("Sustainable Development Goal (SDG) www.in.undp.org", 11.0, 85, 702, "TT38DT00"),
+        (BODY, 12.0, 80, 100, "Bookman-Light"),
+    ])
+    assert blocks[0].role == "caption"
+
+
+def test_word_drawn_again_over_the_line_end_is_dropped():
+    def line(text, bbox):
+        return {"dir": (1.0, 0.0), "bbox": bbox, "spans": [{"text": text, "font": "BookmanPlain", "size": 13.0, "flags": 4, "bbox": bbox}]}
+    lines = [
+        line("was made in the 1720s by a French cartographer", (73.2, 660.8, 376.5, 675.8)),
+        line("cartographer", (294.4, 661.0, 376.1, 675.8)),
+        line("cartographer", (294.8, 660.6, 376.5, 675.4)),
+        line("cartographer", (294.4, 660.6, 376.1, 675.4)),
+        line("cartographer. The", (294.6, 660.8, 407.2, 675.6)),
+    ]
+    from ncert_diff import clean
+    texts = [extract._join_spans(spans) for spans in extract._dedupe_shadow_spans(lines)]
+    assert clean.join_lines(texts) == "was made in the 1720s by a French cartographer. The"

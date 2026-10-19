@@ -60,6 +60,9 @@ def join_lines(lines: list[str]) -> str:
         if not out:
             out = line
             continue
+        if line[0] in ".,;:!?)":
+            out += line  # a fragment left after a shadowed word was cut away: ". The"
+            continue
         out = merge_paragraphs(out, line)
     return collapse_repeats(_BROKEN_HYPHEN.sub("-", out))
 
@@ -78,6 +81,10 @@ def continues(prev: str, nxt: str) -> bool:
     first = nxt[0]
     if first.islower() or first in ",;" or (prev.endswith("-") and first.isalnum()):
         return True
+    if prev[-1].isdigit() and first.isupper():
+        # "Grand Total 543" then "Once elected, these candidates..." is a table read as body
+        # text followed by a new paragraph, not a sentence cut by the page break.
+        return False
     return len(prev) > 40 and first.isalnum()
 
 

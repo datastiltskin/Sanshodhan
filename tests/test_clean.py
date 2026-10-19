@@ -43,3 +43,11 @@ def test_slugify():
     assert clean.slugify("THE CREATION OF AN EMPIRE: The Mughal Dynasty") == "the-creation-of-an-empire-the-mughal-dynasty"
     assert clean.slugify("the mughals (16th TO 17th CENTURY)") == "the-mughals-16th-to-17th-century"
     assert clean.slugify("") == "untitled"
+
+
+def test_paragraph_does_not_continue_after_a_bare_number():
+    from ncert_diff.clean import continues
+    assert not continues("Registered Unrecognised Parties 16 Independents 3 Grand Total 543", "Once elected, these candidates become MPs.")
+    assert continues("The Lok Sabha has 543 members, of whom a majority must", "support the government.")
+    assert continues("The empire was founded in the year 1526 by a prince named", "Babur, who came from Central Asia.")
+    assert continues("The empire was founded in 1526", "by a prince from Central Asia.")

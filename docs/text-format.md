@@ -21,7 +21,10 @@ mapping back to the printed page.
   ("great-great-grandfather", "1526-1530"). NCERT's PDFs have no automatic hyphenation, so
   a hyphen at a line end is always part of the word.
 - Decorative headings drawn several times for a shadow effect ("Let's recall" x5) are
-  collapsed to one.
+  collapsed to one, and so is a word redrawn over the end of its own line in the 2007 files
+  ("a French cartographer" followed by "cartographer" three times at the same place).
+- The Sustainable Development Goal badge printed in the margins since 2019 is tagged as a
+  caption so that its label does not run into the paragraph below it.
 - The chapter title is a level-1 heading. Section headings are level 2, activity headings
   ("Let's recall", "Let's discuss") and box headings level 3.
 
@@ -37,6 +40,23 @@ front of the next chapter, and their markers name the file they came from, as in
 `<!-- page 37 (pdf 14 of ch03.pdf) -->`, so the page images still come from the right PDF.
 A few pages inside an otherwise normal file can be flat images. They are read with OCR and
 listed as `ocr_pages` in the front matter.
+
+## Run-in headings
+
+Some printings set a sub-heading as the bold first line of its paragraph rather than as a
+block of its own (the 2023-24 Our Pasts III). A bold first line of two or more words with
+no closing punctuation, followed by a paragraph, is written as a heading so the text has the
+same shape as the other printings.
+
+## Outlined words
+
+Some files (the 2024-25 Our Pasts II) draw their italic terms as vector outlines with no
+text behind them. Those runs are read with tesseract and then pulled towards words the
+book is known to use in its other editions: a run whose letters spell a known word
+becomes that word ("pardes i" to "pardesi", "Minhaj 1 Siraj" to "Minhaj-i-Siraj"), and an
+unknown word is replaced by the nearest known one when they differ by a letter or two
+("EXYIcise" to "exercise"). The raw reading is kept in the OCR cache, so the rule can be
+changed without re-running tesseract.
 
 ## Sections
 

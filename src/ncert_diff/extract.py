@@ -41,6 +41,7 @@ UNIT_OPENER = re.compile(r"^(unit(\s+\w+)?|one|two|three|four|five|six|seven|eig
 UNIT_WORD = re.compile(r"^(unit|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)  # unit openers set one word per line
 ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE)
 CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
+SDG_LABEL = re.compile(r"^Sustainable Development Goal", re.IGNORECASE)  # the UN goal badge printed in the margin since 2019
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)", re.IGNORECASE)
 FOOTER_BAND = 0.86  # fraction of page height below which small text is a footer
 HEADER_BAND = 0.06
@@ -105,13 +106,28 @@ def _dedupe_shadow_spans(lines: list[dict]) -> list[list[dict]]:
     copy of every (text, position) pair reconstructs the heading once.
     """
     kept: list[tuple[str, tuple]] = []
+    shadows: list[tuple[str, tuple]] = []  # duplicates dropped so far, by text and box
     out: list[list[dict]] = []
     for ln in lines:
         spans = []
         for s in ln["spans"]:
             text = s["text"].strip()
             if text and any(text == t and _overlap_ratio(s["bbox"], bb) >= 0.7 for t, bb in kept):
+                shadows.append((text, s["bbox"]))
                 continue
+            # The last word of a line drawn again on top of itself ("...a French cartographer"
+            # then "cartographer" three times at the same place).
+            if text and any(t.endswith(text) and len(t) > len(text) and not t[-len(text) - 1].isalnum() and _overlap_ratio(s["bbox"], bb) >= 0.7 for t, bb in kept):
+                shadows.append((text, s["bbox"]))
+                continue
+            # A span that begins with that same shadowed word and continues ("cartographer. The"):
+            # keep only what comes after it.
+            for t, bb in shadows:
+                if text.startswith(t) and len(text) > len(t) and not text[len(t)].isalnum() and abs(s["bbox"][0] - bb[0]) <= 2.5 and _overlap_ratio(s["bbox"], bb) >= 0.7:
+                    cut = s["text"].index(t) + len(t)
+                    s = dict(s, text=s["text"][cut:], bbox=(bb[2], s["bbox"][1], s["bbox"][2], s["bbox"][3]))
+                    text = s["text"].strip()
+                    break
             if text:
                 kept.append((text, s["bbox"]))
             spans.append(s)
@@ -248,6 +264,8 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
         fonts: Counter = Counter()
         flags: Counter = Counter()
         texts: list[str] = []
+        line_bold: list[bool] = []  # every span on the line is bold
+        line_boxes: list[tuple] = []
         max_size = 0.0
         for ln in lines:
             # Icon fonts carry activity glyphs ("Q" in Webdings is a question-mark bubble), not words.
@@ -265,6 +283,9 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
                     fonts[sp["font"]] += 10
                     flags[_span_flags(sp)] += 10
             texts.append(joined)
+            inked = [sp for sp in spans if sp["text"].strip()]
+            line_bold.append(bool(inked) and all(_span_flags(sp)[0] for sp in inked))
+            line_boxes.append(tuple(pymupdf.Rect(spans[0]["bbox"]) | pymupdf.Rect(spans[-1]["bbox"])) if spans else raw["bbox"])
             for s in spans:
                 max_size = max(max_size, s["size"])
                 n = len(s["text"].strip())
@@ -279,8 +300,31 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
         font = fonts.most_common(1)[0][0]
         bold, italic = flags.most_common(1)[0][0]
         x0, y0, x1, y1 = raw["bbox"]
+        if _run_in_heading(texts, line_bold):
+            # A sub-heading set as the bold first line of its paragraph (2023-24 Our Pasts III).
+            # Written as its own block so it classifies as a heading, as it does in other printings.
+            hx0, hy0, hx1, hy1 = line_boxes[0]
+            head_spans = [sp for sp in _dedupe_shadow_spans(lines[:1])][0]
+            head_size = max(sp["size"] for sp in head_spans) if head_spans else size
+            out.append(Block(hx0, hy0, hx1, hy1, font, round(head_size, 1), True, italic, texts[0].strip(), head_size))
+            rest = clean.join_lines(texts[1:])
+            if rest and clean.has_content(rest):
+                out.append(Block(x0, line_boxes[1][1], x1, y1, font, size, bold, italic, rest, max_size))
+            continue
         out.append(Block(x0, y0, x1, y1, font, size, bold, italic, text, max_size))
     return out
+
+
+def _run_in_heading(texts: list[str], line_bold: list[bool]) -> bool:
+    """Is the first line of this block a short bold heading followed by regular text?"""
+    if len(texts) < 2 or not line_bold[0] or line_bold[1]:
+        return False
+    first = texts[0].strip()
+    words = [w for w in first.split() if sum(ch.isalpha() for ch in w) >= 2]
+    rest = " ".join(texts[1:]).strip()
+    # Two or more words, no figure label, no closing punctuation, and a paragraph after it
+    # (a caption's bold "Fig. 1" line followed by its short text is not a heading).
+    return 2 <= len(words) and len(first) <= 60 and not re.match(r"^fig", first, re.IGNORECASE) and not re.search(r"[.?!:;,]$", first) and len(rest) >= 80
 
 
 def decode_symbol_font(text: str) -> str:
@@ -387,6 +431,9 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         if "Corsiva" in b.font:
             b.role = "source"
             continue
+        if SDG_LABEL.match(b.text) and len(b.text) <= 80:
+            b.role = "caption"  # a badge label, not a sentence, so it must not join the paragraph below it
+            continue
         if ACTIVITY_HEADING.fullmatch(b.text):
             b.role = "h3"
             continue
@@ -406,10 +453,10 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
     return printed
 
 
-def _read_all_pages(pdf_path: Path) -> tuple[list[Page], float]:
+def _read_all_pages(pdf_path: Path, vocab: set[str] | None = None) -> tuple[list[Page], float]:
     from .ocr import outlined_reader  # lazy: tesseract is optional
 
-    reader = outlined_reader(pdf_path)
+    reader = outlined_reader(pdf_path, vocab)
     pages: list[Page] = []
     width = 600.0
     rasterised: set[int] = set()
@@ -750,13 +797,14 @@ def trailing_unit_opener(pages: list[Page]) -> int:
     return len(pages)
 
 
-def extract_chapter_file(pdf_path: Path, carry: list[Page] | None = None) -> tuple[list[tuple[str, dict]], list[Page]]:
+def extract_chapter_file(pdf_path: Path, carry: list[Page] | None = None, vocab: set[str] | None = None) -> tuple[list[tuple[str, dict]], list[Page]]:
     """Every chapter in a per-chapter PDF, plus any trailing unit opener that belongs to the
     next file. Usually one chapter, but NCERT sometimes packs two chapters into one file (the
     2023-24 Class 7 civics ch08 holds chapters 7 and 8), so a file is cut at its chapter
     openers when they carry distinct chapter numbers. `carry` is the previous file's trailing
-    opener, placed in front of this chapter."""
-    pages, width = _read_all_pages(pdf_path)
+    opener, placed in front of this chapter. `vocab` (words the book uses in other editions)
+    steadies the OCR of outlined words."""
+    pages, width = _read_all_pages(pdf_path, vocab)
     pages = pages[first_kept_page(pages):]
     cut = trailing_unit_opener(pages)
     trailing = pages[cut:]
