@@ -69,12 +69,22 @@ def _expect_magic(path: Path) -> bytes:
 
 
 def looks_valid(path: Path, like: Path | None = None) -> bool:
-    """Is `path` a plausible file of the kind its name (or `like`'s name) says?"""
+    """Is `path` a plausible, complete file of the kind its name (or `like`'s name) says?
+
+    The Wayback Machine's crawler cuts some captures off at exactly 1 MiB. A PDF whose last
+    kilobytes carry no %%EOF marker is such a stump and is treated as missing.
+    """
     if not path.is_file() or path.stat().st_size < 1024:
         return False
+    kind = _expect_magic(like or path)
     with path.open("rb") as fh:
         head = fh.read(4)
-    return head.startswith(_expect_magic(like or path))
+        if kind == PDF_MAGIC:
+            fh.seek(max(0, path.stat().st_size - 2048))
+            tail = fh.read()
+            if b"%%EOF" not in tail:
+                return False
+    return head.startswith(kind)
 
 
 _last_request_at = 0.0

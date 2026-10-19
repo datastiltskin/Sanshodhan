@@ -223,8 +223,8 @@ data and exercises throughout:
   party/coalition" became "that are not part of the majority party/coalition"; the glossary
   example "If the government decides not to promote an officer of the armed forces for being
   a woman" was cut from the definition of tyranny; national park figures updated.
-- 2022: only exercise numbering and a schemes table re-set. The 2022-23 printing (February
-  2023 capture) is identical to it.
+- 2022: only exercise numbering and a schemes table re-set. These are the 2022-23 session
+  files (every chapter carries that footer); the February 2023 capture re-served them.
 
 ### November 2021 printing to rationalised 2023-24
 

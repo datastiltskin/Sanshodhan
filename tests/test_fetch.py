@@ -23,3 +23,9 @@ def test_looks_valid_checks_magic_of_destination(tmp_path: Path):
     small = tmp_path / "ch02.pdf"
     small.write_bytes(b"%PDF-1.4")
     assert not fetch.looks_valid(small)
+    stump = tmp_path / "ch03.pdf"
+    stump.write_bytes(b"%PDF-1.4" + b"\0" * 4000)  # cut off before the trailer
+    assert not fetch.looks_valid(stump)
+    whole = tmp_path / "ch04.pdf"
+    whole.write_bytes(b"%PDF-1.4" + b"\0" * 4000 + b"\n%%EOF\n")
+    assert fetch.looks_valid(whole)

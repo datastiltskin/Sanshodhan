@@ -82,11 +82,13 @@ What the downloaded zips turned out to contain:
 - Our Pasts III 2019-03-12: the headings are set in fonts without a Unicode mapping and come
   out blank, so titles for that edition are taken from the contents page.
 - Social and Political Life III 2023-02-10: the archive's copy of the zip stops at 11.9 MB
-  of 24 MB (its recorded length, so a re-download gives the same bytes). Chapters 1 to 4 of
-  the 2022-23 printing were recovered from it with `scripts/salvage_truncated_zip.py`, and
-  chapters 6, 7, 8 and 10 from per-chapter captures of the same months. Chapters 5 and 9 and
-  the prelims were never captured. All eight recovered chapters are identical to the
-  November 2021 printing, so the snapshot is folded into that edition.
+  of 24 MB (its recorded length, so a re-download gives the same bytes). Chapters 1 to 4
+  were recovered from it with `scripts/salvage_truncated_zip.py`, and chapters 6, 7, 8 and
+  10 from per-chapter captures of the same months. All eight are identical to the files in
+  the 2022-08-02 zip, which already carry the "2022-23" session footer in every chapter
+  (including 5 and 9). So the 2022-23 printing is complete in the 2022-08-02 snapshot, and
+  the February 2023 zip was the same files re-served. The partial snapshot is kept as
+  evidence and folded into that edition.
 - Social and Political Life III 2022-08-02: the body font maps every character to the
   Unicode private-use range (U+F048 for "H"), as symbol fonts do. The extractor translates
   it back, so the text reads normally.
