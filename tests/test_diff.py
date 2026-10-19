@@ -99,3 +99,14 @@ def test_exercises_compare_without_regard_to_order():
     old = [Unit("exercises", "Explain how a chain of markets is formed.", 10, None, 1), Unit("exercises", "What purpose does it serve?", 10, None, 1)]
     new = [Unit("exercises", "What purpose does it serve?", 9, None, 1), Unit("exercises", "Explain how a chain of markets is formed.", 9, None, 1)]
     assert sorted(h.type for h in diff_stream(old, new, "exercises")) == ["equal", "equal"]
+
+
+def test_page_check_flags_pages_that_mostly_vanished():
+    from ncert_diff.diff import page_check
+    hunks = [Hunk("equal", "body", 1.0, "a", "a", 5, 5, [], 0, 0)] * 2 + [Hunk("deleted", "body", None, "x", None, 5, None, [], 1, None)] * 3
+    hunks += [Hunk("equal", "body", 1.0, "b", "b", 6, 6, [], 2, 2)] * 4
+    hunks += [Hunk("inserted", "body", None, None, "n", None, 9, [], None, 3)] * 5
+    checks = page_check({"body": hunks})
+    assert [(p["page"], p["new_page"], p["suspect"]) for p in checks["old"]] == [(5, 5, True), (6, 6, False)]
+    assert [(p["page"], p["suspect"]) for p in checks["new"]] == [(9, True)]
+    assert checks["suspect"] == 2

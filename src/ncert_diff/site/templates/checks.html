@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}{{ book.title }}: pages to check{% endblock %}
+{% set active = book.id %}
+{% block mainclass %}wide{% endblock %}
+{% block content %}
+<div class="title-block">
+  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › Extraction check</p>
+  <h1>Pages to check</h1>
+  <p class="subtitle">{{ total }} page{{ 's' if total != 1 }} where fewer than half the sentences survived into the next edition. Each is either a real cut, a page that moved, or a reading error in the extraction. The two page images are shown so a person can tell which. A page is listed once it has at least four comparable sentences.</p>
+</div>
+{% for pair in checks %}
+<section class="check-pair">
+  <h2 id="{{ pair.from.id }}__{{ pair.to.id }}">{{ pair.from.label }} → {{ pair.to.label }}{% if pair.ocr %} (OCR){% endif %}</h2>
+  {% if not pair.flagged %}<p class="muted">Nothing flagged.</p>{% endif %}
+  {% for i in pair.flagged %}
+  <div class="check">
+    <p>
+      {% if i.kind == 'old' %}
+      <strong>Chapter {{ i.chapter.from.number }}, page {{ i.page }}</strong> of the {{ pair.from.label }}: {{ (i.score * 100)|round|int }} per cent of {{ i.sentences }} sentences survived{% if i.other %}, best matched by page {{ i.other }} of the {{ pair.to.label }}{% else %}, no matching page found{% endif %}.
+      <a href="/{{ book.id }}/{{ pair.from.id }}/{{ i.old_dir }}/#p{{ i.page }}">Open old</a>{% if i.other %}, <a href="/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.other }}">open new</a>{% endif %}.
+      {% else %}
+      <strong>Chapter {{ i.chapter.to.number }}, page {{ i.page }}</strong> of the {{ pair.to.label }}: {{ (i.score * 100)|round|int }} per cent of {{ i.sentences }} sentences have no source in the {{ pair.from.label }}.
+      <a href="/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.page }}">Open</a>.
+      {% endif %}
+    </p>
+    <div class="check-images">
+      {% if i.kind == 'old' %}
+      <a href="{{ images_base }}/{{ book.id }}/{{ pair.from.id }}/{{ i.old_dir }}/p{{ '%03d' % i.page }}.webp" target="_blank" rel="noopener"><img loading="lazy" src="{{ images_base }}/{{ book.id }}/{{ pair.from.id }}/{{ i.old_dir }}/p{{ '%03d' % i.page }}.webp" alt="Old page {{ i.page }}"></a>
+      {% if i.other %}<a href="{{ images_base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/p{{ '%03d' % i.other }}.webp" target="_blank" rel="noopener"><img loading="lazy" src="{{ images_base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/p{{ '%03d' % i.other }}.webp" alt="New page {{ i.other }}"></a>{% endif %}
+      {% else %}
+      <a href="{{ images_base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/p{{ '%03d' % i.page }}.webp" target="_blank" rel="noopener"><img loading="lazy" src="{{ images_base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/p{{ '%03d' % i.page }}.webp" alt="New page {{ i.page }}"></a>
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}

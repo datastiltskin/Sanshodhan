@@ -290,6 +290,29 @@ def block_html(b: Block) -> str:
     return f"<aside class='box box-{b.kind}'><span class=boxlabel>{label}</span> {inner}</aside>"
 
 
+def page_checks(book_id: str, diffs: dict, editions: list) -> list[dict]:
+    """Pages the diff engine flags for a human look, per edition pair, with both page images."""
+    by_id = {e.id: e for e in editions}
+    out = []
+    for (from_id, to_id), r in diffs.items():
+        if from_id not in by_id or to_id not in by_id:
+            continue
+        items = []
+        for c in r["chapters"]:
+            if c.get("status") != "matched" or "pages" not in c:
+                continue
+            old_dir = chapter_dir_name(c["from"]["part"], c["from"]["number"])
+            new_dir = chapter_dir_name(c["to"]["part"], c["to"]["number"])
+            for p in c["pages"]["old"]:
+                if p["suspect"]:
+                    items.append({"kind": "old", "chapter": c, "old_dir": old_dir, "new_dir": new_dir, "page": p["page"], "other": p["new_page"], "score": p["score"], "sentences": p["sentences"]})
+            for p in c["pages"]["new"]:
+                items.append({"kind": "new", "chapter": c, "old_dir": old_dir, "new_dir": new_dir, "page": p["page"], "other": None, "score": p["score"], "sentences": p["sentences"]})
+        items.sort(key=lambda i: i["score"])
+        out.append({"from": by_id[from_id], "to": by_id[to_id], "flagged": items, "ocr": r.get("ocr")})
+    return out
+
+
 def pages_html(blocks: list[Block]) -> list[dict]:
     """Group blocks by printed page: [{page, html}]."""
     out: list[dict] = []
@@ -378,8 +401,10 @@ def build(out: Path, images_base: str, *, log=print) -> Path:
                     hunks.sort(key=lambda h: (h.get("old_page") or h.get("new_page") or 0, h["type"]))
                     c["real_hunks"] = hunks
             diffs[(r["from"], r["to"])] = r
-        write(f"/{book_id}/", "book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition)
+        write(f"/{book_id}/", "book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition, suspect_total=sum(r["summary"].get("suspect_pages", 0) for r in diffs.values()))
         write(f"/{book_id}/changes/", "changes_book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition, REAL=REAL)
+        checks = page_checks(book_id, diffs, editions)
+        write(f"/{book_id}/checks/", "checks.html", book=book, editions=editions, checks=checks, total=sum(len(c["flagged"]) for c in checks))
         for ed in editions:
             prev = previous_edition(editions, ed)
             pair = diffs.get((prev.id, ed.id)) if prev else None

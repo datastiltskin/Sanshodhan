@@ -26,6 +26,9 @@ STREAMS = ("heading", "body", "note", "caption", "table", "source", "exercises",
 # Streams whose order carries no meaning: table cells arrive in layout order, and exercise
 # questions and glossary entries get renumbered and reflowed between printings.
 ORDERLESS = ("table", "exercises", "glossary", "references")
+SURVIVED = ("equal", "typographic", "punctuation", "modified", "moved", "restreamed")
+PAGE_MIN_SENTENCES = 4  # a page with fewer comparable sentences is not judged
+PAGE_SUSPECT = 0.5  # below this share of surviving sentences a page needs a look
 CHAPTER_MATCH_MIN = 0.2  # share of sentences two chapters must have in common to be the same chapter
 PAIR_MIN = 0.55  # similarity for two unmatched sentences to count as one reworded sentence
 
@@ -223,6 +226,44 @@ def align_chapters(old: list[ChapterText], new: list[ChapterText]) -> list[tuple
     return out
 
 
+def page_check(per_stream: dict[str, list[Hunk]]) -> dict:
+    """How much of each page's text survived into the other edition, from the hunks.
+
+    A page whose sentences mostly vanished (or a new page whose sentences mostly appeared)
+    is either a real cut or an extraction fault. The site lists these pages with both page
+    images so a person can tell which. Modified and moved sentences count as survived."""
+    old_pages: dict[int, Counter] = {}
+    new_pages: dict[int, Counter] = {}
+    best_new: dict[int, Counter] = {}
+    for hs in per_stream.values():
+        for h in hs:
+            if h.old_page is not None:
+                old_pages.setdefault(h.old_page, Counter())["survived" if h.type in SURVIVED else h.type] += 1
+                if h.type in SURVIVED and h.new_page is not None:
+                    best_new.setdefault(h.old_page, Counter())[h.new_page] += 1
+            if h.new_page is not None and (h.type in SURVIVED or h.type == "inserted"):
+                new_pages.setdefault(h.new_page, Counter())["survived" if h.type in SURVIVED else "inserted"] += 1
+    old_out = []
+    for page in sorted(old_pages):
+        c = old_pages[page]
+        total = c["survived"] + c["deleted"]
+        if total < PAGE_MIN_SENTENCES:
+            continue
+        score = round(c["survived"] / total, 2)
+        best = best_new.get(page)
+        old_out.append({"page": page, "new_page": best.most_common(1)[0][0] if best else None, "sentences": total, "score": score, "suspect": score < PAGE_SUSPECT})
+    new_out = []
+    for page in sorted(new_pages):
+        c = new_pages[page]
+        total = c["survived"] + c["inserted"]
+        if total < PAGE_MIN_SENTENCES:
+            continue
+        score = round(c["survived"] / total, 2)
+        if score < PAGE_SUSPECT:
+            new_out.append({"page": page, "sentences": total, "score": score, "suspect": True})
+    return {"old": old_out, "new": new_out, "suspect": sum(p["suspect"] for p in old_out) + len(new_out)}
+
+
 def _counts(hunks: list[Hunk]) -> dict[str, int]:
     c = Counter(h.type for h in hunks if h.type != "equal")
     return {k: c.get(k, 0) for k in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")}
@@ -303,6 +344,8 @@ def diff_editions(book_id: str, from_id: str, to_id: str) -> dict:
                 for h in hs:
                     total[(s, h.type)] += 1
             entry["streams"] = streams
+            entry["pages"] = page_check(per_stream)
+            total[("pages", "suspect")] += entry["pages"]["suspect"]
         else:
             entry["status"] = "dropped" if a else "added"
             total[("chapter", entry["status"])] += 1
@@ -312,6 +355,7 @@ def diff_editions(book_id: str, from_id: str, to_id: str) -> dict:
         "chapters_added": total[("chapter", "added")],
         "body": {t: total[("body", t)] for t in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")},
         "other_streams": {t: sum(total[(s, t)] for s in STREAMS if s != "body") for t in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")},
+        "suspect_pages": total[("pages", "suspect")],
     }
     return {
         "book": book_id,

@@ -134,3 +134,8 @@ footer .inner { max-width: var(--wide); margin: 0 auto; padding: 1rem; font-size
 /* Section paragraphs: exercises, glossary, references, teacher's notes. */
 .sec { font-size: .95rem; padding-left: .8rem; border-left: 3px solid var(--border); }
 .sec-teachers-note { font-style: italic; }
+/* Extraction check page: two page images side by side. */
+.check { border-top: 1px solid var(--border); padding: .8rem 0; }
+.check-images { display: flex; gap: 1rem; flex-wrap: wrap; }
+.check-images img { width: min(100%, 360px); border: 1px solid var(--border); }
+.muted { color: var(--muted); }

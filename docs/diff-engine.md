@@ -45,6 +45,16 @@ found in a second pass over the leftover deletions and insertions.
 The HTML view shows deleted, inserted, and modified hunks and folds the rest away. Counts in
 `summary` separate body text from the other streams.
 
+## Pages to check
+
+For every matched chapter the engine also scores each page: the share of its sentences
+that survived into the other edition (equal, reworded, moved, or restreamed sentences all
+count as survived). A page with at least four comparable sentences and fewer than half
+surviving is listed on the book's "Pages to check" page with both page images, and a page
+of the newer edition whose sentences mostly have no source is listed the same way. The list
+cannot tell a real cut from a reading error. A person can, from the two images, and the
+fix for a reading error goes into the book's overrides file (see `docs/text-format.md`).
+
 ## Known limits
 
 - Hunks involving the OCR edition (2022-23 Our Pasts II) or the outlined-word recovery in

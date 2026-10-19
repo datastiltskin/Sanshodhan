@@ -24,4 +24,5 @@
   </li>
 {% endfor %}
 </ol>
+<p class="muted">Extraction check: <a href="/{{ book.id }}/checks/">{{ suspect_total }} page{{ 's' if suspect_total != 1 }} where most of the text did not survive between editions</a>. Each is either a real cut or a reading error, shown with both page images so it can be told apart.</p>
 {% endblock %}

@@ -84,7 +84,8 @@ def diff(
             typer.echo(
                 f"{b.id}: {a} -> {c}: chapters -{s['chapters_dropped']} +{s['chapters_added']}; body sentences "
                 f"deleted {s['body']['deleted']}, inserted {s['body']['inserted']}, modified {s['body']['modified']}, "
-                f"punctuation-only {s['body']['punctuation']}, moved {s['body']['moved']}, restreamed {s['body']['restreamed']}, typographic {s['body']['typographic']}"
+                f"punctuation-only {s['body']['punctuation']}, moved {s['body']['moved']}, restreamed {s['body']['restreamed']}, typographic {s['body']['typographic']}; "
+                f"pages to look at {s['suspect_pages']}"
             )
     typer.echo(f"index at {write_index().relative_to(PDF_DIR.parent)}")
 
