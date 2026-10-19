@@ -12,9 +12,10 @@ editions only for now.
 
 - `docs/verification.md` is the rule for checking any doubtful diff: open the page images of
   both editions. Text compared with text cannot tell an extraction fault from an edit.
-  `scripts/text_changes.py` lists the sentences a rule change altered, and
+  `scripts/text_changes.py` lists the sentences a rule change altered,
+  `scripts/spellcheck.py` lists the words no dictionary and no other edition knows, and
   `scripts/ocr_check.py` has a local OCR model (glm-ocr under Ollama) re-read a page and
-  prints the words the two readings disagree on, as a pointer to what to open.
+  prints the words the two readings disagree on, as pointers to what to open.
 - The site's compare view (`/<book>/compare/`) shows any two editions of a chapter page
   against page, with both page images and both texts, in split or unified form.
 - `overrides/<book>.yaml` holds hand corrections to extracted text (an OCR misreading, a stray

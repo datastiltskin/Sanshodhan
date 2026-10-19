@@ -33,10 +33,34 @@ guesses until a page image confirms them.
 `scripts/ocr_check.py <book> <edition> <chapter> [pages]` has a local OCR model (glm-ocr
 under Ollama) read a page at 150 dpi and prints the words that only one of the two readings
 has. It is a mechanical cross-check, not a judge: a word only in the model's reading says
-where to open the page image, and the image still decides. The model reads the main text
-column and skips margin boxes and page furniture, so words only in our text are usually a
-box. At about fifteen seconds a page it is for the flagged pages and the changed sentences,
-not for the build.
+where to open the page image, and the image still decides. At about fifteen seconds a page
+it is for the flagged pages and the changed sentences, not for the build.
+
+It is not a replacement for tesseract on the two rasterised printings. Measured on
+2026-10-19 against the text layer of the neighbouring printing (chapter word bags, body
+and headings), tesseract missed 1.5% of the true words of the 2022-23 Our Pasts II scan
+and glm-ocr 1.2%, and on the 2021-22 Social and Political Life II scan tesseract missed
+0.7% and glm-ocr 2.0%, because the model skips whole paragraphs on pages dense with boxes
+and speech bubbles. Both engines read the margin boxes, so the noise in the pairs against
+a scan comes from layout and roles, not from word reading, and that is where the rules
+work. The one place the model reads better is a table (the Mughal emperors table in
+chapter 4, where tesseract drops most of the dates), so it is worth a second reading there.
+
+## A spelling pass
+
+`scripts/spellcheck.py [<book> [<edition>]]` lists the words in the texts that no dictionary
+knows and that no other edition of any book uses. An extraction fault mostly leaves such a
+word behind: a misread ("Błack"), two words glued ("QImagine"), a word cut after its first
+letter ("g overnment"), a word doubled by a shadow line ("India India"). By default it prints
+the lower-case plain-letter words, the doubled and the glued ones. Capitalised words and
+words with transliteration marks are hidden unless asked for (`--names`, `--diacritics`,
+`--all`), because for a book with one edition those are mostly names the dictionary lacks.
+
+The list is a set of places to open, not a list of faults. The page image decides: a word
+the book itself misspells ("recieves" in the 2007 Our Pasts II) is accepted into
+`scripts/spelling-accept.txt` and left in the text, a word the extraction broke gets a rule
+or an override like any other finding. A spelling pass is cheap enough to run after every
+rule change, alongside `scripts/text_changes.py`.
 
 ## After changing a rule
 
@@ -46,6 +70,14 @@ the paragraph beside it). So a rule change is not done when its tests pass: the 
 editions' pairs are reviewed again against the images, with the same entries as a first
 review, before the texts are committed. A review made before the change says nothing
 about the texts made after it.
+
+A fall in the hunk counts is not proof either, and a rise is not always a regression. Two
+printings of one page are often broken the same way, and then the pair shows nothing. A rule
+that fixes one printing and not the other makes the pair rise while the texts got better
+(the 2023 and 2024 Social and Political Life II shared a caption glued into a sentence until
+2026-10-19). So after a rule change the changed sentences are read on both sides of every
+pair, not just the pairs whose counts moved, and the spelling pass (below) is run, because a
+fault both editions share is invisible to the comparison but not to a dictionary.
 
 ## Reviewing systematically
 

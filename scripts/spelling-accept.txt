@@ -1,0 +1,4 @@
+# Words the spellcheck (scripts/spellcheck.py) would otherwise flag and that the page images
+# confirm are what the book prints: transliterations, names, and the source's own misspellings.
+# One word per line, lower case is fine, "#" starts a comment. A word that two editions share
+# is accepted without being listed, so this is for words that one edition alone uses.
