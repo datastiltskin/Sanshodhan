@@ -194,7 +194,23 @@ def snapshot_dir(book: Book, snap: Snapshot) -> Path:
     label = snap.label
     if label == "live":
         label = f"live-{date.today().isoformat()}"
+        previous = sorted((PDF_DIR / book.id).glob("live-*")) if (PDF_DIR / book.id).exists() else []
+        if previous and _unchanged_since(snap.url, previous[-1]):
+            label = previous[-1].name  # the server still has the same file, keep yesterday's folder
     return PDF_DIR / book.id / label
+
+
+def _unchanged_since(url: str, previous_dir: Path) -> bool:
+    """Compare the server's Content-Length with the file in the latest live folder."""
+    existing = next(iter(sorted(previous_dir.glob("*full-book.zip"))), None) or next(iter(sorted(previous_dir.glob("*.pdf"))), None)
+    if existing is None:
+        return False
+    proc = subprocess.run(
+        [CURL, "--silent", "--head", "--location", "--user-agent", USER_AGENT, "--max-time", "60", url],
+        capture_output=True, text=True, check=False,
+    )
+    lengths = re.findall(r"(?im)^content-length:\s*(\d+)", proc.stdout)
+    return bool(lengths) and int(lengths[-1]) == existing.stat().st_size
 
 
 def fetch_snapshot(book: Book, snap: Snapshot, *, log=print) -> list[FileRecord]:
@@ -295,4 +311,5 @@ def fetch_book(book: Book, *, log=print) -> Path:
     for snap in book.snapshots:
         for rec in fetch_snapshot(book, snap, log=log):
             records[rec.path] = asdict(rec)
+    records = {path: rec for path, rec in records.items() if (PDF_DIR.parent / path).exists()}
     return save_manifest(book, records)
