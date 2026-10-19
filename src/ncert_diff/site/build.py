@@ -51,6 +51,11 @@ class Edition:
     def url(self) -> str:
         return f"/{self.book}/{self.id}/"
 
+    @property
+    def cover(self) -> str:
+        """Path of the edition's cover thumbnail below the images base."""
+        return f"{self.book}/covers/{self.id}.webp"
+
 
 _MONTHS = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"]
 

@@ -6,10 +6,13 @@
 </div>
 <div class="cards">
 {% for id, b in books.items() if id in editions %}
-  <article>
-    <h2><a href="/{{ id }}/">{{ b.title }}</a></h2>
-    <p>Class {{ b.klass }} {{ b.subject }}. {{ editions[id]|length }} distinct editions, {{ editions[id][0].raw.chapter_count }} chapters at first, {{ editions[id][-1].raw.chapter_count }} now.</p>
-    <p><a href="/{{ id }}/">Timeline</a>, <a href="/{{ id }}/changes/">every change</a></p>
+  <article class="with-cover">
+    <a class="cover" href="/{{ id }}/"><img loading="lazy" src="{{ images_base }}/{{ id }}/covers/book.webp" alt="Cover of {{ b.title }}"></a>
+    <div>
+      <h2><a href="/{{ id }}/">{{ b.title }}</a></h2>
+      <p>Class {{ b.klass }} {{ b.subject }}. {{ editions[id]|length }} distinct editions, {{ editions[id][0].raw.chapter_count }} chapters at first, {{ editions[id][-1].raw.chapter_count }} now.</p>
+      <p><a href="/{{ id }}/">Timeline</a>, <a href="/{{ id }}/changes/">every change</a>, <a href="/{{ id }}/compare/">compare</a></p>
+    </div>
   </article>
 {% endfor %}
 </div>

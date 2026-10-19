@@ -127,6 +127,17 @@ web.archive.org. There is no bot blocking. The archive is intermittently down (5
 "Temporarily Offline" HTML page served with status 200), so retries with backoff are needed
 and the fetcher checks that a download is actually a zip or PDF.
 
+## Cover images
+
+NCERT serves a cover image for each book at `textbook/pdf/<code>cc.jpg` (and did at
+`ncerts/l/<code>cc.jpg` before 2018). `sources.yaml` lists one archived capture per era and
+the live file under `covers:`, and the fetcher stores them in `pdfs/<book>/covers/`. The
+2019 and later prelims open with a title page that reproduces the cover art, so those
+editions are shown with that page rendered. Older editions, whose prelims open with the
+contents, are shown with the archived cover nearest in date. The zips themselves hold no
+cover files, except the mis-packaged 2019-03 Our Pasts II zip, which carries `gess1cs.pdf`
+and `gess2cs.pdf`, cover sheets for two books.
+
 ## Ground truth for the 2022-23 cuts
 
 NCERT published per-class booklets listing every dropped page:

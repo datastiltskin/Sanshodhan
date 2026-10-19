@@ -184,3 +184,10 @@ body.onion .onion-only { display: block !important; }
 .layout-unified .cmp-texts .unified { display: block; }
 .cmp-rows.minor-off .chg.quiet { background: none; color: inherit; outline: none; }
 @media (max-width: 900px) { .cmp-texts, .cmp-images { grid-template-columns: 1fr; } .cmp-bar { position: static; } }
+
+/* Cover thumbnails on the home cards and the edition timeline. */
+.with-cover { display: grid; grid-template-columns: 6.5rem 1fr; gap: 1rem; align-items: start; }
+.cards article.with-cover { grid-template-columns: 5.5rem 1fr; }
+.cover img { width: 100%; height: auto; border: 1px solid var(--border); border-radius: .2rem; background: var(--soft); display: block; box-shadow: 0 1px 3px rgba(0, 0, 0, .12); }
+.timeline li.with-cover { padding-left: 1.6rem; }
+@media (max-width: 600px) { .with-cover { grid-template-columns: 4.5rem 1fr; } }

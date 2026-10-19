@@ -39,6 +39,7 @@ class Book:
     codes: dict[int | None, str]  # part number (or None) -> NCERT code
     first_chapter: dict[int, int] = field(default_factory=dict)  # part -> number of its first chapter
     snapshots: list[Snapshot] = field(default_factory=list)
+    covers: list[Snapshot] = field(default_factory=list)  # NCERT's cover image (<code>cc.jpg), archived and live
 
     def code_for(self, part: int | None) -> str:
         return self.codes[part]
@@ -75,5 +76,6 @@ def load_books(path: Path = SOURCES_FILE) -> dict[str, Book]:
             codes=codes,
             first_chapter=first_chapter,
             snapshots=snapshots,
+            covers=[Snapshot(label=str(c["label"]), url=c["url"], wayback=str(c["wayback"]) if c.get("wayback") else None) for c in entry.get("covers", [])],
         )
     return books

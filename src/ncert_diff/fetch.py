@@ -34,6 +34,8 @@ MAX_CHAPTERS_TO_PROBE = 20
 
 ZIP_MAGIC = b"PK\x03\x04"
 PDF_MAGIC = b"%PDF"
+JPEG_MAGIC = b"\xff\xd8"
+PNG_MAGIC = b"\x89PNG"
 
 
 class FetchError(RuntimeError):
@@ -65,7 +67,11 @@ def sha256_of(path: Path) -> str:
 
 
 def _expect_magic(path: Path) -> bytes:
-    return ZIP_MAGIC if path.suffix == ".zip" else PDF_MAGIC
+    if path.suffix == ".zip":
+        return ZIP_MAGIC
+    if path.suffix in (".jpg", ".jpeg"):
+        return JPEG_MAGIC
+    return PDF_MAGIC
 
 
 def looks_valid(path: Path, like: Path | None = None) -> bool:
@@ -84,6 +90,8 @@ def looks_valid(path: Path, like: Path | None = None) -> bool:
             tail = fh.read()
             if b"%%EOF" not in tail:
                 return False
+    if kind == JPEG_MAGIC:
+        return head.startswith(kind) or head.startswith(PNG_MAGIC)  # NCERT serves one cover as PNG under a .jpg name
     return head.startswith(kind)
 
 
@@ -306,10 +314,29 @@ def save_manifest(book: Book, records: dict[str, dict]) -> Path:
     return path
 
 
+def fetch_covers(book: Book, *, log=print) -> list[FileRecord]:
+    """NCERT's cover images for the book, into pdfs/<book>/covers/<label>.jpg."""
+    records: list[FileRecord] = []
+    now = datetime.now(timezone.utc).isoformat(timespec="seconds")
+    for cover in book.covers:
+        directory = PDF_DIR / book.id / "covers"
+        directory.mkdir(parents=True, exist_ok=True)
+        dest = directory / f"{cover.label}.jpg"
+        try:
+            download(cover.download_url, dest, log=log)
+        except NotFound:
+            log(f"  cover {cover.label} is a 404, skipped")
+            continue
+        records.append(FileRecord(str(dest.relative_to(PDF_DIR.parent)), cover.url, cover.download_url, cover.wayback, now, sha256_of(dest), dest.stat().st_size))
+    return records
+
+
 def fetch_book(book: Book, *, log=print) -> Path:
     records = load_manifest(book.id)
     for snap in book.snapshots:
         for rec in fetch_snapshot(book, snap, log=log):
             records[rec.path] = asdict(rec)
+    for rec in fetch_covers(book, log=log):
+        records[rec.path] = asdict(rec)
     records = {path: rec for path, rec in records.items() if (PDF_DIR.parent / path).exists()}
     return save_manifest(book, records)

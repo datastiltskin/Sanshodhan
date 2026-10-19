@@ -97,11 +97,12 @@ def render_pages(
     force: bool = typer.Option(False, help="Re-render pages that already exist."),
 ):
     """Render a JPEG of every printed page, for the site and for upload to object storage."""
-    from .site.render_pages import render_book
+    from .site.render_pages import render_book, render_covers
 
     total = 0
     for b in _select(book):
         total += render_book(b.id, out, log=typer.echo, force=force)
+        render_covers(b.id, out, log=typer.echo, force=force)
     typer.echo(f"rendered {total} pages into {out}")
 
 

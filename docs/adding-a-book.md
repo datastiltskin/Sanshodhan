@@ -37,6 +37,11 @@ One entry per book with class, subject, title, code (or `parts` with a code each
 zip: label (capture date), Wayback timestamp, original URL. Add a `live` snapshot for the
 current file on ncert.nic.in. Comments in the file explain anything odd.
 
+Also list the book's cover image under `covers:` (one archived capture per URL era and
+the live `textbook/pdf/<code>cc.jpg`), found with the same index query on `<code>cc.jpg`.
+The site shows it on the home page, and uses the dated captures for editions whose
+prelims have no title page.
+
 ## 3. Fetch
 
 ```sh
@@ -134,7 +139,8 @@ scripts/upload-images.sh            # when the R2 bucket exists
 ```
 
 One WebP per printed page under `site/images/<book>/<edition>/<chapter>/pNNN.webp`, about
-120 KB each. Only pages that belong to the chapter text are rendered (a 2007 file that opens
+120 KB each, plus a cover thumbnail per edition and one for the book under
+`site/images/<book>/covers/`. Only pages that belong to the chapter text are rendered (a 2007 file that opens
 with the previous chapter's last page skips it). The upload script copies new files only.
 
 ## 7. Build and look

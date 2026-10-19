@@ -18,6 +18,10 @@ books:
     language: en
     title: "Our Pasts II"
     code: gess1
+    covers:
+      - { label: "2016-04-03", wayback: "20160403041900", url: "http://ncert.nic.in/ncerts/l/gess1cc.jpg" }
+      - { label: "2021-11-25", wayback: "20211125035208", url: "https://ncert.nic.in/textbook/pdf/gess1cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess1cc.jpg" }
     snapshots:
       # ncerts/l era. The 2014 zip contains PDFs created in March/April 2007 (first edition text).
       - { label: "2014-07-28", wayback: "20140728062605", url: "http://ncert.nic.in/ncerts/l/gess1dd.zip" }
@@ -68,6 +72,10 @@ books:
     parts:
       - { part: 1, code: hess1 }
       - { part: 2, code: hess2, first_chapter: 7 }
+    covers:
+      - { label: "2016-04-20", wayback: "20160420073830", url: "http://ncert.nic.in/ncerts/l/hess2cc.jpg" }
+      - { label: "2021-12-31", wayback: "20211231122043", url: "https://ncert.nic.in/textbook/pdf/hess2cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess2cc.jpg" }
     snapshots:
       - { label: "2014-07-28", part: 1, wayback: "20140728062312", url: "http://ncert.nic.in/ncerts/l/hess1dd.zip" }
       - { label: "2014-07-28", part: 2, wayback: "20140728085943", url: "http://ncert.nic.in/ncerts/l/hess2dd.zip" }
@@ -88,6 +96,10 @@ books:
     language: en
     title: "Social and Political Life III"
     code: hess3
+    covers:
+      - { label: "2016-04-20", wayback: "20160420065328", url: "http://ncert.nic.in/ncerts/l/hess3cc.jpg" }
+      - { label: "2021-12-31", wayback: "20211231122116", url: "https://ncert.nic.in/textbook/pdf/hess3cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess3cc.jpg" }
     snapshots:
       - { label: "2014-07-28", wayback: "20140728043207", url: "http://ncert.nic.in/ncerts/l/hess3dd.zip" }
       - { label: "2016-09-10", wayback: "20160910184715", url: "http://ncert.nic.in/ncerts/l/hess3dd.zip" }
@@ -127,6 +139,10 @@ books:
     language: en
     title: "Social and Political Life II"
     code: gess3
+    covers:
+      - { label: "2016-04-03", wayback: "20160403040750", url: "http://ncert.nic.in/ncerts/l/gess3cc.jpg" }
+      - { label: "2022-04-04", wayback: "20220404200827", url: "https://ncert.nic.in/textbook/pdf/gess3cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess3cc.jpg" }
     snapshots:
       - { label: "2014-07-28", wayback: "20140728043044", url: "http://ncert.nic.in/ncerts/l/gess3dd.zip" }
       - { label: "2016-09-10", wayback: "20160910123706", url: "http://ncert.nic.in/ncerts/l/gess3dd.zip" }
@@ -162,6 +178,8 @@ books:
     parts:
       - { part: 1, code: gees1 }
       - { part: 2, code: gees2 }
+    covers:
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gees1cc.jpg" }
     snapshots:
       - { label: "live", part: 1, url: "https://ncert.nic.in/textbook/pdf/gees1dd.zip" }
       - { label: "live", part: 2, url: "https://ncert.nic.in/textbook/pdf/gees2dd.zip" }

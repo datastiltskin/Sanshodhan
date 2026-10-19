@@ -11,7 +11,9 @@
 {% for ed in editions %}
   {% set prev = previous_edition(editions, ed) %}
   {% set pair = diffs.get((prev.id, ed.id)) if prev else none %}
-  <li>
+  <li class="with-cover">
+    <a class="cover" href="{{ ed.url }}"><img loading="lazy" src="{{ images_base }}/{{ ed.cover }}" alt="Cover of the {{ ed.label }}"></a>
+    <div>
     <h2><a href="{{ ed.url }}">{{ ed.label }}</a></h2>
     <p>{{ ed.detail }} {{ ed.raw.chapter_count }} chapters.</p>
     {% if pair %}
@@ -22,6 +24,7 @@
         <a href="/{{ book.id }}/changes/#{{ prev.id }}__{{ ed.id }}">See them</a> or <a href="/{{ book.id }}/compare/?from={{ prev.id }}&amp;to={{ ed.id }}">compare the two editions page by page</a>.</p>
     {% endif %}
     {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
+    </div>
   </li>
 {% endfor %}
 </ol>
