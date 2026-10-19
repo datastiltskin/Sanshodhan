@@ -28,6 +28,25 @@ An OCR reading without this check is not evidence of anything. The outlined-word
 page OCR for rasterised printings, and the vocabulary snapping that steadies them are all
 guesses until a page image confirms them.
 
+## A second reading by a local model
+
+`scripts/ocr_check.py <book> <edition> <chapter> [pages]` has a local OCR model (glm-ocr
+under Ollama) read a page at 150 dpi and prints the words that only one of the two readings
+has. It is a mechanical cross-check, not a judge: a word only in the model's reading says
+where to open the page image, and the image still decides. The model reads the main text
+column and skips margin boxes and page furniture, so words only in our text are usually a
+box. At about fifteen seconds a page it is for the flagged pages and the changed sentences,
+not for the build.
+
+## After changing a rule
+
+A change to the extractor or the OCR re-makes the texts of every edition it touches, and a
+rule that fixes one page can break another ("sawar" read right, but a margin box glued to
+the paragraph beside it). So a rule change is not done when its tests pass: the affected
+editions' pairs are reviewed again against the images, with the same entries as a first
+review, before the texts are committed. A review made before the change says nothing
+about the texts made after it.
+
 ## Reviewing systematically
 
 A review pass goes book by book over the consecutive edition pairs (every edition takes
@@ -38,3 +57,11 @@ survived. The reviewer reads the hunks, opens the images for anything doubtful, 
 what they found to `review/<book>.md` in the form above. A fix pass then works from those
 files: overrides per book, rules in the code with tests, and a re-run of `extract`, `diff`
 and `build` to confirm the counts fell.
+
+When the review is delegated to an agent, the page images fill its context quickly. A
+reviewer given a whole book at once can spend an hour re-opening the same pages and write
+nothing. So a brief gives one agent one part or a few hundred changed sentences, asks it to
+open each page once and judge every sentence on it in one go, to write its findings file
+after every chapter and resume from that file after a reset, and to reuse pages already
+rendered. A run that has read far more images than there are pages has looped, and is
+stopped rather than waited on.

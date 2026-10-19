@@ -16,6 +16,21 @@ Each entry has this shape:
 ```
 
 Verdicts are what the fix pass works from. "Extraction fault (one-off)" entries carry a
-ready-to-paste override (`snapshot`, `chapter`, `find`, `replace`, `note`); "rule" entries
+ready-to-paste override (`snapshot`, `chapter`, `find`, `replace`, `note`). "Rule" entries
 describe the pattern and name every place it was seen, so a code change can be tested
 against them.
+
+## Reviewing after a rule change
+
+A review of texts that were re-made after a rule or OCR change starts from the sentences
+that changed, not from all hunks:
+
+```sh
+uv run python scripts/text_changes.py <book> [<edition>]
+```
+
+lists, per chapter and printed page, the sentences present in the working tree but not in
+the last commit and the reverse. Every listed page is opened in both the old and the new
+rendering of that edition's PDF page (the same page, since the edition did not change, only
+its extraction), and the entry records whether the new text matches the page. Only then are
+the diffs against the neighbouring editions read, as in a first review.

@@ -12,6 +12,9 @@ editions only for now.
 
 - `docs/verification.md` is the rule for checking any doubtful diff: open the page images of
   both editions. Text compared with text cannot tell an extraction fault from an edit.
+  `scripts/text_changes.py` lists the sentences a rule change altered, and
+  `scripts/ocr_check.py` has a local OCR model (glm-ocr under Ollama) re-read a page and
+  prints the words the two readings disagree on, as a pointer to what to open.
 - The site's compare view (`/<book>/compare/`) shows any two editions of a chapter page
   against page, with both page images and both texts, in split or unified form.
 - `overrides/<book>.yaml` holds hand corrections to extracted text (an OCR misreading, a stray
@@ -35,6 +38,9 @@ editions only for now.
 
 Needs [uv](https://docs.astral.sh/uv/), curl, and, for the rasterised 2022-23 printing,
 [tesseract](https://github.com/tesseract-ocr/tesseract) with English data (`brew install tesseract`).
+On macOS the words that some files draw as outlines are read with Apple's Vision framework
+(the `ocrmac` package, installed with the project), which reads them far more reliably than
+tesseract. Elsewhere tesseract is used for those too.
 
 ```sh
 uv sync
