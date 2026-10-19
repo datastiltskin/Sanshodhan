@@ -10,6 +10,8 @@ editions only for now.
 
 ## What is here
 
+- The site's compare view (`/<book>/compare/`) shows any two editions of a chapter page
+  against page, with both page images and both texts, in split or unified form.
 - `overrides/<book>.yaml` holds hand corrections to extracted text (an OCR misreading, a stray
   glyph), applied on every extraction and listed on the chapter's page.
 - `sources.yaml` lists every PDF the project uses: Wayback Machine snapshots (one per known

@@ -253,13 +253,17 @@ def apply_changes(blocks: list[Block], chapter_diff: dict | None) -> dict:
     return counts
 
 
-def sentence_html(s: Sentence, prefix: str = "", heading: bool = False) -> str:
+def sentence_html(s: Sentence, prefix: str = "", heading: bool = False, side: str | None = None) -> str:
+    """One sentence with its change marked. `side` limits a reworded sentence's word diff to
+    the words of one edition: "old" shows removed words only, "new" added words only."""
     if heading and not (s.change == "modified" and s.words):
         shown = display_title(s.text)  # small-caps headings arrive as "the mughals (16th TO 17th CENTURY)"
         s = Sentence(shown, s.stream, s.change, s.words, s.similarity)
     if s.change in ("modified",) and s.words:
         parts = []
         for op, tok in s.words:
+            if (side == "old" and op == "+") or (side == "new" and op == "-"):
+                continue
             t = escape(tok)
             parts.append(t if op == "=" else (f"<del>{t}</del>" if op == "-" else f"<ins>{t}</ins>"))
         inner = " ".join(parts)
@@ -276,8 +280,8 @@ def sentence_html(s: Sentence, prefix: str = "", heading: bool = False) -> str:
     return f"<span class='s chg chg-{s.change}{quiet}' title='{title}'>{inner}</span>"
 
 
-def block_html(b: Block) -> str:
-    inner = " ".join(sentence_html(s, heading=(b.kind == "heading")) for s in b.sentences)
+def block_html(b: Block, side: str | None = None) -> str:
+    inner = " ".join(sentence_html(s, heading=(b.kind == "heading"), side=side) for s in b.sentences)
     if b.kind == "heading":
         tag = {1: "h2", 2: "h3", 3: "h4"}.get(b.level, "h3")
         cls = " class='ghost'" if b.para == -1 else ""
@@ -372,6 +376,53 @@ def _read_doc(name: str) -> str:
     return re.sub(r"^# .*\n", "", text, count=1)  # the template supplies the title
 
 
+def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, log=print) -> int:
+    """JSON for the compare view: every pair of editions, one file per aligned chapter, plus
+    an index of pairs and chapters. Returns the number of chapter files written."""
+    from ..diff import diff_editions
+    from .compare import compare_chapter, single_side
+
+    data_dir = out / "data" / book_id
+    data_dir.mkdir(parents=True, exist_ok=True)
+    index: dict = {"editions": [{"id": e.id, "label": e.label, "ocr": bool(e.raw.get("ocr"))} for e in editions], "pairs": {}}
+    written = 0
+    for i, a in enumerate(editions):
+        for b in editions[i + 1:]:
+            r = diffs.get((a.id, b.id)) or diff_editions(book_id, a.id, b.id)
+            key = f"{a.id}__{b.id}"
+            pair_dir = data_dir / key
+            pair_dir.mkdir(exist_ok=True)
+            chapters = []
+            for c in r["chapters"]:
+                frm, to = c.get("from"), c.get("to")
+                old_dir = chapter_dir_name(frm["part"], frm["number"]) if frm else None
+                new_dir = chapter_dir_name(to["part"], to["number"]) if to else None
+                slug = new_dir or f"old-{old_dir}"
+                if c["status"] == "matched":
+                    payload = compare_chapter((REPO_ROOT / frm["file"]).read_text(), (REPO_ROOT / to["file"]).read_text(), c)
+                elif c["status"] == "dropped":
+                    payload = single_side((REPO_ROOT / frm["file"]).read_text(), "old")
+                else:
+                    payload = single_side((REPO_ROOT / to["file"]).read_text(), "new")
+                (pair_dir / f"{slug}.json").write_text(json.dumps(payload, ensure_ascii=False))
+                written += 1
+                chapters.append(
+                    {
+                        "slug": slug,
+                        "status": c["status"],
+                        "old": {"number": frm["number"], "part": frm["part"], "title": display_title(frm["title"]), "dir": old_dir} if frm else None,
+                        "new": {"number": to["number"], "part": to["part"], "title": display_title(to["title"]), "dir": new_dir} if to else None,
+                        "counts": payload["counts"],
+                        "changed_pages": sum(1 for row in payload["rows"] if row["real"]),
+                        "pages": len(payload["rows"]),
+                    }
+                )
+            index["pairs"][key] = {"summary": r["summary"], "chapters": chapters}
+    (data_dir / "pairs.json").write_text(json.dumps(index, ensure_ascii=False))
+    log(f"{book_id}: compare data for {len(index['pairs'])} edition pairs, {written} chapter files")
+    return written
+
+
 def build(out: Path, images_base: str, *, log=print) -> Path:
     env = _env()
     books = load_books()
@@ -405,6 +456,8 @@ def build(out: Path, images_base: str, *, log=print) -> Path:
         write(f"/{book_id}/changes/", "changes_book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition, REAL=REAL)
         checks = page_checks(book_id, diffs, editions)
         write(f"/{book_id}/checks/", "checks.html", book=book, editions=editions, checks=checks, total=sum(len(c["flagged"]) for c in checks))
+        write_compare_data(book_id, editions, diffs, out, log=log)
+        write(f"/{book_id}/compare/", "compare.html", book=book, editions=editions)
         for ed in editions:
             prev = previous_edition(editions, ed)
             pair = diffs.get((prev.id, ed.id)) if prev else None

@@ -139,3 +139,48 @@ footer .inner { max-width: var(--wide); margin: 0 auto; padding: 1rem; font-size
 .check-images { display: flex; gap: 1rem; flex-wrap: wrap; }
 .check-images img { width: min(100%, 360px); border: 1px solid var(--border); }
 .muted { color: var(--muted); }
+
+/* Compare view: two editions, page against page. */
+.cmp-bar { display: flex; flex-wrap: wrap; gap: .5rem 1.2rem; align-items: center; position: sticky; top: 0; background: var(--bg); padding: .5rem 0; z-index: 3; border-bottom: 1px solid var(--border); font-size: .92rem; }
+.cmp-bar label { margin: 0; }
+.cmp-bar select { max-width: 26rem; }
+.cmp-nav button { font: inherit; padding: .1rem .55rem; margin-left: .2rem; cursor: pointer; }
+.settings { position: relative; }
+.settings summary { cursor: pointer; list-style: none; padding: .15rem .6rem; border: 1px solid var(--border); border-radius: .3rem; }
+.settings summary::-webkit-details-marker { display: none; }
+.settings[open] summary { background: var(--soft); }
+.settings-body { position: absolute; left: 0; top: 2rem; background: var(--bg); border: 1px solid var(--border); border-radius: .4rem; padding: .6rem 1rem; box-shadow: 0 4px 16px rgba(0, 0, 0, .12); z-index: 4; min-width: 17rem; }
+.settings-body fieldset { border: 0; padding: 0; margin: 0 0 .6rem; }
+.settings-body legend { font-weight: 600; font-size: .85rem; margin-bottom: .2rem; }
+.settings-body label { display: block; margin: .15rem 0; }
+.onion-only { display: none !important; }
+body.onion .onion-only { display: block !important; }
+.help { display: inline-block; width: 1.1rem; height: 1.1rem; line-height: 1.1rem; text-align: center; border-radius: 50%; background: var(--soft); border: 1px solid var(--border); color: var(--muted); font-size: .75rem; cursor: help; position: relative; vertical-align: middle; }
+.help::after { content: attr(data-tip); position: absolute; left: 0; top: 1.4rem; width: 18rem; background: var(--bg); color: var(--fg); border: 1px solid var(--border); border-radius: .3rem; padding: .5rem .6rem; font-size: .8rem; font-weight: 400; line-height: 1.4; display: none; z-index: 5; box-shadow: 0 4px 16px rgba(0, 0, 0, .12); }
+.help:hover::after, .help:focus::after { display: block; }
+.settings-body .help::after { left: 0; right: auto; width: 15rem; }
+.cmp-rows { display: flex; flex-direction: column; gap: 2.2rem; }
+.cmp-row { border-top: 1px solid var(--border); padding-top: 1rem; }
+.cmp-images { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2rem; margin-bottom: .8rem; }
+.cmp-images img { max-height: 72vh; max-width: 100%; width: auto; height: auto; margin: 0 auto; border: 1px solid var(--border); background: #fff; display: block; }
+.cmp-images figure { margin: 0; }
+.cmp-images figcaption { text-align: center; color: var(--muted); font-size: .8rem; margin-top: .2rem; }
+.cmp-images .nopage { display: grid; place-items: center; min-height: 8rem; border: 1px dashed var(--border); color: var(--muted); font-size: .85rem; }
+.cmp-images .onion-box { display: none; }
+.images-hidden .cmp-images { display: none; }
+.images-onion .cmp-images { grid-template-columns: 1fr; }
+.images-onion .cmp-images .old, .images-onion .cmp-images .new { display: none; }
+.images-onion .cmp-images .onion-box { display: block; position: relative; max-width: 36rem; margin: 0 auto; }
+.images-onion .onion-box a:last-of-type { position: absolute; inset: 0; display: block; }
+.images-onion .onion-box a:last-of-type img { opacity: var(--fade, .5); }
+.images-onion .onion-box img { margin: 0 auto; }
+.cmp-texts { display: grid; grid-template-columns: 1fr 1fr; gap: 1.6rem; }
+.cmp-texts .col { font-family: var(--serif); font-size: 1rem; line-height: 1.6; min-width: 0; }
+.cmp-texts .col h2 { font-size: 1.3rem; margin-top: 0; }
+.cmp-texts .col h3 { font-size: 1.1rem; }
+.cmp-texts .unified { display: none; }
+.layout-unified .cmp-texts { grid-template-columns: 1fr; }
+.layout-unified .cmp-texts .old, .layout-unified .cmp-texts .new { display: none; }
+.layout-unified .cmp-texts .unified { display: block; }
+.cmp-rows.minor-off .chg.quiet { background: none; color: inherit; outline: none; }
+@media (max-width: 900px) { .cmp-texts, .cmp-images { grid-template-columns: 1fr; } .cmp-bar { position: static; } }

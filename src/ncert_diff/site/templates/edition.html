@@ -8,7 +8,7 @@
   <p class="subtitle">{{ ed.detail }}</p>
 </div>
 {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
-{% if prev %}<p>Changes are shown against the <a href="{{ prev.url }}">{{ prev.label }}</a>.</p>{% endif %}
+{% if prev %}<p>Changes are shown against the <a href="{{ prev.url }}">{{ prev.label }}</a>. <a href="/{{ book.id }}/compare/?from={{ prev.id }}&amp;to={{ ed.id }}">Compare the two page by page</a>, or pick any other edition there.</p>{% endif %}
 <h2>Chapters</h2>
 <ol class="chapters">
 {% for c in chapters %}

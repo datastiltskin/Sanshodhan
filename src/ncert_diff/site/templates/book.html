@@ -6,6 +6,7 @@
   <h1>{{ book.title }}</h1>
   <p class="subtitle">Class {{ book.klass }} {{ book.subject }} textbook. Each entry is a distinct text: printings with identical words are grouped together.</p>
 </div>
+<p><a class="button" href="/{{ book.id }}/compare/">Compare any two editions</a></p>
 <ol class="timeline">
 {% for ed in editions %}
   {% set prev = previous_edition(editions, ed) %}
@@ -18,7 +19,7 @@
       <p class="changes-line">Since the {{ prev.label }}:
         {% if s.chapters_dropped %}<strong>{{ s.chapters_dropped }} chapter{{ 's' if s.chapters_dropped != 1 }} dropped</strong>,{% endif %}
         {{ s.body.deleted }} sentences removed, {{ s.body.inserted }} added, {{ s.body.modified }} reworded in the main text{% if s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified %}, and {{ s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified }} changes in boxes, captions, tables and exercises{% endif %}.
-        <a href="/{{ book.id }}/changes/#{{ prev.id }}__{{ ed.id }}">See them</a>.</p>
+        <a href="/{{ book.id }}/changes/#{{ prev.id }}__{{ ed.id }}">See them</a> or <a href="/{{ book.id }}/compare/?from={{ prev.id }}&amp;to={{ ed.id }}">compare the two editions page by page</a>.</p>
     {% endif %}
     {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
   </li>

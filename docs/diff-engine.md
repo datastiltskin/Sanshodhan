@@ -45,6 +45,18 @@ found in a second pass over the leftover deletions and insertions.
 The HTML view shows deleted, inserted, and modified hunks and folds the rest away. Counts in
 `summary` separate body text from the other streams.
 
+## The compare view
+
+The site's compare page (`/<book>/compare/`) takes any two editions and a chapter. Its data
+is written at build time for every pair of editions, one JSON file per chapter, so no server
+is needed. Pages are paired by where their text went: each old page goes with the new page
+that most of its surviving sentences landed on, walking forward through both editions, so
+a page that was cut or inserted stands alone in its row. The old page's text carries the
+removals and the old half of each rewording, the new page's text the additions and the new
+half, and a unified rendering puts the removals inline in the new text. Settings (side by
+side or unified text, side by side or onion-skin images, only changed pages, minor
+differences) are remembered in the browser.
+
 ## Pages to check
 
 For every matched chapter the engine also scores each page: the share of its sentences

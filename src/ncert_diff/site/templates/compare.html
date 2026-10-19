@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block title %}Compare editions of {{ book.title }}{% endblock %}
+{% set active = book.id %}
+{% block mainclass %}wide{% endblock %}
+{% block content %}
+<div class="title-block">
+  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › Compare</p>
+  <h1>Compare two editions</h1>
+  <p class="subtitle">Pick any two editions and a chapter. Pages are paired by where their text went, since page numbers shift between printings. A page with no counterpart stands alone.</p>
+</div>
+<div class="cmp-bar" id="cmp-bar" data-book="{{ book.id }}" data-images="{{ images_base }}">
+  <label>From <select id="cmp-from"></select></label>
+  <label>To <select id="cmp-to"></select></label>
+  <label>Chapter <select id="cmp-chapter"></select></label>
+  <span class="cmp-nav"><button type="button" id="cmp-prev" title="Previous chapter">‹</button><button type="button" id="cmp-next" title="Next chapter">›</button></span>
+  <details class="settings" id="cmp-settings">
+    <summary>Settings</summary>
+    <div class="settings-body">
+      <fieldset>
+        <legend>Text <span class="help" tabindex="0" data-tip="Split: the older edition on the left with removals, the newer on the right with additions. Unified: one column in the newer edition's order, with removed text struck through where it used to be.">?</span></legend>
+        <label><input type="radio" name="layout" value="split" checked> Side by side</label>
+        <label><input type="radio" name="layout" value="unified"> Unified</label>
+      </fieldset>
+      <fieldset>
+        <legend>Page images <span class="help" tabindex="0" data-tip="Side by side shows both scans. Onion skin lays the newer page over the older one; drag the slider to fade between them. Where the page size changed between printings the overlay only lines up roughly.">?</span></legend>
+        <label><input type="radio" name="images" value="side" checked> Side by side</label>
+        <label><input type="radio" name="images" value="onion"> Onion skin</label>
+        <label><input type="radio" name="images" value="hidden"> Hidden</label>
+        <label class="onion-only">Fade <input type="range" id="cmp-fade" min="0" max="100" value="50"></label>
+      </fieldset>
+      <fieldset>
+        <legend>Filters</legend>
+        <label><input type="checkbox" id="cmp-only-changed"> Only pages with changes <span class="help" tabindex="0" data-tip="Hide pages whose text is the same in both editions. The page list on the right still shows every page.">?</span></label>
+        <label><input type="checkbox" id="cmp-minor"> Include minor differences <span class="help" tabindex="0" data-tip="Also mark, and count as changes, sentences that only differ in punctuation, case, dashes or quotes, or that moved within the chapter.">?</span></label>
+      </fieldset>
+    </div>
+  </details>
+</div>
+<p class="legend"><span class="chg chg-inserted">added</span> <span class="chg chg-deleted">removed</span> <span class="chg chg-modified"><del>old</del> <ins>new</ins> reworded</span></p>
+<p id="cmp-summary" class="muted"></p>
+<div id="cmp-rows" class="cmp-rows layout-split images-side"></div>
+<p id="cmp-empty" class="muted" hidden>No pages to show with the current filters.</p>
+{% endblock %}
+{% block scripts %}<script src="/static/compare.js"></script>{% endblock %}
