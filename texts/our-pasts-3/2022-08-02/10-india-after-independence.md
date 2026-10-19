@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch10.pdf"
 source_sha256: "4a8a620fc73fef97bd06fb991f043feb252ff56749f5f106d185f6d9e9bb8b7e"
 pdf_pages: 15
 printed_pages: "128-142"
-body_fingerprint: "0c9241bd3beb41f18e64cd95f9052af01ed69db1a3c51f5a2812022c40affb8d"
+body_fingerprint: "3fa5d38f647ece444cdb663ef8b79e796dd59937648100b220d8ba9461970838"
 ---
 
 <!-- page 128 (pdf 1) -->
@@ -23,7 +23,7 @@ When India became independent in August 1947, it faced a series of very great ch
 
 > [caption] Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
 
-Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
+> [caption] Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
 
 <!-- page 129 (pdf 2) -->
 
@@ -71,19 +71,21 @@ Activity Imagine a conversation between a father and son in a Muslim family. Aft
 
 <!-- page 132 (pdf 5) -->
 
-> [caption] Fig. 3 – Dr B.R. Ambedkar
-
-Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
-
 “the initial responsibility for the well-being of the people of the provinces should rest with the Provincial Governments”.
 
 The Constitution sought to balance these competing claims by providing three lists of subjects: a Union List, with subjects such as taxes, defence and foreign affairs, which would be the exclusive responsibility of the Centre; a State List of subjects, such as education and health, which would be taken care of principally by the states; a Concurrent List, under which would come subjects such as forests and agriculture, in which the Centre and the states would have joint responsibility.
 
 Another major debate in the Constituent Assembly concerned language. Many members believed that the English language should leave India with the British rulers. Its place, they argued, should be taken by Hindi. However, those who did not speak Hindi were of a different opinion. Speaking in the Assembly, T.T. Krishnamachari conveyed “a warning on behalf of people of the South”, some of whom threatened to separate from India if Hindi was imposed on them. A compromise was finally arrived at: namely, that while Hindi would be the “official language” of India, English would be used in the courts, the services, and communications between one state and another.
 
-Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
+Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
+
+> [caption] Fig. 3 – Dr B.R. Ambedkar
+
+> [caption] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
 
 <!-- page 133 (pdf 6) -->
+
+we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
 ## How were States to be Formed?
 
@@ -117,9 +119,11 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 > [caption] Fig. 5 (b) – Indian States before 1 November 1956
 
-Activity
+### Activity
 
 Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear in 5 (b). Identify the new states that were formed in 1956 and later and the languages of these states.
+
+> [caption] Fig. 5 (c) – Indian States in 1975
 
 > [caption] Erstwhile Princely States*
 
@@ -129,19 +133,17 @@ Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear i
 
 <!-- page 136 (pdf 9) -->
 
-> [caption] Fig. 6 – The bridge on the Mahanadi river constructed to control the flow of water Bridges and dams became the symbol of development in independent India.
-
-State – Concerned with the government. (Note that used in this sense, the word does not refer to the different states which are found in a country.)
-
-> [caption] Fig. 7 – Work going on at the Gandhi Sagar bandh
-
-> [table] This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
-
 ## Planning for Development
 
 Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
 
 In 1956, the Second Five Year Plan was formulated. This focused strongly on the development of heavy industries such as steel, and on the building of large dams. These sectors would be under the control of the State. This focus on heavy industry, and the effort at state regulation of the economy was to guide economic policy for the next few decades. This approach had many strong supporters, but also some vocal critics.
+
+> [caption] Fig. 6 – The bridge on the Mahanadi river constructed to control the flow of water Bridges and dams became the symbol of development in independent India.
+
+State – Concerned with the government. (Note that used in this sense, the word does not refer to the different states which are found in a country.)
+
+> [caption] Fig. 7 – Work going on at the Gandhi Sagar bandh This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
 
 <!-- page 137 (pdf 10) -->
 
@@ -155,7 +157,7 @@ Prime Minister Jawaharlal Nehru was a great supporter of the planning process. H
 
 Some felt that it had put inadequate emphasis on agriculture. Others argued that it had neglected primary education. Still others believed that it had not taken account of the environmental implications of economic policies. As Mahatma Gandhi’s follower Mira Behn wrote in 1949, by “science and machinery he [mankind] may get huge returns for a time, but ultimately will come desolation. We have got to study Nature’s balance, and develop our lives within her laws, if we are to survive as a physically healthy and morally decent species.”
 
-Activity
+### Activity
 
 Discuss in your class whether Mira Behn was right in her view that science and machinery would create problems for human beings. You may like to think about examples of the effects of industrial pollution and de-forestation on the world today.
 
@@ -163,19 +165,19 @@ Discuss in your class whether Mira Behn was right in her view that science and m
 
 <!-- page 138 (pdf 11) -->
 
-> [caption] Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations
+### The search for an independent foreign policy
 
-> [table] Krishna Menon led the Indian delegation to the UN between 1952 and 1962 and argued for a policy of non-alignment.
-
-> [caption] Fig. 10 – Leaders of Asian and African countries meet at Bandung, Indonesia 1955
-
-> [table] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
-
-The search for an independent foreign policy India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
+India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
 
 Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war — often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
 
 By the 1970s, a large number of countries had joined the non-aligned movement.
+
+> [caption] Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations Krishna Menon led the Indian delegation to the UN between 1952 and 1962 and argued for a policy of non-alignment.
+
+> [caption] Fig. 10 – Leaders of Asian and African countries meet at Bandung, Indonesia 1955
+
+> [caption] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
 
 <!-- page 139 (pdf 12) -->
 
@@ -193,9 +195,9 @@ The Constitution recognises equality before the law, but in real life some India
 
 <!-- page 140 (pdf 13) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-What happened in Sri Lanka
+### What happened in Sri Lanka
 
 In 1956, the year the states of India were reorganised on the basis of language, the Parliament of Sri Lanka (then Ceylon) introduced an Act recognising Sinhala as the sole official language of the country. This made Sinhala the medium of instruction in all state schools and colleges, in public examinations, and in the courts. The new Act was opposed by the Tamil-speaking minority who lived in the north of the island. “When you deny me my language,” said one Tamil MP, “you deny me everything.” “You are hoping for a divided Ceylon,” warned another, adding: “Do not fear, I assure you [that you] will have a divided Ceylon.” An Opposition member, himself Sinhala speaking, predicted that if the government did not change its mind and insisted on the Act being passed, “two torn little bleeding states might yet arise out of one little state”.
 
@@ -259,4 +261,4 @@ _________ and _________.
 
 <!-- section: references -->
 
-NOTES
+### NOTES

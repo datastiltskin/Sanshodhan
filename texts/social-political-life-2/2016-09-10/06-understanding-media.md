@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch06.pdf"
 source_sha256: "9ebaace4e7d5b77e7287aca724b6d5b81aec21c0d67e75d6bdc771e06bc5710b"
 pdf_pages: 12
 printed_pages: "68-79"
-body_fingerprint: "af1ad9f36c2e7f82ab76a6478028c57b6f9b121c8833fbf62ecd531d0aabd57c"
+body_fingerprint: "41677ee1bedfec442f56340600ac98c79b881554db9168d7b5b7036670bbdded"
 ---
 
 <!-- page 68 (pdf 1) -->
@@ -162,9 +162,11 @@ Fashion shows are very popular with the media.
 
 > [note] Can you think of an issue that does not seem important to you because it is never featured in the
 
-As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Local media Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
+As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
 
 > [note] media?
+
+### Local media
 
 Another example is a newspaper called Khabar Lahriya which is a fortnightly that is run by eight Dalit women in Chitrakoot district in Uttar Pradesh. Written in the local language, Bundeli, this eight-page newspaper reports on Dalit issues and cases of violence against women and political corruption. The newspaper reaches farmers, shopkeepers, panchayat members, school teachers and women who have recently learnt to read and write.
 

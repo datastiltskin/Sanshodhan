@@ -10,9 +10,12 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch09.pdf"
 source_sha256: "723673512f8d684346611871ef1d90b69b09f623f63fc33091cf19b5dae21d5f"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "2aace274317caec52578bb294268a8af52ec74fe2ba14e81c4d7b7c31a1f3774"
+body_fingerprint: "73252540a3fac07042282b1e5cf3cacd24a10ed0f40a7912a1b79fa9d17eacf2"
 ocr: true
 ocr_confidence: 92.4
+overrides:
+  - "box title from page 132 glued into the sentence on page 130, which continues 'influence of Sanskrit.' on the next page"
+  - "stray OCR token 'NSA' from the margin triangle on page 136"
 ---
 
 <!-- page 122 (pdf 1) -->
@@ -39,13 +42,13 @@ In other regions, regional cultures grew around religious traditions. The best e
 
 In the twelfth century, one of the most important rulers of the Ganga dynasty, Anantavarman, decided to erect a temple for Purushottama Jagannatha at Puri. Subsequently, in 1230, king Anangabhima III dedicated his kingdom to the deity and proclaimed himself as the “deputy” of the god.
 
-> [caption] Fig. 1
+> [table] Fig. 1
 
 > [caption] An early Kerala inscription, composed in Malayalam.
 
-> [note] Find out when the language(s) you speak at home were first used for writing.
+Find out when the language(s) you speak at home were first used for writing.
 
-> [caption] Fig. 2
+> [table] Fig. 2
 
 > [caption] The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.
 
@@ -65,7 +68,9 @@ Did women find a place within these stories? Sometimes, they figure as the “ca
 
 > [caption] My a rr SAMMU / { AND as j KASHMIR >: z i. ; “ PRADESH j,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.
 
-{RAJASTHAN Jaipur 74 pp Lucknow Spo, sik / ; se \dodhpure Ajmer ~ Ry AWADH “Nee we K Se ; ote, | 4 BIHAR gay SMECWAA, 7 oC OF ee © Chittaurgarh © = 4 @ ji #7
+{RAJASTHAN Jaipur 74 pp Lucknow Spo, sik / ; se \dodhpure Ajmer ~ Ry AWADH “Nee we K OF ee © Chittaurgarh © ₹ 4 @ ji #7
+
+Se ; ote, | 4 BIHAR gay SMECWAA, 7 oC
 
 “a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee. ny . > S$. -Kolkata® *- nye? ie oe. é a \ i ~~ << \ & ; co hal \n" DIU ft: = ORISSA \ Nee. ie 3 ‘Bhubaneshwareg / . Sy \ ; f em Puri & ( of 2) \RABIAN j . Ff AY oO! ‘ E \ : wt fa BENGAL \ {ANDHRA “A ; ‘ \ PRADESH — ly a cog (C7 Ys } Us, < . yr. 0 X TAMIL NADU 2. \2 j *¢ ‘ \> onal \ c f a > > a \ ° ‘e 4 Thiruvananthaputamy” ; \ y ‘2S D y OCEAN *
 
@@ -109,7 +114,9 @@ Kuchipudi (Andhra Pradesh) Fig. 6 Manipuri (Manipur) Kathak dancers, a court pai
 
 <!-- page 128 (pdf 7) -->
 
-Painting for Patrons: The Tradition of Miniatures Another tradition that developed in different ways was that of miniature painting. Miniatures (as their very name suggests) are small-sized paintings, generally done in water colour on cloth or paper. The earliest miniatures were on palm leaves or wood. Some of the most beautiful of these, found in western India, were used to illustrate Jaina texts. The Mughal emperors Akbar, Jahangir and Shah Jahan patronised highly skilled painters who primarily illustrated manuscripts containing historical accounts and poetry. These were generally painted in brilliant colours and portrayed court scenes, scenes of battle or hunting, and other aspects of social life. They were often exchanged as gifts and were viewed only by an exclusive few — the emperor and his close associates.
+### Painting for Patrons: The Tradition of Miniatures
+
+Another tradition that developed in different ways was that of miniature painting. Miniatures (as their very name suggests) are small-sized paintings, generally done in water colour on cloth or paper. The earliest miniatures were on palm leaves or wood. Some of the most beautiful of these, found in western India, were used to illustrate Jaina texts. The Mughal emperors Akbar, Jahangir and Shah Jahan patronised highly skilled painters who primarily illustrated manuscripts containing historical accounts and poetry. These were generally painted in brilliant colours and portrayed court scenes, scenes of battle or hunting, and other aspects of social life. They were often exchanged as gifts and were viewed only by an exclusive few — the emperor and his close associates.
 
 With the decline of the Mughal Empire, many painters moved out to the courts of the emerging regional states (see also Chapter 10). As a result Mughal artistic tastes influenced the regional courts of the Deccan and the Rajput courts of Rajasthan. At the same time, they retained and developed their distinctive characteristics. Portraits of rulers and court scenes came to be painted, following the Mughal example. Besides, themes from mythology and poetry were depicted at centres such as Mewar, Jodhpur, Bundi, Kota and Kishangarh.
 
@@ -133,13 +140,17 @@ Another region that attracted miniature paintings was the Himalayan foothills ar
 
 Remember that ordinary women and men painted as well - on pots, walls, floors, cloth — works of art that have occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries.
 
-A Closer Look: Bengal The Growth of a Regional Language As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium sce) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
+A Closer Look: Bengal The Growth of a Regional Language
 
-‘ adele eee ; From the fourth-third centuries sce, commercial of the earliest Bengali ties began to develop between Bengal and Magadha Ramayana. (south Bihar), which may have led to the growing influence of Sanskrit. During the fourth century the Gupta rulers established political control over north Bengal and began to settle Brahmanas in this area. Thus, the linguistic and cultural influence from the mid-Ganga valley became stronger. In the seventh century the Chinese traveller Xuan Zang observed that languages related to Sanskrit were in use all over Bengal.
+As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium sce) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
 
-> [caption] Fig. 10
+> [table] Fig. 10
+
+‘ adele eee ; From the fourth-third centuries sce, commercial of the earliest Bengali ties began to develop between Bengal and Magadha Ramayana. (south Bihar), which may have led to the growing
 
 <!-- page 131 (pdf 10) -->
+
+influence of Sanskrit. During the fourth century the Gupta rulers established political control over north Bengal and began to settle Brahmanas in this area. Thus, the linguistic and cultural influence from the mid-Ganga valley became stronger. In the seventh century the Chinese traveller Xuan Zang observed that languages related to Sanskrit were in use all over Bengal.
 
 From the eighth century, Bengal became the centre of a regional kingdom under the Palas (Chapter 2). Between the fourteenth and sixteenth centuries, Bengal was ruled by Sultans who were independent of the rulers in Delhi (Chapter 3). In 1586, when Akbar conquered Bengal, it formed the nucleus of the Bengal suba. While Persian was the language of administration, Bengali developed as a regional language.
 
@@ -151,13 +162,13 @@ The second includes Nath literature such as the songs of Maynamati and Gopichand
 
 <!-- page 132 (pdf 11) -->
 
-Maynamati, Gopichandra and
-
 Dharma Thakur
 
 The Naths were ascetics who engaged in a variety of yogic practices.
 
-This particular song, which was often enacted, described how Maynamati, a queen, encouraged her son Gopichandra to adopt the path of asceticism in the face of a variety of obstacles.
+This particular song, which was often enacted, described how Maynamati, a queen, encouraged her
+
+son Gopichandra to adopt the path of asceticism in the face of a variety of obstacles.
 
 Dharma Thakur is a popular regional deity, often worshipped in the form of a stone or a piece of wood.
 
@@ -185,13 +196,13 @@ This term included saints or Sufis and other religious personalities, daring col
 
 Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapters 2 and 5) that temples and other religious structures were often built by individuals or groups who were becoming powerful — to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed (dochala) or four-roofed (chauchala) structure of the thatched huts. (Remember the “Bangla dome” in Chapter 5?) This led to the evolution of the typical Bengali style in temple architecture.
 
-> [note] Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
+Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
 
-> [note] Compare the temple shown here with that in Chapter 2.
+Compare the temple shown here with that in Chapter 2.
 
-> [caption] Fig. 11 (left) A double-roofed thatched hut.
+> [table] Fig. 11 (left) A double-roofed thatched hut.
 
-> [caption] Fig. 12 (right) A four-roofed temple with a tower.
+> [table] Fig. 12 (right) A four-roofed temple with a tower.
 
 <!-- page 134 (pdf 13) -->
 
@@ -205,7 +216,7 @@ Fish as Food
 
 Traditional food habits are generally based on locally available items of food. Bengal is a riverine plain which produces plenty of rice and fish. Understandably, these two items figure prominently in the menu of even poor Bengalis. Fishing has always been an important occupation and Bengali literature contains several references to fish. What is more, terracotta plaques on the walls of temples and viharas (Buddhist monasteries) depict scenes of fish being dressed and taken to the market in baskets.
 
-Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fish in the local diet made the Brahmanical authorities relax this prohibition for the Bengal Brahmanas. The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat Emergence of nation-states in Europe Till the eighteenth century, people in Europe saw themselves as subjects of an empire, such as the Austro-Hungarian empire, or members of a church, such as the Greek Orthodox church. But, from the late eighteenth century, people also began to identify themselves as members of a community that spoke a common language, such as French or German. By the early nineteenth century, in Rumania school textbooks began to be written in Rumanian rather than in Greek, and in Hungary Hugarian was adopted as the official language instead of Latin. These and other similar developments created the consciousness among the people that each linguistic community was a separate nation. This feeling was strengthened by the movements for Italian and German unification in the late nineteenth century.
+Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fish in the local diet made the Brahmanical authorities relax this prohibition for the Bengal Brahmanas. The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat Emergence of nation-states in Europe You are a Rajput prince. How would you like your story to be told?
 
 > [caption] Fig. 14
 
@@ -215,15 +226,27 @@ Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fis
 
 > [caption] dressed for domestic consumption, terracotta plaque from the Vishalalkshi temple, Arambagh.
 
+Till the eighteenth century, people in Europe saw themselves as subjects of an empire, such as the Austro-Hungarian empire, or members of a church, such as the Greek Orthodox church. But, from the late eighteenth century, people also began to identify themselves as members of a community that spoke a common language, such as French or German. By the early nineteenth century, in Rumania school textbooks began to be written in Rumanian rather than in Greek, and in Hungary Hugarian was adopted as the official language instead of Latin. These and other similar developments created the consciousness among the people that each linguistic community was a separate nation. This feeling was strengthened by the movements for Italian and German unification in the late nineteenth century.
+
 <!-- page 136 (pdf 15) -->
 
-You are a Rajput prince. How would you like your story to be told?
+### Match the following: Anantavarman Kerala
 
-Match the following: NSA Anantavarman Kerala Jagannatha Bengal Mahodayapuram Orissa Lilatilakam Kangra Mangalakavya Puri What is Manipravalam? Name a book written in that Who were the major patrons of Kathak?
+Jagannatha Bengal
+
+Mahodayapuram Orissa
+
+Lilatilakam Kangra
+
+Mangalakavya Puri
 
 > [caption] Miniature Kerala
 
-> [note] language.
+What is Manipravalam? Name a book written in that
+
+language.
+
+Who were the major patrons of Kathak?
 
 What are the important architectural features of the temples of Bengal ?
 
@@ -235,9 +258,13 @@ What are the important architectural features of the temples of Bengal ?
 
 > [caption] heroes?
 
-. Why do we know much more about the cultural practices of rulers than about those of ordinary people?
+. Why do we know much more about the cultural
 
-. Why did conquerors try to control the temple of Jagannatha at Puri?
+practices of rulers than about those of ordinary people?
+
+. Why did conquerors try to control the temple of
+
+Jagannatha at Puri?
 
 Why were temples built in Bengal?
 

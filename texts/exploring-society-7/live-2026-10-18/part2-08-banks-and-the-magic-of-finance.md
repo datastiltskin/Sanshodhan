@@ -11,7 +11,11 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf"
 source_sha256: "ed08c46a27f2f3f2a8a944fdcd967c144b6ff69db8fb24e4f8e0c50ceb6ee4de"
 pdf_pages: 20
 printed_pages: "193-212"
-body_fingerprint: "f2c9424e9282e385b8d35a113ff33ef9c83584e95a268cb606c362551236a34e"
+body_fingerprint: "bb4bbd7a6512f250548c4dedba23d4f68d716e9a400651b6a07f12be06f0947e"
+overrides:
+  - "part 2 chapter 8, page 206: xxxxxx is the dummy phone number from the app drawing"
+  - "part 2 chapter 8, page 206: two interleaved sentences of the Fig. 8.18 flow chart re-threaded"
+  - "part 2 chapter 8, page 208: the margin note label was glued to the previous caption"
 ---
 
 <!-- page 193 (pdf 1) -->
@@ -60,6 +64,8 @@ This picture is from a bank. What do you think the people are doing? Ask your fa
 
 > [table] When friends and family couldn’t help as much as required, she decides to take a loan from the bank and repay it later.
 
+> [caption] Fig. 8.3. (b) Rima takes a loan
+
 <!-- page 196 (pdf 4) -->
 
 ### THINK ABOUT IT
@@ -87,6 +93,8 @@ A bank accepts and holds money (deposits) that people put into Banks provide the
 > [caption] This account is for individuals who save regularly and earn interest on such savings. It opens with a minimum deposit and allows money to be added or withdrawn, though there are limits on how often the depositor can withdraw each month.
 
 > [caption] This is a one-time deposit kept for a fixed period, like 3 or 5 years. After that time, the bank returns the original amount, plus interest, which is usually higher than what a savings account offers.
+
+> [caption] Fig. 8.4. Types of bank accounts
 
 > [caption] Deposits: Money placed in a bank account that can be withdrawn as per the terms of the bank and often earns interest.
 
@@ -200,7 +208,7 @@ There also exist other financial institutions that support specific sectors. For
 
 With numerous banks and financial institutions, it is essential to have clear rules and regulations that everyone follows. But who sets these regulations?
 
-Reserve Bank of India – Banker to Banks
+### Reserve Bank of India – Banker to Banks
 
 The Reserve Bank of India (RBI) is the bank that supervises the Indian banking system. It is also called India’s central bank. Several countries have central banks which supervise and manage policies related to their banking system.
 
@@ -262,17 +270,21 @@ Generally, savings can be withdrawn from the bank account through multiple metho
 
 ## How can money be transferred from one bank account to another?
 
-Cheque
+### Cheque
 
 A cheque is a paper instrument that allows you to pay someone directly from your bank account. The bank provides a cheque book with multiple cheques. To pay ₹5,000 to your friend Rohan, you write a cheque with the exact amount, Rohan’s name, and your signature. Rohan can then deposit the cheque in his bank. The amount gets withdrawn (debited) from your account and is transferred (credited) to Rohan’s bank account.
 
-> [table] Date on which you wish to issue the cheque Amount of money in number Where the cheque issuer needs to sign MICR code Cheque number MICR band
+> [table] Date on which you wish to issue the cheque Amount of money in number Where the cheque issuer needs to sign
+
+> [caption] MICR code Cheque number MICR band
 
 > [caption] Fig. 8.14. Cheque
 
 The transfer or payment of money through a cheque requires physically visiting a bank and takes time. However, electronic modes of payment allow instant transfers from the sender’s account to the receiver’s account. These are called electronic payment methods, some of which are discussed below.
 
-Debit cards and Point of Sale (POS) machines Debit cards can be used to make payments at retails stores such as a grocery or clothing store, and chemist. On one hand, they help withdraw cash from ATMs as seen above, and on the other hand, they enable the transfer of money from customers to the store owner. Customers use their debit card by swiping or inserting it into a POS machine, inputting the amount, and entering the PIN. The cashier can also enter the amount, while the customer enters their PIN. The amount is instantly deducted from the customer’s account.
+### Debit cards and Point of Sale (POS) machines
+
+Debit cards can be used to make payments at retails stores such as a grocery or clothing store, and chemist. On one hand, they help withdraw cash from ATMs as seen above, and on the other hand, they enable the transfer of money from customers to the store owner. Customers use their debit card by swiping or inserting it into a POS machine, inputting the amount, and entering the PIN. The cashier can also enter the amount, while the customer enters their PIN. The amount is instantly deducted from the customer’s account.
 
 > [caption] Name of person you wish to pay
 
@@ -282,11 +294,11 @@ Debit cards and Point of Sale (POS) machines Debit cards can be used to make pay
 
 <!-- page 205 (pdf 13) -->
 
-Internet Banking (Netbanking)
+### Internet Banking (Netbanking)
 
 Another electronic tool for transferring money is internet banking or online banking, which allows account holders to check balances and transaction history, and transfer money, through the bank’s website or mobile application using a computer or smartphone.
 
-Mobile payments
+### Mobile payments
 
 Additionally, digital payments are made through mobile phones using digital payment applications such as BHIM (Bharat Interface for Money), which is based on the Unified Payments Interface (UPI) payment system. UPI enables easier and quicker digital money transfers using a QR code or the phone number of the recipient, allowing quick payments and receipts. It reduces the need for physical passbook updates. It allows users to check balances and track transactions anytime on their phone.
 
@@ -302,29 +314,17 @@ Additionally, digital payments are made through mobile phones using digital paym
 
 > [caption] NPCI decrypts the request, verifies the user’s UPI PIN and QR Code processes the transfer.
 
-> [caption] Pay Contact ww
+> [caption] Pay Contact
 
 > [caption] Pay Phone Number
 
-> [caption] Funds are received by the xxxxxx
+> [caption] 4 Funds are received by the payee’s bank (Piyush).
 
-4
+> [caption] Kumar scans Piyush’s (a vegetable vendor) QR code using a payment application on his mobile phone, enters the amount to be sent and then his UPI PIN.
 
-> [caption] payee’s bank (Piyush).
+> [caption] The application sends a payment request to his bank.
 
-> [caption] he Kumar scans Piyush’s
-
-> [caption] The application sends a payment
-
-> [caption] (a vegetable vendor)
-
-> [caption] request to his
-
-> [caption] QR code using a payment application on his mobile phone, enters the amount to bank.
-
-> [caption] be sent and then his
-
-> [caption] UPI PIN. Payee’s Bank
+> [caption] Payee’s Bank
 
 5
 
@@ -337,8 +337,6 @@ Additionally, digital payments are made through mobile phones using digital paym
 > [caption] Fig. 8.18. Process of a digital transaction between a buyer and a seller using UPI
 
 Unified Payments Interface (UPI) — India’s gift to the world of payment systems Traditionally, transferring funds from one person’s bank account to another person’s account required filling out the cheque with the details of the receiver, dropping it into the bank’s drop box or handing it over to a bank official. It was time-consuming and discouraged a majority of people from using banking services, leading to heavy reliance on cash due to which billions of rupees were used every day without a record.
-
-> [caption] aul
 
 <!-- page 207 (pdf 15) -->
 
@@ -366,9 +364,9 @@ The actual buying and selling of shares takes place at the stock exchange. In In
 
 Like commodity prices, share prices also rise and fall. When the share prices of many companies fall simultaneously, it results in a stock market crash. On the other hand, a rise leads to a stock market boom.
 
-> [caption] Investment:
+> [caption] Fig.8.20. Share certificate in earlier days
 
-> [caption] The act of putting resources in assets expected to gain value over time.
+> [caption] Investment: The act of putting resources in assets expected to gain value over time.
 
 > [caption] Stock exchange: Marketplace where financial securities like stocks are traded.
 
@@ -390,7 +388,7 @@ Why do companies issue shares, and why do people buy them? Are there any benefit
 
 <!-- page 210 (pdf 18) -->
 
-Financial frauds and how to prevent them
+### Financial frauds and how to prevent them
 
 Digital payments have made life easier, but users must beware of fraud and scams. Fraudsters trick people through fake calls or messages to download harmful apps or mislead people into sharing bank details or One-Time Passwords (OTPs). This gives them access to the user’s mobile or computer, enabling them to steal personal data from the device and draining money from the bank accounts.
 
@@ -460,6 +458,6 @@ Hang the posters in school corridors or the library.
 
 11. Cheques are often used to pay utility bills. Ask your parents to allow you to fill out the cheques for a few monthly payments.
 
-12. Suppose you have to withdraw ` 10,000 from your bank account, how would you fill out the cash withdrawal slip at your bank? Let us try below!
+12. Suppose you have to withdraw ₹ 10,000 from your bank account, how would you fill out the cash withdrawal slip at your bank? Let us try below!
 
 > [caption] Fig. 8.24. Cash withdrawal slip

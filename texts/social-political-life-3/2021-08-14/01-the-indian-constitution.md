@@ -207,7 +207,7 @@ In addition to Fundamental Rights, the Constitution also has a section called Di
 
 > [table] - If a group of people are not given permission to open a Telugu-medium school in Kerala.
 
-> [table] - If the government decides not to promote an officer of the
+> [table] - If the government decides not to promote an officer of the armed forces for being a woman.
 
 > [note] The Fundamental Rights in the Indian Constitution include:
 
@@ -292,3 +292,5 @@ Indian national movement: The Indian national movement emerged in nineteenth-cen
 > [table] Sovereign: In the context of this chapter it refers to an independent people.
 
 Human Trafficking: The practice of the illegal buying and selling of different commodities across national borders. In the context of Fundamental Rights discussed in this chapter, it refers to illegal trade in human beings, particularly women and children.
+
+> [table] Tyranny: The cruel and unjust use of power or authority.

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2019-05-04/ch03.pdf"
 source_sha256: "cf83dd7dba204587b2053f8e3207fc693eed1f0eebef82653d504c5ba5a75f41"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "0e0be0e75771c337b6faaf511ba1a8025384eb94ef012028cf9587cea886c3ed"
+body_fingerprint: "167c02087f235fdcbf0363709ac5d2307823082607550cfcf46a049015d821cb"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -77,7 +77,7 @@ The above idea of representation has been an important theme in your Class VI an
 
 3. From the list below, identify the work of a State government and that of a Central government. (a) The decision of the Indian government to maintain peaceful relations with China. (b)The decision of the Madhya Pradesh government to discontinue Board exams in Class VIII for all schools under this Board. (c) Introduction of a new train connection between Ajmer and Mysore. (d)Introduction of a new 1,000 rupee note.
 
-Q4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
+4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
 
 5. You have read that most elected members whether in the Panchayat, or the Vidhan Sabha or the Parliament are elected for a fixed period of five years. Why do we have a system where the representatives are elected for a fixed period and not for life?
 
@@ -195,7 +195,7 @@ The government gets valuable feedback and is kept on its toes by the questions a
 
 > [table] In the above question, what information is being sought from the Minister of Women and Child Development?
 
-> [table] If you were a Member of Parliament (MP), list two arliament (MP), list two questions that you would like to ask.
+> [table] If you were a Member of Parliament (MP), list two questions that you would like to ask.
 
 <!-- page 39 (pdf 12) -->
 
@@ -239,7 +239,7 @@ It has been observed that representative democracy cannot produce a perfect refl
 
 Similarly, it has more recently been suggested that there should be reservation of seats for women. This issue is still being debated. Sixty years ago, only four per cent of MPs were women and today it is just above eleven per cent. This is a small share when you consider the fact that half the population are women.
 
-It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government. Why do you think there are so few women in Parliament? Discuss.
+It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government.
 
 <!-- section: glossary -->
 
@@ -252,6 +252,8 @@ Coalition: A temporary alliance of groups or parties. In this chapter, it refers
 > [table] Unresolved: Situations in which there are no easy solutions to problems.
 
 > [caption] The above photo shows a few women Members of Parliament.
+
+> [caption] Why do you think there are so few women in Parliament? Discuss.
 
 <!-- page 41 (pdf 14) -->
 

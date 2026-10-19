@@ -96,7 +96,7 @@ My dreams have the right to know Why for centuries they have been breaking Why d
 
 > [table] What does the poet mean when he says, “My hunger has the right to know”?
 
-> [table] Can you share with your class a local song or a poem on dignity
+> [table] Can you share with your class a local song or a poem on dignity that is from your area?
 
 The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
 
@@ -142,9 +142,7 @@ Over 1,500 persons attended a public hearing in Lucknow in 2001 to protest viole
 
 > [table] Valmiki, Omprakash. 2003. Joothan: A Dalit’s Life. SAMYA, Kolkata.
 
-> [caption] Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement
-
-> [table] in India. Zubaan, New Delhi.
+> [caption] Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
 
 > [caption] www.cehat.org/rthc/policybrieffinal.pdf www.infochangeindia.org
 

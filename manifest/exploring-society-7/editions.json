@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "6fdf8cd4578d066f1904feeb44560030882805c7da92df58c5ed83b9a938a126",
+      "fingerprint": "57be9ede5527140b2db10b8ed49e42ea150cbd0a353c7621030c0f82b6ff94b3",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -42,20 +42,26 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf",
           "pdf_pages": 26,
           "printed_pages": "1-26",
-          "fingerprint": "31cba774b3ec634d8f863ccb07dc9dab35a2efe6741cef741eb6f6d2da2434b5",
+          "fingerprint": "4f15e1f54b0f5634a588625f6cc0f61a9c78eead6dd5e828d2c1f18970ae9205",
           "role_counts": {
-            "footer": 65,
+            "footer": 53,
             "h2": 19,
             "chapter-number": 1,
             "body": 95,
-            "caption": 71,
+            "caption": 82,
             "h3": 21,
             "note": 2
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 1, page 6: the Fig. 1.6 caption is one two-line caption",
+            "part 1 chapter 1, page 10: four captions of the photo grid, each under its own photo",
+            "part 1 chapter 1, page 11: three captions interleaved by line",
+            "part 1 chapter 1, page 13: the Fig. 1.23 caption wrapped in a narrow column into four blocks",
+            "part 1 chapter 1, page 18: five captions each under its own photo"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-01-geographical-diversity-of-india.md"
         },
         {
@@ -65,10 +71,10 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf",
           "pdf_pages": 18,
           "printed_pages": "27-44",
-          "fingerprint": "7bcfdd054f62af0042c5a67a1b43244b1730fe2acbfa011b4adf60298fcd864a",
+          "fingerprint": "49866330e9cf2c194f242716c8d0a6602534dd7795b78aa88d10efaa8484423f",
           "role_counts": {
-            "footer": 43,
-            "h2": 17,
+            "footer": 42,
+            "h2": 16,
             "chapter-number": 1,
             "body": 101,
             "caption": 66,
@@ -78,7 +84,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 2, page 31: captions of the two lower drawings are missing from the text layer, read from the page image"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-02-understanding-the-weather.md"
         },
         {
@@ -88,13 +96,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf",
           "pdf_pages": 22,
           "printed_pages": "45-66",
-          "fingerprint": "5d385e9d8a53a66e5bdd944ea59018206b6361d4c6931c26a6f3a6f8701c9d01",
+          "fingerprint": "88b1a5caa6e7562e23de10fbc5135eb383d3288060fa6e4be1250a14dba44e06",
           "role_counts": {
-            "footer": 47,
-            "h2": 22,
+            "footer": 46,
+            "h2": 20,
             "chapter-number": 1,
             "body": 107,
-            "caption": 63,
+            "caption": 64,
             "h3": 12,
             "table": 26
           },
@@ -111,13 +119,12 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch04.pdf",
           "pdf_pages": 16,
           "printed_pages": "67-82",
-          "fingerprint": "e98c72bc778aa81399fe93b98e6b4e023001165058f63c3ac9b7688d733358d7",
+          "fingerprint": "1d140621c273e90b0eaa006422571cfb305814c0686ff0fccee68f89ca116fbf",
           "role_counts": {
             "h2": 7,
             "chapter-number": 1,
-            "body": 58,
-            "note": 1,
-            "caption": 47,
+            "body": 59,
+            "caption": 46,
             "footer": 31,
             "h3": 8
           },
@@ -134,20 +141,25 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf",
           "pdf_pages": 34,
           "printed_pages": "83-116",
-          "fingerprint": "33440579df30ff1f3bd9e7c2d5bbd7579caa922f8fd4ae6da42deabb6785dc04",
+          "fingerprint": "7bcf4f8af4552b34ef74acd9eb4b4645622756a3532d313aef4d6f88da844640",
           "role_counts": {
-            "footer": 80,
-            "h2": 21,
-            "body": 147,
+            "footer": 74,
+            "h2": 20,
+            "body": 146,
             "chapter-number": 1,
-            "caption": 136,
-            "table": 35,
-            "h3": 18
+            "caption": 142,
+            "table": 36,
+            "h3": 19
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 5, page 88: the six hexagon boxes were read line by line across each other, rebuilt from the page image",
+            "part 1 chapter 5, page 98: the coin caption is one caption, the paragraph runs beside it",
+            "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer",
+            "part 1 chapter 5, page 110: two side-by-side captions interleaved by line"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-05-the-rise-of-empires.md"
         },
         {
@@ -157,21 +169,29 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf",
           "pdf_pages": 28,
           "printed_pages": "117-144",
-          "fingerprint": "557fdd00e97b0681d7e0caa191e1b00e8da4becfc7907fa57f0a997bbadf1b6d",
+          "fingerprint": "ca3283e7129e241a9a8042a181aa845cf97be2a4b2fd6ff9563fc4c8aed4cc07",
           "role_counts": {
-            "footer": 63,
-            "h2": 19,
+            "footer": 59,
+            "h2": 21,
             "chapter-number": 1,
             "body": 121,
-            "caption": 111,
+            "caption": 146,
             "h3": 24,
-            "note": 1,
-            "table": 1
+            "decoration": 20,
+            "note": 2,
+            "table": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 6, page 119: axis tick labels of the map were glued into the caption",
+            "part 1 chapter 6, page 120: the two halves of the Fig. 6.3 diagram were read line by line across each other",
+            "part 1 chapter 6, page 136: the Fig. 6.22 caption continues on a second line under the statue",
+            "part 1 chapter 6, page 136: the tail of the Fig. 6.22 caption landed on the coin caption",
+            "part 1 chapter 6, page 138: map label misread",
+            "part 1 chapter 6, page 138: axis ticks glued to the front of the caption"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-06-the-age-of-reorganisation.md"
         },
         {
@@ -181,21 +201,25 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf",
           "pdf_pages": 22,
           "printed_pages": "145-166",
-          "fingerprint": "fede5035fb5b5f47fb734d39ceb6f7ea83853f7045e40150e966a741729db1e9",
+          "fingerprint": "c630b2b3c1309fbdfb0408ef96a34b0a376d24deb9f0ef55a78ab563c1c795a6",
           "role_counts": {
-            "footer": 46,
-            "body": 87,
+            "footer": 44,
+            "body": 86,
             "h2": 15,
             "chapter-number": 1,
-            "caption": 90,
+            "caption": 103,
             "dropcap": 2,
-            "h3": 11,
+            "decoration": 12,
+            "h3": 12,
             "table": 1
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 7, page 146: the map label Kāmarūpa Kingdom sits between two lines of the Gupta call-out",
+            "part 1 chapter 7, page 152: axis ticks glued to the front of the caption"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-07-the-gupta-era-an-age-of-tireless-creativity.md"
         },
         {
@@ -205,14 +229,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf",
           "pdf_pages": 18,
           "printed_pages": "167-184",
-          "fingerprint": "1481c9892bd364be7f18723a087155be35785344584629a128ab617a2955c57a",
+          "fingerprint": "36c21093aa491ca214b2c680fad0a19e021fa8ee537e46f3f87154ff2b1de0d0",
           "role_counts": {
-            "footer": 40,
+            "footer": 39,
             "h2": 15,
             "chapter-number": 1,
-            "body": 84,
-            "caption": 43,
-            "h3": 9
+            "body": 83,
+            "caption": 44,
+            "h3": 10
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -227,20 +251,26 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf",
           "pdf_pages": 24,
           "printed_pages": "185-208",
-          "fingerprint": "0475afc6f2a84c333935cb894e4e7a9f977c176bf7db62363c81b4da3af0aab0",
+          "fingerprint": "c4bd3a7c8e2e0870dd55db06b7bd442c8abcb62242e11a9a792fd625897a6eac",
           "role_counts": {
-            "footer": 52,
+            "footer": 49,
             "h2": 25,
-            "body": 192,
+            "body": 188,
             "note": 5,
             "chapter-number": 1,
-            "caption": 52,
-            "h3": 12
+            "caption": 54,
+            "h3": 14
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 9, page 192: the word RIGHTS is printed on an icon, not a heading",
+            "part 1 chapter 9, page 195: Table 9.1 rows rebuilt from the page image",
+            "part 1 chapter 9, page 198: the margin glossary entry Slave landed on the Fig. 9.7 caption",
+            "part 1 chapter 9, page 205: Table 9.2 rebuilt from the page image, the box sentence stays below the table",
+            "part 1 chapter 9, page 208: exercise table rebuilt from the page image (the printed pairing is as shown, not a correct matching)"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-09-from-the-rulers-to-the-ruled-types-of-government.md"
         },
         {
@@ -250,21 +280,26 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf",
           "pdf_pages": 20,
           "printed_pages": "209-228",
-          "fingerprint": "ce9f821acdd9251abbb6aa6230781d85b3ae4a0d26a633a9819a3c3314aca2d7",
+          "fingerprint": "4d09d038b45cf0c93c6c418db730f1cffe753af7f1af5895e6cffc7aea1adf38",
           "role_counts": {
-            "footer": 46,
+            "footer": 43,
             "h2": 21,
             "body": 105,
             "note": 1,
             "chapter-number": 1,
-            "caption": 64,
+            "caption": 63,
             "h3": 14,
             "table": 55
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 10, page 217: the Fig. 10.5 caption wrapped around the photo into three blocks",
+            "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image",
+            "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image",
+            "part 1 chapter 10, page 225: tail of the SECULAR margin note, now part of the rebuilt note"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-10-the-constitution-of-india-an-introduction.md"
         },
         {
@@ -274,7 +309,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf",
           "pdf_pages": 18,
           "printed_pages": "229-246",
-          "fingerprint": "bc5ebf60b2b4df8b4f4722c85b2bc3ba9cfab87bdad541a2a1cf10b8015dcb97",
+          "fingerprint": "c241335f6a1639d5241107cfb3f65953060de0e50e4c6e9b5c0c3dcf8d956793",
           "role_counts": {
             "footer": 41,
             "chapter-number": 1,
@@ -296,22 +331,26 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf",
           "pdf_pages": 26,
           "printed_pages": "247-272",
-          "fingerprint": "7424df52c30292f3d250927e520a1cd85458f2bbbd5497fd0323d6deaa3c253a",
+          "fingerprint": "298dd9f2eeabd41273a59665507b65c33d9ca7200a668a20b679402453b68910",
           "role_counts": {
-            "footer": 60,
-            "h2": 18,
+            "footer": 58,
+            "h2": 17,
             "body": 132,
             "chapter-number": 1,
-            "caption": 129,
+            "caption": 130,
             "h3": 18,
             "table": 21,
-            "note": 1,
-            "dropcap": 1
+            "note": 1
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 1 chapter 12, page 256: map label noise in a caption block",
+            "part 1 chapter 12, page 256: map label noise in a caption block",
+            "part 1 chapter 12, page 256: map label noise in a caption block",
+            "part 1 chapter 12, page 261: axis ticks and the next map's legend were glued into the Fig. 12.23 caption and the Fig. 12.24 caption is missing from the text layer"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-12-understanding-markets.md"
         },
         {
@@ -323,13 +362,13 @@
           "printed_pages": "1-28",
           "fingerprint": "4927cecc4207cf4617d514ff04740ad268785400f7f471ca5df9950beec858a0",
           "role_counts": {
-            "footer": 69,
+            "footer": 57,
             "h2": 24,
             "chapter-number": 1,
             "body": 127,
-            "caption": 143,
+            "caption": 156,
             "h3": 22,
-            "table": 23
+            "table": 22
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -344,20 +383,24 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf",
           "pdf_pages": 32,
           "printed_pages": "29-60",
-          "fingerprint": "9e51c2ab0543c002ece1582f4eaaa8d27c36b5cc4e8b71a828e00067daac5e62",
+          "fingerprint": "43a9a43b36988391e278aba1a07f3a69decd2201119666134517353b6771dadf",
           "role_counts": {
-            "footer": 71,
+            "footer": 64,
             "h2": 22,
             "chapter-number": 1,
-            "body": 127,
+            "body": 126,
             "note": 4,
-            "caption": 132,
-            "h3": 17
+            "caption": 138,
+            "h3": 18
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 2 chapter 2, page 40: stray S from the Bhutan emblem ring",
+            "part 2 chapter 2, page 40: the box text wraps round the emblem",
+            "part 2 chapter 2, page 40: the Fig. 2.11 caption is one caption"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-02-india-and-her-neighbours.md"
         },
         {
@@ -367,20 +410,22 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf",
           "pdf_pages": 36,
           "printed_pages": "61-96",
-          "fingerprint": "1fec7f0e310a2cee85350e86294ea8ce674ea90a8f54aa4a26d7e304ee02aa9d",
+          "fingerprint": "7ddb95e84573f5d0613e22b0dbc51cb60a0711e1f1d4e7feb5e5ad02c108f2c9",
           "role_counts": {
             "h2": 24,
             "chapter-number": 1,
-            "body": 171,
-            "caption": 167,
-            "footer": 80,
-            "h3": 23,
+            "body": 170,
+            "caption": 174,
+            "footer": 73,
+            "h3": 24,
             "table": 1
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 2 chapter 3, page 82: last caption line is missing from the text layer"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-03-empires-and-kingdoms-6th-to-10th-centuries.md"
         },
         {
@@ -390,15 +435,15 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf",
           "pdf_pages": 28,
           "printed_pages": "97-124",
-          "fingerprint": "860c5d5812a792725f773744fc00394c68e8df0c1e4b68fcdeb4c18fca8673fb",
+          "fingerprint": "bdd57e8b75764b604880b7df513a4b6a99102202bd0c1c7ef0189bdf6bf41436",
           "role_counts": {
-            "footer": 60,
+            "footer": 56,
             "h2": 17,
             "chapter-number": 1,
-            "body": 117,
-            "caption": 100,
+            "body": 116,
+            "caption": 104,
             "table": 2,
-            "h3": 13
+            "h3": 14
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -413,15 +458,15 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf",
           "pdf_pages": 18,
           "printed_pages": "125-142",
-          "fingerprint": "4b514540535c303a3a6c5afe385f59d937fb3476fddaef9674be129948f33c77",
+          "fingerprint": "71c797a7e18d7e6bbc357838f85af3754c6f87cf04b85a4d13b34b425196afca",
           "role_counts": {
-            "footer": 41,
+            "footer": 36,
             "h2": 15,
             "body": 72,
             "chapter-number": 1,
             "note": 1,
             "h3": 10,
-            "caption": 44
+            "caption": 49
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -436,21 +481,22 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf",
           "pdf_pages": 26,
           "printed_pages": "143-168",
-          "fingerprint": "291c1ef08f5bd9bec64d3db57e9b6855f8e91fbd212fac41a7a83f86fdfc9df1",
+          "fingerprint": "d34ec76d26ff5a1660994d335a868576590a96a777d045c25db4af2a6ab09c13",
           "role_counts": {
-            "footer": 58,
+            "footer": 52,
             "h2": 20,
-            "body": 135,
+            "body": 133,
             "chapter-number": 1,
-            "caption": 74,
-            "h3": 12,
-            "table": 42,
-            "note": 2
+            "caption": 79,
+            "h3": 13,
+            "table": 42
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 2 chapter 6, page 144: the infographic boxes were interleaved, rebuilt from the page image"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-06-the-state-the-government-and-you.md"
         },
         {
@@ -460,20 +506,24 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf",
           "pdf_pages": 24,
           "printed_pages": "169-192",
-          "fingerprint": "bf6b64e36b577e935d19cb466d34594dcfd64ef6d72c46e740b60de8badd4e07",
+          "fingerprint": "fcbb6c6a6947dfec4170e501a763be5ac179ac5bdd4adb19acec574a7c0b97d2",
           "role_counts": {
-            "body": 76,
+            "body": 73,
             "h2": 14,
             "chapter-number": 1,
-            "caption": 216,
-            "footer": 57,
-            "h3": 9,
+            "caption": 222,
+            "footer": 51,
+            "h3": 10,
             "table": 23
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 2 chapter 7, page 179: stray L from the track drawing",
+            "part 2 chapter 7, page 185: caption and margin note were fused",
+            "part 2 chapter 7, page 186: margin note and caption were interleaved and the last word of the note was lost"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-07-infrastructure-engine-of-indias-development.md"
         },
         {
@@ -483,21 +533,25 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf",
           "pdf_pages": 20,
           "printed_pages": "193-212",
-          "fingerprint": "f2c9424e9282e385b8d35a113ff33ef9c83584e95a268cb606c362551236a34e",
+          "fingerprint": "bb4bbd7a6512f250548c4dedba23d4f68d716e9a400651b6a07f12be06f0947e",
           "role_counts": {
-            "footer": 43,
+            "footer": 40,
             "h2": 12,
-            "body": 122,
+            "body": 115,
             "chapter-number": 1,
             "note": 2,
-            "caption": 105,
-            "h3": 7,
-            "table": 37
+            "caption": 107,
+            "h3": 13,
+            "table": 36
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "part 2 chapter 8, page 206: xxxxxx is the dummy phone number from the app drawing",
+            "part 2 chapter 8, page 206: two interleaved sentences of the Fig. 8.18 flow chart re-threaded",
+            "part 2 chapter 8, page 208: the margin note label was glued to the previous caption"
+          ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-08-banks-and-the-magic-of-finance.md"
         }
       ]

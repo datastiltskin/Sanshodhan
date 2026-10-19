@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch06.pdf"
 source_sha256: "a655e345eacdcce5582249ca34f32c2fbc5d1defa2dea7606f82e875f0c519d9"
 pdf_pages: 14
 printed_pages: "65-78"
-body_fingerprint: "8ada8c2c30d578718ef4d5dba3d341a75aa3bfde392e367cff0a159c30f1b2c6"
+body_fingerprint: "76e80786f776270cee229a7a35218f6327f93621545854c89cf269d7e28fab0d"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -30,35 +30,31 @@ In most parts of the Western world modern cities emerged with industrialisation.
 
 Presidency – For administrative purposes, colonial India was divided into three “Presidencies” (Bombay, Madras and Bengal), which developed from the East India Company’s “factories” (trading posts) at Surat, Madras and Calcutta.
 
-> [caption] Fig. 2 – Bombay port in the eighteenth century
-
-> [table] The city of Bombay began to grow when the East India Company started using Bombay as its main port in western India.
+> [caption] Fig. 2 – Bombay port in the eighteenth century The city of Bombay began to grow when the East India Company started using Bombay as its main port in western India.
 
 Urbanisation – The process by which more and more people begin to reside in towns and cities In the late eighteenth century, Calcutta, Bombay and Madras rose in importance as Presidency cities. They became the centres of British power in the different regions of India. At the same time, a host of smaller cities declined. Many towns manufacturing specialised goods declined due to a drop in the demand for what they produced. Old trading centres and ports could not survive when the flow of trade moved to new centres. Similarly, earlier centres of regional power collapsed when local rulers were defeated by the British and new centres of administration emerged. This process is often described as de-urbanisation. Cities such as Machlipatnam, Surat and Seringapatam were de-urbanised during the nineteenth century. By the early twentieth century, only 11 per cent of Indians were living in cities.
 
 The historic imperial city of Delhi became a dusty provincial town in the nineteenth century before it was rebuilt as the capital of British India after 1912. Let us look at the story of Delhi to see what happened to it under colonial rule.
 
-How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
+How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most important are the capital cities built between the twelfth and seventeenth centuries.
 
 <!-- page 67 (pdf 3) -->
 
 > [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858
 
-important are the capital cities built between the twelfth and seventeenth centuries.
+> [caption] You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
 
 The most splendid capital of all was built by Shah Jahan. Shahjahanabad was begun in 1639 and consisted of a fort-palace complex and the city adjoining it. Lal Qila or the Red Fort, made of red sandstone, contained the palace complex. To its west lay the Walled City with 14 gates. The main streets of Chandni Chowk and Faiz Bazaar were broad enough for royal processions to pass. A canal ran down the centre of Chandni Chowk.
 
-Dargah – The tomb of a Sufi saint
+Set amidst densely packed mohallas and several dozen bazaars, the Jama Masjid was among the largest and grandest mosques in India. There was no place higher than this mosque within the city then.
 
-Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Set amidst densely packed mohallas and several dozen bazaars, the Jama Masjid was among the largest and grandest mosques in India. There was no place higher than this mosque within the city then.
-
-Idgah – An open prayer place of Muslims primarily meant for id prayers Delhi during Shah Jahan’s time was also an important centre of Sufi culture. It had several dargahs, khanqahs and idgahs. Open squares, winding lanes, quiet cul-de-sacs and water channels were the pride of Delhi’s residents. No wonder the poet Mir Taqi Mir said, “The Cul-de-sac – Street with a dead end
+Delhi during Shah Jahan’s time was also an important centre of Sufi culture. It had several dargahs, khanqahs and idgahs. Open squares, winding lanes, quiet cul-de-sacs and water channels were the pride of Delhi’s residents. No wonder the poet Mir Taqi Mir said, “The Dargah – The tomb of a Sufi saint Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Idgah – An open prayer place of Muslims primarily meant for id prayers Cul-de-sac – Street with a dead end
 
 <!-- page 68 (pdf 4) -->
 
 > [caption] Fig. 4 – The eastern gate of the Jama Masjid in Delhi, by Thomas Daniell, 1795
 
-> [table] This is also the first mosque in India with minarets and full domes.
+> [caption] This is also the first mosque in India with minarets and full domes.
 
 > [table] Source 1
 
@@ -108,17 +104,17 @@ What can I write? The life of Delhi depends on the Fort, Chandni Chowk, the dail
 
 <!-- page 70 (pdf 6) -->
 
+The British wanted Delhi to forget its Mughal past. The area around the Fort was completely cleared of gardens, pavilions and mosques (though temples were left intact). The British wanted a clear ground for security reasons. Mosques in particular were either destroyed, or put to other uses. For instance, the Zinat-al-Masjid was converted into a bakery. No worship was allowed in the Jama Masjid for five years. One-third of the city was demolished, and its canals were filled up.
+
+In the 1870s, the western walls of Shahjahanabad were broken to establish the railway and to allow the city to expand beyond the walls. The British now began living in the sprawling Civil Lines area that came up in the north, away from the Indians in the Walled City. The Delhi College was turned into a school, and shut down in 1877.
+
 > [caption] Fig. 7 – Looking out from Jama Masjid, photograph by Felice Beato, 1858-59
 
-> [table] Notice the buildings all around the Masjid. They were cleared after the Revolt of 1857.
+> [caption] Notice the buildings all around the Masjid. They were cleared after the Revolt of 1857.
 
 > [caption] Fig. 8 – View from the Jama Masjid after the surrounding buildings were demolished
 
 Activity Compare the view in Fig. 8 with that in Fig. 7. Write a paragraph on what the changes depicted in the pictures might have meant to people living in the area.
-
-The British wanted Delhi to forget its Mughal past. The area around the Fort was completely cleared of gardens, pavilions and mosques (though temples were left intact). The British wanted a clear ground for security reasons. Mosques in particular were either destroyed, or put to other uses. For instance, the Zinat-al-Masjid was converted into a bakery. No worship was allowed in the Jama Masjid for five years. One-third of the city was demolished, and its canals were filled up.
-
-In the 1870s, the western walls of Shahjahanabad were broken to establish the railway and to allow the city to expand beyond the walls. The British now began living in the sprawling Civil Lines area that came up in the north, away from the Indians in the Walled City. The Delhi College was turned into a school, and shut down in 1877.
 
 <!-- page 71 (pdf 7) -->
 
@@ -136,7 +132,7 @@ New Delhi was constructed as a 10-square-mile city on Raisina Hill, south of the
 
 <!-- page 72 (pdf 8) -->
 
- Activity
+### Activity
 
 Can you find at least two instances from this chapter that suggest that there were other ways of thinking about the image of the capital city?
 
@@ -216,9 +212,9 @@ The Delhi Improvement Trust was set up 1936, and it built areas like Daryaganj S
 
 <!-- page 77 (pdf 13) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-Herbert Baker in South Africa
+### Herbert Baker in South Africa
 
 If you look at Fig.16 and Fig.17 you will find a startling similarity between the buildings. But these buildings are continents apart. What does this show?
 

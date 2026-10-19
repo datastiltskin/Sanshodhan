@@ -103,7 +103,9 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] ...and have you heard the one about Batman on Reality TV?
 
-> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
+> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty Thank you Doctor...I feel
+
+> [caption] better already!
 
 <!-- page 17 (pdf 8) -->
 
@@ -124,6 +126,8 @@ Patients usually have to wait in long queues in government hospitals, like this 
 > [table] – quickly please!
 
 > [table] My hospital was nice, but they gave me many medicines and the whole thing cost quite a lot!
+
+> [table] Oh! My treatment did not cost much!
 
 <!-- page 18 (pdf 9) -->
 
@@ -179,7 +183,7 @@ A woman and her sick child at a government hospital. According to UNICEF, more t
 
 > [note] List some Primary Health Centres
 
-> [note] (PHCs) or hospitals near your place. From your experience (or by visiting any one of them), find out the facilities provided and people
+> [note] (PHCs) or hospitals near your place. From your experience (or by visiting any one of them), find out the facilities provided and people who run the centre.
 
 <!-- page 20 (pdf 11) -->
 

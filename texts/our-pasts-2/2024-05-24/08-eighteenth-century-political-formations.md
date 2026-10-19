@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch08.pdf"
 source_sha256: "3017faaf3e2ae55cea67e98d1a95200e7196c9f8e85accd7a2e9d10871605a3c"
 pdf_pages: 13
 printed_pages: "94-106"
-body_fingerprint: "2a49099603a22e7a947c6249d6c64322f5d7081b6b5b5189fe0084f19eca9edd"
+body_fingerprint: "8eefc99097b273ba65e5936f0354b21cce5c40524064138140783c297df95c37"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -76,7 +76,7 @@ These influential Rajput families claimed the subadari of the rich provinces of 
 
 > [caption] Fig. 2 Farrukh Siyar receiving a noble in court.
 
-> [note] Many Rajput rulers had accepted the suzerainty of the Mughals but Mewar was the only Rajput state which defied Mughal authority. Rana Pratap ascended the throne at Mewar in 1572, with Udaipur and large part of Mewar under his control. A series of envoys were sent to the Rana to persuade him to accept Mughal suzerainty, but he stood his ground.
+Many Rajput rulers had accepted the suzerainty of the Mughals but Mewar was the only Rajput state which defied Mughal authority. Rana Pratap ascended the throne at Mewar in 1572, with Udaipur and large part of Mewar under his control. A series of envoys were sent to the Rana to persuade him to accept Mughal suzerainty, but he stood his ground.
 
 <!-- page 99 (pdf 6) -->
 
@@ -98,7 +98,7 @@ Sawai Jai Singh, the ruler of Amber constructed five astronomical observatories,
 
 ## Seizing Independence
 
-The Sikhs
+### The Sikhs
 
 The organisation of the Sikhs into a political community during the seventeenth century (see Chapter 6) helped in regional state-building in the Punjab. Several battles were fought by Guru Gobind Singh against the Rajput and Mughal rulers, both before and after the institution of the Khalsa in 1699. After his death in 1708, the Khalsa rose in revolt against the Mughal authority under Banda Bahadur’s leadership, declared their sovereign rule by striking coins in the name of Guru Nanak and Guru Gobind Singh, and established their own administration between the Sutlej and the Jamuna. Banda Bahadur was captured in 1715 and executed in 1716.
 
@@ -114,7 +114,7 @@ Guru Gobind Singh had inspired the Khalsa with the belief that their destiny was
 
 The Sikh territories in the late eighteenth century extended from the Indus to the Jamuna but they were divided under different rulers. One of them, Maharaja Ranjit Singh, reunited these groups and established his capital at Lahore in 1799.
 
-The Marathas
+### The Marathas
 
 The Maratha kingdom was established by Chhatrapati Shivaji Maharaj (1630). The Maratha kingdom was another powerful regional kingdom to arise out of a sustained opposition to Mughal rule. Shivaji (1630–1680) carved out a stable kingdom with the support of powerful warrior families (deshmukhs). Groups of highly mobile, peasant-pastoralists (kunbis) provided the backbone of the Maratha army. Shivaji used these forces to challenge the Mughals in the peninsula. After Shivaji’s death, effective power in the Maratha state was wielded by a family of Chitpavan Brahmanas who served Shivaji’s successors as Peshwa (or principal minister). Poona became the capital of the Maratha kingdom.
 
@@ -140,7 +140,7 @@ Alongside endless military campaigns, the Marathas developed an effective admini
 
 <!-- page 103 (pdf 10) -->
 
-The Jats
+### The Jats
 
 Like the other states, the Jats consolidated their power during the late seventeenth and eighteenth-centuries. Under their leader, Churaman, they acquired control over territories situated to the west of the city of Delhi, and by the 1680s, they had begun dominating the region between the two imperial cities of Delhi and Agra. For a while, they became the virtual custodians of the city of Agra.
 
@@ -156,7 +156,7 @@ While the Bharatpur fort was built in a fairly traditional style, at Dig the Jat
 
 <!-- page 104 (pdf 11) -->
 
-Imagine
+### Imagine
 
 You are a ruler of an eighteenth-century kingdom. Tell us about the steps you would take to make your position strong in your province, and what opposition or problems you might face while doing so.
 
@@ -178,9 +178,7 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 
 2. How were the Sikhs organised in the eighteenth century?
 
-3. Why did the Marathas want to expand beyond the
-
-> [note] Deccan?
+3. Why did the Marathas want to expand beyond the Deccan?
 
 4. Do you think merchants and bankers today have the kind of influence they had in the eighteenth century?
 
@@ -190,7 +188,21 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 
 6. Collect popular tales about-rulers from any one of the following groups of people: the Rajputs, Jats, Sikhs or Marathas.
 
-> [note] Keywords subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
+<!-- section: glossary -->
+
+### Keywords
+
+- subadari
+
+- dal khalsa
+
+- misl
+
+- faujdari
+
+- ijaradari
+
+- chauth sardeshmukhi
 
 <!-- page 105 (pdf 12) -->
 

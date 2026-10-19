@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2019-05-04/ch06.pdf"
 source_sha256: "2d39cd202a367dedbd312a4abb78f29e32d4ebdd9d369fcb59b3356a2db85597"
 pdf_pages: 12
 printed_pages: "66-77"
-body_fingerprint: "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7"
+body_fingerprint: "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46"
 ---
 
 <!-- page 66 (pdf 1) -->
@@ -117,11 +117,11 @@ Do you know what it means to get a fair trial? Have you heard of an FIR? Or, do 
 
 > [caption] 15.7.07
 
-> [caption] The judge hears the testimony of all the witnesses. After the testimony of Inspector Sharma, Advocate Roy argues before the judge that it has now been established that Shanti is innocent and should be acquitted. Inspector Sharma, can you show and tell us what you’ve found?
+> [caption] The judge hears the testimony of all the witnesses. After the testimony of Inspector Sharma, Advocate Roy argues before the judge that it has now been established that Shanti is innocent and should be acquitted.
 
 > [caption] Shanti, you are hereby acquitted of the charge of theft. The police will hand over to you the Rs 10,000 that they had sealed. In my written judgment, I have made it a point to highlight S.I. Rao’s role in conducting such a shoddy investigation that made you spend time in jail.
 
-PoFrom the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge. You have seen the roles each of them played in the above case. Now let us try and understand their roles more generally.
+From the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge. You have seen the roles each of them played in the above case. Now let us try and understand their roles more generally.
 
 ## What is the Role of the Police in Investigating a Crime?
 
@@ -131,17 +131,37 @@ One important function of the police is to investigate any complaint about the c
 
 > [caption] As the trial is nearing completion, Sushil learns that Inspector Sharma has busted a gang of young men who have been stealing jewellery from the Shinde’s neighbourhood. Some of Mrs Shinde’s son’s friends are part of this gang. Mrs Shinde’s chain has been found on them. Sushil tells Advocate Roy about this. Advocate Roy now calls Inspector Sharma as a defence witness.
 
+> [caption] Inspector Sharma, can you show and tell us what you’ve found?
+
 > [caption] Here is the chain that has been identified by Mrs Shinde as hers. We busted a gang of boys who had stolen the chain. These boys have admitted that they stole the chain.
 
 <!-- page 71 (pdf 6) -->
 
 You read in Unit 2 about the rule of law, which means that everyone is subject to the law of the land. This includes the police. Therefore, police investigations always have to be conducted in accordance with law and with full respect for human rights. The Supreme Court has laid down guidelines that the police must follow at the time of arrest, detention and interrogation. The police are not allowed to torture or beat or shoot anyone during investigation. They cannot inflict any form of punishment on a person even for petty offences.
 
-Article 22 of the Constitution and criminal law guarantee to every arrested person the following Fundamental Rights: • The Right to be informed at the time of arrest of the offence for which the person is being arrested. • The Right to be presented before a magistrate within 24 hours of arrest. • The Right not to be ill treated or tortured during arrest or in custody. • Confessions made in police custody cannot be used as evidence against the accused. • A boy under 15 years of age and women cannot be called to the police station only for questioning.
+Article 22 of the Constitution and criminal law guarantee to every arrested person the following Fundamental Rights:
+
+- The Right to be informed at the time of arrest of the offence for which the person is being arrested.
 
 > [caption] Why do you think there is a rule that confessions made during police custody cannot be used as evidence against the accused?
 
-The Supreme Court of India has laid down specific requirements and procedures that the police and other agencies have to follow for the arrest, detention and interrogation of any person. These are known as the D.K. Basu Guidelines and some of these include: • The police officials who carry out the arrest or interrogation should wear clear, accurate and visible identification and name tags with their designations; • A memo of arrest should be prepared at the time of arrest and should include the time and date of arrest. It should also be attested by at least one witness who could include a family member of the person arrested. The arrest memo should be counter-signed by the person arrested. • The person arrested, detained or being interrogated has a right to inform a relative, friend or well-wisher. • When a friend or relative lives outside the district, the time, place of arrest and venue of custody must be notified by police within 8 to 12 hours after arrest.
+- The Right to be presented before a magistrate within 24 hours of arrest.
+
+- The Right not to be ill treated or tortured during arrest or in custody.
+
+- Confessions made in police custody cannot be used as evidence against the accused.
+
+- A boy under 15 years of age and women cannot be called to the police station only for questioning.
+
+The Supreme Court of India has laid down specific requirements and procedures that the police and other agencies have to follow for the arrest, detention and interrogation of any person. These are known as the D.K. Basu Guidelines and some of these include:
+
+> [table] - The police officials who carry out the arrest or interrogation should wear clear, accurate and visible identification and name tags with their designations;
+
+- A memo of arrest should be prepared at the time of arrest and should include the time and date of arrest. It should also be attested by at least one witness who could include a family member of the person arrested. The arrest memo should be counter-signed by the person arrested.
+
+> [table] - The person arrested, detained or being interrogated has a right to inform a relative, friend or well-wisher.
+
+> [table] - When a friend or relative lives outside the district, the time, place of arrest and venue of custody must be notified by police within 8 to 12 hours after arrest.
 
 <!-- page 72 (pdf 7) -->
 
@@ -151,7 +171,7 @@ The Supreme Court of India has laid down specific requirements and procedures th
 
 > [table] b) Did S.I. Rao do enough to question witnesses and compile evidence before arresting Shanti and filing a case against her? In keeping with the duties of the police as stated above, what else do you think S.I. Rao could have done as part of his investigation?
 
-Q2. Now let us take a slightly different scenario. Shanti and her brother Sushil go to the police station to complain that Mr Shinde’s 20-year old son had stolen Rs 15,000 that they had been saving up. Do you think that the officer in charge of the Police Station will promptly lodge an FIR? List a few factors that in your opinion may influence the decision of the police to register or not register an FIR.
+2. Now let us take a slightly different scenario. Shanti and her brother Sushil go to the police station to complain that Mr Shinde’s 20-year old son had stolen Rs 15,000 that they had been saving up. Do you think that the officer in charge of the Police Station will promptly lodge an FIR? List a few factors that in your opinion may influence the decision of the police to register or not register an FIR.
 
 > [table] First Information Report (FIR):
 
@@ -211,7 +231,7 @@ The Constitution and the law both state that all of the persons that we have dis
 
 ## Exercises
 
-QIn a town called Peace Land, the supporters of the Fiesta football team learn that the supporters of the Jubilee football team in the nearby city about 40 km away have damaged the ground on which the Final between both teams is to be held the following day. A crowd of Fiesta fans armed with deadly weapons attacks the homes of the supporters of the Jubilee football team in the town. In the attack, 10 men are killed, 5 women are gravely hurt, many homes are destroyed and over 50 people injured.
+In a town called Peace Land, the supporters of the Fiesta football team learn that the supporters of the Jubilee football team in the nearby city about 40 km away have damaged the ground on which the Final between both teams is to be held the following day. A crowd of Fiesta fans armed with deadly weapons attacks the homes of the supporters of the Jubilee football team in the town. In the attack, 10 men are killed, 5 women are gravely hurt, many homes are destroyed and over 50 people injured.
 
 > [table] Imagine that you and your classmates are now part of the criminal justice system. First divide the class into the following four groups of persons:
 

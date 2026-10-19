@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch09.pdf"
 source_sha256: "4573e6b8c05b0d90ce1bc7936f81f2ecf9fc24a4b46cfa32e0f0105d203d7838"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "1b4e076f9cbafd4237ed887e91201e2425f37bcc6dda3b916ebe9758e4bdaf70"
+body_fingerprint: "0e8729b1c07715e2d6fce415eed3ac68c2944679e6cd8d8315fc235bb08fa46f"
 ---
 
 <!-- page 122 (pdf 1) -->
@@ -41,7 +41,7 @@ In the twelfth century, one of the most important rulers of the Ganga dynasty, A
 
 > [note] Find out when the language(s) you speak at home were first used for writing.
 
-> [caption] Fig. 2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript,
+> [caption] Fig. 2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.
 
 <!-- page 124 (pdf 3) -->
 
@@ -79,7 +79,7 @@ Under the Mughal emperors and their nobles, Kathak was performed in the court, w
 
 Kathak, like several other cultural practices, was viewed with disfavour by most British administrators in the nineteenth and twentieth centuries. However, it survived and continued to be performed by courtesans, and was recognised as one of six “classical” forms of dance in the country after independence.
 
-“Classical” dances
+### “Classical” dances
 
 > [note] The question of defining any art form as “classical” is often quite complicated. Do we define something as classical if it deals with a religious theme? Or do we consider it classical because it appears to require a great deal of skill acquired through long years of training? Or is it classical because it is performed according to rules that are laid down, and variations are not encouraged? These are questions we need to think about. It is worth remembering that many dance forms that are classified as “folk” also share several of the characteristics considered typical of “classical” forms. So, while the use of the term “classical” may suggest that these forms are superior, this need not always be literally true.
 
@@ -115,7 +115,7 @@ Remember that ordinary women and men painted as well – on pots, walls, floors,
 
 ## A Closer Look: Bengal
 
-The Growth of a Regional Language
+### The Growth of a Regional Language
 
 As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium BCE) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
 
@@ -135,7 +135,7 @@ The second includes Nath literature such as the songs of Maynamati and Gopichand
 
 <!-- page 132 (pdf 11) -->
 
-Maynamati, Gopichandra and Dharma Thakur
+### Maynamati, Gopichandra and Dharma Thakur
 
 > [note] The Naths were ascetics who engaged in a variety of yogic practices.
 
@@ -155,7 +155,7 @@ The early settlers sought some order and assurance in the unstable conditions of
 
 > [note] Why do you think the second category of texts was not written down?
 
-> [note] Pir A Persian word meaning a spiritual guide.
+Pir A Persian word meaning a spiritual guide.
 
 <!-- page 133 (pdf 12) -->
 
@@ -165,7 +165,7 @@ This term included saints or Sufis and other religious personalities, daring col
 
 Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapters 2 and 5) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed (dochala) or four-roofed (chauchala) structure of the thatched huts. (Remember the “Bangla dome” in Chapter 5?) This led to the evolution of the typical Bengali style in temple architecture.
 
-> [note] Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
+Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
 
 > [note] Compare the temple shown here with that in Chapter 2.
 
@@ -195,7 +195,7 @@ Emergence of nation-states in Europe
 
 <!-- page 136 (pdf 15) -->
 
-Imagine
+### Imagine
 
 You are a Rajput prince. How would you like your story to be told?
 
@@ -203,7 +203,7 @@ You are a Rajput prince. How would you like your story to be told?
 
 ### Let’s recall
 
-> [note] 1. Match the following:
+1. Match the following:
 
 Anantavarman Kerala
 
@@ -223,9 +223,21 @@ Miniature Kerala
 
 4. What are the important architectural features of the temples of Bengal ?
 
-> [note] KEYWORDS classical miniature pir dialect
+<!-- section: glossary -->
+
+### Keywords
+
+- classical
+
+- miniature
+
+- pir
+
+- dialect
 
 <!-- page 137 (pdf 16) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

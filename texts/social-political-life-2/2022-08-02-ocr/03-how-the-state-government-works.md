@@ -10,9 +10,17 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch03.pdf"
 source_sha256: "94e9145c90b4efb2f40b2f2c8406d20c91596fdca8f8232cd32f60489215f7bd"
 pdf_pages: 14
 printed_pages: "30-43"
-body_fingerprint: "83c01ef353c80d9cd36b2a5191b2bf92a49382c7a4455e28237cfd468a717463"
+body_fingerprint: "90285f05aab00596b062fdfaaa7f1b05319420c141ed756e0e27cf7c2afff43c"
 ocr: true
 ocr_confidence: 86.9
+overrides:
+  - "The chapter title on page 30 is four lines (How / the State / Government / Works). The OCR read only the last two lines"
+  - "The caption on page 31 reads 'coloured in purple in the above thumbnail map'. The OCR dropped the spaces"
+  - "The results table on page 33 gives 1 seat to the Communist Party of India (Marxist). The OCR read the digit as a lower-case L"
+  - "Page 35 reads 'has gone on a long leave.' The OCR glued 'on a'"
+  - "Page 40 reads 'is asked'. The OCR misread the i as a t"
+  - "Page 39 reads 'like'. The OCR dropped the i"
+  - "Page 39 reads 'etc.' The OCR misread the c as an e"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -27,7 +35,7 @@ WHOSE RESPONSIBILITY?
 
 “In many villages, people were found to be IF] OW drinking unclean water. Streams have dried up, and so have tanks. In the worst-affected areas, villagers t h e St at e have been carrying water across great distances.”
 
-# Government Works
+# How the State Government Works
 
 Last year, we discussed the fact that government works at three levels - local, state and national - and looked at the work of local government in some detail. In this chapter, we examine the work of the government at the state level. How does this take “People at the district HQ Patalpuram receive water vv place ina democ racy? supply once in three days. The District Hospital here is
 
@@ -59,23 +67,25 @@ Really! Why? Has he done something?
 
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
 
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the Discuss the following terms with your teacher-public meeting, States in India, constituency, majority, ruling party and opposition.
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
 
-> [note] Suddenly...
+Suddenly...
 
 > [caption] What a loud voice he has...he must be a leader or something...
 
-> [note] Bhh...1 saw him on TV too. He is a member of the Opposition!
+Bhh...1 saw him on TV too. He is a member of the Opposition!
 
-> [note] What is happening in Patalpuram ?
+What is happening in Patalpuram ?
 
-> [note] Why is this problem serious?
+Why is this problem serious?
 
-> [caption] What action do you think can be taken in the above situation and who do you think should take this action? Discuss.
+> [table] What action do you think can be taken in the above situation and who do you think should take this action? Discuss.
 
 <!-- page 32 (pdf 3) -->
 
-Can you explain the following terms-majority, ruling party, opposition with reference to your The state of Himachal Pradesh is coloured in purplein theabove thumbnail map of India.
+Discuss the following terms with your teacher-public meeting, States in India, constituency, majority, ruling party and opposition.
+
+Can you explain the following terms-majority, ruling party, opposition with reference to your
 
 > [caption] state. iw sy — We “ | LITICAL \ =~ | | ean mmBen » 2 : —. Phe . a Be ol : he Be 1 all = ones t =| MIZORAM | Aah —_, MauaRasar on ie | c ; Poel r Ne A ——. — ¥ a Le . = ="; Se; ‘oT - c 2 © 4 i é Gahiee ty en >. oc ; | fe enw oer am “
 
@@ -97,7 +107,7 @@ Results of the Assembly Elections in Himachal Pradesh in 2017
 
 Political party Number of MLAs elected Bharatiya Janata Party (BJP) 44 Indian National Congress (INC) 21
 
-Communist Party of India (Marxist) l
+Communist Party of India (Marxist) 1
 
 Independents (who don’t belong to any party) .........-sececeeseeees 2
 
@@ -133,13 +143,21 @@ MLA 3: My constituency of Tolpatti too has a serious shortage of water. Women tr
 
 MLA 4: I think my colleagues are exaggerating the problem. The government has taken steps to control the situation. Water tankers have been put into service. ORS packets are being distributed. The government is doing everything possible to help people.
 
-MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone ona long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
+MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
 
 MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years.
 
-> [note] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
+Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
 
 <!-- page 36 (pdf 7) -->
+
+What were the main arguments put forward by different MLAs who thought that the government was not taking the situation ina serious manner?
+
+If you were the health minister, how would you respond to the above discussion?
+
+Do you think the above debate would have been useful in some ways? How? Discuss.
+
+In the working of the government, explain the difference between being an MLA and an MLA who is also a minister.
 
 In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
 
@@ -149,31 +167,25 @@ The Legislative Assembly is not the only place where opinions are expressed abou
 
 Soon after the discussion in the assembly, there was a press conference organised by the health minister. Large numbers of people from different newspapers were present. The minister and some government officials were also present. The minister explained the steps the government had taken. Reporters asked many questions at this meeting. These discussions were then reported in different newspapers. The following page has one such report.
 
-During the next week, the chief minister and the minister for health visited Patalpuram district. They went to visit the families who had lost their relatives and also visited people in the hospitals. The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks. The chief minister has promised funds for this work. They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea. When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.
-
-> [note] What were the main arguments put forward by different MLAs who thought that the government was not taking the situation ina serious manner?
-
-> [note] If you were the health minister, how would you respond to the above discussion?
-
-> [note] Do you think the above debate would have been useful in some ways? How? Discuss.
-
-> [note] In the working of the government, explain the difference between being an MLA and an MLA who is also a minister.
+During the next week, the chief minister and the minister for health visited Patalpuram district. They went to visit the families who had lost their relatives and also visited people in the hospitals. The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work families. The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water. He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.
 
 <!-- page 37 (pdf 8) -->
 
 > [caption] Patalpuram | Ravi Ahuja
 
-During the last few weeks, there have been many deaths in some districts of our state. There has been a strong reaction that the government has not taken this seriously. The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures. The most important problem is that of drinking water. The minister said that they families. The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water. He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.
+intend to supply drinking water to every village through tanker trucks. The chief minister has promised funds for this work. They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea. When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.
+
+During the last few weeks, there have been many deaths in some districts of our state. There has been a strong reaction that the government has not taken this seriously. The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures. The most important problem is that of drinking water. The minister said that they
 
 As you saw above, the people in power like the chief minister and the minister have to take action. They do so through various departments like the Public Works Department, the Agriculture Department, the Health Department, the Education Department and so on. They also have to answer questions that are asked in the Legislative Assembly and convince people asking the questions that proper steps are being taken. At the same time, newspapers and the media widely discuss the issue and the government has to respond, for example, by holding the press conferences.
 
 <!-- page 38 (pdf 9) -->
 
+In a democracy, people organise meetings to voice their opinions and protest against the government.
+
 The government can also decide to make new laws for the state regarding sanitation and health facilities. For example, it may make it compulsory for municipal corporations to ensure that there are adequate toilets in every urban area. It may also ensure that a health worker is appointed in every village. This act of making laws on certain issues is done in the Legislative Assembly of each state. The various government departments then implement these laws. Laws for the entire country are made in the Parliament. You will read more about the Parliament next year.
 
 In a democracy, it is the people who elect their representatives as Members of the Legislative Assembly (MLAs) and, thus, it is the people who have the main authority. The ruling party members then form the government and some members are appointed ministers. These ministers are in charge of various departments of the government such as health in the above example. Whatever work is done by these departments has to be approved by the members of the legislative assembly.
-
-> [note] In a democracy, people organise meetings to voice their opinions and protest against the government.
 
 <!-- page 39 (pdf 10) -->
 
@@ -181,13 +193,13 @@ Name of department Examples of their work Public Works Department Agriculture A 
 
 > [caption] School Education
 
-After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups. The group discusses the issue and decides what it would lke to include in the wall-paper. Children then work individually or in pairs to read the collected material and write their observations or experiences. They can do this through creating stories, poems, case studies, interviews, ete.
+After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups. The group discusses the issue and decides what it would like to include in the wall-paper. Children then work individually or in pairs to read the collected material and write their observations or experiences. They can do this through creating stories, poems, case studies, interviews, etc.
 
 The group looks at the material that they have Selected, drawn or written. They read each other’s writing and provide feedback to each other. They make decisions on what should be included and finalise the layout for the wallpaper.
 
 <!-- page 40 (pdf 11) -->
 
-Each group then presents the wallpaper to the entire class. It is important that more than one member of the group ts asked to present and that each group is allotted the same amount of time to discuss their work. After each group has presented, it would be a good idea to have a feedback session on the following — What more could they do on their own? How could their work be organised better? How could writing and presentation be improved upon?
+Each group then presents the wallpaper to the entire class. It is important that more than one member of the group is asked to present and that each group is allotted the same amount of time to discuss their work. After each group has presented, it would be a good idea to have a feedback session on the following — What more could they do on their own? How could their work be organised better? How could writing and presentation be improved upon?
 
 This wallpaper about the 2006 dengue epidemic was prepared by children of Class VI B of Kendriya Vidyalaya II, Hindon, Ghaziabad, Uttar Pradesh.
 

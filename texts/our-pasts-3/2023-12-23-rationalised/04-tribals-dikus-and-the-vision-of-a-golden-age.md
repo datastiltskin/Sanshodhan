@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch04.pdf"
 source_sha256: "cf8d36f7be8bc0c0c326a29eaabb86986d7574d455c7d796046174a385c9fcf0"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "b7977ef6cc9a0f4529fc8bb75a626956d5096e687a65a3083715a9445971fcda"
+body_fingerprint: "34c8ec63a7a42b1b19f463cd7ac5659f56e6ec302c60c4da74e39fdae768f321"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -71,13 +71,13 @@ The cycle described above took place in the first year. In the second year there
 
 > [caption] Adapted from Verrier Elwin, Baiga (1939) and Elwin’s unpublished ‘Notes on the Khonds’ (Verrier Elwin Papers, Nehru Memorial Museum and Library)
 
-Activity
+### Activity
 
 Look carefully at the tasks that Baiga men and women did. Do you see any pattern? What were the differences in the types of work that they were expected to perform?
 
 > [caption] Fig. 4 – A Santhal girl carrying firewood, Bihar, 1946
 
-> [table] Children go with their mothers to the forest to gather forest produce.
+> [caption] Children go with their mothers to the forest to gather forest produce.
 
 <!-- page 43 (pdf 5) -->
 
@@ -97,13 +97,13 @@ What happened to the shifting cultivators? The British were uncomfortable with g
 
 > [caption] Fig. 5 – A log house being built in a village of the Nyishi tribes of Arunachal Pradesh.
 
+> [caption] The entire village helps when log huts are built.
+
 <!-- page 44 (pdf 6) -->
 
 The British effort to settle jhum cultivators was not very successful. Settled plough cultivation is not easy in areas where water is scarce and the soil is dry. In fact, jhum cultivators who took to plough cultivation often suffered, since their fields did not produce good yields. So the jhum cultivators in north-east India insisted on continuing with their traditional practice. Facing widespread protests, the British had to ultimately allow them the right to carry on shifting cultivation in some parts of the forest.
 
-> [caption] Fig. 7 – Tribal workers in a rice field in Andhra Pradesh
-
-> [table] Note the difference between rice cultivation in the flat plains and in the forests.
+> [caption] Fig. 7 – Tribal workers in a rice field in Andhra Pradesh Note the difference between rice cultivation in the flat plains and in the forests.
 
 > [caption] Fig. 6 – Bhil women cultivating in a forest in Gujarat Shifting cultivation continues in many forest areas of Gujarat. You can see that trees have been cut and land cleared to create patches for cultivation.
 
@@ -135,7 +135,7 @@ During the nineteenth century, tribal groups found that traders and money-lender
 
 Let us consider the case of the silk growers. In the eighteenth century, Indian silk was in demand in European markets. The fine quality of Indian silk was highly valued and exports from India increased rapidly. As the market expanded, East India Company officials tried to encourage silk production to meet the growing demand.
 
-Hazaribagh, in present-day Jharkhand, was an area where the Santhals reared cocoons. The traders dealing in silk sent in their agents who gave loans to the tribal people and collected the cocoons. The growers were paid ` 3 to ` 4 for a thousand cocoons. These were then exported to Burdwan or Gaya where they were sold at five times the price. The middlemen – so called because they arranged deals between the exporters and silk growers – made huge profits. The silk growers earned very little. Understandably, many tribal groups saw the market and the traders as their main enemies.
+Hazaribagh, in present-day Jharkhand, was an area where the Santhals reared cocoons. The traders dealing in silk sent in their agents who gave loans to the tribal people and collected the cocoons. The growers were paid ₹ 3 to ₹ 4 for a thousand cocoons. These were then exported to Burdwan or Gaya where they were sold at five times the price. The middlemen – so called because they arranged deals between the exporters and silk growers – made huge profits. The silk growers earned very little. Understandably, many tribal groups saw the market and the traders as their main enemies.
 
 > [caption] Fig. 8 – Godara women weaving
 
@@ -155,9 +155,9 @@ Through the nineteenth and twentieth centuries, tribal groups in different parts
 
 > [caption] Fig. 10 – Coal miners of Bihar, 1948
 
-In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
+> [caption] In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
 
-Activity
+### Activity
 
 Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
 

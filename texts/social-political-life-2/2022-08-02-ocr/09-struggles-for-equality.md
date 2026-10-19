@@ -10,9 +10,12 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch09.pdf"
 source_sha256: "a9c51d4c27af33d18bead542e8a2f9954340f93c9633f6905c14c24966d6cde9"
 pdf_pages: 11
 printed_pages: "102-112"
-body_fingerprint: "3073a107e16595597c17ef8eac33226c775d891f2ca61fd05967949f5d901d0f"
+body_fingerprint: "50ca741c803b2d288f71fefebfbcb4ee50b692f351b4ce4d25ede76d7f602c93"
 ocr: true
 ocr_confidence: 92.8
+overrides:
+  - "The poster on page 112 reads https://twitter.com/dtptraffic. The OCR misread the slashes and the double f"
+  - "The poster on page 112 reads https://www.facebook.com/dtptraffic. The OCR misread the f and the double f"
 ---
 
 <!-- page 102 (pdf 1) -->
@@ -51,11 +54,9 @@ According to the 2011 Census data women form 48.5 per cent of the population, Mu
 
 > [caption] Sustainable Development Goal (SDG)
 
-www.in.undp.org
+www.in.undp.org is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 Can you think. of one person in your family, community, village, town or city whom you respect because of their fight for equality and justice?
-
-is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 Often, poverty and lack of dignity and respect for certain communities and groups come together in such powerful ways that it is difficult to identify where one aspect of inequality ends and the other begins. As you have read, Dalit, Adivasi and Muslim girls drop out of school in large numbers. This is a combined outcome of poverty, social discrimination and the lack of good quality school facilities for these communities.
 
@@ -101,9 +102,11 @@ The Right To Know
 
 My dreams have the right to know
 
-Why for centuries they have been breaking Why don’t they ever come true My hands have the right to know Why do they remain without work all along Why do they have nothing to do My feet have the right to know Why from village to village they walk on their own Why are there no signs of a bus yet My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages My children have the right to know Why do they labour day and night Why is there no school in sight While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
+Why for centuries they have been breaking Why don’t they ever come true My hands have the right to know Why do they remain without work all along Why do they have nothing to do My feet have the right to know Why are there no signs of a bus yet My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages My children have the right to know Why do they labour day and night Why is there no school in sight The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
 
-The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
+Why from village to village they walk on their own
+
+While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
 
 <!-- page 109 (pdf 8) -->
 
@@ -147,7 +150,7 @@ Can you make up a social advertisement on equality? You can do this in small gro
 
 @ World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/
 
-@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org 6a" ¥ INDIA POLITICAL Pa ee oa " RAKHAND CHINA | % osm anh (TIBET) is ¥ hs 7 a 4 BEU: 2 ~ SIKKIM Gangtok th mos. ia OS Rona oe ESH “™ ep BHUTAN 3 “@ 4S Lucknow: sap, v Se oe ie eee gal 2a ys Tara Whee wm reed caneet ssa eo (Daman & Dju) aNp MAHARASH \: AM Sarg 1 é ——— Go. J REFEREN . orem Internatipnal boundary f tenner State boundary; 3 ( cen ge is SS Sele ’ : . ‘ Dethi +5 on & Se f = 200 00 = © ~ Pee PL a ts 0 CEA N - oS L
+@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org 6a" ¥ INDIA POLITICAL Pa ee oa " RAKHAND CHINA | % osm anh (TIBET) is ¥ hs 7 a 4 BEU: 2 ~ SIKKIM Gangtok th mos. ia OS Rona oe ESH “™ ep BHUTAN 3 “@ 4S Lucknow: sap, v Se oe ie eee gal 2a ys Tara Whee wm reed caneet ssa eo (Daman & Dju) aNp MAHARASH \: AM Sarg 1 é ——— Go. J REFEREN . orem Internatipnal boundary f tenner State boundary; 3 ( cen ge is SS Sele ’ : . ‘ Dethi +5 on & Se f ₹ 200 00 = © ~ Pee PL a ts 0 CEA N - oS L
 
 > [table] @ Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
 
@@ -183,7 +186,7 @@ Final round of competitions and prize distribution ceremony to be held in Januar
 
 ## over 850 Schools will be participating yy SHANTI SEWA® NYAYA wt bd ¥
 
-Follow us on: yh) https:/twitter.com/dtptrattic — F) https://www.tacebook.com/dtptrattic 24 Hours Traffic Helpline : 011-25844444, 1095
+Follow us on: yh) https://twitter.com/dtptraffic — F) https://www.facebook.com/dtptraffic 24 Hours Traffic Helpline : 011-25844444, 1095
 
 Have you participated in any event related to school road safety?
 

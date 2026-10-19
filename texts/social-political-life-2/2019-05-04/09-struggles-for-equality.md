@@ -145,21 +145,15 @@ Over 1,500 persons attended a public hearing in Lucknow in 2001 to protest viole
 
 > [caption] Supreme Court of India, Paschim Banga Khet Mazdoor Samity of Ors. Vs.
 
-> [table] State of West Bengal & Anr. (Hakim Seikh case, date of judgment: 6 May 1996, http://judis.nic.in/supremecourt/imgs1.aspx?filename=15597)
+> [caption] State of West Bengal & Anr. (Hakim Seikh case, date of judgment: 6 May 1996, http://judis.nic.in/supremecourt/imgs1.aspx?filename=15597)
 
 > [table] Valmiki, Omprakash. 2003. Joothan: A Dalit’s Life. SAMYA, Kolkata.
 
-> [caption] World Health Organization, Essential medicines and health products,
-
-> [table] http://www.who.int/medicines/services/inn/en/
-
-> [caption] www.cehat.org/rthc/policybrieffinal.pdf www.in.undp.org (Sustainable Development Goals – SDGs)
+> [caption] World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/ www.cehat.org/rthc/policybrieffinal.pdf www.in.undp.org (Sustainable Development Goals – SDGs)
 
 > [caption] www.infochangeindia.org
 
-> [caption] Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in
-
-> [table] India. Zubaan, New Delhi.
+> [caption] Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
 
 <!-- page 111 (pdf 10) -->
 

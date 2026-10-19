@@ -10,7 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch07.pdf"
 source_sha256: "fd7030705ddb1d99417f6171e311d9320b5b937bae09e9c375e72ee2369cfcf8"
 pdf_pages: 15
 printed_pages: "79-93"
-body_fingerprint: "5290630bd776f3bc460887d05a3d1348ce88d40d5cb9bd97099082d58c98e0f2"
+body_fingerprint: "6aa687d84c4f4a0e8444e0a9c82c36aa7471ec3bea50b1be1111e5a36bf38319"
+overrides:
+  - "text wrapped round Fig. 9 on page 86 (and round the Fig. 7 break from page 85), the Basohli and Kangra paragraph and the 'Remember that' paragraph had been read into each other"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -99,13 +101,13 @@ Another tradition that developed in different ways was that of miniature paintin
 
 With the decline of the Mughal Empire, many painters moved out to the courts of the emerging regional states (see also Chapter 8). As a result Mughal artistic tastes influenced the regional courts of the Deccan and the Rajput courts of Rajasthan. At the same time, they retained and developed their distinctive characteristics. Portraits of rulers and court scenes came to be painted, following the Mughal example. Besides, themes from mythology and poetry were depicted at centres such as Mewar, Jodhpur, Bundi, Kota and Kishangarh.
 
-Another region that attracted miniature paintings was the Himalayan foothills around the modern-day state of Himachal Pradesh. By the late seventeenth painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.
+Another region that attracted miniature paintings was the Himalayan foothills around the modern-day state of Himachal Pradesh. By the late seventeenth century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature painting. The source of inspiration was the Vaishnavite traditions. Soft colours including cool blues and greens, and a lyrical treatment of themes distinguished Kangra painting.
 
 > [caption] Fig. 7 Akbar resting during a hunt, Mughal miniature.
 
 <!-- page 86 (pdf 8) -->
 
-R e m e m b e r t h a t ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have century, this region had developed a bold and intense style of miniature painting called Basohli. The most popular text to be painted here was Bhanudatta’s Rasamanjari. Nadir Shah’s invasion and the conquest of Delhi in 1739 resulted in the migration of Mughal artists to the hills to escape the uncertainties of the plains. Here they found ready patrons which led to the founding of the Kangra school of painting. By the mid-eighteenth century the Kangra artists developed a style which breathed a new spirit into miniature occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries.
+Remember that ordinary women and men painted as well — on pots, walls, floors, cloth — works of art that have occasionally survived, unlike the miniatures that were carefully preserved in palaces for centuries.
 
 > [caption] Fig. 8 Maharana Ram Singh II playing holi. Rajput miniature, Kota.
 
@@ -115,7 +117,7 @@ R e m e m b e r t h a t ordinary women and men painted as well — on pots, wall
 
 ## A Closer Look: Bengal
 
-The Growth of a Regional Language
+### The Growth of a Regional Language
 
 As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium bce) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
 
@@ -159,9 +161,9 @@ Bengal also witnessed a temple-building spree from the late fifteenth century, w
 
 > [note] Why do you think the second category of texts was not written down?
 
-> [note] Pir A Persian word meaning a spiritual guide.
+Pir A Persian word meaning a spiritual guide.
 
-> [note] Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
+Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
 
 <!-- page 90 (pdf 12) -->
 
@@ -187,7 +189,7 @@ Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fis
 
 <!-- page 92 (pdf 14) -->
 
-> [note] Imagine
+### Imagine
 
 You are a Rajput prince. How would you like your story to be told?
 
@@ -195,7 +197,7 @@ You are a Rajput prince. How would you like your story to be told?
 
 ### Let’s recall
 
-> [note] 1. Match the following:
+1. Match the following:
 
 Anantavarman Kerala
 
@@ -215,9 +217,21 @@ Miniature Kerala
 
 4. What are the important architectural features of the temples of Bengal?
 
-> [note] Keywords classical miniature pir dialect
+<!-- section: glossary -->
+
+### Keywords
+
+- classical
+
+- miniature
+
+- pir
+
+- dialect
 
 <!-- page 93 (pdf 15) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

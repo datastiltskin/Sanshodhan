@@ -10,9 +10,18 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch02.pdf"
 source_sha256: "facb124caa3c15670dfcf44fdb27cc0112211853a299ef968d0e7310c12929d9"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "cf4168d9bae1eeeb3216f2f4b218e77759ea02eea9287bdda12fc67580aa3f10"
+body_fingerprint: "7ea33628391bfd9583059cd94515eb69dd156592cc04f2a3571d81b0f7af37b2"
 ocr: true
 ocr_confidence: 95.2
+overrides:
+  - "Page 20 reads '21 per cent'. The OCR read the digit 1 as a capital I"
+  - "Page 21 reads 'like'. The OCR dropped the l"
+  - "The heading on page 22 reads 'THE COST OF A CURE'. The OCR glued 'OF' and 'A'"
+  - "The speech bubble on page 22 begins with a capital I. The OCR read it as a bar"
+  - "The caption on page 25 reads 'A doctor in a rural health care centre'. The OCR glued 'in a'"
+  - "The caption on page 25 reads 'A woman and her sick child at a government hospital.' The OCR dropped the spaces"
+  - "The caption on page 27 reads 'serve as a mobile clinic for patients.' The OCR dropped the spaces"
+  - "The caption on page 26 has no backslash. The OCR read a stray mark after the A"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -65,13 +74,13 @@ Healthcare facilities have grown About five lakh people die from tuberculosis su
 
 in India. In 1991, there were 11,174 hospitals. Almost two million cases of malaria are In 2017, the number grew to 23,583. reported every year and this number isn’t decreasing.
 
-India gets a large number of medical We are not able to provide clean drinking tourists from many countries. They come water to all. 2I per cent of all for treatment in some of the hospitals in communicable diseases are water borne.
+India gets a large number of medical We are not able to provide clean drinking tourists from many countries. They come water to all. 21 per cent of all for treatment in some of the hospitals in communicable diseases are water borne.
 
 India that compare with the best in the world. For example, diarrhoea, worms, hepatitis, etc.
 
-India is the third largest producer of Half of all children in India do not medicines in the world and is also a large get adequate food to eat and are In order to prevent and treat illnesses we need appropriate healthcare facilities such as health centres, hospitals, laboratories for testing, ambulance services, blood banks, etc., that can provide the required care and services that patients need. In order to run such facilities we need health workers, nurses, qualified doctors and other health professionals who can advice, diagnose and treat illnesses. We also need the medicines and equipment that are necessary for treating patients. These facilities are required to take care of us.
+India is the third largest producer of Half of all children in India do not medicines in the world and is also a large get adequate food to eat and are exporter of medicines. undernourished.
 
-> [note] exporter of medicines. undernourished.
+In order to prevent and treat illnesses we need appropriate healthcare facilities such as health centres, hospitals, laboratories for testing, ambulance services, blood banks, etc., that can provide the required care and services that patients need. In order to run such facilities we need health workers, nurses, qualified doctors and other health professionals who can advice, diagnose and treat illnesses. We also need the medicines and equipment that are necessary for treating patients. These facilities are required to take care of us.
 
 <!-- page 21 (pdf 6) -->
 
@@ -79,41 +88,47 @@ India has a large number of doctors, clinics and hospitals. The country also has
 
 However, the second column points out how poor the health situation in our country is. With all the above positive developments we are not able to provide proper healthcare facilities to people. This is the paradox — something that is contrary to what we would expect. Our country has the money, knowledge and people with experience but cannot make the necessary healthcare available to all. In this chapter, we will look at some of the reasons for this.
 
-Patients usually have to wait in long queues in government hospitals, ike this one.
+Patients usually have to wait in long queues in government hospitals, like this one.
 
 The story of Hakim Seikh
 
-Hakim Seikh was a member of the Paschim Banga Khet Mazdoor Samity (PBKMS), an organisation of agricultural labourers in West Bengal. One evening in 1992, he accidentally fell off a running train and suffered head injuries. He was in a very serious condition and needed immediate He was taken to a government hospital in Kolkata but they refused to admit him because they did not have a spare bed. Another hospital did not have the facility or the specialised doctors necessary for his treatment. In this way he spent 14 hours in a critical state and was taken to eight different government hospitals, but none of them admitted him.
+Hakim Seikh was a member of the Paschim Banga Khet Mazdoor Samity (PBKMS), an organisation of agricultural labourers in West Bengal. One evening in 1992, he accidentally fell off a running
+
+train and suffered head injuries. He was in a very serious condition and needed immediate
 
 > [caption] treatment.
+
+He was taken to a government hospital in Kolkata but they refused to admit him because they did not have a spare bed. Another hospital did not have the facility or the specialised doctors necessary for his treatment. In this way he spent 14 hours in a critical state and was taken to eight different government hospitals, but none of them admitted him.
 
 Finally, he was admitted in a private hospital, where he received treatment. He spent a lot of money on his treatment. Angry and upset over the indifferent attitude of all the hospitals that refused to admit him, Hakim Seikh and PBKMS filed a case in the court.
 
 <!-- page 22 (pdf 7) -->
 
-THE COST OFA CURE
+THE COST OF A CURE
 
-Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+> [table] I had viral fever and had to go to the hospital...
 
-os Bi Aman! Good to see you back! How have you been?
+Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
-The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!
+Aman and Ranjan are good friends. While Ranjan os Bi Aman! Good to see you back! How have you been?
+
+comes from a well-to-do family, Aman’s parents have
+
+to struggle to make ends meet...
+
+The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the Daddy had to pay Rs 500 at the reception counter itself — before we even met the doctor! There was nice music playing and everything was really clean and shiny.
 
 > [caption] best of facilities.
 
-\\a a | ..and have you ia
+The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!
+
+> [table] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed some medicines and rest.
+
+### \\a a | ..and have you ia
+
+..and so young man — this pink pill should be taken three times a day, and the white tablet once before bed time — that’s for the bodyache! This one is a syrup — don’
 
 > [table] eS heard the one
-
-> [caption] | had viral fever and had to go to the hospital...
-
-> [note] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
-
-> [note] Daddy had to pay Rs 500 at the reception counter itself — before we even met the doctor! There was nice music playing and everything was really clean and shiny.
-
-> [caption] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed some medicines and rest.
-
-> [note] ..and so young man — this pink pill should be taken three times a day, and the white tablet once before bed time — that’s for the bodyache! This one is a syrup — don’
 
 <!-- page 23 (pdf 8) -->
 
@@ -133,21 +148,21 @@ Oh! My treatment did not cost much! ee
 
 <!-- page 24 (pdf 9) -->
 
+Why pay taxes to the government?
+
+Government uses tax money for providing many public services for the benefit of all citizens. Some services such as defence, police, judicial system, highways etc. benefit all citizens. Otherwise, the citizens cannot organise these services for themselves.
+
+Taxes fund developmental programmes and services such as education, health care, employment, social welfare, vocational training etc. required for needy citizens. Tax money is utilised for relief and rehabilitation in case of natural disasters such as floods, earthquakes, tsunami etc. Space, nuclear, and missile programmes are also funded from the revenues collected as taxes.
+
+Government provides some services especially for the poor who cannot afford to purchase them from the market. One example is health care. Can you give other examples?
+
 Public and private health care services
 
-From the above story, you must have understood that we can roughly divide up various health care facilities in two categories —
+From the above story, you must have understood that we can roughly divide up various health care facilities in two categories — The public health service is a chain of health centres and hospitals run by the government. They are linked together so that they cover both rural and urban areas and can also provide treatment to all kinds of problems — from common illnesses to special services. At the village level there are health centres where there is usually a nurse and a village health worker. They are trained in dealing with common illnesses and work under the supervision of doctors at the Primary Health Centre (PHC). Such a centre covers many villages in a rural area. At the district level is the District Hospital that also supervises all the health centres. Large cities have many government hospitals such as the one where Aman was taken and also specialised government hospitals such as the ones in Hakim Seikh’s story.
 
-(a) Public health services and (b) Private health facilities. Public health services The public health service is a chain of health centres and hospitals run by the government. They are linked together so that they cover both rural and urban areas and can also provide treatment to all kinds of problems — from common illnesses to special services. At the village level there are health centres where there is usually a nurse and a village health worker. They are trained in dealing with common illnesses and work under the supervision of doctors at the Primary Health Centre (PHC). Such a centre covers many villages in a rural area. At the district level is the District Hospital that also supervises all the health centres. Large cities have many government hospitals such as the one where Aman was taken and also specialised government hospitals such as the ones in Hakim Seikh’s story.
+(a) Public health services and (b) Private health facilities. Public health services
 
 The health service is called ‘public’ for many reasons. In order to fulfil its commitment of providing health care to all citizens, the government has established these hospitals and health centres. Also, the resources needed to run these services are obtained from the money that we, the public, pay to the government as taxes. Hence, such facilities are meant for everyone. One of the most important aspects of the public health system is that it is meant to provide quality health care services either free or at a low cost, so that even the poor can seek treatment. Another important function of public health is to take action to prevent the spread of diseases such as TB, malaria, jaundice, cholera, diarrhoea, chikungunya, etc. This has to be organised by the government with the participation of people otherwise it is not effective. For example, when taking up a campaign to see that mosquitoes do not breed in water coolers, rooftops, etc., this has to be done for all houses in the area.
-
-> [note] Why pay taxes to the government?
-
-> [note] Government uses tax money for providing many public services for the benefit of all citizens. Some services such as defence, police, judicial system, highways etc. benefit all citizens. Otherwise, the citizens cannot organise these services for themselves.
-
-> [note] Taxes fund developmental programmes and services such as education, health care, employment, social welfare, vocational training etc. required for needy citizens. Tax money is utilised for relief and rehabilitation in case of natural disasters such as floods, earthquakes, tsunami etc. Space, nuclear, and missile programmes are also funded from the revenues collected as taxes.
-
-> [note] Government provides some services especially for the poor who cannot afford to purchase them from the market. One example is health care. Can you give other examples?
 
 <!-- page 25 (pdf 10) -->
 
@@ -163,15 +178,23 @@ The Court also said that it was the duty of the government to provide the necess
 
 There is a wide range of private health facilities that exist in our country. A large number of doctors run their own private clinics. In the rural areas, one finds Registered Medical Practitioners (RMPs). Urban areas have a large number of doctors, many of them providing specialised services. There are hospitals and nursing homes that are privately owned. There are many laboratories that do tests and offer special facilities such as X-ray, ultrasound, etc. There are also shops from where we buy medicines.
 
-A doctor ina rural health care centre giving medicines to a patient.
+A doctor in a rural health care centre giving medicines to a patient.
 
-A womanandher sick childat a government hospital. According to UNICEF, more than a million children die every year in India from preventable infections.
+A woman and her sick child at a government hospital. According to UNICEF, more than a million children die every year in India from preventable infections.
 
 In what ways is the public health system meant for everyone?
 
 List some Primary Health Centres (PHCs) or hospitals near your place. From your experience (or by visiting any one of them), find out the facilities provided and people who run the centre.
 
 <!-- page 26 (pdf 11) -->
+
+A post-operative room in a leading private hospital in Delhi.
+
+Private health facilities can mean many things. Explain with the help of some examples from your area.
+
+The Medical Council of India’s Code of Medical Ethics states: “Every physician should, as far as possible, prescribe drugs with generic names and he/she shall ensure that there is a rational prescription and use of drugs.”
+
+> [caption] How can health care be made more affordable? Discuss.
 
 As the name suggests, private health facilities are not owned or controlled by the government. Unlike the public health services, in private facilities, patients have to pay a lot of money for every service that they use.
 
@@ -189,19 +212,13 @@ In fact, barely 20 per cent of the population can afford all the medicines that 
 
 ## jan aushadhi Jan Aushadhi Medical Stores
 
-| Daam kam, Dawai Uttam ‘ep Jan Aushadhi Medical Stores is a chain of medical stores initiated by the Central Government illness. Hence, even for those whom one might not think as being poor, medical expenses cause hardship. It was reported in a study that 40 per cent of people who are admitted to a hospital for some illness or injury have to borrow money or sell some of their possessions to pay for the expenses.
+| Daam kam, Dawai Uttam ‘ep Jan Aushadhi Medical Stores is a chain of medical stores initiated by the Central Government
 
 > [caption] As a Consumer, you want... Branded medicines Or Same generic medicines at higher prices? at lesser prices?
 
-> [note] A\ post-operative room in a leading private hospital in Delhi.
-
-> [note] Private health facilities can mean many things. Explain with the help of some examples from your area.
-
-> [note] The Medical Council of India’s Code of Medical Ethics states: “Every physician should, as far as possible, prescribe drugs with generic names and he/she shall ensure that there is a rational prescription and use of drugs.”
-
-> [caption] How can health care be made more affordable? Discuss.
-
 <!-- page 27 (pdf 12) -->
+
+illness. Hence, even for those whom one might not think as being poor, medical expenses cause hardship. It was reported in a study that 40 per cent of people who are admitted to a hospital for some illness or injury have to borrow money or sell some of their possessions to pay for the expenses.
 
 For those who are poor, every illness in the family is a cause of great anxiety and distress. What is worse is that this situation tends to happen again and again. Those who are poor are in the first place undernourished. These families are not eating as much as they should. They are not provided basic necessities like drinking water, adequate housing, clean surroundings, etc., and therefore, are more likely to fall ill. The expenses on illness make their situation even worse.
 
@@ -211,7 +228,7 @@ Sometimes it is not only the lack of money that prevents people from getting pro
 
 There is little doubt that the health situation of most people in our country is not good. It is the responsibility of the government to provide quality healthcare services to all its citizens, especially the poor and the disadvantaged. However, health is as much dependent on basic amenities and social conditions of the people, as it is on healthcare services. Hence, it is important to work on both in order to improve the health situation of our people. And this can be done. Look at the following example.
 
-In rural areas, a jeep is often used to serve asa mobile clinicfor patients.
+In rural areas, a jeep is often used to serve as a mobile clinic for patients.
 
 This pregnant lady has to travel many kilometres to see a qualified doctor.
 
@@ -243,6 +260,8 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
 
+An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
+
 What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
 
 What differences do you find between private and public health services in your area? Use the following table to compare and contrast these.
@@ -253,28 +272,32 @@ Facility Affordability Availability Quality
 
 > [caption] Public
 
+> [caption] Sustainable Development Goal (SDG)
+
 ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
 
 > [caption] 4.
 
-Glossary ways such as through water, food , air, etc.
+www.in.undp.org
 
-> [note] Public: An activity or service that is meant for all people in the country and is mainly organised by the government. This includes schools, hospitals, telephone services, etc. People can demand these services and also raise questions about their non-functioning.
+<!-- section: glossary -->
 
-> [note] Private: An activity or service that is organised by an individual or company for their own gain.
+Glossary
 
-> [note] Medical tourists: This refers to foreigners who come to this country specifically for medical treatment at hospitals that offer world-class facilities at a lower cost than what they would have to pay in their
+Public: An activity or service that is meant for all people in the country and is mainly organised by the government. This includes schools, hospitals, telephone services, etc. People can demand these services and also raise questions about their non-functioning.
+
+Private: An activity or service that is organised by an individual or company for their own gain.
+
+Medical tourists: This refers to foreigners who come to this country specifically for medical treatment at hospitals that offer world-class facilities at a lower cost than what they would have to pay in their
 
 > [caption] own countries.
 
-> [note] Communicable diseases: These are diseases that are spread from one person to another in many OPD: This is the short form for ‘Out Patient Department’. This is where people are first brought in and treated in a hospital without being admitted to any special ward.
+Communicable diseases: These are diseases that are spread from one person to another in many
+
+ways such as through water, food , air, etc.
+
+OPD: This is the short form for ‘Out Patient Department’. This is where people are first brought in and treated in a hospital without being admitted to any special ward.
 
 Ethics: Moral principles that influence a person’s behaviour
 
-> [note] Generic names: These are chemical names of the drugs. They help in identifying the ingredients. They are globally recognised. For example, acetyl salicylic acid is the generic name of Aspirin.
-
-> [note] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
-
-> [caption] Sustainable Development Goal (SDG)
-
-> [note] www.in.undp.org
+Generic names: These are chemical names of the drugs. They help in identifying the ingredients. They are globally recognised. For example, acetyl salicylic acid is the generic name of Aspirin.

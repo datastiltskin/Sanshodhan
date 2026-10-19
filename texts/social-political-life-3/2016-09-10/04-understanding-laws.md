@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch04.pdf"
 source_sha256: "5d6c94ffbf3c17f28b5978598e0aec667008d889c8abcfa8db1857a8b7f2f8a3"
 pdf_pages: 10
 printed_pages: "42-51"
-body_fingerprint: "a9b53b93a5d4847d2eb070021dfb06363f9a2a81319cba10aff477f4d3cbe865"
+body_fingerprint: "f09f7be5c1d400366fbf4f5331eaf38b667433cc0884c734466592972d0746b2"
 ---
 
 <!-- page 42 (pdf 1) -->
@@ -30,7 +30,7 @@ You may be familiar with some laws such as those that specify the age of marriag
 
 > [table] Do you think that the government official’s actions were right? Should his son be exempt from the law just because his father is economically and politically powerful?
 
-QThe above is a clear case of the violation of law. As you read in Unit 1, members of the Constituent Assembly were agreed there should be no arbitrary exercise of power in independent India. They, therefore, instituted several provisions in the Constitution that would establish the rule of law. The most important of these was that all persons in independent India are equal before the law.
+The above is a clear case of the violation of law. As you read in Unit 1, members of the Constituent Assembly were agreed there should be no arbitrary exercise of power in independent India. They, therefore, instituted several provisions in the Constitution that would establish the rule of law. The most important of these was that all persons in independent India are equal before the law.
 
 The law cannot discriminate between persons on the basis of their religion, caste or gender. What the rule of law means is that all laws apply equally to all citizens of the country and no one can be above the law. Neither a government official, nor a wealthy person nor even the President of the country is above the law. Any crime or violation of law has a specific punishment as well as a process through which the guilt of the person has to be established. But was it always like this?
 

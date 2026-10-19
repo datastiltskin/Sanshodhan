@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2014-07-28/ch01.pdf"
 source_sha256: "0e651edc6a9b69a70a403c7bff2b1cc69dc76f8a195d0136aea8c4044e249a4d"
 pdf_pages: 16
 printed_pages: "2-17"
-body_fingerprint: "c5a10f510060dc2fa43607b3110c739bcdef39000266c797633f1a1b7385f7a6"
+body_fingerprint: "e1323ea683c295e6c9ebf4dd1b276bbfb23860729783f6f417358b48cb8ff074"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -151,7 +151,7 @@ From the above discussion, you will understand that the Constitution plays a ver
 
 > [caption] Shabnam decides to revise her chapters instead of watching TV.
 
-QNow let us try and understand the ways in which the above points get translated into certain ideals and rules by studying some key features of the Indian Constitution.
+Now let us try and understand the ways in which the above points get translated into certain ideals and rules by studying some key features of the Indian Constitution.
 
 ## The Indian Constitution: Key Features
 

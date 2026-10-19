@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2024-05-24/ch05.pdf"
 source_sha256: "c4e5c53e957accf3e4c6fc98f063bba4f830bca8e8e550f3446ae1ec2dafe2ea"
 pdf_pages: 14
 printed_pages: "60-73"
-body_fingerprint: "bc338751db2e28e0b6a92ddccac87c81da53ec378eaaa84b08afeda40d7bc90a"
+body_fingerprint: "fdb7fc4a662bde40b588b21e39ba490e10a55d543a5d1256ecb549b65f82f0e5"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -186,7 +186,7 @@ In Unit 1, you read that the Constitution provides safeguards to religious and l
 
 > [table] Why do we need safeguards for minorities?
 
-Muslims and Marginalisation
+### Muslims and Marginalisation
 
 According to 2011 Census, Muslims are 14.2 percent of India's population and are considered to be a marginalized community because of their having comparatively lower status of socio-economic development. The data in the three tables below, derived from different sources, indicate the situation of the Muslim community with regard to basic amenities, literacy and public employment. Read the tables below. What do you think these tables tell us about the socio-economic status of the Muslim community?
 
@@ -228,7 +228,7 @@ Recognising that Muslims in India were lagging behind in terms of various develo
 
 > [table] Read the data related to schooling provided by the Sachar Committee Report:
 
-• 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
+- 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
 
 > [table] Do you think special measures are required to address this situation?
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch04.pdf"
 source_sha256: "e3f56c65af2e2d925e5024a62b81c111f77ab3e08e7819fadf98bf085154f717"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "4933a79792917a534632ffb63eb1cbd93cdd48adfa40203175d5fde49d5afda1"
+body_fingerprint: "fc6699f720e269e095a8d67942143780e4a243da9b0c922147bc809e8108cb7b"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -121,7 +121,7 @@ The Mughal emperors and their mansabdars spent a great deal of their income on s
 
 The enormous wealth and resources commanded by the Mughal elite made them an extremely powerful group of people in the late seventeenth century. As the authority of the Mughal emperor slowly declined, his servants emerged as powerful centres of power in the regions. They constituted new dynasties and held the command of provinces like Hyderabad and Awadh. Although they continued to recognise the Mughal emperor in Delhi as their master, by the eighteenth century the provinces of the empire had consolidated their independent political identities.
 
-Imagine
+### Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
@@ -171,9 +171,27 @@ Nur Jahan Jahangir
 
 <!-- section: glossary -->
 
-Keywords
+### Keywords
 
-Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
+- Mughal
+
+- mansab
+
+- jagir
+
+- zat
+
+- sawar
+
+- sulh-i kul
+
+- primogeniture
+
+- coparcenary
+
+- zabt
+
+- zamindar
 
 <!-- page 48 (pdf 10) -->
 

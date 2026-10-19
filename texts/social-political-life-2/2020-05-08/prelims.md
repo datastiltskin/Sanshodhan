@@ -10,21 +10,21 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/prelims.pdf"
 
 ## Textbook for Class VII
 
-Sra afar COU
+NAT NOIJ NAL COUN NCIL L OF EDUCAT NON NAL RESEARCH AN ND 1 TRAII First Edition February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941
 
-> [caption] Faas she oP fSTaTo) SIT RESEARCH AT EDUCA Rug RAI
+> [note] NG
 
 <!-- pdf page 2 -->
-
-First Edition February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941
 
 PD 570 T RPS
 
 © National Council of Educational Research and Training, 2007
 
-` 65.00
+₹ 65.00
 
-Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Laxmi Print India, 519/1/23, Sansar Compound, Dilshad Garden Industrial Area, Shahdara, Delhi -110 095
+Printed on 80 GSM paper with NCERT watermark
+
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Laxmi Print India, 519/1/23, Sansar Compound, Dilshad Garden Industrial Area, Shahdara, Delhi -110 095
 
 ISBN 81-7450-672-1
 
@@ -44,7 +44,25 @@ ISBN 81-7450-672-1
 
 Publication Team
 
-Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Bibash Kumar Das Manager Assistant Editor: Shashi Chadha Production Assistant: Om Prakash Cover, Layout Orijit Sen with Splash! Communications Illustrations Orijit Sen
+Head, Publication: Anup Kumar Rajput Division
+
+Chief Editor: Shveta Uppal
+
+Chief Production: Arun Chitkara Officer
+
+Chief Business: Bibash Kumar Das Manager
+
+Assistant Editor: Shashi Chadha
+
+Production Assistant: Om Prakash
+
+Cover, Layout
+
+Orijit Sen with Splash! Communications
+
+Illustrations
+
+Orijit Sen
 
 <!-- pdf page 3 -->
 
@@ -234,17 +252,17 @@ out from the diagram below, what the cost price includes.
 
 BIG BUSINESS HOUSES
 
-> [table] Some own radio, TV, newspaper eae advertise their products
+> [table] Some own radio, TV, newspaper
 
-Profit ` 900
+Profit ₹ 900
 
-> [table] People buy products seen in the media. Money, therefore, flows back to big business houses
+> [table] People buy products seen in the media. Money, therefore, flows back to big business houses advertise their products
 
-Advertising ` 400
+Advertising ₹ 400
 
-Storage ` 200
+Storage ₹ 200
 
-Purchase ` 300
+Purchase ₹ 300
 
 MEDIA
 
@@ -264,7 +282,11 @@ It would also be fair to expect a range of correct answers when the learner is a
 
 An example of what we mean by a range of responses to a question, as well as a wrong answer is provided below:
 
-If you were one of the Ansaris how would you have responded to the property dealer’s suggestion that you change your name?
+If you were one of the Ansaris how would you have responded
+
+to the property dealer’s suggestion that you change
+
+your name?
 
 Range of right answers
 
@@ -290,7 +312,9 @@ Wrong answer
 
 ### Other forms of evaluation
 
-We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below – Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
+We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below –
+
+Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
 
 Oral reasoning and comprehension: Children express so much through speaking and sharing in a classroom. Yet, most often, our current educational system tends to regard this as ‘useless talk’. Learning from peers and expressing themselves through the spoken word is something that needs to be encouraged. Oral evaluation exercises provide an avenue through which to value this. A number of in-text questions in this book can be answered orally and the teacher should begin this process in the classroom.
 
@@ -300,31 +324,25 @@ These forms of evaluation help emphasise that learning is continuous and happens
 
 <!-- pdf page 15 -->
 
-## aN ee
+THE CO ONSTITUTIO NC INDIA
 
-THE C
+OF
 
-INSTITUTI' INDIA
+PREAMBLE
 
-IN
+> [table] OF INDIA, having
 
-PREAMBLE having and
+> [table] THE PEC OPLE
 
-> [caption] INDIA,
-
-> [caption] THE
-
-> [caption] WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial. CCl political; of thought, expression, belief, LIBERTY faith and worship: yf status and EQUALITY ypportunity; and tc ‘promote among them all FRATERNITY assuring the dignity the individual and the and unity f the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 de this twenty-sixth day ENACT AND GIVE T HEREBY AD PT, YURSELVES THIS Ce INSTITUTIC PE( PLE constitute India intc ICIALIST SECULAR and tc Secure
+WE, solemnly resolved to constitute India into OSI, OVEREIGN SC OCIALIST SECULAR DEMC OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY O of thought, expression, belief, faith and worship; EQUALITY O of status and c of c opportunity; and to promote among them all FRATERNITY assuring the dignity JO the individual and the 'unity and integrity o of the Nation; IN OUR ONSTITUENT ASSEMBLY this twenty-sixth day c of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.
 
 JUSTICE,
 
-> [caption] ymic
+> [caption] SO n (Forty-secor D nocratic Republic" ( n (Forty-secor 107 MITATTO r "Unity of the Natior w.e.f. 3.1.1977)
 
-> [caption] Subs. by the Co
+> [caption] w.e.f. 3.1.1977)
 
-> [caption] (Forty-seco ef. 3.1.1977)
-
-> [caption] Subs. by the Cc "Unity of the Natio ef, 3.1.1977)
+> [caption] overeign Dem O. Subs. by the Cor LJ
 
 <!-- pdf page 16 -->
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2019-05-04/ch07.pdf"
 source_sha256: "7a56e2398a4a610d5fe99361da2e083b0c481c62575803fe1302923611f04bc5"
 pdf_pages: 16
 printed_pages: "78-93"
-body_fingerprint: "3281941c3753b664b6f4a048aeec96b87e79e27ea94002e9bc85c9840c6fb5e3"
+body_fingerprint: "e659ed8e8bf9120c6abc35684b0a92e10b5d5a0e1a7f000f567a00e01e4c4cca"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -227,7 +227,7 @@ Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)
 
 Recognising that Muslims in India were lagging behind in terms of various development indicators, the government set up a high-level committee in 2005. Chaired by Justice Rajindar Sachar, the committee examined the social, economic and educational status of the Muslim community in India. The report discusses in detail the marginalisation of this community. It suggests that on a range of social, economic and educational indicators the situation of the Muslim community is comparable to that of other marginalised communities like Scheduled Castes and Scheduled Tribes. For example, according to the Report the average years of schooling for Muslim children between the ages of 7-16 is much lower than that of other socio-religious communities (page 56).
 
-• 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
+- 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
 
 > [table] Do you think special measures are required to address this situation?
 

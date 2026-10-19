@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2024-05-24/ch06.pdf"
 source_sha256: "38ad22705816585182357066b63a10dbfa60898eeec5d93df14894e1221a12bb"
 pdf_pages: 10
 printed_pages: "74-83"
-body_fingerprint: "bd8653d835e2c33b63134dc1bd5a5e5704b4327ef6b0b13fa9eaebbf1041a974"
+body_fingerprint: "4b73511f2d7d098cc1a7d6c758446cb97f4f361ce91ab53c9913ef7d5c3341d5"
 ---
 
 <!-- page 74 (pdf 1) -->
@@ -42,7 +42,9 @@ Likewise, other minority groups have drawn on the Fundamental Rights section of 
 
 As you have read, the government makes laws to protect its citizens. Yet, this is not the only way in which it takes action. There are specific laws and policies for the marginalised in our country. There are policies or schemes that emerge through other means like setting up a committee or by undertaking a survey etc. The government then makes an effort to promote such policies in order to give opportunities to specific groups.
 
-Promoting Social Justice As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal areas or in areas that have a high Dalit population. For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education facilities that may not be available in their localities.
+### Promoting Social Justice
+
+As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal areas or in areas that have a high Dalit population. For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education facilities that may not be available in their localities.
 
 > [caption] The poem below is written by Soyrabai, the wife of the well-known Bhakti poet Chokhamela from fourteenth century Maharashtra. They belonged to the Mahar caste, which was at that time considered untouchable.
 
@@ -156,7 +158,7 @@ At another level, the Act recognizes that crimes against Dalit and tribal women 
 
 Manual scavenging refers to the practice of removing human and animal waste/excreta using brooms, tin plates and baskets from dry latrines and carrying it on the head to disposal grounds some distance away. A manual scavenger is the person who does the job of carrying this filth. This job is mainly done by Dalit women and young girls. According to the Andhra Pradesh-based Safai Karamchari Andolan, an organisation working with manual scavengers, there are one lakh persons from Dalit communities who continue to be employed in this job in this country and who work in 26 lakh private and community dry latrines managed by municipalities.
 
-Manual scavengers are exposed to subhuman conditions of work and face serious health hazards. They are constantly exposed to infections that affect their eyes, skin, respiratory and gastro-intestinal systems. They get very low wages for the work they perform. Those working in urban municipalities earn ` 200 per day and those working privately are paid much less.
+Manual scavengers are exposed to subhuman conditions of work and face serious health hazards. They are constantly exposed to infections that affect their eyes, skin, respiratory and gastro-intestinal systems. They get very low wages for the work they perform. Those working in urban municipalities earn ₹ 200 per day and those working privately are paid much less.
 
 As you have read earlier in this book, the practice of untouchability has been abolished by the Indian Constitution. However, manual scavengers in different parts of the country, the Bhangis in Gujarat, Pakhis in Andhra Pradesh and the Sikkaliars in Tamil Nadu, continue to be considered untouchable. They often live in separate settlements on the outskirts of the village and are denied access to the temple, public water facilities etc.
 

@@ -11,7 +11,9 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch08.pdf"
 source_sha256: "59ee8e69ea74cbb4ee04277d8e759e5e180f3aaf0921f013bd441b304868f970"
 pdf_pages: 20
 printed_pages: "93-112"
-body_fingerprint: "34ac040b9f10a707bca2c750fb259c49f2ee8a1f029362174a1ab610e2f86033"
+body_fingerprint: "22766eb6153ac3eed20509148600c1bac3a19ff06f422f816eef14c313220094"
+overrides:
+  - "wide word spacing in the Source 2 box on page 96, the print reads \"remains\""
 ---
 
 <!-- page 93 (pdf 1) -->
@@ -22,7 +24,25 @@ body_fingerprint: "34ac040b9f10a707bca2c750fb259c49f2ee8a1f029362174a1ab610e2f86
 
 In the previous chapters, we have looked at:
 
-The British conquest of territories, and takeover of kingdoms Introduction of new laws and administrative institutions Changes in the lives of peasants and tribals Educational changes in the nineteenth century Debates regarding the condition of women Challenges to the caste system Social and religious reform The revolt of 1857 and its aftermath The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
+- The British conquest of territories, and takeover of kingdoms
+
+- Introduction of new laws and administrative institutions
+
+- Changes in the lives of peasants and tribals
+
+- Educational changes in the nineteenth century
+
+- Debates regarding the condition of women
+
+- Challenges to the caste system
+
+- Social and religious reform
+
+- The revolt of 1857 and its aftermath
+
+- The decline of crafts and growth of industries
+
+On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
 
 <!-- page 94 (pdf 2) -->
 
@@ -58,11 +78,13 @@ this Congress is composed of the representatives, not of any one class or commun
 
 It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period, it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose, it called for civil service examinations to be held in India as well, not just in London.
 
-The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
+The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
 
 > [table] Fig. 2 – Dadabhai Naoroji
 
 > [table] Naoroji’s book Poverty and Un-British Rule in India offered a scathing criticism of the economic impact of British rule.
+
+### Activity
 
 <!-- page 96 (pdf 4) -->
 
@@ -74,9 +96,9 @@ Repeal – To undo law; to officially end the validity of something such as a la
 
 This is what a Moderate leader, Dinshaw Wacha, wrote to Naoroji in 1887:
 
-P h e r o z e s h a h i s nowadays too busy with his personal work … They are already r i c h e n o u g h … M r . T e l a n g t o o r em ain s busy. I wonder how if all remain busy in the pursuit of gold can the progress of the country be advanced?
+Pherozeshah is nowadays too busy with his personal work … They are already rich enough … Mr. Telang too remains busy. I wonder how if all remain busy in the pursuit of gold can the progress of the country be advanced?
 
-Activity
+### Activity
 
 What problems regarding the early Congress does this comment highlight?
 
@@ -102,9 +124,11 @@ The partition of Bengal infuriated people all over India. All sections of the Co
 
 > [caption] Fig. 5 – Lala Lajpat Rai
 
-> [table] A nationalist from Punjab, he was one of the leading members of the Radical group which was critical of the politics of petitions. He was also an active member of the Arya Samaj.
+> [caption] A nationalist from Punjab, he was one of the leading members of the Radical group which was critical of the politics of petitions. He was also an active member of the Arya Samaj.
 
-Revolutionary violence The use of violence to make a radical change within society Council – An appointed or elected body of people with an administrative, advisory or representative function Activity Find out which countries fought the First World War.
+Revolutionary violence The use of violence to make a radical change within society Council – An appointed or elected body of people with an administrative, advisory or representative function Find out which countries fought the First World War.
+
+### Activity
 
 The Swadeshi movement sought to oppose British rule and encourage the ideas of self-help, swadeshi enterprise, national education, and use of Indian languages. To fight for swaraj, the radicals advocated mass mobilisation and boycott of British institutions and goods. Some individuals also began to suggest that “revolutionary violence” would be necessary to overthrow British rule.
 
@@ -128,7 +152,7 @@ Furthermore, in 1917, there was a revolution in Russia. News about peasants’ a
 
 It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As you may know, Gandhiji, aged 46, arrived in India in 1915 from South Africa. Having led Indians in that country in non-violent marches against racist restrictions, he was already a respected leader, known internationally. His South African campaigns had brought him in contact with various types of Indians: Hindus, Muslims, Parsis and Christians; Gujaratis, Tamils and north Indians; and upper-class merchants, lawyers and workers.
 
-Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
+Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
 > [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895
 
@@ -136,9 +160,9 @@ Mahatma Gandhi spent his first year in India travelling throughout the country, 
 
 <!-- page 100 (pdf 8) -->
 
-> [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
+### Activity
 
-> [table] The people are pointing to the bullet marks on the wall.
+> [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people The people are pointing to the bullet marks on the wall.
 
 Knighthood – An honour granted by the British Crown for exceptional personal achievement or public service interventions were in local movements in Champaran, Kheda and Ahmedabad where he came into contact with Rajendra Prasad and Vallabhbhai Patel. In Ahmedabad, he led a successful millworkers’ strike in 1918.
 
@@ -178,13 +202,11 @@ Non-violence comes to us through doing good continually without the slightest ex
 
 > [caption] 12 March 1938
 
-Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
 
 <!-- page 102 (pdf 10) -->
 
-> [caption] Fig. 8 – A popular representation of Mahatma Gandhi
-
-had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
+> [caption] Fig. 8 – A popular representation of Mahatma Gandhi In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
 
@@ -214,17 +236,17 @@ Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that
 
 Two important developments of the mid-1920s were the formation of the Rashtriya Swayamsevak Sangh (RSS), a Hindu organisation, and the Communist Party of India. These parties have held very different ideas about the kind of country India should be. Find out about their ideas with the help of your teacher. The revolutionary nationalist Bhagat Singh too was active in this period.
 
-Activity
+### Activity
 
 Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
 
 > [caption] Fig. 9 – Chitta Ranjan Das
 
-> [table] A major figure in the freedom movement, Das was a lawyer from East Bengal. He was especially active in the Non-Cooperation Movement.
+> [caption] A major figure in the freedom movement, Das was a lawyer from East Bengal. He was especially active in the Non-Cooperation Movement.
 
 <!-- page 104 (pdf 12) -->
 
-In 1927, the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived, it was met with demonstrations with banners saying “Simon Go Back”.
+> [caption] In 1927, the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived, it was met with demonstrations with banners saying “Simon Go Back”.
 
 The decade closed with the Congress resolving to fight for Purna Swaraj (complete independence) in 1929 under the presidentship of Jawaharlal Nehru. Consequently, “Independence Day” was observed on 26 January 1930 all over the country.
 
@@ -248,7 +270,7 @@ Gandhiji and his followers marched for over 240 miles from Sabarmati to the coas
 
 > [caption] Fig. 12 – Mahatma Gandhi breaking the salt law by picking up a lump of natural salt, Dandi, 6 April 1930
 
-Women in the freedom struggle: Ambabai from Karnataka Provincial autonomy Capacity of the provinces to make relatively independent decisions while remaining within a federation Peasants, tribals and women participated in large numbers. A business federation published a pamphlet on the salt issue. The government tried to crush the movement through brutal action against peaceful satyagrahis. Thousands were sent to jail.
+### Women in the freedom struggle: Ambabai from Karnataka
 
 > [note] Women from diverse backgrounds participated in the national movement. Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes. Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.
 
@@ -262,7 +284,11 @@ Women in the freedom struggle: Ambabai from Karnataka Provincial autonomy Capaci
 
 > [caption] Fig. 13 – Sarojini Naidu with Mahatma Gandhi, Paris, 1931
 
-> [table] Active in the national movement since the early 1920s, Naidu was a significant leader of the Dandi March. She was the first Indian woman to become President of the Indian National Congress (1925).
+> [caption] Active in the national movement since the early 1920s, Naidu was a significant leader of the Dandi March. She was the first Indian woman to become President of the Indian National Congress (1925).
+
+### Provincial autonomy
+
+Capacity of the provinces to make relatively independent decisions while remaining within a federation Peasants, tribals and women participated in large numbers. A business federation published a pamphlet on the salt issue. The government tried to crush the movement through brutal action against peaceful satyagrahis. Thousands were sent to jail.
 
 The combined struggles of the Indian people bore fruit when the Government of India Act of 1935 prescribed provincial autonomy and the government announced elections to the provincial legislatures in 1937. The Congress formed governments in 7 out of 11 provinces.
 
@@ -294,7 +320,7 @@ The first response of the British was severe repression. By the end of 1943, ove
 
 Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Independent States” for Muslims in the north-western and eastern areas of the country. The resolution did not mention partition or Pakistan. Why did the League ask for an autonomous arrangement for the Muslims of the subcontinent?
 
-> [note] Bose and the INA
+### Bose and the INA
 
 > [caption] Fig. 15 – Subhas Chandra Bose
 
@@ -308,19 +334,19 @@ Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Indepen
 
 > [caption] Fig. 17 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
 
-Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
-
-> [caption] Fig. 20 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
-
-An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
+> [caption] Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
 > [caption] Fig. 18 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
-A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
+> [caption] A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
 
 > [caption] Fig. 19 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945–47
 
-> [table] Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
+> [caption] Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
+
+> [caption] Fig. 20 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
+
+> [caption] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 
 <!-- page 109 (pdf 17) -->
 
@@ -334,7 +360,9 @@ After the failure of the Cabinet Mission, the Muslim League decided on mass agit
 
 Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien
 
-“General”constituencies Election districts with no reservations for any religious or other community Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
+“General”constituencies Election districts with no reservations for any religious or other community
+
+Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
 > [caption] Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 

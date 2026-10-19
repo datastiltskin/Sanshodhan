@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch10.pdf"
 source_sha256: "efac9e88284699ee786ad6173a96a50abae5aa2e3ebb27040590be04f574634c"
 pdf_pages: 17
 printed_pages: "138-154"
-body_fingerprint: "7a0ef1f81cd834440e95639e83b7a993da6e6e17aed9e9024cc469a92afe36ba"
+body_fingerprint: "d4a7a16b08cd5bc0bb06b56ba08ba663a8f6bf84a1c1b672c4535dc8be28f175"
 ---
 
 <!-- page 138 (pdf 1) -->
@@ -80,7 +80,7 @@ Amongst the states that were carved out of the old Mughal provinces in the eight
 
 <!-- page 143 (pdf 6) -->
 
-Hyderabad
+### Hyderabad
 
 Nizam-ul-Mulk Asaf Jah, the founder of Hyderabad state (1724-1748), was one of the most powerful members at the court of the Mughal Emperor Farrukh Siyar. He was entrusted first with the governorship of Awadh, and later given charge of the Deccan. As the Mughal governor of the Deccan provinces, during 1720-22 Asaf Jah had already gained control over its political and financial administration. Taking subsequent advantage of the turmoil in the Deccan and the competition amongst the court nobility, he gathered power in his hands and became the actual ruler of that region.
 
@@ -96,7 +96,7 @@ The state of Hyderabad was constantly engaged in a struggle against the Marathas
 
 <!-- page 144 (pdf 7) -->
 
-Awadh
+### Awadh
 
 Burhan-ul-Mulk Sa‘adat Khan was appointed subadar of Awadh in 1722 and founded a state which was one of the most important to emerge out of the break-up of the Mughal Empire. Awadh was a prosperous region, controlling the rich alluvial Ganga plain and the main trade route between north India and Bengal. Burhan-ul-Mulk also held the combined offices of subadari, diwani and faujdari. In other words, he was responsible for managing the political, financial and military affairs of the province of Awadh.
 
@@ -110,7 +110,7 @@ The state depended on local bankers and mahajans for loans. It sold the right to
 
 <!-- page 145 (pdf 8) -->
 
-Bengal
+### Bengal
 
 Bengal gradually broke away from Mughal control under Murshid Quli Khan who was appointed as the naib, deputy to the governor of the province. Although never a formal subadar, Murshid Quli Khan very quickly seized all the power that went with that office. Like the rulers of Hyderabad and Awadh he also commanded the revenue administration of the state. In an effort to reduce Mughal influence in Bengal he transferred all Mughal jagirdars to Orissa and ordered a major reassessment of the revenues of Bengal. Revenue was collected in cash with great strictness from all zamindars. As a result, many zamindars had to borrow money from bankers and moneylenders. Those unable to pay were forced to sell their lands to larger zamindars.
 
@@ -126,29 +126,31 @@ If we take a bird’s eye view, we can detect three common features amongst thes
 
 Many Rajput kings, particularly those belonging to Amber and Jodhpur, had served under the Mughals with distinction. In exchange, they were permitted to enjoy considerable autonomy in their watan jagirs. In the eighteenth century, these rulers now attempted to extend their control over adjacent regions. Ajit Singh, the ruler of Jodhpur, was also involved in the factional politics at the Mughal court.
 
-These influential Rajput families claimed the subadari of the rich provinces of Gujarat and Malwa. Raja Ajit Singh of Jodhpur held the governorship of Gujarat and Sawai Raja Jai Singh of Amber was governor of Malwa. These offices were renewed by Emperor Jahandar Shah in 1713. They also tried to extend their territories by seizing portions of imperial territories neighbouring their watans. Nagaur was conquered and annexed to the house of Jodhpur, while Amber seized large portions of Bundi. Sawai Raja Jai Singh founded his new capital at Jaipur and was given the subadari of Agra in 1722. Maratha campaigns into Rajasthan Many Rajput chieftains built a number of forts on hill tops which became centres of power. With extensive fortifications, these majestic structures housed urban centres, palaces, temples, trading centres, water harvesting structures and other buildings. The Chittorgarh fort contained many water bodies varying from talabs (ponds) to kundis (wells), baolis (stepwells), etc.
+These influential Rajput families claimed the subadari of the rich provinces of Gujarat and Malwa. Raja Ajit Singh of Jodhpur held the governorship of Gujarat and Sawai Raja Jai Singh of Amber was governor of Malwa. These offices were renewed by Emperor Jahandar Shah in 1713. They also tried to extend their territories by seizing portions of imperial territories neighbouring their watans. Nagaur was conquered and annexed to the house of Jodhpur, while Amber seized large portions of Bundi. Sawai Raja Jai Singh founded his new capital at Jaipur and was given the subadari of Agra in 1722. Maratha campaigns into Rajasthan from the 1740s put severe pressure on these principalities and checked their further expansion.
 
-> [note] Many Rajput rulers had accepted the suzerainty of the Mughals but Mewar was the only Rajput state which defied Mughal authority. Rana Pratap ascended the throne at Mewar in 1572, with Udaipur and large part of Mewar under his control. A series of envoys were sent to the Rana to persuade him to accept Mughal suzerainty, but he stood his ground.
+Many Rajput rulers had accepted the suzerainty of the Mughals but Mewar was the only Rajput state which defied Mughal authority. Rana Pratap ascended the throne at Mewar in 1572, with Udaipur and large part of Mewar under his control. A series of envoys were sent to the Rana to persuade him to accept Mughal suzerainty, but he stood his ground.
 
 <!-- page 147 (pdf 10) -->
 
-from the 1740s put severe pressure on these principalities and checked their further expansion.
+Many Rajput chieftains built a number of forts on hill tops which became centres of power. With extensive fortifications, these majestic structures housed urban centres, palaces, temples, trading centres, water harvesting structures and other buildings. The Chittorgarh fort contained many water bodies varying from talabs (ponds) to kundis (wells), baolis (stepwells), etc.
 
 ### Raja Jai Singh of Jaipur
 
 > [source] A description of Raja Jai Singh in a Persian account of 1732: Raja Jai Singh was at the height of his power. He was the governor of Agra for 12 years and of Malwa for 5 or 6 years. He possessed a large army, artillery and great wealth. His sway extended from Delhi to the banks of the Narmada.
 
+> [caption] Fig. 5 Mehrangarh Fort, Jodhpur
+
 > [caption] Fig. 4b. Chittorgarh Fort, Rajasthan
 
 > [caption] Fig. 4c Jantar Mantar in Jaipur
 
-> [note] Sawai Jai Singh, the ruler of Amber constructed five astronomical observatories, one each in Delhi, Jaipur, Ujjain, Mathura and Varanasi. Commonly known as Jantar Mantar, these observatories had various instruments to study heavenly bodies.
+Sawai Jai Singh, the ruler of Amber constructed five astronomical observatories, one each in Delhi, Jaipur, Ujjain, Mathura and Varanasi. Commonly known as Jantar Mantar, these observatories had various instruments to study heavenly bodies.
 
 <!-- page 148 (pdf 11) -->
 
 ## Seizing Independence
 
-The Sikhs
+### The Sikhs
 
 The organisation of the Sikhs into a political community during the seventeenth century (see Chapter 8) helped in regional state-building in the Punjab. Several battles were fought by Guru Gobind Singh against the Rajput and Mughal rulers, both before and after the institution of the Khalsa in 1699. After his death in 1708, the Khalsa rose in revolt against the Mughal authority under Banda Bahadur’s leadership, declared their sovereign rule by striking coins in the name of Guru Nanak and Guru Gobind Singh, and established their own administration between the Sutlej and the Jamuna. Banda Bahadur was captured in 1715 and executed in 1716.
 
@@ -164,7 +166,7 @@ Guru Gobind Singh had inspired the Khalsa with the belief that their destiny was
 
 The Sikh territories in the late eighteenth century extended from the Indus to the Jamuna but they were divided under different rulers. One of them, Maharaja Ranjit Singh, reunited these groups and established his capital at Lahore in 1799.
 
-The Marathas
+### The Marathas
 
 The Maratha kingdom was another powerful regional kingdom to arise out of a sustained opposition to Mughal rule. Shivaji (1627-1680) carved out a stable kingdom with the support of powerful warrior families (deshmukhs). Groups of highly mobile, peasant-pastoralists (kunbis) provided the backbone of the Maratha army. Shivaji used these forces to challenge the Mughals in the peninsula. After Shivaji’s death, effective power in the Maratha state was wielded by a family of Chitpavan Brahmanas who served Shivaji’s successors as Peshwa (or principal minister). Poona became the capital of the Maratha kingdom.
 
@@ -190,7 +192,7 @@ Alongside endless military campaigns, the Marathas developed an effective admini
 
 <!-- page 151 (pdf 14) -->
 
-The Jats
+### The Jats
 
 Like the other states the Jats consolidated their power during the late seventeenth and eighteenth-centuries. Under their leader, Churaman, they acquired control over territories situated to the west of the city of Delhi, and by the 1680s they had begun dominating the region between the two imperial cities of Delhi and Agra. For a while they became the virtual custodians of the city of Agra.
 
@@ -212,7 +214,7 @@ The French Revolution (1789-1794)
 
 > [note] The ideas of citizenship, nation-state and democratic rights took root in India from the late nineteenth century.
 
-Imagine
+### Imagine
 
 You are a ruler of an eighteenth-century kingdom. Tell us about the steps you would take to make your position strong in your province, and what opposition or problems you might face while doing so.
 
@@ -248,9 +250,25 @@ subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl 
 
 4. What were the offices held by Sa‘adat Khan?
 
-KEYWORDS subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
+<!-- section: glossary -->
+
+### Keywords
+
+- subadari
+
+- dal khalsa
+
+- misl
+
+- faujdari
+
+- ijaradari
+
+- chauth sardeshmukhi
 
 <!-- page 154 (pdf 17) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

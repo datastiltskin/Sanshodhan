@@ -10,9 +10,12 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch07.pdf"
 source_sha256: "cb4897f596e8529bd0211e4f3e3cad0168bcade38eacc34e50b85cecced0aba0"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "8b76ad31f501764f916b75231c8e81c086720a70e9450d1a6bf758e2c359e7a7"
+body_fingerprint: "563c2c1aa1f3b69a5d97fc0b2ee29553a4dea3d60a36ce9e819b2b50776fd2d5"
 ocr: true
 ocr_confidence: 93.3
+overrides:
+  - "the paragraph wraps round Fig. 6 on page 98 and its second half was read after the map legend, the page continues 'daughter of Salbahan, the Chandel Rajput raja of Mahoba.'"
+  - "the line 'Salbahan, the Chandel Rajput raja of Mahoba.' belongs to the paragraph on page 98 and is not part of the map legend"
 ---
 
 <!-- page 91 (pdf 1) -->
@@ -41,11 +44,13 @@ But the caste-based and tribal societies also depended on each other for their d
 
 Contemporary historians and travellers give very scanty information about tribes. A few exceptions apart, tribal people did not keep written records. But they preserved rich customs and oral traditions. These were passed down to each new generation. Present-day historians have started using such oral traditions to write tribal histories.
 
-Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble (mansabdar) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful p-oN ~ ) KHOKHARS z= JANJUHAS s ~ } ah f 2] PB Sed e ~ —— / i J \ { ¢ ke AHOMS Som : . MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \ > \, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \. BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe: ? KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \ he VL \ g iP e ¥ po j De ly Tho’ \ ‘ é: = / = ) or rt 45 A \\ gysnohens 5 "3 7 ee \% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \ MARAVARS. °F Ss. \ f j \ .; Fe es A 3 a INDIAN . OGEAN % i)
+Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble (mansabdar) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful
 
-> [note] On a physical map of the subcontinent, identify the areas in which tribal people may have lived.
+On a physical map of the subcontinent, identify the areas in which tribal people may have lived.
 
 <!-- page 93 (pdf 3) -->
+
+p-oN ~ ) KHOKHARS z= JANJUHAS s ~ } ah f 2] PB Sed e ~ —— / i J \ { ¢ ke AHOMS Som : . MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \ > \, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \. BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe: ? KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \ he VL \ g iP e ¥ po j De ly Tho’ \ ‘ é: = / = ) or rt 45 A \\ gysnohens 5 "3 7 ee \% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \ MARAVARS. °F Ss. \ f j \ .; Fe es A 3 a INDIAN . OGEAN % i)
 
 tribe in the north-west. They were divided into many smaller clans under different chiefs. In the western Himalaya lived the shepherd tribe of Gaddis. The distant north-eastern part of the subcontinent too was entirely dominated by tribes — the Nagas, Ahoms and many others.
 
@@ -57,7 +62,7 @@ In many areas of present-day Bihar and Jharkhand, Chero chiefdoms had emerged by
 
 > [caption] Clan
 
-> [note] A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
+A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
 
 <!-- page 94 (pdf 4) -->
 
@@ -67,7 +72,9 @@ The large tribe of Bhils was spread across western and central India. By the lat
 
 How Nomads and Mobile People Lived
 
-_* Nomadic pastoralists moved over long distances with their animals. They lived on milk and other pastoral products. They also exchanged wool, ghee, etc., with settled agriculturists for grain, cloth, utensils and other products.
+_* Nomadic pastoralists moved over
+
+long distances with their animals. They lived on milk and other pastoral products. They also exchanged wool, ghee, etc., with settled agriculturists for grain, cloth, utensils and other products.
 
 > [table] Fig. 2 Bhils hunting deer by night.
 
@@ -81,25 +88,29 @@ They bought and sold these goods as they moved from one place to another, transp
 
 The Banjaras were the most important trader-nomads. Their caravan was called tanda. Sultan Alauddin Khalji (Chapter 3) used the Banjaras to transport grain to the city markets. Emperor Jahangir wrote in his memoirs that the Banjaras carried grain on their bullocks from different areas and sold it in towns. They transported food grain for the Mughal army during military campaigns. With a large army there could be 100,000 bullocks carrying grain.
 
-The Banjaras
+The Banjaras the Banjaras: In the morning we met a tanda of Banjaras with14,000 oxen. They were all laden with grains such as wheat and rice ... These Banjaras carry their household — wives and children — along with them. One tanda consists of many families. Their way of life is similar to that of carriers who continuously travel from place to place. They own their oxen. They are sometimes hired by merchants, but most commonly they are themselves merchants. They buy grain where it is cheaply available and carry it to places where it is dearer. From there, they again reload their oxen with anything that can be profitably sold in other places ... In a tanda there may be as many as 6 or 7 hundred persons ... They do not travel more than 6 or 7 miles a day— that, too, in the cool weather. After unloading their oxen, they turn them free to graze as there is enough land here, and no one there to forbid them.
 
-Peter Mundy, an English trader who came to India during the early seventeenth century, has described the Banjaras: In the morning we met a tanda of Banjaras with14,000 oxen. They were all laden with grains such as wheat and rice ... These Banjaras carry their household — wives and children — along with them. One tanda consists of many families. Their way of life is similar to that of carriers who continuously travel from place to place. They own their oxen. They are sometimes hired by merchants, but most commonly they are themselves merchants. They buy grain where it is cheaply available and carry it to places where it is dearer. From there, they again reload their oxen with anything that can be profitably sold in other places ... In a tanda there may be as many as 6 or 7 hundred persons ... They do not travel more than 6 or 7 miles a day— that, too, in the cool weather. After unloading their oxen, they turn them free to graze as there is enough land here, and no one there to forbid them.
+Peter Mundy, an English trader who came to India
+
+during the early seventeenth century, has described
 
 Find out how grain is transported from villages to
 
 */ cities at present. In what ways is this similar to or different from the ways in which the Banjaras functioned?
 
-> [note] Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations.
+Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations.
 
-> [caption] Both nomads and itinerant groups often visit the same places every year.
+> [table] Both nomads and itinerant groups often visit the same places every year.
 
 <!-- page 96 (pdf 6) -->
 
 Many pastoral tribes reared and sold animals, such as cattle and horses, to the prosperous people. Different castes of petty pedlars also travelled from village to village. They made and sold wares such as ropes, reeds, straw matting and coarse sacks. Sometimes mendicants acted as wandering merchants. There were castes of entertainers who performed in different towns and villages for their livelihood.
 
-Changing Society: New Castes and Hierarchies As the economy and the needs of society grew, people with new skills were required. Smaller castes, or jatis, emerged within varnas. For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of jatis. Specialised artisans — smiths, carpenters and masons — were also recognised as separate jatis by the Brahmanas. Jatis, rather than varna, became the basis for organising society.
+### Changing Society: New Castes and Hierarchies
 
-Deliberations on jati
+As the economy and the needs of society grew, people with new skills were required. Smaller castes, or jatis, emerged within varnas. For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of jatis. Specialised artisans — smiths, carpenters and masons — were also recognised as separate jatis by the Brahmanas. Jatis, rather than varna, became the basis for organising society.
+
+### Deliberations on jati
 
 A twelfth-century inscription from Uyyakondan Udaiyar, in Tiruchirapalli taluka (in present-day Tamil Nadu), describes the deliberations in a sabha (Chapter 2) of Brahmanas.
 
@@ -133,9 +144,9 @@ The administrative system of these kingdoms was becoming centralised. The kingdo
 
 The emergence of large states changed the nature of Gond society. Their basically equal society gradually got divided into unequal social classes. Brahmanas received land grants from the Gond rajas and became more influential. The Gond chiefs now wished to be recognised as Rajputs. So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah. His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.
 
-> [caption] —— Suba boundary Sarkar
-
 Dalpat, however, died early. Rani Durgawati was very capable, and started ruling on behalf of her five-year-old son, Bir Narain. Under her, the kingdom became even more extensive. In 1565, the Mughal forces under Asaf Khan _ attacked Garha Katanga. A strong resistance was put up by Rani Durgawati. She was defeated and preferred to die rather than surrender. Her son, too, died fighting soon after.
+
+> [caption] —— Suba boundary Sarkar
 
 > [caption] Map 2 Gondwana.
 
@@ -147,7 +158,9 @@ Dalpat, however, died early. Rani Durgawati was very capable, and started ruling
 
 <!-- page 99 (pdf 9) -->
 
-Garha Katanga was a rich state. It earned much wealth by trapping and exporting wild elephants to other 2) kingdoms. When the Mughals defeated the Gonds, they . captured a huge booty of precious coins and elephants. They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain. Despite the fall of Garha Katanga, the Gond kingdoms survived for some time. However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.
+Garha Katanga was a rich state. It earned much However, the Ahoms faced many invasions from the an of eastern south-west. In 1662, the India. Mughals under Mir Jumla attacked the Ahom kingdom. 4
+
+wealth by trapping and exporting wild elephants to other 2) kingdoms. When the Mughals defeated the Gonds, they . captured a huge booty of precious coins and elephants. They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain. Despite the fall of Garha Katanga, the Gond kingdoms survived for some time. However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.
 
 > [caption] Discuss why the Mughals were interested in the land of the Gonds.
 
@@ -155,13 +168,17 @@ Garha Katanga was a rich state. It earned much wealth by trapping and exporting 
 
 The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high-quality gunpowder and cannons.
 
-However, the Ahoms faced many invasions from the an of eastern south-west. In 1662, the India. Mughals under Mir Jumla attacked the Ahom kingdom. 4
-
 Despite their brave defence, the Ahoms were defeated. But direct Mughal control over the region could not last long.
 
-The Ahom state depended upon forced labour. Those forced to work for the state were called paiks. A census of the population was taken. Each village had to send a number of paiks by rotation. People from heavily populated areas were shifted to less populated places. Ahom clans were thus broken up. By the first half of the seventeenth century the administration became quite centralised.
+The Ahom state depended upon forced labour. Those forced to work for the state were called paiks. A census of the population was taken. Each village had to send a number of paiks by rotation. People from heavily populated areas were shifted to less populated
 
 <!-- page 100 (pdf 10) -->
+
+> [table] Fig. 7 Ear ornaments, Koboi Naga tribe, Manipur.
+
+Why do you think the Mughals tried to conquer the land of the Ahoms?
+
+places. Ahom clans were thus broken up. By the first half of the seventeenth century the administration became quite centralised.
 
 Almost all adult males served in the army during war. At other times, they were engaged in building dams, irrigation systems and other public works. The Ahoms also introduced new methods of rice cultivation.
 
@@ -173,35 +190,35 @@ Ahom society was very sophisticated. Poets and scholars were given land grants. 
 
 Conclusion
 
-Considerable social change took place in the subcontinent during the period we have been examining. Varna-based society and tribal people constantly interacted with each other. This interaction caused both kinds of societies to adapt and change. There were many different tribes and they took up diverse livelihoods. Over a period of time, many of them merged with caste-based society. Others, however, rejected both the caste system and orthodox Hinduism. Some tribes established extensive states with well-organised systems of administration. They thus became politically powerful. This brought them into conflict with larger and more complex kingdoms and empires.
-
-> [caption] Fig. 7 Ear ornaments, Koboi Naga tribe, Manipur.
-
-> [note] Why do you think the Mughals tried to conquer the land of the Ahoms?
+Considerable social change took place in the subcontinent during the period we have been examining. Varna-based society and tribal people constantly interacted with each other. This interaction caused both kinds of societies to adapt and change. There were many different tribes and they took up diverse livelihoods. Over a period of time, many of them merged with caste-based society. Others, however, rejected both the caste system and orthodox Hinduism. Some tribes established
 
 <!-- page 101 (pdf 11) -->
+
+extensive states with well-organised systems of administration. They thus became politically powerful. This brought them into conflict with larger and more complex kingdoms and empires.
 
 The Mongols
 
 Find Mongolia in your atlas. The best-known pastoral and hunter-gatherer tribe in history were the Mongols. They inhabited the grasslands (steppes) of Central Asia and the forested areas further north. By 1206 Genghis Khan had united the Mongol and Turkish tribes into a powerful military force. At the time of his death (1227) he was the ruler of extensive territories. His successors created a vast empire. At different points of time, it included parts of Russia, Eastern Europe and also China and much of West Asia. The Mongols had well-organised military and administrative systems. These were based on the support of different ethnic and religious groups.
 
-Imagine community that shifts residence every three months. How would this change your life?
+### Imagine
 
 > [table] You are a member of a nomadic
+
+community that shifts residence every
+
+three months. How would this change your life?
 
 > [caption] Let’s recall 7
 
 1. Match the following:
 
-garh khel clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS The mentions that Garha Katanga had 70,000 villages.
+garh khel
 
 > [caption] tanda chaurasi labourer caravan
 
+clan Garha Katanga Sib Singh Ahom state Durgawati paik
+
 <!-- page 102 (pdf 12) -->
-
-> [table] varna Jjati tanda garh chaurasi barhot bhuiyans paik Kchel buranji
-
-> [caption] census
 
 > [caption] Fill in the blanks:
 
@@ -214,6 +231,8 @@ garh khel clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS The me
 > [table] were historical works written by the Ahoms.
 
 > [table] (c)
+
+The mentions that Garha Katanga had 70,000 villages.
 
 > [table] (d)
 
@@ -242,6 +261,14 @@ As tribal states became bigger and stronger, they gave land grants to and
 > [table] 5. How was the administration of the Ahom state organised?
 
 6. What changes took place in varna-based society?
+
+<!-- section: glossary -->
+
+### Keywords
+
+> [caption] varna Jjati tanda garh chaurasi barhot bhuiyans paik Kchel buranji
+
+- census
 
 <!-- page 103 (pdf 13) -->
 

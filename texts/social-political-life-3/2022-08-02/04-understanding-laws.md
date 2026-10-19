@@ -4,14 +4,13 @@ book_title: "Social and Political Life III"
 edition: "2022-08-02"
 snapshots:
   - "2022-08-02"
-  - "2023-02-10-partial"
 chapter: 4
 title: "Understanding Laws"
 source_pdf: "pdfs/social-political-life-3/2022-08-02/ch04.pdf"
 source_sha256: "804fe6db4175c40a15ee0bf65e36423982b97728565f396a4539e205055dfa6c"
 pdf_pages: 10
 printed_pages: "42-51"
-body_fingerprint: "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31"
+body_fingerprint: "3bc7c813e7996a8244dc5a5f4aeb413efc58d297911c55e501db3b2c390585ea"
 ---
 
 <!-- page 42 (pdf 1) -->
@@ -30,7 +29,7 @@ You may be familiar with some laws such as those that specify the age of marriag
 
 > [table] Do you think that the government official’s actions were right? Should his son be exempt from the law just because his father is economically and politically powerful?
 
-QThe above is a clear case of the violation of law. As you read in Unit 1, members of the Constituent Assembly were agreed there should be no arbitrary exercise of power in independent India. They, therefore, instituted several provisions in the Constitution that would establish the rule of law. The most important of these was that all persons in independent India are equal before the law.
+The above is a clear case of the violation of law. As you read in Unit 1, members of the Constituent Assembly were agreed there should be no arbitrary exercise of power in independent India. They, therefore, instituted several provisions in the Constitution that would establish the rule of law. The most important of these was that all persons in independent India are equal before the law.
 
 The law cannot discriminate between persons on the basis of their religion, caste or gender. What the rule of law means is that all laws apply equally to all citizens of the country and no one can be above the law. Neither a government official, nor a wealthy person nor even the President of the country is above the law. Any crime or violation of law has a specific punishment as well as a process through which the guilt of the person has to be established. But was it always like this?
 

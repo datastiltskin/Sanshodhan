@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch01.pdf"
 source_sha256: "ab9b1e99ba545ebc678eb326ee422140f4e6848d92ebcb112e8633e5de62bb96"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "af06e7a18c872719fc49391a329b40fabe1dc52bd09dd1fb081197318536fbce"
+body_fingerprint: "a60ca18cbd6088aee833dfde6db8210624a6c225ad909852c38201dd0e8880c9"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -211,7 +211,7 @@ While government programmes play an important role in increasing equality of opp
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 
-Issues of equality in other democracies
+### Issues of equality in other democracies
 
 You are probably wondering whether India is the only democratic country in which there is inequality and where the struggle for equality continues to exist. The truth is that in many democratic countries around the world, the issue of equality continues to be the key issue around which communities struggle. So, for example, in the United States of America, the African–Americans whose ancestors were the slaves who were brought over from Africa, continue to describe their lives today as largely unequal. This, despite the fact that there was a movement in the late 1950s to push for equal rights for African– Americans. Prior to this, African–Americans were treated extremely unequally in the United States and denied equality through law. For example, when travelling by bus, they either had to sit at the back of the bus or get up from their seat whenever a white person wished to sit.
 
@@ -223,7 +223,9 @@ Rosa Parks, an African–American woman, changed the course of American history 
 
 <!-- page 14 (pdf 13) -->
 
-Excerpt from Article 15 of the Indian Constitution Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+Excerpt from Article 15 of the Indian Constitution Challenge of democracy No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
+
+Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
 
 (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
 
@@ -234,10 +236,6 @@ Excerpt from Article 15 of the Indian Constitution Prohibition of discrimination
 or
 
 (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
-
-Challenge of democracy
-
-No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
 
 <!-- page 15 (pdf 14) -->
 

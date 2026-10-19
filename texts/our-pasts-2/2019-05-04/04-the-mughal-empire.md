@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch04.pdf"
 source_sha256: "5927298f842f159d766b7cae4202bde2a1e08041df30b5a36c5ea5873cec092f"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "bf30f492ac4d68b11bb8c3cae9f587b23aa6c6fcd43b42114ad2fa2fbf93a740"
+body_fingerprint: "34b8e55edc63076b07b560c164f4ce1f8d6820bc0755758a8ffb706eb2d6ccd8"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -144,6 +144,12 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 
 <!-- page 54 (pdf 10) -->
 
+> [caption] Fig. 8 Nur Jahan’s farman.
+
+Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
+
+Bigot An individual who is intolerant of another person’s religious beliefs or culture.
+
 ### Nur Jahan’s influence in Jahangir’s court
 
 > [note] Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
@@ -153,12 +159,6 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 Akbar’s nobles commanded large armies and had access to large amounts of revenue. While they were loyal the empire functioned efficiently but by the end of the seventeenth century many nobles had built independent networks of their own. Their loyalties to the empire were weakened by their own self-interest.
 
 While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. Akbar’s interaction with people of different faiths made him realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or “universal peace”. This idea of tolerance did not discriminate between people of different religions in his realm. Instead it focused on a system of ethics – honesty, justice, peace – that was universally applicable. Abul Fazl helped Akbar in framing a vision of governance around this idea of sulh-i kul. This principle of governance was followed by Jahangir and Shah Jahan as well.
-
-> [caption] Fig. 8 Nur Jahan’s farman.
-
-> [note] Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
-
-> [note] Bigot An individual who is intolerant of another person’s religious beliefs or culture.
 
 <!-- page 55 (pdf 11) -->
 
@@ -194,7 +194,7 @@ Kings and queens
 
 > [caption] Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
 
-Imagine
+### Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
@@ -212,15 +212,11 @@ Sisodiya Rajput Uzbeg
 
 Rathor Rajput Mewar
 
-Nur Jahan rank subadar Jahangir
+Nur Jahan rank
+
+subadar Jahangir
 
 <!-- page 58 (pdf 14) -->
-
-<!-- section: glossary -->
-
-KEYWORDS
-
-Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 2. Fill in the blanks:
 
@@ -236,8 +232,6 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 4. What was the relationship between the mansabdar and the jagir?
 
-<!-- section: exercises -->
-
 ### Let’s understand
 
 5. What was the role of the zamindar in Mughal administration?
@@ -246,7 +240,33 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 7. Why did the Mughals emphasise their Timurid and not their Mongol descent?
 
+<!-- section: glossary -->
+
+### Keywords
+
+- Mughal
+
+- mansab
+
+- jagir
+
+- zat
+
+- sawar
+
+- sulh-i kul
+
+- primogeniture
+
+- coparcenary
+
+- zabt
+
+- zamindar
+
 <!-- page 59 (pdf 15) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

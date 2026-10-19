@@ -11,7 +11,14 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf"
 source_sha256: "b6a9adf1dcaed3c505075bb7e1a5ed759c49fe74b940928a7d0038851c2fad6f"
 pdf_pages: 28
 printed_pages: "117-144"
-body_fingerprint: "557fdd00e97b0681d7e0caa191e1b00e8da4becfc7907fa57f0a997bbadf1b6d"
+body_fingerprint: "ca3283e7129e241a9a8042a181aa845cf97be2a4b2fd6ff9563fc4c8aed4cc07"
+overrides:
+  - "part 1 chapter 6, page 119: axis tick labels of the map were glued into the caption"
+  - "part 1 chapter 6, page 120: the two halves of the Fig. 6.3 diagram were read line by line across each other"
+  - "part 1 chapter 6, page 136: the Fig. 6.22 caption continues on a second line under the statue"
+  - "part 1 chapter 6, page 136: the tail of the Fig. 6.22 caption landed on the coin caption"
+  - "part 1 chapter 6, page 138: map label misread"
+  - "part 1 chapter 6, page 138: axis ticks glued to the front of the caption"
 ---
 
 <!-- page 117 (pdf 1) -->
@@ -52,17 +59,27 @@ Create a timeline on a sheet of paper marking the period from the first year of 
 
 <!-- page 119 (pdf 3) -->
 
+> [caption] 80E
+
+> [caption] 60E
+
+> [caption] 90E
+
+> [caption] 70E
+
 ### Śhakas
 
 > [caption] (Indo-Scythians)
 
-### Ś h u n g a s
+### Śhungas
 
 ## Arabian
 
 ## Bay of Bengal
 
 ## Sea
+
+> [caption] 500
 
 > [caption] 1,000 km
 
@@ -82,13 +99,13 @@ The ‘new’ kingdoms now competed for territorial control. Peaceful methods li
 
 Together with those political events, there was a burst in the development of art, architecture and literature, and enriching cultural exchanges. We will get a peek into this in the following sections.
 
-Dynasties from
+Dynasties from within the Subcontinent: Śhungas, Chedis, Sātavāhanas, Cholas, Cheras, Pānḍyas.
 
-Dynasties from outside the Subcontinent within the Subcontinent Śhungas, Chedis, Sātavāhanas, Indo-Greeks, Śhakas, Kuṣhāṇ as Cholas, Cheras, Pānḍyas
+Dynasties from outside the Subcontinent: Indo-Greeks, Śhakas, Kuṣhāṇas.
 
-### Prominent dynasties of the
+### Prominent dynasties of the Subcontinent
 
-### Subcontinent
+> [caption] Fig. 6.3
 
 > [caption] Matrimonial alliance : An alliance arranged through a marriage, generally between two members of royal families. In practice, this would often mean a king offering his daughter for marriage into the royal family of a neighbouring kingdom, with the intention of cementing an alliance between the two kingdoms.
 
@@ -242,17 +259,27 @@ In the map given on next page, you may notice different symbols alongside the na
 
 <!-- page 130 (pdf 14) -->
 
+> [caption] 76E
+
+> [caption] 78E
+
+> [caption] 80E
+
 > [caption] Uraiyūr Vanji (Karur)
 
 Arabian sea Bay of Bengal
 
 > [caption] Madurai
 
-> [caption] LEGEND South Indian Kingdoms
+> [caption] LEGEND South Indian Kingdoms Chola Chera Pandya Capital Cities Rivers 200 km 100
 
-> [caption] Capital Cities Rivers.
+N.8
 
-> [caption] 200 km
+> [caption] 76E
+
+> [caption] 78E
+
+> [caption] 80E
 
 > [caption] Fig. 6.14. Kingdoms in the South (note that borders are approximate and fluctuated in time).
 
@@ -261,6 +288,8 @@ That period saw the advent of many poets whose works, collectively known as ‘S
 ## The Cholas
 
 The Sangams refer to three ‘crowned kings’ — the Cholas, Cheras and Pānḍyas. The Cholas were a powerful dynasty that ruled parts of south India from the 3rd century BCE to the 13th century CE. The Chola king Karikāla is said to have defeated a combined force of the Cheras and Pānḍyas and established his supremacy.
+
+> [note] No8
 
 <!-- page 131 (pdf 15) -->
 
@@ -356,13 +385,13 @@ Carefully observe this massive statue (1.85 m high) and notice the clothing, wea
 
 This famous ‘headless’ statue is of King Kaṇiṣhka, probably the most powerful ruler of the Kuṣhāṇa dynasty. The Brahmi inscription on the statue reads, ‘mahārāja rājadhirāja devaputra kaṇiṣhka’, that is, ‘The great king, king of kings, son of God, Kaṇiṣhka’.
 
-> [caption] Fig. 6.22. Headless statue
+> [caption] Fig. 6.22. Headless statue of King Kaṇiṣhka
 
 ### LET’S EXPLORE
 
 Observe the coins carefully. Who, besides the emperor, appears on the coin?
 
-> [caption] of King Kaṇiṣhka
+> [caption] Fig. 6.23. Coins of Kaṇiṣhka
 
 <!-- page 137 (pdf 21) -->
 
@@ -374,7 +403,7 @@ The Kuṣhāṇas held control over significant sections of the Silk Route (on t
 
 Continuing the trend set under the Indo-Greek rulers, Kuṣhāṇa art and architecture, exemplified by the Gāndhāra and Mathurā schools of art, are celebrated for their fusion of Indian and Greek styles. The sculptures feature a variety of deities reflecting the peaceful co-existence of various schools of thought. This era saw the rise of representations of deities — like Sūrya or the sun god — which looked more similar to humans and the increase in the development of religious art, laying the groundwork for later temple architecture in the subcontinent.
 
-The Gāndhāra style, which emerged in the western regions of Punjab, blended Greco-Roman elements with Indian features. Most sculptures and artefacts from this tradition were crafted in intricate detail from grey-black schist stone. In particular, sculptors produced many fine Buddha images with realistic anatomy and flowing robes. Ce Do you know where Gāndhāra is? Does it remind you of a character from the epic Mahābhārata?
+The Gāndhāra style, which emerged in the western regions of Punjab, blended Greco-Roman elements with Indian features. Most sculptures and artefacts from this tradition were crafted in intricate detail from grey-black schist stone. In particular, sculptors produced many fine Buddha images with realistic anatomy and flowing robes.
 
 > [caption] Fig. 6.24. Head of a bodhisattva
 
@@ -382,37 +411,75 @@ The Gāndhāra style, which emerged in the western regions of Punjab, blended Gr
 
 ### THINK ABOUT IT
 
+Do you know where Gāndhāra is? Does it remind you of a character from the epic Mahābhārata?
+
 <!-- page 138 (pdf 22) -->
+
+> [caption] 30E
+
+> [caption] 20E n
 
 Black Sea
 
+> [caption] Byzantium
+
 > [caption] Antioch
+
+> [caption] Alexandria
 
 EGYPT
 
-> [caption] 2,000 km
+> [table] 2,000 km
 
-> [caption] Fig. 6.25. Some of the trade routes of the ancient world. The network marked in green shows the Silk Route connecting China with the Mediterranean world Byzantium Rome Samarkand Balkh Qumis- Iran Damascus Alexandria
+> [table] 1,000
 
-PERSIA
+> [caption] Fig. 6.25. Some of the trade routes of the ancient world. The network marked in green shows the Silk Route connecting China with the Mediterranean world and passing through central Asia, Persia, etc.
+
+> [caption] 50E
 
 ARABIA
 
+## Gulf of Aden
+
+> [caption] 40E
+
+> [caption] 60E
+
+> [caption] 10E N.09
+
+> [caption] 70 w-Rome
+
+> [caption] Samarkand
+
+## 40N Mediterranean Sea 30N
+
+> [caption] Balkh
+
+> [caption] Qumis- Iran Persian n n Gult Gulf of Oman Damascus
+
+PERSIA
+
+> [caption] 70
+
 <!-- page 139 (pdf 23) -->
+
+> [caption] 80E
+
+> [caption] 100E
+
+> [caption] 110E
+
+> [caption] 120E
+
+> [caption] 90E
 
 > [caption] LEGEND
 
-> [caption] Main Route of Silk Road Other Caravan Routes Important Centres:
-
-> [caption] Luoyang
-
-> [caption] Yellow
-
-> [caption] Takṣhaśhilā
+> [caption] Main Route of Silk Road Other Caravan Routes Important Centres Luoyang Yellow Sea 30N Sea Takṣhaśhilā
 
 CHINA
 
-> [caption] Fast China
+> [caption] East China
 
 > [caption] Mathura
 
@@ -422,15 +489,27 @@ CHINA
 
 INDIA
 
-> [caption] Bay
+> [caption] Bay of Bengal
 
-> [caption] ‘China
+> [caption] South China Sea
 
-> [caption] Bengal
-
-> [caption] ‘Celebes Sea
+> [caption] Celebes Sea
 
 > [caption] Indian Ocean
+
+> [caption] 80E
+
+> [caption] 100E
+
+> [caption] 110E
+
+> [caption] 120E
+
+> [caption] 90E
+
+> [caption] E
+
+> [caption] E
 
 <!-- page 140 (pdf 24) -->
 
@@ -529,5 +608,3 @@ This time was also marked by remarkable developments in trade activities, both i
 6. You have read about the architectural developments of the post-Maurya era. Take an outline of the Indian subcontinent and mark the approximate locations of some of the ancient structures mentioned in this chapter.
 
 <!-- page 144 (pdf 28) -->
-
-SN aN yN

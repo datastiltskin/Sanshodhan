@@ -3,6 +3,12 @@ book: "exploring-society-7"
 edition: "live-2026-10-18"
 part: 2
 source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
+overrides:
+  - "front cover, parts 1 and 2: the title page footer line is clean type but was read as OCR noise"
+  - "part 2 prelims, page ix: development team grouped under the right headings"
+  - "part 2 prelims, page ix: the two empty duplicate headings"
+  - "part 2 prelims, page xiv: the footnotes were garbled by OCR"
+  - "part 2 prelims, page xiv: the body of the Preamble is missing from the text layer"
 ---
 
 <!-- pdf page 1 -->
@@ -15,7 +21,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 
 ## Grade 7 | Part 2
 
-> [caption] sta 3far fap sq sine afer fstatorT IONAL COUNCI EDUCAI IONAL RESEARCH AND UR Rave
+> [caption] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
 
 <!-- pdf page 2 -->
 
@@ -183,15 +189,25 @@ Palatal च cha छ chha ज ja झ jha ञ ña य ya Cerebral ट ṭa ठ ṭ
 
 ## Textbook Development Team
 
-CAG Social Science Chairperson
+### CAG Social Science Chairperson
 
-Michel Danino, Guest Professor, IIT Gandhinagar CAG Economics Chairperson Sanjeev Sanyal, Member, EAC-PM Contributors Aasheerwad Dwivedi, Assistant Professor, Faculty of Management Studies, University of Delhi Arkaprovo Das, Senior Research Fellow, Department of Geography, Delhi School of Economics, University of Delhi Bhawna Paliwal, Educator and Senior Consultant, Programme Office, NSTC Divya Indra Chatterjee, Chartered Accountant, Senior Consultant, Programme Office, NSTC Diya Devare, Assistant Professor, Symbiosis College of Arts and Commerce, Pune Johnson Odakkal, Commodore, Indian Navy (Retd.), Former Director, Maritime History Society & Faculty at Aditya Birla World Academy Kashmira Juwatkar, Research Assistant, Johnson Odakkal Initiatives M. Pramod Kumar, Assistant Professor, Amrita Darshanam International Centre for Cultural and Spiritual Studies, Amrita Vishwa Vidyapeetham, Coimbatore Nabajyoti Deka, Assistant Professor, Faculty of Management Studies, University of Delhi Nikhil Bellarykar, Historian and Translator Sandeepa Madan, Educator, Shiv Nadar School, Gurugram Shivakumar Jolad, Associate Professor, Public Policy, School of Liberal Education, FLAME University, Pune Srishti Chauhan, Researcher, Economic Policy Suparna Diwakar, Educator and Development Sector Professional, Chief Consultant, Programme Office, NSTC Supriya Mishra, Operations Associate, Johnson Odakkal Initiatives Member Coordinators M.V. Srinivasan, Professor of Economics, Department of Education in Social Sciences, NCERT; CAG (Economics)
+Michel Danino, Guest Professor, IIT Gandhinagar
+
+### CAG Economics Chairperson
+
+Sanjeev Sanyal, Member, EAC-PM
+
+### Contributors
+
+Aasheerwad Dwivedi, Assistant Professor, Faculty of Management Studies, University of Delhi Arkaprovo Das, Senior Research Fellow, Department of Geography, Delhi School of Economics, University of Delhi Bhawna Paliwal, Educator and Senior Consultant, Programme Office, NSTC Divya Indra Chatterjee, Chartered Accountant, Senior Consultant, Programme Office, NSTC Diya Devare, Assistant Professor, Symbiosis College of Arts and Commerce, Pune Johnson Odakkal, Commodore, Indian Navy (Retd.), Former Director, Maritime History Society & Faculty at Aditya Birla World Academy Kashmira Juwatkar, Research Assistant, Johnson Odakkal Initiatives M. Pramod Kumar, Assistant Professor, Amrita Darshanam International Centre for Cultural and Spiritual Studies, Amrita Vishwa Vidyapeetham, Coimbatore Nabajyoti Deka, Assistant Professor, Faculty of Management Studies, University of Delhi Nikhil Bellarykar, Historian and Translator Sandeepa Madan, Educator, Shiv Nadar School, Gurugram Shivakumar Jolad, Associate Professor, Public Policy, School of Liberal Education, FLAME University, Pune Srishti Chauhan, Researcher, Economic Policy Suparna Diwakar, Educator and Development Sector Professional, Chief Consultant, Programme Office, NSTC Supriya Mishra, Operations Associate, Johnson Odakkal Initiatives M.V. Srinivasan, Professor of Economics, Department of Education in Social Sciences, NCERT; CAG (Economics)
 
 <!-- pdf page 10 -->
 
+### Member Coordinators
+
 Seema Shukla Ojha, Professor of History, Department of Education in Social Sciences, NCERT; CAG (Social Science)
 
-Reviewers
+### Reviewers
 
 Aditi Misra, Director Principal, Delhi Public School, Gurgaon; and Teachers: Kanu Chopra, Avni Mehta, Mamta Kumar, Suparna Sharma.
 
@@ -213,27 +229,51 @@ P.K. Mandal, Professor of History, RIE, Mysuru Prachi Lahiri, History Teacher, N
 
 Right to Equality
 
-• before law and equal protection of laws; • irrespective of religion, race, caste, sex or place of birth; • of opportunity in public employment; • by abolition of untouchability and titles.
+- before law and equal protection of laws;
+
+- irrespective of religion, race, caste, sex or place of birth;
+
+- of opportunity in public employment;
+
+- by abolition of untouchability and titles.
 
 Right to Freedom
 
-• of expression, assembly, association, movement, residence and profession; • of certain protections in respect of conviction for offences; • of protection of life and personal liberty; • of free and compulsory education for children between the age of six and fourteen years; • of protection against arrest and detention in certain cases.
+- of expression, assembly, association, movement, residence and profession;
+
+- of certain protections in respect of conviction for offences;
+
+- of protection of life and personal liberty;
+
+- of free and compulsory education for children between the age of six and fourteen years;
+
+- of protection against arrest and detention in certain cases.
 
 Right against Exploitation
 
-• for prohibition of traffic in human beings and forced labour; • for prohibition of employment of children in hazardous jobs.
+- for prohibition of traffic in human beings and forced labour;
+
+- for prohibition of employment of children in hazardous jobs.
 
 Right to Freedom of Religion
 
-• freedom of conscience and free profession, practice and propagation of religion; • freedom to manage religious affairs; • freedom as to payment of taxes for promotion of any particular religion; • freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
+- freedom of conscience and free profession, practice and propagation of religion;
+
+- freedom to manage religious affairs;
+
+- freedom as to payment of taxes for promotion of any particular religion;
+
+- freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
 
 Cultural and Educational Rights
 
-• for protection of interests of minorities to conserve their language, script and culture; • for minorities to establish and administer educational institutions of their choice.
+- for protection of interests of minorities to conserve their language, script and culture;
+
+- for minorities to establish and administer educational institutions of their choice.
 
 Right to Constitutional Remedies
 
-• by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
+- by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
 
 <!-- pdf page 13 -->
 
@@ -249,17 +289,19 @@ The illustrators — Albert Shrivastava, Attri Chetan, Nidhi Kashyap, Prachi Sah
 
 <!-- pdf page 14 -->
 
-> [caption] PREAMBLE
+> [table] PREAMBLE
 
-> [caption] ‘CONSTITUTION.
+> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 
-> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1
+> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)
+
+> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec.2, for “Unity of the Nation” (w.e.f. 3.1.1977)
 
 <!-- pdf page 15 -->
 
 ## Contents
 
-Foreword iii
+### Foreword iii
 
 Letter to the Student v
 
@@ -267,7 +309,7 @@ Theme A — India and the World: Land and the People Chapter 1 The Story of Indi
 
 Chapter 2 India and Her Neighbours 29
 
-Theme B — Tapestry of the Past
+### Theme B — Tapestry of the Past
 
 Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61
 
@@ -275,19 +317,19 @@ Chapter 4 Turning Tides: 11th and 12th Centuries 97
 
 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125
 
-Theme D — Governance and Democracy
+### Theme D — Governance and Democracy
 
 Chapter 6 The State, the Government, and You 143
 
-Theme E — Economic Life Around Us
+### Theme E — Economic Life Around Us
 
 Chapter 7 Infrastructure: Engine of India’s Development 169
 
 Chapter 8 Banks and the Magic of Finance 193
 
-Maps of India 214
+### Maps of India 214
 
-Glossary 216
+### Glossary 216
 
 Images and maps from external sources 218
 

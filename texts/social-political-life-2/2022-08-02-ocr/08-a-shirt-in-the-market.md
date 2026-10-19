@@ -10,9 +10,12 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch08.pdf"
 source_sha256: "97fa0dae11cb844cf2ed09f7b7acb884a0122eccd35de032e89bec2c1b1b47a2"
 pdf_pages: 10
 printed_pages: "92-101"
-body_fingerprint: "f74931f3ed4650549885d4399ef0491dc1003fb0278c7b202e9dcb6f8c49a202"
+body_fingerprint: "a689cc33bfd678dd7e4e6174057ac76fab505a600a972252f6cc2c2cb7ff5ea4"
 ocr: true
 ocr_confidence: 94.5
+overrides:
+  - "Page 98 prints a rupee sign and a blank line at each of these three places. The OCR dropped the first and read the other two as question marks"
+  - "Page 98 prints a rupee sign and a blank line before 'is his profit'. The OCR read them as the letter z"
 ---
 
 <!-- page 92 (pdf 1) -->
@@ -21,7 +24,9 @@ ocr_confidence: 94.5
 
 ## the Market
 
-This chapter tells us the story of a shirt ! It begins with the production of cotton and ends | with the sale of the shirt. We shall see that a chain of markets links the producer of cotton to the buyer of the shirt in the supermarket. Buying and selling takes place at every step in the chain. Does everyone benefit equally from this? Or do some people benefit more than others? We shall find out.
+This chapter tells us the story of a shirt ! It begins with the with the sale of the shirt. We shall see that a chain of markets links the producer of cotton to the buyer of the shirt in the supermarket. Buying and selling takes place at every step in the chain. Does everyone benefit equally from this? Or do some people benefit more than others? We shall find out.
+
+### production of cotton and ends |
 
 <!-- page 93 (pdf 2) -->
 
@@ -29,13 +34,13 @@ This chapter tells us the story of a shirt ! It begins with the production of co
 
 Swapna, a small farmer in Kurnool (Andhra Pradesh) grows cotton on her small piece of land. The bolls of the cotton plant are ripe and some have already burst, so Swapna is busy picking cotton. The bolls, which carry the cotton in them, do not burst open all at once so it takes several days to harvest the cotton.
 
-Once the cotton is collected, instead of selling it at Kurnool cotton market, Swapna and her husband take the harvest to the local trader. At the beginning of the cropping season, Swapna had borrowed = 2,500 from the trader at a very high interest rate to buy seeds, fertilisers, pesticides for cultivation. At that time, the local trader made Swapna agree to another condition. He made her promise to sell all her cotton to him.
+Once the cotton is collected, instead of selling it at Kurnool cotton market, Swapna and her husband take the harvest to the local trader. At the beginning of the cropping season, Swapna had borrowed ₹ 2,500 from the trader at a very high interest rate to buy seeds, fertilisers, pesticides for cultivation. At that time, the local trader made Swapna agree to another condition. He made her promise to sell all her cotton to him.
 
 Cultivation of cotton requires high levels of inputs such as fertilisers and pesticides and the farmers have to incur heavy expenses on account of these. Most often, the small farmers need to borrow money to meet these expenses.
 
-At the trader’s yard, two of his men weigh the bags of cotton. At a price of = 1,500 per quintal, the cotton fetches * 6,000. The trader deducts % 3,000 for repayment of loan and interest and pays Swapna % 3,000.
+At the trader’s yard, two of his men weigh the bags of cotton. At a price of ₹ 1,500 per quintal, the cotton fetches * 6,000. The trader deducts % 3,000 for repayment of loan and interest and pays Swapna % 3,000.
 
-Swapna: ¥ 3,000 only!
+Swapna: ₹ 3,000 only!
 
 Trader: Cotton is selling cheap. There is a lot of cotton in the market.
 
@@ -43,21 +48,19 @@ Swapna: I have toiled so hard for four months to grow this cotton. You can see h
 
 > [caption] |. Trader sells the cotton at the Kurnool cotton market.
 
-> [caption] 2. Ginning mill buys the cotton.
+> [table] 2. Ginning mill buys the cotton.
 
 > [caption] the cotf#n into bales.
 
-> [note] 4. Spinning mill buys the v7
+4. Spinning mill buys the v7
 
-> [note] 6. Spinning be Spinnin P & mill sells the Frill spins the yarn to yarn cotton into dealers. %
+6. Spinning be Spinnin P & mill sells the Frill spins the yarn to yarn cotton into dealers. % Trader: Amma, I am giving you a good price. Other traders are not even paying this much. You can check at the Kurnool market, if you do not believe me.
 
 <!-- page 94 (pdf 3) -->
 
-Trader: Amma, I am giving you a good price. Other traders are not even paying this much. You can check at the Kurnool market, if you do not believe me.
-
 Swapna: Don’t be angry. How can I doubt you? I had only hoped that we would earn enough from the cotton crop to last us a few months.
 
-Though Swapna knows that cotton will sell for at least = 1,800 per quintal, she doesn’t argue further. The trader is a powerful man in the village and the farmers have to depend on him for loans not only for cultivation, but also to meet other exigencies such as illnesses, children’s school fees. Also, there are times in the year when there is no work and no income for the farmers, so borrowing money is the only means of survival.
+Though Swapna knows that cotton will sell for at least ₹ 1,800 per quintal, she doesn’t argue further. The trader is a powerful man in the village and the farmers have to depend on him for loans not only for cultivation, but also to meet other exigencies such as illnesses, children’s school fees. Also, there are times in the year when there is no work and no income for the farmers, so borrowing money is the only means of survival.
 
 Swapna’s earning from cotton cultivation is barely more than what she might have earned as a wage labourer.
 
@@ -77,7 +80,13 @@ The weavers and their families spend
 
 > ae i . = = long hours working on these looms. Most weaving units have about 2-8
 
-Putting-out system-weavers producing cloth at home powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and The merchant distributes work among the weavers bedsheets are produced in these looms.
+Putting-out system-weavers producing cloth at home
+
+powerlooms on which the yarn is woven into cloth. A variety of sarees, towels,
+
+shirting, ladies dress material and The merchant distributes work among the weavers
+
+bedsheets are produced in these looms.
 
 based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
@@ -89,15 +98,15 @@ What are the following people However, this dependence on the merchants both doi
 
 knowing who they are making the cloth for or at what price it will be sold. At the cloth market, the merchants sell the cloth to the garment factories. In this way, the market works more in favour of the merchants.
 
-Weavers invest all their savings or borrow money at high interest rates to buy looms. Each loom costs ~ 20,000, so a small weaver with two looms has to invest ~ 40,000. The work on these looms cannot be done alone. The weaver and another adult member of his family work upto 12 hours a day to produce cloth. For all this work, they earn about = 3,500 per month.
+Weavers invest all their savings or borrow money at high interest rates to buy looms. Each loom costs ₹ 20,000, so a small weaver with two looms has to invest ₹ 40,000. The work on these looms cannot be done alone. The weaver and another adult member of his family work upto 12 hours a day to produce cloth. For all this work, they earn about ₹ 3,500 per month.
 
 The arrangement between the merchant and the weavers is an example of putting-out system, whereby the merchant supplies the raw material and receives the finished product. It is prevalent in the weaving industry in most regions of India.
 
+Weaver's cooperative
+
+We have seen that the weavers are paid very little by the merchant under the putting out system.VWeaver’s cooperatives are one way to reduce the dependence on the merchant and to earn a higher income for the weavers. In a cooperative, people with common interests come together and work for their mutual benefit. In a weaver’s cooperative, the weavers form a group and take up certain activities collectively. They procure yarn from the yarn dealer and distribute it among the weavers. The cooperative also does the marketing. So, the role of the merchant is reduced, and weavers get a fair price on the cloth.
+
 At times, the government helps the cooperatives by buying cloth from them at a reasonable price. For instance, the Tamil Nadu government runs a Free School Uniform programme in the state. The government procures the cloth for this programme from the powerloom weaver’s cooperatives. Similarly, the government buys cloth from the handloom weaver’s cooperatives and sells it through stores known as Co-optex. You might have come across one of these stores in your town.
-
-> [note] Weaver's cooperative
-
-> [note] We have seen that the weavers are paid very little by the merchant under the putting out system.VWeaver’s cooperatives are one way to reduce the dependence on the merchant and to earn a higher income for the weavers. In a cooperative, people with common interests come together and work for their mutual benefit. In a weaver’s cooperative, the weavers form a group and take up certain activities collectively. They procure yarn from the yarn dealer and distribute it among the weavers. The cooperative also does the marketing. So, the role of the merchant is reduced, and weavers get a fair price on the cloth.
 
 <!-- page 97 (pdf 6) -->
 
@@ -107,39 +116,47 @@ The Erode merchant supplies the cotton cloth produced by the weavers to a garmen
 
 Faced with such pressures from the buyers, the garment exporting factories, in turn, try to cut costs. They get the maximum work out of the workers at the lowest possible wages. This way they can maximise their own profits and also supply the garments to foreign buyers at a cheap price.
 
-> [note] Women workers sewing buttons in a garment factory.
+Women workers sewing buttons in a
 
-> [note] What are the demands foreign buyers make on the garment exporters? Why do the garment exporters agree to these demands?
+garment factory.
 
-> [note] How do the garment exporters meet the conditions set by the foreign buyers?
+What are the demands foreign buyers make on the garment exporters? Why do the garment exporters agree to these demands?
+
+How do the garment exporters meet the conditions set by the foreign buyers?
 
 <!-- page 98 (pdf 7) -->
 
-The Impex garment factory has 70 workers. Most of them are women. Most of these workers are employed on a temporary basis. This means that whenever the employer feels that a worker is not needed, the worker can be asked to leave. Workers’ wages are fixed according to their skills. The highest paid among the workers are the tailors who get about ~ 3,000 per month. Women are employed as helpers for thread cutting, buttoning, ironing and packaging. These jobs have the lowest wages.
+fe) Advertisin 400 j Qe Storage, e Cc z=200 Of
+
+> [table] Purchase z 300
+
+The Impex garment factory has 70 workers. Most of them are women. Most of these workers are employed on a temporary basis. This means that whenever the employer feels that a worker is not needed, the worker can be asked to leave. Workers’ wages are fixed according to their skills. The highest paid among the workers are the tailors who get about ₹ 3,000 per month. Women are employed as helpers for thread cutting, buttoning, ironing and packaging. These jobs have the lowest wages.
 
 Payment to workers (per month)
 
-Tailoring 3,000 lroning = 1.50 (per piece) Checking = 2,000
+Tailoring 3,000 lroning ₹ 1.50 (per piece) Checking ₹ 2,000
 
-Thread cutting and buttoning = 1,500
+Thread cutting and buttoning ₹ 1,500
 
 > [table] The shirt in the United States
 
-A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around = 1,800.
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ₹ 1,800.
 
 Use the diagram shown in the margin to fill in the blanks below.
 
-The businessperson purchased the shirts from the garment exporter in Delhi for per shirt. He then spent ? for advertising in the media, and another ? per shirt on storage, display and all other charges. Thus, the cost to this person is ¥ 900 while he sells the shirt for = 1,800. z is his profit on one shirt! If he is able to sell a large number of shirts, his profit will be higher.
+The businessperson purchased the shirts from
 
-The garment exporter sold the shirt at = 300 per piece. The cloth and other raw materials cost him ~ 100 per shirt. The workers’ wages cost another
+the garment exporter in Delhi for ₹ _______ per shirt. He then spent ₹ _______ for advertising in the media, and another ₹ _______ per shirt on storage, display
 
-> [note] fe) Advertisin 400 j Qe Storage, e Cc z=200 Of
+and all other charges. Thus, the cost to this person is ₹ 900 while he sells the shirt for ₹ 1,800. ₹ __________ is his profit on one shirt! If he is able to sell a large number of shirts, his profit will be higher.
 
-> [caption] Purchase z 300
+The garment exporter sold the shirt at ₹ 300 per
+
+piece. The cloth and other raw materials cost him ₹ 100 per shirt. The workers’ wages cost another
 
 <!-- page 99 (pdf 8) -->
 
-~ 25 per shirt. The cost of running his office came to = 25 per shirt. Can you calculate the profit per shirt for the garment exporter?
+₹ 25 per shirt. The cost of running his office came to ₹ 25 per shirt. Can you calculate the profit per shirt for the garment exporter?
 
 Who are the gainers in the market?
 
@@ -149,7 +166,7 @@ Market and equality
 
 The foreign businessperson made huge profits in the market. Compared to this, the garment exporter made only moderate profits. On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs. Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work. But they did not get a fair price in the market for what they produced. The merchants or traders are somewhere in between. Compared to the weavers, they have earned more but it is still much less than the exporter. Thus, not everyone gains equally in the market. Democracy is also about getting a fair wage in the market. Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?
 
-On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful Did you know that the readymade clothes that you buy require the work of so many different persons?
+On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful
 
 > [caption] 00
 
@@ -158,6 +175,8 @@ On one hand, the market offers people opportunities for work and to be able to s
 > [caption] People who didn’t gain as much in the market
 
 <!-- page 100 (pdf 9) -->
+
+Did you know that the readymade clothes that you buy require the work of so many different persons?
 
 ## DECENT Wark ANG a ECONOMIC'GROWTT
 
@@ -179,7 +198,7 @@ Describe the conditions of employment as well as the wages of workers in the gar
 
 Think of something common that we use. It could be sugar, tea, milk, pen, paper, pencil, etc. Discuss through what chain of markets this reaches you. Can you think of the people that help in the production or trade?
 
-6. The exporter sells shirts to the businessperson from the USA. 7.Spinning mill buys the cotton and sells yarn to the yarn dealers.
+6. The exporter sells shirts to the businessperson from the USA. 7. Spinning mill buys the cotton and sells yarn to the yarn dealers.
 
 > [table] 8. Weavers return with the cloth.
 
@@ -187,12 +206,12 @@ Arrange the statements given alongside in the correct order and then fill in the
 
 9. Ginning mill cleans the cotton and makes it into bales.
 
-<!-- section: glossary -->
+Glossary more than the earnings, it would lead to a loss.
 
-Glossary
+Ginning mill: A factory where seeds are removed from cotton bolls. The cotton is pressed into
 
-Ginning mill: A factory where seeds are removed from cotton bolls. The cotton is pressed into bales to be sent for spinning into thread.
+bales to be sent for spinning into thread.
 
 Exporter: A person who sells goods abroad.
 
-Profit: The amount that is left or gained from earnings after deducting all the costs. If the costs are more than the earnings, it would lead to a loss.
+Profit: The amount that is left or gained from earnings after deducting all the costs. If the costs are

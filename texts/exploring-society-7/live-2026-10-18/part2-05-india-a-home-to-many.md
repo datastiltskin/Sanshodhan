@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf"
 source_sha256: "cef751c3bf0ce41699b520e6de027828bc7ddf077bd8f478d1120db57e74c84b"
 pdf_pages: 18
 printed_pages: "125-142"
-body_fingerprint: "4b514540535c303a3a6c5afe385f59d937fb3476fddaef9674be129948f33c77"
+body_fingerprint: "71c797a7e18d7e6bbc357838f85af3754c6f87cf04b85a4d13b34b425196afca"
 ---
 
 <!-- page 125 (pdf 1) -->
@@ -78,6 +78,8 @@ Look at the two pictures below. Is the place shown in both the photographs the s
 
 > [caption] Fig. 5.2. A plaque in the Kochi synagogue.
 
+> [caption] Fig. 5.3. The interior of the synagogue at Kochi.
+
 <!-- page 129 (pdf 5) -->
 
 ### LET’S EXPLORE
@@ -138,11 +140,11 @@ There are also interesting differences: in the Vedas, the devas are beneficial g
 
 As you can see, there are also similarities between the two languages. Indeed, Old Avestan (the language of the Avesta) and Vedic Sanskrit share many word roots and also grammatical features. A few more examples (with the Vedic word on the left and the Avestan word on the right):
 
-• soma (a divine drink) = haoma
+- soma (a divine drink) = haoma
 
-• hotar (a priest) = haotar
+- hotar (a priest) = haotar
 
-• yajña (sacrifice) = yasna.
+- yajña (sacrifice) = yasna.
 
 There is much more to show that there are deep spiritual and linguistic ties between ancient Iran and ancient India.
 
@@ -158,6 +160,8 @@ Arab merchants came to India from the 7th century onward, and many of them settl
 
 We have a different kind of story with the Siddis. The Siddis are of African origin; enslaved there, they were brought to India as slaves of Arab, Portuguese, and British traders between the 7th and 19th centuries. In the 18th century, some Siddis gained prominence in Muslim rulers’ armies and briefly controlled parts of Bengal. Their cultural identity represents a fusion of African and Indian traditions. The Siddis have a distinctive dance accompanied by African-style drumming. Over time, they have adapted their language to regional influences and integrated African religious practices with adopted faiths of Hinduism, Islam, or Christianity. The Siddis are designated as a scheduled tribe. However, the Siddis’ overall economic condition remains poor and efforts are being made to provide them with better access to education and livelihood options.
 
+> [caption] Fig. 5.9. Young Siddi girl from Karnataka Fig. 5.10. Siddi woman from Karnataka
+
 <!-- page 134 (pdf 10) -->
 
 ### LET’S EXPLORE
@@ -167,6 +171,8 @@ What clues do you get about African and Indian cultural integration from the pic
 > [caption] Fig. 5.11. Siddi dancers
 
 Hirabai Lobi was from the Siddi community that settled in Gujarat. She worked hard for the upliftment of the women of her community, connecting them with banking services, educating them on organic farming and other livelihood options. She was awarded the Padma Shri in 2023 for her selfless service to the community.
+
+> [caption] Fig. 5.12. Hirabai Lobi
 
 <!-- page 135 (pdf 11) -->
 
@@ -219,6 +225,8 @@ Tibetans, soon after taking refuge in India in 1959, started propagating their t
 Today, Tibetan medicine remains popular in Himalayan regions, including Nepal and Bhutan. In India, institutions like Men-Tsee-Khang in Dharamshala (Himachal Pradesh) practise this system to treat chronic diseases and manage epidemics. It has also been integrated in the Government of India’s AYUSH programme, which supports traditional and indigenous systems of medicine, including Ayurveda, Yoga and Naturopathy, Unani, Siddha, Sowa Rigpa, and Homoeopathy.
 
 From 1950 onward, the People’s Republic of China overran Tibet in several waves, even-tually annexing it. In 1959, following a popular uprising in Lhasa (the religious and administrative capital of Tibet at the time) against the Chinese presence, the 14th Dalai Lama was advised to flee across the Himalaya and take refuge in India, where the government granted him asylum. Since then, he has been an ‘honoured guest’ in India and lives in Dharamshala (Himachal Pradesh), from where the Central Tibetan Administration functions as a government-in-exile. The Dalai Lama is known for his ‘Four Commitments’, namely the promotion of human values like compassion, forgiveness, tolerance; the promotion of religious harmony; the preservation of Tibetan culture; and the revival of India’s civilisational heritage, particularly Indian values like karuṇā (compassion) and ahimsa (nonviolence).
+
+> [caption] Fig. 5.16. A Tibetan market in Goa
 
 <!-- page 139 (pdf 15) -->
 

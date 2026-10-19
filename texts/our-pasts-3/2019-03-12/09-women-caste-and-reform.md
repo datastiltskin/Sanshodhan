@@ -11,7 +11,9 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch03.pdf"
 source_sha256: "b6da3bc354ec93f325e48339bab8bedab3e407b3723586473c6f2a587c6fdd76"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "06784b6c18b1d8b606cade6f1208c97fca5919c3594e85fb16864041e2fe8151"
+body_fingerprint: "bf7b73b1dd2f1b8f03a39e848491f05c336d7e00ec7e011c1e8129ee3ea455e4"
+overrides:
+  - "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
 ---
 
 <!-- page 108 (pdf 1) -->
@@ -76,7 +78,7 @@ Activity This argument was taking place more than 175 years ago. Write down the 
 
 > [caption] Fig. 4 – Swami Dayanand Saraswati
 
-> [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
+> [caption] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
 <!-- page 112 (pdf 5) -->
 
@@ -124,13 +126,13 @@ Isn’t a woman’s life as dear to her as yours is to you? It’s as if women a
 
 <!-- page 114 (pdf 7) -->
 
-Law against child marriage
+### Law against child marriage
 
 With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength. People challenged another established custom – that of child marriage. There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage. In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen. According to the Act no man below the age of 18 and woman below the age of 16 could marry. Subsequently these limits were raised to 21 for men and 18 for women.
 
 > [caption] Fig. 8 – Bride at the age of eight
 
-> [table] This is a picture of a child bride at the beginning of the twentieth century. Did you know that even today over 20 per cent of girls in India are married below the age of 18?
+> [caption] This is a picture of a child bride at the beginning of the twentieth century. Did you know that even today over 20 per cent of girls in India are married below the age of 18?
 
 ## Caste and Social Reform
 
@@ -142,29 +144,29 @@ At the same time, the poor began leaving their villages to look for jobs that we
 
 <!-- page 115 (pdf 8) -->
 
-> [caption] Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
+Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
 
 Who could produce shoes?
 
-> [note] Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
+Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
 
-> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh
-
-> [table] Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
+> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
 
 There were other jobs too. The army, for instance, offered opportunities. A number of Mahar people, who were regarded as untouchable, found jobs in the Mahar Regiment. The father of B.R. Ambedkar, the leader of the Dalit movement, taught at an army school.
 
 <!-- page 116 (pdf 9) -->
 
-No place inside the classroom
+### No place inside the classroom
 
-I n t h e B o m b a y Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
+In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
+
+Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
+
+> [caption] Fig. 12 – Shri Narayana Guru
 
 > [caption] Fig. 11 – Dublas of Gujarat carrying mangoes to the market.
 
-> [table] Dublas laboured for upper-caste landowners, cultivating their fields, and working at a variety of odd jobs at the landlord’s house.
-
-Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
+> [caption] Dublas laboured for upper-caste landowners, cultivating their fields, and working at a variety of odd jobs at the landlord’s house.
 
 ### Demands for equality and justice
 
@@ -172,11 +174,13 @@ Gradually, by the second half of the nineteenth century, people from within the 
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
-All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
+All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes.
 
 <!-- page 117 (pdf 10) -->
 
 ### Gulamgiri
+
+One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 Phule claimed that before Aryan rule there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways. He proposed that Shudras (labouring castes) and Ati Shudras (untouchables) should unite to challenge caste discrimination. The Satyashodhak Samaj, an association Phule founded, propagated caste equality.
 
@@ -206,7 +210,7 @@ We now want to go to the Tank only to prove that like others, we are also human 
 
 > [caption] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792
 
-> [table] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
+> [caption] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
 
 those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
@@ -252,13 +256,17 @@ Activity Why does caste remain such a controversial issue today? What do you thi
 
 <!-- page 120 (pdf 13) -->
 
-Organising for reform
+### Organising for reform
 
-The Brahmo Samaj The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
+The Brahmo Samaj
+
+The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
 > [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj
 
-Derozio and Young Bengal Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
+Derozio and Young Bengal
+
+Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
 
 > [caption] Fig. 17 Henry Derozio
 
@@ -268,7 +276,9 @@ Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, comb
 
 > [caption] Fig. 18 Swami Vivekananda
 
-The Prarthana Samaj Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
+The Prarthana Samaj
+
+Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
 
 The Veda Samaj
 
@@ -276,17 +286,21 @@ Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brah
 
 <!-- page 121 (pdf 14) -->
 
-The Aligarh Movement The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+The Aligarh Movement
 
-The Singh Sabha Movement Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+
+The Singh Sabha Movement
 
 > [caption] Fig. 19 Sayyid Ahmed Khan
 
+Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+
 > [caption] Fig. 20 – Khalsa College, Amritsar, established in 1892 by the leaders of the Singh Sabha movement
 
-ELSEWHERE
+### ELSEWHERE
 
-Black slaves and white planters
+### Black slaves and white planters
 
 You have read about how Jyotirao Phule established a connection in his book Gulamgiri between caste oppression and the practice of slavery in America. What was this system of slavery?
 
@@ -296,7 +310,7 @@ Many people, white and black, opposed slavery through organised protest. In doin
 
 > [caption] Fig. 21 – Slave Sale, South Carolina, USA, 1856
 
-> [table] Here you see potential buyers examining African slaves at an auction.
+> [caption] Here you see potential buyers examining African slaves at an auction.
 
 <!-- page 122 (pdf 15) -->
 
@@ -328,7 +342,7 @@ Imagine you are a teacher in the school set up by Rokeya Hossain. There are 20 g
 
 Would some people have supported them too? If so, for what reasons?
 
-6. In the British period, what new opportunities openedup for people who came from castes that were regarded as “low”?
+6. In the British period, what new opportunities opened up for people who came from castes that were regarded as “low”?
 
 7. How did Jyotirao the reformers justify their criticism of caste inequality in society?
 

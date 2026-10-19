@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch06.pdf"
 source_sha256: "835d1f5a044e4fc00418844c2304c7bbda96930f7b325319b7ed2b8c4395a2b5"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "d09c32f7e768f18fb708795f363a089a255dbc347a80de205253c5d602f9eb18"
+body_fingerprint: "f977d3f3dde6e1aca616e6c10d64a1961b1a72e987565e457d80ed5b49897345"
 ---
 
 <!-- page 75 (pdf 1) -->
@@ -122,7 +122,7 @@ The craftspersons of Bidar were so famed for their inlay work in copper and silv
 
 ## A Closer Look: Hampi, Masulipatnam and Surat
 
-The Architectural Splendour of Hampi
+### The Architectural Splendour of Hampi
 
 Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of the Vijayanagara Empire, founded in 1336. The magnificent ruins at Hampi reveal a well-fortified city. No mortar or cementing agent was used in the construction of these walls and the technique followed was to wedge them together by interlocking.
 
@@ -148,6 +148,10 @@ Temples were the hub of cultural activities and devadasis (temple dancers) perfo
 
 <!-- page 84 (pdf 10) -->
 
+Emporium A place where goods from diverse production centres are bought and sold.
+
+Hundi is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
+
 Hampi fell into ruin following the defeat of Vijayanagara in 1565 by the Deccani Sultans – the rulers of Golconda, Bijapur, Ahmadnagar, Berar and Bidar.
 
 ## A Gateway to the West: Surat
@@ -159,10 +163,6 @@ The city was cosmopolitan and people of all castes and creeds lived there. In th
 There were also several retail and wholesale shops selling cotton textiles. The textiles of Surat were famous for their gold lace borders (zari) and had a market in West Asia, Africa and Europe. The state built numerous rest-houses to take care of the needs of people from all over the world who came to the city. There were magnificent buildings and innumerable pleasure parks. The Kathiawad seths or mahajans (moneychangers) had huge banking houses at Surat. It is noteworthy that the Surat hundis were honoured in the far-off markets of Cairo in Egypt, Basra in Iraq and Antwerp in Belgium.
 
 However, Surat began to decline towards the end of the seventeenth century. This was because of many factors: the loss of markets and productivity because of the decline of the Mughal Empire, control of the sea routes by the Portuguese and competition from Bombay (present-day Mumbai) where the English East India Company shifted its headquarters in 1668. Today, Surat is a bustling commercial centre.
-
-> [note] Emporium A place where goods from diverse production centres are bought and sold.
-
-> [note] Hundi is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
 
 <!-- page 85 (pdf 11) -->
 
@@ -182,7 +182,7 @@ Both the Dutch and English East India Companies attempted to control Masulipatna
 
 The Qutb Shahi rulers of Golconda imposed royal monopolies on the sale of textiles, spices and other items to prevent the trade passing completely into the hands of the various East India Companies. Fierce competition among various trading groups – the Golconda nobles, Persian merchants, Telugu Komati Chettis, and European traders – made the city populous and prosperous. As the Mughals began to extend their power to Golconda their representative, the governor Mir Jumla who was also a merchant, began to play off the Dutch and the English against each other. In 1686-1687 Mughal Emperor Aurangzeb annexed Golconda.
 
-> [note] Factor Official in-charge of trading activities of the European Trading Companies.
+Factor Official in-charge of trading activities of the European Trading Companies.
 
 <!-- page 86 (pdf 12) -->
 
@@ -208,9 +208,11 @@ Vasco da Gama and Christopher Columbus
 
 > [note] Vasco da Gama, a Portuguese sailor, sailed down the African Coast, went round the Cape of Good Hope and crossed over to the Indian Ocean . His first journey took more than a year; he reached Calicut in 1498, and returned to Lisbon, the capital of Portugal, the following year. He lost two of his four ships, and of the 170 men at the start of the journey, only 54 survived. In spite of the obvious hazards, the routes that were opened up proved to be extremely profitable – and he was followed by English, Dutch and French sailors.
 
-Imagine
+### Imagine
 
-You are planning a journey from Surat to West Asia in the seventeenth century. What are the arrangements you will make?
+You are planning a journey from Surat
+
+to West Asia in the seventeenth century. What are the arrangements you will make?
 
 > [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area. Fig. 9 Vasco da Gama.
 
@@ -232,25 +234,43 @@ You are planning a journey from Surat to West Asia in the seventeenth century. W
 
 2. State whether true or false:
 
-(a) We know the name of the architect of the Rajarajeshvara temple from an inscription.
+(a) We know the name of the architect of the
 
-(b) Merchants preferred to travel individually rather than in caravans.
+Rajarajeshvara temple from an inscription.
 
-(c) Kabul was a major centre for trade in elephants.
+(b) Merchants preferred to travel individually
 
-(d) Surat was an important trading port on the Bay of Bengal.
+rather than in caravans.
+
+(c) Kabul was a major centre for trade in
+
+elephants.
+
+(d) Surat was an important trading port on the
+
+Bay of Bengal.
 
 3. How was water supplied to the city of Thanjavur?
 
 4. Who lived in the “Black Towns” in cities such as Madras?
 
-KEYWORDS temple towns urbanisation
+<!-- section: glossary -->
 
-Vishwakarma emporium
+### Keywords
 
-Black Town
+- temple towns
+
+- urbanisation
+
+- Vishwakarma
+
+- emporium
+
+- Black Town
 
 <!-- page 90 (pdf 16) -->
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

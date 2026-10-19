@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch02.pdf"
 source_sha256: "ad8a013dd2910da8412fea6e6bd99d5e0a9424a728adb31caa5c5744b6bd46cf"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "e2584f1988a83dac9fa64738aee6c1cd5cb28fb7148d7b48624af1997d4080e0"
+body_fingerprint: "e563b3eee2efc4a4d992ee88b5802a3a1ef170e960650190abaa97ffd22d7fce"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -24,7 +24,7 @@ Many new dynasties emerged after the seventh century. Map 1 shows the major ruli
 
 > [caption] Map 1 Major kingdoms, seventh-twelfth centuries
 
-> [note] Locate the Gurjara-Pratiharas, Rashtrakutas, Palas, Cholas and Chahamanas (Chauhans). Can you identify the present-day states over which they exercised control?
+Locate the Gurjara-Pratiharas, Rashtrakutas, Palas, Cholas and Chahamanas (Chauhans). Can you identify the present-day states over which they exercised control?
 
 <!-- page 17 (pdf 2) -->
 
@@ -108,7 +108,7 @@ Other kings who engaged in warfare included the Chahamanas, later known as the C
 
 > [note] Look at Map 1 and suggest reasons why these rulers wanted to control Kanauj and the Ganga valley.
 
-> [note] Sultan An Arabic term meaning ruler.
+Sultan An Arabic term meaning ruler.
 
 > [note] Look at Map 1 again and discuss why the Chahamanas may have wanted to expand their territories.
 
@@ -116,7 +116,7 @@ Other kings who engaged in warfare included the Chahamanas, later known as the C
 
 ## A Closer Look: The Cholas
 
-From Uraiyur to Thanjavur
+### From Uraiyur to Thanjavur
 
 How did the Cholas rise to power? A minor chiefly family known as the Muttaraiyar held power in the Kaveri delta. They were subordinate to the Pallava kings of Kanchipuram. Vijayalaya, who belonged to the ancient chiefly family of the Cholas from Uraiyur, captured the delta from the Muttaraiyar in the middle of the ninth century. He built the town of Thanjavur and a temple for goddess Nishumbhasudini there.
 
@@ -128,7 +128,7 @@ The successors of Vijayalaya conquered neighbouring regions and the kingdom grew
 
 Rajaraja I, considered the most powerful Chola ruler, became king in 985 and expanded control over most of these areas. He also reorganised the administration of the empire. Rajaraja’s son Rajendra I continued his policies and even raided the Ganga valley, Sri Lanka and countries of Southeast Asia, developing a navy for these expeditions.
 
-Splendid Temples and Bronze Sculpture
+### Splendid Temples and Bronze Sculpture
 
 The big temples of Thanjavur and Gangaikonda-cholapuram, built by Rajaraja and Rajendra, are architectural and sculptural marvels.
 
@@ -150,11 +150,13 @@ Although agriculture had developed earlier in other parts of Tamil Nadu, it was 
 
 > [caption] Fig. 4 A Chola bronze sculpture. Notice how carefully it is decorated.
 
+> [caption] To find out how these images were made, see Chapter 6.
+
 <!-- page 25 (pdf 10) -->
 
 In many cases it was necessary to water crops artificially. A variety of methods were used for irrigation. In some areas wells were dug. In other places huge tanks were constructed to collect rainwater. Remember that irrigation works require planning – organising labour and resources, maintaining these works and deciding on how water is to be shared. Most of the new rulers, as well as people living in villages, took an active interest in these activities.
 
-The Administration of the Empire
+### The Administration of the Empire
 
 How was the administration organised? Settlements of peasants, known as ur, became prosperous with the spread of irrigation agriculture. Groups of such villages formed larger units called nadu. The village council and the nadu performed several administrative functions including dispensing justice and collecting taxes.
 
@@ -200,7 +202,7 @@ China under the Tang dynasty
 
 > [caption] In what ways was this system different from those prevalent in the Indian subcontinent?
 
-Imagine
+### Imagine
 
 You are present in an election for a sabha. Describe what you see and hear.
 
@@ -248,4 +250,14 @@ Cholas Tamil Nadu
 
 12. Find out more about taxes that are collected at present. Are these in cash, kind, or labour services?
 
-KEYWORDS samanta temple nadu sabha
+<!-- section: glossary -->
+
+### Keywords
+
+- samanta
+
+- temple
+
+- nadu
+
+- sabha

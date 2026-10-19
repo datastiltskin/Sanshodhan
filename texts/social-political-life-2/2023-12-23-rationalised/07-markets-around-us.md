@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch07.pdf"
 source_sha256: "7e61781bfbfc004062217a8dffb5d60c1c92ca853bb60fb9221d6c1be09b1934"
 pdf_pages: 12
 printed_pages: "74-85"
-body_fingerprint: "03f8768001621234254e5560197db6b517fc93aaaaa1332628799590e59a231d"
+body_fingerprint: "c9413eceada0c507017bce5c639fd4eb95aad7bf6478d386a70a745704412e79"
 ---
 
 <!-- page 74 (pdf 1) -->
@@ -73,7 +73,7 @@ We have seen that the weekly markets offer a variety of goods. However, we also 
 
 On the top left shelf there were different brands of detergent cakes. Another shelf had toothpastes, talcum powder, shampoo, hair oil. The different brands and different colours looked so attractive. On the floor lay a few sacks.
 
-It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ` 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
+It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
 > [note] Why did Sujata carry a notebook? Do you think this system is
 
@@ -87,7 +87,7 @@ Shops in the neighbourhood are useful in many ways. They are near our home and w
 
 > [note] neighbourhood? What do you purchase from them?
 
-> [note] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside
+> [note] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
 
 <!-- page 80 (pdf 7) -->
 
@@ -95,7 +95,7 @@ You might have noticed that there are different kinds of sellers even in the nei
 
 Anzal Mall is a five-floor shopping complex. Kavita and Sujata were enjoying going up and down in the lift. It seemed as if it was made of glass and they were able to see outside as they went up. It was fascinating to see so many different kinds of shops such as the ice-cream, burger, pizza and other food shops; shops full of home appliances; footwear and leather items as well as bookshops.
 
-While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ` 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
+While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ₹ 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
 
 Shopping complexes and malls
 
@@ -133,7 +133,7 @@ We can understand this with the help of the following examples – Every city ha
 
 wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
-Aftab –The wholesaler in the city
+### Aftab –The wholesaler in the city
 
 Aftab is one of the wholesale traders who purchases in bulk. His business starts around 2 o’clock in the morning when vegetables reach the market. This is the time when the vegetable market or mandi starts buzzing with activity. The vegetables come in trucks, matadors, tractor trolleys from farms both near and far. Soon the process of auctions begins. Aftab participates in this auction and decides what he will buy. Today, for example, he bought 5 quintals of cauliflower, 10 quintals of onions. He has a shop in the market where he stores the vegetables that he has bought. From here he sells to hawkers and shopkeepers who start coming to the market around six in the morning. They have to organise their purchases so that they can start their shop for the day around ten in the morning.
 
@@ -165,38 +165,32 @@ Malls, like the one above, sell expensive and branded goods.
 
 <!-- section: exercises -->
 
-> [note] EXERCISES
+EXERCISES
 
-> [caption] 1. In what ways is a hawker different from a shop owner?
+> [note] 1. In what ways is a hawker different from a shop owner?
 
-> [caption] 2. Compare and contrast a weekly market and a shopping complex on the following:
+> [note] 2. Compare and contrast a weekly market and a shopping complex on the following:
 
 Market Kind of goods sold Prices of goods Sellers Buyers
 
-> [note] Weekly market
+Weekly market
 
-> [note] Shopping complex
+Shopping complex
 
-> [caption] 3. Explain how a chain of markets is formed. What purpose does it serve?
+> [note] 3. Explain how a chain of markets is formed. What purpose does it serve?
 
-> [caption] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
+> [note] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
 
-> [caption] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
+> [note] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
 
 <!-- section: glossary -->
 
-> [note] Glossary
+Glossary
 
 > [note] Weekly market: These markets are not daily markets but are to be found at a particular place on one or maybe two days of the week. These markets most often sell everything that a household needs ranging from vegetables to clothes to utensils.
 
-> [note] Mall: This is an enclosed shopping space. This is usually a large building with many floors that has shops, restaurants and, at times, even a cinema theatre. These shops most often sell branded
+> [note] Mall: This is an enclosed shopping space. This is usually a large building with many floors that has shops, restaurants and, at times, even a cinema theatre. These shops most often sell branded products.
 
-> [caption] products.
+> [note] Wholesale: This refers to buying and selling in large quantities. Most products, including vegetables, fruits and flowers have special wholesale markets.
 
-> [note] Wholesale: This refers to buying and selling in large quantities. Most products, including vegetables,
-
-> [caption] fruits and flowers have special wholesale markets.
-
-> [note] Chain of markets: A series of markets that are connected like links in a chain because products
-
-> [caption] pass from one market to another.
+> [note] Chain of markets: A series of markets that are connected like links in a chain because products pass from one market to another.

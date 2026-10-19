@@ -10,9 +10,11 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch05.pdf"
 source_sha256: "d158405003d146f48a84edc2a19617711ca6e139032cab246c75e29402bf3448"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "8b9e64cd3de98205b898ffbb73f5b6c537611b676ca78f4a73b65ea36219c676"
+body_fingerprint: "1388b767037ff5a6a97ac6163ee34b1bd77e1f6e3251642fbf6c4231ccb2fb4a"
 ocr: true
 ocr_confidence: 94.9
+overrides:
+  - "margin box title 'A royal architect' glued into the sentence on page 64, the sentence runs on from page 63"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -41,11 +43,11 @@ Monuments provide an insight into the technologies used for construction. Take s
 
 Between the seventh and tenth centuries architects started adding more rooms, doors and windows to buildings. Roofs, doors and windows were still made by placing a horizontal beam across two vertical columns, a style of architecture called “trabeate” or “corbelled”. Between the eighth and thirteenth centuries the trabeate style was used in the construction of temples, mosques, tombs and in buildings attached to large stepped-wells (baolis).
 
-> [note] Labour for the
+Labour for the
 
-> [note] Agra Fort
+Agra Fort
 
-> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
+Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
 > [caption] Raniji ki baori or the ‘Queen’s Stepwell’, located in Bundi in Rajasthan is the largest among the fifty step wells that were built to meet the need _for water. Known for its architectural beauty, the baori was constructed in 1699 C.E. by Rani Nathavat Ji, the queen of Raja Anirudh Singh of Bundi.
 
@@ -57,21 +59,21 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 <!-- page 62 (pdf 3) -->
 
-The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva Gl of the Chandela dynasty. | Fig. 3b is the plan of the ~ temple. An ornamented gateway led toan entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
+What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
 
-| Fig. 3a
+> [caption] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva Gl of the Chandela dynasty. | Fig. 3b is the plan of the ~ temple. An ornamented gateway led toan entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
-Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara } was too heavy to lift manually. So the architects ’ built an inclined path to the top of the temple, What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
+> [note] | Fig. 3a
 
-> [caption] placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 kmaway so that it would not be too steep. This was dismantled after the temple was
-
-> [table] constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the
-
-> [caption] temple is called Charupallam, the “Village of the Incline”.
+> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara } was too heavy to lift manually. So the architects ’ built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 kmaway so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the “Village of the Incline”.
 
 <!-- page 63 (pdf 4) -->
 
-Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”. _A “true” arch. The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.
+Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural
+
+form was called “arcuate”. _A “true” arch. The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure
+
+2b with Figures 5a and 5b. to the base of the arch.
 
 (2) Limestone cement was increasingly used in construction. This was very high-quality cement, which, when mixed with stone chips hardened into concrete. This made construction of large structures easier and faster. Take a look at the construction site in Figure 6.
 
@@ -91,19 +93,17 @@ Temples and mosques were beautifully constructed because they were places of wor
 
 <!-- page 64 (pdf 5) -->
 
+The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion’.
+
+> [table] Fig. 7
+
+> [caption] Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
+
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Quwwat al-Islam mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great lawgivers of the past. The greatest lawgiver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
 
 > [caption] Qibla (Direction towards Mecca)
-
-> [note] A royal architect
-
-> [note] The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion’.
-
-> [caption] Fig. 7
-
-> [caption] Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
 
 <!-- page 65 (pdf 6) -->
 
@@ -115,11 +115,11 @@ It was widely believed that the rule of a just king would be an age of plenty wh
 
 Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another’s kingdoms they often targeted these buildings. In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king, Sena I (831-851), the Buddhist monk and chronicler Dhammakitti noted: “he removed all the valuables ... The statue of the Buddha made entirely of gold in the Jewel Palace ... and the golden images in the various monasteries — all these he seized.” The blow to the pride of the Sinhalese ruler had to be avenged and the next Sinhalese ruler, Sena II, ordered his general to invade Madurai, the capital of the Pandyas. The Buddhist chronicler noted that the expedition made a special effort to find and restore the gold statue of the Buddha.
 
-> [note] Importance of water
+Importance of water
 
-> [note] The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
+The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
 
-> [caption] Fig. 8
+> [table] Fig. 8
 
 > [caption] Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.
 
@@ -133,7 +133,7 @@ Sultan Mahmud of Ghazni was a contemporary of Rajendra I. During his campaigns i
 
 > [table] Mahmud of Ghazni were a product of their times? How were the actions of the two rulers different?
 
-> [note] Fig. 9
+### Fig. 9
 
 > [caption] Mughal chahar baghs
 
@@ -177,7 +177,7 @@ The connection between royal justice and the imperial court was emphasised by Sh
 
 In the early years of his reign, Shah Jahan’s capital was at Agra, a city where the nobility had constructed their homes on the banks of the river Yamuna. These were set in the midst of formal gardens constructed in the chahar bagh format. The chahar bagh garden also had a variation that historians describe as the “river-front garden”. In this the dwelling was not located in the middle of the chahar bagh but at its edge, close to the bank of the river.
 
-Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan A reconstruction from a map of the river-front garden city of Agra. Note how the garden palaces of the nobles are placed on both banks of the Yamuna. The Taj Mahal is on the left. Compare the layout of Agra with Shahjahanabad in Delhi in Figure15.
+Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles — like his eldest son Dara Shukoh - were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
 > [caption] Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
 
@@ -189,13 +189,13 @@ Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the gr
 
 > [table] Fig. 14
 
+A reconstruction from a map of the river-front garden city of Agra. Note how the garden palaces of the nobles are placed on both banks of the Yamuna. The Taj Mahal is on the left. Compare the layout of Agra with Shahjahanabad in Delhi in Figure15.
+
 > [table] Fig. 15 1850 map of Shahjahanabad. Where is the emperor’s residence?
 
 > [table] The city appears to be very crowded, but did you notice the many large gardens as well? Can you find the main street and the jami masjid?
 
 <!-- page 71 (pdf 12) -->
-
-develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles — like his eldest son Dara Shukoh - were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
 ## Region and Empire
 
@@ -231,7 +231,7 @@ From the twelfth century onwards, attempts began in France to build churches tha
 
 <!-- page 73 (pdf 14) -->
 
-Imagine
+### Imagine
 
 You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
@@ -239,11 +239,11 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 ## 2. What is a shikhara? Go through the
 
-> [note] chapter and make
+chapter and make
 
 3. What is pietra-dura? . your own list of six keywords. 4. What are the elements of a Mughal chahar bagh garden?
 
-> [caption] For each of these, write a sentence indicating
+> [table] For each of these, write a sentence indicating
 
 the word. 5. How did a temple communicate the importance of a king?
 

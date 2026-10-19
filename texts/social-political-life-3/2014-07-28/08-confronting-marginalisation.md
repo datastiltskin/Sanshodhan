@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2014-07-28/ch08.pdf"
 source_sha256: "a9f64b8efa338d363df7a5d9f0daf2d0d3530c43e4a631870e992b8814bd5241"
 pdf_pages: 10
 printed_pages: "94-103"
-body_fingerprint: "1e7af16d4d0e338632a8305a796fdc46b58e2de4799a67813c4817aec48ab5e4"
+body_fingerprint: "5170acfc9070fb6527b12f776f207d80bccceb58e7244554b2b0403629ae52db"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -43,7 +43,7 @@ Likewise, other minority groups have drawn on the Fundamental Rights section of 
 
 As you have read, the government makes laws to protect its citizens. Yet, this is not the only way in which it takes action. There are specific laws and policies for the marginalised in our country. There are policies or schemes that emerge through other means like setting up a committee or by undertaking a survey etc. The government then makes an effort to promote such policies in order to give opportunities to specific groups.
 
-Promoting Social Justice
+### Promoting Social Justice
 
 As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal areas or in areas that have a high Dalit population. For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education facilities that may not be available in their localities.
 

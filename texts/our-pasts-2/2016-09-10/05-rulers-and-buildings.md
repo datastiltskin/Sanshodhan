@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch05.pdf"
 source_sha256: "fcd39ebf47c2760db06f1e4aa86de40a731b6df8758ab15f94a612163ca1f301"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "992c7daf6a5fc60f9aae10e7deae7fa34900ac1d081773db364b789c377ea3b2"
+body_fingerprint: "9a72c6aec3de0ec90abdec133007a3198df1afd8ecb494c345af0fad2cd4817d"
+overrides:
+  - "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -37,11 +39,11 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [caption] Fig. 2a Fig. 2b
 
-> [note] Labour for the Agra Fort
+Labour for the Agra Fort
 
-> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
+Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
-> [note] Superstructure The part of a building above the ground floor.
+Superstructure The part of a building above the ground floor.
 
 > [caption] Fig. 2a Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century).
 
@@ -49,13 +51,15 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 <!-- page 62 (pdf 3) -->
 
-Temple Construction in the Early Eleventh Century What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
+> [caption] Fig. 3b
+
+What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
+
+> [note] Temple Construction in the Early Eleventh Century
 
 > [caption] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva of the Chandela dynasty. Fig. 3b is the plan of the temple. An ornamented gateway led to an entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
 > [caption] Fig. 3a
-
-> [caption] Fig. 3b
 
 > [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
 
@@ -85,6 +89,12 @@ Temples and mosques were beautifully constructed because they were places of wor
 
 <!-- page 64 (pdf 5) -->
 
+### A royal architect
+
+The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
+
+> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
+
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Quwwat al-Islam mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great lawgivers of the past. The greatest lawgiver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
@@ -92,12 +102,6 @@ Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian 
 > [caption] W
 
 > [caption] Qibla (Direction towards Mecca)
-
-> [note] A royal architect
-
-> [note] The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
-
-> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
 
 <!-- page 65 (pdf 6) -->
 
@@ -109,9 +113,7 @@ It was widely believed that the rule of a just king would be an age of plenty wh
 
 Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another’s kingdoms they often targeted these buildings. In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king, Sena I (831-851), the Buddhist monk and chronicler Dhammakitti noted: “he removed all the valuables ... The statue of the Buddha made entirely of gold in the Jewel Palace ... and the golden images in the various monasteries – all these he seized.” The blow to the pride of the Sinhalese ruler had to be avenged and the next Sinhalese ruler, Sena II, ordered his general to invade Madurai, the capital of the Pandyas. The Buddhist chronicler noted that the expedition made a special effort to find and restore the gold statue of the Buddha.
 
-> [note] Importance of water
-
-> [note] The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
+The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
 
 > [caption] Fig. 8 Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.
 
@@ -161,9 +163,9 @@ In the early years of his reign, Shah Jahan’s capital was at Agra, a city wher
 
 Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles – like his eldest son Dara Shukoh – were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
-> [note] Pietra dura
+### Pietra dura
 
-> [note] Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
+Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
 
 > [caption] Fig. 13 The Taj Mahal at Agra, completed in 1643.
 
@@ -203,9 +205,13 @@ Churches that touched the skies
 
 <!-- page 73 (pdf 14) -->
 
-Imagine
+### Imagine
 
-You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
+You are an artisan standing on a tiny
+
+wooden platform held together by
+
+bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
 <!-- section: exercises -->
 
@@ -213,7 +219,7 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 1. How is the “trabeate” principle of architecture different from the “arcuate”?
 
-> [note] 2. What is a shikhara?
+2. What is a shikhara?
 
 3. What is pietra-dura?
 
@@ -231,11 +237,9 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [note] Go through the chapter and make your own list of six keywords.
-
-> [note] For each of these, write a sentence indicating why you chose the word.
+> [note] Go through the chapter and make your own list of six keywords. For each of these, write a sentence indicating why you chose the word.
 
 <!-- page 74 (pdf 15) -->
 

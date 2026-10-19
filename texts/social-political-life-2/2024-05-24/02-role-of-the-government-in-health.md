@@ -110,7 +110,7 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] ...and have you heard the one about Batman on Reality TV?
 
-> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
+> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty Thank you Doctor...I feel better already!
 
 <!-- page 17 (pdf 8) -->
 
@@ -131,6 +131,8 @@ Patients usually have to wait in long queues in government hospitals, like this 
 > [table] – quickly please!
 
 > [table] My hospital was nice, but they gave me many medicines and the whole thing cost quite a lot!
+
+> [table] Oh! My treatment did not cost much!
 
 <!-- page 18 (pdf 9) -->
 

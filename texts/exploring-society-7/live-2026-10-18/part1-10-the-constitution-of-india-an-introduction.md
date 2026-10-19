@@ -11,7 +11,12 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf"
 source_sha256: "95b0b011965ec53f99a3e70b58e3c53b1473d9bcb7a47d8befd2454bcfae117b"
 pdf_pages: 20
 printed_pages: "209-228"
-body_fingerprint: "ce9f821acdd9251abbb6aa6230781d85b3ae4a0d26a633a9819a3c3314aca2d7"
+body_fingerprint: "4d09d038b45cf0c93c6c418db730f1cffe753af7f1af5895e6cffc7aea1adf38"
+overrides:
+  - "part 1 chapter 10, page 217: the Fig. 10.5 caption wrapped around the photo into three blocks"
+  - "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image"
+  - "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image"
+  - "part 1 chapter 10, page 225: tail of the SECULAR margin note, now part of the rebuilt note"
 ---
 
 <!-- page 209 (pdf 1) -->
@@ -142,6 +147,8 @@ Some of these values and ideals are: equality of all, justice for all, freedom, 
 
 The experience and learnings from the freedom struggle also provided answers to many of the ‘how’ and ‘what’ questions:
 
+> [caption] Fig. 10.4.1. Workings of the Constituent Assembly
+
 <!-- page 216 (pdf 8) -->
 
 > [caption] Fig. 10.4.2. and 10.4.3. Workings of the Constituent Assembly
@@ -180,9 +187,7 @@ It was, therefore, quite natural that the Constitution makers would incorporate 
 
 In addition, in the Indian tradition of ā no bhadrāh kratavo yantu viśhwatah — “Let noble thoughts come to me from every side” — the Constitution makers studied the constitutions of France, USA, UK, Ireland, Australia, and other countries that have a democratic system, to explore their usefulness for our context. For example, the ideals of ‘liberty, equality, fraternity’ were adopted from France’s constitution (which enshrined them from the French Revolution of 1789); the idea of the Directive Principles of State Policy (which we will study shortly) was inspired by the Irish Constitution; and the American Constitution helped shape the concept of an independent judiciary.
 
-> [caption] Fig. 10.5. This ‘Declaration of the Rights of Man and of the Citizen’, which focused on equality, liberty and justice for all, was formulated during the 1789 French Revolution. It helped the spread of such ideals in many parts of the world;
-
-> [caption] many constitutions (including the French one)
+> [caption] Fig. 10.5. This ‘Declaration of the Rights of Man and of the Citizen’, which focused on equality, liberty and justice for all, was formulated during the 1789 French Revolution. It helped the spread of such ideals in many parts of the world; many constitutions (including the French one) adopted or adapted its values and principles.
 
 <!-- page 218 (pdf 10) -->
 
@@ -246,45 +251,45 @@ Sir, the women of India are happy to step into their rightful heritage of comple
 
 <!-- page 222 (pdf 14) -->
 
-> [table] • Right to Equality (Article 14. Equality before law)
+## Fundamental Rights
 
-> [table] • Right to Freedom (Article 21. Protection of life and personal liberty)
+> [table] - Right to Equality (Article 14. Equality before law)
 
-> [table] • Right against Exploitation
+> [table] - Right to Freedom (Article 21. Protection of life and personal liberty)
 
-> [table] • Article 21-A. (Right to education)
+> [table] - Right against Exploitation
 
-## Fundamental
+> [table] - Article 21-A. (Right to education)
 
-## Rights
+## Directive Principles of State Policy
 
-## Directive Principles of
+> [table] - Article 41: Welfare Government
 
-## State Policy
+> [table] - Article 44: Uniform Civil Code
 
-## Fundamental
+> [table] - Article 38: Social, Political, and Economic Justice
 
-> [table] • Article 41: Welfare Government
+> [table] - Article 48-A: Environment and Wildlife Protection
 
-## Duties
+> [table] - Article 49: Protection of monuments, places, and objects of national importance
 
-> [table] • Article 44: Uniform Civil Code
+> [table] - Article 47: Nutrition, standard of living, and public health
 
-> [table] • Article 38: Social, Political, and Economic Justice a. to abide by the Constitution and respect
+## Fundamental Duties
 
-> [table] • Article 48-A: Environment and Wildlife Protection its ideals and institutions, the National Flag, and the National Anthem;
+> [table] a. to abide by the Constitution and respect its ideals and institutions, the National Flag, and the National Anthem;
 
-> [table] • Article 49: Protection of monuments, places, and objects of national importance b. to defend the country and render national service when called upon to do so;
+> [table] b. to defend the country and render national service when called upon to do so;
 
 > [table] c. to value and preserve the rich heritage of our composite culture;
 
-> [table] • Article 47: Nutrition, standard of living, and public health d. to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;
+> [table] d. to protect and improve the natural environment including forests, lakes, rivers and wild life, and to have compassion for living creatures;
 
 > [table] e. to strive towards excellence in all spheres of individual and collective activity so that the nation constantly rises to higher levels of endeavour and achievement;
 
 > [table] f. if a parent or guardian, to provide opportunities for education to his or her child or, as the case may be, ward between the age of six and fourteen years;
 
-> [caption] Fig 10.14. A glimpse of how the parts of the Constitution are
+> [caption] Fig 10.14. A glimpse of how the parts of the Constitution are organised
 
 <!-- page 223 (pdf 15) -->
 
@@ -320,15 +325,23 @@ The Constitution’s core values are the guiding principles for policies and dec
 
 ### CONSTITUTION
 
-> [caption] INSTITUTIC INDIA
+> [caption] THE CONSTITUTION OF INDIA
 
-> [caption] THE C
+> [caption] PREAMBLE
 
-> [caption] PREAMBLE having
+> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 
-> [caption] PEC
+> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)
 
-> [caption] JPLE constitute India intc CIALIST SECULAR INDIA, WE, solemnly resolved t IVEREIGN YCRATIC REPUBLIC and tc DEM( to allits citizens. social, economic political; of thought, expression, belief, LIBERTY THE JUSTICE, faith and worship; LIBERTY EQUALITY of status and 0 of opportunity; There are no and to promote among them all unreasonable FRATERNITY assuring the dignity restrictions on the individual and and unity citizens in what they think, how they wish integrity of the Nation to express their INSTITUENT ASSEMBLY JUR IN thoughts and the this twenty-sixth day of November, 1949 dc way they wish follow Y)PT, ENACT AND GIVE T( HEREBY AD( up their thoughts in action. JURSELVES THIS C INSTITUTIC SECULAR Foy Citizens have complete "Unity of the Natio FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior.
+> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Unity of the Nation” (w.e.f. 3.1.1977)
+
+> [caption] LIBERTY There are no unreasonable restrictions on the citizens in what they think, how they wish to express their thoughts and the way they wish follow up their thoughts in action.
+
+> [caption] SECULAR Citizens have complete freedom to follow any religion. But there is no official religion. Government treats all religious beliefs and practices with equal respect.
+
+> [caption] FRATERNITY All of us should behave as if we are members of the same family. No one should treat a fellow citizen as inferior.
+
+> [caption] Fig. 10.16. Preamble of the Indian Constitution
 
 > [caption] DEMOCRATIC A form of government where the people enjoy equal political rights, elect their rulers and hold them accountable. The government is run according to some basic rules.
 
@@ -342,8 +355,6 @@ The Constitution’s core values are the guiding principles for policies and dec
 
 > [caption] SOVEREIGN The people have supreme right to make decisions on internal as well as external matters.
 
-> [caption] and
-
 > [caption] No external power can dictate the government of India.
 
 > [caption] SOCIALIST Wealth is generated socially and should be shared by the society.
@@ -351,8 +362,6 @@ The Constitution’s core values are the guiding principles for policies and dec
 > [caption] Government should regulate the ownership of land and industry to reduce socio-economic inequalities.
 
 > [caption] EQUALITY All are equal before the law. The social inequalities have to be ended. The government should ensure equal opportunity for all.
-
-> [caption] freedom to follow any religion. But there is no official religion. Government treats all religious beliefs and practices with equal respect.
 
 <!-- page 226 (pdf 18) -->
 

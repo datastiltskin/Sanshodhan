@@ -9,17 +9,17 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-prelims.pdf"
 
 # Contents of Part
 
-## 1.How, When and Where 1
+## 1. How, When and Where 1
 
-2.From Trade to Territory 9 The Company Establishes Power
+2. From Trade to Territory 9 The Company Establishes Power
 
-## 3.Ruling the Countryside 26
+## 3. Ruling the Countryside 26
 
-## 4.Tribals, Dikus and the Vision 39 of a Golden Age
+## 4. Tribals, Dikus and the Vision 39 of a Golden Age
 
-## 5.When People Rebel 51 1857 and After
+## 5. When People Rebel 51 1857 and After
 
-6.Colonialism and the City 64 The Story of an Imperial Capital
+6. Colonialism and the City 64 The Story of an Imperial Capital
 
 <!-- pdf page 9 -->
 
@@ -61,7 +61,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-prelims.pdf"
 
 > [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT
 
-> [caption] ` 50.00
+> [caption] ₹ 50.00
 
 > [caption] Publication Team
 

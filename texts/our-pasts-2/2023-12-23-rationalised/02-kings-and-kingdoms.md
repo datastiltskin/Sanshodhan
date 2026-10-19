@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch02.pdf"
 source_sha256: "c7e77701576aa7a96e1566e836cf4b59094bf53d07820bed0fb26a0c7b9f4480"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "7641f68b45a275f7b3b610169a4d3a7a63bbfe6f3f3a6ec2929b78cb6ff0ac09"
+body_fingerprint: "a57338bdfc313b7c735e44c114dea77a5ebd81fb1c908135aea2e8538cb41dd4"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -103,7 +103,7 @@ Other kings who engaged in warfare included the Chahamanas, later known as the C
 
 ## A Closer Look: The Cholas
 
-From Uraiyur to Thanjavur
+### From Uraiyur to Thanjavur
 
 How did the Cholas rise to power? A minor chiefly family known as the Muttaraiyar held power in the Kaveri delta. They were subordinate to the Pallava kings of Kanchipuram. Vijayalaya, who belonged to the ancient chiefly family of the Cholas from Uraiyur, captured the delta from the Muttaraiyar in the middle of the ninth century. He built the town of Thanjavur and a temple for goddess Nishumbhasudini there.
 
@@ -115,7 +115,7 @@ How did the Cholas rise to power? A minor chiefly family known as the Muttaraiya
 
 The successors of Vijayalaya conquered neighbouring regions and the kingdom grew in size and power. The Pandyan and the Pallava territories to the south and north were made part of this kingdom. Rajaraja I, considered the most powerful Chola ruler, became king in 985 and expanded control over most of these areas. He also reorganised the administration of the empire. Rajaraja’s son Rajendra I continued his policies and even invaded the Ganga valley, Sri Lanka and countries of Southeast Asia, developing a navy for these expeditions.
 
-Splendid Temples and Bronze Sculpture
+### Splendid Temples and Bronze Sculpture
 
 The big temples of Thanjavur and Gangaikonda-cholapuram, built by Rajaraja and Rajendra, are architectural and sculptural marvels.
 
@@ -141,9 +141,11 @@ In many cases it was necessary to water crops artificially. A variety of methods
 
 > [caption] Fig. 4 A Chola bronze sculpture.
 
+> [caption] Notice how carefully it is decorated.
+
 <!-- page 25 (pdf 10) -->
 
-The Administration of the Empire
+### The Administration of the Empire
 
 How was the administration organised? Settlements of peasants, known as ur, became prosperous with the spread of irrigation agriculture. Groups of such villages formed larger units called nadu. The village council and the nadu performed several administrative functions including dispensing justice and collecting taxes.
 
@@ -181,7 +183,7 @@ Inscriptions from Uttaramerur in Chingleput district, Tamil Nadu, provide detail
 
 <!-- page 28 (pdf 13) -->
 
-Imagine
+### Imagine
 
 You are present in an election for a sabha. Describe what you see and hear.
 
@@ -189,7 +191,7 @@ You are present in an election for a sabha. Describe what you see and hear.
 
 ### Let’s recall
 
-> [note] 1. Match the following:
+1. Match the following:
 
 Gurjara-Pratiharas Western Deccan
 
@@ -199,9 +201,7 @@ Palas Gujarat and Rajasthan
 
 Cholas Tamil Nadu
 
-2. Who were the parties involved in the “tripartite
-
-> [note] struggle”?
+2. Who were the parties involved in the “tripartite struggle”?
 
 3. What were the qualifications necessary to become a member of a committee of the sabha in the Chola empire?
 
@@ -233,4 +233,14 @@ Cholas Tamil Nadu
 
 Are these in cash, kind, or labour services?
 
-Keywords samanta temple nadu sabha
+<!-- section: glossary -->
+
+### Keywords
+
+- samanta
+
+- temple
+
+- nadu
+
+- sabha

@@ -10,9 +10,12 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch06.pdf"
 source_sha256: "0c902779fc6aedda2e807f9d9c20bc2e0c5916f230e239121bab390746926ff6"
 pdf_pages: 14
 printed_pages: "68-81"
-body_fingerprint: "29caa5973786c0de25cbff3ddb66b44f86869dad06cc024ca8e191ecb43b949b"
+body_fingerprint: "5e8e17710c43bf5bc966ac869acafa99abddacc3a7f6ca6e4c54dbb1eda82726"
 ocr: true
 ocr_confidence: 80.5
+overrides:
+  - "The newspaper column on page 74 reads 'The government says that it has done a lot to relocate us.' The OCR misread the start of this fragment"
+  - "The headline of the second newspaper cutting on page 74 reads 'Closure of factories causes unrest' in lower case. The OCR capitalised 'causes'"
 ---
 
 <!-- page 68 (pdf 1) -->
@@ -57,15 +60,29 @@ Changing technology, or machines, and making technology more modern, helps media
 
 > [caption] Look at the collage on the left and list six various kinds of media that you see,
 
-> [note] An artist’s impression of Gutenberg printing the first sheet of the Bible.
+An artist’s impression of Gutenberg printing the first sheet of the Bible.
 
 > [caption] Ask older members of your family about what they used to listen to on the radio when there was no TV around. Find out from them when the first TV came to your area. When was cable TV introduced?
 
-> [note] How many people in your neighbourhood use the Internet?
+How many people in your neighbourhood use the Internet?
 
-> [note] List three things that you know about some other part of the world from watching television?
+List three things that you know about some other part of the world from watching television?
 
 <!-- page 72 (pdf 5) -->
+
+With electronic typerwriters, journalism
+
+underwent a sea-change in the 1940s.
+
+John L. Baird sits in front of the apparatus with which he demonstrated to
+
+the Royal Institute, his invention, the
+
+‘televisor’, an early television.
+
+Can you list three different products that are advertised during your favourite TV programme?
+
+Take a newspaper.and count the number of advertisements in it. Some people say that newspapers have too many advertisements. Do you think this is true and why?
 
 Media and money
 
@@ -74,16 +91,6 @@ The different technologies that mass media use are expensive. Just think about t
 In a news studio, it is not only the newsreader who needs to be paid but also a number of other people who help put the broadcast together. This includes those who look after the cameras and lights. Also, as you read earlier the technologies that mass media use keep changing and so a lot of money is spent on getting the latest technology. Due to these costs, the mass media needs a great deal of money to do its work. As a result, most television channels and newspapers are part of big business houses.
 
 Mass media is constantly thinking of ways to make money. One way in which the mass media earns money is by advertising different things like cars, chocolates, clothes, mobile phones, etc. You must have noticed the number of advertisements that you have to see while watching your favourite television show. While watching a cricket match on TV, the same advertisements are shown repeatedly between each over and so you are often watching the same image over and over again. As you will read in the following chapter, advertisements are repeated in the hope that you will go out and buy what is advertised.
-
-> [note] With electronic typerwriters, journalism underwent a sea-change in the 1940s.
-
-> [note] John L. Baird sits in front of the apparatus with which he demonstrated to the Royal Institute, his invention, the
-
-> [note] ‘televisor’, an early television.
-
-> [note] Can you list three different products that are advertised during your favourite TV programme?
-
-> [note] Take a newspaper.and count the number of advertisements in it. Some people say that newspapers have too many advertisements. Do you think this is true and why?
 
 <!-- page 73 (pdf 6) -->
 
@@ -101,7 +108,9 @@ The print media offers a large variety of information to suit the tastes of diff
 
 ## India Daily Report
 
-## Closure of factories Causes unrest
+## Closure of factories causes unrest
+
+News of India Report
 
 Daily News Service 4
 
@@ -109,23 +118,35 @@ Daily News Service 4
 
 ## r | “he closiire of one lakh factories in the city’s residential areas is likely to become
 
-a serious issue. On Monday, thousands of factory Owners and workers took to the Streets to strongly protest this closure, They said that their livelihoods would be lost. They say that the fault lies with the municipal corporation because it continued to issue licenses for new factories be set up in residential areas.They also say that there were no adequate relocation efforts. The Owners and workers plan a one-day city bandh to protest against this closure. Mr. Sharma one of the factory owners said, “Th : that it has done a lot to relocate us. But the areas they have sent us to have no facilities and have Moreover the levels of pollution in the city will be greatly reduced by this closure. Mr. Jain a well-known figure in the city said, “With our city gradually becoming Indias’s new business hub, it is important that it be a clean and green city. Polluting factories should be moved. The factory owners and workers
+a serious issue. On Monday, thousands of factory Owners and workers took to the Streets to strongly protest this closure, They said that their livelihoods would be lost. They say that the fault lies with the municipal corporation because it continued to issue licenses for new factories be set up in residential areas.They also say that there were no adequate relocation efforts. The Owners and workers plan a one-day city bandh to protest against this closure. Mr. Sharma one of the factory owners said, “Th : that it has done a lot to relocate us. But the areas they have sent us to have no facilities and have
 
-> [caption] to
-
-€ government Says should accept the not been developed for the last five years.” relocation being offered by the government instead of protesting.”
-
-The fact is that if you had read either newspaper you would only know one side of the story. If you had read the News of India, you would most likely think of the protestors as a nuisance. Their disrupting traffic and continually polluting the city with their factories leaves you with a bad impression about them. But on the other hand, if you had read the story in the India Daily, you would know that nk the protests are because a lot of livelihoods will be lost if the factories close because the relocation efforts have not been adequate. Neither of these stories is a balanced report. A balanced report is one that discusses all points of view of a particular story and then leaves it to the readers to make up their minds.
-
-Writing a balanced report, however, depends on the media being independent. An independent media means that no one should control and influence its coverage of news. No one should tell the media what can be included and what should not be included in a news story. An independent media is important in a democracy. As you read above, it is on the basis of the information that the media provides that we take action as citizens, so it is important that this information is reliable and not biased.
-
-> [note] News of India Report
+Moreover the levels of pollution in the city will be greatly reduced by this closure. Mr. Jain a well-known figure in the city said, “With our city gradually becoming Indias’s new business hub, it is important that it be a clean and green city. Polluting factories should be moved. The factory owners and workers
 
 > [caption] Radhika Malik | INN
 
-> [note] Violent protests by owners and workers brought the city to a standstill today. People getting to work could not do so on time because of huge traffic jams. The owners and workers are protesting the government’s decision to close down polluting factory units. Although the government did take this decision rather hastily, the protestors have known for quite some time that their units are not legal.
+Violent protests by owners and workers brought the city to a standstill today. People getting to work could not do so on time because of huge traffic jams. The owners and workers are protesting the government’s decision to close down polluting factory units. Although the government did take this
+
+> [caption] to
+
+The government says
+
+should accept the not been developed for the last five years.” relocation being offered by the government instead of
+
+decision rather hastily, the protestors have known for quite some time that their
+
+protesting.”
+
+units are not legal.
+
+The fact is that if you had read either newspaper you would only know one side of the story. If you had read the News of India, you would most likely think of the protestors as a nuisance. Their disrupting traffic and continually polluting the city with their factories leaves you with a bad impression about them. But on the other hand, if you had read the story in the India Daily, you would know that nk the protests are because a lot of livelihoods will be
+
+lost if the factories close because the relocation efforts have not been adequate. Neither of these stories is a balanced report. A balanced report is one that discusses all points of view of a particular story and then leaves it to the readers to make up their minds.
+
+Writing a balanced report, however, depends on the media being independent. An independent media means that no one should control and influence its coverage of news. No one should tell the media what
 
 <!-- page 75 (pdf 8) -->
+
+can be included and what should not be included in a news story. An independent media is important in a democracy. As you read above, it is on the basis of the information that the media provides that we take action as citizens, so it is important that this information is reliable and not biased.
 
 However, the reality is that media is far from independent. This is mainly because of two reasons. The first is the control that the government has on the media. When the government prevents either a news item, or scenes from a movie, or the lyrics of a song from being shared with the larger public, this is referred to as censorship. There have been periods in Indian history when the government censored the media. The worst of these was the Emergency between 1975-1977.
 
@@ -157,21 +178,19 @@ Very recently, the media drew our attention to alarming levels of pesticides in 
 
 There are several instances when the media fails to focus on issues that are significant in our lives. For example, drinking water is a major problem in the country. Every year, thousands of people suffer and die because they do not get safe drinking water. However, we seldom find the media discussing this issue. A well-known Indian journalist wrote of how the Fashion Week, in which clothes designers show their new creations to rich people, formed the front page headlines of all the newspapers while several slums were being demolished in Mumbai, the very same week, and this was not even noticed!
 
-> [note] Fashion shows are very popular with the
+Fashion shows are very popular with the
 
 > [caption] media. 1ce of the agenda’ b Fashior 1e slum think of e n ts Ar
 
-As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
+As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Social advertising Social advertisements refer to advertisements made by the Government or private agencies that have a larger message for society. The following is a social advertisement regarding crossing of manned /unmanned level crossings.
 
 > [table] Local media
+
+Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
 
 Another example is a newspaper called Khabar Lahriya which is a fortnightly that is run by eight Dalit women in Chitrakoot district in Uttar Pradesh. Written in the local language, Bundeli, this eight-page newspaper reports on Dalit issues and cases of violence against women and political corruption. The newspaper reaches farmers, shopkeepers, panchayat members, school teachers and women who have recently learnt to read and write.
 
 <!-- page 78 (pdf 11) -->
-
-Social advertising
-
-Social advertisements refer to advertisements made by the Government or private agencies that have a larger message for society. The following is a social advertisement regarding crossing of manned /unmanned level crossings.
 
 to the working of the government. The media decides what to focus on and in this way it ‘sets the agenda’. The government can, at times, prevent the media from publishing a story and this is called censorship. Nowadays, media’s close relationship with business often means that a balanced report is difficult to come by. Given this, it is important for us to be aware that the ‘factual information’ that a news report provides is often not complete and can be one-sided. We, therefore, need to analyse the news by asking the following questions: what is the information I am learning from this report? What information is not being provided? From whose point of view is the article being written? Whose point of view is being left out and why?
 
@@ -181,7 +200,9 @@ to the working of the government. The media decides what to focus on and in this
 
 > [table] : z tq SLOW DOWN YOUR VEHICLE & (STOP THE VEHICLE
 
-a@) SEEONBOTHTHESIDES 45) LISTEN CAREFULLY to spot an approaching train. brotha dade o [Passengers|complaint SS eise Helpline Noms at In what ways does the media play an important role ina democracy?
+a@) SEEONBOTHTHESIDES 45) LISTEN CAREFULLY to spot an approaching train. brotha dade
+
+o [Passengers|complaint SS eise Helpline Noms at
 
 > [caption] Passing over the unmanned level crossing negligently is a [ . punishable offence under Indian Railways Act,1989 Section 161 Sooeneaal = rere . y www.nr.indianrailways.gov.in ay
 
@@ -189,29 +210,43 @@ a@) SEEONBOTHTHESIDES 45) LISTEN CAREFULLY to spot an approaching train. brotha 
 
 <!-- page 79 (pdf 12) -->
 
+In what ways does the media play an important role ina democracy?
+
 (— > BIG BUSINESS HOUSES Some own radio, | | TV, newspaper People buy advertise products their seen in the products media. Money, therefore, flows back to big business ] houses mS MEDIA ~~ | | duct , through VIEWERS, advertisements LISTENERS Ne y, Chapter 6: Understanding Media 79
 
 Can you give this diagram a title? What do you understand about the link between media and big business from this diagram?
 
 You have read about the ways in which the media ‘sets the agenda’. What kind of effect does this have in a democracy? Provide two examples to support your point of view.
 
-As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this. Also watch the coverage of this topic on TV news. Compare two newspapers and write down the similarity and differences in their reports. It might help to ask the following questions-a. What information is this article providing? b. What information is it leaving out? c. From whose point of view is the article being written?
+As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this. Also watch the coverage of this topic on TV news. Compare two newspapers and write down the similarity and differences in their reports. It might help to ask the following questions-
+
+a. What information is this article providing? b. What information is it leaving out? c. From whose point of view is the article being written?
 
 d. Whose point of view is being left out and why?
 
-Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
+Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to
+
+save water and energy.
 
 <!-- section: glossary -->
 
 Glossary
 
-Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
+Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers,
 
-Censorship: This refers to the powers that government has to disallow media from publishing or showing certain stories.
+magazines and books for a wide audience to read.
 
-Broadcast: In this chapter this word is used to refer to a TV or radio programme that is widely Public protest: When a large number of people come together and openly state their opposition to some issue. Organising a rally, starting a signature campaign, blocking roads etc. are some of the ways in which this is done.
+Censorship: This refers to the powers that government has to disallow media from publishing or
+
+showing certain stories.
+
+Broadcast: In this chapter this word is used to refer to a TV or radio programme that is widely
 
 > [caption] transmitted.
+
+Public protest: When a large number of people come together and openly state their opposition to some issue. Organising a rally, starting a signature campaign, blocking roads etc. are some of the
+
+ways in which this is done.
 
 <!-- page 80 (pdf 13) -->
 
@@ -225,6 +260,8 @@ These two chapters focus on aspects of life and commercial cycles associated wit
 
 Chapter 7 discusses ‘Markets Around Us’. At one level, we study different market sites: a weekly market, neighbourhood shops, a shopping complex, etc. At another level, we explore the intricate question, ‘how do goods reach these markets?’ We examine how a chain of markets operates and the role of wholesale markets within this, through the case study of a wholesale vegetable market. We usually associate ‘market’ with marketplaces, but buying and selling takes place in diverse ways and the chapter discusses how all of this falls within a larger understanding of markets.
 
-Chapter 8 looks at how markets offer people different opportunities. This is done through the ‘story of a shirt’, and the chain of markets involved in the process. Together with understanding each step of the manufacture and circulation of a shirt, we realise that some people stand to gain in the market transaction whereas others do not gain as much, or none at all. The opportunities are highly unequal. Ways do exist, such as those of cooperative marketing, which can provide a better return to the producers. However, we need to find many more viable avenues for equitable distribution.
+Chapter 8 looks at how markets offer people different opportunities. This is done through the ‘story of a shirt’, and the chain
+
+of markets involved in the process. Together with understanding each step of the manufacture and circulation of a shirt, we realise that some people stand to gain in the market transaction whereas others do not gain as much, or none at all. The opportunities are highly unequal. Ways do exist, such as those of cooperative marketing, which can provide a better return to the producers. However, we need to find many more viable avenues for equitable distribution.
 
 These chapters offer an opportunity of bringing in the experience of local markets for discussion in the classroom. A visit to a wholesale market would be of interest, and would allow the learner to find out the profit margins and details of daily earnings so that those inequalities can be directly examined. The experiences of markets are varied and also quite rich. Hence, one should allocate time for some questions, not addressed in the text, which students may wish to discuss.

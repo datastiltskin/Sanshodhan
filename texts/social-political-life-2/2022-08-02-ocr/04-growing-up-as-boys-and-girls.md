@@ -10,9 +10,15 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch04.pdf"
 source_sha256: "a6b6d4919c2f7674c8cd413581f7d015ede5f286f5205c032905b0be3e8b14cd"
 pdf_pages: 10
 printed_pages: "44-53"
-body_fingerprint: "19c8bb00a515e1e244d5efec1a6f913e88b2122793b2b688e83469b6c3f4866d"
+body_fingerprint: "ef92513e67bd12450562195def4b7410ebd7a5e753544dcd422acde1a08f39b9"
 ocr: true
 ocr_confidence: 94.6
+overrides:
+  - "The last speech bubble on page 47 ends 'Besides, Mangala has also taken leave today.' The OCR lost the last two words"
+  - "The bubbles on page 48 read 'I'll give you some money. Just buy something from the canteen today...' and 'Oh no! Forgot about that!' The OCR interleaved them and misread today as todyy"
+  - "Page 46 reads 'from a very young age'. The OCR glued 'a very'"
+  - "Page 49 reads 'A number of these tasks'. The OCR glued 'A number'"
+  - "The caption on page 51 reads 'Madhya Pradesh'. The OCR misread the h"
 ---
 
 <!-- page 44 (pdf 1) -->
@@ -37,29 +43,29 @@ From Class VI onwards, boys and girls went to separate schools. The girls’ sch
 
 > [caption] AV Class VII Samoan child
 
-> [note] in his school uniform.
+in his school uniform.
 
-> [note] In what ways do the experiences of. Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
+In what ways do the experiences of. Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
 
-> [note] Why do girls like to go to school together in groups?
+Why do girls like to go to school together in groups?
 
 <!-- page 46 (pdf 3) -->
 
+Make a drawing of a street ora park in your neighbourhood. Show the different kinds of activities young boys and girls may be engaged in. You could do this individually or in groups.
+
+Are there as many girls as boys in your drawing? Most probably you would have drawn fewer girls. Can you think of reasons why there are fewer women and girls in your neighbourhood streets, parks and markets in the late evenings or at night?
+
+Are girls and boys doing different activities? Can you think of reasons why this might be so? What would happen if you replaced the girls with the boys and vice-versa?
+
 After reading the two examples above, we realise that there are many different ways of growing up. Often we think that there is only one way in which children grow up. This is because we are most familiar with our own experiences. If we talk to elders in our family, we will see that their childhoods were probably very different from ours.
 
-We also realise that societies make clear distinctions between boys and girls. This begins from avery young age. We are for example, given different toys to play with. Boys are usually given cars to play with and girls dolls. Both toys can be a lot of fun to play with. Why are girls then given dolls and boys cars? Toys become a way of telling children that they will have different futures when they become men and women. If we think about it, this difference is created in the smallest and most everyday things. How girls must dress, what games boys should play, how girls need to talk softly or boys need to be tough. All these are ways of telling children that they have specific roles to play when they grow up to be men and women. Later in life this affects the subjects we can study or the careers we can choose.
+We also realise that societies make clear distinctions between boys and girls. This begins from a very young age. We are for example, given different toys to play with. Boys are usually given cars to play with and girls dolls. Both toys can be a lot of fun to play with. Why are girls then given dolls and boys cars? Toys become a way of telling children that they will have different futures when they become men and women. If we think about it, this difference is created in the smallest and most everyday things. How girls must dress, what games boys should play, how girls need to talk softly or boys need to be tough. All these are ways of telling children that they have specific roles to play when they grow up to be men and women. Later in life this affects the subjects we can study or the careers we can choose.
 
 In most societies, including our own, the roles men and women play or the work they do, are not valued equally. Men and women do not have the same status. Let us look at how this difference exists in the work done by men and women.
 
-> [note] Make a drawing of a street ora park in your neighbourhood. Show the different kinds of activities young boys and girls may be engaged in. You could do this individually or in groups.
-
-> [note] Are there as many girls as boys in your drawing? Most probably you would have drawn fewer girls. Can you think of reasons why there are fewer women and girls in your neighbourhood streets, parks and markets in the late evenings or at night?
-
-> [note] Are girls and boys doing different activities? Can you think of reasons why this might be so? What would happen if you replaced the girls with the boys and vice-versa?
-
 <!-- page 47 (pdf 4) -->
 
-‘MY MOTHER
+‘MY MOTHER dimen Jaspreet, why don’t What fun! We'll take care Harsharan, Shonali But isn’t that correct aunty? you just relax ane ler them of everything tomorrow thinks that your wife My mother is a housewife — manage Shared ora — with Papa! is not a working she does not work! eet person! : / Great idea! i: OK, I'll go on strike Next morning, 7:30 a.m. Oh-ho! That’s Hurry, hurry! And the school bus! I'll ask Harmeet to switch
 
 Harmeet’s mother Shonali, how can Yes, but that’s not real DOES NOT WORK’ always comes for you say that! You work, it's just house work! excursions, beause know that Jaspreet Ma, we are going ona she doesn’t work. aunty is up at 5 a.m.
 
@@ -69,19 +75,31 @@ Oh! That’s what you think, do you? Let’s go over to their house and ask Jasp
 
 > [table] everyday doing all the housework!
 
-At the Singh’s house dimen Jaspreet, why don’t What fun! We'll take care Harsharan, Shonali But isn’t that correct aunty? you just relax ane ler them of everything tomorrow thinks that your wife My mother is a housewife — manage Shared ora — with Papa! is not a working she does not work! eet person! : / Great idea! i: OK, I'll go on strike Next morning, 7:30 a.m. Oh-ho! That’s Hurry, hurry! And the school bus! I'll ask Harmeet to switch Oh God! Look at the time! Where's my breakfast? Why aren’t the children ready?
+At the Singh’s house
 
 > [caption] tomorrow!
 
+Oh God! Look at the time! Where's my breakfast? Why aren’t the children ready?
+
 > [table] have to drop on the pump! them in the car.
 
-Besides, Mangala has also money for that!
+Besides, Mangala has also taken leave today.
 
 <!-- page 48 (pdf 5) -->
+
+I give you some money. Just buy something from the Oh no! Forgot canteen today...
+
+> [caption] But, what about the kids’ lunch boxes?
+
+> [caption] about that!
+
+money for that!
 
 ## y I’m exhausted! How about some tea? Oh, | forgot...your strike...I'll make some myself. 4
 
 > [caption] Harmeet, where on earth are the tea leaves?
+
+The house looks like it Did you expect it to remain in exactly the was hit by a hurricane! same condition in which you left it this morning, dear?
 
 > [caption] Hee hee... | wonder if they still believe | don’t work?...and now | have to remind them that Chachaji and Chachiji are coming for dinner. |
 
@@ -89,31 +107,25 @@ Valuing housework
 
 Harmeet’s family did not think that the work Jaspreet did within the house was real work. This feeling is not unique to their families. Across the world, the main responsibility for housework and care-giving tasks, like looking after the family, especially children, the elderly and sick members, lies with women. Yet, as we have seen, the work that women do within the home is not recognised as work. It is also assumed that this is something that comes naturally to women. It, therefore, does not have to be paid for. And society devalues this work.
 
-> [note] I give you some money. Just buy something from the Oh no! Forgot canteen todyy...
-
-> [caption] But, what about the kids’ lunch boxes?
-
-> [caption] about that!
-
-> [note] The house looks like it Did you expect it to remain in exactly the was hit by a hurricane! same condition in which you left it this morning, dear?
-
 <!-- page 49 (pdf 6) -->
 
 > [table] Lives of domestic workers
 
 In the story above, Harmeet’s mother was not the only one who did the housework. A lot of the work was done by Mangala, their domestic helper. Many homes, particularly in towns and cities, employ domestic workers. They do a lot of work — sweeping and cleaning, washing clothes and dishes, cooking, looking after young children or the elderly. Most domestic workers are women. Sometimes, even young boys or girls are employed to do this work. Wages are low, as domestic work does not have much value. A domestic worker’s day can begin as early as five in the morning and end as late as twelve at night! Despite the hard work they do, their employers often do not show them much respect. This is what Melani, a domestic worker had to say about her experience of working in Delhi - “My first job was with a rich family that lived in a three-storeyed house. The memsahib was very strange as she would shout to get any work done. My work was in the kitchen. There were two other girls who did the cleaning. Our day would begin at 5 o’clock. For breakfast we would get a cup of tea and two dry rotis. We could never get a third roti. In the evening, when I cooked the food, the two other girls would beg me to give them an extra roti. I would secretly give it to them and make an extra one for myself. We were so hungry after working through the day! We could not wear chappals in the house. In the winter, our feet would swell up with the cold. I used to feel scared of the memsahib but also felt angry and humiliated. Did we not work all day? Did we not deserve to be treated with some respect?”
 
-In fact, what we commonly term as housework actually involves many different tasks. Anumber of these tasks require heavy physical work. In both rural and urban areas women and girls have to fetch water. In rural areas women and girls carry heavy headloads of firewood. Tasks like washing clothes, cleaning, sweeping and picking up loads require bending, lifting and carrying. Many chores, like cooking, involve standing for long hours in front of hot stoves. The work women do is strenuous and physically demanding — words that we normally associate with men.
+In fact, what we commonly term as housework actually involves many different tasks. A number of these tasks require heavy physical work. In both rural and urban areas women and girls have to fetch water. In rural areas women and girls carry heavy headloads of firewood. Tasks like on a Strike for a day?
 
-> [note] Melani with her daughter.
+Melani with her daughter.
 
 > [caption] Were Harmeet and Shonali correct inssaying that Harmeet’s mother did not work?
 
-> [note] What do you think would happen if your mother or those involved in doing the work at home went on a Strike for a day?
+What do you think would happen if your mother or those involved in doing the work at home went
 
-> [note] Why do you think that men and boys generally do not do housework? Do you think they should?
+Why do you think that men and boys generally do not do housework? Do you think they should?
 
 <!-- page 50 (pdf 7) -->
+
+washing clothes, cleaning, sweeping and picking up loads require bending, lifting and carrying. Many chores, like cooking, involve standing for long hours in front of hot stoves. The work women do is strenuous and physically demanding — words that we normally associate with men.
 
 Another aspect of housework and care-giving that we do not recognise is that it is very time consuming. In fact, if we add up the housework and the work, women do outside the home, we find that women spend much more time working than men and have much less time for leisure.
 
@@ -129,11 +141,9 @@ Women’s work and equality
 
 As we have seen the low value attached to women’s household and care-giving work is not an individual or family matter. It is part of a larger system of inequality between men and women. It, therefore, has to be dealt with through actions not just at the level of the individual or the family but also by the government. As we now know, equality is an important principle of our Constitution. The Constitution says that being male or female should not become a reason for discrimination. In reality, inequality between the sexes exists. The government is, therefore, committed to understanding the reasons for this and taking positive steps to remedy the situation. For example, it recognises that burden of child-care and housework falls on women and girls.
 
-> [note] Many women like Shonali’s mother in the story and the women in Tamil Nadu and Haryana who were surveyed work both inside and outside the home. This is often referred to as the double burden of
+Many women like Shonali’s mother in the story and the women in Tamil Nadu and Haryana who were surveyed work both inside and outside the home. This is often referred to as the double burden of This naturally has an impact on whether Children at an Anganwadi centre in a girls can attend school. It determines village in Madhya Pradesh.
 
 <!-- page 51 (pdf 8) -->
-
-This naturally has an impact on whether Children at an Anganwadi centre in a girls can attend school. It determines village in Madlrya Pradesh.
 
 whether women can work outside the house and what kind of jobs and careers they can have. The government has set up anganwadis or child-care centres in several villages in the country. The government has passed laws that make it mandatory for organisations that have more than 30 women employees to provide créche facilities. The provision of créches helps many women to take up employment outside the home. It also makes it possible for more girls to attend schools.
 

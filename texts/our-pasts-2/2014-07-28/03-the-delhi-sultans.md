@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch03.pdf"
 source_sha256: "4e420932015a742948f0686c141e30201ccfde30049586359bd35cded764759d"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "91465602b81fb461f0aab6b58037e40a26a534e1b8c4f01de50718604afad11d"
+body_fingerprint: "6646260ec4f0834e2ea463f3bb83529c79cc6ef9ef4b7ac0861f6b21c043fad3"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -79,6 +79,8 @@ LODI DYNASTY 1451 - 1526
 
 Bahlul Lodi 1451 -1489
 
+> [caption] Firuz Shah Tughluq’s tomb
+
 <!-- page 32 (pdf 3) -->
 
 ## Finding out about the Delhi Sultans
@@ -113,13 +115,19 @@ In 1236 Sultan Iltutmish’s daughter, Raziyya, became Sultan. The chronicler of
 
 > [note] On her inscriptions and coins Raziyya mentioned that she was the daughter of Sultan Iltutmish. This was in contrast to the queen Rudramadevi (1262-1289), of the Kakatiya dynasty of Warangal, part of modern Andhra Pradesh. Rudramadevi changed her name on her inscriptions and pretended she was a man. Another queen, Didda, ruled in Kashmir (980-1003). Her title is interesting: it comes from “didi” or “elder sister”, an obviously affectionate term given to a loved ruler by her subjects.
 
-> [note] Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
+Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
 
-> [caption] Gender distinctions Social and biological differences between women and men. Usually, these differences are used to argue that men are superior to women.
+> [table] Gender distinctions Social and biological differences between women and men. Usually, these differences are used to argue that men are superior to women.
 
 > [note] Express Minhaj’s ideas in your own words. Do you think Raziyya shared these ideas? Why do you think it was so difficult for a woman to be a ruler?
 
 <!-- page 34 (pdf 5) -->
+
+> [caption] Map 2 Major cities captured by Shamsuddin Iltutmish.
+
+Hinterland The lands adjacent to a city or port that supply it with goods and services.
+
+Garrison town A fortified settlement, with soldiers.
 
 ## From garrison town to empire The expansion of the Delhi Sultanate
 
@@ -128,12 +136,6 @@ In the early thirteenth century the control of the Delhi Sultans rarely went bey
 Controlling garrison towns in distant Bengal and Sind from Delhi was extremely difficult. Rebellion, war, even bad weather could snap fragile communication routes. The state was also challenged by Mongol invasions from Afghanistan and by governors who rebelled at any sign of the Sultan’s weakness. The Sultanate barely survived these challenges. Its expansion occurred during the reigns of Ghiyasuddin Balban, Alauddin Khalji and Muhammad Tughluq.
 
 The first set of campaigns along the “internal frontier” of the Sultanate aimed at consolidating the hinterlands of the garrison towns. During these campaigns forests were cleared in the Ganga-Yamuna doab and hunter-gatherers and pastoralists expelled from their habitat.
-
-> [caption] Map 2 Major cities captured by Shamsuddin Iltutmish.
-
-> [note] Hinterland The lands adjacent to a city or port that supply it with goods and services.
-
-> [note] Garrison town A fortified settlement, with soldiers.
 
 <!-- page 35 (pdf 6) -->
 
@@ -159,9 +161,11 @@ During prayer, Muslims stand facing Mecca. In India this is to the west. This is
 
 <!-- page 37 (pdf 8) -->
 
-The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.
+The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers
 
 > [caption] Fig. 4 Moth ki Masjid, built in the reign of Sikandar Lodi by his minister.
+
+who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.
 
 > [caption] Fig. 5 Mosque of Jamali Kamali, built in the late 1520s.
 
@@ -189,7 +193,7 @@ Slaves and clients were loyal to their masters and patrons, but not to their hei
 
 > [note] Why do you think Barani criticised the Sultan?
 
-> [note] A client is someone who is under the protection of another, a dependent or hanger-on.
+A client is someone who is under the protection of another, a dependent or hanger-on.
 
 <!-- page 39 (pdf 10) -->
 
@@ -253,9 +257,11 @@ Knights and the Crusades
 
 > [note] The Church patronised this group and used them to propagate their idea of “Peace of God”. The attempt was to direct warriors away from conflict amongst themselves and send them instead on a campaign against the Muslims who had captured the city of Jerusalem. This led to a series of campaigns called the Crusades. These campaigns in the service of God and the Church completely altered the status of knights. Originally, these knights did not belong to the class of nobles. But by the end of the eleventh century in France, and a century later in Germany, the humble origins of these warriors were forgotten. By the twelfth century, nobles also wanted to be known as knights.
 
-Imagine
+### Imagine
 
-You are a peasant in Alauddin Khalji ’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
+You are a peasant in Alauddin Khalji ’s
+
+or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 
 <!-- section: exercises -->
 
@@ -270,10 +276,6 @@ You are a peasant in Alauddin Khalji ’s or Muhammad Tughluq’s reign and you 
 4. From which country did Ibn Battuta travel to India?
 
 <!-- page 44 (pdf 15) -->
-
-KEYWORDS iqta tarikh garrison
-
-Mongols gender kharaj
 
 ### Let’s understand
 
@@ -296,3 +298,19 @@ Mongols gender kharaj
 ### Let’s do
 
 12. Find out whether there are any buildings built by the Delhi Sultans in your area. Are there any other buildings in your area that were built between the twelfth and fifteenth centuries? Describe some of these buildings, and draw sketches of them.
+
+<!-- section: glossary -->
+
+### Keywords
+
+- iqta
+
+- tarikh
+
+- garrison
+
+- Mongols
+
+- gender
+
+- kharaj

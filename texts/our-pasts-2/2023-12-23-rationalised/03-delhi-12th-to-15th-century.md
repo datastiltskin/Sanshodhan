@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch03.pdf"
 source_sha256: "518b5751da911955b116bcb28c972e5c457dc7c7a24e492c6095c91aab690014"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "44f0e83aa1b472de6c62af8742dc6e3ee23a3ac251a1c0a8564c0c9ba7b62012"
+body_fingerprint: "050255ad8daba9f29d3e3c24e1a1d85954732ac5ca1127586f627acc91191033"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -43,7 +43,7 @@ Chauhans 1165 –1192
 
 Prithviraj Chauhan 1175 –1192
 
-Early Turkish Rulers 1206 –1290
+### Early Turkish Rulers 1206 –1290
 
 Qutbuddin Aybak 1206 –1210
 
@@ -53,13 +53,13 @@ Raziyya 1236 –1240
 
 Ghiyasuddin Balban 1266 –1287
 
-Khalji Dynasty 1290 –1320
+### Khalji Dynasty 1290 –1320
 
 Jalaluddin Khalji 1290 –1296
 
 Alauddin Khalji 1296 –1316
 
-Tughluq Dynasty 1320 –1414
+### Tughluq Dynasty 1320 –1414
 
 Ghiyasuddin Tughluq 1320 –1324
 
@@ -67,11 +67,11 @@ Muhammad Tughluq 1324 –1351
 
 Firuz Shah Tughluq 1351 –1388
 
-Sayyid Dynasty 1414 –1451
+### Sayyid Dynasty 1414 –1451
 
 Khizr Khan 1414 –1421
 
-Lodi Dynasty 1451–1526
+### Lodi Dynasty 1451–1526
 
 Bahlul Lodi 1451 –1489
 
@@ -95,7 +95,7 @@ In 1236 Sultan Iltutmish’s daughter, Raziyya, became Sultan. The chronicler of
 
 > [note] Do you think the circle of justice is an appropriate term to describe the relationship between the king and his subjects?
 
-> [note] Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
+Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
 
 > [caption] Gender distinctions Social and biological differences between women and men. Usually, these differences are used to argue that men are superior to women.
 
@@ -133,7 +133,7 @@ Slaves and clients were loyal to their masters and patrons, but not to their hei
 
 > [note] Why do you think Barani criticised the Sultan?
 
-> [note] Client Someone who is under the protection of another; a dependent or hanger-on.
+Client Someone who is under the protection of another; a dependent or hanger-on.
 
 <!-- page 35 (pdf 6) -->
 
@@ -181,10 +181,6 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 
 <!-- page 38 (pdf 9) -->
 
-Keywords iqta tarikh garrison
-
-Mongols gender kharaj
-
 ### Let’s understand
 
 5. According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
@@ -204,3 +200,19 @@ Mongols gender kharaj
 ### Let’s do
 
 11. Find out whether there are any buildings built by the Delhi Sultans in your area. Are there any other buildings in your area that were built between the twelfth and fifteenth centuries? Describe some of these buildings, and draw sketches of them.
+
+<!-- section: glossary -->
+
+### Keywords
+
+- iqta
+
+- tarikh
+
+- garrison
+
+- Mongols
+
+- gender
+
+- kharaj

@@ -3,6 +3,10 @@ book: "exploring-society-7"
 edition: "live-2026-10-18"
 part: 1
 source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-prelims.pdf"
+overrides:
+  - "front cover, parts 1 and 2: the title page footer line is clean type but was read as OCR noise"
+  - "part 1 prelims: Seema Shukla Ojha is the first Member Coordinator on the page"
+  - "part 1 prelims, pdf page 18: the Preamble was outlined type read as OCR noise, rebuilt from the page image"
 ---
 
 <!-- pdf page 1 -->
@@ -15,7 +19,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-prelims.pdf"
 
 ## Grade 7 | Part 1
 
-> [caption] sta 3far fae sq sine atest fstatorT IONAL COUNCI EDUCAI IONAL RESEARCH AND Uke Rave
+> [caption] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
 
 <!-- pdf page 2 -->
 
@@ -177,27 +181,51 @@ Palatal च cha छ chha ज ja झ jha ञ ña य ya Cerebral ट ṭa ठ ṭ
 
 Right to Equality
 
-• before law and equal protection of laws; • irrespective of religion, race, caste, sex or place of birth; • of opportunity in public employment; • by abolition of untouchability and titles.
+- before law and equal protection of laws;
+
+- irrespective of religion, race, caste, sex or place of birth;
+
+- of opportunity in public employment;
+
+- by abolition of untouchability and titles.
 
 Right to Freedom
 
-• of expression, assembly, association, movement, residence and profession; • of certain protections in respect of conviction for offences; • of protection of life and personal liberty; • of free and compulsory education for children between the age of six and fourteen years; • of protection against arrest and detention in certain cases.
+- of expression, assembly, association, movement, residence and profession;
+
+- of certain protections in respect of conviction for offences;
+
+- of protection of life and personal liberty;
+
+- of free and compulsory education for children between the age of six and fourteen years;
+
+- of protection against arrest and detention in certain cases.
 
 Right against Exploitation
 
-• for prohibition of traffic in human beings and forced labour; • for prohibition of employment of children in hazardous jobs.
+- for prohibition of traffic in human beings and forced labour;
+
+- for prohibition of employment of children in hazardous jobs.
 
 Right to Freedom of Religion
 
-• freedom of conscience and free profession, practice and propagation of religion; • freedom to manage religious affairs; • freedom as to payment of taxes for promotion of any particular religion; • freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
+- freedom of conscience and free profession, practice and propagation of religion;
+
+- freedom to manage religious affairs;
+
+- freedom as to payment of taxes for promotion of any particular religion;
+
+- freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
 
 Cultural and Educational Rights
 
-• for protection of interests of minorities to conserve their language, script and culture; • for minorities to establish and administer educational institutions of their choice.
+- for protection of interests of minorities to conserve their language, script and culture;
+
+- for minorities to establish and administer educational institutions of their choice.
 
 Right to Constitutional Remedies
 
-• by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
+- by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
 
 <!-- pdf page 13 -->
 
@@ -253,35 +281,37 @@ Michel Danino, Visiting Professor, IIT Gandhinagar (CAG Social Science Chairpers
 
 Sanjeev Sanyal, Member, EAC–PM (CAG Economics Chairperson)
 
-Contributors
+### Contributors
 
 Aasheerwad Dwivedi, Faculty of Management Studies, Shri Ram College of Commerce, University of Delhi Alka Singh, Assistant professor in Geography, Department of Education in Social Sciences and Humanities, RIE, Bhopal, NCERT Ankur Kakkar, Associate Professor, Centre for Indic Studies, Indus University, Ahmedabad Aziz Mahdi, Scholar of Persian, Former Fellow, Indian Institute of Advanced Study, Shimla Bhairu Lal Yadav, Associate Professor of Population Studies, DESS, NCERT Bhawna Paliwal, Educator and Senior Consultant, Program Office, NSTC Divya Indra Chatterjee, Chartered Accountant, Senior Consultant, Program Office, NSTC Javaid Iqbal Bhat, Assistant Professor, Post Graduate Department of English, University of Kashmir Johnson Odakkal, Commodore, Indian Navy (Retd), Former Director, Maritime History Society & Faculty at Aditya Birla World Academy Kirti Kaul, Head, Research and Resources, Shiv Nadar School, Noida-9
 
-Mrinmoyee Ray, Assistant Professor of History, DESS, NCERT Nabajyoti Deka, Faculty of Management Studies, Shri Ram College of Commerce Nikhil Bellarykar, Historian, Author and Translator Pawan Kumar, Assistant Professor & In-charge, Department of Geography, Faculty of Earth, Environment and Space Sciences, Chaudhary Bansilal University, Prem Nagar, Bhiwani Payel Mukherjee, Faculty, Department of Social Sciences and Humanities, Indraprastha Institute of Information Technology Delhi (IITD) and Adjunct Faculty, Department of English, College of Arts and Science, University of Saskatchewan, Canada Prachi Lahiri, History Teacher, National Public School, Bengaluru Probal Roy Chowdhary, Director, Centre for New Indian Studies; Professor, Department of English, Sister Nivedita University, Kolkata Purva Bhatt, Senior Consultant, Program Office, NSTC Radha Narayanan, Researcher and Author, History Textbooks, Chinmaya Mission, Chennai Riddhi Garg, Editor, Senior Consultant, Program Office, NSTC Sandeepa Madan, Educator, Shiv Nadar School, Gurugram Srishti Chauhan, Young Professional (EAC–PM), NITI Aayog Suman Gautam, Principal, Shiva International Residential School, Bilaspur, Himachal Pradesh Suparna Diwakar, Educator and Development Sector Professional, Chief Consultant, Programme Office, NSTC Surendra C Thakurdesai, Professor and Head, Department of Geography, Department of Rural Development, Gogate Joglekar College, Ratnagiri Member Coordinators Seema Shukla Ojha, Professor of History, Department of Education in Social Science, NCERT; CAG (Social Science)
+Mrinmoyee Ray, Assistant Professor of History, DESS, NCERT Nabajyoti Deka, Faculty of Management Studies, Shri Ram College of Commerce Nikhil Bellarykar, Historian, Author and Translator Pawan Kumar, Assistant Professor & In-charge, Department of Geography, Faculty of Earth, Environment and Space Sciences, Chaudhary Bansilal University, Prem Nagar, Bhiwani Payel Mukherjee, Faculty, Department of Social Sciences and Humanities, Indraprastha Institute of Information Technology Delhi (IITD) and Adjunct Faculty, Department of English, College of Arts and Science, University of Saskatchewan, Canada Prachi Lahiri, History Teacher, National Public School, Bengaluru Probal Roy Chowdhary, Director, Centre for New Indian Studies; Professor, Department of English, Sister Nivedita University, Kolkata Purva Bhatt, Senior Consultant, Program Office, NSTC Radha Narayanan, Researcher and Author, History Textbooks, Chinmaya Mission, Chennai Riddhi Garg, Editor, Senior Consultant, Program Office, NSTC Sandeepa Madan, Educator, Shiv Nadar School, Gurugram Srishti Chauhan, Young Professional (EAC–PM), NITI Aayog Suman Gautam, Principal, Shiva International Residential School, Bilaspur, Himachal Pradesh Suparna Diwakar, Educator and Development Sector Professional, Chief Consultant, Programme Office, NSTC Surendra C Thakurdesai, Professor and Head, Department of Geography, Department of Rural Development, Gogate Joglekar College, Ratnagiri
 
 <!-- pdf page 16 -->
 
+### Member Coordinators
+
+Seema Shukla Ojha, Professor of History, Department of Education in Social Science, NCERT; CAG (Social Science)
+
 M V Srinivasan, Professor of Economics, Department of Education in Social Science, NCERT; CAG (Economics)
 
-Reviewers
+### Reviewers
 
-Aditi Mishra, Director Principal, Delhi Public School, Gurgaon; and Teachers: Kanu Chopra, Leeza Dutta, Avni Mehta, Mamta Kumar, Suparna Sharma Anurag Behar, Member, National Curriculum Frameworks Oversight Committee, and CEO, Azim Premji Foundation Aparna Pandey, Professor of Geography, DESS Arnab Bhattacharya, Centre Director, Homi Bhabha Centre for Science Education, Tata Institute of Fundamental Research (TIFR), Mumbai; Professor, Department of Condensed Matter Physics and Material Science, TIFR, Mumbai Birbal Luniwal, Assistant Professor of Geography, DESS Gauri Srivastava, Professor of History, DESS Jagbir Singh, Professor, Chairperson, NOC, and Chancellor, Central University of Punjab Jaya Singh, Professor of Economics, DESS Kumari Rohini, Assistant Professor of History, DESS P.K. Mandal, Professor of History; Head, DESS Pratima Kumari, Professor of Economics, DESS Priyadarsini Samantaray, Assistant Professor of Sociology, DESS Rashmi, Associate Professor of Commerce (Business Studies), DESS Ruchika Singh, IKS Division Sainath Kabade, Assistant Professor of History, DESS Savita Sagar, Assistant Professor of Political Science, DESS Shankar Sharan, Professor of Political Science, DESS Shipra Vaidya, Professor of Commerce, DESS Subhash Singh, Assistant Professor of Political Science, DESS Tannu Malik, Professor of Geography, DESS Vanthangpui Khobung, Assistant Professor of Political Science, DESS INSTITUTI INDIA THE Ct having
+Aditi Mishra, Director Principal, Delhi Public School, Gurgaon; and Teachers: Kanu Chopra, Leeza Dutta, Avni Mehta, Mamta Kumar, Suparna Sharma Anurag Behar, Member, National Curriculum Frameworks Oversight Committee, and CEO, Azim Premji Foundation Aparna Pandey, Professor of Geography, DESS Arnab Bhattacharya, Centre Director, Homi Bhabha Centre for Science Education, Tata Institute of Fundamental Research (TIFR), Mumbai; Professor, Department of Condensed Matter Physics and Material Science, TIFR, Mumbai Birbal Luniwal, Assistant Professor of Geography, DESS Gauri Srivastava, Professor of History, DESS Jagbir Singh, Professor, Chairperson, NOC, and Chancellor, Central University of Punjab Jaya Singh, Professor of Economics, DESS Kumari Rohini, Assistant Professor of History, DESS P.K. Mandal, Professor of History; Head, DESS Pratima Kumari, Professor of Economics, DESS Priyadarsini Samantaray, Assistant Professor of Sociology, DESS Rashmi, Associate Professor of Commerce (Business Studies), DESS Ruchika Singh, IKS Division Sainath Kabade, Assistant Professor of History, DESS Savita Sagar, Assistant Professor of Political Science, DESS Shankar Sharan, Professor of Political Science, DESS Shipra Vaidya, Professor of Commerce, DESS Subhash Singh, Assistant Professor of Political Science, DESS Tannu Malik, Professor of Geography, DESS Vanthangpui Khobung, Assistant Professor of Political Science, DESS
 
 <!-- pdf page 17 -->
 
 <!-- pdf page 18 -->
 
-> [caption] IN
+THE CONSTITUTION OF INDIA
 
-> [caption] PREAMBLE
+> [table] PREAMBLE
 
-> [caption] PE(
+> [caption] WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC and to secure to all its citizens: JUSTICE, social, economic and political; LIBERTY of thought, expression, belief, faith and worship; EQUALITY of status and of opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the unity and integrity of the Nation; IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
 
-> [caption] PLE constitute India intc ICIALIST SECULAR and tc Secure INDIA, THE WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial. CCl political; of thought, expression, belief, LIBERTY faith and worship: yf status and EQUALITY ypportunity; and t promote among them all FRATERNITY assuring the dignity the the individual and and unity f the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 de this twenty-sixth day ENACT AND GIVE T PT, HEREBY AD YURSELVES THIS C INSTITUTIC and JUSTICE, ymic Subs. by the Co
+> [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Sovereign Democratic Republic” (w.e.f. 3.1.1977)
 
-> [caption] (Forty-seco ef. 3.1.1977)
-
-> [caption] Subs. by the Cc "Unity of the Natio ef. 3.1.1977)
+> [caption] 2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for “Unity of the Nation” (w.e.f. 3.1.1977)
 
 <!-- pdf page 19 -->
 
@@ -297,9 +327,9 @@ The illustrators — Albert Shrivastava, Ashutosh Kambli, Attri Chetan, and 
 
 ## Contents
 
-Foreword iii
+### Foreword iii
 
-Letter to the Student v
+### Letter to the Student v
 
 Your Journey through this Textbook vii
 
@@ -309,7 +339,7 @@ Chapter 2 Understanding the Weather 27
 
 Chapter 3 Climates of India 45
 
-Theme B — Tapestry of the Past
+### Theme B — Tapestry of the Past
 
 Chapter 4 New Beginnings: Cities and States 67
 
@@ -325,21 +355,21 @@ Knowledge Traditions
 
 Chapter 8 How the Land Becomes Sacred 167
 
-Theme D — Governance and Democracy
+### Theme D — Governance and Democracy
 
 Chapter 9 From the Rulers to the Ruled: Types of Governments 185
 
 Chapter 10 The Constitution of India — An Introduction 209
 
-Theme E — Economic Life Around Us
+### Theme E — Economic Life Around Us
 
 Chapter 11 From Barter to Money 229
 
 Chapter 12 Understanding Markets 247
 
-Political Map of India 274
+### Political Map of India 274
 
-Physical Map of India 275
+### Physical Map of India 275
 
 Glossary 276
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch01.pdf"
 source_sha256: "9a098b768a04af04bc5508ea377d2a235f5f4768da0112cf1ce01a422ac584a7"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "446faeabe3949842eebb545c32e0f6ca23b95d0a7ac37213bf8a84c2bcd00bfb"
+body_fingerprint: "3cfb0e96a9151e71d16596bfb5c243a70cdf2062a9cbc926cfd1ed3f4c0a1641"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -28,7 +28,7 @@ Living in the world we do not always ask historical questions about what we see 
 
 Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.
 
-Activity
+### Activity
 
 > [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782
 
@@ -58,11 +58,13 @@ How do we periodise? In 1817, James Mill, a Scottish economist and political phi
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated social life. British rule, Mill felt, could civilise India. To do Activity Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated social life. British rule, Mill felt, could civilise India. To do Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
 
 > [caption] Fig. 3 – Warren Hastings became the first Governor-General in 1773
 
-> [table] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+> [caption] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+
+### Activity
 
 <!-- page 4 (pdf 4) -->
 
@@ -96,9 +98,7 @@ Letters and memos that moved from one branch of the administration to another in
 
 In the early years of the nineteenth century, these documents were carefully copied out and beautifully written by calligraphists – that is, by those who specialised in the art of beautiful writing. By the middle of the nineteenth century, with the spread of printing, multiple copies of these records were printed as proceedings of each government department.
 
-> [caption] Fig. 4 – The National Archives of India came up in the 1920s
-
-When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+> [caption] Fig. 4 – The National Archives of India came up in the 1920s When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
 
 > [table] Source 1
 
@@ -128,11 +128,11 @@ By the early nineteenth century, detailed surveys were being carried out to map 
 
 ### What official records do not tell
 
-From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
-> [table] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
+> [caption] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
 
 > [caption] Fig. 5 – A custard-apple plant, 1770s
 
@@ -142,7 +142,7 @@ From this vast corpus of records we can get to know a lot, but we must remember 
 
 > [caption] Fig. 7 – The rebels of 1857
 
-they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+> [caption] Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 For that we need to look elsewhere. When we begin to search for these other sources, we find them in plenty, though they are more difficult to get than official records. We have diaries of people, accounts of pilgrims and travellers, autobiographies of important personalities, and popular booklets that were sold in the local bazaars. As printing spread, newspapers were published and issues were debated in public. Leaders and reformers wrote to spread their ideas, poets and novelists wrote to express their feelings.
 
@@ -164,9 +164,9 @@ As the news spread to the other police stations, the men there also refused to t
 
 > [caption] Hindustan Times,
 
-> [table] 22 March, 1946
+> [caption] 22 March, 1946
 
-Activity
+### Activity
 
 Look at Sources 1 and 2. Do you find any differences in the nature of reporting? Explain what you observed.
 

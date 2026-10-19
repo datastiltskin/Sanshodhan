@@ -11,7 +11,10 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch05.pdf"
 source_sha256: "ecb1e72d777c376f6b7598c84314315016339271d80831b42621a835cd28bb73"
 pdf_pages: 14
 printed_pages: "52-65"
-body_fingerprint: "d1594b18c62741f1d304de8d2c59e358b45d60940b312b3fffa8c2e6d97640d6"
+body_fingerprint: "ff9ace2fd37a63605628812574ce42b0f919fd55cf1c99f6ce2badbc1d5436b2"
+overrides:
+  - "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+  - "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
 ---
 
 <!-- page 52 (pdf 1) -->
@@ -52,17 +55,7 @@ Upholding the Law and Enforcing Fundamental Rights: Every citizen of India can a
 
 <!-- page 56 (pdf 5) -->
 
-With the help of your teacher, fill in the blank spaces in the table below.
-
-Type of Dispute Example
-
-QDispute between centre and the state
-
-Dispute between two states
-
-Dispute between two citizens
-
-Laws that are in violation of the Constitution
+> [table] With the help of your teacher, fill in the blank spaces in the table below.
 
 ## What is an Independent Judiciary?
 
@@ -70,17 +63,27 @@ Imagine a situation in which a powerful politician has encroached on land belong
 
 The control that the politician holds over the judge does not allow for the judge to take an independent decision. This lack of independence would force the judge to make all judgments in favour of the politician. Although we often hear of rich and powerful people in India trying to influence the judicial process, the Indian Constitution protects against this kind of situation by providing for the independence of the judiciary.
 
-Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?
-
 One aspect of this independence is the ‘separation of powers’. This, as you read in Chapter 1, is a key feature of the Constitution. What this means here is that other branches of government – the legislature and the executive – cannot interfere in the work of the judiciary. The courts are not under the government and do not act on their behalf.
 
 For the above separation to work well, it is also crucial that all judges in the High Court as well as the Supreme Court are appointed with very little interference from these other branches of government. Once appointed to this office, it is also very difficult to remove a judge.
+
+> [caption] Type of Dispute Example
+
+> [caption] Dispute between centre and the state
+
+> [caption] Dispute between two states
+
+> [caption] Dispute between two citizens
+
+> [caption] Laws that are in violation of the Constitution
+
+> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?
 
 <!-- page 57 (pdf 6) -->
 
 It is the independence of the judiciary that allows the courts to play a central role in ensuring that there is no misuse of power by the legislature and the executive. It also plays a crucial role in protecting the Fundamental Rights of citizens because anyone can approach the courts if they believe that their rights have been violated.
 
-List two reasons why you believe an independent judiciary is essential to democracy.
+> [caption] List two reasons why you believe an independent judiciary is essential to democracy.
 
 ## What is the Structure of Courts in India?
 
@@ -92,7 +95,7 @@ The structure of the courts from the lower to the highest level is such that it 
 
 > [caption] High Court of Madras
 
-QAre these different levels of courts connected to each other? Yes, they are. In India, we have an integrated judicial system, meaning that the decisions made by higher courts are binding on the lower courts. Another way to understand this integration is through the appellate system that exists in India. This means that a person can appeal to a higher court if they believe that the judgment passed by the lower court is not just.
+Are these different levels of courts connected to each other? Yes, they are. In India, we have an integrated judicial system, meaning that the decisions made by higher courts are binding on the lower courts. Another way to understand this integration is through the appellate system that exists in India. This means that a person can appeal to a higher court if they believe that the judgment passed by the lower court is not just.
 
 Let us understand what we mean by the appellate system by tracking a case, State (Delhi Administration) vs Laxman Kumar and Others (1985), from the lower courts to the Supreme Court.
 
@@ -112,7 +115,7 @@ You may remember the photo essay on the women’s movement in your Class VII boo
 
 In 1985, the Supreme Court heard this appeal against the acquittal of Laxman and the two members of his family. The Supreme Court heard the arguments of the lawyers and reached a decision that was different from that of the High Court. They found Laxman and his mother guilty but acquitted the brother-in-law Subash because they did not have enough evidence against him. The Supreme Court decided to send the accused to prison for life.
 
-Write two sentences of what you understand about the appellate system from the given case.
+> [caption] Write two sentences of what you understand about the appellate system from the given case.
 
 > [caption] The subordinate court is more commonly known by many different names. These include the Trial Court or the Court of the District Judge, the Additional Sessions Judge, Chief Judicial Magistrate, Metropolitan Magistrate, Civil Judge. Alongside is a photograph of the District Court in Raipur, Chhattisgarh.
 
@@ -122,21 +125,23 @@ Write two sentences of what you understand about the appellate system from the g
 
 The above case of the dowry death falls within what is considered a ‘crime against society’ and is a violation of criminal law. In addition to criminal law, the legal system also deals with civil law cases. You read in Chapter 4 of how a new civil law was passed in 2006 to protect women against domestic violence. Look at the following table to understand some of the significant differences between criminal and civil law.
 
-No. Criminal Law Civil Law
+> [caption] No. Criminal Law Civil Law
 
-1. Deals with conduct or acts that the Deals with any harm or injury to rights law defines as offences. For example, of individuals. For example, disputes theft, harassing a woman to bring more relating to sale of land, purchase of dowry, murder. goods, rent matters, divorce cases.
+> [table] 1. Deals with conduct or acts that the Deals with any harm or injury to rights law defines as offences. For example, of individuals. For example, disputes theft, harassing a woman to bring more relating to sale of land, purchase of dowry, murder. goods, rent matters, divorce cases.
 
-2. It usually begins with the lodging of an A petition has to be filed before the First Information Report (FIR) with the relevant court by the affected party only.
+> [table] 2. It usually begins with the lodging of an A petition has to be filed before the First Information Report (FIR) with the relevant court by the affected party only.
 
-police who investigate the crime after In a rent matter, either the landlord or which a case is filed in the court. tenant can file a case.
+> [table] police who investigate the crime after In a rent matter, either the landlord or which a case is filed in the court. tenant can file a case.
 
-3. If found guilty, the accused can be sent The court gives the specific relief asked to jail and also fined. for. For instance, in a case between a landlord and a tenant, the court can order the flat to be vacated and pending rent to be paid.
+> [table] 3. If found guilty, the accused can be sent The court gives the specific relief asked to jail and also fined. for. For instance, in a case between a landlord and a tenant, the court can order the flat to be vacated and pending rent to be paid.
 
-Fill in the table given below based on what you have understood about criminal and civil law.
+> [table] Fill in the table given below based on what you have understood about criminal and civil law.
 
-Description of Violation Branch of Law Procedure to be Followed QA group of girls are persistently harassed by a group of boys while walking to school.
+> [table] Description of Violation Branch of Law Procedure to be Followed
 
-A tenant who is being forced to move out files a case in court against the landlord.
+> [caption] A group of girls are persistently harassed by a group of boys while walking to school.
+
+> [caption] A tenant who is being forced to move out files a case in court against the landlord.
 
 <!-- page 61 (pdf 10) -->
 
@@ -178,7 +183,7 @@ Another issue that affects the common person’s access to justice is the inordi
 
 In a speech made on 26 November 2014, the Chief Justice of India K.G. Balakrishnan noted that, “The Indian judiciary consists of one Supreme Court with 26 judges, 21 High Courts with a sanctioned strength of 725 judges (working strength of 597 as on 1 March 2007) and 14,477 Subordinate courts/judges (working strength of 11,767 as on 31 December 2006).”
 
-Number of Judges in India
+> [table] Number of Judges in India
 
 No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3
 
@@ -186,13 +191,13 @@ B High Courts 984 635 349
 
 C District and 19,421 15,039? Subordinate Courts
 
-* Data in A and B (as on 1 November 2014); C (as on 31 December 2013)
-
 However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens. The members of the Constituent Assembly had quite correctly envisioned a system of courts with an independent judiciary as a key feature of our democracy.
+
+> [caption] * Data in A and B (as on 1 November 2014); C (as on 31 December 2013)
 
 > [caption] The above photo shows the family members of some of the 43 Muslims of Hashimpura, Meerut, killed on 22 May 1987. These families have been seeking justice for over 20 years. Due to long delay in the commencement of the trial, the Supreme Court in September 2002 transferred the case from the State of Uttar Pradesh to Delhi. The trial is ongoing and 19 Provincial Armed Constabulary (PAC) men are facing criminal prosecution for alleged murder and other offences. By 2007, only three prosecution witnesses had been examined. (photo was taken at Press Club, Lucknow, 24 May 2007)
 
-> [note] Calculate the number of vacancies in the district and subordinate courts. Discuss the impact of the shortage of judges on the delivery of justice to the litigants.
+> [caption] Calculate the number of vacancies in the district and subordinate courts. Discuss the impact of the shortage of judges on the delivery of justice to the litigants.
 
 <!-- page 64 (pdf 13) -->
 
@@ -202,50 +207,50 @@ However, inspite of this there is no denying that the judiciary has played a cru
 
 1. You read that one of the main functions of the judiciary is ‘upholding the law and Enforcing Fundamental Rights’. Why do you think an independent judiciary is necessary to carry out this important function?
 
-2. Re-read the list of Fundamental Rights provided in Chapter 1. How do you think the Right to Constitutional Remedies connects to the idea of judicial review?
+> [table] 2. Re-read the list of Fundamental Rights provided in Chapter 1. How do you think the Right to Constitutional Remedies connects to the idea of judicial review?
 
-3. In the following illustration, fill in each tier with the judgments given by the various courts in the Sudha Goel case. Check your responses with others in class.
+> [table] 3. In the following illustration, fill in each tier with the judgments given by the various courts in the Sudha Goel case. Check your responses with others in class.
 
-Supreme Court
+> [table] Supreme Court
 
-High Court
+> [table] High Court
 
-Lower Court
+> [table] Lower Court
 
-4. Keeping the Sudha Goel case in mind, tick the sentences that are true and correct the ones that are false.
+> [table] 4. Keeping the Sudha Goel case in mind, tick the sentences that are true and correct the ones that are false.
 
-(a) The accused took the case to the High Court because they were unhappy with the decision of the Trial Court.
+> [table] (a) The accused took the case to the High Court because they were unhappy with the decision of the Trial Court.
 
-(b) They went to the High Court after the Supreme Court had given its decision.
+> [table] (b) They went to the High Court after the Supreme Court had given its decision.
 
-(c) If they do not like the Supreme Court verdict, the accused can go back again to the Trial Court.
+> [table] (c) If they do not like the Supreme Court verdict, the accused can go back again to the Trial Court.
 
-5. Why do you think the introduction of Public Interest Litigation (PIL) in the 1980s is a significant step in ensuring access to justice for all?
+> [table] 5. Why do you think the introduction of Public Interest Litigation (PIL) in the 1980s is a significant step in ensuring access to justice for all?
 
 6. Re-read excerpts from the judgment on the Olga Tellis vs Bombay Municipal Corporation case. Now write in your own words what the judges meant when they said that the Right to Livelihood was part of the Right to Life.
 
-7. Write a story around the theme, ‘Justice delayed is justice denied’.
+> [table] 7. Write a story around the theme, ‘Justice delayed is justice denied’.
 
-8. Make sentences with each of the glossary words given on the next page.
+> [table] 8. Make sentences with each of the glossary words given on the next page.
 
 <!-- page 65 (pdf 14) -->
 
-9. The following is a poster made by the Right to Food campaign.
+> [table] 9. The following is a poster made by the Right to Food campaign.
 
-Read this poster and list the duties of the government to uphold the Right to Food.
+> [table] Read this poster and list the duties of the government to uphold the Right to Food.
 
-How does the phrase “Hungry stomachs, overflowing godowns! We will not accept it!!” used in the poster relate to the photo essay on the Right to Food on page 61?
+> [table] How does the phrase “Hungry stomachs, overflowing godowns! We will not accept it!!” used in the poster relate to the photo essay on the Right to Food on page 61?
 
 <!-- section: glossary -->
 
 ## GLOSSARY
 
-Acquit: This refers to the court declaring that a person is not guilty of the crime which he/she was tried for by the court.
+> [table] Acquit: This refers to the court declaring that a person is not guilty of the crime which he/she was tried for by the court.
 
-To Appeal: In the context of this chapter this refers to a petition filed before a higher court to hear a case that has already been decided by a lower court.
+> [table] To Appeal: In the context of this chapter this refers to a petition filed before a higher court to hear a case that has already been decided by a lower court.
 
-Compensation: In the context of this chapter this refers to money given to make amends for an injury or a loss.
+> [table] Compensation: In the context of this chapter this refers to money given to make amends for an injury or a loss.
 
-Eviction: In the context of this chapter this refers to the removal of persons from land/ homes that they are currently living in.
+> [table] Eviction: In the context of this chapter this refers to the removal of persons from land/ homes that they are currently living in.
 
-Violation: In the context of this chapter it refers both to the act of breaking a law as well as to the breach or infringement of Fundamental Rights.
+> [table] Violation: In the context of this chapter it refers both to the act of breaking a law as well as to the breach or infringement of Fundamental Rights.

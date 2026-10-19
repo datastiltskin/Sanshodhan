@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch01.pdf"
 source_sha256: "99ec837d84ed04837bc03728950335d92ef99114dc648ceb05f475045ce1b11f"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "9ef4851b755213c4fb308956a457915f288b8b6e4aea7f81f9cefbe9740779f6"
+body_fingerprint: "2a8c342ed98ea4ffff190cdacc2bd75a95d0bd41a27c5d228e63132b4abe0551"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -65,7 +65,7 @@ You will notice some continuity in the sources used by historians for the study 
 
 There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes — a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result historians have to read different manuscript versions of the same text to guess what the author had originally written.
 
-> [note] Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
+Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
 
 > [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
 
@@ -91,7 +91,7 @@ Throughout this period there was a gradual clearing of forests and the extension
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
 
-> [note] Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
+Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
 
 > [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
@@ -139,7 +139,7 @@ One of the major developments was the emergence of the idea of bhakti — of a l
 
 > [note] Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
 
-> [note] Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
+Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
 
 <!-- page 12 (pdf 12) -->
 
@@ -163,7 +163,7 @@ During these thousand years the societies of the subcontinent were transformed o
 
 <!-- page 14 (pdf 14) -->
 
-Imagine
+### Imagine
 
 You are a historian. Choose one of the themes mentioned in this chapter, such as economic, social or political history, and discuss why you think it would be interesting to find out the history of that theme.
 
@@ -183,7 +183,7 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 (d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.
 
-> [note] 3. Fill in the blanks
+3. Fill in the blanks
 
 (a) Archives are places where ——————— are kept.
 
@@ -193,11 +193,23 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 4. List some of the technological changes associated with this period.
 
-> [note] KEYWORDS manuscript jati region periodisation
+<!-- section: glossary -->
+
+### Keywords
+
+- manuscript
+
+- jati
+
+- region
+
+- periodisation
 
 <!-- page 15 (pdf 15) -->
 
 5. What were some of the major religious developments during this period?
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

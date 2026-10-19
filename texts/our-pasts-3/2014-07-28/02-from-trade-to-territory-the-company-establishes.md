@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch02.pdf"
 source_sha256: "3c21d098b05cecad46dad7ed6e26d22c2e4aec65f1efabd3892221e21fbbc3a4"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "0104d2df46aedde3c7869cda042fd618d0bc7c6ac7ba7747fded7e45ea2beba6"
+body_fingerprint: "8052ed0ae2e64af21cab1d53e3afdfe17cde98a514db37523aa667eb7df42216"
+overrides:
+  - "glossary entry in the margin box on page 22 (between Dharmashastras and Musket), not a heading"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -135,7 +137,7 @@ At his hearing in front of a Committee in Parliament, Clive declared that he had
 
 Consider the situation in which the victory at Plassey had placed me! A great prince was dependent on my pleasure; an opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels! Mr Chairman, at this moment I stand astonished at my moderation.
 
- Activity
+### Activity
 
 Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
@@ -147,17 +149,9 @@ had to pay for the “subsidiary forces” that the Company was supposed to main
 
 ## What power did the Resident have?
 
-> [caption] Fig. 6 – Nawab Shujauddaulah of Awadh, with his sons and the British Resident, painted by Tilly Kettle (oil, 1772)
-
 This is what James Mill, the famous economist and political philosopher from Scotland, wrote about the residents appointed by the Company.
 
-> [caption] The treaties that followed the Battle of Buxar forced Nawab Shujauddaulah to give up much of his authority. Here, however, he poses in regal splendour, towering over the Resident.
-
 We place a resident, who really is king of the country, whatever injunctions of non-interference he may act under. As long as the prince acts in perfect subservience, and does what is agreeable to the residents, that is, to the British Government, things go on quietly; they are managed without the resident appearing much in the administration of affairs … but when anything of a different nature happens, the moment the prince takes a course which the British Government think wrong, then comes clashing and disturbance.
-
-Injunction – Instruction
-
-Subservience – Submissiveness
 
 > [table] James Mill (1832)
 
@@ -165,7 +159,17 @@ Subservience – Submissiveness
 
 The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
 
-Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785 Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close Fig. 7 – Tipu Sultan relationship with the French in India, and modernised his army with their help.
+Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785 Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close relationship with the French in India, and modernised his army with their help.
+
+> [caption] Fig. 6 – Nawab Shujauddaulah of Awadh, with his sons and the British Resident, painted by Tilly Kettle (oil, 1772)
+
+> [caption] The treaties that followed the Battle of Buxar forced Nawab Shujauddaulah to give up much of his authority. Here, however, he poses in regal splendour, towering over the Resident.
+
+> [note] Injunction – Instruction
+
+> [note] Subservience – Submissiveness
+
+> [caption] Fig. 7 – Tipu Sultan
 
 <!-- page 17 (pdf 9) -->
 
@@ -179,31 +183,35 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 > [caption] The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
-> [note] The legend of Tipu
+### The legend of Tipu
 
-> [note] Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally he was able to kill the tiger in the battle. After this he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
+Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally he was able to kill the tiger in the battle. After this he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
 
 <!-- page 18 (pdf 10) -->
 
-### War with the Marathas
-
-Activity
-
-From the late eighteenth century the Company also sought to curb and eventually destroy Maratha power. With their defeat in the Third Battle of Panipat in 1761, the Marathas’ dream of ruling from Delhi was shattered. They were divided into many states under different chiefs (sardars) belonging to dynasties such as Sindhia, Holkar, Gaikwad and Bhonsle. These chiefs were held together in a confederacy under a Peshwa (Principal Minister) who became its effective military and administrative head based in Pune. Mahadji Sindhia and Nana Phadnis were two famous Maratha soldiers and statesmen of the late eighteenth century.
+### Activity
 
 Imagine that you have come across two old newspapers reporting on the Battle of Seringapatam and the death of Tipu Sultan. One is a British paper and the other is from Mysore. Write the headline for each of the two newspapers.
 
-The Marathas were subdued in a series of wars. In the first war that ended in 1782 with the Treaty of Salbai, there was no clear victor. The Second Anglo-Maratha War (1803-05) was fought on different fronts, resulting in the British gaining Orissa and the territories north of the Yamuna river including Agra and Delhi. Finally, the Third Anglo-Maratha War of 1817-19 crushed Maratha power. The Peshwa was removed and sent away to Bithur near Kanpur with a pension. The Company now had complete control over the territories south of the Vindhyas.
-
 Confederacy – Alliance
+
+> [caption] Fig. 10 – Lord Hastings
+
+### War with the Marathas
+
+From the late eighteenth century the Company also sought to curb and eventually destroy Maratha power. With their defeat in the Third Battle of Panipat in 1761, the Marathas’ dream of ruling from Delhi was shattered. They were divided into many states under different chiefs (sardars) belonging to dynasties such as Sindhia, Holkar, Gaikwad and Bhonsle. These chiefs were held together in a confederacy under a Peshwa (Principal Minister) who became its effective military and administrative head based in Pune. Mahadji Sindhia and Nana Phadnis were two famous Maratha soldiers and statesmen of the late eighteenth century.
+
+The Marathas were subdued in a series of wars. In the first war that ended in 1782 with the Treaty of Salbai, there was no clear victor. The Second Anglo-Maratha War (1803-05) was fought on different fronts, resulting in the British gaining Orissa and the territories north of the Yamuna river including Agra and Delhi. Finally, the Third Anglo-Maratha War of 1817-19 crushed Maratha power. The Peshwa was removed and sent away to Bithur near Kanpur with a pension. The Company now had complete control over the territories south of the Vindhyas.
 
 ### The claim to paramountcy
 
 It is clear from the above that from the early nineteenth century the Company pursued an aggressive policy of territorial expansion. Under Lord Hastings (Governor-General from 1813 to 1823) a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states. In order to protect its interests it was justified in annexing or threatening to annex any Indian kingdom. This view continued to guide later British policies as well.
 
-This process, however, did not go unchallenged. For example, when the British tried to annex the small state of Kitoor (in Karnataka today), Rani Channamma took to arms and led an anti-British resistance movement. She was arrested in 1824 and died in prison in 1829. But Rayanna, a poor chowkidar of Sangoli in Kitoor, carried on the resistance. With popular support he destroyed many British camps and records. He was caught and hanged by the British in 1830. You will read more about several cases of resistance later in the book. Fig. 10 – Lord Hastings In the late 1830s the East India Company became worried about Russia. It imagined that Russia might expand across Asia and enter India from the north-west. Driven by this fear, the British now wanted to secure their control over the north-west. They fought a prolonged war with Afghanistan between 1838 and 1842 and established indirect Company rule there. Sind was taken over in 1843. Next in line was Punjab. But the presence of Maharaja Ranjit Singh held back the Company. After his death in 1839, two prolonged wars were fought with the Sikh kingdom. Ultimately, in 1849, Punjab was annexed.
+This process, however, did not go unchallenged. For example, when the British tried to annex the small state of Kitoor (in Karnataka today), Rani Channamma took to arms and led an anti-British resistance movement. She was arrested in 1824 and died in prison in 1829. But Rayanna, a poor chowkidar of Sangoli in Kitoor, carried on the resistance. With popular support he destroyed many British camps and records. He was caught and hanged by the British in 1830. You will read more about several cases of resistance later in the book.
 
 <!-- page 19 (pdf 11) -->
+
+In the late 1830s the East India Company became worried about Russia. It imagined that Russia might expand across Asia and enter India from the north-west. Driven by this fear, the British now wanted to secure their control over the north-west. They fought a prolonged war with Afghanistan between 1838 and 1842 and established indirect Company rule there. Sind was taken over in 1843. Next in line was Punjab. But the presence of Maharaja Ranjit Singh held back the Company. After his death in 1839, two prolonged wars were fought with the Sikh kingdom. Ultimately, in 1849, Punjab was annexed.
 
 ### The Doctrine of Lapse
 
@@ -221,6 +229,8 @@ Activity Imagine that you are a nawab’s nephew and have been brought up thinki
 
 > [caption] Fig. 11 a, b, c – Expansion of British territorial power in India Look at these maps along with a present-day political map of India. In each of these maps, try and identify the different parts of India that were not under British rule.
 
+> [caption] Fig. 11 c
+
 <!-- page 21 (pdf 13) -->
 
 ## Setting up a New Administration
@@ -233,7 +243,7 @@ From 1772 a new system of justice was established. Each district was to have two
 
 > [caption] When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
 
-Qazi – A judge
+### Qazi – A judge
 
 Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons
 
@@ -249,7 +259,9 @@ Here is a passage from Edmund Burke’s eloquent opening speech during the impea
 
 I impeach him in the name of the people of India, whose rights he has trodden under his foot and whose country he has turned into a desert. Lastly in the name of human nature itself, in the name of both the sexes, in the name of every age, in the name of every rank, I impeach the common enemy and oppressor of all.
 
-Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards Sawar – Men on horses Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
+Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
+
+Sawar – Men on horses
 
 The principal figure in an Indian district was the Collector. As the title suggests, his main job was to collect revenue and taxes and maintain law and order in his district with the help of judges, police officers and darogas. His office – the Collectorate – became the new centre of power and patronage that steadily replaced previous holders of authority.
 
@@ -279,9 +291,9 @@ By 1857 the Company came to exercise direct rule over about 63 per cent of the t
 
 <!-- page 24 (pdf 16) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-Slave Trade in South Africa
+### Slave Trade in South Africa
 
 The Dutch trading ships reached southern Africa in the seventeenth century. Soon a slave trade began. People were captured, chained, and sold in slave markets. When slavery ended in 1834 there were 36,774 privately owned slaves at the Cape – located at the southern most tip of Africa.
 
@@ -301,9 +313,11 @@ You are living in England in the late eighteenth or early nineteenth century. Ho
 
 1. Match the following:
 
-Diwani Tipu Sultan
+### Diwani Tipu Sultan
 
-“Tiger of Mysore” right to collect land revenue faujdari adalat Sepoy Rani Channamma criminal court sipahi led an anti-British movement in Kitoor
+“Tiger of Mysore” right to collect land revenue faujdari adalat Sepoy sipahi led an anti-British movement in Kitoor
+
+### Rani Channamma criminal court
 
 2. Fill in the blanks:
 

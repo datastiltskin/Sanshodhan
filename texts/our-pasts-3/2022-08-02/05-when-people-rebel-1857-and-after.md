@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch05.pdf"
 source_sha256: "18be5e96ad3cd34487062b6b91a9be4438a230f82f99414b16b5ff853affec24"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "9704e687382e8baec4ad8a5b2609be78e55ab5e28e14358dbac1fd06cd6e79b1"
+body_fingerprint: "7c4b8220dc1aa92b23f193123addfe5609b052f20434de488fdebadd0e636cd2"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -77,7 +77,11 @@ Another account we have from those days are the memoirs of Subedar Sitaram Pande
 
 It is my humble opinion that this seizing of Oudh filled the minds of the Sepoys with distrust and led them to plot against the Government. Agents of the Nawab of Oudh and also of the King of Delhi were sent all over India to discover the temper of the army. They worked upon the feelings of sepoys, telling them how treacherously the foreigners had behaved towards their king. They invented ten thousand lies and promises to persuade the soldiers to mutiny and turn against their masters, the English, with the object of restoring the Emperor of Delhi to the throne. They maintained that this was wholly within the army’s powers if the soldiers would only act together and do as they were advised.
 
-> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings Source 2
+> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings
+
+> [table] Source 2 contd.
+
+> [caption] Source 2
 
 <!-- page 55 (pdf 5) -->
 
@@ -95,27 +99,27 @@ Though struggles between rulers and the ruled are not unusual, sometimes such st
 
 Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
 
-Activity 
+### Activity
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
-Mutiny – When soldiers as a group disobey their officers in the army Firangis – Foreigners The term reflects an attitude of contempt.
+Mutiny – When soldiers as a group disobey their officers in the army On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
 
 <!-- page 56 (pdf 6) -->
 
-> [caption] Fig. 4 – The battle in the cavalry lines
-
-> [table] On the evening of 3 July 1857, over 3,000 rebels came from Bareilly, crossed the river Jamuna, entered Delhi, and attacked the British cavalry posts. The battle continued all through the night.
-
-> [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
-
 ### From Meerut to Delhi
-
-On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
 
 The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
 
 The sepoys of Meerut rode all night of 10 May to reach Delhi in the early hours next morning. As news of their arrival spread, the regiments stationed in Delhi also rose up in rebellion. Again british officers were killed, arms and ammunition seized, buildings set on fire. Triumphant soldiers gathered around the walls of the Red Fort where the Badshah lived, demanding to meet him. The emperor was not quite willing to challenge the mighty British power but the soldiers persisted. They forced their way into the palace and proclaimed Bahadur Shah Zafar as their leader.
+
+> [caption] Fig. 4 – The battle in the cavalry lines
+
+> [caption] On the evening of 3 July 1857, over 3,000 rebels came from Bareilly, crossed the river Jamuna, entered Delhi, and attacked the British cavalry posts. The battle continued all through the night.
+
+> [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
+
+Firangis – Foreigners The term reflects an attitude of contempt.
 
 <!-- page 57 (pdf 7) -->
 
@@ -225,9 +229,9 @@ However, outside Khurda it was sustained by Buxi Jagabandhu with the help of sup
 
 In sum, it was the first such popular anti-British armed uprising in Odisha, which had far reaching effect on the future of British administration in that part of the country. To merely call it a ‘Paik Rebellion’ will thus be an understatement.
 
-ELSEWHERE
+### ELSEWHERE
 
-For a Heavenly Kingdom of Great Peace
+### For a Heavenly Kingdom of Great Peace
 
 While the revolt was spreading in India in 1857, a massive popular uprising was raging in the southern parts of China. It had started in 1850 and could be suppressed only by the mid-1860s. Thousands of labouring, poor people were led by Hong Xiuquan to fight for the establishment of the Heavenly Kingdom of Great Peace. This was known as the Taiping Rebellion.
 
@@ -245,9 +249,7 @@ The British and French armed forces operating in China helped the emperor of the
 
 Imagine you are a British officer in Awadh during the rebellion. What would you do to keep your plans of fighting the rebels a top secret.
 
-> [caption] Fig. 17 – Ruins of the Residency in Lucknow
-
-In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
+> [caption] Fig. 17 – Ruins of the Residency in Lucknow In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
 
 ## Let’s recall
 

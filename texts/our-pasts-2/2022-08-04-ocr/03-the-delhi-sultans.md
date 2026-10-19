@@ -10,9 +10,11 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "3df0d058f68efeb8888f1b9da7fc919560627c03f871f82692714f082523510a"
+body_fingerprint: "052b10ed507e7cb45f037132246ff4a60ec1105964a95ce6608d98eee4b8ba60"
 ocr: true
 ocr_confidence: 92.1
+overrides:
+  - "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -47,7 +49,7 @@ Qutbuddin Aybak 1206-1210 Shamsuddin Iltutmish 1210-1236 Raziyya 1236-1240 Ghiya
 
 TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388
 
-Alai Darwaza
+### Alai Darwaza
 
 > [table] SAYYID DYNASTY 1414-1451
 
@@ -63,7 +65,7 @@ Alai Darwaza
 
 Although inscriptions, coins and architecture provide a lot of information, especially valuable are “histories”, tarilch (singular) / tawarilch (plural), written in Persian, the language of administration under the Delhi Sultans.
 
-> [caption] Fig.1
+> [table] Fig.1
 
 > [caption] Four stages in the making ofa manuscript:
 
@@ -79,9 +81,11 @@ The circle of justice
 
 ## aire 2 Gi fein 2 te A king cannot survive without soldiers. And soldiers cannot
 
-an appropriate five without salaries. Salaries come from the revenue collected term to describe from peasants. But peasants can pay revenue only when they the relationship are prosperous and happy. This happens when the king d his subjects? promotes justice and honest governance. and his subjects?
+an appropriate five without salaries. Salaries come from the revenue collected term to describe from peasants. But peasants can pay revenue only when they the relationship are prosperous and happy. This happens when the king
 
-> [note] between the king
+between the king
+
+d his subjects? promotes justice and honest governance. and his subjects?
 
 <!-- page 33 (pdf 4) -->
 
@@ -99,7 +103,7 @@ On her inscriptions and coins Raziyya mentioned that she was the daughter of Sul
 
 > Express Minhaj’s ideas in your own words. Do you »_) think Raziyya shared these ideas? Why do you think it was so difficult for a woman to be a ruler?
 
-> [note] Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families:
+Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families:
 
 > [caption] Gender distinctions
 
@@ -113,7 +117,9 @@ On her inscriptions and coins Raziyya mentioned that she was the daughter of Sul
 
 > [caption] S e f Sambhamanak @ Mandor Xo
 
-/ \ Ajmere oe ep aie Na ° 4 ro] f Gwalior. * e, / Ranthambhor . Ip Dewal Benaras @ LAKHNAUTI oF o \ oF , his S yy r A onl - ARABIAN Cis Y OF SEA JS BENGAL In the early thirteenth century the control of the Delhi Sultans rarely went beyond heavily fortified towns occupied by garrisons. The Sultans seldom controlled the hinterland of the cities and were therefore dependent upon trade, tribute or plunder for supplies.
+/ \ Ajmere oe ep aie Na ° 4 ro] f Gwalior. * e, / Ranthambhor . Ip Dewal Benaras @ LAKHNAUTI oF o \ oF , his S yy r A onl - ARABIAN Cis Y OF SEA JS BENGAL Muslims came from a Fig-5 ; iety. of Mosque of Jamali backgrounds. late 1520s.
+
+In the early thirteenth century the control of the Delhi Sultans rarely went beyond heavily fortified towns occupied by garrisons. The Sultans seldom controlled the hinterland of the cities and were therefore dependent upon trade, tribute or plunder for supplies.
 
 Controlling garrison towns in distant Bengal and Sind from Delhi was extremely difficult. Rebellion, war, even bad weather could snap fragile communication routes. Delhi’s authority was also challenged by Mongol invasions from Afghanistan and by governors who rebelled at any sign of the Sultan’s weakness. The Sultanate barely survived these challenges. Its consolidation occurred during the reign of Ghiyasuddin Balban and further expansion under Alauddin Khalji and Muhammad Tughluq.
 
@@ -125,7 +131,7 @@ The first set of campaigns along the “internal frontier” of the Sultanate ai
 
 > [caption] Hinterland
 
-> [note] The lands adjacent to a city or port that supply it with goods and services.
+The lands adjacent to a city or port that supply it with goods and services.
 
 > [caption] Garrison town A fortified settlement, with soldiers.
 
@@ -137,7 +143,7 @@ The second expansion occurred along the “external frontier” of the Sultanate
 
 By the end of Muhammad Tughluq’s reign, 150 years after somewhat humble beginnings, the armies of the Delhi Sultanate had marched across a large part of the subcontinent. They had defeated rival armies and seized cities. The Sultanate collected taxes from the peasantry and dispensed justice in its realm. But how complete and effective was its control over such a vast territory?
 
-PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \ fica —_ Sontapath sf i 1305 ) afloat a A ~ \ = i r xP / A / Y vy, 4 f ¥ %.. \Devagirie x a > ‘ i eh NZ re s\ \ 3 \ “4 A \ pe = — A } \ 3 ss f / Saw \ 2 M od \). VS ; Dwarasamydrae & | “=——_ Campaigns / \ % } D, & ; s “Taig 7) LAKSHADWEEP ‘ae Z e ANDAMAN & NICOBAR ISLANDS ane J , lAN™* OCEAN o \ \y b \ L The Masjid A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-ijami or jama masjid) Muslims read their prayers (namaz) together, Members of the congregation choose the most respected, learned male as their leader (imam)
+PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \ fica —_ Sontapath sf i 1305 ) afloat a A ~ \ = i r xP / A / Y vy, 4 f ¥ %.. \Devagirie x a > ‘ i eh NZ re s\ \ 3 \ “4 A \ pe = — A } \ 3 ss f / Saw \ 2 M od \). VS ; Dwarasamydrae & | “=——_ Campaigns / \ % } D, & ; s “Taig 7) LAKSHADWEEP ‘ae Z e ANDAMAN & NICOBAR ISLANDS ane J , lAN™* OCEAN o \ \y b \ L
 
 > [caption] Map 3
 
@@ -145,15 +151,17 @@ PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = 
 
 <!-- page 36 (pdf 7) -->
 
-> [table] Fig. 2
-
-> [table] Fig. 3
+The Masjid A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-ijami or jama masjid) Muslims read their prayers (namaz) together, Members of the congregation choose the most respected, learned male as their leader (imam)
 
 for the rituals of prayer.,He also delivers the sermon (khutba) during the Friday prayer.
 
 During prayer, Muslims stand facing Mecca. In India this is to the west. This is called the qibla.
 
-> [caption] Quuwwat al-Islam mosque and minaret, built during the last decade of the twelfth century. This was the congregational mosque of the first city built by the Delhi Sultans, described in the chronicles as Dehli-i-Kuhna (the old city). The mosque was enlarged by Iltutmish and Alauddin Khalji. The minar was built by two Sultans: Qutbuddin Aybak and Iltutmish.
+> [caption] Fig. 2
+
+> [caption] Quwwat al-Islam mosque and minaret, built during the last decade of the twelfth century. This was the congregational mosque of the first city built by the Delhi Sultans, described in the chronicles as Dehli-i-Kuhna (the old city). The mosque was enlarged by Iltutmish and Alauddin Khalji. The minar was built by two Sultans: Qutbuddin Aybak and Iltutmish.
+
+> [caption] Fig. 3
 
 > [caption] Begumpuri mosque, built in the reign of Muhammad Tughluq, was the main mosque of Jahanpanah, the “Sanctuary of the World”, his new capital in Delhi. See Map 1.
 
@@ -161,9 +169,13 @@ During prayer, Muslims stand facing Mecca. In India this is to the west. This is
 
 > [caption] The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped Moth ki Masjid, built — in the reign of Sikandar Lodi by his minister.
 
-> [table] to create the sense of a community of believers
+> [caption] to create the sense of a community of believers
 
-who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a Fig-5 ; iety. of Mosque of Jamali variety O Kamali, built in the backgrounds. late 1520s.
+who shared a belief
+
+system and a code of conduct. It was necessary to reinforce this idea of a community because
+
+variety O Kamali, built in the
 
 ““ Compare Figures 2, 3, 4 and 5. What similarities and differences do you notice amongst the mosques? The mosques in Figures 3, 4.and 5 show an evolution in architectural tradition that culminates in Shah Jahan’s mosque in Delhi (see Fig. 7 in Chapter 5).
 
@@ -185,7 +197,7 @@ The Khaljis and Tughluqs continued to use bandagan and also raised people of hum
 
 Slaves and clients were loyal to their masters and patrons, but not to their heirs. New Sultans had their own servants. As a result the accession of a new monarch often saw conflict between the old and the new nobility. The patronage of these humble people by the Delhi Sultans also shocked many elites and the authors of Persian tawarikh criticised the Delhi Sultans for appointing the “low and base-born” to high offices.
 
-Officials of Sultan Muhammad Tughluq
+### Officials of Sultan Muhammad Tughluq
 
 Sultan Muhammad Tughlug appointed Aziz Khummar, awine distiller, Firuz Hajjam, a barber, Manka Tabbakh, a cook, and two gardeners, Ladha and Pira, to high administrative posts. Ziyauddin Barani, a mid-fourteenth-century chronicler, reported their appointments as a sign of the Sultan’s loss of political judgement and his incapacity to rule.
 
@@ -247,13 +259,13 @@ Some of the states established in this period were small but powerful and extrem
 
 <!-- page 43 (pdf 14) -->
 
-The “Three Orders”, the “Peace of God”, Knights and the Crusades The idea of the “Three Orders” was first formulated in France in the early eleventh century. It divided society into three classes: those who prayed, those who fought, and those who tilled the land. This division of society into “Three Orders” was supported by the Church to consolidate its dominant role in society. This helped the emergence of a new warrior group called Knights.
+The “Three Orders”, the “Peace of God”, Knights and the Crusades You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
+
+The idea of the “Three Orders” was first formulated in France in the early eleventh century. It divided society into three classes: those who prayed, those who fought, and those who tilled the land. This division of society into “Three Orders” was supported by the Church to consolidate its dominant role in society. This helped the emergence of a new warrior group called Knights.
 
 The Church patronised this group and used them to propagate their idea of “Peace of God”. The attempt was to direct warriors away from conflict amongst themselves and send them instead on a campaign against the Muslims who had captured the city of Jerusalem. This led to a series of campaigns called the Crusades. These campaigns in the service of God and the Church completely altered the status of Knights. Originally, these Knights did not belong to the class of nobles. But by the end of the eleventh century in France, and a century later in Germany, the humble origins of these warriors were forgotten. By the twelfth century, nobles also wanted to be known as Knights.
 
-Imagine
-
-You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
+### Imagine
 
 <!-- section: exercises -->
 
@@ -269,7 +281,7 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 
 <!-- page 44 (pdf 15) -->
 
-KEYWORDS iqta tarikh garrison Mongols gender kharaj According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
+According to the “circle of justice”, why was it important for military commanders to keep the interests of the peasantry in mind?
 
 > [caption] 5.
 
@@ -290,3 +302,11 @@ Why were the Delhi Sultans interested in cutting down forests? Does deforestatio
 Find out whether there are any buildings built by the Delhi Sultans in your area. Are there any other buildings in your area that were built between the twelfth and fifteenth centuries? Describe some of these buildings, and draw sketches of them.
 
 > [caption] 12.
+
+<!-- section: glossary -->
+
+### Keywords
+
+> [note] iqta tarikh garrison Mongols gender
+
+- kharaj

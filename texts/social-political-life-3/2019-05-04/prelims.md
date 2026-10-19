@@ -12,7 +12,9 @@ source_pdf: "pdfs/social-political-life-3/2019-05-04/prelims.pdf"
 
 ## Textbook for Class VIII
 
-> [caption] TRS Raq fap srqVen she tet sta 3ifer F3tatoT OF EDUCATIONAL RESEARCH AND TRAI NATIONAL COUNCI
+> [caption] TROG L OF EDUCATIONAL RESEARCH AND TRAIN
+
+> [caption] NATIONAL COUNCIL
 
 <!-- pdf page 2 -->
 
@@ -24,7 +26,7 @@ source_pdf: "pdfs/social-political-life-3/2019-05-04/prelims.pdf"
 
 > [caption] © National Council of Educational Research and Training, 2008
 
-> [table] ` 60.00
+> [table] ₹ 60.00
 
 > [caption] Cover Photo Sheeba Chachi
 

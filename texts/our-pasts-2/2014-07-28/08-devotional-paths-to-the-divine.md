@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch08.pdf"
 source_sha256: "48b34591e223542e72a3f32d6a2fd4ca784cff6378a8626ebd878939c9df3a71"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "8741ca4e9220bb47c8ee68a62a4254fa25bd21ae661ac36a3a877baa0a538476"
+body_fingerprint: "9da5e6fc93bf94982ba126463a79b0b11ee9c0bb7f19eacc006ec257e904d3c1"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -39,7 +39,7 @@ The seventh to ninth centuries saw the emergence of new religious movements, led
 
 <!-- page 106 (pdf 3) -->
 
-Nayanars and Alvars
+### Nayanars and Alvars
 
 > [note] There were 63 Nayanars, who belonged to different caste backgrounds such as potters, “untouchable” workers, peasants, hunters, soldiers, Brahmanas and chiefs. The best known among them were Appar, Sambandar, Sundarar and Manikkavasagar. There are two sets of compilations of their songs – Tevaram and Tiruvacakam.
 
@@ -47,7 +47,7 @@ Nayanars and Alvars
 
 Between the tenth and twelfth centuries the Chola and Pandya kings built elaborate temples around many of the shrines visited by the saint-poets, strengthening the links between the bhakti tradition and temple worship. This was also the time when their poems were compiled. Besides, hagiographies or religious biographies of the Alvars and Nayanars were also composed. Today we use these texts as sources for writing histories of the bhakti tradition.
 
-The devotee and the Lord
+### The devotee and the Lord
 
 > [note] This is a composition of Manikkavasagar:
 
@@ -75,7 +75,7 @@ We noted earlier the connection between the Tamil bhakti movement and temple wor
 
 <!-- page 108 (pdf 5) -->
 
-Virashaiva vachanas
+### Virashaiva vachanas
 
 > [note] These are vachanas or sayings attributed to Basavanna:
 
@@ -95,7 +95,7 @@ These saint-poets rejected all forms of ritualism, outward display of piety and 
 
 <!-- page 109 (pdf 6) -->
 
-Questioning the social order
+### Questioning the social order
 
 > [note] This is an abhang (Marathi devotional hymn) of Sant Tukaram:
 
@@ -139,11 +139,11 @@ Often people attributed Sufi masters with miraculous powers that could relieve o
 
 > [caption] Fig. 5 A page from a manuscript of the Quran, Deccan, late fifteenth century.
 
-> [note] Hospice House of rest for travellers, especially one kept by a religious order.
+Hospice House of rest for travellers, especially one kept by a religious order.
 
 <!-- page 113 (pdf 10) -->
 
-Finding the Lord
+### Finding the Lord
 
 > [note] Jalaluddin Rumi was a great thirteenth-century Sufi poet from Iran who wrote in Persian. Here is an excerpt from his work:
 
@@ -167,7 +167,7 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 A unique feature of most of the saints is that their works were composed in regional languages and could be sung. They became immensely popular and were handed down orally from generation to generation. Usually the poorest, most deprived communities and women transmitted these songs, often adding their own experiences. Thus the songs as we have them today are as much a creation of the saints as of generations of people who sang them. They have become a part of our living popular culture.
 
-Beyond the Rana’s palace
+### Beyond the Rana’s palace
 
 > [note] This is a song composed by Mirabai:
 
@@ -185,7 +185,7 @@ Rana you gave me a cup of poison. I drank it laughing. Rana I will not be destro
 
 Kabir, who probably lived in the fifteenth-sixteenth centuries, was one of the most influential saints. He was brought up in a family of Muslim julahas or weavers settled in or near the city of Benares (Varanasi). We have little reliable information about his life. We get to know of his ideas from a vast collection of verses called sakhis and pads said to have been composed by him and sung by wandering bhajan singers. Some of these were later collected and preserved in the Guru Granth Sahib, Panch Vani and Bijak.
 
-In search of the True Lord
+### In search of the True Lord
 
 > [note] Here is a composition of Kabir:
 
@@ -235,7 +235,7 @@ Martin Luther and the Reformation
 
 <!-- page 120 (pdf 17) -->
 
-Imagine
+### Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
@@ -249,9 +249,13 @@ The Buddha namghar
 
 Shankaradeva worship of Vishnu
 
-Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worship of Shiva
+Nizamuddin Auliya questioned social differences
 
-> [note] 2. Fill in the blanks:
+Nayanars Sufi saint
+
+Alvars worship of Shiva
+
+2. Fill in the blanks:
 
 (a) Shankara was an advocate of ————-.
 
@@ -267,11 +271,15 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [note] Virashaivism bhakti
+- Virashaivism
 
-> [note] Sufi khanqah
+- bhakti
+
+- Sufi
+
+- khanqah
 
 <!-- page 121 (pdf 18) -->
 

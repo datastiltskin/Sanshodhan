@@ -2,6 +2,8 @@
 book: "our-pasts-3"
 edition: "2022-08-02"
 source_pdf: "pdfs/our-pasts-3/2022-08-02/prelims.pdf"
+overrides:
+  - "the cover (pdf page 1) prints this as one line, the font made the extractor split it into three fragments"
 ---
 
 <!-- pdf page 1 -->
@@ -14,7 +16,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/prelims.pdf"
 
 ## for Class VIII
 
-Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Berry Art Press, A-9, Mayapuri Industrial Area, Phase-I, New Delhi -110 064
+> [table] NATIONAL COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING
 
 <!-- pdf page 2 -->
 
@@ -40,7 +42,7 @@ Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI Pu
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [table] Publication Team
 
@@ -49,6 +51,8 @@ Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI Pu
 > [caption] Printed on 80 GSM paper with NCERT watermark
 
 > [table] Production Officer: A. M. Vinod Kumar
+
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Berry Art Press, A-9, Mayapuri Industrial Area, Phase-I, New Delhi -110 064
 
 > [caption] Cover and Layout
 
@@ -102,9 +106,9 @@ FOR EXTENDED LEARNING
 
 You may access the following chapters through QR Code.
 
- Colonialism and the City
+Colonialism and the City
 
- The Changing World of Visual Arts.
+The Changing World of Visual Arts.
 
 These chapters were printed in the previous textbooks, the same are being provided in digital mode for extended learning.
 
@@ -112,11 +116,11 @@ These chapters were printed in the previous textbooks, the same are being provid
 
 ### CREDITS
 
-Individuals
+### Individuals
 
 Sunil Janah (Ch. 4, Figs. 4, 8, 9, 10)
 
-Institutions
+### Institutions
 
 The Alkazi Foundation for the Arts (Ch. 5, Fig. 11) Victoria Memorial Museum (Ch. 5, Fig. 1)
 
@@ -160,7 +164,7 @@ Tiziana and Gianni Baldizzone, Hidden Tribes of India
 
 ### CREDITS
 
-Institutions
+### Institutions
 
 The Osian Archive and Library Collection, Mumbai (Ch. 6, Figs. 1, 8)
 
@@ -168,11 +172,11 @@ Nehru Memorial Museum and Library, New Delhi (Ch. 8, Figs. 4, 5, 7, 13; Ch. 10, 
 
 Photo Division, Government of India, New Delhi (Ch. 9, Fig. 20; Ch. 10, Figs. 3, 10)
 
-Journals
+### Journals
 
 The Illustrated London News (Ch. 8, Fig. 15)
 
-Books
+### Books
 
 Aman Nath and Jay Vithalani, Horizons: The Tata-India Century, 1904-2004 (Ch. 6, Figs. 10, 14, 15)
 

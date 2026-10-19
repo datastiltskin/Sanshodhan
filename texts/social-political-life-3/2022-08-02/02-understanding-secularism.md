@@ -4,14 +4,13 @@ book_title: "Social and Political Life III"
 edition: "2022-08-02"
 snapshots:
   - "2022-08-02"
-  - "2023-02-10-partial"
 chapter: 2
 title: "Understanding Secularism"
 source_pdf: "pdfs/social-political-life-3/2022-08-02/ch02.pdf"
 source_sha256: "dbd7ee1cbf9daf181396ede80d43374c158a75b40a2ea88628ca5495926bf55a"
 pdf_pages: 10
 printed_pages: "18-27"
-body_fingerprint: "471adc927f0bc7a8d58c6c5e1a99742327bbc768a153bc99551f3201a4674791"
+body_fingerprint: "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0"
 ---
 
 <!-- page 18 (pdf 1) -->
@@ -52,11 +51,11 @@ Another reason that it is important to separate religion from the State in democ
 
 The Indian Constitution mandates that the Indian State be secular. According to the Constitution, only a secular State can realise its objectives to ensure the following:
 
-1.that one religious community does not dominate another;
+1. that one religious community does not dominate another;
 
-2.that some members do not dominate other members of the same religious community;
+2. that some members do not dominate other members of the same religious community;
 
-3.that the State does not enforce any particular religion nor take away the religious freedom of individuals.
+3. that the State does not enforce any particular religion nor take away the religious freedom of individuals.
 
 The Indian State works in various ways to prevent the above domination. First, it uses a strategy of distancing itself from religion. The Indian State is not ruled by a religious group and nor does it support any one religion. In India, government spaces like law courts, police stations, government schools and offices are not supposed to display or promote any one religion.
 

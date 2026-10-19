@@ -11,16 +11,18 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch04.pdf"
 source_sha256: "c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "02ea23db449c7ab2822261a6984aa18da7d30fabc480a25a2452f803e8424801"
+body_fingerprint: "69467e7a97c61860f36c08cbae8f8d45258dc5a828901707010467d2a2e5a47c"
+overrides:
+  - "paragraph opening read as a heading and words out of order on page 40, the page reads 'succeeded to the throne of Ferghana in 1494 when he was only 12 years old.'"
+  - "apostrophe lost on page 45"
+  - "stray colon after an italic word on page 47"
 ---
 
 <!-- page 39 (pdf 1) -->
 
 # THE MUGHALS (16th TO 17th CENTURY)
 
-## R extremely difficult task for any ruler to accomplish in
-
-uling as large a territory as the Indian subcontinent with such a diversity of people and cultures was an the Middle Ages. Quite in contrast to their predecessors, the Mughals created an empire and accomplished what had hitherto seemed possible for only short periods of time. From the latter half of the sixteenth century, they expanded their kingdom from Agra and Delhi, until in the seventeenth century they controlled nearly all of the subcontinent. They imposed structures of administration and ideas of governance that outlasted their rule, leaving a political legacy that succeeding rulers of the subcontinent could not ignore. Today the Prime Minister of India addresses the nation on Independence Day from the ramparts of the Red Fort in Delhi, the residence of the Mughal emperors.
+Ruling as large a territory as the Indian subcontinent with such a diversity of people and cultures was an extremely difficult task for any ruler to accomplish in the Middle Ages. Quite in contrast to their predecessors, the Mughals created an empire and accomplished what had hitherto seemed possible for only short periods of time. From the latter half of the sixteenth century, they expanded their kingdom from Agra and Delhi, until in the seventeenth century they controlled nearly all of the subcontinent. They imposed structures of administration and ideas of governance that outlasted their rule, leaving a political legacy that succeeding rulers of the subcontinent could not ignore. Today the Prime Minister of India addresses the nation on Independence Day from the ramparts of the Red Fort in Delhi, the residence of the Mughal emperors.
 
 > [caption] Fig. 1 The Red Fort.
 
@@ -34,9 +36,7 @@ They celebrated their genealogy pictorially, each ruler getting a picture made o
 
 ## Mughal Military Campaigns
 
-## the first Mughal emperor Babur, succeeded to the throne of Ferghana in 1494 when
-
-he was only 12 years old. He was forced to leave his ancestral throne due to the invasion of another Mongol group, the Uzbegs. After years of wandering, he seized Kabul in 1504. In 1526 he defeated the Sultan of Delhi, Ibrahim Lodi, at Panipat and captured Delhi and Agra.
+Babur, the first Mughal emperor (1526 - 1530), succeeded to the throne of Ferghana in 1494 when he was only 12 years old. He was forced to leave his ancestral throne due to the invasion of another Mongol group, the Uzbegs. After years of wandering, he seized Kabul in 1504. In 1526 he defeated the Sultan of Delhi, Ibrahim Lodi, at Panipat and captured Delhi and Agra.
 
 > [caption] Fig. 2 Mughal army on campaign.
 
@@ -60,39 +60,37 @@ The Mughal rulers campaigned constantly against rulers who refused to accept the
 
 <!-- page 42 (pdf 4) -->
 
-The Sisodiya Rajputs of Mewar refused to accept Mughal authority for a long time. Once defeated, however, they were honourably treated by the Mughals, (watan) back as assignments given their lands (watan Jagir) . The careful balance between defeating but not humiliating their opponents enabled the Mughals to extend their influence over many kings and chieftains. But it was difficult to keep this balance all the time.
+### Zat ranking
+
+Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
+
+The Sisodiya Rajputs of Mewar refused to accept Mughal authority for a long time. Once defeated, however, they were honourably treated by the Mughals, given their lands (watan) back as assignments (watan jagir). The careful balance between defeating but not humiliating their opponents enabled the Mughals to extend their influence over many kings and chieftains. But it was difficult to keep this balance all the time.
 
 ## Mansabdars and Jagirdars
 
-As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as mansabdars.. The term mansabdar refers to an individual who holds a mansab,, meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat.. The higher the zat,, the more prestigious was the noble’s position in court and the larger his salary.
+As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as mansabdars. The term mansabdar refers to an individual who holds a mansab, meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat. The higher the zat, the more prestigious was the noble’s position in court and the larger his salary.
 
-The mansabdar’s military responsibilities required him to maintain a specified number of SQAUWAaT or cavalrymen. The mansabdar brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary.
+The mansabdar’s military responsibilities required him to maintain a specified number of sawar or cavalrymen. The mansabdar brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary.
 
-Mansabdars received their salaries as revenue assignments called Jagirs which were somewhat like iqtas . But unlike mUuq list ;, most mansabdars did not actually reside in or administer their - Jagirs.. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
-
-### Zat ranking
-
-> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
+Mansabdars received their salaries as revenue assignments called jagirs which were somewhat like iqtas. But unlike muqtis, most mansabdars did not actually reside in or administer theirjagirs. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
 
 <!-- page 43 (pdf 5) -->
 
-In Akbar’s reign, these
-
-Jagirs : were carefully assessed so that their revenues were roughly equal to the salary of the mansabdar . By Aurangzeb’s reign, this was no longer the case and the actual revenue collected was often less than the granted sum. There was also a huge increase in the number of mansabdars, which meant a long wait before they received a. These and other factors created a shortage in the number of Jagirs.. As a result, many “jagirdars tried to extract as much revenue as possible while they had a. Aurangzeb was unable to control these developments in the last years of his reign and the peasantry therefore suffered tremendously.
+In Akbar’s reign, these jagirs were carefully assessed so that their revenues were roughly equal to the salary of the mansabdar. By Aurangzeb’s reign, this was no longer the case and the actual revenue collected was often less than the granted sum. There was also a huge increase in the number of mansabdars, which meant a long wait before they received a jagir. These and other factors created a shortage in the number of jagirs. As a result, many jagirdars tried to extract as much revenue as possible while they had a jagir. Aurangzeb was unable to control these developments in the last years of his reign and the peasantry therefore suffered tremendously.
 
 ## Zabt and Zamindars
 
 The main source of income available to Mughal rulers was tax on the produce of the peasantry. In most places, peasants paid taxes through the rural elites, that is, the headman or the local chieftain. The Mughals used one term – zamindars – to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.
 
-Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, On the basis of this data, tax was fixed on each crop in cash. each province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt.. It was prevalent in those areas where Mughal administrators could survey the land and keep very careful accounts. This was not possible in provinces, such as Gujarat and Bengal.
+Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, 1570- 1580. On the basis of this data, tax was fixed on each crop in cash. Each province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt. It was prevalent in those areas where Mughal administrators could survey the land and keep very careful accounts. This was not possible in provinces, such as Gujarat and Bengal.
 
 > [caption] Fig. 4 A mansabdar on march with his sawars.
 
-> [caption] Fig. 5 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt off officer receiving a bribe and (2) a tax-collector punishing poor peasants.
+> [caption] Fig. 5 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt officer receiving a bribe and (2) a tax-collector punishing poor peasants.
 
 <!-- page 44 (pdf 6) -->
 
-In some areas, the zamindars exercised a great deal of power. The exploitation by Mughal administrators could drive them to rebellion. Sometimes Zamindars and peasants of the same caste allied in rebelling against Mughal authority. These peasant revolts challenged the stability of the Mughal Empire from the end of the seventeenth century.
+In some areas, the zamindars exercised a great deal of power. The exploitation by Mughal administrators could drive them to rebellion. . Sometimes zamindars and peasants of the same caste allied in rebelling against Mughal authority. These peasant revolts challenged the stability of the Mughal Empire from the end of the seventeenth century.
 
 ### Akbar Nama and Ain-i Akbari
 
@@ -118,7 +116,7 @@ As in the wide expanse of the divine compassion there is room for all classes an
 
 ## The Mughal Empire in the Seventeenth Century and After
 
-The administrative and military efficiency of the Mughal Empire led to great economic and commercial prosperity. International travellers described it as the fabled land of wealth. But these same visitors were also appalled at the state of poverty that existed side by side with the greatest opulence. The inequalities were glaring. Documents from the twentieth year of Shah Jahan’s reign inform us that the highest-ranking mansabdars were only 445 in number out of a total This small number a mere 5.6 per cent of of 8,000. the total number of mansabdars – received 61.5 per cent of the total estimated revenue of the empire as salaries for themselves and their troopers.
+The administrative and military efficiency of the Mughal Empire led to great economic and commercial prosperity. International travellers described it as the fabled land of wealth. But these same visitors were also appalled at the state of poverty that existed side by side with the greatest opulence. The inequalities were glaring. Documents from the twentieth year of Shah Jahan’s reign inform us that the highest-ranking mansabdars were only 445 in number out of a total This small number - a mere 5.6 per cent of of 8,000. the total number of mansabdars – received 61.5 per cent of the total estimated revenue of the empire as salaries for themselves and their troopers.
 
 The Mughal emperors and their mansabdars spent a great deal of their income on salaries and goods. This expenditure benefited the artisans and peasantry who supplied them with goods and produce. But the scale of revenue collection left very little for investment in the hands of the primary producers – the peasant and the artisan. The poorest amongst them lived from hand to mouth and they could hardly consider investing in additional resources – tools and supplies – to increase productivity. The wealthier peasantry and artisanal groups, the merchants and bankers profited in this economic world.
 
@@ -126,7 +124,7 @@ The Mughal emperors and their mansabdars spent a great deal of their income on s
 
 The enormous wealth and resources commanded by the Mughal elite made them an extremely powerful group of people in the late seventeenth century. As the authority of the Mughal emperor slowly declined, his servants emerged as powerful centres of power in the regions. They constituted new dynasties and held the command of provinces like Hyderabad and Awadh. Although they continued to recognise the Mughal emperor in Delhi as their master, by the eighteenth century the provinces of the empire had consolidated their independent political identities.
 
-Imagine
+### Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
@@ -150,15 +148,17 @@ Nur Jahan Jahangir
 
 The five Deccan Sultanates were Berar, Khandesh, Ahmadnagar, and _________________.
 
+> [caption] (a)
+
 <!-- page 47 (pdf 9) -->
 
-(b) If zat determined a rank and salary, mansabdar’s sawar indicated his
+(b) If zat determined a mansabdar’s rank and salary, sawar indicated his
 
 (c) Abul Fazl, Akbar’s friend and counsellor, helped him frame the idea of so that he could govern a society composed of many religions, cultures and castes.
 
 What were the central provinces under the control of the Mughals?
 
-4 What was the relationship between the mansabdar : and the?
+4 What was the relationship between the mansabdar and the jagir?
 
 ### Let’s understand
 
@@ -176,13 +176,33 @@ Why was it important for the Mughals to recruit mansabdars from diverse backgrou
 
 <!-- section: glossary -->
 
-KEYWORDS
+### Keywords
 
-Mughal primogeniture coparcenary zamindar Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
+- Mughal
 
-> [caption] mansab jagir zat sawar sulh-i kul zabt
+- mansab
+
+- jagir
+
+- zat
+
+- sawar
+
+- sulh-i kul
+
+- primogeniture
+
+- coparcenary
+
+- zabt
+
+- zamindar
 
 <!-- page 48 (pdf 10) -->
+
+Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
+
+> [caption] 10.
 
 11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
 

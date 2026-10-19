@@ -2,6 +2,9 @@
 book: "our-pasts-2"
 edition: "2016-09-10"
 source_pdf: "pdfs/our-pasts-2/2016-09-10/prelims.pdf"
+overrides:
+  - "Keywords box on the 'In this book' page (xiii) ends 'in the lesson.', the closing line below the purple note was read into it"
+  - "closing line of the 'In this book' page (xiii) sits below the purple note, put back after it"
 ---
 
 <!-- pdf page 1 -->
@@ -54,7 +57,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/prelims.pdf"
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
-> [caption] ` 50.00
+> [caption] ₹ 50.00
 
 > [caption] Publication Team
 
@@ -90,7 +93,7 @@ Research and Training New Delhi 20 November 2006
 
 <!-- pdf page 7 -->
 
-TEXTBOOK DEVELOPMENT COMMITTEE
+### TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -114,9 +117,11 @@ TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] MEMBER-COORDINATOR
 
+> [table] Reetu Singh, Lecturer, DESS, NCERT, New Delhi
+
 <!-- pdf page 8 -->
 
-ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
 
 This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
@@ -126,7 +131,7 @@ Shyama Warner’s copyediting and proof reading skills improved the book dramati
 
 <!-- pdf page 9 -->
 
-PHOTO AND MAP CREDITS
+### PHOTO AND MAP CREDITS
 
 We would like to acknowledge the following:
 
@@ -158,7 +163,7 @@ Ch. 5, figs. 6, 9, 10, 11, 13, 14); Koch, Ebba. Mughal Architecture, (Ch. 5, fig
 
 <!-- pdf page 10 -->
 
-Kothari, Sunil. Kathak: Indian Classical Dance Art
+### Kothari, Sunil. Kathak: Indian Classical Dance Art
 
 (Ch. 9, fig. 6); Lafont, Jean-Marie. Maharaja Ranjit Singh: Lord of the Five Rivers, (Ch. 10, figs. 6, 7); Masselos, Jim, Jackie Menzies, Pratapaditya Pal.
 
@@ -218,7 +223,7 @@ Foreword v In this book xii
 
 <!-- pdf page 12 -->
 
-## I N T H I S B O O K
+## IN THIS BOOK
 
 Each chapter is divided into sections. Read, discuss and understand each section before proceeding to the next. Look out for the following in each Chapter.
 
@@ -246,7 +251,7 @@ You will also find maps. Look at these and try to locate the places mentioned in
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 
-KEYWORDS
+### Keywords
 
 At the end of each chapter, you will find a list of keywords. These are to remind you of important ideas/ themes introduced in the lesson.
 

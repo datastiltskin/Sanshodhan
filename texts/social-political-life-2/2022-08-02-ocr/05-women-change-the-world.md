@@ -10,9 +10,19 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch05.pdf"
 source_sha256: "327f5fc71f3b83576ca50b549e773cb052bbf8b143b5bdb1f965bcede07b1078"
 pdf_pages: 14
 printed_pages: "54-67"
-body_fingerprint: "a15666d21558990376f9a47b6701825e407418bf224b6b574c719dd9529e03ce"
+body_fingerprint: "6f1a74ea8d497ac146290c2350faff7495352bcba616ca321e2d4e8323a1924d"
 ocr: true
 ocr_confidence: 94.8
+overrides:
+  - "The speech bubble on page 57 ends at 'future.' The OCR added a stray '7}' from the bubble outline"
+  - "The speech bubble on page 57 ends at 'scope!' The OCR added a stray '__all'"
+  - "Page 57 reads 'Laxmi studied in a government school.' The OCR glued 'in a'"
+  - "Page 57 reads 'I make sure I go ahead'. The OCR read the capital I as a bar twice"
+  - "Page 60 reads 'if a woman'. The OCR glued 'if a'"
+  - "The Upper Primary row of the drop-out table on page 62 reads 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59. The OCR split it into a row and a caption and dropped three decimal points"
+  - "The Primary row of the drop-out table on page 62 gives 6.84 for ST girls. The OCR dropped the decimal point"
+  - "The caption on page 66 reads 'On 8 March'. The OCR read the 8 as an ampersand"
+  - "Page 64 reads 'Satyarani'. The OCR misread the last letter"
 ---
 
 <!-- page 54 (pdf 1) -->
@@ -73,9 +83,17 @@ Breaking stereotypes
 
 Engine drivers are men. But 27-year-old Laxmi Lakra, from a poor tribal family in Jharkhand has begun to change things. She is the first woman engine driver for Northern Railways.
 
-Laxmi’s parents are not literate but they struggled and overcame many hardships to make sure their children got an education. Laxmi studied ina government school. Even in school, Laxmi helped with the housework and did odd jobs.She studied hard and did well and then went on to get a diploma in electronics. She then took the railway board exam and passed it on her first attempt.
+Laxmi’s parents are not literate but they struggled and
 
-Laxmi says, “I love challenges and the moment somebody says it is not for girls, | make sure | go ahead and do it.’ Laxmi has had to do this several times in her life - when she wanted to take electronics; when she rode motorcycles at the polytechnic; and when she decided to become an engine driver.
+overcame many hardships to make sure their children got an
+
+education. Laxmi studied in a government school. Even in school,
+
+Laxmi helped with the housework and did odd jobs.She studied hard and did well and then went on to get a diploma in electronics. She then took the railway board exam and passed it on her first attempt.
+
+Laxmi says, “I love challenges and the moment somebody says it is not for girls, I make sure I go ahead and do it.’ Laxmi has had Read the story below and answer society in which all children face pressures from the the questions - world around them. Sometimes, these come in the form of demands from adults. At other times, they If you were Xavier, what subject can just be because of unfair teasing by our own would you choose and why? friends. Boys are pressurised to think about getting a job that will pay a good salary. They are also teased in your experience, what aresome and bullied if they do not behave like other boys. of the other pressures that boys You may remember that in your Class VI book you experience? read about how boys at an early age are encouraged
+
+to do this several times in her life - when she wanted to take electronics; when she rode motorcycles at the polytechnic; and when she decided to become an engine driver.
 
 Her philosophy is simple —“As long as | am having fun without harming anyone, as long as | am doing well and helping my parents, why should I not lead a lifestyle of my choice?”
 
@@ -83,17 +101,23 @@ Her philosophy is simple —“As long as | am having fun without harming anyone
 
 <!-- page 58 (pdf 5) -->
 
-It is important to understand that we live in a Read the story below and answer society in which all children face pressures from the the questions - world around them. Sometimes, these come in the form of demands from adults. At other times, they If you were Xavier, what subject can just be because of unfair teasing by our own would you choose and why? friends. Boys are pressurised to think about getting a job that will pay a good salary. They are also teased in your experience, what aresome and bullied if they do not behave like other boys. of the other pressures that boys You may remember that in your Class VI book you experience? read about how boys at an early age are encouraged not to cry in front of others.
+It is important to understand that we live in a
 
-> [note] Xavier was happy with the results of his Class X board exams. Though his marks in Science and “ Maths were not high, he had done well in his ' favourite subjects — History and Languages. When his parents saw his report card, however, they did not look pleased at all...
+not to cry in front of others.
 
-Why do you want to take History? Think about your future. 7} You have to get a good job! History will not help. It has no scope! __all Be sensible, son. Take Maths, and you can study computers side by side. The job market
+Xavier was happy with the results of his Class X board exams. Though his marks in Science and “ Maths were not high, he had done well in his ' favourite subjects — History and Languages. When his parents saw his report card, however, they did not look pleased at all...
+
+### Why do you want to take History? Think about your future.
+
+You have to get a good job! History will not help. It has no scope!
 
 > [caption] But, but, | don’t like Maths or Science!
 
-> [note] My Goodness! Xavier, you have managed only 65% in Maths. Your marks in Physics are low too...
+My Goodness! Xavier, you have managed only 65% in Maths. Your marks in Physics are low too...
 
 > [caption] | know Mama, but it’s okay, because | don’t want to take Maths or Science. | want to study History.
+
+Be sensible, son. Take Maths, and you can study computers side by side. The job market
 
 ## for computers is very 800 A
 
@@ -105,11 +129,11 @@ Going to school is an extremely important part of your life. As more and more ch
 
 In the nineteenth century, many new ideas about education and learning emerged. Schools became more common and communities that had never learnt reading and writing started sending their children to school. But there was a lot of opposition to educating girls even then. Yet many women and men made efforts to open schools for girls. Women struggled to learn to read and write.
 
-> [note] Ramabai (1858-1922), shown above with her daughter, championed the cause of women’s education. She never went to School but learnt to read and write from her parents. She was given the title ‘Pandita’ because she could read and write Sanskrit, a remarkable achievement as women then were not allowed such knowledge. She went on to set up a Mission in Khedgaon near Pune in 1898, where widows and poor women were encouraged not only to become literate but to be independent. They were taught a variety of skills from carpentry to running a printing press, skills that are not usually taught to girls even today. The printing press can be seen in the picture on the top left corner. Ramabai’s Mission is still active today.
+Ramabai (1858-1922), shown above with her daughter, championed the cause of women’s education. She never went to School but learnt to read and write from her parents. She was given the title ‘Pandita’ because she could read and write Sanskrit, a remarkable achievement as women then were not allowed such knowledge. She went on to set up a Mission in Khedgaon near Pune in 1898, where widows and poor women were encouraged not only to become literate but to be independent. They were taught a variety of skills from carpentry to running a printing press, skills that are not usually taught to girls even today. The printing press can be seen in the picture on the top left corner. Ramabai’s Mission is still active today.
 
 <!-- page 60 (pdf 7) -->
 
-Let us read about the experience of Rashsundari Devi (1800-1890), who was born in West Bengal, some 200 years ago. At the age of 60, she wrote her autobiography in Bangla. Her book titled Amar Jiban is the first known autobiography written by an Indian woman. Rashsundari Devi was a housewife from a rich landlord’s family. At that time, it was believed that ifa woman learnt to read and write, she would bring bad luck to her husband and become a widow! Despite this, she taught herself how to read and write in secret, well after her marriage.
+Let us read about the experience of Rashsundari Devi (1800-1890), who was born in West Bengal, some 200 years ago. At the age of 60, she wrote her autobiography in Bangla. Her book titled Amar Jiban is the first known autobiography written by an Indian woman. Rashsundari Devi was a housewife from a rich landlord’s family. At that time, it was believed that if a woman learnt to read and write, she would bring bad luck to her husband and become a widow! Despite this, she taught herself how to read and write in secret, well after her marriage.
 
 Learning to read and write led some women to question the situation of women in society. They wrote stories, letters and autobiographies describing their own experiences of inequality. In their writings, they also imagined new ways of thinking and living for both “I would start working at dawn, and I would still be at it until well beyond midnight. I had no rest in between. I was only fourteen years old at the time. I came to nurture a great longing: I would learn to read and I would read a religious manuscript. I was Rokeya Sakhawat Hossain and her dreams about ‘Ladyland’
 
@@ -143,11 +167,9 @@ Average Annual Drop-out Rate in School Education (2014-15)
 
 (in percentage)
 
-Level All SC ST Boys Girls Total | Boys Girls Total | Boy Girls Total Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 | 7.02 684 6.93
+Level All SC ST Boys Girls Total | Boys Girls Total | Boy Girls Total Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 | 7.02 6.84 6.93
 
-Upper Primary (Classes 6-8)| 3.49
-
-> [caption] 4.60 4.03 5.00 603 5.51 848 871 8.59
+Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59
 
 Secondary (Classes 9-10) | 17.21
 
@@ -159,9 +181,11 @@ You have probably noticed in the above table that SC and ST girls leave school a
 
 > [caption] vas a
 
-There are several reasons why children from Dalit, Adivasi and Muslim communities leave school. In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis. If a school is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school. Many families are too poor and unable to bear the cost of educating all their children. Boys may get preference in this situation. Many children also leave school because they are discriminated against by their teacher and classmates, just like Omprakash Valmiki was.
+There are several reasons why children from Dalit, Adivasi and Muslim communities leave school. In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis. If a school
 
 <!-- page 63 (pdf 10) -->
+
+is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school. Many families are too poor and unable to bear the cost of educating all their children. Boys may get preference in this situation. Many children also leave school because they are discriminated against by their teacher and classmates, just like Omprakash Valmiki was.
 
 > [caption] 10
 
@@ -189,9 +213,11 @@ Campaigns to fight discrimination and violence against women are an important pa
 
 Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.
 
-In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry. Women’s groups spoke out against the failure to bring these cases to justice. They did so by coming on to the streets, approaching the courts, and by sharing information. Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.
+In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry. Women’s groups spoke out against the failure to bring these cases to justice. They did so by coming on to the streets, approaching the courts, and by sharing information. Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek
 
-> [note] Satyarant, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.
+dowry.
+
+Satyarani, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.
 
 <!-- page 65 (pdf 12) -->
 
@@ -209,9 +235,13 @@ Showing Solidarity
 
 The women’s movement is also about showing solidarity with other women and causes.
 
-Below: On & March, International Women’s Day, women all over the world come together to celebrate and renew their struggles.
+Below: On 8 March, International Women’s Day, women all over
 
-> [note] Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan. Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.
+the world come together to celebrate and renew their struggles.
+
+Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan. Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a
+
+cultural programme.
 
 <!-- page 67 (pdf 14) -->
 
@@ -223,12 +253,18 @@ List one reason why learning the alphabet was so important to women like Rashsun
 
 Can you describe two methods of struggle that the women’s movement used to raise issues? If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about? Why would you choose this particular method?
 
-Glossary say that he or she has committed a violation.
+<!-- section: glossary -->
 
-> [note] Stereotype: When we believe that people belonging to particular groups based on religion, wealth, language are bound to have certain fixed characteristics or can only do a certain type of work, we create a stereotype. For example, in this chapter, we saw how boys and girls are made to take certain subjects not because he or she has an aptitude for it, but because they are either boys or girls. Stereotypes prevent us from looking at people as unique individuals.
+Glossary
 
-> [note] Discrimination: When we do not treat people equally or with respect we are indulging in discrimination. It happens when people or organisations act on their prejudices. Discrimination usually takes place when we treat some one differently or make a distinction.
+Stereotype: When we believe that people belonging to particular groups based on religion, wealth, language are bound to have certain fixed characteristics or can only do a certain type of work, we create a stereotype. For example, in this chapter, we saw how boys and girls are made to take certain subjects not because he or she has an aptitude for it, but because they are either boys or girls. Stereotypes prevent us from looking at people as unique individuals.
 
-> [note] Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can Sexual harassment: This refers to physical or verbal behaviour that is of a sexual nature and
+Discrimination: When we do not treat people equally or with respect we are indulging in discrimination. It happens when people or organisations act on their prejudices. Discrimination usually takes place when we treat some one differently or make a distinction.
+
+Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can
+
+say that he or she has committed a violation.
+
+Sexual harassment: This refers to physical or verbal behaviour that is of a sexual nature and
 
 against the wishes of a woman.

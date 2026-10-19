@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch09.pdf"
 source_sha256: "cd2bfdf6e4394ea8eb6525cc9b15696344a6db3714c43bf947d374e683f2ff97"
 pdf_pages: 10
 printed_pages: "104-113"
-body_fingerprint: "f1b5ed4abb4422c1fc942cbb36258d5f4cb645171fe21850d5363a187ca47126"
+body_fingerprint: "a7eaf68e36ee3b6fa54872467109582a44b55246a38c5d38ab6a9584e7e488cd"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -79,9 +79,11 @@ On market days, you would also find weavers bringing cloth that has been made on
 
 3
 
-Putting-out syste Putting-out system– weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
+Putting-out system– weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
-However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of 1.This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
+However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of
+
+1. This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
 
 > [note] What are the following people doing at the Erode cloth market– merchants, weavers, exporters?
 
@@ -131,7 +133,7 @@ Women workers sewing buttons in a garment factory.
 
 The Impex garment factory has 70 workers. Most of them are women. Most of these workers are employed on a temporary basis. This means that whenever the employer feels that a worker is not needed, the worker can be asked to leave. Workers’ wages are fixed according to their skills. The highest paid among the workers are the tailors who get about Rs 3,000 per month. Women are employed as helpers for thread cutting, buttoning, ironing and packaging. These jobs have the lowest wages.
 
-Payment to workers (per month)
+### Payment to workers (per month)
 
 Tailoring .......................................................Rs 3,000
 
@@ -205,7 +207,7 @@ that get the maximum earnings from the market. These are the people who have mon
 
 <!-- page 113 (pdf 10) -->
 
-1. Swapna sells the cotton to the trader. 2. Customers buy these shirts in a supermarket. 3. Trader sells cotton to the Ginning Mill. 4. Garment exporters buy the cloth from merchants for making shirts. 5. Yarn dealers or merchants give the yarn to the weavers. 6. The exporter sells shirts to the businessperson from the USA. 7.Spinning mill buys the cotton and sells yarn to the yarn dealers. 8.Weavers return with the cloth. 9. Ginning mill cleans the cotton and makes it into bales.
+1. Swapna sells the cotton to the trader. 2. Customers buy these shirts in a supermarket. 3. Trader sells cotton to the Ginning Mill. 4. Garment exporters buy the cloth from merchants for making shirts. 5. Yarn dealers or merchants give the yarn to the weavers. 6. The exporter sells shirts to the businessperson from the USA. 7. Spinning mill buys the cotton and sells yarn to the yarn dealers. 8. Weavers return with the cloth. 9. Ginning mill cleans the cotton and makes it into bales.
 
 <!-- section: exercises -->
 

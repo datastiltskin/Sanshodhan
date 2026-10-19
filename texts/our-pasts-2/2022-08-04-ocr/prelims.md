@@ -2,6 +2,9 @@
 book: "our-pasts-2"
 edition: "2022-08-04-ocr"
 source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
+overrides:
+  - "Keywords box on the 'In this book' page (xiii) ends 'in the lesson.', the closing line below the purple note was read into it"
+  - "closing line of the 'In this book' page (xiii) sits below the purple note, put back after it"
 ---
 
 <!-- pdf page 1 -->
@@ -22,13 +25,13 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
 
 ## for Class VII
 
-sta Siler FAA SR TART fap sy f31aToT NATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
+> [table] NATIONAL COUNCIL L OF EDUCATIONAL RESEARCH AND T TRAIN
 
 <!-- pdf page 4 -->
 
 > [caption] PD 620T RSP
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [caption] 0760 – OUR PASTS — II Textbook for Class VII ISBN 81-7450-724-8
 
@@ -82,7 +85,7 @@ Research and Training New Delhi 20 November 2006
 
 <!-- pdf page 7 -->
 
-TEXTBOOK DEVELOPMENT COMMITTEE
+### TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -104,9 +107,13 @@ TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [table] Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerela Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
 
+> [caption] MEMBER-COORDINATOR
+
+> [table] Reetu Singh, Lecturer, DESS, NCERT, New Delhi
+
 <!-- pdf page 8 -->
 
-ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
 
 This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
@@ -116,7 +123,7 @@ Shyama Warner’s copyediting and proof reading skills improved the book dramati
 
 <!-- pdf page 9 -->
 
-PHOTO AND MAP CREDITS
+### PHOTO AND MAP CREDITS
 
 We would like to acknowledge the following:
 
@@ -148,7 +155,7 @@ Ch. 5, figs. 6, 9, 10, 11, 13, 14); Koch, Ebba. Mughal Architecture, (Ch. 5, fig
 
 <!-- pdf page 10 -->
 
-Kothari, Sunil. Kathak: Indian Classical Dance Art
+### Kothari, Sunil. Kathak: Indian Classical Dance Art
 
 (Ch. 9, fig. 6); Lafont, Jean-Marie. Maharaja Ranjit Singh: Lord of the Five Rivers, (Ch. 10, figs. 6, 7); Masselos, Jim, Jackie Menzies, Pratapaditya Pal.
 
@@ -186,39 +193,39 @@ Asher, Catherine and Cynthia Talbot. India Before Europe,
 
 Foreword v In this book xii
 
-1. Tracing Changes Through A Thousand Years 1
+### 1. Tracing Changes Through A Thousand Years 1
 
-2. New Kings And Kingdoms 16
+### 2. New Kings And Kingdoms 16
 
-3. The Delhi Sultans 30
+### 3. The Delhi Sultans 30
 
-4. The Mughal Empire 45
+### 4. The Mughal Empire 45
 
-5. Rulers And Buildings 60
+### 5. Rulers And Buildings 60
 
-6. Towns, Traders And Craftspersons 75
+### 6. Towns, Traders And Craftspersons 75
 
-7. Tribes, Nomads And Settled Communities 91
+### 7. Tribes, Nomads And Settled Communities 91
 
-8. Devotional Paths To The Divine 104
+### 8. Devotional Paths To The Divine 104
 
-9. The Making Of Regional Cultures 122
+### 9. The Making Of Regional Cultures 122
 
-10. Eighteenth-Century Political Formations 138
+### 10. Eighteenth-Century Political Formations 138
 
 <!-- pdf page 12 -->
 
-## I N T H I S B O O K
+## IN THIS BOOK
 
 Each chapter is divided into sections. Read, discuss and understand each section before proceeding to the next. Look out for the following in each Chapter.
 
-Additional Information
+### Additional Information
 
 Definition Box Some chapters contain definitions.
 
 Many chapters contain boxes with interesting, additional information.
 
-## Source Box 
+## Source Box
 
 Many chapters contain a portion from a source, clues from which historians write history. Read these carefully, and discuss the questions they contain.
 
@@ -232,11 +239,11 @@ You will also find maps. Look at these and try to locate the places mentioned in
 
 All chapters end with a section titled Elsewhere. This tells you about something that was happening in another part of the world.
 
-### Imagine 
+### Imagine
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 
-KEYWORDS
+### Keywords
 
 At the end of each chapter, you will find a list of keywords. These are to remind you of important ideas/ themes introduced in the lesson.
 

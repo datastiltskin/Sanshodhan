@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2024-05-24/ch07.pdf"
 source_sha256: "b8be7c6bec54239804cb23e9c56be6b6966448b87c9dbab397911d8dde8646af"
 pdf_pages: 16
 printed_pages: "84-99"
-body_fingerprint: "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c5bd"
+body_fingerprint: "732593aa21b7bfed876231bdb3f9b720859ac2c96b2df802f97592b0e7042a57"
 ---
 
 <!-- page 84 (pdf 1) -->
@@ -160,6 +160,8 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [caption] Defence
 
+> [caption] Source: Union Budget 2024-25
+
 > [note] As Amu and Kumar ride around Chennai...
 
 > [caption] Amu: Did you notice that the roads in Saidapet were so bumpy and without streetlights? I wonder what the place is like at night.
@@ -186,7 +188,7 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [table] 1. What are public facilities? Why should the government be responsible for providing public facilities?
 
-Q2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
+2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
 
 > [table] Why do you think the government must assume the overall responsibility for public facilities even when it gets private companies to do part of the job?
 
@@ -298,7 +300,7 @@ Besides safe drinking water, sanitation is a must in prevention of water-borne d
 
 Sulabh, a non-government organisation, has been working for nearly five decades to address the problems of sanitation facing low-caste, low-income people in India. It has constructed more than 8,500 community toilet blocks and 1.5 million household toilets, giving access to sanitation to 20 million people. The majority of the users of Sulabh facilities are from the poor working class.
 
-Sulabh enters into contracts with municipalities or other local authorities to construct toilet blocks with government funds. Local authorities provide land and funds for setting up the services, whereas maintenance costs are sometimes financed through user charges (for example, `2 is charged for use of the latrines in the cities).
+Sulabh enters into contracts with municipalities or other local authorities to construct toilet blocks with government funds. Local authorities provide land and funds for setting up the services, whereas maintenance costs are sometimes financed through user charges (for example, ₹2 is charged for use of the latrines in the cities).
 
 > [table] Next time you see a Sulabh toilet, you might want to find out yourself how it functions!
 

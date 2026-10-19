@@ -4,6 +4,7 @@ book_title: "Social and Political Life III"
 edition: "2020-06-16"
 snapshots:
   - "2020-06-16"
+  - "2023-02-10-partial"
 chapter: 1
 title: "The Indian Constitution"
 source_pdf: "pdfs/social-political-life-3/2020-06-16/ch01.pdf"

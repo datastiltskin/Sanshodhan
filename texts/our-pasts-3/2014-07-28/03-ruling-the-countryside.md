@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch03.pdf"
 source_sha256: "067af4364c7c02c0a987db41a9bb6a004af80543685f41adb3f52afde9517e55"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "1e0cc2b3b740e3a426ec35a2d4d913940742655d611816da8902159de59ebea7"
+body_fingerprint: "cc0dfcd9a4884ab42745bc360f3834de4b2caca46ed60f106ede1b4a79413ddc"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -69,7 +69,7 @@ The Permanent Settlement, however, created problems. Company officials soon disc
 
 By the first decade of the nineteenth century the situation changed. The prices in the market rose and cultivation slowly expanded. This meant an increase in the income of the zamindars but no gain for the Company since it could not increase a revenue demand that had been fixed permanently Even then the zamindars did not have an interest in improving the land. Some had lost their lands in the earlier years of the settlement; others now saw the possibility of earning without the trouble and risk of investment. As long as the zamindars could give out the land to tenants and get rent, they were not interested in improving the land.
 
-Activity 
+### Activity
 
 Why do you think Colebrook is concerned with the conditions of the under-ryots in Bengal? Read the preceding pages and suggest possible reasons.
 
@@ -93,7 +93,7 @@ Read and Munro felt that in the south there were no traditional zamindars. The s
 
 <!-- page 30 (pdf 5) -->
 
-Activity 
+### Activity
 
 Imagine that you are a Company representative sending a report back to England about the conditions in rural areas under Company rule. What would you write?
 
@@ -157,13 +157,15 @@ Slave – A person who is owned by someone else – the slave owner. A slave has
 
 Nij cultivation on a large scale also required many ploughs and bullocks. One bigha of indigo cultivation required two ploughs. This meant that a planter with 1,000 bighas would need 2,000 ploughs. Investing on purchase and maintenance of ploughs was a big problem. Nor could supplies be easily got from the peasants since their ploughs and bullocks were busy on their rice fields, again exactly at the time that the indigo planters needed them.
 
-Bigha – A unit of measurement of land. Before British rule, the size of this area varied. In Bengal the British standardised it to about one-third of an acre.
-
 Till the late nineteenth century, planters were therefore reluctant to expand the area under nij cultivation. Less than 25 per cent of the land producing indigo was under this system. The rest was under an alternative mode of cultivation – the ryoti system.
 
 ### Indigo on the land of ryots
 
-Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop. Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860
+Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop.
+
+Bigha – A unit of measurement of land. Before British rule, the size of this area varied. In Bengal the British standardised it to about one-third of an acre.
+
+> [caption] Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860
 
 > [caption] In India the indigo plant was cut mostly by men.
 
@@ -225,7 +227,7 @@ The long lathis wielded by the planter of Mollahati / now lie in a cluster The b
 
 <!-- page 36 (pdf 11) -->
 
-Activity 
+### Activity
 
 Imagine you are a witness giving evidence before the Indigo Commission. W.S. Seton Karr asks you “On what condition will ryots grow indigo?” What will your answer be?
 
@@ -255,9 +257,9 @@ Hadji Mulla: No I would not; rather than sow indigo I will go to another country
 
 After the revolt, indigo production collapsed in Bengal. But the planters now shifted their operation to Bihar. With the discovery of synthetic dyes in the late nineteenth century their business was severely affected, but yet they managed to expand production. When Mahatma Gandhi returned from South Africa, a peasant from Bihar persuaded him visit Champaran and see the plight of the indigo cultivators there. Mahatma Gandhi’s visit in 1917 marked the beginning of the Champaran movement against the indigo planters.
 
-ELSEWHERE
+### ELSEWHERE
 
-Indigo making in the West Indies
+### Indigo making in the West Indies
 
 In the early eighteenth century, a French missionary, Jean Baptiste Labat, travelled to the Caribbean islands, and wrote extensively about the region. Published in one of his books, this image shows all the stages of indigo production in the French slave plantations of the region.
 

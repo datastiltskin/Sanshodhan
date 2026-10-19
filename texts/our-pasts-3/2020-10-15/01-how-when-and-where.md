@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch01.pdf"
 source_sha256: "a137f2285a08cfb1f89ea1e39709f5ba8c4b90a9b8ec076f238c42d6485b638e"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "cd9e203a60a1ac28487229cd13fed0e773256604dbb64c01e4cd678ccaec1391"
+body_fingerprint: "c89c8b078cfea8e730749973659486cd64de6e1018d387f6409e54eb439986ff"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -25,11 +25,15 @@ History is certainly about changes that occur over time. It is about finding out
 
 Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall you may wonder – when did people begin to drink tea or coffee? Looking out of the window of a train you may ask yourself – when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.
 
-Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.  Activity All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
+Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.
+
+### Activity
 
 > [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
+
+All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
 
 Why, then, do we continue to associate history with a string of dates? This association has a reason. There was a time when history was an account of battles and big events. It was about rulers and their policies. Historians wrote about the year a king was crowned, the year he married, the year he had a child, the year he fought a particular war, the year he died, and the year the next ruler succeeded to the throne. For events such as these, specific dates can be determined, and in histories such as these, debates about dates continue to be important.
 
@@ -55,11 +59,13 @@ In 1817, James Mill, a Scottish economist and political philosopher, published a
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated Activity Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
 
 > [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773
 
-> [table] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+> [caption] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+
+### Activity
 
 <!-- page 4 (pdf 4) -->
 
@@ -95,9 +101,7 @@ Letters and memos that moved from one branch of the administration to another in
 
 In the early years of the nineteenth century these documents were carefully copied out and beautifully written by calligraphists – that is, by those who specialised in the art of beautiful writing. By the middle of the nineteenth century, with the spread of printing, multiple copies of these records were printed as proceedings of each government department.
 
-> [caption] Fig. 4 – The National Archives of India came up in the 1920s
-
-When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+> [caption] Fig. 4 – The National Archives of India came up in the 1920s When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
 
 > [table] Source 1
 
@@ -127,11 +131,11 @@ By the early nineteenth century detailed surveys were being carried out to map t
 
 ### What official records do not tell
 
-From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
-> [table] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
+> [caption] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
 
 > [caption] Fig. 5 – A custard-apple plant, 1770s
 
@@ -141,7 +145,7 @@ From this vast corpus of records we can get to know a lot, but we must remember 
 
 > [caption] Fig. 7 – The rebels of 1857
 
-they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+> [caption] Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 For that we need to look elsewhere. When we begin to search for these other sources we find them in plenty, though they are more difficult to get than official records. We have diaries of people, accounts of pilgrims and travellers, autobiographies of important personalities, and popular booklets that were sold in the local bazaars. As printing spread, newspapers were published and issues were debated in public. Leaders and reformers wrote to spread their ideas, poets and novelists wrote to express their feelings.
 
@@ -165,7 +169,7 @@ As the news spread to the other police stations, the men there also refused to t
 
 > [table] 22 March, 1946
 
-Activity 
+### Activity
 
 Look at Sources 1 and 2. Do you find any differences in the nature of reporting? Explain what you observe.
 

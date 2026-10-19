@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf"
 source_sha256: "a02af4869100ab44192797965c9243892c81d851952dc69ec3d9758bed2c7da1"
 pdf_pages: 18
 printed_pages: "167-184"
-body_fingerprint: "1481c9892bd364be7f18723a087155be35785344584629a128ab617a2955c57a"
+body_fingerprint: "36c21093aa491ca214b2c680fad0a19e021fa8ee537e46f3f87154ff2b1de0d0"
 ---
 
 <!-- page 167 (pdf 1) -->
@@ -52,7 +52,7 @@ The places in these pictures are revered by followers of Islam, Christianity, Ju
 
 Naturally, when we turn to religions that originated in India, we find that they have many more sacred sites. In the case of Buddhism, those are often places that were visited by the Buddha or where his relics are kept. Among them is the Great Stūpa at Sanchi (Madhya Pradesh), which is a relic stūpa (you saw this in the chapter on ‘The Rise of Empires’), and the Mahabodhi Stūpa in Bodh Gaya (Bihar), where, according to Buddhist tradition, the Buddha attained enlightenment. They are important sites for pilgrims; Bodh Gaya, for instance, receives more than four million visitors every year.
 
-In Sikhism, takhts are seats or centres of spiritual a u t h o r i t y   —   f o r example, the Takht Sri Patna Sahib (in Patna), the Akal Takht (part of the Golden Temple at Amritsar, see Fig. 8.3), and Takht Sri Keshgarh Sahib (at Anandpur). Sikhs aspire to undertake pilgrimages to these places at least once in their lifetimes, as they are associated with important Sikh Gurus and therefore have special significance. In addition, Sikh tradition records pilgrimages conducted by several Gurus, such as Guru Nanak, to places like Haridwar, Prayag, Mathura, Varanasi, Ayodhya, Puri and many more, besides a few Muslim shrines.
+In Sikhism, takhts are seats or centres of spiritual authority   —   for example, the Takht Sri Patna Sahib (in Patna), the Akal Takht (part of the Golden Temple at Amritsar, see Fig. 8.3), and Takht Sri Keshgarh Sahib (at Anandpur). Sikhs aspire to undertake pilgrimages to these places at least once in their lifetimes, as they are associated with important Sikh Gurus and therefore have special significance. In addition, Sikh tradition records pilgrimages conducted by several Gurus, such as Guru Nanak, to places like Haridwar, Prayag, Mathura, Varanasi, Ayodhya, Puri and many more, besides a few Muslim shrines.
 
 > [caption] Fig. 8.3
 
@@ -92,7 +92,9 @@ In the Jain tradition, the tīrthas are associated with places where the Tīrtha
 
 Another example is the pilgrimage to Sabarimala temple (Kerala), dedicated to the deity Ayyappa, which draws over ten million devotees every year. This hilltop shrine was traditionally reached by an immensely difficult trek through hills and forests. Such a challenging approach, common to many hilltop or mountain shrines all over the country, symbolises the difficulties of the inner path, with natural landmarks along the route being considered sacred.
 
-> [caption] Fig. 8.4. Pandharpur wārī, an 800-year-old tradition in Maharashtra. Warī means a pilgrimage that is held regularly, in this case annually. Pilgrims walk in large groups for 21 days to the famous Vithoba temple in Tīrthankara: Literally, someone who makes a tīrtha, that is, who guides the crossing from ordinary to higher life. In Jainism, the Tīrthankaras are the supreme preachers of dharma.
+> [caption] Fig. 8.4. Pandharpur wārī, an 800-year-old tradition in Maharashtra. Warī means a pilgrimage that is held regularly, in this case annually. Pilgrims walk in large groups for 21 days to the famous Vithoba temple in Pandharpur.
+
+> [caption] Tīrthankara: Literally, someone who makes a tīrtha, that is, who guides the crossing from ordinary to higher life. In Jainism, the Tīrthankaras are the supreme preachers of dharma.
 
 <!-- page 172 (pdf 6) -->
 
@@ -162,7 +164,7 @@ Prayagraj hosts the Kumbh Mela every six years. Prayag is located at the conflue
 
 An estimated 660 million people participated in the Kumbh Mela of 2025. What proportion of the population of India is this?
 
-Kumbh Mela
+### Kumbh Mela
 
 The Kumbh Mela originates in the legend of amṛita manthana. The devas and asuras (i.e., more or less, gods and demons), traditional enemies, for once joined forces in churning the cosmic ocean to extract amṛita, the divine nectar that would give them immortality. To prevent the asuras from getting the amṛita, Viṣhṇu, in the form of Mohini, a beautiful lady, snatched the pitcher or kumbha which contained the amṛita. In the process, a few drops fell over four places — Haridwar, Prayagraj, Nashik, and Ujjain. These are the places where the Kumbh Mela has been held, and a dip in the rivers there during a prescribed period is considered most auspicious.
 

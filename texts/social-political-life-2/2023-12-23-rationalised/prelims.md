@@ -12,17 +12,13 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/prelims.pdf"
 
 <!-- pdf page 2 -->
 
-<!-- pdf page 3 -->
+<!-- page 1 (pdf 3) -->
 
 ## Social Science Social and Political Life – II
 
 ## Textbook for Class VII
 
-sta srfar COU
-
-> [caption] qa sie fst fSTaTo) SIT EDUCA RESEARCH Al
-
-> [caption] Rug RAI
+> [caption] Raa TRAIN NG
 
 <!-- pdf page 4 -->
 
@@ -58,7 +54,7 @@ PD 560T BS
 
 © National Council of Educational
 
-Research and Training, 2007, 2022
+### Research and Training, 2007, 2022
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
@@ -66,7 +62,7 @@ Publication Team
 
 Head, Publication: Anup Kumar Rajput Division
 
-` 65.00
+₹ 65.00
 
 Chief Production: Arun Chitkara Officer
 
@@ -78,7 +74,9 @@ Assistant Editor: Shashi Chadha
 
 Production Assistant: Rajesh Pippal
 
-Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nav Durga Offset Printers, 54/3-A, 54/2, Janta Nagar, Industrial Area, Garh Road, Meerut-250 002 (U.P.)
+Printed on 80 GSM paper with NCERT watermark
+
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nav Durga Offset Printers, 54/3-A, 54/2, Janta Nagar, Industrial Area, Garh Road, Meerut-250 002 (U.P.)
 
 Cover, Layout
 
@@ -114,13 +112,17 @@ In view of the COVID-19 pandemic, it is imperative to reduce content load on stu
 
 Contents of the textbooks have been rationalised in view of the following:
 
-• Overlapping with similar content included in other subject areas in the same class
+- Overlapping with similar content included in other subject areas in the same class
 
-• Similar content included in the lower or higher class in the same subject
+- Similar content included in the lower or higher class in the same subject
 
-• Difficulty level
+- Difficulty level
 
-• Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning • Content, which is irrelevant in the present context This present edition, is a reformatted version after carrying out the changes given above.
+- Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning
+
+- Content, which is irrelevant in the present context
+
+This present edition, is a reformatted version after carrying out the changes given above.
 
 <!-- pdf page 8 -->
 
@@ -322,15 +324,15 @@ Similarly students should have an opportunity to read and interpret visual mater
 
 > [note] Some own radio, TV, newspaper
 
-Profit ` 900
+Profit ₹ 900
 
 > [note] People buy products seen in the media. Money, therefore, flows back to big business houses advertise their products
 
-Advertising ` 400
+Advertising ₹ 400
 
-Storage ` 200
+Storage ₹ 200
 
-Purchase ` 300
+Purchase ₹ 300
 
 > [note] MEDIA promotes products through advertisements READERS, VIEWERS, LISTENERS
 
@@ -344,7 +346,9 @@ It would also be fair to expect a range of correct answers when the learner is a
 
 ### Other forms of evaluation
 
-We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below – Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
+We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below –
+
+Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
 
 Oral reasoning and comprehension: Children express so much through speaking and sharing in a classroom. Yet, most often, our current educational system tends to regard this as ‘useless talk’. Learning from peers and expressing themselves through the spoken word is something that needs to be encouraged. Oral evaluation exercises provide an avenue through which to value this. A number of in-text questions in this book can be answered orally and the teacher should begin this process in the classroom.
 
@@ -354,27 +358,25 @@ These forms of evaluation help emphasise that learning is continuous and happens
 
 <!-- pdf page 18 -->
 
-INSTITUTI INDIA
+THE CO ONSTITUTIO ON INDIA
 
-THE Ct
+OF
 
 PREAMBLE
 
-> [caption] PE(
+> [table] OF INDIA, having
 
-> [caption] PLE constitute India intc CIALIST SECULAR and tc secure THE WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial. CCl political; of thought, expression, belief, LIBERTY faith and worship: yf status and EQUALITY ypportunity; and tc promote among them all FRATERNITY assuring the dignity the the individual and and unity f the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 de this twenty-sixth day ENACT AND GIVE T PT, HEREBY AD JURSELVES THIS Ce INSTITUTIC
+> [table] THE PEC OPLE
+
+WE, solemnly resolved to constitute India into OSI, OVEREIGN SC OCIALIST SECULAR DEMC OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY O of thought, expression, belief, faith and worship; EQUALITY of status and c of o opportunity; and to promote among them all FRATERNITY assuring the dignity of the individual and the 'unity and integrity c of the Nation; IN OUR CC ONSTITUENT ASSEMBLY this twenty-sixth day c of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.
 
 JUSTICE,
 
-> [caption] Subs. by the Co
+> [caption] SO n (Forty-secor D nocratic Republic" ( n (Forty-secor 107 MITATTO r "Unity of the Natior w.e.f. 3.1.1977)
 
-> [caption] (Forty-seco ef. 3.1.1977)
+> [caption] w.e.f. 3.1.1977)
 
-> [caption] Subs. by the Cc "Unity of the Natio ef, 3.1.1977)
-
-IN having and
-
-> [caption] INDIA, ymic
+> [caption] overeign Dem O. Subs. by the Cor
 
 <!-- page 1 (pdf 19) -->
 

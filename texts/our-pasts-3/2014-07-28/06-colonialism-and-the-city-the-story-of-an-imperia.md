@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch06.pdf"
 source_sha256: "168c69dd424b55b930bef29fc8cc1d6ffc00f430cc705dee39a87293de513f15"
 pdf_pages: 15
 printed_pages: "64-78"
-body_fingerprint: "2e56689aa9d8d39dcec125f86f4b22c4f54502a85d62bcd4bc7285d9e5bd2853"
+body_fingerprint: "375368e254247a434edb4aa0abaabe56a5df7aba9b83a693c6dfc9c06dd8243c"
+overrides:
+  - "glossary entry at the top of the margin box on page 66 (before Khanqah), not a heading"
 ---
 
 <!-- page 64 (pdf 1) -->
@@ -39,9 +41,11 @@ How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern 
 
 > [caption] Fig. 2 – Bombay port in the eighteenth century The city of Bombay began to grow when the East India Company started using Bombay as its main port in western India.
 
-Urbanisation – The process by which more and more people begin to reside in towns and cities Dargah – The tomb of a Sufi saint Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Idgah – An open prayer place of Muslims primarily meant for id prayers Cul-de-sac – Street with a dead end important are the capital cities built between the twelfth and seventeenth centuries.
+Urbanisation – The process by which more and more people begin to reside in towns and cities Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Idgah – An open prayer place of Muslims primarily meant for id prayers Cul-de-sac – Street with a dead end important are the capital cities built between the twelfth and seventeenth centuries.
 
 <!-- page 66 (pdf 3) -->
+
+Dargah – The tomb of a Sufi saint
 
 > [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858
 
@@ -81,7 +85,7 @@ Dilli jo ek shahr tha alam mein intikhab,... Ham rahne wale hain usi ujre dayar 
 
 <!-- page 68 (pdf 5) -->
 
-Gulfaroshan – A festival of flowers
+### Gulfaroshan – A festival of flowers
 
 Renaissance – Literally, rebirth of art and learning. It is a term often used to describe a time when there is great creative activity.
 
@@ -215,9 +219,9 @@ The Delhi Improvement Trust was set up 1936, and it built areas like Daryaganj S
 
 <!-- page 76 (pdf 13) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-Herbert Baker in South Africa
+### Herbert Baker in South Africa
 
 If you look at Fig.16 and Fig.17 you will find a startling similarity between the buildings. But these buildings are continents apart. What does this show?
 

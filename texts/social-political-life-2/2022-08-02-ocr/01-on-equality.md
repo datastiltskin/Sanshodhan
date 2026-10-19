@@ -10,9 +10,17 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch01.pdf"
 source_sha256: "1437856c5f5e069787c4889b15dac1053d1772120a932f50a06da7a692bc053b"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "b46b00ca501638bff082e9c6f216f0a08d5b298e42f3cca01dc793f5dc62742d"
+body_fingerprint: "071c16c58d888e36d64657b6dbb1b1763db1acbada2db31f41c7b7605705c3a7"
 ocr: true
 ocr_confidence: 88.2
+overrides:
+  - "The speech bubble on page 4 reads 'I will vote for the candidate who has promised to bring pipe water to our area.' The OCR read it as noise and split its tail into a separate block"
+  - "The tail of the page 4 speech bubble is restored in the sentence above, so this stray fragment is dropped"
+  - "The row of labels at the top of page 5 reads Abdul Rehman Artisan, Shabnam Bano Housewife, Gracy Laleng Consultant, Isaac Laleng Government officer, Ruksana Mirza Media person, Yog Raj Unemployed, Ashok Jain Industrialist. The OCR scrambled the order and garbled two words"
+  - "The margin quotation on page 12 opens with 'It'. The OCR read the capital I as T"
+  - "Page 9 reads 'there is dignity'. The OCR misread 'is' as 'ws'"
+  - "The blue box at the top of page 14 (Article 15) is white text on a coloured ground and the OCR read nothing from it. The text is typed from the page image"
+  - "Page 15 reads 'In a democracy'. The OCR dropped the space"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -43,31 +51,29 @@ India is a democracy. In the Class VI book, we looked at the key elements of a d
 
 > [caption] Manjit Kaur Teacher
 
-> [note] Teja Singh
+Teja Singh
 
 > [caption] Girish Rao Student
 
 > [note] Sujata Kumari
 
-> [note] Trader Kanta Devi
+Trader Kanta Devi
 
 > [caption] Domestic worker
 
 > [caption] Domestic worker
 
-> [note] On election day, Kanta and her friend Sujata are waiting to cast their votes...
+On election day, Kanta and her friend Sujata are waiting to cast their votes...
 
-> [note] Isn’t it good Suja that we can all vote as equal citizens of our country? Even Jain ) Saheb is standing in the line with us!
+Isn’t it good Suja that we can all vote as equal citizens of our country? Even Jain ) Saheb is standing in the line with us!
 
-## FP i vote for the SOS will vote for the Y kl candidate who has We
+I will vote for the candidate who has promised to bring pipe water to our area.
 
 > [caption] Go on, Kanta — It’s your turn now.
 
-> [caption] promised to bring pipe water to our area.
-
 <!-- page 5 (pdf 4) -->
 
-Gracy Laleng Isaac Laleng Ruksana Mirza Yo Rai Ashok Jain Abdul Rehman Shabnam Bano Consultant Government officer Media person Unere loved Industrialist Artisan Housewife ploy’ Afterwards...
+Abdul Rehman Artisan Shabnam Bano Housewife Gracy Laleng Consultant Isaac Laleng Government officer Ruksana Mirza Media person Yog Raj Unemployed Ashok Jain Industrialist Afterwards...
 
 Gudia has been running fever and | have to take her to the hospital...but | will have to finish
 
@@ -123,7 +129,7 @@ Omprakash Valmiki (1950-2013) is a famous Dalit writer. In his autobiography, Jo
 
 ## SCc/; Caste no bar, ee cUse. Send BHP (must)
 
-> [note] PROF Qlfd B'ful tall girl 4 Gupta Boy 28/6' CA Working MNC TXS USA $§$ 80k.
+PROF Qlfd B'ful tall girl 4 Gupta Boy 28/6' CA Working MNC TXS USA $§$ 80k.
 
 ## Naithruvakash ram, Swathi Star, 1800s, “tan ge
 
@@ -131,13 +137,13 @@ Omprakash Valmiki (1950-2013) is a famous Dalit writer. In his autobiography, Jo
 
 <!-- page 8 (pdf 7) -->
 
+## joothan
+
+Cover of Omprakash Valmiki’s book, Joothan, which talks about his experiences of growing up as a Dalit boy.
+
 inside my mouth. The other children in my class were studying and I was sweeping. Headmaster was sitting in his room and watching me. I was not even allowed to get a drink of water. I swept the whole day,...From the doors and windows of the school rooms, the eyes of the teachers and the boys saw this spectacle.” Omprakash was made to sweep the school and the playground for the next couple of days and this only came to an end when his father, who happened to be passing by, saw his son sweeping. He confronted the teachers and then walking away from the school holding Omprakash’s hand, he said loudly for all of them to hear, “You are a teacher...So I am leaving now. But remember this much Master...(He) will study right here...in this school. And not just him, but there will be more coming after him.”
 
 The second story is based on an incident that took place in one of India’s larger cities and is common practice in most parts of the country. It is a story about Mr and Mrs Ansari who were looking to rent an apartment in the city. They had the money and so paying the rent was no problem. They went to a property dealer for help to find a place. The dealer informed them that he knew about quite a few apartments that were available for rent. They visited the first apartment and the Ansaris liked it very much and decided to take it. However, when the landlady found out their names, she made an excuse about how she could not rent the house to someone who ate meat because the building did not have any non-vegetarian residents. Both the Ansaris and the property dealer were surprised to hear this because they could smell fish being cooked in the neighbour’s house. The same excuse was repeated in the second and the third apartments. Finally, the property dealer told them that they might want to change their names and call themselves Mr and Mrs Kumar. The Ansaris were reluctant to do this and decided to look some more. In the end, it took a whole month of looking at apartments before they found a landlady who was willing to give them a place on rent.
-
-## joothan
-
-> [note] Cover of Omprakash Valmiki’s book, Joothan, which talks about his experiences of growing up as a Dalit boy.
 
 <!-- page 9 (pdf 8) -->
 
@@ -153,11 +159,11 @@ Equality in Indian democracy
 
 The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
-> [note] If you were one of the Ansaris how would you have responded to the suggestion that you change your name?
+If you were one of the Ansaris how would you have responded to the suggestion that you change your name?
 
-> [note] Can you think of an incident in your life in which your dignity was violated? How did this make you feel?
+Can you think of an incident in your life in which your dignity was violated? How did this make you feel?
 
-> [note] In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there ws dignity in the work that he does and insists that his fee be given respectfully.
+In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
 
 <!-- page 10 (pdf 9) -->
 
@@ -181,7 +187,7 @@ While government programmes play an important role in increasing equality of opp
 
 <!-- page 12 (pdf 11) -->
 
-“Tt is disgraceful to live at the cost of one's self-respect. Self-respect is the most vital factor in life. Without it, man is a cipher. To live worthily with self-respect, one has to overcome difficulties. It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.
+“It is disgraceful to live at the cost of one's self-respect. Self-respect is the most vital factor in life. Without it, man is a cipher. To live worthily with self-respect, one has to overcome difficulties. It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.
 
 “Man is mortal. Everyone has to die some day or the other. But one must resolve to lay down one’s life in enriching the noble ideals of self-respect and in bettering one's human life... Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”
 
@@ -197,9 +203,25 @@ Rosa Parks (1913-2005) was an African-American woman. Tired from a long day at w
 
 <!-- page 13 (pdf 12) -->
 
-> [note] Rosa Parks, an African—American woman, changed the course of American history with one defiant act.
+Rosa Parks, an African—American woman, changed the course of American
+
+history with one defiant act.
 
 <!-- page 14 (pdf 13) -->
+
+Excerpt from Article 15 of the Indian Constitution
+
+Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+
+(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
+
+(2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to –
+
+(a) access to shops, public restaurants, hotels and places of public entertainment;
+
+or
+
+(b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
 
 Challenge of democracy
 
@@ -207,7 +229,7 @@ No country can be described as being completely democratic. There are always com
 
 <!-- page 15 (pdf 14) -->
 
-In ademocracy why is universal adult franchise important?
+In a democracy why is universal adult franchise important?
 
 Re-read the box on Article 15 and state two ways in which this Article addresses inequality?
 
@@ -223,10 +245,16 @@ Look at the photograph and think about the boy who is being carried down the sta
 
 Glossary
 
-Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.
+Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or
+
+economic backgrounds.
 
 Dignity: This refers to thinking of oneself and other persons as worthy of respect.
 
-Constitution: This is a document that lays down the basic rules and regulations for people and the government in the country to follow.
+Constitution: This is a document that lays down the basic rules and regulations for people and
 
-Civil Rights Movement: A movement that began in USA in 1950s in which African-American people demanded equal rights and an end to racial discrimination.
+the government in the country to follow.
+
+Civil Rights Movement: A movement that began in USA in 1950s in which African-American
+
+people demanded equal rights and an end to racial discrimination.

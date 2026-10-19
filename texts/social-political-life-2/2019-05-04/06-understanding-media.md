@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch06.pdf"
 source_sha256: "771e1b9ab9fa49e8978de36b20d937c7d125ee7181e0cbf37bc50e2bccf2af82"
 pdf_pages: 12
 printed_pages: "68-79"
-body_fingerprint: "b9815fec44cc42e0e30396e0f9a8181f5787d6d9f1abdbb66c32501313febfdd"
+body_fingerprint: "5d2232f5004198a8c93bde9a501b2ab9b0c7b8b761beebb98dc65c23782a32fe"
 ---
 
 <!-- page 68 (pdf 1) -->
@@ -91,7 +91,7 @@ In a democracy, the media plays a very important role in providing news and disc
 
 Given the role that the media plays in providing information, it is important that the information be balanced. Let us understand what we mean by a balanced media report by reading two versions of the same news event given on the next page.
 
-The cost to advertise on a TV channel varies from ` 1,000 to ` 1,00,000 per 10 seconds depending on the popularity of the channel and time.
+The cost to advertise on a TV channel varies from ₹ 1,000 to ₹ 1,00,000 per 10 seconds depending on the popularity of the channel and time.
 
 The print media offers a large variety of information to suit the tastes of different readers.
 
@@ -179,7 +179,9 @@ to the working of the government. The media decides what to focus on and in this
 
 <!-- page 79 (pdf 12) -->
 
-EXERCISES cs
+<!-- section: exercises -->
+
+EXERCISES
 
 > [table] 1. In what ways does the media play an important role in a democracy?
 

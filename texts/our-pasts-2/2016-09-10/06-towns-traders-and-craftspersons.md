@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch06.pdf"
 source_sha256: "b677932871196927d7c0ceab29b38b652db88b945c0d53afa4f3e78a65ae7deb"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "c61f0026bd5cb5c9d79ace7c959c8953109ef28b9dc936862d6edc5930c71375"
+body_fingerprint: "a4339868f3093edafd2864ee1ea137721661432bfd910befc2dfcffb174d2e71"
 ---
 
 <!-- page 75 (pdf 1) -->
@@ -43,7 +43,7 @@ Thanjavur is also an example of a temple town. Temple towns represent a very imp
 
 <!-- page 77 (pdf 3) -->
 
-Bronze, bell metal and the “lost wax” technique Temple authorities used their wealth to finance trade and banking. Gradually a large number of priests, workers, artisans, traders, etc. settled near the temple to cater to its needs and those of the pilgrims. Thus grew temple towns. Towns emerged around temples such as those of Bhillasvamin (Bhilsa or Vidisha in Madhya Pradesh), and Somnath in Gujarat. Other important temple towns included Kanchipuram and Madurai in Tamil Nadu, and Tirupati in Andhra Pradesh.
+### Bronze, bell metal and the “lost wax” technique
 
 > [note] Bronze is an alloy containing copper and tin. Bell metal contains a greater proportion of tin than other kinds of bronze. This produces a bell-like sound.
 
@@ -52,6 +52,8 @@ Bronze, bell metal and the “lost wax” technique Temple authorities used thei
 > [note] First, an image was made of wax. This was covered with clay and allowed to dry. Next it was heated, and a tiny hole was made in the clay cover. The molten wax was drained out through this hole. Then molten metal was poured into the clay mould through the hole. Once the metal cooled and solidified, the clay cover was carefully removed, and the image was cleaned and polished.
 
 > [note] What do you think were the advantages of using this technique?
+
+Temple authorities used their wealth to finance trade and banking. Gradually a large number of priests, workers, artisans, traders, etc. settled near the temple to cater to its needs and those of the pilgrims. Thus grew temple towns. Towns emerged around temples such as those of Bhillasvamin (Bhilsa or Vidisha in Madhya Pradesh), and Somnath in Gujarat. Other important temple towns included Kanchipuram and Madurai in Tamil Nadu, and Tirupati in Andhra Pradesh.
 
 Pilgrimage centres also slowly developed into townships. Vrindavan (Uttar Pradesh) and Tiruvannamalai (Tamil Nadu) are examples of two such towns. Ajmer (Rajasthan) was the capital of the Chauhan kings in the twelfth century and later became the suba headquarters under the Mughals. It provides an excellent example of religious coexistence. Khwaja Muinuddin Chishti, the celebrated Sufi saint (see also Chapter 8) who settled there in the twelfth century, attracted devotees from all creeds. Near Ajmer is a lake, Pushkar, which has attracted pilgrims from ancient times.
 
@@ -71,7 +73,7 @@ From the eighth century onwards the subcontinent was dotted with several small t
 
 Usually a samanta or, in later times, a zamindar built a fortified palace in or near these towns. They levied taxes on traders, artisans and articles of trade and sometimes “donated” the “right” to collect these taxes to local temples, which had been built by themselves or by rich merchants. These “rights” were recorded in inscriptions that have survived to this day.
 
-Taxes on markets
+### Taxes on markets
 
 > [note] The following is a summary from a tenth-century inscription from Rajasthan, which lists the dues that were to be collected by temple authorities:
 
@@ -95,7 +97,7 @@ There were also communities like the Chettiars and the Marwari Oswal who went on
 
 The towns on the west coast were home to Arab, Persian, Chinese, Jewish and Syrian Christian traders. Indian spices and cloth sold in the Red Sea ports were purchased by Italian traders and eventually reached European markets, fetching very high profits. Spices grown in tropical climates (pepper, cinnamon, nutmeg, dried ginger, etc.) became an important part of European cooking, and cotton cloth was very attractive. This eventually drew European traders to India. We will shortly read about how this changed the face of trading and towns.
 
-Kabul
+### Kabul
 
 > [note] With its rugged, mountainous landscape, Kabul (in present-day Afghanistan) became politically and commercially important from the sixteenth century onwards. Kabul and Qandahar were linked to the celebrated Silk Route. Besides, trade in horses was primarily carried on through this route. In the seventeenth century Jean Baptiste Tavernier, a diamond merchant, estimated that the horse trade at Kabul amounted to Rs 30,000 annually, which was a huge sum in those days. Camels carried dried fruits, dates, carpets, silks and even fresh fruits from Kabul to the subcontinent and elsewhere. Slaves were also brought here for sale.
 
@@ -113,13 +115,13 @@ The craftspersons of Bidar were so famed for their inlay work in copper and silv
 
 <!-- page 82 (pdf 8) -->
 
-The changing fortunes of towns
+### The changing fortunes of towns
 
 > [note] Some towns like Ahmedabad (Gujarat) went on to become major commercial cities but others like Thanjavur shrank in size and importance over the centuries. Murshidabad (West Bengal) on the banks of the Bhagirathi, which rose to prominence as a centre for silks and became the capital of Bengal in 1704, declined in the course of the century as the weavers faced competition from cheap mill-made cloth from England.
 
 ## A Closer Look: Hampi, Masulipatnam and Surat
 
-The Architectural Splendour of Hampi
+### The Architectural Splendour of Hampi
 
 Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of the Vijayanagara Empire, founded in 1336. The magnificent ruins at Hampi reveal a well-fortified city. No mortar or cementing agent was used in the construction of these walls and the technique followed was to wedge them together by interlocking.
 
@@ -127,7 +129,7 @@ Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of t
 
 <!-- page 83 (pdf 9) -->
 
-A fortified city
+### A fortified city
 
 > [note] This is how a Portuguese traveller, Domingo Paes, described Hampi in the sixteenth century:
 
@@ -141,7 +143,13 @@ Temples were the hub of cultural activities and devadasis (temple dancers) perfo
 
 > [caption] Fig. 7 Stone chariot, Vitthala temple,
 
+> [caption] Hampi.
+
 <!-- page 84 (pdf 10) -->
+
+Emporium A place where goods from diverse production centres are bought and sold.
+
+Hundi is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
 
 Hampi fell into ruin following the defeat of Vijayanagara in 1565 by the Deccani Sultans – the rulers of Golconda, Bijapur, Ahmadnagar, Berar and Bidar.
 
@@ -155,10 +163,6 @@ There were also several retail and wholesale shops selling cotton textiles. The 
 
 However, Surat began to decline towards the end of the seventeenth century. This was because of many factors: the loss of markets and productivity because of the decline of the Mughal Empire, control of the sea routes by the Portuguese and competition from Bombay (present-day Mumbai) where the English East India Company shifted its headquarters in 1668. Today, Surat is a bustling commercial centre.
 
-> [note] Emporium A place where goods from diverse production centres are bought and sold.
-
-> [note] Hundi is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
-
 <!-- page 85 (pdf 11) -->
 
 ## Fishing in Troubled Waters: Masulipatnam
@@ -167,7 +171,7 @@ The town of Masulipatnam or Machlipatnam (literally, fish port town) lay on the 
 
 Both the Dutch and English East India Companies attempted to control Masulipatnam as it became the most important port on the Andhra coast. The fort at Masulipatnam was built by the Dutch.
 
-A poor fisher town
+### A poor fisher town
 
 > [note] This is a description of Masulipatnam by William Methwold, a Factor of the English East India Company, in 1620:
 
@@ -177,7 +181,7 @@ This is the chief port of Golconda, where the Right Worshipfull East India Compa
 
 The Qutb Shahi rulers of Golconda imposed royal monopolies on the sale of textiles, spices and other items to prevent the trade passing completely into the hands of the various East India Companies. Fierce competition among various trading groups – the Golconda nobles, Persian merchants, Telugu Komati Chettis, and European traders – made the city populous and prosperous. As the Mughals began to extend their power to Golconda their representative, the governor Mir Jumla who was also a merchant, began to play off the Dutch and the English against each other. In 1686-1687 Mughal Emperor Aurangzeb annexed Golconda.
 
-> [note] Factor Official merchant of the East India Company.
+Factor Official merchant of the East India Company.
 
 <!-- page 86 (pdf 12) -->
 
@@ -193,7 +197,7 @@ The spurt in demand for goods like textiles led to a great expansion of the craf
 
 The eighteenth century saw the rise of Bombay, Calcutta and Madras, which are nodal cities today. Crafts and commerce underwent major changes as merchants and artisans (such as weavers) were moved into the Black Towns established by the European companies within these new cities. The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St George in Madras or Fort St William in Calcutta. The story of crafts and commerce in the eighteenth century will be taken up next year.
 
-> [caption] Fig. 8 A Bombay street, early nineteenth
+> [caption] Fig. 8 A Bombay street, early nineteenth century.
 
 <!-- page 88 (pdf 14) -->
 
@@ -205,9 +209,11 @@ Vasco da Gama and Christopher Columbus
 
 > [caption] Fig. 9 Vasco da Gama.
 
-Imagine
+### Imagine
 
-You are planning a journey from Surat to West Asia in the seventeenth century. What are the arrangements you will make?
+You are planning a journey from Surat
+
+to West Asia in the seventeenth century. What are the arrangements you will make?
 
 > [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area.
 
@@ -229,25 +235,43 @@ You are planning a journey from Surat to West Asia in the seventeenth century. W
 
 2. State whether true or false:
 
-(a) We know the name of the architect of the Rajarajeshvara temple from an inscription.
+(a) We know the name of the architect of the
 
-(b) Merchants preferred to travel individually rather than in caravans.
+Rajarajeshvara temple from an inscription.
 
-(c) Kabul was a major centre for trade in elephants.
+(b) Merchants preferred to travel individually
 
-(d) Surat was an important trading port on the Bay of Bengal.
+rather than in caravans.
+
+(c) Kabul was a major centre for trade in
+
+elephants.
+
+(d) Surat was an important trading port on the
+
+Bay of Bengal.
 
 3. How was water supplied to the city of Thanjavur?
 
 4. Who lived in the “Black Towns” in cities such as Madras?
 
-KEYWORDS temple towns urbanisation
+<!-- section: glossary -->
 
-Vishwakarma emporium
+### Keywords
 
-Black Town
+- temple towns
+
+- urbanisation
+
+- Vishwakarma
+
+- emporium
+
+- Black Town
 
 <!-- page 90 (pdf 16) -->
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

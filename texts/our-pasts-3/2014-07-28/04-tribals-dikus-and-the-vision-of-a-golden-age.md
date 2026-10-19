@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch04.pdf"
 source_sha256: "d06cccd44699eba52158413f84ec19ccbb627a1207682447aae7081e5819753e"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "2223db6ece9dfe2ec0ba5748d0d963c466abc76c6b668fe7718ca973443e9770"
+body_fingerprint: "958cd66e2283335ac3eafb6eeaed0500d81ed71cbdb88e03f9dca13491a5481f"
+overrides:
+  - "glossary entry in the margin box on page 40 (after Fallow, before Mahua), not a heading"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -31,7 +33,9 @@ You have read about tribal societies last year. Most tribes had customs and ritu
 
 <!-- page 40 (pdf 2) -->
 
-Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that is eaten or used to make alcohol
+Fallow – A field left uncultivated for a while so that the soil recovers fertility Mahua – A flower that is eaten or used to make alcohol
+
+Sal – A tree
 
 > [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
 
@@ -73,7 +77,7 @@ The cycle described above took place in the first year. In the second year there
 
 > [table] Adapted from Verrier Elwin, Baiga (1939) and Elwin’s unpublished ‘Notes on the Khonds’ (Verrier Elwin Papers, Nehru Memorial Museum and Library)
 
- Activity
+### Activity
 
 Look carefully at the tasks that Baiga men and women did. Do you see any pattern? What were the differences in the types of work that they were expected to perform?
 
@@ -219,9 +223,9 @@ In 1900 Birsa died of cholera and the movement faded out. However, the movement 
 
 (d) Tribals went to work in the ____________ of Assam and the ____________ in Bihar.
 
-> [note] ELSEWHERE
+### ELSEWHERE
 
-> [note] Why do we need cash!
+### Why do we need cash!
 
 > [caption] There are many reasons why tribal and other social groups often do not wish to produce for the market. This tribal song from Papua New Guinea gives us a glimpse of how the tribals there viewed the market.
 

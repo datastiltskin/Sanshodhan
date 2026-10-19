@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch07.pdf"
 source_sha256: "80c2022b9e949f14fcf7b33582c56bcc6de0e793b3ffdaec6a2174a61072aee6"
 pdf_pages: 13
 printed_pages: "81-93"
-body_fingerprint: "3ad2ba5a8cabda03a0bb4444a4de09007ecc6c82bdbcc3bb4d072470687d7313"
+body_fingerprint: "bf9c0d7cabf23c774d61983118283f0d3d356c52d020a4eab50456496fa49be0"
 ---
 
 <!-- page 81 (pdf 1) -->
@@ -27,13 +27,11 @@ Let us look at what the British thought and did, and how some of the ideas of ed
 
 ### The tradition of Orientalism
 
-In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages Madrasa – An Arabic word for a place of learning; any type of school or college poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+
+> [caption] Fig. 1 – William Jones learning Persian
 
 <!-- page 82 (pdf 2) -->
-
-> [caption] Fig. 2 – Henry Thomas Colebrooke
-
-> [table] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
 
 Jones discovered that his interests were shared by many British officials living in Calcutta at the time. Englishmen like Henry Thomas Colebrooke and Nathaniel Halhed were also busy discovering the ancient Indian heritage, mastering Indian languages and translating Sanskrit and Persian works into English. Together with them, Jones set up the Asiatic Society of Bengal, and started a journal called Asiatick Researches.
 
@@ -45,13 +43,15 @@ Influenced by such ideas, many Company officials argued that the British ought t
 
 With this object in view a madrasa was set up in Calcutta in 1781 to promote the study of Arabic, Persian and Islamic law; and the Hindu College was established in Benaras in 1791 to encourage the study of ancient Sanskrit texts that would be useful for the administration of the country.
 
+> [caption] Fig. 2 – Henry Thomas Colebrooke
+
+> [caption] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
+
+Madrasa – An Arabic word for a place of learning; any type of school or college Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
+
 <!-- page 83 (pdf 3) -->
 
-> [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
-
-This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
-
-Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
+> [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
 ### “Grave errors of the East”
 
@@ -95,7 +95,7 @@ Wood’s Despatch also argued that European learning would improve the moral cha
 
 Following the 1854 Despatch, several measures were introduced by the British. Education departments of the government were set up to extend control over all matters regarding education. Steps were taken to establish a system of university education. In 1857, while the sepoys rose in revolt in Meerut and Delhi, universities were being established in Calcutta, Madras and Bombay. Attempts were also made to bring about changes within the system of school education.
 
-Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions. 
+Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions.
 
 > [caption] Fig. 5 – Bombay University in the nineteenth century
 
@@ -119,7 +119,7 @@ Over the nineteenth century, missionary schools were set up all over India. Afte
 
 > [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
 
-The demand for moral education
+### The demand for moral education
 
 > [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
 
@@ -215,9 +215,9 @@ Many individuals and thinkers were thus thinking about the way a national educat
 
 <!-- page 92 (pdf 12) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-Education as a civilising mission
+### Education as a civilising mission
 
 Until the introduction of the Education Act in 1870, there was no widespread education for the population as a whole for most of the nineteenth century. Child labour being widely prevalent, poor children could not be sent to school for their earning was critical for the survival of the family. The number of schools was also limited to those run by the Church or set up by wealthy individuals. It was only after the coming into force of the Education Act that schools were opened by the government and compulsory schooling was introduced.
 

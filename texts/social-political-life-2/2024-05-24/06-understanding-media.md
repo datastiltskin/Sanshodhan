@@ -11,9 +11,9 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch06.pdf"
 source_sha256: "6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9"
 pdf_pages: 12
 printed_pages: "62-73"
-body_fingerprint: "23cd5727b2589497c80fdd5040e685851584ea92952714f2fd4a41ba4bcfebc7"
+body_fingerprint: "c951ff69ecbf4cd69478036c66285663f3a30f17d58dc4b8915992288d93df25"
 overrides:
-  - "a decorative glyph next to the Exercises heading in the 2024-25 file reads as 'oD.'"
+  - "The headline on page 68 reads 'Crackdown on polluting factories' with 'Protestors block roads and disrupt traffic' as its sub-headline. The OCR split 'polluting' across the line"
 ---
 
 <!-- page 62 (pdf 15 of ch05.pdf) -->
@@ -100,7 +100,7 @@ The print media offers a large variety of information to suit the tastes of diff
 
 <!-- page 68 (pdf 5) -->
 
-News of India Report Crackdown on pol Protestors block roads and disrupt traffic cutting factories Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.
+News of India Report Crackdown on polluting factories Protestors block roads and disrupt traffic Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.
 
 > [caption] Radhika Malik | INN
 
@@ -156,9 +156,11 @@ Fashion shows are very popular with the media.
 
 > [table] Can you think of an issue that
 
-As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Local media Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
+As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
 
 > [table] does not seem important to you because it is never featured in the media?
+
+### Local media
 
 Another example is a newspaper called Khabar Lahriya which is a fortnightly that is run by eight Dalit women in Chitrakoot district in Uttar Pradesh. Written in the local language, Bundeli, this eight-page newspaper reports on Dalit issues and cases of violence against women and political corruption. The newspaper reaches farmers, shopkeepers, panchayat members, school teachers and women who have recently learnt to read and write.
 
@@ -171,6 +173,8 @@ Social advertisements refer to advertisements made by the Government or private 
 to the working of the government. The media decides what to focus on and in this way it ‘sets the agenda’. The government can, at times, prevent the media from publishing a story and this is called censorship. Nowadays, media’s close relationship with business often means that a balanced report is difficult to come by. Given this, it is important for us to be aware that the ‘factual information’ that a news report provides is often not complete and can be one-sided. We, therefore, need to analyse the news by asking the following questions: what is the information I am learning from this report? What information is not being provided? From whose point of view is the article being written? Whose point of view is being left out and why?
 
 <!-- page 73 (pdf 10) -->
+
+<!-- section: exercises -->
 
 EXERCISES
 
@@ -194,9 +198,11 @@ EXERCISES
 
 > [table] 4. As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this. Also watch the coverage of this topic on TV news.
 
-> [table] Compare two newspapers and write down the similarity and differences in their reports. It might help to ask the iN READERS, following questions– MEDIA a. What information is this article providing?
+> [table] Compare two newspapers and write down the similarity and differences in their reports. It might help to ask the following questions– MEDIA a. What information is this article providing?
 
 > [caption] promotes products through advertisements
+
+> [table] READERS,
 
 > [table] VIEWERS, LISTENERS b. What information is it leaving out?
 

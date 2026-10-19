@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch07.pdf"
 source_sha256: "3cade768aa6ad102f39b7c705c86596b9e1eaf556939a22432d45e661847837b"
 pdf_pages: 15
 printed_pages: "78-92"
-body_fingerprint: "865d205e49391e2924179b92cb0a761ed8ae70b1be10f1c363ff07a2688b60e6"
+body_fingerprint: "d556e75730a9f2af2fa0faa1d71aa9c1d84e8c37ae6a4a1aefc5db7a3284a090"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -38,7 +38,7 @@ From the early nineteenth century, we find debates and discussions about social 
 
 These debates were often initiated by Indian reformers and reform groups. One such reformer was Raja Rammohun Roy (1772–1833). He founded a reform association known as the Brahmo Sabha (later known as the Brahmo Samaj) in Calcutta. People such as Rammohun Roy are described as reformers because they felt that changes were necessary in society, and unjust practices needed to be done away with. They thought that the best way to ensure such changes was by persuading people to give up old practices and adopt a new way of life.
 
-Activity
+### Activity
 
 Can you think of the ways in which social customs and practices were discussed in the pre-printing age when books, newspapers and pamphlets were not readily available?
 
@@ -56,7 +56,7 @@ The strategy adopted by Rammohun was used by later reformers as well. Whenever t
 
 > [caption] Fig. 3 – Hook swinging festival
 
-In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
+> [caption] In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
 > [caption] Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 
@@ -78,13 +78,13 @@ By the second half of the nineteenth century, the movement in favour of widow re
 
 Yet, the number of widows who actually remarried remained low. Those who married were not easily accepted in society and conservative groups continued to oppose the new law.
 
-Activity
+### Activity
 
 This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
 
 > [caption] Fig. 4 – Swami Dayanand Saraswati
 
-> [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
+> [caption] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
 <!-- page 82 (pdf 5) -->
 
@@ -132,13 +132,13 @@ Isn’t a woman’s life as dear to her as yours is to you? It’s as if women a
 
 <!-- page 84 (pdf 7) -->
 
-Law against child marriage
+### Law against child marriage
 
 > [note] With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength. People challenged another established custom – that of child marriage. There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage. In 1929, the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen. According to the Act, no man below the age of 18 and woman below the age of 16 could marry. Subsequently these limits were raised to 21 for men and 18 for women.
 
 > [caption] Fig. 8 – Bride at the age of eight
 
-> [table] This is a picture of a child bride at the beginning of the twentieth century. Did you know that even today over 20 per cent of girls in India are married below the age of 18?
+> [caption] This is a picture of a child bride at the beginning of the twentieth century. Did you know that even today over 20 per cent of girls in India are married below the age of 18?
 
 ## Caste and Social Reform
 
@@ -150,31 +150,31 @@ At the same time, the poor began leaving their villages to look for jobs that we
 
 <!-- page 85 (pdf 8) -->
 
-> [caption] Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
-
 Who could produce shoes?
 
-> [note] Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
-
-> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh
-
-> [table] Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
+> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
 
 There were other jobs too. The army, for instance, offered opportunities. A number of Mahar people, who were regarded as untouchable, found jobs in the Mahar Regiment. The father of B.R. Ambedkar, the leader of the Dalit movement, taught at an army school.
 
+> [caption] Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
+
+> [note] Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
+
 <!-- page 86 (pdf 9) -->
 
-No place inside the classroom
+### No place inside the classroom
 
-> [note] I n t h e B o m b a y Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
+> [note] In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
+
+### Activity
+
+1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
+
+> [caption] Fig. 12 – Shri Narayana Guru
 
 > [caption] Fig. 11 – Dublas of Gujarat carrying mangoes to the market.
 
-> [table] Dublas laboured for upper-caste landowners, cultivating their fields, and working at a variety of odd jobs at the landlord’s house.
-
-Activity
-
-1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
+> [caption] Dublas laboured for upper-caste landowners, cultivating their fields, and working at a variety of odd jobs at the landlord’s house.
 
 ### Demands for equality and justice
 
@@ -182,9 +182,11 @@ Gradually, by the second half of the nineteenth century, people from within the 
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
-All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru Gulamgiri One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up, he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
+All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes.
 
 <!-- page 87 (pdf 10) -->
+
+Gulamgiri One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up, he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 Phule claimed that before Aryan rule, there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways. He proposed that Shudras (labouring castes) and Ati Shudras (untouchables) should unite to challenge caste discrimination. The Satyashodhak Samaj, an association Phule founded, propagated caste equality.
 
@@ -198,9 +200,11 @@ The Brahmans have hidden away the sword of their religion which has cut the thro
 
 > [table] Jyotiba Phule, The Cultivator’s Whipcord
 
-In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
+In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
 
 > [caption] Fig. 13 – Jyotirao Phule
+
+### Activity
 
 <!-- page 88 (pdf 11) -->
 
@@ -214,7 +218,7 @@ We now want to go to the Tank only to prove that like others, we are also human 
 
 > [caption] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792
 
-> [table] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
+> [caption] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
 
 those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
@@ -250,15 +254,15 @@ Only with the arrival of words such as Thara Mukurtham our women had become pupp
 
 > [caption] Periyar, cited in Periyar
 
-> [table] Chintahnaikal
+> [caption] Chintahnaikal
 
-Activity
+### Activity
 
 Why does caste remain such a controversial issue today? What do you think was the most important movement against caste in colonial times?
 
 <!-- page 90 (pdf 13) -->
 
-Organising for reform
+### Organising for reform
 
 > [note] The Brahmo Samaj
 

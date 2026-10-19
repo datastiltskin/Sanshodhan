@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch01.pdf"
 source_sha256: "f3d00ae74b615e82f5b087edaf9aa0bb93197f0c32bae53633ccc42fc68e811e"
 pdf_pages: 8
 printed_pages: "2-9"
-body_fingerprint: "01682da3608ea84541a511081ec2dd0add0b1279c4be30c33b7249f40cc54edf"
+body_fingerprint: "6c80c68418adfa9acf1945ea3304e6d1ddb38cf2701a22f2161f6d4d24a90c03"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -65,7 +65,7 @@ While government programmes play an important role in increasing equality of opp
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 
-Issues of equality in other democracies
+### Issues of equality in other democracies
 
 You are probably wondering whether India is the only democratic country in which there is inequality and Children being served their midday meal at a government school in Uttarakhand.
 
@@ -95,7 +95,9 @@ Challenge of democracy
 
 No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
 
-Excerpt from Article 15 of the Indian Constitution Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+### Excerpt from Article 15 of the Indian Constitution
+
+Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
 
 (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
 
@@ -113,15 +115,13 @@ or
 
 EXERCISES
 
-> [note] this Article addresses inequality?
-
 <!-- section: glossary -->
 
 Glossary
 
 > [note] 1. In a democracy why is universal adult franchise important?
 
-> [note] 2. Re-read the box on Article 15 and state two ways in which
+> [note] 2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?
 
 > [note] 3. What do you understand by the term “all persons are equal before the law”? Why do you think it is important in a democracy?
 

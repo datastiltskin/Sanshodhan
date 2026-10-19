@@ -2,6 +2,9 @@
 book: "our-pasts-2"
 edition: "2024-05-24"
 source_pdf: "pdfs/our-pasts-2/2024-05-24/prelims.pdf"
+overrides:
+  - "Keywords box on the 'In this book' page (xiii) ends 'in the lesson.', the closing line below the purple note was read into it"
+  - "closing line of the 'In this book' page (xiii) sits below the purple note, put back after it"
 ---
 
 <!-- pdf page 1 -->
@@ -12,13 +15,13 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/prelims.pdf"
 
 ## for Class VII
 
-cla Siar PAA SR TART fap sry f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
+> [table] NATIONAL COUNCIL L OF EDUCATIONAL RESEARCH AND T TRAIN
 
 <!-- pdf page 2 -->
 
 > [caption] PD 600T SU
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [caption] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8
 
@@ -96,15 +99,15 @@ New Delhi Director 20 November 2006 National Council of Educational Research and
 
 Contents of the textbooks have been rationalised in view of the following
 
-• Overlapping with similar content included in other subject areas in the same class
+- Overlapping with similar content included in other subject areas in the same class
 
-• Similar content included in the lower or higher class in the same subject
+- Similar content included in the lower or higher class in the same subject
 
-• High difficulty level
+- High difficulty level
 
-• Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning.
+- Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning.
 
-• Content, which is not relevant in the present context or outdated.
+- Content, which is not relevant in the present context or outdated.
 
 This present edition, is a reformatted version after carrying out the changes given above.
 
@@ -136,6 +139,10 @@ for the Secondary Stage
 
 > [table] Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerala Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
 
+> [caption] Member-Coordinator
+
+> [table] Reetu Singh, Lecturer, DESS, NCERT, New Delhi
+
 <!-- pdf page 8 -->
 
 ### acknowledgements
@@ -154,7 +161,7 @@ The Council acknowledges the valuable inputs for analysing syllabi, textbooks an
 
 We would like to acknowledge the following:
 
-PHOTO CREDITS
+### PHOTO CREDITS
 
 ----. Delhi, Agra, Jaipur: the Golden Triangle, (Ch.4, fig. 1); Asher, Catherine and Cynthia Talbot. India Before Europe, (Ch. 8, fig. 8); Atil, Esin. The Brush of the Masters: Drawings from Iran and India, (Back Cover); Bandyopadhyay, Amiyakumar. Bankurar Mandir, (Ch. 7, figs. 11, 12, 13, 14); Bayly, C. A. An Illustrated History of Modern India,1600-1947, (Ch. 8, fig. 2); Beach, Milo C. and Ebba Koch. King of the World, the Padshahnama, (Ch. 4, figs. 2, 3, 4, 5); Centre for Cultural Resource and Training, New Delhi, (Ch. 2, fig. 4; Ch. 7, figs. 3, 5); Das, Anath. Jat Vaishnava Katha, (Ch. 6, fig. 6); Eaton, Richard. Sufis of Bijapur, (Ch. 6, fig. 6); Edwardes, Michael. Indian Temples and Palaces, (Ch. 2, fig. 1); Gascoigne, Bamber. The Great Mughals, (Ch. 4, fig. 6); Goswamy, B. N. The Word is Sacred, Sacred is the Word, (Ch. 2, fig. 2; Ch. 6, fig. 1; Ch. 7, fig. 2); Hooja, Rima. A History of Rajasthan, (Ch. 8, fig. 5); Kothari, Sunil. Kathak: Indian Classical Dance Art (Ch. 7, fig. 6); Lafont, Jean-Marie. Maharaja Ranjit Singh: Lord of the Five Rivers, (Ch. 8, fig. 6); Masselos, Jim, Jackie Menzies, Pratapaditya Pal. Dancing to the Flute: Music and Dance in Indian Art, (Ch. 5, fig. 1; Ch. 6, figs. 4, 8, 9; Ch. 7, figs. 8, 9); Michell, George. Architecture and Art of Southern India, (Ch. 6, fig. 2); Pal, Pratapaditya. Court Paintings of India, (Ch. 5, fig. 2; Ch. 6, fig. 3; Ch. 7, figs. 4, 7, 8); Safadi, Y.H. Islamic Calligraphy, (Ch.1, fig. 2); Singh, Roopinder. Guru Nanak, his Life and Teachings, (Ch. 6, fig. 11); Stronge, Susan. The Arts of the Sikh Kingdoms, (Ch. 6, fig. 10, pg. xii);
 
@@ -194,11 +201,11 @@ Foreword iii Rationalisation of Content in the Textbooks v In this book xii
 
 <!-- pdf page 12 -->
 
-## I n t h i s b o o k
+## In this book
 
 Each chapter is divided into sections. Read, discuss and understand each section before proceeding to the next. Look out for the following in each Chapter.
 
-Additional Information
+### Additional Information
 
 Definition Box Some chapters contain definitions.
 
@@ -220,7 +227,7 @@ You will also find maps. Look at these and try to locate the places mentioned in
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 
-Keywords
+### Keywords
 
 At the end of each chapter, you will find a list of keywords. These are to remind you of important ideas/ themes introduced in the lesson.
 

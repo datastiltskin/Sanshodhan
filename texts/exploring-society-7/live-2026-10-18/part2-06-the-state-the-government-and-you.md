@@ -11,7 +11,9 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf"
 source_sha256: "c78925f200070bb78d56e0ac599cbc659226bca8d4f7861c4e6366e43813fc85"
 pdf_pages: 26
 printed_pages: "143-168"
-body_fingerprint: "291c1ef08f5bd9bec64d3db57e9b6855f8e91fbd212fac41a7a83f86fdfc9df1"
+body_fingerprint: "d34ec76d26ff5a1660994d335a868576590a96a777d045c25db4af2a6ab09c13"
+overrides:
+  - "part 2 chapter 6, page 144: the infographic boxes were interleaved, rebuilt from the page image"
 ---
 
 <!-- page 143 (pdf 1) -->
@@ -54,15 +56,15 @@ A state (or a nation) is a political organisation that has the authority to gove
 
 A state has four important parts:
 
-> [caption] w fi Land – a fixed area
+> [caption] People – the citizens who live in the country
 
-> [caption] People – the citizens who live in the
+> [caption] Land – a fixed area or territory
 
-> [caption] Government
+> [caption] Government – a system to run the country
 
-> [caption] Sovereignty – the full power to make laws and
+> [caption] Sovereignty – the full power to make laws and take decisions without any outside control
 
-> [caption] – a system or territory to run the take decisions without country country any outside control
+> [caption] Fig. 6.3. The four important parts of the state.
 
 <!-- page 145 (pdf 3) -->
 
@@ -81,6 +83,8 @@ territory? So, population and territory as a part of the state are clear. That a
 > [table] What does sovereignty mean, and why is it essential for a state?
 
 Sovereignty means that the state has complete control over its own matters and is able to make and implement laws in accordance with its own needs. No other state or external body can interfere in the internal affairs of that state. This is why sovereignty is an essential feature of a state.
+
+> [caption] Fig. 6.4.
 
 <!-- page 146 (pdf 4) -->
 
@@ -110,7 +114,7 @@ we usually interact with the government, not the whole state.
 
 <!-- page 147 (pdf 5) -->
 
-People, police, and the government
+### People, police, and the government
 
 You might have seen police in your daily life and in the movies. Are they a part of the government? What do they do? Do citizens have any control over them?
 
@@ -120,9 +124,7 @@ The police work closely with courts, prisons, and other parts of the criminal ju
 
 > [caption] PEOPLE
 
-> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India BS Ss
-
-> [note] uh
+> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India
 
 <!-- page 148 (pdf 6) -->
 
@@ -150,13 +152,15 @@ This brings us to the difference between a democracy and a republic.
 
 The core idea of a democracy is ʻrule by the people’ (demos = people, kratos = rule). In a democracy, people have the power to choose their government through free and fair elections.
 
-In a republic, the head of state (the highest office) is elected and not hereditary. Very simply, a republic Ys is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. Moreover, in a republic, there are limitations set on the power of rulers through a constitution or laws.
+In a republic, the head of state (the highest office) is elected and not hereditary. Very simply, a republic is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. Moreover, in a republic, there are limitations set on the power of rulers through a constitution or laws.
 
 Note that a country can be both a democracy and a republic, e.g., India or the U.S.A. But not all democracies are republics; for example, the UK, Canada, and Sweden are democracies but not republics — they each have a monarch.
 
 ## India, a Republic that Protects the Rights of All
 
 India is a democratic republic, and its constitution guarantees fundamental rights to all its citizens. Constitutional provisions and the law ensure that rule by a representative majority does not violate the fundamental rights of any citizen.
+
+> [caption] Fig. 6.7. Preamble to the Constitution
 
 <!-- page 150 (pdf 8) -->
 
@@ -171,6 +175,8 @@ One night, an elderly resident collapsed because of low blood sugar, as the medi
 > [caption] Remember, the government can use force to maintain law and order but the Constitution limits its powers; otherwise, elected members and government officers might use their power unchecked, which would threaten citizens’ rights.
 
 > [caption] So, in a democratic republic, we have a government where the elected representatives of the people take decisions within a framework defined by the Constitution.
+
+> [caption] Fig. 6.8. How our democratic republic functions within the framework of the Constitution.
 
 <!-- page 151 (pdf 9) -->
 
@@ -227,8 +233,6 @@ Some key functions of the bureaucracy are — Implementing laws, policies, and s
 Creating a link between citizens and the government: Through various departments and field offices, bureaucrats interact with the public, deliver services such as public schools, roads, and hospitals, and address grievances.
 
 Record-keeping and governance: They keep records of government work, decisions, and procedures.
-
-> [note] lA
 
 <!-- page 154 (pdf 12) -->
 
@@ -497,5 +501,3 @@ Who is more powerful in India, the Parliament or the Supreme Court? Give your re
 5. Ask your parents / guardians how they engaged with the government over the past year. Make a list and classify the items based on the level of government they had to work with. What challenges did they face?
 
 <!-- page 168 (pdf 26) -->
-
-XN sN aN yN

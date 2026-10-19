@@ -12,7 +12,9 @@ source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 
 ## Textbook for Class VIII
 
-> [caption] TRS Rae fap sq sire fet stra 3rfar fstatoT OF EDUCATIONAL RESEARCH AND TRAI VATIONAL COUNCI
+> [caption] TRuE L OF EDUCATIONAL RESEARCH AND TRAIN
+
+> [caption] NATIONAL COUNCIL
 
 <!-- pdf page 2 -->
 
@@ -42,7 +44,7 @@ source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [table] Publication Team
 

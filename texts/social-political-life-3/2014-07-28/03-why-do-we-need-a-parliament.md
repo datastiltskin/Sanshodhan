@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2014-07-28/ch03.pdf"
 source_sha256: "a9052c8dc7c548c6edd82e70cccdd88df9849fc3035a3538d215555e797fe1b3"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "7c34c8b6526d021f6529815d33c0907ab1fb58240bdb732783f4faf897bc2ef7"
+body_fingerprint: "0632256702b759795de5eb802785861f01ec4530a9e1e2c78e987fe8c6624983"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -55,7 +55,7 @@ As you read in Chapter 1, the experience of colonial rule as well as the partici
 
 <!-- page 32 (pdf 5) -->
 
-People and their Representatives
+### People and their Representatives
 
 The take-off point for a democracy is the idea of consent, i.e. the desire, approval and participation of people. It is the decision of people that creates a democratic government and decides about its functioning. The basic idea in this kind of democracy is that the individual or the citizen is the most important person and that in principle the government as well as other public institutions need to have the trust of these citizens.
 
@@ -77,7 +77,7 @@ The above idea of representation has been an important theme in your Class VI an
 
 3. From the list below, identify the work of a State government and that of a Central government. (a) The decision of the Indian government to maintain peaceful relations with China. (b)The decision of the Madhya Pradesh government to discontinue Board exams in Class VIII for all schools under this Board. (c) Introduction of a new train connection between Ajmer and Mysore. (d)Introduction of a new 1,000 rupee note.
 
-Q4. Fill in the blanks with the following words. universal adult franchise; MLAs; representative; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
+4. Fill in the blanks with the following words. universal adult franchise; MLAs; representative; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
 
 5. You have read that most elected members whether in the Panchayat, or the Vidhan Sabha or the Parliament are elected for a fixed period of five years. Why do we have a system where the representatives are elected for a fixed period and not for life?
 
@@ -171,7 +171,7 @@ Grand Total 514
 
 Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
 
-A. To Select the National Government
+### A. To Select the National Government
 
 The Parliament in India consists of the President, the Rajya Sabha and the Lok Sabha. After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party. For a political party to form the government, they must have a majority of elected MPs. Since there are 543 elected (plus 2 nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more. The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed. The largest amongst these parties is called the Opposition party.
 
@@ -243,7 +243,9 @@ Often times in the recent past it has been difficult for a single political part
 
 The Rajya Sabha functions primarily as the representative of the states of India in the Parliament. The Rajya Sabha can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to become a law. It, therefore, has an important role of reviewing and altering (if alterations are needed) the laws initiated by the Lok Sabha. The members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of various states. There are 233 elected members plus 12 members nominated by the President.
 
-B. To Control, Guide and Inform the Government The Parliament, while in session, begins with a question hour. The question hour is an important mechanism through which MPs can elicit information about the working of the government. This is a very important way through which the Parliament controls the executive. By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs. Asking questions of the government is a crucial task for every MP. The Opposition parties play a critical role in the healthy functioning of a democracy. They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.
+### B. To Control, Guide and Inform the Government
+
+The Parliament, while in session, begins with a question hour. The question hour is an important mechanism through which MPs can elicit information about the working of the government. This is a very important way through which the Parliament controls the executive. By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs. Asking questions of the government is a crucial task for every MP. The Opposition parties play a critical role in the healthy functioning of a democracy. They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.
 
 <!-- page 38 (pdf 11) -->
 
@@ -277,11 +279,11 @@ The government gets valuable feedback and is kept on its toes by the questions a
 
 > [caption] In the above question, what information is being sought from the Minister of Women and Child Development?
 
-> [caption] If you were a Member of Parliament (MP), list two arliament (MP), list two questions that you would like to ask.
+> [caption] If you were a Member of Parliament (MP), list two questions that you would like to ask.
 
 <!-- page 39 (pdf 12) -->
 
-C. Law-Making
+### C. Law-Making
 
 Law-making is a significant function of the Parliament. We shall read about this in the next chapter.
 

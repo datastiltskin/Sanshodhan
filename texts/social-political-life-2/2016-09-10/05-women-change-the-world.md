@@ -240,15 +240,13 @@ Above: Women are holding up candles to demonstrate the solidarity between the pe
 
 EXERCISES
 
-> [note] Rokeya.
-
 <!-- section: glossary -->
 
 Glossary
 
 > [note] 1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?
 
-> [note] 2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and
+> [note] 2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.
 
 > [note] 3. “Poor girls drop out of school because they are not interested in getting an education.” Re-read the last paragraph on page 62 and explain why this statement is not true.
 

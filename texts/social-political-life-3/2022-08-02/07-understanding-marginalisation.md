@@ -4,14 +4,13 @@ book_title: "Social and Political Life III"
 edition: "2022-08-02"
 snapshots:
   - "2022-08-02"
-  - "2023-02-10-partial"
 chapter: 7
 title: "Understanding Marginalisation"
 source_pdf: "pdfs/social-political-life-3/2022-08-02/ch07.pdf"
 source_sha256: "1b4ca5d5b3606a58869df2941e880e1e52f2879b11a38f13a8eac764b1323a9a"
 pdf_pages: 16
 printed_pages: "78-93"
-body_fingerprint: "f09f1c23b6b36727f0b777e3f4006c78b6c4fbbd9e42ddb988752365cecc6eb4"
+body_fingerprint: "d39753a4ffa7e1a0bdbaf89c3611f9396164d0d816f36d1b3691f925ed3d9af9"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -228,7 +227,7 @@ Recognising that Muslims in India were lagging behind in terms of various develo
 
 > [table] Read the data related to schooling provided by the Sachar Committee Report:
 
-• 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
+- 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
 
 > [table] Do you think special measures are required to address this situation?
 

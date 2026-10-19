@@ -10,7 +10,10 @@ source_pdf: "pdfs/social-political-life-3/2014-07-28/ch05.pdf"
 source_sha256: "ce3e1e7f72593071062240436dc05c1ac394746353ca0939927e0bbcc133d0f8"
 pdf_pages: 14
 printed_pages: "52-65"
-body_fingerprint: "d9357cb35ace45a2de118d6311a0e8c2669f3318868c6b525e60d18109ef496b"
+body_fingerprint: "1679698bd81fdf0925b8e3743888a0e02d4b3159f81f35993d27b205b3323530"
+overrides:
+  - "The bold run-in heading wraps onto a second line on page 55 and is one heading followed by its paragraph, the page shows no break"
+  - "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
 ---
 
 <!-- page 52 (pdf 1) -->
@@ -55,7 +58,7 @@ Upholding the Law and Enforcing Fundamental Rights: Every citizen of India can a
 
 ## What is an Independent Judiciary?
 
-QImagine a situation in which a powerful politician has encroached on land belonging to your family. Within this judicial system, the politician has the power to appoint and dismiss a judge from his office. When you take this case to court, the judge is clearly partial to the politician.
+Imagine a situation in which a powerful politician has encroached on land belonging to your family. Within this judicial system, the politician has the power to appoint and dismiss a judge from his office. When you take this case to court, the judge is clearly partial to the politician.
 
 The control that the politician holds over the judge does not allow for the judge to take an independent decision. This lack of independence would force the judge to make all judgments in favour of the politician. Although we often hear of rich and powerful people in India trying to influence the judicial process, the Indian Constitution protects against this kind of situation by providing for the independence of the judiciary.
 
@@ -71,7 +74,9 @@ For the above separation to work well, it is also crucial that all judges in the
 
 > [caption] Dispute between two citizens
 
-> [caption] Laws that are in violation of the Constitution Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?
+> [caption] Laws that are in violation of the Constitution
+
+> [caption] Do you think that any ordinary citizen stands a chance against a politician in this kind of judicial system? Why not?
 
 <!-- page 57 (pdf 6) -->
 
@@ -89,7 +94,7 @@ The structure of the courts from the lower to the highest level is such that it 
 
 > [caption] High Court of Madras
 
-QAre these different levels of courts connected to each other? Yes, they are. In India, we have an integrated judicial system, meaning that the decisions made by higher courts are binding on the lower courts. Another way to understand this integration is through the appellate system that exists in India. This means that a person can appeal to a higher court if they believe that the judgment passed by the lower court is not just.
+Are these different levels of courts connected to each other? Yes, they are. In India, we have an integrated judicial system, meaning that the decisions made by higher courts are binding on the lower courts. Another way to understand this integration is through the appellate system that exists in India. This means that a person can appeal to a higher court if they believe that the judgment passed by the lower court is not just.
 
 Let us understand what we mean by the appellate system by tracking a case, State (Delhi Administration) vs Laxman Kumar and Others (1985), from the lower courts to the Supreme Court.
 
@@ -141,7 +146,7 @@ The above case of the dowry death falls within what is considered a ‘crime aga
 
 ## Does Everyone Have Access to the Courts?
 
-QIn principle, all citizens of India can access the courts in this country. This implies that every citizen has a right to justice through the courts. As you read earlier, the courts play a very significant role in protecting our Fundamental Rights. If any citizen believes that their rights are being violated, then they can approach the court for justice to be done. While the courts are available for all, in reality access to courts has always been difficult for a vast majority of the poor in India. Legal procedures involve a lot of money and paperwork as well as take up a lot of time. For a poor person who cannot read and whose family depends on a daily wage, the idea of going to court to get justice often seems remote.
+In principle, all citizens of India can access the courts in this country. This implies that every citizen has a right to justice through the courts. As you read earlier, the courts play a very significant role in protecting our Fundamental Rights. If any citizen believes that their rights are being violated, then they can approach the court for justice to be done. While the courts are available for all, in reality access to courts has always been difficult for a vast majority of the poor in India. Legal procedures involve a lot of money and paperwork as well as take up a lot of time. For a poor person who cannot read and whose family depends on a daily wage, the idea of going to court to get justice often seems remote.
 
 In response to this, the Supreme Court in the early 1980s devised a mechanism of Public Interest Litigation or PIL to increase access to justice. It allowed any individual or organisation to file a PIL in the High Court or the Supreme Court on behalf of those whose rights were being violated. The legal process was greatly simplified and even a letter or telegram addressed to the Supreme Court or the High Court could be treated as a PIL. In the early years, PIL was used to secure justice on a large number of issues such as rescuing bonded labourers from inhuman work conditions; and securing the release of prisoners in Bihar who had been kept in jail even after their punishment term was complete.
 

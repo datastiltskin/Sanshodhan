@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch04.pdf"
 source_sha256: "1dbcde4bd1c2939e1420b874075a7fbb1b33334272297b5922d26c586c3bfa06"
 pdf_pages: 12
 printed_pages: "36-47"
-body_fingerprint: "549e00b33b84904486331f1e1925a34eeaf19af4d90d10123a398f178c2ad8a4"
+body_fingerprint: "d3da77cd00df9dfa238f6f0be1e77264f980f7a5f8da59c17803758c745f8e5c"
 ---
 
 <!-- page 36 (pdf 1) -->
@@ -193,17 +193,13 @@ Children at an Anganwadi centre in a village in Madhya Pradesh.
 
 <!-- section: exercises -->
 
-EXERCISES
+> [note] EXERCISES
 
-> [note] undertaken by women in your home.
+> [caption] 1. Are the statements given alongside true or false? Support your answer with the use of an example –
 
-<!-- section: glossary -->
+> [note] a. All societies do not think similarly about the roles that boys and girls play.
 
-Glossary
-
-> [note] 1. Are the statements given alongside true or false? Support your answer with the use of an example – a. All societies do not think similarly about the roles that boys and girls play.
-
-> [note] 2. Housework is invisible and unpaid work.
+> [caption] 2. Housework is invisible and unpaid work.
 
 > [note] b. Our society does not make distinctions between boys and
 
@@ -215,15 +211,27 @@ Glossary
 
 > [note] c. Women who stay at home do not work.
 
-> [note] Write in your own words what is meant by the terms
+> [caption] Write in your own words what is meant by the terms
 
-> [note] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks d. The work that women do is less valued than that of men.
+> [caption] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks
 
-> [note] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
+> [note] d. The work that women do is less
 
-> [note] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
+> [caption] undertaken by women in your home.
 
-> [note] Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several identities. For example, a person can be a girl, a sister and a musician.
+> [note] valued than that of men.
+
+> [caption] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
+
+> [caption] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
+
+<!-- section: glossary -->
+
+> [note] Glossary
+
+> [note] Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several
+
+> [caption] identities. For example, a person can be a girl, a sister and a musician.
 
 > [note] Double-burden: Literally means a double load. This term is commonly used to describe the women’s work situation. It has emerged from a recognition that women typically labour both inside the home (housework) and outside.
 

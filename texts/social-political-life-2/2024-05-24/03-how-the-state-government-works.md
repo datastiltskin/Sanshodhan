@@ -11,7 +11,10 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch03.pdf"
 source_sha256: "365d04b5f3c0f25e8ed6dcf4bbc8b1be18e4a0dfa787225dc7d046b9d50bd5cf"
 pdf_pages: 12
 printed_pages: "24-35"
-body_fingerprint: "42a6084047e81049ba78473f4cdb01440bad95c0ecc46a022c96b2582c8a0d38"
+body_fingerprint: "5932aeb880b023915e6370000f7d23c1453cbefb550435ab394d665158eaa191"
+overrides:
+  - "The names of the neighbouring states are labels on the map on page 26 and are not part of the sentence. The table title that follows belongs to page 27 and is restored there"
+  - "The pink table on page 27 is titled 'Results of the Assembly Elections in Himachal Pradesh in 2017'. The OCR placed the title at the foot of page 26"
 ---
 
 <!-- page 24 (pdf 1) -->
@@ -32,13 +35,9 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] That afternoon...
 
-> [caption] Suddenly...
-
 > [table] On the TV news, they said ten people
 
 > [table] My mother said not to have any iced drinks from the market. She gave one of have died from diarrhoea! Is that possible? Can one really die from it?
-
-> [caption] STOP!
 
 > [table] her lectures this morning, “You have to be responsible for your health, Who knows? Just hope I don’t get it!
 
@@ -48,27 +47,33 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to
+> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take
 
-> [table] bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
+> [table] Ha ha – they seem more angry
+
+> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
 > [table] about what he
 
-> [caption] the Opposition!
-
-> [table] hasn’t done!
+> [caption] hasn’t done!
 
 Who is an MLA?
 
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
+
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
+
+> [caption] Suddenly...
+
+> [caption] STOP!
+
+> [caption] What a loud voice he has...he must be the Opposition!
 
 > [caption] What is happening in Patalpuram ?
 
 > [caption] Why is this problem serious?
 
 > [caption] What action do you think can be taken in the above situation and who do you think should take this action? Discuss.
-
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
 
 <!-- page 26 (pdf 3) -->
 
@@ -84,9 +89,11 @@ government. In this way we say that the MLAs represent people. The example below
 
 Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 
-How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority. The political party that has the majority is called the ruling party and all other members are called the opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies. “name and Kashmir Jammu and Kashmir Punjab Uttarakhand Results of the Assembly Elections in Himachal Pradesh in 2017
+How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority. The political party that has the majority is called the ruling party and all other members are called the opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies.
 
 <!-- page 27 (pdf 4) -->
+
+Results of the Assembly Elections in Himachal Pradesh in 2017
 
 Political party Number of MLAs elected
 
@@ -150,7 +157,7 @@ The Legislative Assembly is not the only place where opinions are expressed abou
 
 Soon after the discussion in the assembly, there was a press conference organised by the health minister. Large numbers of people from different newspapers were present. The minister and some government officials were also present. The minister explained the steps the government had taken. Reporters asked many questions at this meeting. These discussions were then reported in different newspapers. The following page has one such report.
 
-During the next week, the chief minister and the minister for health visited Patalpuram district. They went to visit the families who had lost their relatives and also visited people in the hospitals. The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks. The chief minister has promised funds for this work. They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea. When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.
+During the next week, the chief minister and the minister for health visited Patalpuram district. They went to visit the families who had lost their relatives and also visited people in the hospitals. The government announced a compensation for these Government smells the garbage intend to supply drinking water to every village through tanker trucks. The chief minister has promised funds for this work. They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea. When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.
 
 > [caption] What were the main arguments put forward by different MLAs who thought that the government was not taking the situation in a serious manner?
 
@@ -161,6 +168,8 @@ During the next week, the chief minister and the minister for health visited Pat
 > [caption] In the working of the government, explain the difference between being an MLA and an MLA who is also a minister.
 
 <!-- page 31 (pdf 8) -->
+
+### Chief Minister promises funds for work
 
 > [caption] Patalpuram | Ravi Ahuja
 
@@ -202,35 +211,37 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 
 <!-- section: exercises -->
 
-EXERCISES
+> [note] EXERCISES
 
-> [table] 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
+> [caption] 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
 
-> [table] 2. How did some MLAs become Ministers? Explain.
+> [caption] 2. How did some MLAs become Ministers? Explain.
 
-> [table] 3. Why should decisions taken by the Chief Minister and other ministers be debated in the Legislative Assembly?
+> [caption] 3. Why should decisions taken by the Chief Minister and other ministers be debated in the Legislative Assembly?
 
-> [table] 4. What was the problem in Patalpuram? What discussion/ action was taken by the following? Fill in the table.
+> [caption] 4. What was the problem in Patalpuram? What discussion/ action was taken by the following? Fill in the table.
 
-Public meeting
+> [note] Public meeting
 
-Legislative Assembly
+> [note] Legislative Assembly
 
-Press conference
+> [note] Press conference
 
-Chief Minister
+> [note] Chief Minister
 
-> [table] 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
+> [caption] 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
 
 <!-- section: glossary -->
 
-Glossary
+> [note] Glossary
 
 > [table] Constituency: A particular area from which all the voters living there choose their representatives.
 
 > [table] This could be, for example, a panchayat ward or an area that chooses an MLA.
 
-> [table] Majority: This is a situation when more than half the number in a group supports a decision or an idea. This is also called a simple majority.
+> [table] Majority: This is a situation when more than half the number in a group supports a decision or an
+
+> [caption] idea. This is also called a simple majority.
 
 > [table] Opposition: This refers to elected representatives who are not members of the ruling party and who play the role of questioning government decisions and actions as well as raise new issues for consideration in the Assembly.
 

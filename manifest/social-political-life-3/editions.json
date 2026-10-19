@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "eb13c6209c0535947336c28217f08e7b6cfb7f63af1d83ffe999d2831af2c72f",
+      "fingerprint": "2e28afc47f1afa143c5b43c5b3acdd1c2a1e35da69d2dc3760208f84cc55ba9c",
       "snapshots": [
         "2014-07-28"
       ],
@@ -30,7 +30,7 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch01.pdf",
           "pdf_pages": 16,
           "printed_pages": "2-17",
-          "fingerprint": "c5a10f510060dc2fa43607b3110c739bcdef39000266c797633f1a1b7385f7a6",
+          "fingerprint": "e1323ea683c295e6c9ebf4dd1b276bbfb23860729783f6f417358b48cb8ff074",
           "role_counts": {
             "footer": 23,
             "h2": 7,
@@ -38,7 +38,7 @@
             "chapter-number": 1,
             "caption": 42,
             "dropcap": 1,
-            "table": 38,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -76,13 +76,14 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "7c34c8b6526d021f6529815d33c0907ab1fb58240bdb732783f4faf897bc2ef7",
+          "fingerprint": "0632256702b759795de5eb802785861f01ec4530a9e1e2c78e987fe8c6624983",
           "role_counts": {
             "footer": 20,
             "h2": 8,
-            "body": 69,
+            "body": 64,
             "chapter-number": 1,
             "caption": 62,
+            "h3": 4,
             "dropcap": 1,
             "table": 23
           },
@@ -99,7 +100,7 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "a9b53b93a5d4847d2eb070021dfb06363f9a2a81319cba10aff477f4d3cbe865",
+          "fingerprint": "f09f7be5c1d400366fbf4f5331eaf38b667433cc0884c734466592972d0746b2",
           "role_counts": {
             "footer": 15,
             "chapter-number": 1,
@@ -122,20 +123,24 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "d9357cb35ace45a2de118d6311a0e8c2669f3318868c6b525e60d18109ef496b",
+          "fingerprint": "1679698bd81fdf0925b8e3743888a0e02d4b3159f81f35993d27b205b3323530",
           "role_counts": {
             "footer": 20,
             "h2": 10,
-            "body": 36,
+            "body": 35,
             "chapter-number": 1,
             "caption": 26,
+            "h3": 1,
             "table": 36,
             "dropcap": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The bold run-in heading wraps onto a second line on page 55 and is one heading followed by its paragraph, the page shows no break",
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+          ],
           "file": "texts/social-political-life-3/2014-07-28/05-judiciary.md"
         },
         {
@@ -145,15 +150,15 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 18,
             "chapter-number": 1,
             "h2": 7,
-            "body": 22,
-            "caption": 56,
+            "body": 28,
+            "caption": 57,
             "dropcap": 3,
-            "table": 36
+            "table": 39
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -168,13 +173,14 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "282c3ed76863339f1b843dd3661b058907509559f696755dfed678394b59c9e2",
+          "fingerprint": "994266b714d66cb4cd2782054be7eb5ee96d470a2e30a02611a5c26b94d6b475",
           "role_counts": {
             "footer": 23,
             "h2": 11,
-            "body": 47,
+            "body": 46,
             "chapter-number": 1,
             "caption": 57,
+            "h3": 1,
             "table": 18
           },
           "ocr": false,
@@ -190,13 +196,14 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "1e7af16d4d0e338632a8305a796fdc46b58e2de4799a67813c4817aec48ab5e4",
+          "fingerprint": "5170acfc9070fb6527b12f776f207d80bccceb58e7244554b2b0403629ae52db",
           "role_counts": {
             "footer": 14,
             "chapter-number": 1,
             "h2": 8,
-            "body": 39,
+            "body": 38,
             "caption": 35,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -212,7 +219,7 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "d6ced8b4f8ff5d055561a519748cd4402b67a595b475ade5610f8fc588d1de3d",
+          "fingerprint": "221b6a197f305f3981764acf33dee732cbe08f897dbfda904bea3e228f2755b6",
           "role_counts": {
             "footer": 22,
             "h2": 12,
@@ -236,13 +243,13 @@
           "pdf": "pdfs/social-political-life-3/2014-07-28/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "9e89759f1e9307a7f36ff9de5e10a0a02b3102650b5eeac3b295996455013702",
+          "fingerprint": "805c445e2c49bb30d64856bc91ea3df2c87ad62213a6bd617ecb42fd3a917c0a",
           "role_counts": {
-            "footer": 18,
+            "footer": 16,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 45,
+            "caption": 47,
             "table": 24,
             "h3": 1
           },
@@ -256,7 +263,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "120b0bc474b5a9417c854b837e3e483b13db9b5003eaaa211df92bc3313f5271",
+      "fingerprint": "3726137539b9becba1356ab1a851c3c4000d1efcd86f61b91b3d73edcd0f52f9",
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16"
@@ -336,15 +343,16 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "a2e56c5eb26a476ed3981b5fefd0a68a43dd0a37549a429b2ad0bfc1c77a4ba3",
+          "fingerprint": "f6635b48199efe3462c94633f826eb3b10ad76616d69ffe2badeda892e3126ea",
           "role_counts": {
             "footer": 34,
             "h2": 8,
-            "body": 50,
+            "body": 48,
             "chapter-number": 1,
-            "caption": 37,
+            "caption": 38,
             "dropcap": 1,
-            "table": 25
+            "table": 25,
+            "h3": 1
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -359,7 +367,7 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "a9b53b93a5d4847d2eb070021dfb06363f9a2a81319cba10aff477f4d3cbe865",
+          "fingerprint": "f09f7be5c1d400366fbf4f5331eaf38b667433cc0884c734466592972d0746b2",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -382,20 +390,23 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "d1594b18c62741f1d304de8d2c59e358b45d60940b312b3fffa8c2e6d97640d6",
+          "fingerprint": "ff9ace2fd37a63605628812574ce42b0f919fd55cf1c99f6ce2badbc1d5436b2",
           "role_counts": {
             "footer": 34,
             "h2": 10,
-            "body": 89,
+            "body": 40,
             "chapter-number": 1,
-            "caption": 13,
-            "dropcap": 3,
-            "note": 1
+            "caption": 27,
+            "table": 36,
+            "dropcap": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row",
+            "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+          ],
           "file": "texts/social-political-life-3/2016-09-10/05-judiciary.md"
         },
         {
@@ -405,16 +416,15 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "64cd5978e1773f301fb32bc7a13f8cf0a9b8db9e1edbbb3297fdc72b98785d0c",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
             "h2": 7,
-            "body": 82,
-            "table": 1,
+            "body": 28,
+            "caption": 55,
             "dropcap": 3,
-            "caption": 25,
-            "h3": 1
+            "table": 36
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -429,20 +439,24 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "fea5d64e573361c5b7fd18ced13b4d26d47cdcd256bf4867d33cf67effe4cdd0",
+          "fingerprint": "d8e9693a420d5411a2cd3087230324fd81f1080e6839135a242ee4c2a458089f",
           "role_counts": {
             "footer": 39,
             "h2": 11,
-            "body": 84,
+            "body": 47,
             "chapter-number": 1,
-            "caption": 24,
-            "table": 5,
-            "h3": 8
+            "caption": 56,
+            "table": 18
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The first song line of the box on page 85 was written in front of the paragraph that opens page 86 (Forest lands have been cleared), the page shows them apart",
+            "The cells of the two tables on page 89 were written into the page 88 table, the page 88 table ends at piped water",
+            "The literacy cells belong to table II on page 89",
+            "The header cells belong to table III on page 89"
+          ],
           "file": "texts/social-political-life-3/2016-09-10/07-understanding-marginalisation.md"
         },
         {
@@ -452,15 +466,14 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "f0a0fcb3247d150a5406874711d8805d78a6960bd0db5ae4fa54dada268d6bcb",
+          "fingerprint": "dc44452beb05bd9a4c020531ca08dcaea7a8caaeca37255c2482d9d543eb8d0e",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
-            "body": 64,
-            "note": 22,
-            "caption": 4,
-            "h3": 2
+            "body": 39,
+            "caption": 34,
+            "table": 19
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -475,7 +488,7 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "d6ced8b4f8ff5d055561a519748cd4402b67a595b475ade5610f8fc588d1de3d",
+          "fingerprint": "221b6a197f305f3981764acf33dee732cbe08f897dbfda904bea3e228f2755b6",
           "role_counts": {
             "footer": 22,
             "h2": 12,
@@ -499,13 +512,13 @@
           "pdf": "pdfs/social-political-life-3/2016-09-10/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "9e89759f1e9307a7f36ff9de5e10a0a02b3102650b5eeac3b295996455013702",
+          "fingerprint": "805c445e2c49bb30d64856bc91ea3df2c87ad62213a6bd617ecb42fd3a917c0a",
           "role_counts": {
-            "footer": 18,
+            "footer": 16,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 45,
+            "caption": 47,
             "table": 24,
             "h3": 1
           },
@@ -519,7 +532,7 @@
     },
     {
       "id": "2019-05-04",
-      "fingerprint": "69cf392e8c9372f1f586537e6fae922337d91d32a4d4290fba735b5c33095d34",
+      "fingerprint": "0e20e47d6f4da3ac92647deef28dfaafc0a8666c9ea5d834043992b9a5606937",
       "snapshots": [
         "2019-05-04"
       ],
@@ -564,7 +577,7 @@
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 38,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -602,13 +615,13 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "0e0be0e75771c337b6faaf511ba1a8025384eb94ef012028cf9587cea886c3ed",
+          "fingerprint": "167c02087f235fdcbf0363709ac5d2307823082607550cfcf46a049015d821cb",
           "role_counts": {
             "footer": 34,
             "h2": 8,
-            "body": 51,
+            "body": 50,
             "chapter-number": 1,
-            "caption": 32,
+            "caption": 33,
             "dropcap": 1,
             "table": 30
           },
@@ -625,7 +638,7 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "ac3f052fc00c427372cfb9213f8c321d065898d85782d92e6e4909649e5150a9",
+          "fingerprint": "d43736e0701085da6279bdfd0f4b4e8724b60f087e2f50b225440448788e353b",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -648,7 +661,7 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "2984fff066c804bf8432a2c02aa1ad7216f3fc196993f9ce1949ba7c883ace9c",
+          "fingerprint": "2a9cfdcab686f8c233532c4831c3606162c815a40a87df3f8c7c8ca99c1b2475",
           "role_counts": {
             "footer": 34,
             "h2": 10,
@@ -661,7 +674,10 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row",
+            "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+          ],
           "file": "texts/social-political-life-3/2019-05-04/05-judiciary.md"
         },
         {
@@ -671,15 +687,15 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
             "h2": 7,
-            "body": 22,
-            "caption": 57,
+            "body": 28,
+            "caption": 58,
             "dropcap": 3,
-            "table": 36
+            "table": 39
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -694,7 +710,7 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "3281941c3753b664b6f4a048aeec96b87e79e27ea94002e9bc85c9840c6fb5e3",
+          "fingerprint": "e659ed8e8bf9120c6abc35684b0a92e10b5d5a0e1a7f000f567a00e01e4c4cca",
           "role_counts": {
             "footer": 39,
             "h2": 11,
@@ -716,13 +732,14 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "14b3de46c69f5103c4d322701a168936278c15b4a5c6cb1ee49ac18ef5a1ce56",
+          "fingerprint": "c18f151c5be4739c89748b2b7e575cf2f4ff7f9df97414126fb9d274c7f93327",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 35,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -738,7 +755,7 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "fingerprint": "248d66f547c75a66a7afa28684a8b9137663d2e86a66cb78b3869427a235a101",
           "role_counts": {
             "footer": 38,
             "h2": 12,
@@ -762,13 +779,13 @@
           "pdf": "pdfs/social-political-life-3/2019-05-04/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 32,
+            "footer": 30,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 57,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },
@@ -782,9 +799,10 @@
     },
     {
       "id": "2020-06-16",
-      "fingerprint": "b787eeb083c2328b8b3990360bdc9f6464fc23c753e0a23506ddbee156069f9e",
+      "fingerprint": "7b8632342872ea876840d651baae9351819bc759dee950ed72145fc8ec9e9dfb",
       "snapshots": [
-        "2020-06-16"
+        "2020-06-16",
+        "2023-02-10-partial"
       ],
       "prelims": {
         "single": {
@@ -828,7 +846,7 @@
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 38,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -866,13 +884,13 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "3e5a483869a29c3d16100327eaaa43e1a67f65a338de7175ec202aab8d063321",
+          "fingerprint": "52a15cadb1f9528fb257c5b1377671e4ed9f1a9e85abda5ada7adbe43266cbee",
           "role_counts": {
-            "footer": 35,
+            "footer": 34,
             "h2": 8,
-            "body": 47,
+            "body": 46,
             "chapter-number": 1,
-            "caption": 32,
+            "caption": 34,
             "dropcap": 1,
             "table": 31
           },
@@ -889,7 +907,7 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "fingerprint": "3bc7c813e7996a8244dc5a5f4aeb413efc58d297911c55e501db3b2c390585ea",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -912,7 +930,7 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "3db30bf6c4c7a405fa15ed61a165471c4ae24299620d31d184db83913bf48b91",
+          "fingerprint": "77684186beab32dba5fa99406a253789b9bfc26fc1976a817817d0b062293bad",
           "role_counts": {
             "footer": 34,
             "h2": 10,
@@ -925,7 +943,10 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row",
+            "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+          ],
           "file": "texts/social-political-life-3/2020-06-16/05-judiciary.md"
         },
         {
@@ -935,15 +956,15 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
             "h2": 7,
-            "body": 22,
-            "caption": 57,
+            "body": 28,
+            "caption": 58,
             "dropcap": 3,
-            "table": 36
+            "table": 39
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -958,7 +979,7 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "3281941c3753b664b6f4a048aeec96b87e79e27ea94002e9bc85c9840c6fb5e3",
+          "fingerprint": "e659ed8e8bf9120c6abc35684b0a92e10b5d5a0e1a7f000f567a00e01e4c4cca",
           "role_counts": {
             "footer": 39,
             "h2": 11,
@@ -980,13 +1001,14 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "14b3de46c69f5103c4d322701a168936278c15b4a5c6cb1ee49ac18ef5a1ce56",
+          "fingerprint": "c18f151c5be4739c89748b2b7e575cf2f4ff7f9df97414126fb9d274c7f93327",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 35,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -1002,7 +1024,7 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "fingerprint": "248d66f547c75a66a7afa28684a8b9137663d2e86a66cb78b3869427a235a101",
           "role_counts": {
             "footer": 38,
             "h2": 12,
@@ -1026,13 +1048,13 @@
           "pdf": "pdfs/social-political-life-3/2020-06-16/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 32,
+            "footer": 30,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 57,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },
@@ -1046,7 +1068,7 @@
     },
     {
       "id": "2021-08-14",
-      "fingerprint": "3b8382c798a31dd6abfb019bef112acc4a16160318124a3b5e76ce18437cbf95",
+      "fingerprint": "8076a2274028701299af134f6ade5387b8bce860a20e48fd760f103ceeab32a4",
       "snapshots": [
         "2021-08-14"
       ],
@@ -1088,12 +1110,12 @@
           "printed_pages": "2-17",
           "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
           "role_counts": {
-            "footer": 41,
+            "footer": 39,
             "h2": 7,
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 36,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -1131,13 +1153,13 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "b7774110877979175bc63c9c047f354edf67b90f79400d8438585c62cf596ba4",
+          "fingerprint": "dd84213a4b8ef11cfc09f55bb79fdfcebd23bf7c9c74c9b6d2b5c15091213776",
           "role_counts": {
-            "footer": 35,
+            "footer": 34,
             "h2": 8,
-            "body": 47,
+            "body": 46,
             "chapter-number": 1,
-            "caption": 32,
+            "caption": 34,
             "dropcap": 1,
             "table": 31
           },
@@ -1154,7 +1176,7 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "fingerprint": "3bc7c813e7996a8244dc5a5f4aeb413efc58d297911c55e501db3b2c390585ea",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -1177,7 +1199,7 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "3db30bf6c4c7a405fa15ed61a165471c4ae24299620d31d184db83913bf48b91",
+          "fingerprint": "77684186beab32dba5fa99406a253789b9bfc26fc1976a817817d0b062293bad",
           "role_counts": {
             "footer": 34,
             "h2": 10,
@@ -1190,7 +1212,10 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row",
+            "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+          ],
           "file": "texts/social-political-life-3/2021-08-14/05-judiciary.md"
         },
         {
@@ -1200,15 +1225,15 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
             "h2": 7,
-            "body": 22,
-            "caption": 57,
+            "body": 28,
+            "caption": 58,
             "dropcap": 3,
-            "table": 36
+            "table": 39
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1223,7 +1248,7 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "f09f1c23b6b36727f0b777e3f4006c78b6c4fbbd9e42ddb988752365cecc6eb4",
+          "fingerprint": "d39753a4ffa7e1a0bdbaf89c3611f9396164d0d816f36d1b3691f925ed3d9af9",
           "role_counts": {
             "footer": 39,
             "h2": 11,
@@ -1245,13 +1270,14 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "14b3de46c69f5103c4d322701a168936278c15b4a5c6cb1ee49ac18ef5a1ce56",
+          "fingerprint": "c18f151c5be4739c89748b2b7e575cf2f4ff7f9df97414126fb9d274c7f93327",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 35,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -1267,13 +1293,13 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "fingerprint": "248d66f547c75a66a7afa28684a8b9137663d2e86a66cb78b3869427a235a101",
           "role_counts": {
-            "footer": 43,
+            "footer": 40,
             "h2": 12,
             "body": 53,
             "chapter-number": 1,
-            "caption": 70,
+            "caption": 73,
             "note": 1,
             "table": 24,
             "dropcap": 1
@@ -1281,7 +1307,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+          ],
           "file": "texts/social-political-life-3/2021-08-14/09-public-facilities.md"
         },
         {
@@ -1291,13 +1319,13 @@
           "pdf": "pdfs/social-political-life-3/2021-08-14/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 33,
+            "footer": 30,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 56,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },
@@ -1311,10 +1339,9 @@
     },
     {
       "id": "2022-08-02",
-      "fingerprint": "be004a4f739d89893cb321ff2eda6af08eb57e568a79e6c8b6a56eac02bb2f97",
+      "fingerprint": "59945c47b29f57cd21abf9cc1a0336d4309cc18e9836bf10fd6765336a65c199",
       "snapshots": [
-        "2022-08-02",
-        "2023-02-10-partial"
+        "2022-08-02"
       ],
       "prelims": {
         "single": {
@@ -1355,12 +1382,12 @@
           "printed_pages": "2-17",
           "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
           "role_counts": {
-            "footer": 41,
+            "footer": 39,
             "h2": 7,
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 36,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -1376,7 +1403,7 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch02.pdf",
           "pdf_pages": 10,
           "printed_pages": "18-27",
-          "fingerprint": "471adc927f0bc7a8d58c6c5e1a99742327bbc768a153bc99551f3201a4674791",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -1398,13 +1425,14 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "28-41",
-          "fingerprint": "b7774110877979175bc63c9c047f354edf67b90f79400d8438585c62cf596ba4",
+          "fingerprint": "2095b5da0659c0a4af8cce9f0c7ea5172e21b4ccc16fa150784dc95abf0494d0",
           "role_counts": {
-            "footer": 35,
+            "footer": 34,
             "h2": 8,
-            "body": 47,
+            "body": 45,
             "chapter-number": 1,
-            "caption": 32,
+            "caption": 34,
+            "h3": 1,
             "dropcap": 1,
             "table": 31
           },
@@ -1421,7 +1449,7 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "42-51",
-          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "fingerprint": "3bc7c813e7996a8244dc5a5f4aeb413efc58d297911c55e501db3b2c390585ea",
           "role_counts": {
             "footer": 25,
             "chapter-number": 1,
@@ -1444,7 +1472,7 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "52-65",
-          "fingerprint": "3db30bf6c4c7a405fa15ed61a165471c4ae24299620d31d184db83913bf48b91",
+          "fingerprint": "77684186beab32dba5fa99406a253789b9bfc26fc1976a817817d0b062293bad",
           "role_counts": {
             "footer": 34,
             "h2": 10,
@@ -1457,7 +1485,10 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row",
+            "The wrapped second line of the table cell is glued to the paragraph below the table on page 63, the page shows them apart"
+          ],
           "file": "texts/social-political-life-3/2022-08-02/05-judiciary.md"
         },
         {
@@ -1467,15 +1498,15 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "66-77",
-          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
             "h2": 7,
-            "body": 22,
-            "caption": 57,
+            "body": 28,
+            "caption": 58,
             "dropcap": 3,
-            "table": 36
+            "table": 39
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1490,7 +1521,7 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "78-93",
-          "fingerprint": "f09f1c23b6b36727f0b777e3f4006c78b6c4fbbd9e42ddb988752365cecc6eb4",
+          "fingerprint": "d39753a4ffa7e1a0bdbaf89c3611f9396164d0d816f36d1b3691f925ed3d9af9",
           "role_counts": {
             "footer": 39,
             "h2": 11,
@@ -1512,13 +1543,14 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "94-103",
-          "fingerprint": "14b3de46c69f5103c4d322701a168936278c15b4a5c6cb1ee49ac18ef5a1ce56",
+          "fingerprint": "c18f151c5be4739c89748b2b7e575cf2f4ff7f9df97414126fb9d274c7f93327",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 35,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -1534,13 +1566,13 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "104-119",
-          "fingerprint": "b383518eebbf6a28a8756475ce97495f2ea8a909d7228f27926a34689880fb44",
+          "fingerprint": "248d66f547c75a66a7afa28684a8b9137663d2e86a66cb78b3869427a235a101",
           "role_counts": {
-            "footer": 43,
+            "footer": 40,
             "h2": 12,
             "body": 57,
             "chapter-number": 1,
-            "caption": 70,
+            "caption": 73,
             "note": 1,
             "table": 24,
             "dropcap": 1
@@ -1548,7 +1580,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+          ],
           "file": "texts/social-political-life-3/2022-08-02/09-public-facilities.md"
         },
         {
@@ -1558,13 +1592,13 @@
           "pdf": "pdfs/social-political-life-3/2022-08-02/ch10.pdf",
           "pdf_pages": 15,
           "printed_pages": "120-134",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 33,
+            "footer": 30,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 56,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },
@@ -1578,7 +1612,7 @@
     },
     {
       "id": "2023-12-23-rationalised",
-      "fingerprint": "98bff8909c5c16da6ffdd0149181e124ae4381263c54641671a8adeeea35938e",
+      "fingerprint": "3172a24a377ca89898e0102ada2d39917487ce1f83136fb31ea57997d7557fe5",
       "snapshots": [
         "2023-12-23"
       ],
@@ -1622,12 +1656,12 @@
           "printed_pages": "2-17",
           "fingerprint": "a70222ddeda5bd7553c8739543b2fea8f3af2e6da17d9756c82751074db263a3",
           "role_counts": {
-            "footer": 41,
+            "footer": 39,
             "h2": 7,
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 36,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -1665,15 +1699,15 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch03.pdf",
           "pdf_pages": 18,
           "printed_pages": "28-45",
-          "fingerprint": "cd70845c4e61158981d804a8f494be9f830a6daf774db6db0e34f9d294829ec8",
+          "fingerprint": "2d62f451004b31e4ce6e73502f0723a404c7c545c94d89485554be8dce2ec35c",
           "role_counts": {
             "footer": 44,
             "h2": 8,
-            "body": 52,
+            "body": 51,
             "chapter-number": 1,
-            "caption": 89,
+            "caption": 91,
             "dropcap": 1,
-            "table": 27
+            "table": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1688,20 +1722,22 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch04.pdf",
           "pdf_pages": 14,
           "printed_pages": "46-59",
-          "fingerprint": "fa207490def388338dbaa7312f30fc44b22e40d0c81316e2f385f1cf8726cd44",
+          "fingerprint": "bfdb210ae4c4d9a9566ce47cf292114f344b8638f5977094611aed06d2e377bb",
           "role_counts": {
-            "footer": 35,
+            "footer": 34,
             "h2": 10,
             "body": 37,
             "chapter-number": 1,
-            "caption": 32,
+            "caption": 33,
             "table": 38,
             "dropcap": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+          ],
           "file": "texts/social-political-life-3/2023-12-23-rationalised/04-judiciary.md"
         },
         {
@@ -1711,7 +1747,7 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "60-73",
-          "fingerprint": "14589ed77c1e31951d8473fcda39f8dbf17fc3b8c4fbae24acb08ab83785d337",
+          "fingerprint": "93fdb89aef158fe96393ad32972fe9a46bf6dbb35f291035b8c301cded50922c",
           "role_counts": {
             "footer": 33,
             "h2": 11,
@@ -1733,13 +1769,14 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch06.pdf",
           "pdf_pages": 10,
           "printed_pages": "74-83",
-          "fingerprint": "aa1039244958c520ff44e3a816f0b42b82dd52480b71b297678261ade997f3c5",
+          "fingerprint": "9827de48a7ab191e9aab18705c3c4cfbe0cead9fb157723a907bb130fde15e4c",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 34,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -1755,13 +1792,13 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "84-99",
-          "fingerprint": "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c5bd",
+          "fingerprint": "732593aa21b7bfed876231bdb3f9b720859ac2c96b2df802f97592b0e7042a57",
           "role_counts": {
-            "footer": 43,
+            "footer": 40,
             "h2": 12,
             "body": 53,
             "chapter-number": 1,
-            "caption": 70,
+            "caption": 73,
             "note": 1,
             "table": 24,
             "dropcap": 1
@@ -1769,7 +1806,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
+          ],
           "file": "texts/social-political-life-3/2023-12-23-rationalised/07-public-facilities.md"
         },
         {
@@ -1779,13 +1818,13 @@
           "pdf": "pdfs/social-political-life-3/2023-12-23/ch08.pdf",
           "pdf_pages": 15,
           "printed_pages": "100-114",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 34,
+            "footer": 31,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 56,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },
@@ -1799,7 +1838,7 @@
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "4f7b017905889ca75f482442019bbe0b736d09961e2cbbbf1e60cd9a4b7557bb",
+      "fingerprint": "4eb85d4258f09518bb75a0c5ce0703b310b67807246a7c9808f188b7b498f7b1",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-19"
@@ -1846,12 +1885,12 @@
           "printed_pages": "2-17",
           "fingerprint": "a70222ddeda5bd7553c8739543b2fea8f3af2e6da17d9756c82751074db263a3",
           "role_counts": {
-            "footer": 41,
+            "footer": 39,
             "h2": 7,
             "body": 42,
             "chapter-number": 1,
             "caption": 41,
-            "table": 36,
+            "table": 34,
             "note": 1
           },
           "ocr": false,
@@ -1889,15 +1928,15 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch03.pdf",
           "pdf_pages": 18,
           "printed_pages": "28-45",
-          "fingerprint": "734f4e6003db309a7e95e9bd88b0324827512556d988876ee9d9cdf28cfdcb15",
+          "fingerprint": "c263bbc35806515dcc6edfba9c7c2ffeb1795fb40a39df7eb48af661033749cb",
           "role_counts": {
             "footer": 44,
             "h2": 8,
-            "body": 52,
+            "body": 51,
             "chapter-number": 1,
-            "caption": 70,
+            "caption": 72,
             "dropcap": 1,
-            "table": 27
+            "table": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1912,20 +1951,22 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch04.pdf",
           "pdf_pages": 14,
           "printed_pages": "46-59",
-          "fingerprint": "21369d923201ba1ec557370fa9c9fb0bbf3fbeb706aecda34c370cc21809b034",
+          "fingerprint": "8b38ec63cbc6f42b1f2e64bc66471460b5ec6986468c98c3b69d0bf5740514fc",
           "role_counts": {
-            "footer": 35,
+            "footer": 34,
             "h2": 10,
             "body": 37,
             "chapter-number": 1,
-            "caption": 33,
+            "caption": 34,
             "table": 37,
             "dropcap": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "The grey side question stands alone in the margin of the judiciary page (page 56 in the 2014 to 2022 printings, page 50 in the later ones) and is not part of the table row"
+          ],
           "file": "texts/social-political-life-3/2024-05-24/04-judiciary.md"
         },
         {
@@ -1935,13 +1976,14 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "60-73",
-          "fingerprint": "bc338751db2e28e0b6a92ddccac87c81da53ec378eaaa84b08afeda40d7bc90a",
+          "fingerprint": "fdb7fc4a662bde40b588b21e39ba490e10a55d543a5d1256ecb549b65f82f0e5",
           "role_counts": {
             "footer": 33,
             "h2": 11,
-            "body": 47,
+            "body": 46,
             "chapter-number": 1,
             "caption": 54,
+            "h3": 1,
             "table": 18
           },
           "ocr": false,
@@ -1957,13 +1999,14 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch06.pdf",
           "pdf_pages": 10,
           "printed_pages": "74-83",
-          "fingerprint": "bd8653d835e2c33b63134dc1bd5a5e5704b4327ef6b0b13fa9eaebbf1041a974",
+          "fingerprint": "4b73511f2d7d098cc1a7d6c758446cb97f4f361ce91ab53c9913ef7d5c3341d5",
           "role_counts": {
             "footer": 24,
             "chapter-number": 1,
             "h2": 8,
             "body": 38,
             "caption": 34,
+            "h3": 1,
             "table": 19
           },
           "ocr": false,
@@ -1979,13 +2022,13 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch07.pdf",
           "pdf_pages": 16,
           "printed_pages": "84-99",
-          "fingerprint": "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c5bd",
+          "fingerprint": "732593aa21b7bfed876231bdb3f9b720859ac2c96b2df802f97592b0e7042a57",
           "role_counts": {
-            "footer": 40,
+            "footer": 39,
             "h2": 12,
             "body": 53,
             "chapter-number": 1,
-            "caption": 70,
+            "caption": 71,
             "note": 1,
             "table": 24,
             "dropcap": 1
@@ -2003,13 +2046,13 @@
           "pdf": "pdfs/social-political-life-3/2024-05-24/ch08.pdf",
           "pdf_pages": 15,
           "printed_pages": "100-114",
-          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "fingerprint": "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e",
           "role_counts": {
-            "footer": 34,
+            "footer": 31,
             "chapter-number": 1,
             "body": 54,
             "h2": 8,
-            "caption": 56,
+            "caption": 59,
             "table": 24,
             "h3": 1
           },

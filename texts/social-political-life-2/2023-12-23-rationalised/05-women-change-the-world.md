@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch05.pdf"
 source_sha256: "93f4748d6a04fdcf319c218bcbf1e1666654c6f09356be1b35a336f61b8b5849"
 pdf_pages: 14
 printed_pages: "48-61"
-body_fingerprint: "91ca4af63b72000b2474b467742e42557ebcbab87ea988e081766925043eddf0"
+body_fingerprint: "168d9b518e77c63a5d6122aa06ccaf10b8464a1ece2c2297c2cdf1469e9b2dbb"
 ---
 
 <!-- page 48 (pdf 1) -->
@@ -249,28 +249,28 @@ Above: Women are holding up candles to demonstrate the solidarity between the pe
 
 <!-- section: exercises -->
 
-EXERCISES
+> [note] EXERCISES
 
-> [note] Rokeya.
+> [caption] 1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?
+
+> [caption] 2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.
+
+> [caption] 3. “Poor girls drop out of school because they are not interested in getting an education.” Re-read the last paragraph on page 62 and explain why this statement is not true.
+
+> [caption] 4. Can you describe two methods of struggle that the women’s movement used to raise issues? If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about? Why would you choose this particular method?
 
 <!-- section: glossary -->
 
-Glossary
-
-> [note] against the wishes of a woman.
-
-> [note] 1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?
-
-> [note] 2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and
-
-> [note] 3. “Poor girls drop out of school because they are not interested in getting an education.” Re-read the last paragraph on page 62 and explain why this statement is not true.
-
-> [note] 4. Can you describe two methods of struggle that the women’s movement used to raise issues? If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about? Why would you choose this particular method?
+> [note] Glossary
 
 > [note] Stereotype: When we believe that people belonging to particular groups based on religion, wealth, language are bound to have certain fixed characteristics or can only do a certain type of work, we create a stereotype. For example, in this chapter, we saw how boys and girls are made to take certain subjects not because he or she has an aptitude for it, but because they are either boys or girls. Stereotypes prevent us from looking at people as unique individuals.
 
 > [note] Discrimination: When we do not treat people equally or with respect we are indulging in discrimination. It happens when people or organisations act on their prejudices. Discrimination usually takes place when we treat some one differently or make a distinction.
 
-> [note] Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can say that he or she has committed a violation.
+> [note] Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can
+
+> [caption] say that he or she has committed a violation.
 
 > [note] Sexual harassment: This refers to physical or verbal behaviour that is of a sexual nature and
+
+> [caption] against the wishes of a woman.

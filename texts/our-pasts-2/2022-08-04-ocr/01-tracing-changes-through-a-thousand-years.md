@@ -10,16 +10,20 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch01.pdf"
 source_sha256: "ab8424cf182be51c45571239102ccc71bae13066b98f5338f4e5138a169b8564"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "8a5ae8ec4df981e86e83689ffc6374e3137cd2521fd5fadd68efe4290f4a5d76"
+body_fingerprint: "b72326044dbc2c5aa3b1bf2cb4f1f3e9ad076ca4dc24d6697e4ec3ffbd4cd58c"
 ocr: true
 ocr_confidence: 93.0
+overrides:
+  - "drop capital T lost and small-capital CE read in lower case on page 1"
 ---
 
 <!-- page 1 (pdf 1) -->
 
-TRACING CHANGES THROUGH
+### TRACING CHANGES THROUGH
 
-A THOUSAND YEARS ake a look at Maps 1 and 2. Map 1 was made in 1154 ce by the Arab geographer Al-Idrisi. The section reproduced here is a detail of the Indian subcontinent from his larger map of the world. Map 2 was made in the 1720s by a French cartographer. The two maps are quite different even though they are of the same area. In al-Idrisi’s map, south India is where we would expect to find north India and Sri Lanka is the island at the top. Place-names are marked in Arabic, and there are some well-known names like Kanauj in Uttar Pradesh (spelt in the map as Qanauj). Map 2 was made nearly 600 years after Map 1, during which time information about the subcontinent had changed considerably. This map seems more familiar to us and the coastal areas in particular are surprisingly detailed. This map was used by European sailors and merchants on their voyages (see Chapter 6).
+### A THOUSAND YEARS
+
+Take a look at Maps 1 and 2. Map 1 was made in 1154 CE by the Arab geographer Al-Idrisi. The section reproduced here is a detail of the Indian subcontinent from his larger map of the world. Map 2 was made in the 1720s by a French cartographer. The two maps are quite different even though they are of the same area. In al-Idrisi’s map, south India is where we would expect to find north India and Sri Lanka is the island at the top. Place-names are marked in Arabic, and there are some well-known names like Kanauj in Uttar Pradesh (spelt in the map as Qanauj). Map 2 was made nearly 600 years after Map 1, during which time information about the subcontinent had changed considerably. This map seems more familiar to us and the coastal areas in particular are surprisingly detailed. This map was used by European sailors and merchants on their voyages (see Chapter 6).
 
 > [caption] 0760CHO1
 
@@ -49,7 +53,7 @@ Take the term “Hindustan”, for example. Today we understand it as “India�
 
 Historians today have to be careful about the terms they use because they meant different things in the past. Take, for example, a simple term like “foreigner”. It is used today to mean someone who is not an Indian. In the medieval period a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of that society or culture. (In Hindi the term pardesi might be used to describe such a person and in Persian, ajnabi.) A city-dweller, therefore, might have regarded a forest-dweller as a “foreigner”, but two peasants living in the same village were not foreigners to each other, even though they may have had different religious or caste backgrounds.
 
-> [note] Can you think of any other words whose meanings change in different contexts?
+Can you think of any other words whose meanings change in different contexts?
 
 <!-- page 4 (pdf 4) -->
 
@@ -57,7 +61,9 @@ Historians and their Sources
 
 Historians use different types of sources to learn about the past depending upon the period of their study and the nature of their investigation. Last year, for example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more The value of paper Compare the following:
+You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more The value of paper
+
+Compare the following:
 
 (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
 
@@ -101,7 +107,7 @@ Throughout this period there was a gradual clearing of forests and the extension
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
 
-> [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
+Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
 <!-- page 9 (pdf 9) -->
 
@@ -149,15 +155,17 @@ Their knowledge of Sanskrit texts earned the Brahmanas a lot of respect in socie
 
 One of the major developments of this period was the emergence of the idea of bhakti —- of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals. You will be learning about this, and other traditions, in Chapter 8.
 
-> [caption] Find out whether and for how long your state was
+> [table] Find out whether and for how long your state was
 
-> [note] part of these pan-regional empires.
+part of these pan-regional empires.
 
-> [note] Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
+Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
 
 > [caption] Patron
 
-> [caption] An influential, wealthy individual who supports another person — an artiste, a craftsperson, a learned man, or a noble.
+> [table] An influential, wealthy individual who supports another person — an artiste, a craftsperson, a learned man, or
+
+> [caption] a noble.
 
 <!-- page 12 (pdf 12) -->
 
@@ -179,7 +187,7 @@ During these thousand years the societies of the subcontinent were transformed o
 
 <!-- page 14 (pdf 14) -->
 
-Imagine
+### Imagine
 
 You are a historian. Choose one of the themes mentioned in this chapter, such as economic, social or political history, and discuss why you think it would be interesting to find out the history of that theme.
 
@@ -191,9 +199,7 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 . during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural; settlements. region
 
-(d) Sultan Ghiyasuddin Balban controlled Assam,
-
-> [note] periodisation Manipur and Kashmir.
+(d) Sultan Ghiyasuddin Balban controlled Assam, periodisation Manipur and Kashmir.
 
 > [caption] 3. Fill in the blanks:
 

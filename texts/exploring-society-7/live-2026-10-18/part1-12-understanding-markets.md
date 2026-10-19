@@ -11,7 +11,12 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf"
 source_sha256: "9fb8476d1480fcd2844b84d1cbd26c690c1ffaea0fc64c5d523d0973323e7687"
 pdf_pages: 26
 printed_pages: "247-272"
-body_fingerprint: "7424df52c30292f3d250927e520a1cd85458f2bbbd5497fd0323d6deaa3c253a"
+body_fingerprint: "298dd9f2eeabd41273a59665507b65c33d9ca7200a668a20b679402453b68910"
+overrides:
+  - "part 1 chapter 12, page 256: map label noise in a caption block"
+  - "part 1 chapter 12, page 256: map label noise in a caption block"
+  - "part 1 chapter 12, page 256: map label noise in a caption block"
+  - "part 1 chapter 12, page 261: axis ticks and the next map's legend were glued into the Fig. 12.23 caption and the Fig. 12.24 caption is missing from the text layer"
 ---
 
 <!-- page 247 (pdf 1) -->
@@ -182,15 +187,13 @@ International markets exist outside a nation’s boundary; the sellers in one co
 
 > [caption] Europe
 
-> [caption] 5.
-
-> [caption] Europe
-
 > [caption] North America
 
 > [caption] North America
 
-> [caption] "ef 8 CREE tf : Atlantic Ocean iy CT su oh Middle-East West Atlantic Ocean Asia India India Africa a : A South East Asia Africa South East Asia South America South America Indian Ocean Indian Ocean 6.
+> [caption] West
+
+> [caption] West Asia Ind sia South East Asia Indian Ocean Atlantic Ocean Asia India India Africa Africa South East Asia South East Asia South America South America Indian Ocean 6.
 
 > [caption] 5.
 
@@ -226,8 +229,6 @@ India was the world’s largest importer of vegetable oils like palm oil, sunflo
 
 > [caption] India’s exports:
 
-## eal
-
 > [caption] Pacific Ocean
 
 > [caption] Pacific Ocean
@@ -240,7 +241,7 @@ India was the world’s largest importer of vegetable oils like palm oil, sunflo
 
 Several participants play their role in the smooth functioning of the markets.
 
-> [table] Movement of Physical Goods in Markets TT cum ff) Finished
+> [table] Movement of Physical Goods in Markets
 
 > [caption] manufacture & converted into go to
 
@@ -248,17 +249,19 @@ Several participants play their role in the smooth functioning of the markets.
 
 > [caption] purchased by
 
+> [table] Finished
+
 > [table] Goods
 
 > [table] Producers
 
-> [caption] La send to
+> [caption] send to
 
-> [table] Mandis / Se Wholesale
+> [table] Mandis / Wholesale
 
 > [caption] reach
 
-> [table] Warehouses & Se Sy Wholesalers
+> [table] Wholesalers Warehouses &
 
 > [table] Distributors
 
@@ -266,17 +269,17 @@ Several participants play their role in the smooth functioning of the markets.
 
 > [table] Consumers
 
-> [caption] com
-
 > [table] Retailers
 
 > [caption] Fig. 12.11
 
 ### LET’S EXPLORE
 
-ehObserve the diagram and describe the flow of goods from the manufacturer / producer to the consumer. What is the role of the wholesaler and the retailer in the flow?
+Observe the diagram and describe the flow of goods from the manufacturer / producer to the consumer. What is the role of the wholesaler and the retailer in the flow?
 
-In the case of physical markets, wholesalers buy goods in large quantities from the producer or manufacturer of the product. For example, grains, vegetables, and fruits are bought by wholesalers directly from the farms. The produce is then stored in large warehouses called godowns. In the case of perishables, the warehouses Fig. 12.12. Cold storage facility for vegetables ​ may also have cold s torage facilities. They are then brought to markets called mandīs.
+In the case of physical markets, wholesalers buy goods in large quantities from the producer or manufacturer of the product. For example, grains, vegetables, and fruits are bought by wholesalers directly from the farms. The produce is then stored in large warehouses called godowns. In the case of perishables, the warehouses may also have cold s torage facilities. They are then brought to markets called mandīs.
+
+Fig. 12.12. Cold storage facility for vegetables ​
 
 <!-- page 258 (pdf 12) -->
 
@@ -318,7 +321,7 @@ The Surat textile market consists of thousands of factories manu-facturing cotto
 
 <!-- page 261 (pdf 15) -->
 
-The finished product from the fabric is traded by the manufacturing units in the wholesale market. The wholesalers are an important channel of supply as they oversee the distribution of products to small shopkeepers and big retail stores across the country and internationally. They also assess how much product is required by retailers. This helps maintain the stock of products with the manufacturers and ensures an uninterrupted supply of products to the end consumers. vs Cc, er, pes pe fos ‘ as AS co nd om al NG oe at ate il Me Se Ask your nearest retailer about a product, its place of origin, and the chain of suppliers in the process of the product reaching the shop. Trace this using a flow chart like Fig. 12.11 and share it in class.
+The finished product from the fabric is traded by the manufacturing units in the wholesale market. The wholesalers are an important channel of supply as they oversee the distribution of products to small shopkeepers and big retail stores across the country and internationally. They also assess how much product is required by retailers. This helps maintain the stock of products with the manufacturers and ensures an uninterrupted supply of products to the end consumers.
 
 > [caption] 70°E
 
@@ -326,25 +329,7 @@ The finished product from the fabric is traded by the manufacturing units in the
 
 > [caption] 80°E
 
-> [caption] Surendranagar
-
-> [caption] Jamnagar
-
-> [caption] Bhavnagar
-
-> [caption] Amreli Surat Amravati
-
-> [caption] Nagpur Wardha
-
-> [caption] Akola
-
-> [caption] Yavatmal
-
-> [caption] Adilabad
-
-> [caption] 0 100 200 50 km
-
-> [caption] Production By District 2017 -2020 Metric tons
+> [caption] Surendranagar Surend gal jar Bha Ar Surat Jamnagar Bhavnagar our Amreli Surat Amravati AkolaAmrava Akola Nagpur Wardha Akola Yavatmal Adilabad 0 100 200 50 km Production By District 2017 -2020 Metric tons
 
 > [caption] <10,000 Low
 
@@ -352,19 +337,17 @@ The finished product from the fabric is traded by the manufacturing units in the
 
 > [caption] >75,000 High
 
-> [caption] 70°E
+> [caption] Fig. 12.23. Supply of raw cotton from surrounding cotton clusters to Surat
 
-> [caption] 75°E
-
-> [caption] 80°E
-
-> [caption] Fig. 12.23. Supply of raw cotton from surrounding cotton clusters to Surat Port River Surat City Textile Market Railway Road Airport
+> [caption] Fig. 12.24. Surat City Map
 
 <!-- page 262 (pdf 16) -->
 
 > [caption] Fig. 12.25. A wholesaler’s warehouse of fabric
 
 ### LET’S EXPLORE
+
+Ask your nearest retailer about a product, its place of origin, and the chain of suppliers in the process of the product reaching the shop. Trace this using a flow chart like Fig. 12.11 and share it in class.
 
 ### DON’T MISS OUT
 
@@ -405,6 +388,8 @@ Often, a relationship develops between buyers and sellers that continues even ac
 So, while the primary role of the market is to promote economic activities, it also has non-economic significance in many people’s lives.
 
 Mother’s Market, Ima Keithal in the Meitei language of Manipur, is a unique market in Imphal. About 3000 women own and run all the shops in this market. They sell vegetables, clothes including traditional Manipuri attire, hand-loom and handicrafts, local produce, and daily essentials that people in the city and the surrounding areas require. On one hand, the market provides employment, becoming an important source of income for thousands of families; on the other hand, the market is a melting pot of cultures. People from different communities come together to exchange ideas and enjoy shared traditions.
+
+> [caption] Fig. 12.26. Ima Keithal of Imphal
 
 <!-- page 265 (pdf 19) -->
 

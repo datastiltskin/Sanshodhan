@@ -11,7 +11,9 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf"
 source_sha256: "2c03eea83b15b8718697bbdb9bfa57c200e19c6db71014698de73432f0589fbc"
 pdf_pages: 36
 printed_pages: "61-96"
-body_fingerprint: "1fec7f0e310a2cee85350e86294ea8ce674ea90a8f54aa4a26d7e304ee02aa9d"
+body_fingerprint: "7ddb95e84573f5d0613e22b0dbc51cb60a0711e1f1d4e7feb5e5ad02c108f2c9"
+overrides:
+  - "part 2 chapter 3, page 82: last caption line is missing from the text layer"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -68,7 +70,7 @@ Is this really the end of an age of powerful empires … or the dawn of a new er
 
 > [caption] V
 
-> [caption] A B H Ū T I S
+> [caption] ABHŪTIS
 
 > [caption] Prayāga
 
@@ -222,13 +224,17 @@ After Harṣha’s death, the Bengal region fell into disorder until, according 
 
 The Pāla Empire flourished economically thanks not only to internal trade, but also through brisk maritime trade through its seaports on the east coast, which provided pathways to Southeast Asia (see ‘India and Her Neighbours’ for some details). Though the empire later declined, it left a lasting legacy of strong governance and learning in parts of eastern and northern India.
 
+> [caption] Fig. 3.9. Crowned Buddha, Bihar,
+
+> [caption] Pāla Empire, 10th–11th centuries
+
 <!-- page 69 (pdf 9) -->
 
 ### THINK ABOUT IT
 
 Some historians state that Dharmapāla was Buddhist; he certainly patronised Buddhist learning and institutions. But we should keep in mind that in ancient India, the concept of religion was more fluid than it is today, and except perhaps for monks and nuns, people could feel at ease with various belief systems and practise different modes of worship at the same time. Indeed, people often did not regard belief systems involving Hinduism, Buddhism, and Jainism as separate, but rather as branches of a common philosophical tree. Besides, rulers often took pride in patronising several schools of thought; we saw the case of the Guptas in Part 1 of this textbook, and Harṣha gives us one more example of such broad-mindedness. Similarly, several successors of Dharmapāla, though still patronising Buddhist institutions, were said to be devotees of Śhiva. The Rāṣhṭrakūṭas (p. 71) and other rulers will provide more examples of this.
 
-A university with scholars as ‘gatekeepers’
+### A university with scholars as ‘gatekeepers’
 
 Dharmapāla founded Vikramaśhilā in the late 8th century on the banks of the Ganga. It remained a great centre of learning for more than four centuries. The university had six colleges, monasteries, temples, lecture halls, and a vast library. Nearly 3,000 scholars studied subjects such as grammar, logic, Hindu and Buddhist philosophy, learning and rituals. Admission was highly selective as each college had a dvārapaṇḍita (‘scholar gatekeeper’) who tested students before allowing them entry. Vikramaśhilā was especially known for its ties with Tibet; one of its famous teachers travelled to Tibet, translated Sanskrit works into Tibetan and played a major role in shaping Tibetan Buddhism (also called Vajrayāna Buddhism, see Chapter ‘India and Her Neighbours’ in this textbook).
 
@@ -248,7 +254,7 @@ In the 9th century, the celebrated Pratīhāra ruler, King Bhoja, a devotee of V
 
 However, a century later, the Gurjara-Pratīhāras suffered the destruction of Kannauj by Rāṣhṭrakūṭa rulers, which hastened the disintegration of their empire; it was finally eliminated in the early 11th century by the Ghaznavids, whom we will meet in the next chapter.
 
-> [caption] Fig. 3.11. A Gurjara-Pratīhāra silver coin (about 2 cm in diameter) depicting
+> [caption] Fig. 3.11. A Gurjara-Pratīhāra silver coin (about 2 cm in diameter) depicting Varāha, an avatar of Viṣhṇu
 
 <!-- page 71 (pdf 11) -->
 
@@ -308,7 +314,7 @@ Kalhaṇa also writes, “That noble-minded poet is alone worthy of praise whose
 
 According to tradition, Ādi Śhankarāchārya, the 8th-century scholar and teacher of the advaita vedānta school of philosophy, visited the hill shown in this sketch;
 
-> [caption] Fig. 3.14. A 19th-century sketch of the Shankaracharya Hill (also known as Takht-i-Sulaiman, anciently called Gopādri Hill) overlooking the Kashmir valley near Srinagar, with the Jhelum River meandering below
+> [caption] Fig. 3.14. A 19th-century sketch of the Shankaracharya Hill (also known as Takht-i-Sulaiman, anciently called Gopādri Hill) overlooking the Kashmir valley near Srinagar, with the Jhelum River meandering below and Himalayan peaks in the background.
 
 <!-- page 75 (pdf 15) -->
 
@@ -404,6 +410,8 @@ The Pallavas created many temples and other structures (Fig. 3.1). At Māmallapu
 
 > [caption] Made of a single (‘mono’) stone or rock
 
+> [caption] (‘lithic’).
+
 <!-- page 79 (pdf 19) -->
 
 > [caption] Fig. 3.18. A granite relief at Māmallapuram depicting goddess Durga about to slay the buffalo demon Mahiṣhāsura.
@@ -460,7 +468,7 @@ Directly controlled territories were divided into provinces (bhuktis or rāṣh�
 
 By the 9th century, south India saw the rise of assemblies at several levels. Let us recall, for example, the elaborate 10th-century inscriptions of the Cholas at Uttaramerur (or Uthiramerur) detailing the selection process of members to the village sabhā (see Part 1 of this textbook, Chapter ‘From the Rulers to the Ruled’). This showed the long continuity of democratic traditions in India, dating back 1,500 years to the janapadas.
 
-> [caption] Fig. 3.21. A Chola inscription in an
+> [caption] Fig. 3.21. A Chola inscription in an early Tamil script (Bṛihadīśhvara temple, Thanjavur)
 
 <!-- page 83 (pdf 23) -->
 
@@ -472,7 +480,7 @@ Many grants aimed to bring uncultivated land under cultivation, expanding agricu
 
 Alongside agriculture, trade and markets flourished in regional trade centres. Small traders handled local trade, while ship-owning merchants conducted long-distance commerce. From the 8th century onward, India’s west coast saw brisk shipping with ports in present-day Iran, Iraq, and Africa’s east coast, while India’s east coast connected with Sri Lanka, Southeast Asia and all the way to Chinese ports (see Fig. 2.2 earlier in this textbook). A similar activity prevailed on the east coast under the Cheras; a set of copper-plate inscriptions significantly refers to the presence of Christian, Muslim and Jewish traders from West Asia, showing again how India was a hub of international trade.
 
-> [caption] Fig. 3.22. A 7th-century hero stone at Eduthanur, a village in Tamil Nadu. The inscription praises this local chief who, along with his loyal dog, fought cattle thieves, both of them losing their lives. (The chief’s and even the
+> [caption] Fig. 3.22. A 7th-century hero stone at Eduthanur, a village in Tamil Nadu. The inscription praises this local chief who, along with his loyal dog, fought cattle thieves, both of them losing their lives. (The chief’s and even the dog’s names are given in the inscription.)
 
 <!-- page 84 (pdf 24) -->
 

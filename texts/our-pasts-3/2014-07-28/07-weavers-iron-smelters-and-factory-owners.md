@@ -12,16 +12,14 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf"
 source_sha256: "b08a9af74359a5edfc940ed5022dcf2faeaaa194584af724defea4c909406e1c"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "66cb986ddd8fa524bf0426c3863220b00cd8f8fb1c20982be94680be638cf6d8"
+body_fingerprint: "b4ab74d31e0a1b1c2217771f1cd3e17efbd2bb07dd0d2c9d68bed20a8d152cca"
 ---
 
 <!-- page 79 (pdf 1) -->
 
 # Weavers, Iron Smelters and Factory Owners
 
-> [caption] Fig. 1 – Trading ships on the port of Surat in the seventeenth century
-
-Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
+> [caption] Fig. 1 – Trading ships on the port of Surat in the seventeenth century Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
 
 This chapter tells the story of the crafts and industries of India during British rule by focusing on two industries, namely, textiles and iron and steel. Both these industries were crucial for the industrial revolution in the modern world. Mechanised production of cotton textiles made Britain the foremost industrial nation in the nineteenth century. And when its iron and steel industry started growing from the 1850s, Britain came to be known as the “workshop of the world”.
 
@@ -81,9 +79,7 @@ Activity Why do you think the Act was called the Calico Act? What does the name 
 
 Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
 
-> [caption] Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century
-
-> [table] As European trade expanded, trading settlements were established at various ports. The Dutch settlements in Cochin came up in the seventeenth century. Notice the fortification around the settlement.
+> [caption] Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century As European trade expanded, trading settlements were established at various ports. The Dutch settlements in Cochin came up in the seventeenth century. Notice the fortification around the settlement.
 
 <!-- page 84 (pdf 6) -->
 
@@ -91,11 +87,11 @@ Where were the major centres of weaving in the late eighteenth century?
 
 > [caption] Fig. 8 – Weaving centres: 1500-1750
 
-If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
+> [caption] If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
 
-> [table] Dacca in Eastern Bengal (now Bangladesh) was the foremost textile centre in the eighteenth century. It was famous for its mulmul and jamdani weaving.
+> [caption] Dacca in Eastern Bengal (now Bangladesh) was the foremost textile centre in the eighteenth century. It was famous for its mulmul and jamdani weaving.
 
-If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
+> [caption] If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
 
 <!-- page 85 (pdf 7) -->
 
@@ -105,9 +101,7 @@ Weavers often belonged to communities that specialised in weaving. Their skills 
 
 The first stage of production was spinning – a work done mostly by women. The charkha and the takli were household spinning instruments. The thread was spun on the charkha and rolled on the takli. When the spinning was over the thread was woven into cloth by the weaver. In most communities weaving was a task done by men. For coloured textiles, the thread was dyed by the dyer, known as rangrez. For printed cloth the weavers needed the help of specialist block printers known as chhipigars. Handloom weaving and the occupations associated with it provided livelihood for millions of Indians.
 
-> [caption] Fig. 9 – A tanti weaver of Bengal, painted by the Belgian painter Solvyns in the 1790s
-
-> [table] The tanti weaver here is at work in the pit loom. Do you know what a pit loom is?
+> [caption] Fig. 9 – A tanti weaver of Bengal, painted by the Belgian painter Solvyns in the 1790s The tanti weaver here is at work in the pit loom. Do you know what a pit loom is?
 
 ### The decline of Indian textiles
 
@@ -167,9 +161,9 @@ The first cotton mill in India was set up as a spinning mill in Bombay in 1854. 
 
 <!-- page 88 (pdf 10) -->
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
-By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
+Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
 
 Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
 
@@ -189,27 +183,29 @@ Production of Wootz steel required a highly specialised technique of refining ir
 
 Activity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
 
-Bellows – A device or equipment that can pump air Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
+Bellows – A device or equipment that can pump air
 
 > [caption] Fig. 12 – Iron smelters of Palamau, Bihar
 
 <!-- page 90 (pdf 12) -->
 
-> [caption] Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
-
 > [table] Source 3
-
-By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
 
 ## A widespread
 
 ## industry
 
-One reason was the new forest laws that you have read about (Chapter 4). When the colonial government prevented people from entering the reserved forests, how could the iron smelters find wood for charcoal? Where could they get iron ore? Defying forest laws, they often entered the forests secretly and collected wood, but they could not sustain their occupation on this basis for long. Many gave up their craft and looked for other means of livelihood.
-
 According to a report of the Geological Survey of India:
 
 Iron smelting was at one time a widespread industry in India and there is hardly a district away from the great alluvial tracts of the Indus, Ganges and Brahmaputra, in which slag heaps are not found. For the primitive iron smelter finds no difficulty in obtaining sufficient supplies of ore from deposits that no European ironmaster would regard as worth his serious consideration.
+
+> [caption] Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
+
+> [caption] Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
+
+By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
+
+One reason was the new forest laws that you have read about (Chapter 4). When the colonial government prevented people from entering the reserved forests, how could the iron smelters find wood for charcoal? Where could they get iron ore? Defying forest laws, they often entered the forests secretly and collected wood, but they could not sustain their occupation on this basis for long. Many gave up their craft and looked for other means of livelihood.
 
 In some areas the government did grant access to the forest. But the iron smelters had to pay a very high tax to the forest department for every furnace they used. This reduced their income.
 

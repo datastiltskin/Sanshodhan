@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch03.pdf"
 source_sha256: "709757a747874a36a48362b4451af5a95e934a4329944f69620ed1c80274bb52"
 pdf_pages: 12
 printed_pages: "30-41"
-body_fingerprint: "5ff244b6bdec4060615b8520996aa94049ac37561aab1605593b115c52ecb3ae"
+body_fingerprint: "9c538df99042e8fb3d5f0168c4b72ebd3a2a0393760a6cf972f43e476df33df8"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -32,13 +32,9 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] That afternoon...
 
-> [caption] Suddenly...
-
 > [table] On the TV news, they said ten people
 
 > [table] My mother said not to have any iced drinks from the market. She gave one of have died from diarrhoea! Is that possible? Can one really die from it?
-
-> [caption] STOP!
 
 > [table] her lectures this morning, “You have to
 
@@ -52,19 +48,29 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to
+> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take
 
-> [table] bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
+> [table] Ha ha – they seem more angry
+
+> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
 > [table] about what he
 
-> [caption] the Opposition!
-
-> [table] hasn’t done!
+> [caption] hasn’t done!
 
 Who is an MLA?
 
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
+
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in green in the above thumbnail map of India.
+
+> [caption] action? Discuss.
+
+> [caption] Suddenly...
+
+> [caption] STOP!
+
+> [caption] What a loud voice he has...he must be the Opposition!
 
 > [caption] What is happening in Patalpuram ?
 
@@ -72,13 +78,9 @@ In the above section, you have read about some events in Patalpuram. You may be 
 
 > [caption] What action do you think can be taken in the above situation and who do you think should take this
 
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in green in the above thumbnail map of India.
-
-> [caption] action? Discuss.
-
 <!-- page 32 (pdf 3) -->
 
-> [table] Discuss the following terms with your teache your teacher–public meeting, States in India, constituency, majority, ruling party and opposition.
+> [table] Discuss the following terms with your teacher–public meeting, States in India, constituency, majority, ruling party and opposition.
 
 > [table] Can you explain the following terms –majority, ruling party, opposition with reference to your state.
 
@@ -212,29 +214,29 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 
 <!-- section: exercises -->
 
-EXERCISES
+> [note] EXERCISES
 
-> [table] 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
+> [caption] 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
 
-> [table] 2. How did some MLAs become Ministers? Explain.
+> [caption] 2. How did some MLAs become Ministers? Explain.
 
-> [table] 3. Why should decisions taken by the Chief Minister and other ministers be debated in the Legislative Assembly?
+> [caption] 3. Why should decisions taken by the Chief Minister and other ministers be debated in the Legislative Assembly?
 
-> [table] 4. What was the problem in Patalpuram? What discussion/ action was taken by the following? Fill in the table.
+> [caption] 4. What was the problem in Patalpuram? What discussion/ action was taken by the following? Fill in the table.
 
-Public meeting
+> [note] Public meeting
 
-Legislative Assembly
+> [note] Legislative Assembly
 
-Press conference
+> [note] Press conference
 
-Chief Minister
+> [note] Chief Minister
 
-> [table] 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
+> [caption] 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
 
 <!-- section: glossary -->
 
-Glossary
+> [note] Glossary
 
 > [table] Constituency: A particular area from which all the voters living there choose their representatives. This could be, for example, a panchayat ward or an area that chooses an MLA.
 

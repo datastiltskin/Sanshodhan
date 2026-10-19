@@ -13,7 +13,9 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch05.pdf"
 source_sha256: "fa4bfd70b322e0cb3491cdc53755f6d8370d3823164586e84d5670dce36330d3"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "736c3c2de337370353c3b884fe2f5f550a6458f20cc0d1409e58b3a7a48f8d9d"
+body_fingerprint: "7655b3a961e8344e06a27ab59884c3da593992cab9848d730929a69c08d5a3de"
+overrides:
+  - "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -38,9 +40,9 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [caption] Fig. 2a Fig. 2b
 
-> [note] Labour for the Agra Fort
+Labour for the Agra Fort
 
-> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
+Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
 > [caption] Raniji ki baori or the ‘Queen’s Stepwell’, located in Bundi in Rajasthan is the largest among the fifty step wells that were built to meet the need for water. Known for its architectural beauty, the baori was constructed in 1699 C.E. by Rani Nathavat Ji, the queen of Raja Anirudh Singh of Bundi.
 
@@ -50,21 +52,25 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 <!-- page 62 (pdf 3) -->
 
-Temple Construction in the Early Eleventh Century Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”.
+> [note] Temple Construction in the Early Eleventh Century
 
 > [caption] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva of the Chandela dynasty. Fig. 3b is the plan of the temple. An ornamented gateway led to an entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
 > [caption] Fig. 3a
 
-> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
-
-> [caption] “Village of the Incline”.
-
 > [caption] Fig. 3b
+
+> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than
 
 > [note] What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
 
+> [caption] 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
+
+> [caption] “Village of the Incline”.
+
 <!-- page 63 (pdf 4) -->
+
+Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”.
 
 > [caption] KEYSTONE
 
@@ -110,9 +116,7 @@ It was widely believed that the rule of a just king would be an age of plenty wh
 
 Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another’s kingdoms they often targeted these buildings. In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king, Sena I (831-851), the Buddhist monk and chronicler Dhammakitti noted: “he removed all the valuables ... The statue of the Buddha made entirely of gold in the Jewel Palace ... and the golden images in the various monasteries – all these he seized.” The blow to the pride of the Sinhalese ruler had to be avenged and the next Sinhalese ruler, Sena II, ordered his general to invade Madurai, the capital of the Pandyas. The Buddhist chronicler noted that the expedition made a special effort to find and restore the gold statue of the Buddha.
 
-> [note] Importance of water
-
-> [note] The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
+The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
 
 > [caption] Fig. 8 Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.
 
@@ -162,9 +166,9 @@ In the early years of his reign, Shah Jahan’s capital was at Agra, a city wher
 
 Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles – like his eldest son Dara Shukoh – were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
-> [note] Pietra dura
+### Pietra dura
 
-> [note] Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
+Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
 
 > [caption] Fig. 13 The Taj Mahal at Agra, completed in 1643.
 
@@ -204,9 +208,13 @@ Churches that touched the skies
 
 <!-- page 73 (pdf 14) -->
 
-Imagine
+### Imagine
 
-You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
+You are an artisan standing on a tiny
+
+wooden platform held together by
+
+bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
 <!-- section: exercises -->
 
@@ -214,9 +222,9 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 1. How is the “trabeate” principle of architecture different from the “arcuate”?
 
-> [note] 2. What is a shikhara?
+2. What is a shikhara?
 
-> [note] 3. What is pietra-dura?
+3. What is pietra-dura?
 
 4. What are the elements of a Mughal chahar bagh garden?
 
@@ -232,11 +240,9 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [note] Go through the chapter and make your own list of six keywords.
-
-> [note] For each of these, write a sentence indicating why you chose the word.
+> [note] Go through the chapter and make your own list of six keywords. For each of these, write a sentence indicating why you chose the word.
 
 <!-- page 74 (pdf 15) -->
 

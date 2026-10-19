@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch10.pdf"
 source_sha256: "880472f33cb3eac4ccb296d541ad4317b3a9e9aaf7c9bc6c22cabae3218e6f7c"
 pdf_pages: 8
 printed_pages: "114-121"
-body_fingerprint: "2cefc6cac2a7c97e5f11f3aa68aa23cdb2692668968f1e38d3c209e4cec439a4"
+body_fingerprint: "0efb886917c75a7940b9eeef024f4d25f1a52149f8f9f8f7b6456b668cbddc50"
 ---
 
 <!-- page 114 (pdf 1) -->
@@ -87,7 +87,7 @@ Top: Members of the TMS protesting at a rally. Above: A member of the cooperativ
 
 Adaptation of a song written as part of the Right to Information campaign by Vinay Mahajan:
 
-The Right To Know
+### The Right To Know
 
 My dreams have the right to know Why for centuries they have been breaking Why don’t they ever come true My hands have the right to know Why do they remain without work all along Why do they have nothing to do My feet have the right to know Why from village to village they walk on their own Why are there no signs of a bus yet My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages My children have the right to know Why do they labour day and night Why is there no school in sight Creative expression against inequality While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
 
@@ -110,3 +110,37 @@ Over 1,500 persons attended a public hearing in Lucknow in 2001 to protest viole
 > [note] What role does the Constitution play in people’s struggles for equality?
 
 > [note] Can you make up a social advertisement on equality? You can do this in small groups.
+
+<!-- page 122 (pdf 1 of gess3rf.pdf) -->
+
+<!-- section: references -->
+
+## References
+
+Dreze, Jean and Aparajita Goyal. 2003. ‘Future of Mid-day Meals’.
+
+In Economic and Political Weekly.
+
+Hossein, Sakhwat Rokeya. 1905. (reprint) 1988. Sultana’s Dream.
+
+Feminist Press, New York.
+
+Kumar. Krishna. 1986. “Growing Up Male” in Seminar 318.
+
+Mazumdar, Indrani. 2007. Women and Globalization: The Impact on Women Workers in the Formal and Informal Sectors in India. Stree, Kolkata.
+
+Mead, Margaret. 1928, 1973. (edition) Growing Up In Samoa.
+
+American Museum of Natural History, Washington D.C.
+
+Parks, Rosa. 2000. Quiet Strength. Grand Rapids, Zondervan, Michigan.
+
+Rashsundari Devi. 1999. Words to Win. Translated and with an introduction by Tanika Sarkar. Zubaan, New Delhi.
+
+Roy, Tirthankar. 1999. ‘Growth and Recession in Small-Scale Industry: A Study of Tamil Nadu Powerlooms’ Economic and Political Weekly.
+
+Valmiki, Omprakash. 2003. Joothan: A Dalit’s Life. SAMYA, Kolkata.
+
+Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
+
+www.cehat.org/rthc/policybrieffinal.pdf www.infochangeindia.org

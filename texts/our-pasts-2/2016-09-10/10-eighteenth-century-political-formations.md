@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch10.pdf"
 source_sha256: "020fee1ef5931fe9120d12bffa6d5d8cc2ab81ded499e22e98e0e5ed73889a3a"
 pdf_pages: 17
 printed_pages: "138-154"
-body_fingerprint: "f3557218ae76bde04de4490ad4e1c4677b512670f8d44f2679a08861015e7902"
+body_fingerprint: "a6ef6f9b06651f8f94e97d8e9af8a9935350658a75df8d46fc7c40eb56d61134"
 ---
 
 <!-- page 138 (pdf 1) -->
@@ -41,7 +41,7 @@ Under his successors, the efficiency of the imperial administration broke down. 
 
 Peasant and zamindari rebellions in many parts of northern and western India added to these problems. These revolts were sometimes caused by the pressures of mounting taxes. At other times they were attempts by powerful chieftains to consolidate their own positions. Mughal authority had been challenged by rebellious groups in the past as well. But these groups were now able to seize the economic resources of the region to consolidate their positions. The Mughal emperors after Aurangzeb were unable to arrest the gradual shifting of political and economic authority into the hands of provincial governors, local chieftains and other groups.
 
-Rich harvests and empty coffers
+### Rich harvests and empty coffers
 
 > [note] The following is a contemporary writer’s account of the financial bankruptcy of the empire:
 
@@ -51,7 +51,7 @@ Rich harvests and empty coffers
 
 In the midst of this economic and political crisis, the ruler of Iran, Nadir Shah, sacked and plundered the city of Delhi in 1739 and took away immense amounts of wealth. This invasion was followed by a series of plundering raids by the Afghan ruler Ahmad Shah Abdali, who invaded north India five times between 1748 and 1761.
 
-Nadir Shah attacks Delhi
+### Nadir Shah attacks Delhi
 
 > [note] The devastation of Delhi after Nadir Shah’s invasion was described by contemporary observers. One described the wealth looted from the Mughal treasury as follows:
 
@@ -79,7 +79,7 @@ Amongst the states that were carved out of the old Mughal provinces in the eight
 
 <!-- page 143 (pdf 6) -->
 
-Hyderabad
+### Hyderabad
 
 Nizam-ul-Mulk Asaf Jah, the founder of Hyderabad state, was one of the most powerful members at the court of the Mughal Emperor Farrukh Siyar. He was entrusted first with the governorship of Awadh, and later given charge of the Deccan. As the Mughal governor of the Deccan provinces, Asaf Jah already had full control over its political and financial administration. Taking advantage of the turmoil in the Deccan and the competition amongst the court nobility, he gathered power in his hands and became the actual ruler of that region.
 
@@ -87,7 +87,7 @@ Asaf Jah brought skilled soldiers and administrators from northern India who wel
 
 The state of Hyderabad was constantly engaged in a struggle against the Marathas to the west and with independent Telugu warrior chiefs (nayakas) of the plateau. The ambitions of the Nizam to control the rich textile-producing areas of the Coromandel coast in the east were checked by the British who were becoming increasingly powerful in that region (see Map 2).
 
-The Nizam’s army
+### The Nizam’s army
 
 > [note] A description of the Nizam of Hyderabad’s personal troopers in 1790:
 
@@ -95,7 +95,7 @@ The Nizam’s army
 
 <!-- page 144 (pdf 7) -->
 
-Awadh
+### Awadh
 
 Burhan-ul-Mulk Sa‘adat Khan was appointed subadar of Awadh in 1722 and founded a state which was one of the most important to emerge out of the break-up of the Mughal Empire. Awadh was a prosperous region, controlling the rich alluvial Ganga plain and the main trade route between north India and Bengal. Burhan-ul-Mulk also held the combined offices of subadari, diwani and faujdari. In other words, he was responsible for managing the political, financial and military affairs of the province of Awadh.
 
@@ -109,7 +109,7 @@ The state depended on local bankers and mahajans for loans. It sold the right to
 
 <!-- page 145 (pdf 8) -->
 
-Bengal
+### Bengal
 
 Bengal gradually broke away from Mughal control under Murshid Quli Khan who was appointed as the naib, deputy to the governor of the province. Although never a formal subadar, Murshid Quli Khan very quickly seized all the power that went with that office. Like the rulers of Hyderabad and Awadh he also commanded the revenue administration of the state. In an effort to reduce Mughal influence in Bengal he transferred all Mughal jagirdars to Orissa and ordered a major reassessment of the revenues of Bengal. Revenue was collected in cash with great strictness from all zamindars. As a result, many zamindars had to borrow money from bankers and moneylenders. Those unable to pay were forced to sell their lands to larger zamindars.
 
@@ -129,7 +129,7 @@ These influential Rajput families claimed the subadari of the rich provinces of 
 
 <!-- page 147 (pdf 10) -->
 
-Raja Jai Singh of Jaipur
+### Raja Jai Singh of Jaipur
 
 > [source] A description of Raja Jai Singh in a Persian account of 1732: Raja Jai Singh was at the height of his power. He was the governor of Agra for 12 years and of Malwa for 5 or 6 years. He possessed a large army, artillery and great wealth. His sway extended from Delhi to the banks of the Narmada.
 
@@ -139,7 +139,7 @@ Raja Jai Singh of Jaipur
 
 ## Seizing Independence
 
-The Sikhs
+### The Sikhs
 
 The organisation of the Sikhs into a political community during the seventeenth century (see Chapter 8) helped in regional state-building in the Punjab. Several battles were fought by Guru Gobind Singh against the Rajput and Mughal rulers, both before and after the institution of the Khalsa in 1699. After his death in 1708, the Khalsa rose in revolt against the Mughal authority under Banda Bahadur’s leadership, declared their sovereign rule by striking coins in the name of Guru Nanak and Guru Gobind Singh, and established their own administration between the Sutlej and the Jamuna. Banda Bahadur was captured in 1715 and executed in 1716.
 
@@ -155,13 +155,17 @@ Guru Gobind Singh had inspired the Khalsa with the belief that their destiny was
 
 The Sikh territories in the late eighteenth century extended from the Indus to the Jamuna but they were divided under different rulers. One of them, Maharaja Ranjit Singh, reunited these groups and established his capital at Lahore in 1799.
 
-The Marathas
+### The Marathas
 
 The Maratha kingdom was another powerful regional kingdom to arise out of a sustained opposition to Mughal rule. Shivaji (1627-1680) carved out a stable kingdom with the support of powerful warrior families (deshmukhs). Groups of highly mobile, peasant-pastoralists (kunbis) provided the backbone of the Maratha army. Shivaji used these forces to challenge the Mughals in the peninsula. After Shivaji’s death, effective power in the Maratha state was wielded by a family of Chitpavan Brahmanas who served Shivaji’s successors as Peshwa (or principal minister). Poona became the capital of the Maratha kingdom.
 
 > [caption] Fig. 7 Sword of Maharaja Ranjit Singh.
 
 <!-- page 150 (pdf 13) -->
+
+Chauth 25 per cent of the land revenue claimed by zamindars. In the Deccan this was collected by the Marathas.
+
+Sardeshmukhi 9-10 per cent of the land revenue paid to the head revenue collector in the Deccan.
 
 Under the Peshwas, the Marathas developed a very successful military organisation. Their success lay in bypassing the fortified areas of the Mughals, by raiding cities and by engaging Mughal armies in areas where their supply lines and reinforcements could be easily disturbed.
 
@@ -171,13 +175,9 @@ After raiding Delhi in 1737 the frontiers of Maratha domination expanded rapidly
 
 Alongside endless military campaigns, the Marathas developed an effective administrative system as well. Once conquest had been completed and Maratha rule was secure, revenue demands were gradually introduced taking local conditions into account. Agriculture was encouraged and trade revived. This allowed Maratha chiefs (sardars) like Sindhia of Gwalior, Gaekwad of Baroda and Bhonsle of Nagpur the resources to raise powerful armies. Maratha campaigns into Malwa in the 1720s did not challenge the growth and prosperity of the cities in the region. Ujjain expanded under Sindhia’s patronage and Indore under Holkar’s. By all accounts these cities were large and prosperous and functioned as important commercial and cultural centres. New trade routes emerged within the areas controlled by the Marathas. The silk produced in the Chanderi region now found a new outlet in Poona, the Maratha capital. Burhanpur which had earlier participated in the trade between Agra and Surat now expanded its hinterland to include Poona and Nagpur in the south and Lucknow and Allahabad in the east.
 
-> [note] Chauth 25 per cent of the land revenue claimed by zamindars. In the Deccan this was collected by the Marathas.
-
-> [note] Sardeshmukhi 9-10 per cent of the land revenue paid to the head revenue collector in the Deccan.
-
 <!-- page 151 (pdf 14) -->
 
-The Jats
+### The Jats
 
 Like the other states the Jats consolidated their power during the late seventeenth and eighteenth-centuries. Under their leader, Churaman, they acquired control over territories situated to the west of the city of Delhi, and by the 1680s they had begun dominating the region between the two imperial cities of Delhi and Agra. For a while they became the virtual custodians of the city of Agra.
 
@@ -197,7 +197,7 @@ The French Revolution (1789-1794)
 
 > [note] The ideas of citizenship, nation-state and democratic rights took root in India from the late nineteenth century.
 
-Imagine
+### Imagine
 
 You are a ruler of an eighteenth-century kingdom. Tell us about the steps you would take to make your position strong in your province, and what opposition or problems you might face while doing so.
 
@@ -233,9 +233,25 @@ subadar a revenue farmer faujdar a high noble ijaradar provincial governor misl 
 
 4. What were the offices held by Sa‘adat Khan?
 
-KEYWORDS subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
+<!-- section: glossary -->
+
+### Keywords
+
+- subadari
+
+- dal khalsa
+
+- misl
+
+- faujdari
+
+- ijaradari
+
+- chauth sardeshmukhi
 
 <!-- page 154 (pdf 17) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

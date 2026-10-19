@@ -11,7 +11,12 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf"
 source_sha256: "f28e28634f62926ca8f00338cc3951e390ece3cd8557e6c871c043bbe3ea739d"
 pdf_pages: 34
 printed_pages: "83-116"
-body_fingerprint: "33440579df30ff1f3bd9e7c2d5bbd7579caa922f8fd4ae6da42deabb6785dc04"
+body_fingerprint: "7bcf4f8af4552b34ef74acd9eb4b4645622756a3532d313aef4d6f88da844640"
+overrides:
+  - "part 1 chapter 5, page 88: the six hexagon boxes were read line by line across each other, rebuilt from the page image"
+  - "part 1 chapter 5, page 98: the coin caption is one caption, the paragraph runs beside it"
+  - "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer"
+  - "part 1 chapter 5, page 110: two side-by-side captions interleaved by line"
 ---
 
 <!-- page 83 (pdf 1) -->
@@ -100,19 +105,21 @@ Indian history is full of empires. They rose, expanded, lasted for a while, decl
 
 ## Features of an empire
 
-> [table] 01
+> [table] 01 Maintains an army to keep the tributary states under control, expand the empire or protect it from outside aggression
 
-> [table] Maintains an army to keep the tributary states under control, le 2 an or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02
+> [table] 02 Designs and maintains an administration, with officials to manage the territories, collect taxes, maintain law and order, etc.
 
-> [table] Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
+> [table] 03 Makes laws, issues currencies, weights and measures, regulates trade
 
-Emperor exerts central authority over the empire's tributary territories and kings Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
+> [table] 04 Controls and regulates access to resources (mines, forest and agricultural produce, manpower)
 
-> [table] and order, etc.
+> [table] 05 Encourages art, literature, religions, schools of thought, centres of learning
 
-> [table] trade and people’s welfare a sae Encourages art, literature, religions, 05 03
+> [table] 06 Maintains communication networks (roads, river and sea navigation) and other infrastructure for administration, trade and people’s welfare
 
-> [table] Makes laws, issues currencies, weights and measures, regulates trade ja Controls and regulates access schools of thought, 04 centres of learning to resources (mines, forest and agricultural produce, manpower)
+Emperor exerts central authority over the empire's tributary territories and kings
+
+Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 <!-- page 89 (pdf 7) -->
 
@@ -272,7 +279,9 @@ While events unfolded in Magadha, located in the eastern part of the subcontinen
 
 > [caption] Babylon
 
-## if
+> [table] Indus Jhelum Hydaspes) Jhelum (Hydaspes) Indus
+
+> [caption] Sindh
 
 > [caption] Fig. 5.9
 
@@ -312,15 +321,15 @@ When, after the battle, Alexander asked Porus how he wished to be treated, Porus
 
 <!-- page 98 (pdf 16) -->
 
-Alexander’s dialogue with the Gymnosophists Alexander heard of a group of Indian sages whom the Greeks called ‘Gymnosophists’ or ‘naked philosophers’ (probably because they wore very little clothing), who were renowned for their wisdom. Alexander challenged them with tricky questions in the form of riddles, warning that he would put those who gave wrong answers to death. However, the Gymnosophists responded to his questions calmly and intelligently. Alexander was impressed and, in the end, spared them all. Over the centuries, different versions of this story have been told, making it one of the most fascinating encounters in history!
+### Alexander’s dialogue with the Gymnosophists
+
+Alexander heard of a group of Indian sages whom the Greeks called ‘Gymnosophists’ or ‘naked philosophers’ (probably because they wore very little clothing), who were renowned for their wisdom. Alexander challenged them with tricky questions in the form of riddles, warning that he would put those who gave wrong answers to death. However, the Gymnosophists responded to his questions calmly and intelligently. Alexander was impressed and, in the end, spared them all. Over the centuries, different versions of this story have been told, making it one of the most fascinating encounters in history!
 
 According to one account, Alexander asked, “Which is stronger, life or death?” One of the sages replied, “Life, because it endures while death does not.” Alexander then asked, “How can a man be most loved?” “If he is most powerful and yet does not inspire fear,” came the reply, perhaps as a hint to the mighty ruler!
 
-> [caption] Fig. 5.11. A Greek coin
+> [caption] Fig. 5.11. A Greek coin probably showing Alexander on horseback attacking Porus on his elephant.
 
 Historians view such exchanges as a meeting of two great traditions — Greek and Indian philosophies.
-
-> [caption] probably showing Alexander on horseback attacking Porus on his elephant.
 
 ## The Mighty Mauryas
 
@@ -564,7 +573,7 @@ Wear the hat of a historian. Look carefully at the artefacts presented on the sp
 
 Fig. 5.20 has many messages for us, apart from the beauty and perfection of the sculpture, and is a fine example of Mauryan art. This capital (a word which, here, means ‘top portion’ or ‘head’) was the top of a pillar that Aśhoka got erected at Sarnath, near Varanasi, where the Buddha gave his first teaching. The four lions symbolise the royal power; on the ring below, four powerful animals (an elephant, a bull, a horse and one more lion) are depicted, along with the dharmachakra or wheel of dharma, which symbolises the Buddha’s teachings.
 
-> [caption] Fig. 5.20. The Mauryas were renowned for their highly polished stone pillars, as can
+> [caption] Fig. 5.20. The Mauryas were renowned for their highly polished stone pillars, as can be seen in this capital of the Sarnath pillar.
 
 <!-- page 110 (pdf 28) -->
 
@@ -577,6 +586,10 @@ Fig. 5.20 has many messages for us, apart from the beauty and perfection of the 
 > [caption] Fig. 5.22. Terracotta figurine of a female deity.
 
 > [caption] Fig. 5.23. Female deity (yakshī) holding a fly whisk.
+
+> [caption] Fig. 5.24. Terracotta of Saptamātrikās or seven mother goddesses (a continuing tradition).
+
+> [caption] Fig. 5.25. Head of a terracotta horse (notice the elaborate design of the bridle).
 
 <!-- page 111 (pdf 29) -->
 
@@ -677,5 +690,3 @@ After reading the above edict of Aśhoka, do you think he was tolerant towards o
 9. Suppose you had to travel from Kauśhāmbī to Kāveripattanam in the 3rd century BCE. How would you undertake this journey, and how long would you expect it to take, with reasonable halts on the way?
 
 <!-- page 116 (pdf 34) -->
-
-> [caption] XN aN yN

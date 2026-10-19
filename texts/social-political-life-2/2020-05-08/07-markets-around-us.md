@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch07.pdf"
 source_sha256: "6eb952c98f31c6ef64080d1cea852431bbac892bc28886b7f5ff83434958e26b"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "49b279f31f782fcd62844b812d19e071a4a0cd62603f919f26a0c535fa5abcd6"
+body_fingerprint: "8829d058afaeda8fce1d7ece75f2c346ada53fe9911880ee01c90dbe9fa3639c"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -73,7 +73,7 @@ We have seen that the weekly markets offer a variety of goods. However, we also 
 
 On the top left shelf there were different brands of detergent cakes. Another shelf had toothpastes, talcum powder, shampoo, hair oil. The different brands and different colours looked so attractive. On the floor lay a few sacks.
 
-It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ` 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
+It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
 > [table] Why did Sujata carry a notebook? Do you think this system is
 
@@ -95,7 +95,7 @@ You might have noticed that there are different kinds of sellers even in the nei
 
 Anzal Mall is a five-floor shopping complex. Kavita and Sujata were enjoying going up and down in the lift. It seemed as if it was made of glass and they were able to see outside as they went up. It was fascinating to see so many different kinds of shops such as the ice-cream, burger, pizza and other food shops; shops full of home appliances; footwear and leather items as well as bookshops.
 
-While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ` 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
+While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ₹ 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
 
 Shopping complexes and malls
 
@@ -171,13 +171,21 @@ EXERCISES
 
 > [table] 2. Compare and contrast a weekly market and a shopping complex on the following:
 
-Market Kind of goods sold Prices of goods Sellers Buyers Weekly market Shopping complex Glossary
+Market Kind of goods sold Prices of goods Sellers Buyers
+
+Weekly market
+
+Shopping complex
 
 > [table] 3. Explain how a chain of markets is formed. What purpose does it serve?
 
 > [table] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
 
 > [table] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
+
+<!-- section: glossary -->
+
+Glossary
 
 > [table] Weekly market: These markets are not daily markets but are to be found at a particular place on one or maybe two days of the week. These markets most often sell everything that a household needs ranging from vegetables to clothes to utensils.
 

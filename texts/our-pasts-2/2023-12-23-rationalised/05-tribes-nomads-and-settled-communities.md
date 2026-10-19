@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch05.pdf"
 source_sha256: "598a87e7bc8b6300112cf99a9d22f67e9c7fdde26dd41387a93a3ca78c97d16d"
 pdf_pages: 12
 printed_pages: "49-60"
-body_fingerprint: "0c4d7fd38cdab055f13cb7b6b665ebe005807313f3b073dbbbb451daa4a1ddc9"
+body_fingerprint: "f859dc167026d975c948d15796e164e977d672f49cac611b591df93fc3d28b7c"
 ---
 
 <!-- page 49 (pdf 1) -->
@@ -49,7 +49,7 @@ In many areas of present-day Bihar and Jharkhand, Chero chiefdoms had emerged by
 
 > [caption] Map 1 Location of some of the major Indian tribes.
 
-> [note] Clan A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
+Clan A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
 
 <!-- page 52 (pdf 4) -->
 
@@ -79,7 +79,7 @@ The Banjaras were the most important trader-nomads. Their caravan was called tan
 
 > [note] Find out how grain is transported from villages to cities at present. In what ways is this similar to or different from the ways in which the Banjaras functioned?
 
-> [note] Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations. Both nomads and itinerant groups often visit the same places every year.
+Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations. Both nomads and itinerant groups often visit the same places every year.
 
 <!-- page 54 (pdf 6) -->
 
@@ -109,7 +109,7 @@ The emergence of states is closely related to social change amongst tribal peopl
 
 ## A Closer Look
 
-The Gonds
+### The Gonds
 
 The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”. They practised shifting cultivation. The large Gond tribe was further divided into many smaller clans. Each clan had its own raja or rai. About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs. The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.
 
@@ -117,7 +117,7 @@ The administrative system of these kingdoms was becoming centralised. The kingdo
 
 > [caption] Fig. 5 A Gond woman.
 
-> [note] Shifting cultivation Trees and bushes in a forest area are first cut and burnt. The crop is sown in the ashes. When this land loses its fertility, another plot of land is cleared and planted in the same way.
+Shifting cultivation Trees and bushes in a forest area are first cut and burnt. The crop is sown in the ashes. When this land loses its fertility, another plot of land is cleared and planted in the same way.
 
 <!-- page 56 (pdf 8) -->
 
@@ -133,7 +133,7 @@ Dalpat, however, died early. Rani Durgawati was very capable, and started ruling
 
 Garha Katanga was a rich state. It earned much wealth by trapping and exporting wild elephants to other kingdoms. When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants. They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain. Despite the fall of Garha Katanga, the Gond kingdoms survived for some time. However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.
 
-The Ahoms
+### The Ahoms
 
 The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high-quality gunpowder and cannons.
 
@@ -165,7 +165,7 @@ Considerable social change took place in the subcontinent during the period we h
 
 <!-- page 59 (pdf 11) -->
 
-Imagine
+### Imagine
 
 You are a member of a nomadic community that shifts residence every three months. How would this change your life?
 
@@ -173,11 +173,11 @@ You are a member of a nomadic community that shifts residence every three months
 
 ### Let’s recall
 
-> [note] 1. Match the following:
+1. Match the following:
 
 garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state Durgawati paik
 
-> [note] 2. Fill in the blanks:
+2. Fill in the blanks:
 
 (a) The new castes emerging within varnas were called _____________.
 
@@ -195,13 +195,39 @@ garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom stat
 
 (c) The chaurasi in Gond states contained several cities.
 
-> [note] Keywords varna jati tanda garh chaurasi barhot bhuiyans paik khel buranji census
+<!-- section: glossary -->
+
+### Keywords
+
+- varna
+
+- jati
+
+- tanda
+
+- garh
+
+- chaurasi
+
+- barhot
+
+- bhuiyans
+
+- paik
+
+- khel
+
+- buranji
+
+- census
 
 <!-- page 60 (pdf 12) -->
 
 (d) The Bhils lived in the north-eastern part of the subcontinent.
 
 4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

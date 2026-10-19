@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch08.pdf"
 source_sha256: "e888f69b55ee6bdce7f7b7bf77afef63459e8655f8fae822e5f41fa8c68ecfbc"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "977682df7d93e83f9099bdc31c370b77bc5809915a6270c0cd0f958037f6d74e"
+body_fingerprint: "eb55a2cf01ac0b354d141c3173f9dd1669cd5ef9f1045a06df563ec0a842895d"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -78,7 +78,7 @@ We noted earlier the connection between the Tamil bhakti movement and temple wor
 
 <!-- page 108 (pdf 5) -->
 
-Virashaiva vachanas
+### Virashaiva vachanas
 
 These are vachanas or sayings attributed to Basavanna:
 
@@ -96,7 +96,7 @@ From the thirteenth to the seventeenth centuries Maharashtra saw a great number 
 
 These saint-poets rejected all forms of ritualism, outward display of piety and social differences based on birth. In fact they even rejected the idea of renunciation and preferred to live with their families, earning their livelihood like any other person, while humbly serving fellow human beings in need. A new humanist idea emerged as they insisted that bhakti lay in sharing others’ pain. As the famous Gujarati saint Narsi Mehta said, “They are Vaishnavas who understand the pain of others.”
 
-> [note] The Vaishnava poet-saints of Maharashtra such as Jnaneshwar, Namadeva, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the Varkari sect which lay emphasis on an annual pilgrimage to Pandharpur. The cult of Vitthala emerged as a powerful mode of devotion and was very popular amongst the people.
+The Vaishnava poet-saints of Maharashtra such as Jnaneshwar, Namadeva, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the Varkari sect which lay emphasis on an annual pilgrimage to Pandharpur. The cult of Vitthala emerged as a powerful mode of devotion and was very popular amongst the people.
 
 <!-- page 109 (pdf 6) -->
 
@@ -132,7 +132,7 @@ Islam propagated strict monotheism or submission to one God. In the eighth and n
 
 > [caption] Fig. 4 Mystics in ecstasy.
 
-> [note] In Kashmir the Rishi order of Sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
+In Kashmir the Rishi order of Sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
 
 <!-- page 112 (pdf 9) -->
 
@@ -146,7 +146,7 @@ Often people attributed Sufi masters with miraculous powers that could relieve o
 
 > [caption] Fig. 5 A page from a manuscript of the Quran, Deccan, late fifteenth century.
 
-> [note] Hospice House of rest for travellers, especially one kept by a religious order.
+Hospice House of rest for travellers, especially one kept by a religious order.
 
 <!-- page 113 (pdf 10) -->
 
@@ -170,7 +170,7 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 > [caption] Map 1 Major bhakti saints and the regions associated with them.
 
-> [note] The essence of Shankaradeva’s devotion came to be known as Eka Sarana Nama Dharma (supreme surrender to the One). The teachings of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana. He also encouraged the establishment of satra or monasteries for transmission of knowledge. His major compositions included Kirtana-ghosha.
+The essence of Shankaradeva’s devotion came to be known as Eka Sarana Nama Dharma (supreme surrender to the One). The teachings of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana. He also encouraged the establishment of satra or monasteries for transmission of knowledge. His major compositions included Kirtana-ghosha.
 
 <!-- page 115 (pdf 12) -->
 
@@ -244,7 +244,7 @@ Martin Luther and the Reformation
 
 <!-- page 120 (pdf 17) -->
 
-Imagine
+### Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
@@ -258,9 +258,13 @@ The Buddha namghar
 
 Shankaradeva worship of Vishnu
 
-Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worship of Shiva
+Nizamuddin Auliya questioned social differences
 
-> [note] 2. Fill in the blanks:
+Nayanars Sufi saint
+
+Alvars worship of Shiva
+
+2. Fill in the blanks:
 
 (a) Shankara was an advocate of ————-.
 
@@ -276,11 +280,15 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [note] Virashaivism bhakti
+- Virashaivism
 
-> [note] Sufi khanqah
+- bhakti
+
+- Sufi
+
+- khanqah
 
 <!-- page 121 (pdf 18) -->
 

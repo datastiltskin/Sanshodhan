@@ -56,15 +56,13 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/prelims.pdf"
 
 > [table] Publication Team
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Amitabh Kumar Manager (In charge)
 
 > [table] Assistant Production: Deepak Jaiswal Officer
 
-> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Arrt Creations
-
-Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, Shri Ram Printers, D-177 & 178, Sector-63, Opposite Sagar Tara Motors, Noida 201 301 (UP)
+> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Arrt Creations Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, Shri Ram Printers, D-177 & 178, Sector-63, Opposite Sagar Tara Motors, Noida 201 301 (UP)
 
 > [caption] Cartography Cartographic Designs Agency
 
@@ -82,7 +80,7 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 <!-- pdf page 4 -->
 
-Director New Delhi  National Council of Educational 30 November 2007 Research and Training In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise.
+Director New Delhi  National Council of Educational 30 November 2007 Research and Training In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise.
 
 <!-- pdf page 5 -->
 
@@ -92,15 +90,17 @@ Director New Delhi  National Council of Educational 30 November 2007 Research 
 
 Contents of the textbooks have been rationalised in view of the following:
 
-• Overlapping with similar content included in other subject areas in the same class
+- Overlapping with similar content included in other subject areas in the same class
 
-• Similar content included in the lower or higher class in the same subject
+- Similar content included in the lower or higher class in the same subject
 
-• Difficulty level
+- Difficulty level
 
-• Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning
+- Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning
 
-• Content, which is irrelevant in the present context This present edition, is a reformatted version after carrying out the changes given above.
+- Content, which is irrelevant in the present context
+
+This present edition, is a reformatted version after carrying out the changes given above.
 
 <!-- pdf page 6 -->
 
@@ -142,11 +142,11 @@ The Changing World of Visual Arts. These chapters were printed in the previous t
 
 ### credits
 
-Individuals
+### Individuals
 
 Sunil Janah (Ch. 4, Figs. 4, 8, 9, 10)
 
-Institutions
+### Institutions
 
 Nehru Memorial Museum and Library, New Delhi (Ch. 6, Figs. 4, 5, 7, 13)
 
@@ -156,11 +156,11 @@ The Alkazi Foundation for the Arts (Ch. 5, Fig. 11)
 
 Victoria Memorial Museum (Ch. 5, Fig. 1)
 
-Journals
+### Journals
 
 The Illustrated London News (Ch. 6, Fig. 15)
 
-Books
+### Books
 
 Andreas Volwahsen, Imperial Delhi: The British Capital of the Indian Empire (Ch. 1, Fig. 4)
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch06.pdf"
 source_sha256: "f74076df40ed6da1f739a3b3f7d2744a7663cbbfd710572ac623b65552a7357c"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "e12ae7e8cd650c09ad4efff9737c13ce0e34a45360855260cc4a83199250cf5f"
+body_fingerprint: "fcc4a6a7a4bc57e8b8b42cd4dc99aa5ff5cd6469a55eb98bbc04411bf3887a58"
 ocr: true
 ocr_confidence: 94.1
 ---
@@ -47,7 +47,9 @@ Thanjavur is also an example of a temple town. Temple towns represent a very imp
 
 <!-- page 77 (pdf 3) -->
 
-Bronze, bell metal and the “lost wax” technique Bronze is an alloy containing copper and tin. Bell metal contains a greater proportion of tin than other kinds of bronze. This produces a bell-like sound.
+Bronze, bell metal and the “lost wax” technique
+
+Bronze is an alloy containing copper and tin. Bell metal contains a greater proportion of tin than other kinds of bronze. This produces a bell-like sound.
 
 Chola bronze statues (see Chapter 2) were made using the “lost wax” technique.
 
@@ -57,7 +59,7 @@ What do you think were the advantages °/ of using this technique?
 
 Temple authorities used their wealth to finance trade and banking. Gradually a large number of priests, workers, artisans, traders, etc. settled near the temple to cater to its needs and those of the pilgrims. Thus grew temple towns. Towns emerged around temples such as those of Bhillasvamin (Bhilsa or Vidisha in Madhya Pradesh), and Somnath in Gujarat. Other important temple towns included Kanchipuram and Madurai in Tamil Nadu, and Tirupati in Andhra Pradesh.
 
-Pilgrimage centres also slowly developed into townships. Vrindavan (Uttar Pradesh) and Tiruvannamalai (Tamil Nadu) are examples of two such towns. Ajmer (Rajasthan) was the capital of the Chauhan kings in the twelfth century and later became the suba headquarters under the Mughals. It provides an excellent example of religious coexistence. Khwaja Muinuddin Chishti, the celebrated Sufi saint (see also Chapter 8) who settled there in the twelfth century, attracted devotees from all creeds. Near Ajmer is a lake, Pushkar, which has attracted pilgrims from ancient times.
+Pilgrimage centres also slowly developed into townships. Vrindavan (Uttar Pradesh) and Tiruvannamalai (Tamil Nadu) are examples of two such towns. Ajmer (Rajasthan) was the capital of the Chauhan kings in the twelfth century and later became the suba headquarters under the Mughals. It provides an excellent example of religious coexistence. Khwaja Muinuddin Chishti, the
 
 > [caption] Fig. 1
 
@@ -65,11 +67,13 @@ Pilgrimage centres also slowly developed into townships. Vrindavan (Uttar Prades
 
 <!-- page 78 (pdf 4) -->
 
+celebrated Sufi saint (see also Chapter 8) who settled there in the twelfth century, attracted devotees from all creeds. Near Ajmer is a lake, Pushkar, which has attracted pilgrims from ancient times.
+
 A Network of Small Towns
 
 From the eighth century onwards the subcontinent was dotted with several small towns. These probably emerged from large villages. They usually had a mandapika (or mandi of later times) to which nearby villagers brought their produce to sell. They also had market streets called hatta (haat of later times) lined with shops. Besides, there were streets for different kinds of artisans such as potters, oil pressers, sugar makers, toddy makers, smiths, stonemasons, etc. While some traders lived in the town, others travelled from town to town. Many came from far and near to these towns to buy local articles and sell products of distant places like horses, salt, camphor, saffron, betel nut and spices like pepper.
 
-> [note] Make a list of towns in your district and try to classify these as administrative centres or as temple/pilgrim centres.
+Make a list of towns in your district and try to classify these as administrative centres or as temple/pilgrim centres.
 
 > [caption] Fig. 2 A city market.
 
@@ -83,9 +87,13 @@ The following is a summary from a tenth-century inscription from Rajasthan, whic
 
 > [table] There were taxes in kind on:
 
-Sugar and jaggery, dyes, thread, and cotton, On coconuts, salt, areca nuts, butter, sesame oil, Besides, there were taxes on traders, on those who sold metal goods, on distillers, on oil, on cattle fodder, and on loads of grain.
+Sugar and jaggery, dyes, thread, and cotton,
+
+On coconuts, salt, areca nuts, butter, sesame oil,
 
 > [table] On cloth.
+
+Besides, there were taxes on traders, on those who sold metal goods, on distillers, on oil, on cattle fodder, and on loads of grain.
 
 > [table] Some of these taxes were collected in kind, while others were collected in cash.
 
@@ -107,7 +115,7 @@ The towns on the west coast were home to Arab, Persian, Chinese, Jewish and Syri
 
 With its rugged, mountainous landscape, Kabul (in present-day Afghanistan) became politically and commercially important from the sixteenth century onwards. Kabul and Qandahar were linked to the celebrated Silk Route. Besides, trade in horses was primarily carried on through this route. In the seventeenth century Jean Baptiste Tavernier, a diamond merchant, estimated that the horse trade at Kabul amounted to Rs 30,000 annually, which was a huge sum in those days. Camels carried dried fruits, dates, carpets, silks and even fresh fruits from Kabul to the subcontinent and elsewhere. Slaves were also brought here for sale.
 
-> [note] AS yOu Can see, during this period there was a great circulation of people and goods. What impact do you think this would have had on the lives of people in towns and villages? Make a list of artisans living in towns.
+AS yOu Can see, during this period there was a great circulation of people and goods. What impact do you think this would have had on the lives of people in towns and villages? Make a list of artisans living in towns.
 
 <!-- page 81 (pdf 7) -->
 
@@ -119,11 +127,15 @@ The craftspersons of Bidar were so famed for their inlay work in copper and silv
 
 <!-- page 82 (pdf 8) -->
 
-The changing fortunes of towns
+### The changing fortunes of towns
 
 Some towns like Anmedabad (Gujarat) went on to become major commercial cities but others like Thanjavur shrank in size and importance over the centuries. Murshidabad (West Bengal) on the banks of the Bhagirathi, which rose to prominence as acentre for silks and became the capital of Bengal in 1704, declined in the course of the century as the weavers faced competition from cheap mill-made cloth from England.
 
-A Closer Look: Hampi, Masulipatnam and Surat The Architectural Splendour of Hampi Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of the Vijayanagara Empire, founded in 1336. The magnificent ruins at Hampi reveal a well-fortified city. No mortar or cementing agent was used in the construction of these walls and the technique followed was to wedge them together by interlocking.
+A Closer Look: Hampi, Masulipatnam and Surat A fortified city This is how a Portuguese traveller, Domingo Paes, Vijaynagara rulers described Hampi in the sixteenth century: took keen interest in
+
+The Architectural Splendour of Hampi
+
+Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of the Vijayanagara Empire, founded in 1336. The magnificent ruins at Hampi reveal a well-fortified city. No mortar or cementing agent was used in the construction of these walls and the technique followed was to wedge them together by interlocking.
 
 > [caption] Fig. 6
 
@@ -131,13 +143,7 @@ A Closer Look: Hampi, Masulipatnam and Surat The Architectural Splendour of Hamp
 
 <!-- page 83 (pdf 9) -->
 
-A fortified city
-
-> [caption] During their rule, the
-
-This is how a Portuguese traveller, Domingo Paes, Vijaynagara rulers described Hampi in the sixteenth century: took keen interest in
-
-> [caption] building tanks and canals. The Anantraj
+> [caption] During their rule, the building tanks and canals. The Anantraj
 
 ... at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city Sagar Tank was built fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as the Maldevi river.
 
@@ -159,6 +165,16 @@ Temples were the hub of cultural activities and devadasis (temple dancers) perfo
 
 <!-- page 84 (pdf 10) -->
 
+Emporium
+
+A place where goods from diverse production
+
+> [table] centres are bought and sold.
+
+> [caption] Hundi
+
+is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
+
 Hampi fell into ruin following the defeat of Vijayanagara in 1565 by the Deccani Sultans — the rulers of Golconda, Bijapur, Ahmadnagar, Berar and Bidar.
 
 ## A Gateway to the West: Surat
@@ -170,16 +186,6 @@ The city was cosmopolitan and people of all castes and creeds lived there. In th
 There were also several retail and wholesale shops selling cotton textiles. The textiles of Surat were famous for their gold lace borders (zari) and had a market in West Asia, Africa and Europe. The state built numerous rest-houses to take care of the needs of people from all over the world who came to the city. There were magnificent buildings and innumerable pleasure parks. The Kathiawad seths or mahajans (moneychangers) had huge banking houses at Surat. It is noteworthy that the Surat hundis were honoured in the far-off markets of Cairo in Egypt, Basra in Iraq and Antwerp in Belgium.
 
 However, Surat began to decline towards the end of the seventeenth century. This was because of many factors: the loss of markets and productivity because of the decline of the Mughal Empire, control of the sea routes by the Portuguese and competition from Bombay (present-day Mumbai) where the English East India Company shifted its headquarters in 1668. Today, Surat is a bustling commercial centre.
-
-> [note] Emporium
-
-> [note] A place where goods from diverse production
-
-> [caption] centres are bought and sold.
-
-> [caption] Hundi
-
-> [note] is a note recording a deposit made by a person. The amount deposited can be claimed in another place by presenting the record of the deposit.
 
 <!-- page 85 (pdf 11) -->
 
@@ -199,7 +205,7 @@ The Qutb Shahi rulers of Golconda imposed royal monopolies on the sale of textil
 
 > [caption] Factor
 
-> [note] Official in-charge of trading activities of the European Trading Companies.
+Official in-charge of trading activities of the European Trading Companies.
 
 <!-- page 86 (pdf 12) -->
 
@@ -215,9 +221,11 @@ The spurt in demand for goods like textiles led to a great expansion of the craf
 
 The eighteenth century saw the rise of Bombay, Calcutta and Madras, which are nodal cities today. Crafts and commerce underwent major changes as merchants and artisans (such as weavers) were moved into the Black Towns established by the European companies within these new cities. The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St.
 
-William in Calcutta. The story of crafts and commerce Fig. 8 in the eighteenth century will be taken up next year. nineteenth century.
+### William in Calcutta. The story of crafts and commerce Fig. 8
 
 > [caption] A Bombay street, early
+
+in the eighteenth century will be taken up next year. nineteenth century.
 
 <!-- page 88 (pdf 14) -->
 
@@ -229,7 +237,7 @@ Vasco da Gama, a Portuguese sailor, sailed down the African Coast, went round th
 
 > [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area. c Fig. 9 Vasco da Gama.
 
-Imagine
+### Imagine
 
 You are planning a journey from Surat to West Asia in the seventeenth century. What are the arrangements you will make?
 

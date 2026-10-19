@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch05.pdf"
 source_sha256: "97f89dc6e7bf6b1f656ecc33d7af1f3f2e12b6b3fd7a12fc9dd9b6453734eb39"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "a6c01ecfc98f0a0835e53408432f1baa9a50b294e43783b65ec0f69214f68c01"
+body_fingerprint: "17f4ed5bdd4b553a8be57b709b86acbfd4f70827c80575106c523d50d1cb0647"
 ---
 
 <!-- page 60 (pdf 2) -->
@@ -43,7 +43,7 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
-> [note] Superstructure The part of a building above the ground floor.
+Superstructure The part of a building above the ground floor.
 
 > [caption] Fig. 2a Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century).
 
@@ -129,7 +129,7 @@ Under the Mughals, architecture became more complex. Babur, Humayun, Akbar, Jaha
 
 > [caption] chahar limar hmir, 634.
 
-> [caption] ar bagh a arden at
+> [caption] ar bagh a arden at ari, 1637.
 
 <!-- page 67 (pdf 9) -->
 
@@ -153,7 +153,7 @@ The connection between royal justice and the imperial court was emphasised by Sh
 
 > [caption] -i am in eted
 
-> [note] ura ra hard aced in ns o marble one eautiful, tterns.
+> [note] ura hard aced in ns o marble one eautiful, tterns.
 
 <!-- page 69 (pdf 11) -->
 
@@ -199,7 +199,7 @@ Churches that touched the skies
 
 <!-- page 73 (pdf 15) -->
 
-Imagine
+### Imagine
 
 You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
@@ -227,11 +227,9 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [note] Go through the chapter and make your own list of six keywords.
-
-> [note] For each of these, write a sentence indicating why you chose the word.
+> [note] Go through the chapter and make your own list of six keywords. For each of these, write a sentence indicating why you chose the word.
 
 <!-- page 74 (pdf 16) -->
 

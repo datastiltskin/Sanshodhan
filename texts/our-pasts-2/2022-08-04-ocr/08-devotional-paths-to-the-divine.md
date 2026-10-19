@@ -10,9 +10,15 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch08.pdf"
 source_sha256: "5a5fc926e36406e6cd72e7fbf95488faf649ba4e91400ade5d154116f897a78b"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "04b2946f313dbec08d937bbfb158c7dd3c75981bd97628c007697dba2368d5b2"
+body_fingerprint: "7927e3ecd446c31cefdf9d0832a8f8341b205d1e722c1dbfd199733c98dba42a"
 ocr: true
 ocr_confidence: 93.2
+overrides:
+  - "OCR read h as f in the abhang on page 109"
+  - "OCR read k as R in Mirabai's song on page 115"
+  - "OCR read k as R in Mirabai's song on page 115"
+  - "noise from the picture on page 119 read as words, the page reads 'translated the Bible into German.'"
+  - "noise words before the box title on page 115"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -33,13 +39,15 @@ Many people were uneasy with such ideas and turned to the teachings of the Buddh
 
 Shiva, Vishnu and Durga as supreme deities came to be worshipped through elaborate rituals. At the same time, gods and goddesses worshipped in different areas came to be identified with Shiva, Vishnu or Durga. In _ the process, local myths and legends became a part of the Puranic stories, and methods of worship recommended in the Puranas were introduced into the local cults. Eventually the Puranas also laid down that it was possible for devotees to receive the grace of God regardless of their caste status. The idea of bhakti became so popular that even Buddhists and Jainas adopted these beliefs.
 
-A New Kind of Bhakti in South India - Nayanars and _Alvars The seventh to ninth centuries saw the emergence of new religious movements, led by the Nayanars (saints devoted to Shiva) and Alvars (saints devoted to Vishnu) who came from all castes including those considered “untouchable” like the Pulaiyar and the Panars. They were sharply critical of the Buddhists and Jainas and preached ardent love of Shiva or Vishnu as the path to salvation. They drew upon the ideals of love and heroism as found in the Sangam literature (the earliest example of Tamil literature, composed during the early centuries of the Common Era) and blended them with the values of bhakti. The Nayanars and Alvars went from place to place composing exquisite poems in praise of the deities enshrined in the villages they visited, and set them to music.
+### A New Kind of Bhakti in South India - Nayanars and _Alvars
 
-> [caption] Fig. 1
+The seventh to ninth centuries saw the emergence of new religious movements, led by the Nayanars (saints devoted to Shiva) and Alvars (saints devoted to Vishnu) who came from all castes including those considered “untouchable” like the Pulaiyar and the Panars. They were sharply critical of the Buddhists and Jainas and preached ardent love of Shiva or Vishnu as the path to salvation. They drew upon the ideals of love and heroism as found in the Sangam literature (the earliest example of Tamil literature, composed during the early centuries of the Common Era) and blended them with the values of bhakti. The Nayanars and Alvars went from place to place composing exquisite poems in praise of the deities enshrined in the villages they visited, and set them to music.
 
-> [caption] A page from a south Indian manuscript of the Bhagavadgita.
+> [table] Fig. 1
 
-> [note] You can observe this process of local myths and legends receiving wider acceptance even today. Can you find some examples around you?
+> [table] A page from a south Indian manuscript of the Bhagavadgita.
+
+You can observe this process of local myths and legends receiving wider acceptance even today. Can you find some examples around you?
 
 <!-- page 106 (pdf 3) -->
 
@@ -101,19 +109,39 @@ These saint-poets rejected all forms of ritualism, outward display of piety and 
 
 <!-- page 109 (pdf 6) -->
 
-Questioning the social order
+### Questioning the social order
 
 > [table] This is an abhang (Marathi devotional hymn) of Sant Tukaram:
 
-He who identifies with the battered and the beaten Mark fim as a saint For God is with him Every forsaken man Close to his heart He treats A slave As his own son Says Tuka to repeat again Is God In person.
+He who identifies
+
+with the battered and the beaten Mark him as a saint
+
+For God is with him
 
 > [table] He holds
 
+Every forsaken man Close to his heart He treats
+
+A slave
+
+As his own son
+
+Says Tuka
+
 > [table] I won't be tired
+
+to repeat again
 
 > [table] Such a man
 
-Here is an abhang composed by Chokhamela’s son: You made us low caste, Why don’t you face that fact, Great Lord? Our whole life — left-over food to eat.
+Is God
+
+In person.
+
+Here is an abhang composed by Chokhamela’s son: You made us low caste,
+
+Why don’t you face that fact, Great Lord? Our whole life — left-over food to eat.
 
 You should be ashamed of this.
 
@@ -143,6 +171,14 @@ Islam propagated strict monotheism or submission to one God. In the eighth and n
 
 <!-- page 112 (pdf 9) -->
 
+> [table] Fig. 5
+
+> [table] A page froma manuscript of the Quran, Deccan, late fifteenth century.
+
+Hospice
+
+House of rest for travellers, especially one kept by a religious order.
+
 A large number of Sufis from Central Asia settled in Hindustan from the eleventh century onwards. This process was strengthened with the establishment of the Delhi Sultanate (Chapter 3), when several major Sufi centres developed all over’ the subcontinent. The Chishti silsila was among the most influential orders. It had a long line of teachers like Khwaja Muinuddin Chishti of Ajmer, Qutbuddin Bakhtiar Kaki of Delhi, Baba Farid of Punjab, Khwaja Nizamuddin Auliya of Delhi and Bandanawaz Gisudaraz of Gulbarga.
 
 The Sufi masters held their assemblies in their khanqahs or hospices. Devotees of all descriptions including members of the royalty and nobility, and ordinary people flocked to these khanqahs. They discussed spiritual matters, sought the blessings of the saints in solving their worldly problems, or simply attended the music and dance sessions.
@@ -150,14 +186,6 @@ The Sufi masters held their assemblies in their khanqahs or hospices. Devotees o
 Often people attributed Sufi masters with miraculous powers that could relieve others of their illnesses and troubles. The tomb or dargah of a Sufi saint became a place of pilgrimage to which thousands of people of all faiths thronged.
 
 > [table] Fig. 6 Devotees of all backgrounds visit Sufi shrines.
-
-> [caption] Fig. 5
-
-> [caption] A page froma manuscript of the Quran, Deccan, late fifteenth century.
-
-> [note] Hospice
-
-> [note] House of rest for travellers, especially one kept by a religious order.
 
 <!-- page 113 (pdf 10) -->
 
@@ -167,7 +195,9 @@ Jalaluddin Rumi was a great thirteenth-century Sufi poet from Iran who wrote in 
 
 He was not on the Cross of the Christians. I went to the Hindu temples. In none of them was there any sign. He was not on the heights or in the lowlands ... I went to the Kaaba of Mecca. He was not there. I asked about him from Avicenna the philosopher. He was beyond the range of Avicenna ... I looked into my heart. In that, hus place, I saw him. He was in no other place.
 
-New Religious Developments,in North India The period after the thirteenth century saw a new wave of the bhakti movement in north India. This was an age when Islam, Brahmanical Hinduism, Sufism, various strands of bhakti, and the Nathpanths, Siddhas and Yogis influenced one another. We saw that new towns (Chapter 6) and kingdoms (Chapters 2, 3 and 4) were emerging, and people were taking up new professions and finding new roles for themselves. Such people, especially craftspersons, peasants, traders and labourers, thronged to listen to these new saints and spread their ideas.
+### New Religious Developments,in North India
+
+The period after the thirteenth century saw a new wave of the bhakti movement in north India. This was an age when Islam, Brahmanical Hinduism, Sufism, various strands of bhakti, and the Nathpanths, Siddhas and Yogis influenced one another. We saw that new towns (Chapter 6) and kingdoms (Chapters 2, 3 and 4) were emerging, and people were taking up new professions and finding new roles for themselves. Such people, especially craftspersons, peasants, traders and labourers, thronged to listen to these new saints and spread their ideas.
 
 Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Others like Tulsidas and Surdas accepted existing beliefs and practices but wanted to make these accessible to all. Tulsidas conceived of God in the form of Rama. Tulsidas’s composition, the Ramcharitmanas, written in Awadhi (a language used in eastern Uttar Pradesh), is important both as an
 
@@ -199,7 +229,7 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 A unique feature of most of the saints is that their works were composed in regional languages and could be sung. They became immensely popular and were handed down orally from generation to generation. Usually the poorest, most deprived communities and women transmitted these songs, often adding their own experiences. Thus the songs as we have them today are as much a creation of the saints as of generations of people who sang them. They have become a part of our living popular culture.
 
-## E, es i Beyond the Rana’s palace
+## Beyond the Rana’s palace
 
 This is asong composed by Mirabai:
 
@@ -207,13 +237,15 @@ Ranaji, I have left your norms of shame, and false decorum of the princely life.
 
 I have left your town. enmity against me?
 
-And yet Rana why have you Rept up
+And yet Rana why have you kept up
 
 4 Rana you gave me a cup of poison.
 
 I drank it laughing.
 
-Rana I will not be destroyed by you. And yet Rana why have you Rept up enmity against me?
+Rana I will not be destroyed by you. And yet Rana why have you kept up
+
+enmity against me?
 
 Why do you think Mirabai left the
 
@@ -275,7 +307,7 @@ The changing historical situation during the sixteenth and seventeenth centuries
 
 Martin Luther and the Reformation
 
-The sixteenth century was a time of religious ferment in Europe as well. One of the most important leaders of the changes that took place within Christianity was Martin Luther (1483-1546). Luther felt that several practices in the Roman Catholic Church went against the teachings of the Bible. He encouraged the use of the language of ordinary people rather than Latin, and translated Key ga ag Se 7 qt the Bible into German. Luther was | ae ie \" strongly opposed to the practice etc || f of “indulgences” or making
+The sixteenth century was a time of religious ferment in Europe as well. One of the most important leaders of the changes that took place within Christianity was Martin Luther (1483-1546). Luther felt that several practices in the Roman Catholic Church went against the teachings of the Bible. He encouraged the use of the language of ordinary people rather than Latin, and translated the Bible into German. Luther was | ae ie \" strongly opposed to the practice etc || f of “indulgences” or making
 
 ## Cy ASS) | Wm donations to the Church so as to
 
@@ -301,19 +333,21 @@ Alvars worship of Shiva
 
 > [caption] Fill in the blanks:
 
-(a). Shankara was an advocate of —————-. (b) Ramanuja was influenced by the Describe the beliefs and practices of the Nathpanthis, Siddhas and Yogis.
+(a). Shankara was an advocate of —————-. (b) Ramanuja was influenced by the
 
 > [table] (c) , and t———— were advocates of Virashaivism.
 
 > [table] (d) was an important centre of the Bhakti tradition in Maharashtra.
 
+Describe the beliefs and practices of the Nathpanthis, Siddhas and Yogis.
+
 What were the major ideas expressed by Kabir? How did he express these?
 
 <!-- section: glossary -->
 
-> [note] KEYWORDS
+### Keywords
 
-> [caption] Virashaivism bhakti Sufi
+- Virashaivism bhakti Sufi
 
 <!-- page 121 (pdf 18) -->
 

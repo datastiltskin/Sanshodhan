@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch03.pdf"
 source_sha256: "3ad8c8b0f79987a34c52e1e2639dd5d9f2539c0dc121f7b84c59a6cf6e822c22"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "08ea26f81ff775c7d92f43508fc56b8263a99e83ec0bbcb0afd943e8e3f907ca"
+body_fingerprint: "54751d6b55fc2cc15806b7ba669fbcf8cea4f79db022c32bf7e6211cadf1e2dd"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -44,7 +44,7 @@ Soon it was clear that the Bengal economy was facing a deep crisis. Artisans wer
 
 > [caption] Fig. 3 – Charles Cornwallis
 
-> [table] Cornwallis was the Governor-General of India when the Permanent Settlement was introduced.
+> [caption] Cornwallis was the Governor-General of India when the Permanent Settlement was introduced.
 
 > [table] Source 1
 
@@ -68,7 +68,7 @@ The Permanent Settlement, however, created problems. Company officials soon disc
 
 By the first decade of the nineteenth century the situation changed. The prices in the market rose and cultivation slowly expanded. This meant an increase in the income of the zamindars but no gain for the Company since it could not increase a revenue demand that had been fixed permanently Even then the zamindars did not have an interest in improving the land. Some had lost their lands in the earlier years of the settlement; others now saw the possibility of earning without the trouble and risk of investment. As long as the zamindars could give out the land to tenants and get rent, they were not interested in improving the land.
 
-Activity †
+### Activity
 
 Why do you think Colebrook is concerned with the conditions of the under-ryots in Bengal? Read the preceding pages and suggest possible reasons.
 
@@ -92,7 +92,7 @@ Read and Munro felt that in the south there were no traditional zamindars. The s
 
 <!-- page 30 (pdf 5) -->
 
-Activity †
+### Activity
 
 Imagine that you are a Company representative sending a report back to England about the conditions in rural areas under Company rule. What would you write?
 
@@ -140,12 +140,6 @@ Plantation – A large farm operated by a planter employing various forms of for
 
 <!-- page 32 (pdf 7) -->
 
-> [caption] Fig. 7 – The Slave Revolt in St Domingue, August 1791, painting by January Scuhodolski
-
-In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
-
-Slave – A person who is owned by someone else – the slave owner. A slave has no freedom and is compelled to work for the master.
-
 From the last decades of the eighteenth century indigo cultivation in Bengal expanded rapidly and Bengal indigo came to dominate the world market. In 1788 only about 30 per cent of the indigo imported into Britain was from India. By 1810, the proportion had gone up to 95 per cent. As the indigo trade grew, commercial agents and officials of the Company began investing in indigo production. Over the years many Company officials left their jobs to look after their indigo business. Attracted by the prospect of high profits, numerous Scotsmen and Englishmen came to India and became planters. Those who had no money to produce indigo could get loans from the Company and the banks that were coming up at the time.
 
 How was indigo cultivated? There were two main systems of indigo cultivation – nij and ryoti. Within the system of nij cultivation, the planter produced indigo in lands that he directly controlled. He either bought the land or rented it from other zamindars and produced indigo by directly employing hired labourers.
@@ -156,19 +150,25 @@ The planters found it difficult to expand the area under nij cultivation. Indigo
 
 Nor was labour easy to mobilise. A large plantation required a vast number of hands to operate. And labour was needed precisely at a time when peasants were usually busy with their rice cultivation.
 
+> [caption] Fig. 7 – The Slave Revolt in St Domingue, August 1791, painting by January Scuhodolski In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
+
+Slave – A person who is owned by someone else – the slave owner. A slave has no freedom and is compelled to work for the master.
+
 <!-- page 33 (pdf 8) -->
 
 Nij cultivation on a large scale also required many ploughs and bullocks. One bigha of indigo cultivation required two ploughs. This meant that a planter with 1,000 bighas would need 2,000 ploughs. Investing on purchase and maintenance of ploughs was a big problem. Nor could supplies be easily got from the peasants since their ploughs and bullocks were busy on their rice fields, again exactly at the time that the indigo planters needed them.
-
-Bigha – A unit of measurement of land. Before British rule, the size of this area varied. In Bengal the British standardised it to about one-third of an acre.
 
 Till the late nineteenth century, planters were therefore reluctant to expand the area under nij cultivation. Less than 25 per cent of the land producing indigo was under this system. The rest was under an alternative mode of cultivation – the ryoti system.
 
 ### Indigo on the land of ryots
 
-Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop. Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860
+Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop.
 
-> [table] In India the indigo plant was cut mostly by men.
+Bigha – A unit of measurement of land. Before British rule, the size of this area varied. In Bengal the British standardised it to about one-third of an acre.
+
+> [caption] Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860
+
+> [caption] In India the indigo plant was cut mostly by men.
 
 > [caption] Fig. 9 – The Indigo plant being brought from the fields to the factory
 
@@ -182,7 +182,7 @@ How was indigo produced?
 
 > [caption] Fig. 12 – The Vat-Beater
 
-> [table] The indigo worker here is standing with the paddle that was used to stir the solution in the vat. These workers had to remain in waist-deep water for over eight hours to beat the indigo solution.
+> [caption] The indigo worker here is standing with the paddle that was used to stir the solution in the vat. These workers had to remain in waist-deep water for over eight hours to beat the indigo solution.
 
 Vat – A fermenting or storage vessel
 
@@ -192,13 +192,13 @@ Vat – A fermenting or storage vessel
 
 > [caption] Fig. 10 – An indigo factory located near indigo fields, painting by William Simpson, 1863
 
-The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
+> [caption] The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
 
-In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
-
-> [table] to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
+> [caption] In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
 
 > [caption] Fig. 13 – The indigo is ready for sale
+
+> [caption] Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
 
 <!-- page 35 (pdf 10) -->
 
@@ -228,7 +228,7 @@ The long lathis wielded by the planter of Mollahati / now lie in a cluster The b
 
 <!-- page 36 (pdf 11) -->
 
-Activity †
+### Activity
 
 Imagine you are a witness giving evidence before the Indigo Commission. W.S. Seton Karr asks you “On what condition will ryots grow indigo?” What will your answer be?
 
@@ -258,9 +258,9 @@ Hadji Mulla: No I would not; rather than sow indigo I will go to another country
 
 After the revolt, indigo production collapsed in Bengal. But the planters now shifted their operation to Bihar. With the discovery of synthetic dyes in the late nineteenth century their business was severely affected, but yet they managed to expand production. When Mahatma Gandhi returned from South Africa, a peasant from Bihar persuaded him to visit Champaran and see the plight of the indigo cultivators there. Mahatma Gandhi’s visit in 1917 marked the beginning of the Champaran movement against the indigo planters.
 
-ELSEWHERE
+### ELSEWHERE
 
-Indigo making in the West Indies
+### Indigo making in the West Indies
 
 In the early eighteenth century, a French missionary, Jean Baptiste Labat, travelled to the Caribbean islands, and wrote extensively about the region. Published in one of his books, this image shows all the stages of indigo production in the French slave plantations of the region.
 

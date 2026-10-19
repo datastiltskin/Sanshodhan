@@ -10,19 +10,15 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/prelims.pdf"
 
 ## Textbook for Class VII
 
-sta srfar COU
+> [caption] Raa TRAIN NG
 
-> [caption] Faas sr oR fSTaTor SIT EDUCA RESEARCH Al
-
-> [caption] Rug RAI
+NAT NOU NAL COUN NCIL L OF F EDUCAT NOU NAL RESEARCH AN ND 1 0764 – SOCIAL AND POLITICAL LIFE—II Textbook for Class VII ISBN 81-7450-672-1
 
 <!-- pdf page 2 -->
 
-0764 – SOCIAL AND POLITICAL LIFE—II Textbook for Class VII ISBN 81-7450-672-1
-
 > [caption] ALL RIGHTS RESERVED
 
-First Edition
+### First Edition
 
 > [caption] q No part of this publication may be reproduced, stored in a retrieval system or
 
@@ -46,13 +42,13 @@ PD 610T RSP
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
-Research and Training, 2007
+### Research and Training, 2007
 
 Publication Team
 
 Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal
 
-` 65.00
+₹ 65.00
 
 Chief Production: Arun Chitkara Officer
 
@@ -62,7 +58,17 @@ Assistant Editor: Shashi Chadha
 
 Production Assistant: Rajesh Pippal
 
-Printed on 80 GSM paper with NCERT watermark Cover, Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B.M. Offset Printers, D-247/17, Sector-63, Noida, Uttar Pradesh Orijit Sen with Splash! Communications Illustrations Orijit Sen
+Printed on 80 GSM paper with NCERT watermark
+
+### Cover, Layout
+
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B.M. Offset Printers, D-247/17, Sector-63, Noida, Uttar Pradesh
+
+Orijit Sen with Splash! Communications
+
+Illustrations
+
+Orijit Sen
 
 <!-- pdf page 3 -->
 
@@ -252,17 +258,17 @@ out from the diagram below, what the cost price includes.
 
 BIG BUSINESS HOUSES
 
-> [table] Some own radio, TV, newspaper le advertise their products
+> [table] Some own radio, TV, newspaper
 
-Profit ` 900
+Profit ₹ 900
 
-> [table] People buy products seen in the media. Money, therefore, flows back to big business houses
+> [table] People buy products seen in the media. Money, therefore, flows back to big business houses advertise their products
 
-Advertising ` 400
+Advertising ₹ 400
 
-Storage ` 200
+Storage ₹ 200
 
-Purchase ` 300
+Purchase ₹ 300
 
 MEDIA
 
@@ -282,7 +288,11 @@ It would also be fair to expect a range of correct answers when the learner is a
 
 An example of what we mean by a range of responses to a question, as well as a wrong answer is provided below:
 
-If you were one of the Ansaris how would you have responded to the property dealer’s suggestion that you change your name?
+If you were one of the Ansaris how would you have responded
+
+to the property dealer’s suggestion that you change
+
+your name?
 
 Range of right answers
 
@@ -308,7 +318,9 @@ Wrong answer
 
 ### Other forms of evaluation
 
-We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below – Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
+We need to demystify the stress on examinations as the best tool for evaluating the learner. Rather than wait for alternate evaluation structures to trickle down from the higher grades, we need to use the learner’s years in middle school to experiment with other ways of evaluation. For this purpose we need to use different methods, some of which are briefly discussed below –
+
+Open-book exercises: As the name implies ‘open-book’ is a process in which the learner is allowed to refer to the textbook while answering a question. Open book exercises offer children an opportunity to pick out answers without feeling the burden of “remembering the details”. The learner would be asked to read portions of the text again with the question in mind. New questions are essential for this exercise. Questions based on the learner’s ability to infer, extrapolate and apply concepts are ideal for open-book exercises. Answering the question in the learner’s own words should be emphasised.
 
 Oral reasoning and comprehension: Children express so much through speaking and sharing in a classroom. Yet, most often, our current educational system tends to regard this as ‘useless talk’. Learning from peers and expressing themselves through the spoken word is something that needs to be encouraged. Oral evaluation exercises provide an avenue through which to value this. A number of in-text questions in this book can be answered orally and the teacher should begin this process in the classroom.
 
@@ -318,31 +330,25 @@ These forms of evaluation help emphasise that learning is continuous and happens
 
 <!-- pdf page 15 -->
 
-## MAT pk
+THE CO ONSTITUTIO NC INDIA
 
-INSTITUTI INDIA
+OF
 
-THE Ct
+PREAMBLE
 
-IN
+> [table] OF INDIA, having
 
-PREAMBLE having and
+> [table] THE PEC OPLE
 
-> [caption] INDIA,
-
-> [caption] THE
-
-> [caption] WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial. CCl political; of thought, expression, belief, LIBERTY faith and worship: yf status and EQUALITY ypportunity; promote among them all and tc FRATERN ITY assuring the dignity the individual and and the unity yf the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 de this twenty-sixth day ENACT AND GIVE Tt‘ HEREBY AD PT, YURSELVES THIS C INSTITUTI PLE constitute India intc CIALIST SECULAR and tc secure PE(
+WE, solemnly resolved to constitute India into OSI, OVEREIGN SC OCIALIST SECULAR DEMO OCRATIC REPUBLIC and to secure to all its citizens : ocial, eco ono omic and political; LIBERTY O of thought, expression, belief, faith and worship; EQUALITY C of status and c of o opportunity; and to o promote among them all FRATERNITY assuring the dignity of the individual and the 'unity and integrity c of the Nation; IN OUR ONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADO OPT, ENACT AND GIVE TO OURSELVES THIS CO ONSTITUTIC ON.
 
 JUSTICE,
 
-> [caption] ymic
+> [caption] SO
 
-> [caption] Subs. by the Co
+> [caption] J overeign Dem Subs. by the Cor 1 n (Forty-secor nocratic Republic" ( n (Forty-secor w.e.f. 3.1.1977)
 
-> [caption] (Forty-seco ef. 3.1.1977)
-
-> [caption] Subs. by the Cc "Unity of the Natio ef, 3.1.1977)
+> [caption] w.e.f. 3.1.1977)
 
 <!-- pdf page 16 -->
 
@@ -390,6 +396,6 @@ Note: The Article 51A containing Fundamental Duties was inserted by the Constitu
 
 Equality in Indian Democracy (continued)
 
-Chapter 9: Struggles for Equality ................. eee 102
+### Chapter 9: Struggles for Equality ................. eee 102
 
 > [table] Reference ..........c cee cceececceccececccseensepteeccuseccceceuseuseeseusens 110

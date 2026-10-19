@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch08.pdf"
 source_sha256: "991b3900cfaba1a7cd1ae27a6632ed78bed4035dc3bd631b10b956f34c3f2ed6"
 pdf_pages: 10
 printed_pages: "94-103"
-body_fingerprint: "f0a0fcb3247d150a5406874711d8805d78a6960bd0db5ae4fa54dada268d6bcb"
+body_fingerprint: "dc44452beb05bd9a4c020531ca08dcaea7a8caaeca37255c2482d9d543eb8d0e"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -26,51 +26,51 @@ In this chapter, we will read about some of the ways in which groups and individ
 
 ## Invoking Fundamental Rights
 
-> [note] The Constitution, as you have learnt in the first chapter of this book, lays down the principles that make our society and polity democratic. They are defined in and through the list of Fundamental Rights that are an important part of the Constitution. These rights are available to all Indians equally. As far as the marginalised are concerned, they have drawn on these rights in two ways: first, by insisting on their Fundamental Rights, they have forced the government to recognise the injustice done to them. Second, they have insisted that the government enforce these laws. In some instances, the struggles of the marginalised have influenced the government to frame new laws, in keeping with the spirit of the Fundamental Rights.
+The Constitution, as you have learnt in the first chapter of this book, lays down the principles that make our society and polity democratic. They are defined in and through the list of Fundamental Rights that are an important part of the Constitution. These rights are available to all Indians equally. As far as the marginalised are concerned, they have drawn on these rights in two ways: first, by insisting on their Fundamental Rights, they have forced the government to recognise the injustice done to them. Second, they have insisted that the government enforce these laws. In some instances, the struggles of the marginalised have influenced the government to frame new laws, in keeping with the spirit of the Fundamental Rights.
 
-> [note] Article 17 of the Constitution states that untouchability has been abolished – what this means is that no one can henceforth prevent Dalits from educating themselves, entering temples, using public facilities etc. It also means that it is wrong to practise untouchability and that this practice will not be tolerated by a democratic government. In fact, untouchability is a punishable crime now.
+Article 17 of the Constitution states that untouchability has been abolished – what this means is that no one can henceforth prevent Dalits from educating themselves, entering temples, using public facilities etc. It also means that it is wrong to practise untouchability and that this practice will not be tolerated by a democratic government. In fact, untouchability is a punishable crime now.
 
-The term Dalit, which means ‘broken’ is used deliberately and actively by groups to highlight the centuries of discrimination they have experienced within the caste system.
+There are other sections in the Constitution that help to strengthen the argument against untouchability – for example, Article 15 of the Constitution notes that no citizen of India shall be discriminated against on the basis of religion, race, caste, sex or place of birth (you learnt a lot about this in your Class VII textbook in the chapter on Equality). This has been used by Dalits to seek equality where it has been denied to them.
 
-> [note] There are other sections in the Constitution that help to strengthen the argument against untouchability – for example, Article 15 of the Constitution notes that no citizen of India shall be discriminated against on the basis of religion, race, caste, sex or place of birth (you learnt a lot about this in your Class VII textbook in the chapter on Equality). This has been used by Dalits to seek equality where it has been denied to them.
+> [caption] The term Dalit, which means ‘broken’ is used deliberately and actively by groups to highlight the centuries of discrimination they have experienced within the caste system.
 
 <!-- page 96 (pdf 3) -->
 
-The poem below is written by Soyrabai, the wife of the well-known Bhakti poet Chokhamela from fourteenth century Maharashtra. They belonged to the Mahar caste, which was at that time considered untouchable.
+Therefore, Dalits can ‘invoke’ or ‘draw on’ a Fundamental Right (or Rights) in situations where they feel that they have been treated badly by some individual or community, or even by the government. They have drawn the attention of the government of India to the Constitution, demanding that the government abide by it and do justice to them.
 
-A body is unclean, they say
-
-Only the soul is untainted
-
-But the impurity of the body
-
-Is born within the body
-
-…By which ritual does the body become pure?
-
-Not a creature has been born except in a bloody womb.
-
-This is the glory of God, Defilement exists within.
-
-The body is polluted from within,
-
-Be sure of it says the Mahari Chokha
-
-> [caption] Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99
-
-Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other. She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.
-
-> [note] Therefore, Dalits can ‘invoke’ or ‘draw on’ a Fundamental Right (or Rights) in situations where they feel that they have been treated badly by some individual or community, or even by the government. They have drawn the attention of the government of India to the Constitution, demanding that the government abide by it and do justice to them.
-
-> [note] Likewise, other minority groups have drawn on the Fundamental Rights section of our Constitution. They have particularly drawn upon the right to freedom of religion and cultural and educational rights. In the case of cultural and educational rights, distinct cultural and religious groups like the Muslims and Parsis have the right to be the guardians of the content of their culture, as well as the right to make decisions on how best this content is to be preserved. Thus, by granting different forms of cultural rights, the Constitution tries to ensure cultural justice to such groups. The Constitution does this so that the culture of these groups is not dominated nor wiped out by the culture of the majority community.
+Likewise, other minority groups have drawn on the Fundamental Rights section of our Constitution. They have particularly drawn upon the right to freedom of religion and cultural and educational rights. In the case of cultural and educational rights, distinct cultural and religious groups like the Muslims and Parsis have the right to be the guardians of the content of their culture, as well as the right to make decisions on how best this content is to be preserved. Thus, by granting different forms of cultural rights, the Constitution tries to ensure cultural justice to such groups. The Constitution does this so that the culture of these groups is not dominated nor wiped out by the culture of the majority community.
 
 ## Laws for the Marginalised
 
-> [note] As you have read, the government makes laws to protect its citizens. Yet, this is not the only way in which it takes action. There are specific laws and policies for the marginalised in our country. There are policies or schemes that emerge through other means like setting up a committee or by undertaking a survey etc. The government then makes an effort to promote such policies in order to give opportunities to specific groups.
+As you have read, the government makes laws to protect its citizens. Yet, this is not the only way in which it takes action. There are specific laws and policies for the marginalised in our country. There are policies or schemes that emerge through other means like setting up a committee or by undertaking a survey etc. The government then makes an effort to promote such policies in order to give opportunities to specific groups.
 
-### Promoting Social Justice
+Promoting Social Justice
 
-> [note] As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal areas or in areas that have a high Dalit population. For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education facilities that may not be available in their localities.
+As part of their effort to implement the Constitution, both state and central governments create specific schemes for implementation in tribal areas or in areas that have a high Dalit population. For example, the government provides for free or subsidised hostels for students of Dalit and Adivasi communities so that they can avail of education facilities that may not be available in their localities.
+
+> [caption] The poem below is written by Soyrabai, the wife of the well-known Bhakti poet Chokhamela from fourteenth century Maharashtra. They belonged to the Mahar caste, which was at that time considered untouchable.
+
+> [caption] A body is unclean, they say
+
+> [caption] Only the soul is untainted
+
+> [caption] But the impurity of the body
+
+> [caption] Is born within the body
+
+> [caption] …By which ritual does the body become pure?
+
+> [caption] Not a creature has been born except in a bloody womb.
+
+> [caption] This is the glory of God, Defilement exists within.
+
+> [caption] The body is polluted from within,
+
+> [caption] Be sure of it says the Mahari Chokha
+
+> [caption] Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99
+
+> [caption] Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other. She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.
 
 <!-- page 97 (pdf 4) -->
 
@@ -78,83 +78,83 @@ In addition to providing certain facilities, the government also operates throug
 
 How does the reservation policy work? Governments across India have their own list of Scheduled Castes (or Dalits), Scheduled Tribes and backward and most backward castes. The central government too has its list. Students applying to educational institutions and those applying for posts in government are expected to furnish proof of their caste or tribe status, in the form of caste and tribe certificates. (Many government and educational institutions also ask for candidates to mention their caste/tribe status.) If a particular Dalit caste or a certain tribe is on the government list, then a candidate from that caste or tribe can avail of the benefit of reservation.
 
-State one reason why you think reservations play an important role in providing social justice to Dalits and Adivasis?
+> [caption] State one reason why you think reservations play an important role in providing social justice to Dalits and Adivasis?
 
 For admission to colleges, especially to institutes of professional education, such as medical colleges, governments define a set of ‘cut-off’ marks. This means that not all Dalit and tribal candidates can qualify for admission, but only those who have done reasonably well and secured marks above the cut-off point. Governments also offer special scholarships for these students. In your Class IX Political Science textbook, you will read more on reservations for the backward classes.
 
-List of schemes What is this How do you think it will help promote scheme about? social justice?
+> [table] List of schemes What is this How do you think it will help promote scheme about? social justice?
 
-Special schemes for girls in government schools Q Scholarships for students Special police stations
+> [table] Special schemes for girls in government schools Q Scholarships for students Special police stations
 
 <!-- page 98 (pdf 5) -->
 
 ## Protecting the Rights of Dalits and Adivasis
 
-> [note] In addition to policies our country also has specific laws that guard against the discrimination and exploitation of marginalised communities. Let us read the following case-study, adapted from a real-life account, to understand how Dalits use the protection that laws provide.
+In addition to policies our country also has specific laws that guard against the discrimination and exploitation of marginalised communities. Let us read the following case-study, adapted from a real-life account, to understand how Dalits use the protection that laws provide.
 
-You may have read Kabir’s poems in your language textbooks. Kabir was a fifteenth century poet and weaver who also belonged to the Bhakti tradition. Kabir’s poetry spoke about his love for the supreme being free of ritual and priests. It also expresses his sharp and pointed criticism of those he saw as powerful. Kabir attacked those who attempted to define individuals on the basis of their religious and caste identities. In his view every person had the ability to reach the highest level of spiritual salvation and deep knowledge within themselves through their own experience. His poetry brings out the powerful idea of the equality of all human beings and their labour. He writes about valuing the work of the ordinary potter, the weaver and the woman carrying the water pot – labour that in his poetry becomes the basis of understanding the entire universe. His direct, courageous challenge inspired many and even today Kabir’s poetry is sung and appreciated by Dalits, marginalised groups and those critical of social hierarchies in U.P., Rajasthan, Punjab, Madhya Pradesh, Bengal, Bihar and Gujarat.
+The villagers of Jakmalgur are gearing up for a big festival. Once in five years, the local deity is honoured and priests from 20 neighbouring villages come for this five-day event. The ceremony begins with a member of the Dalit community washing the feet of all the priests and then bathing in the water used for this. In Jakmalgur, the person who performed this task belonged to Rathnam’s family. His father and grandfather had both performed the same task before him. Though they were never allowed to enter the temple, this ritual was viewed as a great honour bestowed on them on this special occasion. Now it was Rathnam’s turn. Rathnam was all of 20 years, studying engineering in a nearby college. He refused to perform the ritual.
 
-> [note] The villagers of Jakmalgur are gearing up for a big festival. Once in five years, the local deity is honoured and priests from 20 neighbouring villages come for this five-day event. The ceremony begins with a member of the Dalit community washing the feet of all the priests and then bathing in the water used for this. In Jakmalgur, the person who performed this task belonged to Rathnam’s family. His father and grandfather had both performed the same task before him. Though they were never allowed to enter the temple, this ritual was viewed as a great honour bestowed on them on this special occasion. Now it was Rathnam’s turn. Rathnam was all of 20 years, studying engineering in a nearby college. He refused to perform the ritual.
+He said that he had no faith in this practice and that his family members were forced to perform this ritual because they were Dalits. Rathnam’s refusal angered both the powerful castes in the village and some families from his own community. The powerful castes were shocked that such a young boy had the guts to refuse. They believed that it was Rathnam’s education which allowed him to imagine that he could start comparing himself with them.
 
-> [note] He said that he had no faith in this practice and that his family members were forced to perform this ritual because they were Dalits. Rathnam’s refusal angered both the powerful castes in the village and some families from his own community. The powerful castes were shocked that such a young boy had the guts to refuse. They believed that it was Rathnam’s education which allowed him to imagine that he could start comparing himself with them.
+Those from Rathnam’s own caste were fearful of angering the powerful. Many worked on their fields as daily-wage labourers. If the dominant castes decided to not call them, then what would they earn? How would they survive? They also declared that the wrath of the local deity would strike them if they refused to give in. Rathnam argued that given that not a single Dalit had ever entered the temple, how could the deity be angry with them?
 
-> [note] Those from Rathnam’s own caste were fearful of angering the powerful. Many worked on their fields as daily-wage labourers. If the dominant castes decided to not call them, then what would they earn? How would they survive? They also declared that the wrath of the local deity would strike them if they refused to give in. Rathnam argued that given that not a single Dalit had ever entered the temple, how could the deity be angry with them?
+> [caption] You may have read Kabir’s poems in your language textbooks. Kabir was a fifteenth century poet and weaver who also belonged to the Bhakti tradition. Kabir’s poetry spoke about his love for the supreme being free of ritual and priests. It also expresses his sharp and pointed criticism of those he saw as powerful. Kabir attacked those who attempted to define individuals on the basis of their religious and caste identities. In his view every person had the ability to reach the highest level of spiritual salvation and deep knowledge within themselves through their own experience. His poetry brings out the powerful idea of the equality of all human beings and their labour. He writes about valuing the work of the ordinary potter, the weaver and the woman carrying the water pot – labour that in his poetry becomes the basis of understanding the entire universe. His direct, courageous challenge inspired many and even today Kabir’s poetry is sung and appreciated by Dalits, marginalised groups and those critical of social hierarchies in U.P., Rajasthan, Punjab, Madhya Pradesh, Bengal, Bihar and Gujarat.
 
 <!-- page 99 (pdf 6) -->
 
 The powerful castes decided to teach Rathnam a lesson. His community was ordered to ostracise him and his family, and everyone was told that no one should speak or do any work for them or with them. One night some men entered their part of the village and set his hut on fire. He managed to escape with his mother. Rathnam, then went to file a case in the local police station under the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989. Other Dalit families still did not come out in his support as they were scared that a similar fate might await them if they spoke out. The case was picked up by the local media that led to many journalists visiting the village. Rathnam was written about as a symbol of Dalit action. The ritual was called off, but his family was forced to move out as they continued to be ostracised by the powerful castes in the village.
 
-### The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989
+The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989
 
 Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.
 
 This Act was framed in 1989 in response to demands made by Dalits and others that the government must take seriously the ill treatment and humiliation Dalits and tribal groups face in an everyday sense. While such treatment had persisted for a long time, it had acquired a violent character in the late 1970s and 1980s. During this period, in parts of southern India, a number of assertive Dalit groups came into being and asserted their rights – they refused to perform their so-called caste duties and insisted on being treated equally; like Rathnam they refused to follow practices located in the humiliation and exploitation of Dalits. This resulted in the more powerful castes unleashing violence against them. In order to indicate to the government that untouchability was still being practised and in the most hideous manner, Dalit groups demanded new laws that would list the various sorts of violence against dalits and prescribe stringent punishment for those who indulge in them.
 
-In your opinion does the force put on Rathnam to perform this ritual violate his Fundamental Rights?
+> [caption] In your opinion does the force put on Rathnam to perform this ritual violate his Fundamental Rights?
 
-Why do you think the Dalit families were afraid of angering the powerful castes?
+> [caption] Why do you think the Dalit families were afraid of angering the powerful castes?
 
 <!-- page 100 (pdf 7) -->
 
-Pandit, Look in your heart for knowledge
+Likewise, throughout the 1970s and 1980s Adivasi people successfully organised themselves and demanded equal rights and for their land and resources to be returned to them. They too had to face the anger of powerful social groups and were subject to a great deal of violence.
 
-Tell me where untouchability
+This is why this Act contains a very long list of crimes, some of which are too horrible even to contemplate. The Act does not only describe terrible crimes, but also lets people know what dreadful deeds human beings are capable of. In this sense, laws such as these seek to both punish as well as influence the way we think and act.
 
-Came from, since you believe in it.
+The Act distinguishes several levels of crimes. Firstly, it lists modes of humiliation that are both physically horrific and morally reprehensible and seeks to punish those who (i) force a member of a Scheduled Caste or a Scheduled Tribe to drink or eat any inedible or obnoxious substance; … (iii) forcibly removes clothes from the person of a member of a Scheduled Caste or a Scheduled Tribe or parades him or her naked or with painted face or body or commits any similar act which is derogatory to human dignity…
 
-Mix red juice, white juice and air
+Secondly, it lists actions that dispossess Dalits and Adivasis of their meagre resources or which force them into performing slave labour. Thus, the Act sets out to punish anyone who (iv) wrongfully occupies or cultivates any land owned by, or allotted to, … a member of a Scheduled Caste or a Scheduled Tribe or gets the land allotted to him transferred;
 
-A body bakes in a body …
+At another level, the Act recognizes that crimes against Dalit and tribal women are of a specific kind and, therefore, seeks to penalise anyone who (xi) assaults or uses force on any woman belonging to a Scheduled Caste or a Scheduled Tribe with intent to dishonour her …
 
-We eat by touching, we wash by touching, from a touch the world was born.
+> [table] Can you list two different provisions in the 1989 Act?
 
-So who’s untouched, asks Kabir?
+> [table] Look up the glossary and write in your own words what you understand by the term ‘morally reprehensible’.
 
-Only she
+> [caption] Pandit, Look in your heart for knowledge
 
-Who is free from delusion
+> [caption] Tell me where untouchability
 
-In this poem, Kabir is challenging the priest by directly questioning at him about where untouchability came from. He asks the priest to look for knowledge in his heart and not in the scriptures. Kabir goes on to describe how every human body is made of blood and air and has spent nine months in the mother’s womb. And that everything in the world is created by touching something whether it be a pot, a human being or a painting.
+> [caption] Came from, since you believe in it.
 
-He takes the word untouchable and gives it a very different meaning. He claims that untouchability is the highest state of knowledge: it means not be touched by narrow limiting ideas. Therefore, Kabir finally turns the idea of untouchability on its head-from the lowest to the highest state that a human being can achieve!
+> [caption] Mix red juice, white juice and air
 
-> [note] Likewise, throughout the 1970s and 1980s Adivasi people successfully organised themselves and demanded equal rights and for their land and resources to be returned to them. They too had to face the anger of powerful social groups and were subject to a great deal of violence.
+> [caption] A body bakes in a body …
 
-> [note] This is why this Act contains a very long list of crimes, some of which are too horrible even to contemplate. The Act does not only describe terrible crimes, but also lets people know what dreadful deeds human beings are capable of. In this sense, laws such as these seek to both punish as well as influence the way we think and act.
+> [caption] We eat by touching, we wash by touching, from a touch the world was born.
 
-> [note] The Act distinguishes several levels of crimes. Firstly, it lists modes of humiliation that are both physically horrific and morally reprehensible and seeks to punish those who (i) force a member of a Scheduled Caste or a Scheduled Tribe to drink or eat any inedible or obnoxious substance; … (iii) forcibly removes clothes from the person of a member of a Scheduled Caste or a Scheduled Tribe or parades him or her naked or with painted face or body or commits any similar act which is derogatory to human dignity…
+> [caption] So who’s untouched, asks Kabir?
 
-> [note] Secondly, it lists actions that dispossess Dalits and Adivasis of their meagre resources or which force them into performing slave labour. Thus, the Act sets out to punish anyone who (iv) wrongfully occupies or cultivates any land owned by, or allotted to, … a member of a Scheduled Caste or a Scheduled Tribe or gets the land allotted to him transferred;
+> [caption] Only she
 
-> [note] At another level, the Act recognizes that crimes against Dalit and tribal women are of a specific kind and, therefore, seeks to penalise anyone who (xi) assaults or uses force on any woman belonging to a Scheduled Caste or a Scheduled Tribe with intent to dishonour her …
+> [caption] Who is free from delusion
 
-> [note] Can you list two different provisions in the 1989 Act?
+> [caption] In this poem, Kabir is challenging the priest by directly questioning at him about where untouchability came from. He asks the priest to look for knowledge in his heart and not in the scriptures. Kabir goes on to describe how every human body is made of blood and air and has spent nine months in the mother’s womb. And that everything in the world is created by touching something whether it be a pot, a human being or a painting.
 
-> [note] Look up the glossary and write in your own words what you understand by the term ‘morally reprehensible’.
+> [caption] He takes the word untouchable and gives it a very different meaning. He claims that untouchability is the highest state of knowledge: it means not be touched by narrow limiting ideas. Therefore, Kabir finally turns the idea of untouchability on its head-from the lowest to the highest state that a human being can achieve!
 
 <!-- page 101 (pdf 8) -->
 
-The Scourge of Manual Scavenging
+> [table] The Scourge of Manual Scavenging
 
 Manual scavenging refers to the practice of removing human and animal waste/excreta using brooms, tin plates and baskets from dry latrines and carrying it on the head to disposal grounds some distance away. A manual scavenger is the person who does the job of carrying this filth. This job is mainly done by Dalit women and young girls. According to the Andhra Pradesh-based Safai Karamchari Andolan, an organisation working with manual scavengers, there are 13 lakh persons from Dalit communities who continue to be employed in this job in this country and who work in the 96 lakh private and community dry latrines managed by municipalities.
 
@@ -168,13 +168,13 @@ In 1993, the government passed the Employment of Manual Scavengers and Construct
 
 > [caption] Members of the Safai Karamchari Andolan demolishing a dry latrine.
 
-> [note] What do you understand by manual scavenging?
+> [table] What do you understand by manual scavenging?
 
-> [note] Re-read the list of Fundamental Rights provided on page 14 and list two rights that this practice violates?
+> [table] Re-read the list of Fundamental Rights provided on page 14 and list two rights that this practice violates?
 
-> [note] Why did the Safai Karamchari Andolan file a PIL in 2003? What did they complain about in their petition?
+> [table] Why did the Safai Karamchari Andolan file a PIL in 2003? What did they complain about in their petition?
 
-> [note] What did the Supreme Court do on hearing their case in 2005?
+> [table] What did the Supreme Court do on hearing their case in 2005?
 
 <!-- page 102 (pdf 9) -->
 
@@ -188,7 +188,7 @@ C.K. Janu, an Adivasi activist, has also pointed out that one of the violators o
 
 As we can see, the existence of a right or a law or even a policy on paper does not mean that it exists in reality. People have had to constantly work on or make efforts to translate these into principles that guide the actions of their fellow citizens or even their leaders. The desire for equality, dignity and respect is not new. It has existed in different forms throughout our history as you have seen in this chapter. Similarly, even in a democratic society, similar processes of struggle, writing, negotiation and organising need to continue.
 
-The central government passed the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006. The introduction to the final Act states that this Act is meant to undo the historical injustices meted out to forest dwelling populations in not recognising their rights to land and resources. This Act recognises their right to homestead, cultivable and grazing land and to non-timber forest produce. The Act also points out that the rights of forest dwellers includes conservation of forests and bio-diversity.
+> [caption] The central government passed the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006. The introduction to the final Act states that this Act is meant to undo the historical injustices meted out to forest dwelling populations in not recognising their rights to land and resources. This Act recognises their right to homestead, cultivable and grazing land and to non-timber forest produce. The Act also points out that the rights of forest dwellers includes conservation of forests and bio-diversity.
 
 <!-- page 103 (pdf 10) -->
 
@@ -204,21 +204,21 @@ The central government passed the Scheduled Tribes and Other Traditional Forest 
 
 4. The poems and the song in this Unit allow you to see the range of ways in which individuals and communities express their opinions, their anger and their sorrow. In class, do the following two exercises:
 
-(a) Bring to class a poem that discusses a social issue. Share this with your classmates. Work in small groups with two or more poems to discuss their meaning as well as what the poet is trying to communicate.
+> [table] (a) Bring to class a poem that discusses a social issue. Share this with your classmates. Work in small groups with two or more poems to discuss their meaning as well as what the poet is trying to communicate.
 
-(b)Identify a marginalised community in your locality. Write a poem, or song, or draw a poster etc to express your feelings as a member of this community.
+> [table] (b)Identify a marginalised community in your locality. Write a poem, or song, or draw a poster etc to express your feelings as a member of this community.
 
 <!-- section: glossary -->
 
 ## GLOSSARY
 
-Assertive: An assertive person or group is one that can express themselves and their views strongly.
+> [table] Assertive: An assertive person or group is one that can express themselves and their views strongly.
 
-Confront: To come face to face or to challenge someone or something. In the context of this chapter, this refers to groups challenging their marginalisation.
+> [table] Confront: To come face to face or to challenge someone or something. In the context of this chapter, this refers to groups challenging their marginalisation.
 
-Dispossessed: To possess is to own something and to be dispossessed is to have to give up ownership or to give up authority.
+> [table] Dispossessed: To possess is to own something and to be dispossessed is to have to give up ownership or to give up authority.
 
-Ostracise: This means to exclude or banish an individual or a group. In the context of this chapter, it refers to a social boycott of an individual and his family.
+> [table] Ostracise: This means to exclude or banish an individual or a group. In the context of this chapter, it refers to a social boycott of an individual and his family.
 
 Morally reprehensible: This refers to an act that violates all norms of decency and dignity that a society believes in. It usually refers to a hideous and repugnant act that goes against all the values that a society has accepted.
 

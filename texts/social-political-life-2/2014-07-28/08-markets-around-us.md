@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch08.pdf"
 source_sha256: "b4bab668db9228bdd33fecdda43c4c63e37e83ac9b3a0e83d58af0b2428e8e39"
 pdf_pages: 12
 printed_pages: "92-103"
-body_fingerprint: "47717b7328c173e03fe29d970a81fc1cb50ce337f65158741c75169502bacb2b"
+body_fingerprint: "c0b0d72b2160d448d2c6da0afd44c23d550c623644bf240c2e456e31fca54df4"
 ---
 
 <!-- page 92 (pdf 1) -->
@@ -135,7 +135,7 @@ We can understand this with the help of the following examples – Every city ha
 
 wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
-Aftab –The wholesaler in the city
+### Aftab –The wholesaler in the city
 
 Aftab is one of the wholesale traders who purchases in bulk. His business starts around 2 o’clock in the morning when vegetables reach the market. This is the time when the vegetable market or mandi starts buzzing with activity. The vegetables come in trucks, matadors, tractor trolleys from farms both near and far. Soon the process of auctions begins. Aftab participates in this auction and decides what he will buy. Today, for example, he bought 5 quintals of cauliflower, 10 quintals of onions. He has a shop in the market where he stores the vegetables that he has bought. From here he sells to hawkers and shopkeepers who start coming to the market around six in the morning. They have to organise their purchases so that they can start their shop for the day around ten in the morning.
 
@@ -171,13 +171,21 @@ EXERCISES
 
 > [note] 2. Compare and contrast a weekly market and a shopping complex on the following:
 
-Market Kind of goods sold Prices of goods Sellers Buyers Weekly market Shopping complex Glossary
+Market Kind of goods sold Prices of goods Sellers Buyers
+
+Weekly market
+
+Shopping complex
 
 > [note] 3. Explain how a chain of markets is formed. What purpose does it serve?
 
 > [note] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
 
 > [note] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
+
+<!-- section: glossary -->
+
+Glossary
 
 > [note] Weekly market: These markets are not daily markets but are to be found at a particular place on one or maybe two days of the week. These markets most often sell everything that a household needs ranging from vegetables to clothes to utensils.
 

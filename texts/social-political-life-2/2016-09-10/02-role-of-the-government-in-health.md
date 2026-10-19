@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch02.pdf"
 source_sha256: "08028e311cd9ad1e5bf2d90c6ff5132d6e0d1b18ad59c6ba74423301ca1dc901"
 pdf_pages: 12
 printed_pages: "18-29"
-body_fingerprint: "c270b7d2be0d1bbb36d13ea6b7c89acdca35f95f9ee55202f25053bf083d2dd5"
+body_fingerprint: "996e81dba683f4f4cc4f26e5b2afa2381f45205036559dc94b261b16b5b17c88"
 ---
 
 <!-- page 18 (pdf 1) -->
@@ -68,15 +68,19 @@ He was taken to a government hospital in Kolkata but they refused to admit him b
 
 Finally, he was admitted in a private hospital, where he received treatment. He spent a lot of money on his treatment. Angry and upset over the indifferent attitude of all the hospitals that refused to admit him, Hakim Sheik and PBKMS filed a case in the court.
 
-> [table] Read the story given above. Then imagine that you are a Judge in the court. What would you say to
+> [table] Read the story given above. Then imagine that you are a Judge in the court. What would you say to Hakim Sheik?
 
 <!-- page 22 (pdf 5) -->
 
-> [table] THE COST OF A CURE Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+## THE COST OF A CURE
 
 > [table] Oh! Me, too! I just got back to
 
-> [table] I had viral fever and school on Monday. My Daddy had to go to the took me to see the doctor hospital...
+> [table] I had viral fever and
+
+> [table] Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+
+> [table] school on Monday. My Daddy had to go to the took me to see the doctor hospital...
 
 > [table] at the new hospital in Kingsway. It was very exciting!
 
@@ -95,6 +99,8 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 > [table] ...and have you taken three times a day, and the white tablet heard the one once before bed time – that’s for the bodyache! This one is a syrup – don’t about Batman on Reality TV?
 
 > [table] worry, it’s tasty
+
+> [table] Thank you Doctor...I feel better already!
 
 <!-- page 23 (pdf 6) -->
 
@@ -115,6 +121,10 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 > [table] – quickly please!
 
 > [table] My hospital was nice, but they gave me too many medicines and the whole thing cost more than Rs 3,500!
+
+> [table] That much! My treatment cost just
+
+> [table] Rs 150!
 
 <!-- page 24 (pdf 7) -->
 
@@ -170,7 +180,7 @@ A woman and her sick child at a government hospital. According to UNICEF, more t
 
 > [table] List some Primary Health Centres
 
-> [table] (PHCs) or hospitals near your place. From your experience (or by visiting any one of them), find out the facilities provided and people
+> [table] (PHCs) or hospitals near your place. From your experience (or by visiting any one of them), find out the facilities provided and people who run the centre.
 
 <!-- page 26 (pdf 9) -->
 
@@ -224,27 +234,27 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 
 <!-- section: exercises -->
 
-EXERCISES
+> [note] EXERCISES
 
 > [table] An important part of the
 
-> [table] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
+> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
 
 > [table] Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public
 
-> [table] 2. What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
+> [caption] 2. What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
 
 > [table] health.”
 
-> [table] 3. What differences do you find between private and public health services in your area? Use the following table to compare and contrast these.
+> [caption] 3. What differences do you find between private and public health services in your area? Use the following table to compare and contrast these.
 
-> [table] Facility Cost of services Availability of service Private Public
+> [caption] Facility Cost of services Availability of service Private Public
 
-> [table] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
+> [caption] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
 
 <!-- section: glossary -->
 
-Glossary
+> [note] Glossary
 
 Public: An activity or service that is meant for all people in the country and is mainly organised by the government. This includes schools, hospitals, telephone services, etc. People can demand these services and also raise questions about their non-functioning.
 

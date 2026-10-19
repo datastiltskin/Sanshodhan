@@ -56,9 +56,9 @@ A little over 18 per cent of the country’s total value of goods and services p
 
 When you read or hear the word ‘farmer’, what do you visualise? Many people imagine a man. However, in rural areas of India, more than 75 per cent of people working in the agriculture sector are women (2025). They perform most of the farming operations, from sowing to harvesting and threshing.
 
-> [caption] Gy) Threshing:
+> [caption] Threshing:
 
-> [caption] Removing the edible grain from the straw or husk, manually or using a
+> [caption] Removing the edible grain from the straw or husk, manually or using a machine
 
 <!-- page 3 (pdf 3) -->
 
@@ -83,6 +83,8 @@ Over time, farmers learned to cultivate oilseeds (such as sesame, safflower, lin
 The Vedas also mention yava (barley), godhūma (wheat) and vrīhi (rice) as well as other crops such as sesame, black gram, and various types of pulses and legumes.
 
 > [caption] Fig. 1.2. (Top) Intercropping at the Harappan site of Kalibangan (Rajasthan) around 2800 BCE, as evidenced by perpendicular furrows.
+
+> [caption] (Bottom) The same practice continuing in the 1960s, around 4800 years later!
 
 > [caption] Intercropping:
 
@@ -158,13 +160,7 @@ Farmers have been following this rhythm for centuries. A wide variety of agricul
 
 > [caption] cool, less water
 
-> [caption] RABI sowing growing harvesting hot, heavy rainfall
-
-> [table] KHARIF growing y VV Y B ig WW
-
-> [caption] sowing harvesting summer season
-
-> [caption] ZAID harvesting O he sowing
+> [caption] RABI sowing growing harvesting hot, heavy rainfall KHARIF growing sowing harvesting summer season ZAID harvesting sowing
 
 > [table] rabi season (winter crops)
 
@@ -192,6 +188,8 @@ Prepare a list of the crops that are cultivated in your state or union territory
 
 > [caption] (in the foreground) and wheat a kharif crop
 
+> [caption] (in the background)
+
 <!-- page 10 (pdf 10) -->
 
 ### DON’T MISS OUT
@@ -206,7 +204,7 @@ Soil is the thin, upper layer of the Earth’s crust that supports plant life. I
 
 > [caption] Mineral fragments
 
-> [caption] Organic matter Organic matter and organic matter Humus Top Soil Top Soil Parent material Disintegrating rock Bedrock Fig. 1.8. A simplified diagram of soil formation, a process that ranges from Humus: Humus is the dark organic matter in soil that is formed by the decomposition of plant and animal matter.
+> [caption] Organic matter Organic matter and organic matter Humus Top Soil Top Soil Parent material Disintegrating rock Bedrock Organic materials facilitate disintegration Bedrock begins to Developed soil supports thick vegetation Layers formed disintegrate Fig. 1.8. A simplified diagram of soil formation, a process that ranges from a century to several millennia Humus: Humus is the dark organic matter in soil that is formed by the decomposition of plant and animal matter.
 
 > [caption] It is rich in nutrients and retains moisture in the soil. Humus is the Latin word for ‘earth’ or ‘soil’.
 
@@ -254,7 +252,7 @@ Create a family food flowchart that connects your favourite dishes to the differ
 
 > [caption] they are red because they have a chemical called iron; when iron holds a lot of moisture and Most minerals get washed away leaving brought by rivers from the mountains is very fertile largely iron and aluminium, react with air and water and give reacts with air and water it becomes reddish in colour; not and plateaus;
 
-> [caption] rich in nutrients reddish colour; not very fertile fertile Fig. 1.9. A simplified map of the major soil types of India and their
+> [caption] rich in nutrients reddish colour; not very fertile fertile Fig. 1.9. A simplified map of the major soil types of India and their formation. Most regions will have local variations.
 
 <!-- page 13 (pdf 13) -->
 
@@ -267,6 +265,8 @@ Create a family food flowchart that connects your favourite dishes to the differ
 > [caption] *These crops are not here on the ideal soil for their cultivation, but can be grown with efficient irrigation.
 
 > [caption] Fig. 1.10. Some examples of crops grown in the different soil-type areas
+
+> [caption] (You need not remember all these details)
 
 <!-- page 14 (pdf 14) -->
 

@@ -2,6 +2,9 @@
 book: "our-pasts-2"
 edition: "2019-05-04"
 source_pdf: "pdfs/our-pasts-2/2019-05-04/prelims.pdf"
+overrides:
+  - "Keywords box on the 'In this book' page (xiii) ends 'in the lesson.', the closing line below the purple note was read into it"
+  - "closing line of the 'In this book' page (xiii) sits below the purple note, put back after it"
 ---
 
 <!-- page 20 (pdf 1) -->
@@ -22,9 +25,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/prelims.pdf"
 
 ## for Class VII
 
-cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
-
-> [caption] Raq
+> [table] NATIONAL COUNCIL L OF EDUCATIONAL RESEARCH AND T TRAIN
 
 <!-- page 20 (pdf 4) -->
 
@@ -58,7 +59,7 @@ cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] Publication Team
 
-> [caption] ` 60.00
+> [caption] ₹ 60.00
 
 > [caption] Head, Publication: M. Siraj Anwar Division Chief Editor: Shveta Uppal Chief Business: Gautam Ganguly Manager Chief Production: Arun Chitkara Officer Assistant Editor: Shashi Chadha Production Assistant: Prakash Veer Singh Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Pelican Press, C-118, Mayapuri Industrial Area, Phase II, New Delhi - 110 064
 
@@ -88,7 +89,7 @@ Research and Training New Delhi 20 November 2006
 
 <!-- page 20 (pdf 7) -->
 
-TEXTBOOK DEVELOPMENT COMMITTEE
+### TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -112,9 +113,11 @@ TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] MEMBER-COORDINATOR
 
+> [table] Reetu Singh, Lecturer, DESS, NCERT, New Delhi
+
 <!-- page 20 (pdf 8) -->
 
-ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
 
 This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
@@ -124,7 +127,7 @@ Shyama Warner’s copyediting and proof reading skills improved the book dramati
 
 <!-- page 20 (pdf 9) -->
 
-PHOTO AND MAP CREDITS
+### PHOTO AND MAP CREDITS
 
 We would like to acknowledge the following:
 
@@ -156,7 +159,7 @@ Ch. 5, figs. 6, 9, 10, 11, 13, 14); Koch, Ebba. Mughal Architecture, (Ch. 5, fig
 
 <!-- page 20 (pdf 10) -->
 
-Kothari, Sunil. Kathak: Indian Classical Dance Art
+### Kothari, Sunil. Kathak: Indian Classical Dance Art
 
 (Ch. 9, fig. 6); Lafont, Jean-Marie. Maharaja Ranjit Singh: Lord of the Five Rivers, (Ch. 10, figs. 6, 7); Masselos, Jim, Jackie Menzies, Pratapaditya Pal.
 
@@ -194,39 +197,39 @@ Asher, Catherine and Cynthia Talbot. India Before Europe,
 
 Foreword v In this book xii
 
-1. Tracing Changes Through A Thousand Years 1
+### 1. Tracing Changes Through A Thousand Years 1
 
-2. New Kings And Kingdoms 16
+### 2. New Kings And Kingdoms 16
 
-3. The Delhi Sultans 30
+### 3. The Delhi Sultans 30
 
-4. The Mughal Empire 45
+### 4. The Mughal Empire 45
 
-5. Rulers And Buildings 60
+### 5. Rulers And Buildings 60
 
-6. Towns, Traders And Craftspersons 75
+### 6. Towns, Traders And Craftspersons 75
 
-7. Tribes, Nomads And Settled Communities 91
+### 7. Tribes, Nomads And Settled Communities 91
 
-8. Devotional Paths To The Divine 104
+### 8. Devotional Paths To The Divine 104
 
-9. The Making Of Regional Cultures 122
+### 9. The Making Of Regional Cultures 122
 
-10. Eighteenth-Century Political Formations 138
+### 10. Eighteenth-Century Political Formations 138
 
 <!-- page 20 (pdf 12) -->
 
-## I N T H I S B O O K
+## IN THIS BOOK
 
 Each chapter is divided into sections. Read, discuss and understand each section before proceeding to the next. Look out for the following in each Chapter.
 
-Additional Information
+### Additional Information
 
 Definition Box Some chapters contain definitions.
 
 Many chapters contain boxes with interesting, additional information.
 
-## Source Box 
+## Source Box
 
 Many chapters contain a portion from a source, clues from which historians write history. Read these carefully, and discuss the questions they contain.
 
@@ -240,11 +243,11 @@ You will also find maps. Look at these and try to locate the places mentioned in
 
 All chapters end with a section titled Elsewhere. This tells you about something that was happening in another part of the world.
 
-### Imagine 
+### Imagine
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 
-KEYWORDS
+### Keywords
 
 At the end of each chapter, you will find a list of keywords. These are to remind you of important ideas/ themes introduced in the lesson.
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch01.pdf"
 source_sha256: "bd9d060950e96d4f6cfc9dc29abffb38706100dd506c854e630e12824043ffbd"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "7b963755e87939f2d8bb815ac27cd9b41ab603ce7ac9c62fdc34f4fdc2b60f8d"
+body_fingerprint: "63f6db816c1974dd769e3a480109d94fc95871feb7e10fc28b90d39bdc160b92"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -224,7 +224,9 @@ treated and which came to be known as the Civil Rights Movement. The Civil Right
 
 <!-- page 14 (pdf 13) -->
 
-Excerpt from Article 15 of the Indian Constitution Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+Excerpt from Article 15 of the Indian Constitution Challenge of democracy No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
+
+Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
 
 (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
 
@@ -236,17 +238,11 @@ or
 
 (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
 
-Challenge of democracy
-
-No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
-
 <!-- page 15 (pdf 14) -->
 
 <!-- section: exercises -->
 
 EXERCISES
-
-> [note] to that of the Ansaris?
 
 <!-- section: glossary -->
 
@@ -256,7 +252,7 @@ Glossary
 
 > [note] 2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?
 
-> [note] 3. In what ways was Omprakash Valmiki’s experience similar
+> [note] 3. In what ways was Omprakash Valmiki’s experience similar to that of the Ansaris?
 
 > [note] 4. What do you understand by the term “all persons are equal before the law”? Why do you think it is important in a democracy?
 

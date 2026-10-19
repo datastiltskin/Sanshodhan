@@ -2,6 +2,8 @@
 book: "social-political-life-3"
 edition: "2016-09-10"
 source_pdf: "pdfs/social-political-life-3/2016-09-10/prelims.pdf"
+overrides:
+  - "The credits box and the reprint list are separate blocks on the second page of the prelims"
 ---
 
 <!-- pdf page 1 -->
@@ -12,25 +14,17 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/prelims.pdf"
 
 ## Textbook for Class VIII
 
-> [caption] fam sqTuen sir ust sta 21fer F8tator OF EDUCATIONAL RESEARCH AND TRAI NATIONAL COUNCI Rae
+> [caption] TRuE IL OF EDUCATIONAL RESEARCH AND TRAIN NATIONAL COUNCIL
 
 <!-- pdf page 2 -->
 
 > [caption] First Edition March 2008 Phalguna 1929
 
-> [caption] Reprinted January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936
-
 > [table] PD 480T MJ
 
-> [caption] © National Council of Educational Research and Training, 2008
-
-> [table] ` 50.00
+> [table] ₹ 50.00
 
 > [caption] Cover Photo Sheeba Chachi
-
-> [caption] Printed on 80 GSM paper with NCERT watermark
-
-Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nutan Printers, F-89/12, Okhla Industrial Area Phase-I, New Delhi 110020
 
 > [table] ISBN 978-81-7450-825-6
 
@@ -61,6 +55,12 @@ Published at the Publication Division by the Secretary, National Council of Educ
 > [table] Production Assistant: Sunil Kumar
 
 > [caption] Cover and Layout Storyboards CMAC Dipankar Bhattacharya
+
+> [caption] Reprinted January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936
+
+> [caption] © National Council of Educational Research and Training, 2008
+
+> [caption] Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nutan Printers, F-89/12, Okhla Industrial Area Phase-I, New Delhi 110020
 
 <!-- pdf page 3 -->
 

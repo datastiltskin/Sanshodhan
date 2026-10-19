@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch10.pdf"
 source_sha256: "dd70b4b26ac6ef5c89a616914222afb56028175dc8d0858d2360e172ba468b7a"
 pdf_pages: 15
 printed_pages: "120-134"
-body_fingerprint: "9e89759f1e9307a7f36ff9de5e10a0a02b3102650b5eeac3b295996455013702"
+body_fingerprint: "805c445e2c49bb30d64856bc91ea3df2c87ad62213a6bd617ecb42fd3a917c0a"
 ---
 
 <!-- page 120 (pdf 1) -->
@@ -76,7 +76,7 @@ How are these laws played out in practice? To what extent do they address the co
 
 <!-- page 124 (pdf 5) -->
 
-## Bhopal Gas T Bhopal Gas Tragedy ragedy
+## Bhopal Gas Tragedy
 
 The world’s worst industrial tragedy took place in Bhopal 24 years ago. Union Carbide (UC) an American company had a factory in the city in which it produced pesticides. At midnight on 2 December 1984 methyl-isocyanite (MIC) - a highly poisonous gas - started leaking from this UC plant....
 
@@ -90,6 +90,8 @@ Remembers Aziza Sultan, a survivor: “At about 12.30 am I woke to the sound of 
 
 Most of those exposed to the poison gas came from poor, working-class families, of which nearly 50,000 people are today too sick to work. Among those who survived, many developed severe respiratory disorders, eye problems and other disorders. Children developed peculiar abnormalities, like the girl in the photo.
 
+> [caption] A child severely affected by the gas
+
 <!-- page 125 (pdf 6) -->
 
 The disaster was not an accident. UC had deliberately ignored the essential safety measures in order to cut costs. Much before the Bhopal disaster, there had been incidents of gas leak killing a worker and injuring several.
@@ -97,6 +99,8 @@ The disaster was not an accident. UC had deliberately ignored the essential safe
 > [caption] Gas victims with the Gas Relief Minister
 
 UC stopped its operations, but left behind tons of toxic chemicals. These have seeped into the ground, contaminating water. Dow Chemical, the company who now owns the plant, refuses to take responsibility for clean up.
+
+> [caption] The struggle for justice goes on…
 
 > [caption] Members of UC Employees Union protesting
 

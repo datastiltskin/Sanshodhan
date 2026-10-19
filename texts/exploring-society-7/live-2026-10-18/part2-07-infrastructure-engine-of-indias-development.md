@@ -11,7 +11,11 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf"
 source_sha256: "9eb6c456f5f0fab9fbdcc84d3c433126e118d0568b6e3bb64339b90a3a93d303"
 pdf_pages: 24
 printed_pages: "169-192"
-body_fingerprint: "bf6b64e36b577e935d19cb466d34594dcfd64ef6d72c46e740b60de8badd4e07"
+body_fingerprint: "fcbb6c6a6947dfec4170e501a763be5ac179ac5bdd4adb19acec574a7c0b97d2"
+overrides:
+  - "part 2 chapter 7, page 179: stray L from the track drawing"
+  - "part 2 chapter 7, page 185: caption and margin note were fused"
+  - "part 2 chapter 7, page 186: margin note and caption were interleaved and the last word of the note was lost"
 ---
 
 <!-- page 169 (pdf 1) -->
@@ -75,6 +79,8 @@ He was seated right next to Satish, a hardworking tomato farmer from Maharashtra
 It was possible because canals and electric water pumps helped irrigation, good roads helped trucks carry his tomatoes to the city, cold storage kept them fresh, and the internet helped him know about the best inputs and market prices. They both wondered how important is the physical infrastructure which is connected like pieces of a puzzle, helping safe and timely travel of people and goods.
 
 Finally, Rishabh got off at the bus stand, boarded an autorickshaw that dropped him at his door.
+
+> [caption] Fig. 7.3. Rishabh's journey
 
 <!-- page 173 (pdf 5) -->
 
@@ -146,6 +152,8 @@ As the railway network expanded, trade grew, major markets developed, and new se
 
 Indian Railways is also the largest employer with about 1.21 million employees in 2024, including engineers, ticket collectors, and service staff. Additionally, it also creates many indirect jobs like catering, vending, and taxi services.
 
+> [caption] Fig. 7.9. Food vending at a railway station
+
 <!-- page 178 (pdf 10) -->
 
 From 1853 to now, Indian railways have come a long way!
@@ -156,7 +164,7 @@ Today, Indian Railways is the fourth-largest railway system in the world.
 
 <!-- page 179 (pdf 11) -->
 
-y lo et
+y x
 
 > [caption] USA
 
@@ -172,7 +180,7 @@ y lo et
 
 > [table] 69,181
 
-> [caption] had fad Ee 0 50000 100000 150000 200000 250000 300000
+> [caption] 0 50000 100000 150000 200000 250000 300000
 
 > [caption] Canada
 
@@ -191,8 +199,6 @@ y lo et
 > [caption] Fig. 7.12. Timeline of development of trains in India
 
 > [table] 293,564
-
-) VJ PT) ) pp x
 
 <!-- page 180 (pdf 12) -->
 
@@ -384,6 +390,8 @@ India's approximately 11,100 km of coastline is connected to regions like West A
 
 > [caption] Fig. 7.21. Major container ports in the world by volume of trade (TEU) in 2024* TEU stands for Twenty-foot Equivalent Units and measures the capacity of container ships and port activity. Generally, 1 TEU =33 cubic metres.
 
+> [caption] *These numbers need not be memorised by the students.
+
 <!-- page 184 (pdf 16) -->
 
 > [caption] N
@@ -508,6 +516,8 @@ Through the advancements in communication, students can access online classes, d
 
 > [caption] in Germany
 
+> [caption] Fig. 7.23. Timeline of development of communication systems
+
 > [caption] E-governance: Use of communication technologies by government to deliver services to citizens. For example, the DigiLocker app to store documents like Aadhaar card and driving license online.
 
 > [caption] E-commerce: Buying or selling products and services which are conducted on online platforms or over the internet.
@@ -542,7 +552,9 @@ J.C. Bose — The man who invented wireless transmission Jagadish Chandra Bose (
 
 > [caption] Patent:
 
-> [caption] A Right granted by the government or institutions Fig. 7.24. J. C. Bose to be the only person or company who can make, sell, or use the invention for a certain
+> [caption] A Right granted by the government or institutions to be the only person or company who can make, sell, or use the invention for a certain number of years.
+
+> [caption] Fig. 7.24. J. C. Bose
 
 <!-- page 187 (pdf 19) -->
 
@@ -559,6 +571,8 @@ Ask your family or people in the neighbourhood how they sent long-distance messa
 > [table] 1990–2000s 1960s 1880s
 
 > [table] 1980s 2010s 1940s
+
+> [caption] Fig. 7.25. Evolution of the telephone
 
 <!-- page 188 (pdf 20) -->
 
@@ -578,7 +592,7 @@ We also need to improve Panchayat and municipal administrative services for wast
 
 > [caption] Fig. 7.29. Designing elderly friendly transport systems for smooth mobility Fig. 7.28. Using alarm systems when animals cross railway tracks
 
-Infrastructure in the Arthaśhāstra
+### Infrastructure in the Arthaśhāstra
 
 According to Kautilya’s Arthaśhāstra, the state, grāma, and sabhās were actively involved in the development and maintenance of roads and waterways. For instance, the text mentions detailed regulations for the construction of roads, where the janapadas were to have roads of different widths based on the nature of traffic that connected towns, villages, and neighbouring countries. For example, royal highways, roads in the countryside, port towns, and roads leading to villages should be 16 m wide. Forest roads and roads within the city should be 8 m; chariot roads should be 2.5 m in width, and so on (measurements simplified to the current metric system).
 

@@ -11,7 +11,13 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf"
 source_sha256: "324ece32b4c7beb55c679d18df111309d7fad68aac178f9d66d49ada091b3b86"
 pdf_pages: 26
 printed_pages: "1-26"
-body_fingerprint: "31cba774b3ec634d8f863ccb07dc9dab35a2efe6741cef741eb6f6d2da2434b5"
+body_fingerprint: "4f15e1f54b0f5634a588625f6cc0f61a9c78eead6dd5e828d2c1f18970ae9205"
+overrides:
+  - "part 1 chapter 1, page 6: the Fig. 1.6 caption is one two-line caption"
+  - "part 1 chapter 1, page 10: four captions of the photo grid, each under its own photo"
+  - "part 1 chapter 1, page 11: three captions interleaved by line"
+  - "part 1 chapter 1, page 13: the Fig. 1.23 caption wrapped in a narrow column into four blocks"
+  - "part 1 chapter 1, page 18: five captions each under its own photo"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -62,7 +68,7 @@ Let us now journey together from the Himalayas to the islands in the Indian Ocea
 
 Look at the length of the Himalayan Range on the map. It is like a massive wall. From the legend, can you guess the altitude at different points of the Himalayas?
 
-> [caption] Fig. 1.2. These are satellite images of the Himalayan range. Note that the
+> [caption] Fig. 1.2. These are satellite images of the Himalayan range. Note that the length of the range is about 2500 km.
 
 <!-- page 4 (pdf 4) -->
 
@@ -108,21 +114,29 @@ Can you locate the names of the states in the different parts of the Himalayas? 
 
 The traditional house construction method in the western Himalayan region is known as ‘kath-kuni’ or ‘dhajji-dewari’ style of houses. A combination of locally available stone and wood is used, which not only keeps the house warm but also resists damage in the event of mild earthquakes.
 
-> [caption] Fig. 1.6. Kath-kuni House,
+> [caption] Fig. 1.6. Kath-kuni House, Himachal Pradesh
 
 <!-- page 7 (pdf 7) -->
 
 ### DON’T MISS OUT
 
-The Great Himalayan National Park in Himachal Pradesh has a wide diversity of flora and fauna. The park has been declared 1 2 4 5 6 a World Heritage Site by UNESCO. The biodiversity of the park is being preserved by the government as well as the village communities that live inside the park.
+The Great Himalayan National Park in Himachal Pradesh has a wide diversity of flora and fauna. The park has been declared a World Heritage Site by UNESCO. The biodiversity of the park is being preserved by the government as well as the village communities that live inside the park.
+
+1
+
+2
 
 > [note] 3
 
+4 5
+
 > [note] 7
+
+6
 
 > [caption] Fig. 1.7. 1.Great Himalayan National Park Conservation Area. 2. Himalayan monal
 
-> [caption] (male). 3. A monastery in Ladakh. 4. The Beas river in Himachal Pradesh. 5. Snow Leopard 6. A display of produce in a local market in the Himalayas. 7. Rhododendron — a
+> [caption] (male). 3. A monastery in Ladakh. 4. The Beas river in Himachal Pradesh. 5. Snow Leopard 6. A display of produce in a local market in the Himalayas. 7. Rhododendron — a type of sherbet is made out of this flower.
 
 <!-- page 8 (pdf 8) -->
 
@@ -148,11 +162,17 @@ As we move southwards from the Himalayas, we reach the vast and fertile Gangetic
 
 <!-- page 10 (pdf 10) -->
 
-> [caption] Fig. 1.11. Modern agricultural practices
+> [caption] Fig. 1.11. Modern agricultural practices in the plains
 
-> [caption] Fig. 1.12. Aerial view of Delhi with the in the plains river Yamuna on top right Fig. 1.13. Multi-cropping in Uttar Pradesh Fig. 1.14. Rural women working in a paddy field in West Bengal
+> [caption] Fig. 1.12. Aerial view of Delhi with the river Yamuna on top right
+
+> [caption] Fig. 1.13. Multi-cropping in Uttar Pradesh
+
+> [caption] Fig. 1.14. Rural women working in a paddy field in West Bengal
 
 The flat land of the Northern Plains has allowed for the development of an elaborate transportation network. Road and railway networks facilitate the movement of people and goods over long distances. As you will see in the Tapestry of the Past chapters, the Ganga, the Brahmaputra and other rivers have been used for millennia for travel and trade.
+
+> [caption] Fig. 1.15. Modes of transport in the Gangetic plains
 
 <!-- page 11 (pdf 11) -->
 
@@ -164,7 +184,11 @@ Most rivers are named after goddesses — Ganga, Yamuna, Kaveri, etc. The na
 
 Notice the concentration of lighting in the plains. What could be the reason for this concentration?
 
-> [caption] Fig. 1.16. Satellite image of the Gangetic plains Fig. 1.17. The Northern plains grey langur Fig. 1.18. The majestic tiger that was on the verge of extinction. Project Tiger has sits on a wooden beam in Bandhavgarh
+> [caption] Fig. 1.16. Satellite image of the Gangetic plains
+
+> [caption] Fig. 1.17. The Northern plains grey langur sits on a wooden beam in Bandhavgarh National Park, Madhya Pradesh
+
+> [caption] Fig. 1.18. The majestic tiger that was on the verge of extinction. Project Tiger has supported the return of the tiger to its habitats.
 
 <!-- page 12 (pdf 12) -->
 
@@ -192,11 +216,7 @@ The Thar is a vast arid region. Most of it lies within India, spanning the state
 
 People living in the Thar have adapted their way of life to the place and what it offers; food habits, clothing and lifestyle are suited to these harsh conditions.
 
-> [caption] Fig. 1.23.
-
-> [caption] Camel vendor at the Pushkar
-
-> [caption] Mela (at the edge of
+> [caption] Fig. 1.23. Camel vendor at the Pushkar Mela (at the edge of the Thar Desert)
 
 <!-- page 14 (pdf 14) -->
 
@@ -230,7 +250,7 @@ The Aravallis play a vital role in shaping the geography and climate of northwes
 
 The Aravallis, rich in minerals like marble, granite, zinc, and copper, have supported mining and construction activities for centuries. In fact, evidence from its ancient mines at Zawar has shown that over eight centuries ago, Indians were the first in the world to master the delicate process of extraction of zinc. Historic forts, such as Chittorgarh, Kumbhalgarh, and Ranthambore, are located here.
 
-> [caption] Fig. 1.26. Kumbhalgarh Fort surrounded by the Aravallis; this location in the hills
+> [caption] Fig. 1.26. Kumbhalgarh Fort surrounded by the Aravallis; this location in the hills proved to be an excellent deterrent to the enemy.
 
 <!-- page 16 (pdf 16) -->
 
@@ -276,11 +296,15 @@ Plateaus are home to many beautiful waterfalls in India, as rivers flow over the
 
 <!-- page 18 (pdf 18) -->
 
-> [caption] Fig. 1.28. Powerhouse Waterfalls at Periyakanal, near Munnar, Kerala Fig. 1.29. Lion-tailed macaque Fig. 1.30. King cobra of the in the Western Ghats Western Ghats Fig. 1.31. This is an insectivorous plant, meaning it feeds on insects, found in the Western Ghats. It catches Fig. 1.32. Coal mines in the plateau; an important resource, especially in the production of electricity.
+> [caption] Fig. 1.28. Powerhouse Waterfalls at Periyakanal, near Munnar, Kerala
 
-> [caption] small insects in sticky traps and digests them!
+> [caption] Fig. 1.29. Lion-tailed macaque in the Western Ghats
 
-> [caption] Coal is a fossil fuel, the use of which contributes
+> [caption] Fig. 1.30. King cobra of the Western Ghats
+
+> [caption] Fig. 1.31. This is an insectivorous plant, meaning it feeds on insects, found in the Western Ghats. It catches small insects in sticky traps and digests them!
+
+> [caption] Fig. 1.32. Coal mines in the plateau; an important resource, especially in the production of electricity. Coal is a fossil fuel, the use of which contributes to global warming.
 
 <!-- page 19 (pdf 19) -->
 
@@ -409,5 +433,3 @@ These geographical features have played an important role in shaping our civilis
 9. Despite having such different regions (mountains, deserts, plains, coasts), India remains one country. How do you think our geography has helped unite people?
 
 <!-- page 26 (pdf 26) -->
-
-> [caption] XN aN yN

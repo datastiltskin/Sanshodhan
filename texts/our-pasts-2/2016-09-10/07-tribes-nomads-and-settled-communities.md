@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch07.pdf"
 source_sha256: "fb53b0a446c17e269953d0a89978af47ff32672bea79ca0721d5a5af6343c1a5"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "9c8296bbbd98a897ea808bdb50e9dadea3e4b20d002eabe437f11fbe8e54cc82"
+body_fingerprint: "277c6dd2d184d7e21dc767448a11711f8a8aec44f0165f626b86aa741f5d40c9"
 ---
 
 <!-- page 91 (pdf 1) -->
@@ -51,7 +51,7 @@ In many areas of present-day Bihar and Jharkhand, Chero chiefdoms had emerged by
 
 > [caption] Map 1 Location of some of the major Indian tribes.
 
-> [note] Clan A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
+Clan A clan is a group of families or households claiming descent from a common ancestor. Tribal organisation is often based on kinship or clan loyalties.
 
 <!-- page 94 (pdf 4) -->
 
@@ -73,7 +73,7 @@ They bought and sold these goods as they moved from one place to another, transp
 
 The Banjaras were the most important trader-nomads. Their caravan was called tanda. Sultan Alauddin Khalji (Chapter 3) used the Banjaras to transport grain to the city markets. Emperor Jahangir wrote in his memoirs that the Banjaras carried grain on their bullocks from different areas and sold it in towns. They transported food grain for the Mughal army during military campaigns. With a large army there could be 100,000 bullocks carrying grain.
 
-The Banjaras
+### The Banjaras
 
 > [note] Peter Mundy, an English trader who came to India during the early seventeenth century, has described the Banjaras:
 
@@ -81,7 +81,7 @@ In the morning we met a tanda of Banjaras with14,000 oxen. They were all laden w
 
 > [note] Find out how grain is transported from villages to cities at present. In what ways is this similar to or different from the ways in which the Banjaras functioned?
 
-> [note] Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations. Both nomads and itinerant groups often visit the same places every year.
+Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their flocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel from place to place practising their different occupations. Both nomads and itinerant groups often visit the same places every year.
 
 <!-- page 96 (pdf 6) -->
 
@@ -93,7 +93,7 @@ Different castes of petty pedlars also travelled from village to village. They m
 
 As the economy and the needs of society grew, people with new skills were required. Smaller castes, or jatis, emerged within varnas. For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of jatis. Specialised artisans – smiths, carpenters and masons – were also recognised as separate jatis by the Brahmanas. Jatis, rather than varna, became the basis for organising society.
 
-Deliberations on jati
+### Deliberations on jati
 
 > [note] A twelfth-century inscription from Uyyakondan Udaiyar, in Tiruchirapalli taluka (in present-day Tamil Nadu), describes the deliberations in a sabha (Chapter 2) of Brahmanas.
 
@@ -111,7 +111,7 @@ The emergence of states is closely related to social change amongst tribal peopl
 
 ## A Closer Look
 
-The Gonds
+### The Gonds
 
 The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”. They practised shifting cultivation. The large Gond tribe was further divided into many smaller clans. Each clan had its own raja or rai. About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs. The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.
 
@@ -119,7 +119,7 @@ The administrative system of these kingdoms was becoming centralised. The kingdo
 
 > [caption] Fig. 5 A Gond woman.
 
-> [note] Shifting cultivation Trees and bushes in a forest area are first cut and burnt. The crop is sown in the ashes. When this land loses its fertility, another plot of land is cleared and planted in the same way.
+Shifting cultivation Trees and bushes in a forest area are first cut and burnt. The crop is sown in the ashes. When this land loses its fertility, another plot of land is cleared and planted in the same way.
 
 <!-- page 98 (pdf 8) -->
 
@@ -135,7 +135,7 @@ Dalpat, however, died early. Rani Durgawati was very capable, and started ruling
 
 Garha Katanga was a rich state. It earned much wealth by trapping and exporting wild elephants to other kingdoms. When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants. They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain. Despite the fall of Garha Katanga, the Gond kingdoms survived for some time. However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.
 
-The Ahoms
+### The Ahoms
 
 The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high-quality gunpowder and cannons.
 
@@ -171,7 +171,7 @@ The Mongols
 
 > [note] Find Mongolia in your atlas. The best-known pastoral and hunter-gatherer tribe in history were the Mongols. They inhabited the grasslands (steppes) of Central Asia and the forested areas further north. By 1206 Genghis Khan had united the Mongol and Turkish tribes into a powerful military force. At the time of his death (1227) he was the ruler of extensive territories. His successors created a vast empire. At different points of time, it included parts of Russia, Eastern Europe and also China and much of West Asia. The Mongols had well-organised military and administrative systems. These were based on the support of different ethnic and religious groups.
 
-Imagine
+### Imagine
 
 You are a member of a nomadic community that shifts residence every three months. How would this change your life?
 
@@ -181,7 +181,17 @@ You are a member of a nomadic community that shifts residence every three months
 
 1. Match the following:
 
-garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state Durgawati paik KEYWORDS varna jati tanda garh chaurasi barhot bhuiyans paik khel buranji census
+garh khel
+
+tanda chaurasi
+
+labourer caravan
+
+clan Garha Katanga
+
+Sib Singh Ahom state
+
+Durgawati paik
 
 <!-- page 102 (pdf 12) -->
 
@@ -213,9 +223,37 @@ garh khel tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom stat
 
 6. What changes took place in varna-based society?
 
+<!-- section: glossary -->
+
+### Keywords
+
+- varna
+
+- jati
+
+- tanda
+
+- garh
+
+- chaurasi
+
+- barhot
+
+- bhuiyans
+
+- paik
+
+- khel
+
+- buranji
+
+- census
+
 <!-- page 103 (pdf 13) -->
 
 7. How did tribal societies change after being organised into a state?
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

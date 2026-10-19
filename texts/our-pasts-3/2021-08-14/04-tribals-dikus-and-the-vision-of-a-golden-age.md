@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch04.pdf"
 source_sha256: "b9c38cb3268123bbc2374ba8236421618e7648dbc84b2127c595233e87625f01"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "5f429b6cea2c2888120e63a9d4c24adc24c351932e7ab9b20ae33b27e091b542"
+body_fingerprint: "440e4c9ac3334a515052ede33b39b0fcb674e6361f0ecb7db7a76a723d13173b"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -59,8 +59,6 @@ Many tribal groups lived by herding and rearing animals. They were pastoralists 
 
 <!-- page 42 (pdf 4) -->
 
-> [caption] Source 1
-
 ## A time to hunt, a time to sow, a time to move to a new field
 
 Have you ever noticed that people living in different types of societies do not share the same notion of work and time? The lives of the shifting cultivators and hunters in different regions were regulated by a calendar and division of tasks for men and women.
@@ -77,7 +75,9 @@ Activity Look carefully at the tasks that Baiga men and women did. Do you see an
 
 > [caption] Fig. 4 – A Santhal girl carrying firewood, Bihar, 1946
 
-> [table] Children go with their mothers to the forest to gather forest produce.
+> [caption] Children go with their mothers to the forest to gather forest produce.
+
+> [caption] Source 1
 
 <!-- page 43 (pdf 5) -->
 
@@ -101,7 +101,7 @@ The British were uncomfortable with groups who moved about and did not have a fi
 
 > [caption] Fig. 5 – A log house being built in a village of the Nishi tribes of Arunachal Pradesh.
 
-> [table] The entire village helps when log huts are built.
+> [caption] The entire village helps when log huts are built.
 
 <!-- page 44 (pdf 6) -->
 
@@ -161,7 +161,7 @@ Through the nineteenth and twentieth centuries, tribal groups in different parts
 
 > [caption] Fig. 10 – Coal miners of Bihar, 1948
 
-In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
+> [caption] In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
 
 Activity Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
 
@@ -219,9 +219,9 @@ In 1900 Birsa died of cholera and the movement faded out. However, the movement 
 
 (d) Tribals went to work in the ____________ of Assam and the ____________ in Bihar.
 
-> [note] ELSEWHERE
+### ELSEWHERE
 
-> [note] Why do we need cash!
+### Why do we need cash!
 
 > [caption] There are many reasons why tribal and other social groups often do not wish to produce for the market. This tribal song from Papua New Guinea gives us a glimpse of how the tribals there viewed the market.
 

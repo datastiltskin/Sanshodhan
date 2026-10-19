@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch02.pdf"
 source_sha256: "9560000e3600c662612a493e7c8562e828ed9b7586dc58f6f768e5f4e3ee0cfa"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "8134d6ccec17e923cd8a2322fd66af72b8a964b931d542799e4753024a6670ab"
+body_fingerprint: "4cd6277e8258d5fa5384cbd47bbe42e13d796fed2be776d5f133e62f4312245b"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -79,7 +79,7 @@ However, the second column points out how poor the health situation in our count
 
 Patients usually have to wait in long queues in public hospitals, like this one.
 
-The story of Hakim Sheik
+### The story of Hakim Sheik
 
 Hakim Sheik was a member of the Paschim Banga Khet Mazdoor Samity (PBKMS), an organisation of agricultural labourers in West Bengal. One evening in 1992, he accidentally fell off a running train and suffered head injuries. He was in a very serious condition and needed immediate treatment.
 
@@ -115,6 +115,8 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] worry, it’s tasty
 
+> [table] Thank you Doctor...I feel better already!
+
 <!-- page 23 (pdf 8) -->
 
 > [table] You see, I’ve been dying to tell you all about it! But what about you? Which hospital did you go to?
@@ -134,6 +136,10 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 > [table] – quickly please!
 
 > [table] My hospital was nice, but they gave me too many medicines and the whole thing cost more than Rs 3,500!
+
+> [table] That much! My treatment cost just
+
+> [table] Rs 150!
 
 <!-- page 24 (pdf 9) -->
 

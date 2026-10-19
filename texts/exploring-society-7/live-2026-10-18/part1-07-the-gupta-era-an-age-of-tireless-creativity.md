@@ -11,7 +11,10 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf"
 source_sha256: "e6f9b0341a8d44a54b5dc123b888d147f979c15375bedff9bc68c724b8e9e36f"
 pdf_pages: 22
 printed_pages: "145-166"
-body_fingerprint: "fede5035fb5b5f47fb734d39ceb6f7ea83853f7045e40150e966a741729db1e9"
+body_fingerprint: "c630b2b3c1309fbdfb0408ef96a34b0a376d24deb9f0ef55a78ab563c1c795a6"
+overrides:
+  - "part 1 chapter 7, page 146: the map label Kāmarūpa Kingdom sits between two lines of the Gupta call-out"
+  - "part 1 chapter 7, page 152: axis ticks glued to the front of the caption"
 ---
 
 <!-- page 145 (pdf 1) -->
@@ -38,13 +41,25 @@ The Big
 
 <!-- page 146 (pdf 2) -->
 
+> [caption] 80E
+
+> [caption] 80E
+
 > [caption] Fig. 7.2. Empires and kingdoms during the period from 3rd to 6th century CE.
 
-EDhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom. They had seen the splendid markets, taken a short trip on a ship, and met some Roman traders buying pearls. Now they were itching to use Itihāsa again and jump a few centuries. “What would that be like?” they wondered. “Will the cities be the same? What about the people and society — would they have changed? What kind of governance would they have? Would there be new literature, new art?” They could not wait to find out and were soon whisked away to …
+Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom. They had seen the splendid markets, taken a short trip on a ship, and met some Roman traders buying pearls. Now they were itching to use Itihāsa again and jump a few centuries. “What would that be like?” they wondered. “Will the cities be the same? What about the people and society — would they have changed? What kind of governance would they have? Would there be new literature, new art?” They could not wait to find out and were soon whisked away to …
+
+> [caption] 70E
+
+> [caption] 90E
+
+> [caption] W
+
+> [caption] E
 
 > [caption] The Kāmarūpa kingdom was an important power that ruled in parts of modern-day Assam.
 
-> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to Kāmarūpa Kingdom the 6th century CE, with its capital at Pāṭaliputra
+> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to the 6th century CE, with its capital at Pāṭaliputra
 
 > [caption] (present-day Patna).
 
@@ -55,6 +70,10 @@ EDhruv and Bhavisha had just returned from their journey to the Pānḍya kingdo
 > [caption] The Vākāṭakas ruled in the central part of the subcontinent with their capital at Nandivardhana (near present-day Nagpur).
 
 > [caption] With their capital at Kanchipuram, the Pallavas rose to power after the Sātavāhana dynasty and ruled till the latter half of the 9th century CE.
+
+> [caption] 70E
+
+> [caption] 90E
 
 <!-- page 147 (pdf 3) -->
 
@@ -148,6 +167,12 @@ Take a political map of India and locate the present-day states and Union territ
 
 <!-- page 152 (pdf 8) -->
 
+> [caption] 80E
+
+> [caption] 90E
+
+> [caption] 70E
+
 > [caption] PLATEAU OF TIBET
 
 > [caption] Brahmaputra
@@ -190,7 +215,7 @@ Take a political map of India and locate the present-day states and Union territ
 
 > [caption] Gupta Empire Important Cities
 
-> [caption] Fig. 7.8. The Gupta Empire’s extent. Note that the Vākāṭakas were the allies of the Guptas. The Guptas claim to have conquered parts of the east coast, down to the
+> [caption] Fig. 7.8. The Gupta Empire’s extent. Note that the Vākāṭakas were the allies of the Guptas. The Guptas claim to have conquered parts of the east coast, down to the Pallavas, whom they may have briefly subdued.
 
 <!-- page 153 (pdf 9) -->
 
@@ -222,7 +247,7 @@ Just as you may have perceived the excerpt from Faxian’s travelogue differentl
 
 Let us observe the map in Fig. 7.8. You will notice that many kingdoms coexisted during the same period. Some of them may have been at war with each other in their ambition to expand their control. Recall what we saw earlier about Kauṭilya’s ideas on ruling a kingdom. He advised rulers to form alliances (mitra) as one of the components of the saptānga.
 
-New kings … new titles
+### New kings … new titles
 
 Inscriptions and coins provide valuable insights into the titles adopted by Gupta rulers, such as ‘mahārājadhirāja’, ‘samrāṭ’, and ‘chakravartin’. These titles reflected their claim to supreme authority and emphasised their superiority over earlier rulers who used simpler titles like ‘rājan’ and ‘mahārāja’.
 
@@ -328,7 +353,7 @@ In the northeastern region, the Kāmarūpa kingdom, ruled by the Varman dynasty,
 
 > [caption] Fig. 7.17. The renowned Ajanta Caves were carved out during this period with the support of the Guptas and Vākāṭakas. Left: An elaborate cave replicating a temple with a central stūpa from which a seated Buddha emerges (note the arched roof imitating wooden beams). Right: A painting of Bodhisattva Padmapāṇi.
 
-> [caption] Fig. 7.18.1. to 7.18.3. Udayagiri Caves and a Gupta-era temple near Sanchi are both located in Madhya Pradesh. Arjuna and Karṇa in battle — A sculpted depiction from
+> [caption] Fig. 7.18.1. to 7.18.3. Udayagiri Caves and a Gupta-era temple near Sanchi are both located in Madhya Pradesh. Arjuna and Karṇa in battle — A sculpted depiction from the Mahābhārata
 
 <!-- page 164 (pdf 20) -->
 

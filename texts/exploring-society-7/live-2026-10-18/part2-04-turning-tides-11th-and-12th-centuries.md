@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf"
 source_sha256: "7925b556e4351fcdb4b7a8f6ee55ae1b10d09220af6c457c4a73e861ee6215dd"
 pdf_pages: 28
 printed_pages: "97-124"
-body_fingerprint: "860c5d5812a792725f773744fc00394c68e8df0c1e4b68fcdeb4c18fca8673fb"
+body_fingerprint: "bdd57e8b75764b604880b7df513a4b6a99102202bd0c1c7ef0189bdf6bf41436"
 ---
 
 <!-- page 97 (pdf 1) -->
@@ -26,9 +26,9 @@ It is the same India which has withstood the shocks of centuries, of hundreds of
 
 > [caption] (from Lakṣhmaṇa Temple, Khajuraho)
 
-1. Why are the 11th and 12th
+1. Why are the 11th and 12th centuries seen as a period of transition in Indian history?
 
-The Big centuries seen as a period of transition in Indian history?
+The Big
 
 <!-- section: exercises -->
 
@@ -308,7 +308,7 @@ In the painting Fig. 4.14, can you make out who is the king and who is the guru?
 
 Back home, the Cholas engaged in large public works, such as roads to facilitate communications, tanks, wells and canals for irrigation, and artificial lakes. But their frequent and extensive conflicts with several neighbouring kingdoms, in particular the Western Chālukyas, the Pāṇḍyas and the rulers of Sri Lanka, drained their treasury and contributed to the decline of the empire. By the 13th century, the Chola empire had shrunk considerably and was finally absorbed by the Pāṇḍyas.
 
-> [caption] Fig. 4.14. An ancient painting of Rājendra Chola with his guru (at the
+> [caption] Fig. 4.14. An ancient painting of Rājendra Chola with his guru (at the Bṛihadīśhvara temple)
 
 <!-- page 113 (pdf 17) -->
 
@@ -322,11 +322,11 @@ The Paramāras were originally vassals of the Pratihāras and the Rāṣhṭrak�
 
 After Bhoja’s death in 1055, the Paramāras gradually declined, partly because of conflicts with neighbouring powers.
 
-The scholar-king
+### The scholar-king
 
 Bhoja Paramāra should not be confused with King Bhoja of the Gurjara-Pratīhāra dynasty, whom we met in the previous chapter and who lived in the 9th century. Bhoja Paramāra was known for his efficient governance and public works. He is credited with founding of the town of Bhojpur and constructed a vast lake between Bhojpur and the city of Bhopal (whose name comes from ‘Bhojpal’ — the ‘dam’ or ‘fort of Bhoja’) by harnessing the waters of several rivers; it served both irrigation and water management purposes. Only a small portion of that lake, called ‘Bhojtal’ remains near present-day Bhopal, while remains of earthen or stone embankments can still be seen further away. A local proverb (in Hindi) remembers the lake’s original size by declaring, “If there is a lake, it is Bhopal’s lake; all others are just ponds”!
 
-> [caption] Fig. 4.15. A modern statue of King Bhoja on the bank of the
+> [caption] Fig. 4.15. A modern statue of King Bhoja on the bank of the Bhojtal Lake in Bhopal
 
 <!-- page 114 (pdf 18) -->
 
@@ -353,6 +353,10 @@ The Chaulukya dynasty, also known as the Solanki dynasty, which ruled parts of G
 Meantime, the Chāhamānas, also known as Chauhāns, were a powerful Rajput dynasty that arose in nearby Rajasthan and neighbouring regions. Its kings, apart from battling other Indian dynasties, often repelled invaders such as Mahmūd of Ghazni. In the 12th century, their conquests of Delhi, Haryana, parts of Punjab and Uttar Pradesh, apart from most of Rajasthan, established their empire, with its capital at Ajayameru (today’s Ajmer).
 
 Pṛithvīrāja III, often known today as Prithviraj Chauhan, waged many battles with neighbouring kings, such as those of Gujarat and Malwa. In 1191, he also defeated Muhammad Ghūrī at Tarain (modern-day Taraori in Haryana), but within a year, Muhammad returned with a larger army, and the two clashed again. In this Second Battle of Tarain, which witnessed fierce fighting, Muhammad defeated Pṛithvīrāja and executed him.
+
+> [caption] Fig. 4.16. A later portrait of
+
+> [caption] Pṛithvīrāja III
 
 <!-- page 116 (pdf 20) -->
 

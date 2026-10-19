@@ -4,14 +4,13 @@ book_title: "Social and Political Life III"
 edition: "2022-08-02"
 snapshots:
   - "2022-08-02"
-  - "2023-02-10-partial"
 chapter: 3
 title: "Why Do We Need a Parliament?"
 source_pdf: "pdfs/social-political-life-3/2022-08-02/ch03.pdf"
 source_sha256: "3087b4b3e717071840d5a623304b773d174f9c8617b1d39a47664a37c109abc8"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "b7774110877979175bc63c9c047f354edf67b90f79400d8438585c62cf596ba4"
+body_fingerprint: "2095b5da0659c0a4af8cce9f0c7ea5172e21b4ccc16fa150784dc95abf0494d0"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -56,7 +55,7 @@ As you read in Chapter 1, the experience of colonial rule as well as the partici
 
 <!-- page 32 (pdf 5) -->
 
-People and their Representatives
+### People and their Representatives
 
 The take-off point for a democracy is the idea of consent, i.e. the desire, approval and participation of people. It is the decision of people that creates a democratic government and decides about its functioning. The basic idea in this kind of democracy is that the individual or the citizen is the most important person and that in principle the government as well as other public institutions need to have the trust of these citizens.
 
@@ -78,7 +77,7 @@ The above idea of representation has been an important theme in your Class VI an
 
 3. From the list below, identify the work of a State government and that of a Central government. (a) The decision of the Indian government to maintain peaceful relations with China. (b)The decision of the Madhya Pradesh government to discontinue Board exams in Class VIII for all schools under this Board. (c) Introduction of a new train connection between Ajmer and Mysore. (d)Introduction of a new 1,000 rupee note.
 
-Q4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
+4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
 
 5. You have read that most elected members whether in the Panchayat, or the Vidhan Sabha or the Parliament are elected for a fixed period of five years. Why do we have a system where the representatives are elected for a fixed period and not for life?
 
@@ -103,6 +102,8 @@ With the help of the table below, let us understand this further.
 > [table] Results of the 17th Lok Sabha Elections, (May 2019)
 
 > [caption] Political Party No. of MPs Bharatiya Janata Party (BJP) 303 Indian National Congress (INC) 52 Dravida Munnetra Kazhagam (DMK) 24 All India Trinamool Congress (AITC) 22 Yuvajana Sramika Rythu Congress Party (YSRCP) 22 Shiv Sena (SS) 18 Janata Dal (United) (JD (U)) 16 Biju Janata Dal (BJD) 12 Bahujan Samaj Party (BSP) 10 Telangana Rashtra Samithi (TRS) 9 Lok Jan Shakti Party (LJSP) 5 Samajwadi Party (SP) 5 Independents (Ind.) 4 Nationalist Congress Party (NCP) 4 Communist Party of India (Marxist) (CPI)(M)) 3 Indian Union Muslim League (IUML) 3 Jammu and Kashmir National Conference (J&KNC) 3 Telugu Desam Party (TDP) 3 All India Majlis-e-Ittehadul Muslimeen (AIMIM) 2 Apna Dal (Apna Dal) 2 Communist Party of India (CPI) 2 Shiromani Akali Dal (SAD) 2 Aam Aadmi Party (AAP) 1 AJSU Party (AJSU) 1 All India Anna Dravida Munnetra Kazhagam (AIADMK) 1 All India United Democratic Front (AIUDF) 1 Janata Dal (Secular) (JD(s)) 1 Jharkhand Mukti Morcha (JMM) 1 Kerala Congress (M)(KC(M)) 1 Mizo National Front (MNF) 1 Naga Peoples Front (NPF) 1 National People’s Party (NPP) 1 Nationalist Democratic Progressive Party (PDPP) 1 Rashtriya Loktantrik Party (RLP) 1 Revolutionary Socialist Party (RSP) 1 Sikkim Krantikari Morcha (SKM) 1 Viduthalai Chiruthaigal Katchi (VCK) 1 Grand Total 543
+
+> [caption] Source: http://loksabha.nic.in
 
 > [caption] Use the table alongside to answer the questions below:
 
@@ -188,7 +189,7 @@ The government gets valuable feedback and is kept on its toes by the questions a
 
 > [table] In the above question, what information is being sought from the Minister of Women and Child Development?
 
-> [table] If you were a Member of Parliament (MP), list two arliament (MP), list two questions that you would like to ask.
+> [table] If you were a Member of Parliament (MP), list two questions that you would like to ask.
 
 <!-- page 39 (pdf 12) -->
 
@@ -234,7 +235,7 @@ It has been observed that representative democracy cannot produce a perfect refl
 
 Similarly, it has more recently been suggested that there should be reservation of seats for women. This issue is still being debated. Sixty years ago, only four per cent of MPs were women and today it is just above eleven per cent. This is a small share when you consider the fact that half the population are women.
 
-It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government. Why do you think there are so few women in Parliament? Discuss.
+It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government.
 
 <!-- section: glossary -->
 
@@ -247,6 +248,8 @@ Coalition: A temporary alliance of groups or parties. In this chapter, it refers
 > [table] Unresolved: Situations in which there are no easy solutions to problems.
 
 > [caption] The above photo shows a few women Members of Parliament.
+
+> [caption] Why do you think there are so few women in Parliament? Discuss.
 
 <!-- page 41 (pdf 14) -->
 

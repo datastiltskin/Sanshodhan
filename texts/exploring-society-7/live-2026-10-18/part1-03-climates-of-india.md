@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf"
 source_sha256: "b2aa2a75ad57586cedc58d4037a10907b1018062bd7215fc05b59e28bc546090"
 pdf_pages: 22
 printed_pages: "45-66"
-body_fingerprint: "5d385e9d8a53a66e5bdd944ea59018206b6361d4c6931c26a6f3a6f8701c9d01"
+body_fingerprint: "88b1a5caa6e7562e23de10fbc5135eb383d3288060fa6e4be1250a14dba44e06"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -168,13 +168,9 @@ Temperatures in coastal areas do not vary much; the summers are not too hot and 
 
 Wind can move masses of warmer or cooler air. States like Punjab, Haryana, Rajasthan and Madhya Pradesh often receive winds blowing from the west. Having travelled over the deserts of Arabia to Afghanistan, they bring dry and hot air that causes severe heat waves in summer. In winter cold winds from across the Himalayas creep into the Himalayan foothills, resulting in cold waves.
 
-Winds affect not only temperature, but also humidity, and in turn, precipitation. We saw dry winds coming from distant deserts; in contrast, winds coming from the sea bring moisture over the land, which may result in rainfall. We will soon see the case of the monsoon oy winds.
+Winds affect not only temperature, but also humidity, and in turn, precipitation. We saw dry winds coming from distant deserts; in contrast, winds coming from the sea bring moisture over the land, which may result in rainfall. We will soon see the case of the monsoon winds.
 
-> [caption] cyclonic circulation LZ Ay es ve any LF we, Cs
-
-## ye Ly):
-
-## oR ot
+> [table] cyclonic circulation
 
 > [caption] Fig. 3.7
 
@@ -220,7 +216,7 @@ To put it simply, as summer begins, the Asian landmass heats up, creating a powe
 
 > [caption] Fig. 3.9
 
-> [table] Equator
+> [caption] Equator
 
 The pattern reverses in winter, when the landmass cools down more rapidly than the ocean. Now the land has a high-pressure system while the ocean remains warmer with relatively lower pressure. This causes the winds to blow in the opposite direction — from the land towards the ocean — bringing dry conditions to much of Asia.
 
@@ -309,6 +305,8 @@ As winds collect moisture, they form clouds and rotate inwards towards the centr
 What are clouds? White lumps in the sky, you might say. But what are they made of? The answer is simple — water. But not just any water; clouds are masses of water droplets, ice crystals, or a mixture of both, that are suspended in the atmosphere.
 
 > [table] clouds formed low pressure centre winds bringing moist air from sea
+
+> [caption] Fig. 3.13. Cyclone Fani
 
 <!-- page 60 (pdf 16) -->
 

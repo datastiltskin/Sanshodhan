@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch04.pdf"
 source_sha256: "0702c0e93030c443a43680e49c47968e0dbe92901fed30b41841abe06d05ec81"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "bd1e25ad4f399b20e33ea2fb037b7b4f0d428cb060d3acce2b725df70568f904"
+body_fingerprint: "bcaa36318bea19000720ce79fa16209edc5dd6b4d4a22aa6c0585d4b0915bd7b"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -135,6 +135,12 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 
 <!-- page 54 (pdf 10) -->
 
+> [caption] Fig. 8 Nur Jahan’s farman.
+
+Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question
+
+Bigot An individual who is intolerant of another person’s religious beliefs or culture
+
 ### Nur Jahan’s influence in Jahangir’s court
 
 > [note] Mehrunnisa, married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
@@ -144,10 +150,6 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 Akbar’s nobles commanded large armies and had access to large amounts of revenue. While they were loyal the empire functioned efficiently but by the end of the seventeenth century many nobles had built independent networks of their own. Their loyalties to the empire were weakened by their own self-interest.
 
 While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. It made him realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or
-
-> [caption] Fig. 8 Nur Jahan’s farman.
-
-> [note] Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question Bigot An individual who is intolerant of another person’s religious beliefs or culture
 
 <!-- page 55 (pdf 11) -->
 
@@ -183,7 +185,7 @@ Queens and kings
 
 > [note] Find out more about Akbar’s other contemporaries – the ruler of Ottoman Turkey, Sultan Suleyman, also known as “al-Qanuni” or the lawgiver (1520-1566); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the terrible” (1530-1584).
 
-Imagine
+### Imagine
 
 Babur and Akbar were about your age when they became rulers. Imagine you have inherited a kingdom. How would you make your kingdom stable and prosperous?
 
@@ -191,7 +193,9 @@ Babur and Akbar were about your age when they became rulers. Imagine you have in
 
 ### Let’s recall
 
-1. Match the following mansab Marwar
+1. Match the following
+
+mansab Marwar
 
 Mongol governor
 
@@ -199,15 +203,11 @@ Sisodiya Rajput Uzbeg
 
 Rathor Rajput Mewar
 
-Nur Jahan Babur subadar rank
+Nur Jahan Babur
+
+subadar rank
 
 <!-- page 58 (pdf 14) -->
-
-<!-- section: glossary -->
-
-KEYWORDS
-
-Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 2. Fill in the blanks
 
@@ -223,8 +223,6 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 4. What was the relationship between the mansabdar and the jagir?
 
-<!-- section: exercises -->
-
 ### Let’s understand
 
 5. What was the role of the zamindar in Mughal administration?
@@ -233,7 +231,33 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 
 7. Why did the Mughals emphasise their Timurid and not their Mughal descent?
 
+<!-- section: glossary -->
+
+### Keywords
+
+- Mughal
+
+- mansab
+
+- jagir
+
+- zat
+
+- sawar
+
+- sulh-i kul
+
+- primogeniture
+
+- coparcenary
+
+- zabt
+
+- zamindar
+
 <!-- page 59 (pdf 15) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

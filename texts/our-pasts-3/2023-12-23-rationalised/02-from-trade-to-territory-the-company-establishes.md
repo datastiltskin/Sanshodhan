@@ -10,7 +10,10 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch02.pdf"
 source_sha256: "95184a90157f48ee5e7b20b7a684a837d69d645736d57ae79c650209957caeec"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "d3641d4f2de9496d9a1106b983e20459a180521ec9496eda59190a35f7988870"
+body_fingerprint: "31f4c30da36d42d149f1c03bf2f6acc04337bee751f339a8a12ec438ac1eed7a"
+overrides:
+  - "page 24 prints an answer blank after \"rulers of\" on the next line, not extracted"
+  - "page 24 prints an answer blank after \"Doctrine of\" on the next line, not extracted"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -135,7 +138,7 @@ At his hearing in front of a Committee in Parliament, Clive declared that he had
 
 Consider the situation in which the victory at Plassey had placed me! A great prince was dependent on my pleasure; an opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels! Mr Chairman, at this moment I stand astonished at my moderation.
 
-Activity
+### Activity
 
 Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
@@ -147,17 +150,9 @@ had to pay for the “subsidiary forces” that the Company was supposed to main
 
 ## What power did the Resident have?
 
-> [caption] Fig. 7 – Nawab Shujauddaulah of Awadh, with his sons and the British Resident, painted by Tilly Kettle (oil, 1772)
-
 This is what James Mill, the famous economist and political philosopher from Scotland, wrote about the residents appointed by the Company.
 
-> [table] The treaties that followed the Battle of Buxar forced Nawab Shujauddaulah to give up much of his authority. Here, however, he poses in regal splendour, towering over the Resident.
-
 We place a resident, who really is king of the country, whatever injunctions of non-interference he may act under. As long as the prince acts in perfect subservience, and does what is agreeable to the residents, that is, to the British Government, things go on quietly; they are managed without the resident appearing much in the administration of affairs … but when anything of a different nature happens, the moment the prince takes a course which the British Government think wrong, then comes clashing and disturbance.
-
-Injunction – Instruction
-
-Subservience – Submissiveness
 
 > [caption] James Mill (1832)
 
@@ -165,7 +160,17 @@ Subservience – Submissiveness
 
 The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
 
-Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785, Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close Fig. 8 – Tipu Sultan relationship with the French in India, and modernised his army with their help.
+Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785, Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close relationship with the French in India, and modernised his army with their help.
+
+> [caption] Fig. 7 – Nawab Shujauddaulah of Awadh, with his sons and the British Resident, painted by Tilly Kettle (oil, 1772)
+
+> [caption] The treaties that followed the Battle of Buxar forced Nawab Shujauddaulah to give up much of his authority. Here, however, he poses in regal splendour, towering over the Resident.
+
+> [note] Injunction – Instruction
+
+> [note] Subservience – Submissiveness
+
+> [caption] Fig. 8 – Tipu Sultan
 
 <!-- page 17 (pdf 9) -->
 
@@ -173,19 +178,19 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 > [caption] Fig. 10 – Tipu’s toy tiger
 
-This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned, the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
+> [caption] This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned, the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
 
 > [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793
 
 > [caption] The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
-> [note] The legend of Tipu
+### The legend of Tipu
 
 > [note] Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally, he was able to kill the tiger in the battle. After this, he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
 
 <!-- page 18 (pdf 10) -->
 
-Activity
+### Activity
 
 Imagine that you have come across two old newspapers reporting on the Battle of Seringapatam and the death of Tipu Sultan. One is a British paper and the other is from Mysore. Write the headline for each of the two newspapers.
 
@@ -217,7 +222,7 @@ The final wave of annexations occurred under Lord Dalhousie who was the Governor
 
 Finally, in 1856, the Company also took over Awadh. This time the British had an added argument – they said they were “obliged by duty” to take over Awadh in order to free the people from the “misgovernment” of the Nawab! Enraged by the humiliating way in which the Nawab was deposed, the people of Awadh joined the great revolt that broke out in 1857.
 
-Activity
+### Activity
 
 Imagine that you are a nawab’s nephew and have been brought up thinking that you will one day be king. Now you find that this will not be allowed by the British because of the new Doctrine of Lapse. What will be your feelings? What will you plan to do so that you can inherit the crown?
 
@@ -225,11 +230,11 @@ Imagine that you are a nawab’s nephew and have been brought up thinking that y
 
 <!-- page 20 (pdf 12) -->
 
-> [caption] Fig. 14 a, b, c – Expansion of British territorial power in India
-
-> [table] Look at these maps along with a present-day political map of India. In each of these maps, try and identify the different parts of India that were not under British rule.
-
 > [caption] Fig. 14 a – India, 1797 Fig. 14 b – India, 1840
+
+> [caption] Fig. 14 a, b, c – Expansion of British territorial power in India Look at these maps along with a present-day political map of India. In each of these maps, try and identify the different parts of India that were not under British rule.
+
+> [caption] Fig. 14 c – India, 1857
 
 <!-- page 21 (pdf 13) -->
 
@@ -237,13 +242,15 @@ Imagine that you are a nawab’s nephew and have been brought up thinking that y
 
 Warren Hastings (Governor-General from 1773 to 1785) was one of the many important figures who played a significant role in the expansion of Company power. By his time the Company had acquired power not only in Bengal, but also in Bombay and Madras. British territories were broadly divided into administrative units called Presidencies. There were three Presidencies: Bengal, Madras and Bombay. Each was ruled by a Governor. The supreme head of the administration was the Governor-General. Warren Hastings, the first Governor-General, introduced several administrative reforms, notably in the sphere of justice.
 
-Qazi – A judge
-
-Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons From 1772 a new system of justice was established. Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
+From 1772 a new system of justice was established. Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
 
 > [caption] Fig. 15 – The trial of Warren Hastings, painted by R.G. Pollard, 1789
 
-When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+> [caption] When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+
+Qazi – A judge
+
+Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons
 
 <!-- page 22 (pdf 14) -->
 
@@ -305,9 +312,9 @@ Diwani Tipu Sultan
 
 (a) The British conquest of Bengal began with the Battle of ___________.
 
-(b) Haidar Ali and Tipu Sultan were the rulers of
+(b) Haidar Ali and Tipu Sultan were the rulers of ___________.
 
-(c) Dalhousie implemented the Doctrine of
+(c) Dalhousie implemented the Doctrine of ___________.
 
 (d) Maratha kingdoms were located mainly in the
 

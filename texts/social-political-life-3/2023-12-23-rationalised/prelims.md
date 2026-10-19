@@ -2,6 +2,8 @@
 book: "social-political-life-3"
 edition: "2023-12-23-rationalised"
 source_pdf: "pdfs/social-political-life-3/2023-12-23/prelims.pdf"
+overrides:
+  - "The Preamble page (pdf page 14) is an ornamental image read with dropped and doubled letters, the page shows the full Preamble and its two footnotes as given"
 ---
 
 <!-- pdf page 1 -->
@@ -12,7 +14,9 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/prelims.pdf"
 
 ## Textbook for Class VIII
 
-> [caption] fap sq she tet sta 3ifer F3tator OF EDUCATIONAL RESEARCH AND TRAI VATIONAL COUNCI Raq
+> [caption] TRaG L OF EDUCATIONAL RESEARCH AND TRAIN
+
+> [caption] NATIONAL COUNCIL
 
 <!-- pdf page 2 -->
 
@@ -40,7 +44,7 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/prelims.pdf"
 
 > [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
 
-> [table] ` 65.00
+> [table] ₹ 65.00
 
 > [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
@@ -88,15 +92,17 @@ In view of the COVID-19 pandemic, it is imperative to reduce content load on stu
 
 Contents of the textbooks have been rationalised in view of the following:
 
-• Overlapping with similar content included in other subject areas in the same class
+- Overlapping with similar content included in other subject areas in the same class
 
-• Similar content included in the lower or higher class in the same subject
+- Similar content included in the lower or higher class in the same subject
 
-• Difficulty level
+- Difficulty level
 
-• Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning
+- Content, which is easily accessible to students without much interventions from teachers and can be learned by children through self-learning or peer-learning
 
-• Content, which is irrelevant in the present context This present edition, is a reformatted version after carrying out the changes given above.
+- Content, which is irrelevant in the present context
+
+This present edition, is a reformatted version after carrying out the changes given above.
 
 <!-- pdf page 6 -->
 
@@ -202,23 +208,27 @@ Photo Essay: Last year’s book had a photo essay on the women’s movement. Thi
 
 <!-- pdf page 14 -->
 
-INSTITUTI INDIA
-
-THE Ct
+THE CONSTITUTION OF INDIA
 
 PREAMBLE
 
-> [caption] WE, solemnly resolved tc IVEREIGN ICRATIC REPUBLIC DEM‘ -allits citizens cial, CC ( political; of thought, expression, belief, LIBERTY faith and worship: yf status and: EQUALITY ypportunity; promote among them all and tc FRATERNITY assuring the dignity the individual and the and unity f the Nation integrity INSTITUENT ASSEMBLY IN UR yf November, 1949 dx this twenty-sixth day ENACT AND GIVE T HEREBY AD PT, INSTITUTIC YURSELVES THIS C PLE constitute India intc ICIALIST SECULAR and tc SeCure THE PE( JUSTICE, Subs. by the Co
+WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a 1[SOVEREIGN SOCIALIST SECULAR DEMOCRATIC REPUBLIC] and to secure to all its citizens:
 
-> [caption] (Forty-seco
+JUSTICE, social, economic and political;
 
-> [caption] .e.f. 3.11977)
+LIBERTY of thought, expression, belief, faith and worship;
 
-> [caption] Subs. by the Cc "Unity of the Natio ef, 3.1.1977)
+EQUALITY of status and of opportunity;
 
-IN having
+and to promote among them all
 
-> [caption] INDIA, and ymic
+FRATERNITY assuring the dignity of the individual and the 2[unity and integrity of the Nation];
+
+IN OUR CONSTITUENT ASSEMBLY this twenty-sixth day of November, 1949 do HEREBY ADOPT, ENACT AND GIVE TO OURSELVES THIS CONSTITUTION.
+
+1. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for "Sovereign Democratic Republic" (w.e.f. 3.1.1977)
+
+2. Subs. by the Constitution (Forty-second Amendment) Act, 1976, Sec. 2, for "Unity of the Nation" (w.e.f. 3.1.1977)
 
 <!-- pdf page 15 -->
 
@@ -236,11 +246,11 @@ Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and the Making of Laws 28
 
-Chapter 3: Parliament and the Making of Laws 30
+### Chapter 3: Parliament and the Making of Laws 30
 
 ### Unit Three: The Judiciary 46
 
-Chapter 4: Judiciary 48
+### Chapter 4: Judiciary 48
 
 ### Unit Four: Social Justice and the Marginalised 60
 

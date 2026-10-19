@@ -4,14 +4,15 @@ book_title: "Social and Political Life III"
 edition: "2022-08-02"
 snapshots:
   - "2022-08-02"
-  - "2023-02-10-partial"
 chapter: 9
 title: "Public Facilities"
 source_pdf: "pdfs/social-political-life-3/2022-08-02/ch09.pdf"
 source_sha256: "70321f841cafb812c0dead39aa3e191340ab849711dc33848f96733e65e1330f"
 pdf_pages: 16
 printed_pages: "104-119"
-body_fingerprint: "b383518eebbf6a28a8756475ce97495f2ea8a909d7228f27926a34689880fb44"
+body_fingerprint: "248d66f547c75a66a7afa28684a8b9137663d2e86a66cb78b3869427a235a101"
+overrides:
+  - "The pie chart on page 111 (page 91 in the rationalised book) gives 9 p. for Centrally Sponsored Scheme and the label was lost, the 2019 and 2020 texts keep it"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -160,6 +161,14 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [caption] Centrally Sponsored
 
+> [caption] Scheme
+
+> [caption] 9 p.
+
+> [caption] Central Sector Scheme
+
+> [caption] 10 p.
+
 > [note] As Amu and Kumar ride around Chennai...
 
 > [caption] Amu: Did you notice that the roads in Saidapet were so bumpy and without streetlights? I wonder what the place is like at night.
@@ -186,7 +195,7 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [table] 1. What are public facilities? Why should the government be responsible for providing public facilities?
 
-Q2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
+2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
 
 > [table] Why do you think the government must assume the overall responsibility for public facilities even when it gets private companies to do part of the job?
 
@@ -264,7 +273,7 @@ A shortage of municipal water is often taken as a sign of failure of the governm
 
 Consider the following facts:
 
-1.Throughout the world, water supply is a function of the government. There are very few instances of private water supply.
+1. Throughout the world, water supply is a function of the government. There are very few instances of private water supply.
 
 Porto Alegre is a city in Brazil. Though there are many poor people in this city, what is remarkable is that it has a far lower number of infant deaths as compared to most other cities of the world. The city’s water department has achieved universal access to safe water and this is the main reason behind the lower number of infant deaths. The average price of water is kept low, and the poor are charged half the basic rate. Whatever profit the department makes is used to improve the water supply. The working of the water department is transparent and people can have a direct say in deciding which projects the department should take up. Through a process of public meetings, people hear what the managers have to say and also vote on their priorities.
 
@@ -274,11 +283,11 @@ Porto Alegre is a city in Brazil. Though there are many poor people in this city
 
 <!-- page 115 (pdf 12) -->
 
-2.There are areas in the world where public water supply has achieved universal access. (see Box below)
+2. There are areas in the world where public water supply has achieved universal access. (see Box below)
 
-3.In a few cases, where the responsibility for water supply was handed over to private companies, there was a steep rise in the price of water, making it unaffordable for many. Cities saw huge protests, with riots breaking out in places like Bolivia, forcing the government to take back the service from private hands.
+3. In a few cases, where the responsibility for water supply was handed over to private companies, there was a steep rise in the price of water, making it unaffordable for many. Cities saw huge protests, with riots breaking out in places like Bolivia, forcing the government to take back the service from private hands.
 
-4.Within India, there are cases of success in government water departments, though these are few in number and limited to certain areas of their work. The water supply department in Mumbai raises enough money through water charges to cover its expenses on supplying water. In Hyderabad, a report shows that the department has increased coverage and improved performance in revenue collection. In Chennai, the department has taken several initiatives for harvesting rain water to increase the level of groundwater. It has also used the services of private companies for transporting and distributing water but the government water supply department decides the rate for water tankers and gives them permission to operate. Hence they are called ‘on contract’.
+4. Within India, there are cases of success in government water departments, though these are few in number and limited to certain areas of their work. The water supply department in Mumbai raises enough money through water charges to cover its expenses on supplying water. In Hyderabad, a report shows that the department has increased coverage and improved performance in revenue collection. In Chennai, the department has taken several initiatives for harvesting rain water to increase the level of groundwater. It has also used the services of private companies for transporting and distributing water but the government water supply department decides the rate for water tankers and gives them permission to operate. Hence they are called ‘on contract’.
 
 > [caption] Mumbai’s suburban railway is well-functioning public transport system. It is the densest route in the world, attending to 65 lakh passengers daily. Extending over a distance of 300 kilometers, these local trains allow people living far away from Mumbai to find work in the city. Note that the high cost of housing in cities makes it impossible for an average worker to live in the city.
 
@@ -302,7 +311,7 @@ Besides safe drinking water, sanitation is a must in prevention of water-borne d
 
 Sulabh, a non-government organisation, has been working for nearly five decades to address the problems of sanitation facing low-caste, low-income people in India. It has constructed more than 8,500 community toilet blocks and 1.5 million household toilets, giving access to sanitation to 20 million people. The majority of the users of Sulabh facilities are from the poor working class.
 
-Sulabh enters into contracts with municipalities or other local authorities to construct toilet blocks with government funds. Local authorities provide land and funds for setting up the services, whereas maintenance costs are sometimes financed through user charges (for example, `2 is charged for use of the latrines in the cities).
+Sulabh enters into contracts with municipalities or other local authorities to construct toilet blocks with government funds. Local authorities provide land and funds for setting up the services, whereas maintenance costs are sometimes financed through user charges (for example, ₹2 is charged for use of the latrines in the cities).
 
 > [table] Next time you see a Sulabh toilet, you might want to find out yourself how it functions!
 

@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch09.pdf"
 source_sha256: "345452a97aeccd67adec72fe919b0ad5097598e5893ff03f941701d4e14b6706"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "464db308158479695a4e4888254d16a54d85bfcc55af2e70f1730e1566ebc250"
+body_fingerprint: "314dd1b8774cbea22b2724b349426599968b3bf4af8f031a0e871fbc666b64ac"
 ---
 
 <!-- page 122 (pdf 1) -->
@@ -26,7 +26,7 @@ One of the commonest ways of describing people is in terms of the language they 
 
 Let us begin by looking at an example of the connection between language and region. The Chera kingdom of Mahodayapuram was established in the ninth century in the south-western part of the peninsula, part of present-day Kerala. It is likely that Malayalam was spoken in this area. The rulers introduced the Malayalam language and script in their inscriptions. In fact, this is one of the earliest examples of the use of a regional language in official records in the subcontinent.
 
-> [note] Find out how many states have been created in the last 10 years. Is each of these states a region?
+Find out how many states have been created in the last 10 years. Is each of these states a region?
 
 <!-- page 123 (pdf 2) -->
 
@@ -116,7 +116,7 @@ Remember that ordinary women and men painted as well – on pots, walls, floors,
 
 ## A Closer Look: Bengal
 
-The Growth of a Regional Language
+### The Growth of a Regional Language
 
 As we saw at the outset, we often tend to identify regions in terms of the language spoken by the people. So, we assume that people in Bengal always spoke Bengali. However, what is interesting is that while Bengali is now recognised as a language derived from Sanskrit, early Sanskrit texts (mid-first millennium BCE) suggest that the people of Bengal did not speak Sanskritic languages. How, then, did the new language emerge?
 
@@ -156,7 +156,7 @@ The early settlers sought some order and assurance in the unstable conditions of
 
 > [note] Why do you think the second category of texts was not written down?
 
-> [note] Pir A Persian word meaning a spiritual guide.
+Pir A Persian word meaning a spiritual guide.
 
 <!-- page 133 (pdf 12) -->
 
@@ -166,7 +166,7 @@ This term included saints or Sufis and other religious personalities, daring col
 
 Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapters 2 and 5) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed (dochala) or four-roofed (chauchala) structure of the thatched huts. (Remember the “Bangla dome” in Chapter 5?) This led to the evolution of the typical Bengali style in temple architecture.
 
-> [note] Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
+Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
 
 > [note] Compare the temple shown here with that in Chapter 2.
 
@@ -196,7 +196,7 @@ Emergence of nation-states in Europe
 
 <!-- page 136 (pdf 15) -->
 
-Imagine
+### Imagine
 
 You are a Rajput prince. How would you like your story to be told?
 
@@ -204,7 +204,7 @@ You are a Rajput prince. How would you like your story to be told?
 
 ### Let’s recall
 
-> [note] 1. Match the following:
+1. Match the following:
 
 Anantavarman Kerala
 
@@ -224,9 +224,21 @@ Miniature Kerala
 
 4. What are the important architectural features of the temples of Bengal ?
 
-> [note] KEYWORDS classical miniature pir dialect
+<!-- section: glossary -->
+
+### Keywords
+
+- classical
+
+- miniature
+
+- pir
+
+- dialect
 
 <!-- page 137 (pdf 16) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

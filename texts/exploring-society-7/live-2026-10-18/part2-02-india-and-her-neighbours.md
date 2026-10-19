@@ -11,7 +11,11 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf"
 source_sha256: "653ae8cb238af256d7a495c8fae6db54de39ea7295db7aad60dadbb07444dc2c"
 pdf_pages: 32
 printed_pages: "29-60"
-body_fingerprint: "9e51c2ab0543c002ece1582f4eaaa8d27c36b5cc4e8b71a828e00067daac5e62"
+body_fingerprint: "43a9a43b36988391e278aba1a07f3a69decd2201119666134517353b6771dadf"
+overrides:
+  - "part 2 chapter 2, page 40: stray S from the Bhutan emblem ring"
+  - "part 2 chapter 2, page 40: the box text wraps round the emblem"
+  - "part 2 chapter 2, page 40: the Fig. 2.11 caption is one caption"
 ---
 
 <!-- page 29 (pdf 1) -->
@@ -82,13 +86,13 @@ Culturally, Buddhism is a powerful link between the two countries. Originating i
 
 > [caption] S
 
-> [caption] C H I N A
+> [caption] CHINA
 
 > [caption] Tibet
 
 > [caption] New Delhi
 
-> [caption] I N D I A
+> [caption] INDIA
 
 > [caption] BAY OF BENGAL ARABIAN
 
@@ -106,7 +110,7 @@ In the 13th century, Hindu merchants built temples in the Chinese port city of Q
 
 > [caption] Fig. 2.3. India and China. (Note that China is approximately three times larger than India in area.)
 
-> [caption] Fig. 2.4. ‘Gajendra mokṣham’ or the story of Viṣhṇu rescuing the elephant from a crocodile, carved on a pillar at
+> [caption] Fig. 2.4. ‘Gajendra mokṣham’ or the story of Viṣhṇu rescuing the elephant from a crocodile, carved on a pillar at the Kaiyuan temple
 
 <!-- page 34 (pdf 6) -->
 
@@ -130,13 +134,13 @@ Recent years have also seen phases of heightened tensions, mostly related to the
 
 > [caption] Islamabad
 
-> [caption] I R A N
+> [caption] IRAN
 
 > [caption] PAKISTAN
 
 > [caption] New Delhi
 
-> [caption] I N D I A
+> [caption] INDIA
 
 > [caption] BAY OF BENGAL ARABIAN
 
@@ -147,6 +151,8 @@ Recent years have also seen phases of heightened tensions, mostly related to the
 > [caption] INDIAN OCEAN
 
 > [caption] 50°E 60°E 70°E 80°E 90°E
+
+> [caption] Fig. 2.5. India, Pakistan, Afghanistan, and Iran
 
 <!-- page 35 (pdf 7) -->
 
@@ -208,7 +214,13 @@ India and Bangladesh have built on their historical ties through strong diplomat
 
 The two countries also share a coastline, and therefore a maritime environment. The Sundarban National Park (Fig. 2.8) is a UNESCO World Heritage Site, with its protection and management coordinated by the two neighbours. A home to the Bengal tiger and many other species, it is important in terms of biodiversity, as well as climate resilience since it serves as a barrier to cyclones. However, because of global warming and climate change, experts predict that Bangladesh will have to face the impact of rising sea levels and increasingly intense cyclones in coming years. Many people are likely to lose their homes or see their livelihoods affected.
 
-> [caption] Fig. 2.8. A view of the largest mangrove forest of the world, in the Sundarban National Park. About two-thirds of the forest lies in Bangladesh N E W S
+> [caption] Fig. 2.8. A view of the largest mangrove forest of the world, in the Sundarban National Park. About two-thirds of the forest lies in Bangladesh and the rest in India.
+
+> [caption] N
+
+> [caption] E W
+
+> [caption] S
 
 <!-- page 38 (pdf 10) -->
 
@@ -217,6 +229,8 @@ The two countries also share a coastline, and therefore a maritime environment. 
 Nestled in the lap of the Himalayas, Nepal shares a long and open border with India, stretching across the Indian states of Uttarakhand, Uttar Pradesh, Bihar, West Bengal, and Sikkim (Fig. 2.7). This geographical proximity has allowed for centuries of interaction and cooperation between the two nations and the relationship is marked by shared heritage, spiritual linkages, cross-border movement, and political partnerships.
 
 Culturally, the ties between India and Nepal are profound. Pilgrims from both countries regularly visit sacred sites across the border. The Paśhupatinātha temple in Kathmandu (Fig. 2.9), a major Hindu pilgrimage destination, draws thousands of Indian visitors every year. Festivals such as Daśhain (Daśhaharā), Tihar (Dīpāvalī), and Holi are observed with equal enthusiasm in both countries. These shared spiritual traditions strengthen the people-to-people bonds and reflect a rich tapestry of mutual cultural appreciation.
+
+> [caption] Fig. 2.9. The Paśhupatinātha Temple, Kathmandu, where Śhiva is worshipped as the protector of animals
 
 <!-- page 39 (pdf 11) -->
 
@@ -234,15 +248,15 @@ What is an ‘open border’? It is when people from two countries can travel ac
 
 Bhutan, called ‘Drukyul’ or ‘Land of the Thunder Dragon’ by its inhabitants, is a small, landlocked Himalayan kingdom nestled between India and China. Bhutan’s border with India touches the states of Sikkim, West Bengal, Assam, and Arunachal Pradesh (see Fig. 2.7). Over centuries, Bhutan has developed strong economic and cultural links with India.
 
-DON’T MISS OUT SS Se es Ee se iy so Raise Several important rivers originate in Bhutan and flow into India; they are not only vital for agriculture but also serve as the foundation for hydroelectric power generation, which is one of the most significant areas of bilateral cooperation. Some major power plants contribute to Bhutan’s economic growth and also supply renewable energy to India.
+### DON’T MISS OUT
 
-> [caption] Nee"
+Several important rivers originate in Bhutan and flow into India; they are not only vital for agriculture but also serve as the foundation for hydroelectric power generation, which is one of the most significant areas of bilateral cooperation. Some major power plants contribute to Bhutan’s economic growth and also supply renewable energy to India.
 
 > [caption] Fig. 2.10. The emblem of Bhutan. Notice the dragons that symbolise the ‘Land of the Thunder Dragon’. What other elements look familiar?
 
 Cultural and religious ties further strengthen the bond between the two nations. Rooted in the shared heritage of Buddhism, Bhutan and India maintain deep spiritual connections. Bhutanese pilgrims frequently visit sacred Buddhist sites in India, such as Bodh Gaya, Rajgir, Nalanda, Udayagiri, and Sikkim. The influence of Indian Buddhist masters such as Guru Padmasambhava (Guru Rinpoche), who introduced the Vajrayāna school of Buddhism to Bhutan in the 8th century CE, remains central to Bhutan’s religious identity. Indeed the dragon found on Bhutan’s emblem (Fig. 2.10) and flag is said to symbolise the ‘the thunderous voice of the Buddha’s teachings’.
 
-> [caption] Fig. 2.11. The Tala Hydroelectric Project, built with support from India, being dedicated to the peoples of Bhutan and India by the two countries’
+> [caption] Fig. 2.11. The Tala Hydroelectric Project, built with support from India, being dedicated to the peoples of Bhutan and India by the two countries’ respective prime ministers in 2008.
 
 <!-- page 41 (pdf 13) -->
 
@@ -468,7 +482,7 @@ Relations between India and Malaysia are rooted in historical, cultural, and eco
 
 India is one of Malaysia’s largest trading partners, with colla-borations in palm oil, energy, infrastructure, and information technology. The two nations are also strategic partners, working closely on regional security and maritime stability. Many Indian organisations working in areas of manufacturing, information technology, research, tourism, and education have set up collaborations with local companies, furthering economic ties.
 
-> [caption] Fig. 2.22. The Petronas Towers at Kuala Lumpur, Malaysia’s capital, are the
+> [caption] Fig. 2.22. The Petronas Towers at Kuala Lumpur, Malaysia’s capital, are the world’s tallest twin skyscrapers.
 
 <!-- page 53 (pdf 25) -->
 

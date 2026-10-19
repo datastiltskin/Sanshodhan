@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch02.pdf"
 source_sha256: "24a01092286211039ab75f0105d11bcb0479880235968fc3aad0eb5a2c543ff6"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "31e7a7f24b1dada08800994d154039c7373edcd552138a23fe5cc8a9dda63750"
+body_fingerprint: "af617e8cf19853660912fc7999a861c72d94c9261e76c553135c84cc1113f503"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -109,7 +109,7 @@ Other kings who engaged in warfare include the Chahamanas, later known as the Ch
 
 > [note] Look at Map 1 and suggest reasons why these rulers wanted to control Kanauj and the Ganga valley.
 
-> [note] Sultan is an Arabic term meaning ruler.
+Sultan is an Arabic term meaning ruler.
 
 > [note] Look at Map 1 again and discuss why the Chahamanas may have wanted to expand their territories.
 
@@ -150,6 +150,8 @@ Many of the achievements of the Cholas were made possible through new developmen
 Although agriculture had developed earlier in other parts of Tamil Nadu, it was only from the fifth or sixth century that this area was opened up for large-scale cultivation. Forests had to be cleared in some regions; land had to be levelled in other areas. In the delta region embankments had to be built to prevent flooding and canals had to be constructed to carry water to the fields. In many areas two crops were grown in a year.
 
 > [caption] Fig. 4 A Chola Bronze Sculpture. Notice how carefully it is decorated.
+
+> [caption] To find out how these images were made, see Chapter 6.
 
 <!-- page 25 (pdf 10) -->
 
@@ -201,7 +203,7 @@ China under the Tang dynasty
 
 > [note] In what ways was this system different from those prevalent in the Indian subcontinent?
 
-Imagine
+### Imagine
 
 You are present in an election for a sabha. Describe what you see and hear.
 
@@ -249,4 +251,14 @@ Cholas Tamil Nadu
 
 12. Find out more about taxes that are collected at present. Are these in cash, kind, or labour services?
 
-KEYWORDS samanta temple nadu sabha
+<!-- section: glossary -->
+
+### Keywords
+
+- samanta
+
+- temple
+
+- nadu
+
+- sabha

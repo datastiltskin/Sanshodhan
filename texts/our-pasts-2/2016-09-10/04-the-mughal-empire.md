@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch04.pdf"
 source_sha256: "82734b433ad002c2add5b3b3e62dc3203ce2927b7f90495c9e8a86da890e3512"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "ece33e0da7c9176e0fac7d7d0f2de680151f24d3887d8b8807e762fd6336127a"
+body_fingerprint: "1af0de32731029f8973c808a109667028ac8d29178b4f4b67a66e5c7f53f6800"
+overrides:
+  - "doubled semicolon in the Elsewhere box on page 57, the page has one"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -31,7 +33,7 @@ The Mughals were descendants of two great lineages of rulers. From their mother�
 
 > [caption] Fig. 2 A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
 
-> [note] Do you think this painting suggests that the Mughals claimed kingship as a birthright?
+Do you think this painting suggests that the Mughals claimed kingship as a birthright?
 
 <!-- page 47 (pdf 3) -->
 
@@ -105,9 +107,9 @@ The mansabdar’s military responsibilities required him to maintain a specified
 
 Mansabdars received their salaries as revenue assignments called jagirs which were somewhat like iqtas. But unlike muqtis, most mansabdars did not actually reside in or administer their jagirs. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
 
-> [note] Zat ranking
+### Zat ranking
 
-> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
+Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
 
 <!-- page 52 (pdf 8) -->
 
@@ -127,7 +129,7 @@ Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yiel
 
 In some areas the zamindars exercised a great deal of power. The exploitation by Mughal administrators could drive them to rebellion. Sometimes zamindars and peasants of the same caste allied in rebelling against Mughal authority. These peasant revolts challenged the stability of the Mughal Empire from the end of the seventeenth century.
 
-Akbar Nama and Ain-i Akbari
+### Akbar Nama and Ain-i Akbari
 
 Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar’s reign, titled Akbar Nama. The first volume dealt with Akbar’s ancestors and the second volume recorded the events of Akbar’s reign. The third volume is the Ain-i Akbari. It deals with Akbar’s administration, household, army, the revenues and the geography of his empire. It also provides rich details about the traditions and culture of the people living in India. The most interesting aspect about the Ain-i Akbari is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.
 
@@ -141,7 +143,15 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 
 <!-- page 54 (pdf 10) -->
 
-Nur Jahan’s influence in Jahangir’s court Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
+> [caption] Fig. 8 Nur Jahan’s farman.
+
+Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
+
+Bigot An individual who is intolerant of another person’s religious beliefs or culture.
+
+### Nur Jahan’s influence in Jahangir’s court
+
+Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
 
 The adjoining document is an order (farman) of Nur Jahan. The square seal states, “Command of her most Sublime and Elevated Majesty Nur Jahan Padshah Begum”. The round seal states, “by the sun of Shah Jahangir she became as brilliant as the moon; may Nur Jahan Padshah be the lady of the age”.
 
@@ -149,15 +159,9 @@ Akbar’s nobles commanded large armies and had access to large amounts of reven
 
 While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. Akbar’s interaction with people of different faiths made him realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or “universal peace”. This idea of tolerance did not discriminate between people of different religions in his realm. Instead it focused on a system of ethics – honesty, justice, peace – that was universally applicable. Abul Fazl helped Akbar in framing a vision of governance around this idea of sulh-i kul. This principle of governance was followed by Jahangir and Shah Jahan as well.
 
-> [caption] Fig. 8 Nur Jahan’s farman.
-
-> [note] Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
-
-> [note] Bigot An individual who is intolerant of another person’s religious beliefs or culture.
-
 <!-- page 55 (pdf 11) -->
 
-Sulh-i kul
+### Sulh-i kul
 
 Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
 
@@ -165,7 +169,7 @@ As in the wide expanse of the divine compassion there is room for all classes an
 
 > [caption] Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.
 
-> [note] Can you identify the Jesuit priests in this picture?
+Can you identify the Jesuit priests in this picture?
 
 <!-- page 56 (pdf 12) -->
 
@@ -185,9 +189,9 @@ Kings and queens
 
 These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
 
-Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); ; and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
+Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
 
-Imagine
+### Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
@@ -201,7 +205,9 @@ mansab Marwar Mongol governor
 
 Sisodiya Rajput Uzbeg
 
-Rathor Rajput Mewar Nur Jahan rank subadar Jahangir KEYWORDS Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
+Rathor Rajput Mewar Nur Jahan rank
+
+subadar Jahangir
 
 <!-- page 58 (pdf 14) -->
 
@@ -227,7 +233,33 @@ Rathor Rajput Mewar Nur Jahan rank subadar Jahangir KEYWORDS Mughal mansab jagir
 
 7. Why did the Mughals emphasise their Timurid and not their Mongol descent?
 
+<!-- section: glossary -->
+
+### Keywords
+
+- Mughal
+
+- mansab
+
+- jagir
+
+- zat
+
+- sawar
+
+- sulh-i kul
+
+- primogeniture
+
+- coparcenary
+
+- zabt
+
+- zamindar
+
 <!-- page 59 (pdf 15) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

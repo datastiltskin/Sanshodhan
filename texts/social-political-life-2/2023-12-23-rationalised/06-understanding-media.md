@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch06.pdf"
 source_sha256: "68e84ea151cb109a481e3f279d4c1be29b8ed493c328d62c6f2494dce837c7a7"
 pdf_pages: 12
 printed_pages: "62-73"
-body_fingerprint: "0131014948af1abfc2ad357f2742b5f3af89d114183fa3f6538bf17213e3ec01"
+body_fingerprint: "869bd6d750b9685f43055a9401dbc3cc14ff89b5b2e5313fa6ae5e767ab807d6"
 ---
 
 <!-- page 62 (pdf 1) -->
@@ -59,7 +59,7 @@ Changing technology, or machines, and making technology more modern, helps media
 
 > [note] How many people in your neighbourhood use the Internet?
 
-> [note] List three things that you know about some other part of the
+> [note] List three things that you know about some other part of the world from watching television?
 
 <!-- page 66 (pdf 5) -->
 
@@ -71,7 +71,7 @@ John L. Baird sits in front of the apparatus with which he demonstrated to the R
 
 > [note] Take a newspaper and count the number of advertisements in it.
 
-> [note] Some people say that newspapers have too many advertisements. Do
+> [note] Some people say that newspapers have too many advertisements. Do you think this is true and why?
 
 distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
@@ -91,7 +91,7 @@ In a democracy, the media plays a very important role in providing news and disc
 
 Given the role that the media plays in providing information, it is important that the information be balanced. Let us understand what we mean by a balanced media report by reading two versions of the same news event given on the next page.
 
-The cost to advertise on a TV channel varies from ` 1,000 to ` 1,00,000 per 10 seconds depending on the popularity of the channel and time.
+The cost to advertise on a TV channel varies from ₹ 1,000 to ₹ 1,00,000 per 10 seconds depending on the popularity of the channel and time.
 
 The print media offers a large variety of information to suit the tastes of different readers.
 
@@ -161,9 +161,11 @@ Fashion shows are very popular with the media.
 
 > [note] Can you think of an issue that
 
-As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Local media Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
+As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
 
 > [note] does not seem important to you because it is never featured in the media?
+
+### Local media
 
 Another example is a newspaper called Khabar Lahriya which is a fortnightly that is run by eight Dalit women in Chitrakoot district in Uttar Pradesh. Written in the local language, Bundeli, this eight-page newspaper reports on Dalit issues and cases of violence against women and political corruption. The newspaper reaches farmers, shopkeepers, panchayat members, school teachers and women who have recently learnt to read and write.
 
@@ -185,7 +187,7 @@ EXERCISES
 
 > [note] of view.
 
-> [note] following questions– save water and energy.
+> [note] following questions–
 
 <!-- section: glossary -->
 
@@ -225,6 +227,8 @@ Glossary
 
 > [note] d. Whose point of view is being left out and why?
 
-> [note] 5. Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
+> [note] 5. Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
+
+> [note] Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
 
 > [note] Censorship: This refers to the powers that government has to disallow media from publishing or Broadcast: In this chapter this word is used to refer to a TV or radio programme that is widely Public protest: When a large number of people come together and openly state their opposition to some issue. Organising a rally, starting a signature campaign, blocking roads etc. are some of the ways in which this is done.

@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch01.pdf"
 source_sha256: "dc7291a8eb857ceedb0fb154309e2a5b9536aad5e0b49d05d3891cc81fb4244b"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "79227b35f52ecc1d520125428f27102d14f007d273b273b07aaa1fb7373eb56f"
+body_fingerprint: "cbe30c0e07397d227df4aed285005e0c75598d53084cc1bb0303c54a091d82a6"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -35,7 +35,7 @@ Look at the areas in the interior of the subcontinent on Map 2. Are they as deta
 
 Equally important is the fact that the science of cartography differed in the two periods. When historians read documents, maps and texts from the past they have to be sensitive to the different historical backgrounds – the contexts – in which information about the past was produced.
 
-## New and Old Termi New and Old Terminologies nologies
+## New and Old Terminologies
 
 If the context in which information is produced changes with time, what about language and meanings? Historical records exist in a variety of languages which have changed considerably over the years. Medieval Persian, for example, is different from modern Persian. The difference is not just with regard to grammar and vocabulary; the meanings of words also change over time.
 
@@ -43,7 +43,7 @@ Take the term “Hindustan”, for example. Today we understand it as “India�
 
 Historians today have to be careful about the terms they use because they meant different things in the past. Take, for example, a simple term like “foreigner”. It is used today to mean someone who is not an Indian. In the medieval period a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of that society or culture. (In Hindi the term pardesi might be used to describe such a person and in Persian, ajnabi.) A city-dweller, therefore, might have regarded a forest-dweller as a “foreigner”, but two peasants living in the same village were not foreigners to each other, even though they may have had different religious or caste backgrounds.
 
-> [note] Can you think of any other words whose meanings change in different contexts?
+Can you think of any other words whose meanings change in different contexts?
 
 <!-- page 4 (pdf 4) -->
 
@@ -51,7 +51,11 @@ Historians today have to be careful about the terms they use because they meant 
 
 Historians use different types of sources to learn about the past depending upon the period of their study and the nature of their investigation. Last year, for example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more The value of paper Compare the following:
+You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
+
+### The value of paper
+
+Compare the following:
 
 (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
 
@@ -61,11 +65,9 @@ When was paper more expensive and easily available – in the thirteenth or the 
 
 <!-- page 5 (pdf 5) -->
 
-widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
-
 There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes – a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result historians have to read different manuscript versions of the same text to guess what the author had originally written.
 
-> [note] Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
+Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
 
 > [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
 
@@ -87,13 +89,13 @@ This was also a period of great mobility. Groups of people travelled long distan
 
 <!-- page 8 (pdf 8) -->
 
+Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
+
+Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
+
 Throughout this period there was a gradual clearing of forests and the extension of agriculture, a change faster and more complete in some areas than in others. Changes in their habitat forced many forest-dwellers to migrate. Others started tilling the land and became peasants. These new peasant groups gradually began to be influenced by regional markets, chieftains, priests, monasteries and temples. They became part of large, complex societies, and were required to pay taxes and offer goods and services to local lords. As a result, significant economic and social differences emerged amongst peasants. Some possessed more productive land, others also kept cattle, and some combined artisanal work with agricultural activity during the lean season. As society became more differentiated, people were grouped into jatis or sub-castes and ranked on the basis of their backgrounds and their occupations. Ranks were not fixed permanently, and varied according to the power, influence and resources controlled by members of the jati. The status of the same jati could vary from area to area.
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
-
-> [note] Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
-
-> [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
 <!-- page 9 (pdf 9) -->
 
@@ -105,7 +107,7 @@ Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mugha
 
 <!-- page 10 (pdf 10) -->
 
-Language and region
+### Language and region
 
 In 1318 the poet Amir Khusrau noted that there was a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma‘bari (in Tamil Nadu), Gauri, (in Bengal) … Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).
 
@@ -117,7 +119,7 @@ Did you notice that the names by which languages are known have changed over tim
 
 By 700 many regions already possessed distinct geographical dimensions and their own language and cultural characteristics. You will learn more about these in Chapter 9. They were also associated with specific ruling dynasties. There was considerable conflict between these states. Occasionally dynasties like the Cholas, Khaljis, Tughluqs and Mughals were able to build an empire that was pan-regional – spanning diverse regions. Not all these empires were equally stable or successful. Compare, for example, Table 1 in Chapters 3 and 4. What was the duration of rule of the Khalji and Mughal dynasties?
 
-> [note] Why do you think rulers made such claims?
+Why do you think rulers made such claims?
 
 <!-- page 11 (pdf 11) -->
 
@@ -133,11 +135,11 @@ Their knowledge of Sanskrit texts earned the Brahmanas a lot of respect in socie
 
 One of the major developments of this period was the emergence of the idea of bhakti – of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals. You will be learning about this, and other traditions, in Chapter 8.
 
-> [note] Find out whether and for how long your state was part of these pan-regional empires.
+Find out whether and for how long your state was part of these pan-regional empires.
 
-> [note] Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
+Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
 
-> [note] Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
+Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
 
 <!-- page 12 (pdf 12) -->
 
@@ -161,7 +163,7 @@ During these thousand years the societies of the subcontinent were transformed o
 
 <!-- page 14 (pdf 14) -->
 
-Imagine
+### Imagine
 
 You are a historian. Choose one of the themes mentioned in this chapter, such as economic, social or political history, and discuss why you think it would be interesting to find out the history of that theme.
 
@@ -181,7 +183,7 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 (d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.
 
-> [note] 3. Fill in the blanks:
+3. Fill in the blanks:
 
 (a) Archives are places where ——————— are kept.
 
@@ -191,11 +193,23 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 4. List some of the technological changes associated with this period.
 
-> [note] KEYWORDS manuscript jati region periodisation
+<!-- section: glossary -->
+
+### Keywords
+
+- manuscript
+
+- jati
+
+- region
+
+- periodisation
 
 <!-- page 15 (pdf 15) -->
 
 5. What were some of the major religious developments during this period?
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/ch03.pdf"
 source_sha256: "bec7ad3c2ebcb9c3a6ffd01d1f337fb72d6ed9df93a75506a9349ca7496cd03d"
 pdf_pages: 18
 printed_pages: "28-45"
-body_fingerprint: "cd70845c4e61158981d804a8f494be9f830a6daf774db6db0e34f9d294829ec8"
+body_fingerprint: "2d62f451004b31e4ce6e73502f0723a404c7c545c94d89485554be8dce2ec35c"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -77,7 +77,7 @@ The above idea of representation has been an important theme in your Class VI an
 
 3. From the list below, identify the work of a State government and that of a Central government. (a) The decision of the Indian government to maintain peaceful relations with China. (b)The decision of the Madhya Pradesh government to discontinue Board exams in Class VIII for all schools under this Board. (c) Introduction of a new train connection between Ajmer and Mysore. (d)Introduction of a new 1,000 rupee note.
 
-Q4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
+4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
 
 5. You have read that most elected members whether in the Panchayat, or the Vidhan Sabha or the Parliament are elected for a fixed period of five years. Why do we have a system where the representatives are elected for a fixed period and not for life?
 
@@ -103,6 +103,8 @@ With the help of the table below, let us understand this further.
 
 > [caption] Political Party No. of MPs Bharatiya Janata Party (BJP) 303 Indian National Congress (INC) 52 Dravida Munnetra Kazhagam (DMK) 24 All India Trinamool Congress (AITC) 22 Yuvajana Sramika Rythu Congress Party (YSRCP) 22 Shiv Sena (SS) 18 Janata Dal (United) (JD (U)) 16 Biju Janata Dal (BJD) 12 Bahujan Samaj Party (BSP) 10 Telangana Rashtra Samithi (TRS) 9 Lok Jan Shakti Party (LJSP) 5 Samajwadi Party (SP) 5 Independents (Ind.) 4 Nationalist Congress Party (NCP) 4 Communist Party of India (Marxist) (CPI)(M)) 3 Indian Union Muslim League (IUML) 3 Jammu and Kashmir National Conference (J&KNC) 3 Telugu Desam Party (TDP) 3 All India Majlis-e-Ittehadul Muslimeen (AIMIM) 2 Apna Dal (Apna Dal) 2 Communist Party of India (CPI) 2 Shiromani Akali Dal (SAD) 2 Aam Aadmi Party (AAP) 1 AJSU Party (AJSU) 1 All India Anna Dravida Munnetra Kazhagam (AIADMK) 1 All India United Democratic Front (AIUDF) 1 Janata Dal (Secular) (JD(s)) 1 Jharkhand Mukti Morcha (JMM) 1 Kerala Congress (M)(KC(M)) 1 Mizo National Front (MNF) 1 Naga Peoples Front (NPF) 1 National People’s Party (NPP) 1 Nationalist Democratic Progressive Party (PDPP) 1 Rashtriya Loktantrik Party (RLP) 1 Revolutionary Socialist Party (RSP) 1 Sikkim Krantikari Morcha (SKM) 1 Viduthalai Chiruthaigal Katchi (VCK) 1 Grand Total 543
 
+> [caption] Source: http://loksabha.nic.in
+
 > [caption] Use the table alongside to answer the questions below:
 
 > [caption] Who will form the government? Why?
@@ -119,7 +121,7 @@ With the help of the table below, let us understand this further.
 
 > [caption] c. Which political party has won the most seats in all states?
 
-> [table] d. Which party do you think will form the government? Give reasons why. Source: http://loksabha.nic.in
+> [caption] d. Which party do you think will form the government? Give reasons why.
 
 <!-- page 36 (pdf 9) -->
 
@@ -187,7 +189,7 @@ The government gets valuable feedback and is kept on its toes by the questions a
 
 > [table] In the above question, what information is being sought from the Minister of Women and Child Development?
 
-> [table] If you were a Member of Parliament (MP), list two arliament (MP), list two questions that you would like to ask.
+> [table] If you were a Member of Parliament (MP), list two questions that you would like to ask.
 
 <!-- page 39 (pdf 12) -->
 

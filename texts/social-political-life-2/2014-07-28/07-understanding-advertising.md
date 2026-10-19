@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch07.pdf"
 source_sha256: "aee6a76a2cb549469943ef1fdd12f1122d9c9595328fbd2429777d6090937565"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "1ab6ed7af7701bb078965d6f0a39729dfbf2104ef97941c2de3a13e64f5c6b81"
+body_fingerprint: "3a073ed5faeb79e0fe7dc906de6dae831469ce1e79d0f94d70f53d11a9622571"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -165,9 +165,11 @@ Advertising a product costs a lot of money. Usually, crores of rupees are spent 
 
 > [note] What is the message that each social advertisement is trying to get across?
 
-What this often means is that only large companies can advertise. If you own a small business, you will not have the money to show your product on TV or national newspapers and magazines. So, persons who sell papad, pickles, sweets and jams that they have made at home are not considered as fashionable as brand products. They often have to sell their Social advertising Social advertisements refer to advertisements made by the State or private agencies that have a larger message for society. The following are two social advertisements:
+What this often means is that only large companies can advertise. If you own a small business, you will not have the money to show your product on TV or national newspapers and magazines. So, persons who sell papad, pickles, sweets and jams that they have made at home are not considered as fashionable as brand products. They often have to sell their Social advertisements refer to advertisements made by the State or private agencies that have a larger message for society. The following are two social advertisements:
 
 > [note] Having read about diarhhoea epidemic in the chapter on State Government, can you make a social advertisement on what precautionary steps should be taken to prevent diarrhoea?
+
+### Social advertising
 
 Social advertisement regarding educational rights of disabled children.
 

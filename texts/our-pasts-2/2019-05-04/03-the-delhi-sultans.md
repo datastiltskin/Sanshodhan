@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch03.pdf"
 source_sha256: "927a24bcf26e30df6f7beef462184ab6fab3d5ad494d5b00b2bdfbb6af85b1be"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "3eb67780c092c94ec736b485eabb4b0888647d2bd34c38f3fab421621c9b0414"
+body_fingerprint: "8fddf44bf64fea7d8c49cdd1386d5c3aec5b5d9b2770fccac0ef0ee1db11f996"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -46,7 +46,7 @@ Chauhans 1165-1192
 
 Prithviraj Chauhan 1175-1192
 
-EARLY TURKISH RULERS 1206-1290
+### EARLY TURKISH RULERS 1206-1290
 
 Qutbuddin Aybak 1206-1210
 
@@ -58,13 +58,13 @@ Ghiyasuddin Balban 1266-1287
 
 > [caption] Iltutmish’s tomb
 
-KHALJI DYNASTY 1290-1320
+### KHALJI DYNASTY 1290-1320
 
 Jalaluddin Khalji 1290-1296
 
 Alauddin Khalji 1296-1316
 
-TUGHLUQ DYNASTY 1320-1414
+### TUGHLUQ DYNASTY 1320-1414
 
 Ghiyasuddin Tughluq 1320-1324
 
@@ -74,13 +74,15 @@ Firuz Shah Tughluq 1351-1388
 
 > [caption] Alai Darwaza
 
-SAYYID DYNASTY 1414-1451
+### SAYYID DYNASTY 1414-1451
 
 Khizr Khan 1414-1421
 
-LODI DYNASTY 1451-1526
+### LODI DYNASTY 1451-1526
 
 Bahlul Lodi 1451-1489
+
+> [caption] Firuz Shah Tughluq’s tomb
 
 <!-- page 32 (pdf 3) -->
 
@@ -118,11 +120,17 @@ In 1236 Sultan Iltutmish’s daughter, Raziyya, became Sultan. The chronicler of
 
 > [note] Express Minhaj’s ideas in your own words. Do you think Raziyya shared these ideas? Why do you think it was so difficult for a woman to be a ruler?
 
-> [note] Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
+Birthright Privileges claimed on account of birth. For example, people believed that nobles inherited their rights to govern, because they were born in certain families.
 
 > [caption] Gender distinctions Social and biological differences between women and men. Usually, these differences are used to argue that men are superior to women.
 
 <!-- page 34 (pdf 5) -->
+
+> [caption] Map 2 Major cities captured by Shamsuddin Iltutmish.
+
+Hinterland The lands adjacent to a city or port that supply it with goods and services.
+
+Garrison town A fortified settlement, with soldiers.
 
 ## From Garrison Town to Empire: The Expansion of the Delhi Sultanate
 
@@ -131,12 +139,6 @@ In the early thirteenth century the control of the Delhi Sultans rarely went bey
 Controlling garrison towns in distant Bengal and Sind from Delhi was extremely difficult. Rebellion, war, even bad weather could snap fragile communication routes. Delhi’s authority was also challenged by Mongol invasions from Afghanistan and by governors who rebelled at any sign of the Sultan’s weakness. The Sultanate barely survived these challenges. Its consolidation occurred during the reign of Ghiyasuddin Balban and further expansion under Alauddin Khalji and Muhammad Tughluq.
 
 The first set of campaigns along the “internal frontier” of the Sultanate aimed at consolidating the hinterlands of the garrison towns. During these campaigns forests were cleared in the Ganga-Yamuna doab and hunter-gatherers and pastoralists expelled from their habitat.
-
-> [caption] Map 2 Major cities captured by Shamsuddin Iltutmish.
-
-> [note] Hinterland The lands adjacent to a city or port that supply it with goods and services.
-
-> [note] Garrison town A fortified settlement, with soldiers.
 
 <!-- page 35 (pdf 6) -->
 
@@ -194,7 +196,7 @@ Slaves and clients were loyal to their masters and patrons, but not to their hei
 
 > [note] Why do you think Barani criticised the Sultan?
 
-> [note] Client Someone who is under the protection of another; a dependent or hanger-on.
+Client Someone who is under the protection of another; a dependent or hanger-on.
 
 <!-- page 39 (pdf 10) -->
 
@@ -260,9 +262,11 @@ Knights and the Crusades
 
 > [note] The Church patronised this group and used them to propagate their idea of “Peace of God”. The attempt was to direct warriors away from conflict amongst themselves and send them instead on a campaign against the Muslims who had captured the city of Jerusalem. This led to a series of campaigns called the Crusades. These campaigns in the service of God and the Church completely altered the status of Knights. Originally, these Knights did not belong to the class of nobles. But by the end of the eleventh century in France, and a century later in Germany, the humble origins of these warriors were forgotten. By the twelfth century, nobles also wanted to be known as Knights.
 
-Imagine
+### Imagine
 
-You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
+You are a peasant in Alauddin Khalji’s
+
+or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 
 <!-- section: exercises -->
 
@@ -277,10 +281,6 @@ You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you c
 4. From which country did Ibn Battuta travel to India?
 
 <!-- page 44 (pdf 15) -->
-
-KEYWORDS iqta tarikh garrison
-
-Mongols gender kharaj
 
 ### Let’s understand
 
@@ -303,3 +303,19 @@ Mongols gender kharaj
 ### Let’s do
 
 12. Find out whether there are any buildings built by the Delhi Sultans in your area. Are there any other buildings in your area that were built between the twelfth and fifteenth centuries? Describe some of these buildings, and draw sketches of them.
+
+<!-- section: glossary -->
+
+### Keywords
+
+- iqta
+
+- tarikh
+
+- garrison
+
+- Mongols
+
+- gender
+
+- kharaj

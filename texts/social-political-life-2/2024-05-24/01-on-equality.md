@@ -11,9 +11,11 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch01.pdf"
 source_sha256: "10360a07571025fb0729e2abad737d4500b626ccdfb5a38f0549a73cfa00bd77"
 pdf_pages: 8
 printed_pages: "2-9"
-body_fingerprint: "c8219fc4a13d1017df263f4ffeb4eceec784418657f9b46d47f81f2099b65974"
+body_fingerprint: "f8ae7f0c109e4f84f9a9dda87da5773c488f1aa77206ea03f6ce9ebcc51361df"
 ocr_pages:
   - 4
+overrides:
+  - "The words ZERO HUNGER are printed inside the SDG picture on page 5 and are not a heading. The OCR read them as one"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -54,8 +56,6 @@ The two ways in which the government has tried to implement the equality that is
 
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
-## fig ZEROHUNGER
-
 > [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org
@@ -74,7 +74,7 @@ While government programmes play an important role in increasing equality of opp
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 
-Issues of equality in other democracies
+### Issues of equality in other democracies
 
 You are probably wondering whether India is the only democratic country in which there is inequality and where the struggle for equality continues to exist. The truth is that in many democratic countries around the world, the issue of equality continues to be the key issue around which communities struggle. So, for example, in the United States of America, the African–Americans whose ancestors were the slaves who were brought over from Africa, continue to describe their lives today as largely unequal. This, despite the fact that there was a movement in the late 1950s to push for equal rights for African– Americans. Prior to this, African–Americans were treated extremely unequally in the United States and denied equality through law. For example, when travelling by bus, they either had to sit at the back of the bus or get up from their seat whenever a white person wished to sit.
 
@@ -98,7 +98,9 @@ Challenge of democracy
 
 No country can be described as being completely democratic. There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues. Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained. In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India. As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.
 
-Excerpt from Article 15 of the Indian Constitution Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
+Excerpt from Article 15 of the Indian Constitution EXERCISES Glossary
+
+Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.
 
 (1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
 
@@ -112,10 +114,6 @@ or
 
 <!-- page 9 (pdf 8) -->
 
-<!-- section: exercises -->
-
-EXERCISES
-
 > [table] 1. In a democracy why is universal adult franchise important?
 
 > [table] 2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?
@@ -125,10 +123,6 @@ EXERCISES
 > [table] 4. According to the Rights of Persons with Disabilities Act, 2016, persons with disabilities have equal rights, and that the government should make possible their full participation in society. The government has to provide http://disabilityaffairs.gov.in free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.
 
 > [table] Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?
-
-<!-- section: glossary -->
-
-Glossary
 
 > [table] Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.
 

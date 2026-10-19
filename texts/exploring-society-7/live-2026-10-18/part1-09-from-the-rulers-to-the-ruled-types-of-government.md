@@ -11,7 +11,13 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "0475afc6f2a84c333935cb894e4e7a9f977c176bf7db62363c81b4da3af0aab0"
+body_fingerprint: "c4bd3a7c8e2e0870dd55db06b7bd442c8abcb62242e11a9a792fd625897a6eac"
+overrides:
+  - "part 1 chapter 9, page 192: the word RIGHTS is printed on an icon, not a heading"
+  - "part 1 chapter 9, page 195: Table 9.1 rows rebuilt from the page image"
+  - "part 1 chapter 9, page 198: the margin glossary entry Slave landed on the Fig. 9.7 caption"
+  - "part 1 chapter 9, page 205: Table 9.2 rebuilt from the page image, the box sentence stays below the table"
+  - "part 1 chapter 9, page 208: exercise table rebuilt from the page image (the printed pairing is as shown, not a correct matching)"
 ---
 
 <!-- page 185 (pdf 1) -->
@@ -84,7 +90,9 @@ Shobha: But you will finish school in a few months. The students in Grade 11 sho
 
 Gurpreet: If the students of only one grade will take care of everything, then how will they know about the problems that other grades face?
 
-> [caption] Vl THINK ABOUT IT
+> [caption] Fig. 9.3
+
+> [caption] THINK ABOUT IT
 
 > [caption] The school example helps us to understand the concept of representation and how it works. However, the students’ committee is different from Parliamentary and Legislative committees, as class representatives in a school are quite different from Members of Parliament (MPs) and Members of the Legislative Assembly (MLAs). What are these differences? Discuss with your teacher in the classroom and make a list.
 
@@ -168,21 +176,13 @@ Representative participation means that every person has a right to choose and e
 
 > [note] What is the government working for? What goals is it trying to achieve?
 
-> [caption] NS es e SI
-
-## we
-
 <!-- page 192 (pdf 8) -->
 
 Universal adult franchise grants every citizen (above a certain age) the right to vote to choose their representative.
 
 Fundamental rights of a citizen, such as — right to equality, right to freedom of speech and expression, and right against exploitation — are all provided and protected in a democracy.
 
-is
-
 Independent judiciary ensures that every citizen’s fundamental rights are protected, and that laws are followed by the citizens and also by all the parts of the government.
-
-GY OE;
 
 It is useful to remember that even these fundamental principles have evolved over time. For example, India provided universal adult franchise (meaning the right to vote in elections to all adults) from the very beginning of the Indian republic in 1950; on the other hand, in Switzerland, women got the right to vote only in 1971.
 
@@ -254,25 +254,23 @@ Executive: The executive is the organ of the government which is responsible for
 
 Different forms of democratic government
 
-Institution Executive Legislature Judiciary Lower House (Lok Sabha) is more powerful than Upper House (Rajya Sabha)
+> [table] Institution | Executive | Legislature | Judiciary
 
-independent from executive and legislature (separation of power)
+> [table] India | prime minister and the council of ministers | Lower House (Lok Sabha) is more powerful than Upper House (Rajya Sabha) | independent from executive and legislature (separation of power)
 
-prime minister and the council of ministers India equal power between Upper House (Senate) and Lower House (House of Representatives)
+> [table] USA | president | equal power between Upper House (Senate) and Lower House (House of Representatives) | independent from executive and legislature (separation of power)
 
-independent from executive and legislature (separation of power)
+> [table] South Korea | president | single house (National Assembly) | independent from executive and legislature (separation of power)
 
-USA president independent from executive and legislature (separation of power)
+> [table] Australia | prime minister and the council of ministers | equal power between Upper House (Senate) and Lower House (House of Representatives) | independent from executive and legislature (separation of power)
 
-South Korea president single house (National Assembly)
+> [table] A | | |
 
-equal power between Upper House (Senate) and Lower House (House of Representatives)
-
-independent from executive and legislature (separation of power)
-
-prime minister and the council of ministers Australia A B Legislature: The legislature is the body of the government which is responsible for making laws. It is known by different names in different countries. In India, it is called Parliament; in the USA, it is called Congress. In most democracies, it has two houses, the Upper House and the Lower House.
+> [table] B | | |
 
 > [caption] Table 9.1 Different forms of democratic government
+
+Legislature: The legislature is the body of the government which is responsible for making laws. It is known by different names in different countries. In India, it is called Parliament; in the USA, it is called Congress. In most democracies, it has two houses, the Upper House and the Lower House.
 
 <!-- page 196 (pdf 12) -->
 
@@ -308,7 +306,7 @@ This was the case in at least two of India’s ancient mahājanapadas, as you mi
 
 Indeed, the voice of the common people has been valued and upheld in India through the ages, even when the power was in the hands of a king or queen. A remarkable example from the Chola period is seen in the Uttaramerur inscriptions from the 10th century CE in Tamil Nadu, which provide us with details about the election of members to the village sabhā (local administrative body). We learn about the election process, including sealed ballot boxes, qualifications of members, their duties, and also the conditions that could lead to their dismissal.
 
-> [caption] Fig. 9.6. Chola period inscriptions on the walls of Vaikuntha Perumal temple,
+> [caption] Fig. 9.6. Chola period inscriptions on the walls of Vaikuntha Perumal temple, Uttaramerur, Tamil Nadu
 
 <!-- page 198 (pdf 14) -->
 
@@ -328,7 +326,7 @@ In some parts of the world, kings had all the power; they made the laws, enforce
 
 However, in many parts of India, the power of the raja was neither absolute nor beyond question. The king was expected to make decisions while staying within the limits of rājadharma; this meant ruling according to dharma and ensuring the welfare of all people. This was an ideal that kings did not necessarily achieve.
 
-> [caption] Fig. 9.7. Adoration of the pillar
+> [caption] Fig. 9.7. Adoration of the pillar of Sanchi Stūpa
 
 > [caption] Slave: A person who is forced to work for and obey another and is considered to be their property.
 
@@ -452,7 +450,19 @@ These different types of governments show us that democracy is not the only way 
 
 Consider the characteristics below in different forms of government and fill in the blank boxes with Yes or No:
 
-Characteristics Democracy Dictatorship Absolute Monarchy Oligarchy Universal Adult Franchise Yes No Equality amongst citizens Freedom of speech Separation of powers Wellbeing and Prosperity of all citizens You have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:
+> [table] Characteristics | Democracy | Dictatorship | Absolute Monarchy | Oligarchy
+
+> [table] Universal Adult Franchise | Yes | No | No | No
+
+> [table] Equality amongst citizens | | | |
+
+> [table] Freedom of speech | | | |
+
+> [table] Separation of powers | | | |
+
+> [table] Wellbeing and Prosperity of all citizens | | | |
+
+You have learnt the basic characteristics of various forms of governments. Do a small role play of the various forms in your classroom:
 
 <!-- page 206 (pdf 22) -->
 
@@ -504,21 +514,19 @@ Democracy matters, but there are serious challenges to democracy that citizens n
 
 5. These are some practices in a few different countries. Can you match the practice with the type of government?
 
-S. No Practice in the country Type of Government I. All citizens are treated equally before law Dictatorship The government refers to the religious leader for each and every decision it takes.
+> [table] S. No | Practice in the country | Type of Government
 
-II.
+> [table] I. | All citizens are treated equally before law | Dictatorship
 
-Monarchy
+> [table] II. | The government refers to the religious leader for each and every decision it takes. | Monarchy
 
-III. After the queen’s death, her son became the new king. Democracy The ruler is not bound to follow any Constitution. He makes all the decisions as per his choice.
+> [table] III. | After the queen’s death, her son became the new king. | Democracy
 
-IV.
-
-Theocracy
+> [table] IV. | The ruler is not bound to follow any Constitution. He makes all the decisions as per his choice. | Theocracy
 
 6. Below is a list of countries. Find out the types of government these countries have:
 
-S. No Country Type of Government
+### S. No Country Type of Government
 
 1 Bhutan
 

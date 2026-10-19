@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch03.pdf"
 source_sha256: "68a933e37f5d1fb9ba9e4cf3ff54cbdfd4fc9e553bcda37922cd1bd5fcaacdef"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "a2e56c5eb26a476ed3981b5fefd0a68a43dd0a37549a429b2ad0bfc1c77a4ba3"
+body_fingerprint: "f6635b48199efe3462c94633f826eb3b10ad76616d69ffe2badeda892e3126ea"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -78,7 +78,7 @@ The above idea of representation has been an important theme in your Class VI an
 
 3. From the list below, identify the work of a State government and that of a Central government. (a) The decision of the Indian government to maintain peaceful relations with China. (b)The decision of the Madhya Pradesh government to discontinue Board exams in Class VIII for all schools under this Board. (c) Introduction of a new train connection between Ajmer and Mysore. (d)Introduction of a new 1,000 rupee note.
 
-Q4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
+4. Fill in the blanks with the following words. universal adult franchise; MLAs; representatives; directly Democratic governments in our times are usually referred to as representative democracies. In representative democracies, people do not participate ……...............… but, instead, choose their ….............……..through an election process. These …….......….. meet and make decisions for the entire population. These days, a government cannot call itself democratic unless it allows what is known as ............................................ This means that all adult citizens in the country are allowed to vote.
 
 5. You have read that most elected members whether in the Panchayat, or the Vidhan Sabha or the Parliament are elected for a fixed period of five years. Why do we have a system where the representatives are elected for a fixed period and not for life?
 
@@ -128,7 +128,7 @@ Grand Total 543
 
 Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
 
-A. To Select the National Government
+### A. To Select the National Government
 
 Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha. After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party. For a political party to form the government, they must have a majority of elected MPs. Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more. The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed. The largest amongst these parties is called the Opposition party.
 
@@ -194,7 +194,7 @@ The government gets valuable feedback and is kept on its toes by the questions a
 
 > [caption] In the above question, what information is being sought from the Minister of Women and Child Development?
 
-> [caption] If you were a Member of Parliament (MP), list two arliament (MP), list two questions that you would like to ask.
+> [caption] If you were a Member of Parliament (MP), list two questions that you would like to ask.
 
 <!-- page 39 (pdf 12) -->
 
@@ -238,7 +238,7 @@ It has been observed that representative democracy cannot produce a perfect refl
 
 Similarly, it has more recently been suggested that there should be reservation of seats for women. This issue is still being debated. Sixty years ago, only four per cent of MPs were women and today it is just above nine per cent. This is a small share when you consider the fact that half the population are women.
 
-It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government. Why do you think there are so few women in Parliament? Discuss.
+It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government.
 
 <!-- section: glossary -->
 
@@ -251,6 +251,8 @@ Coalition: A temporary alliance of groups or parties. In this chapter, it refers
 > [table] Unresolved: Situations in which there are no easy solutions to problems.
 
 > [caption] The above photo shows a few women Members of Parliament.
+
+> [caption] Why do you think there are so few women in Parliament? Discuss.
 
 <!-- page 41 (pdf 14) -->
 

@@ -11,7 +11,9 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch07.pdf"
 source_sha256: "3153d757a5f3bcc05984aec2ce83a3ed833a82e3508089786840fc729ea56a4f"
 pdf_pages: 12
 printed_pages: "74-85"
-body_fingerprint: "6b46b6e114506abbd5c9b899b8e785ff2ce62bb9a4fe87198e472675e8843fc6"
+body_fingerprint: "9037b24bc8baa191b7ec2172b8139a32692a38d04138e0dc3f20494e1adf2ba0"
+overrides:
+  - "Page 77 is a photo collage with no printed page number. The OCR read the collage as '77 77'"
 ---
 
 <!-- page 74 (pdf 11 of ch06.pdf) -->
@@ -44,8 +46,6 @@ We go to the market to buy many things – vegetables, soap, toothpaste, masala,
 
 <!-- page 77 (pdf 2) -->
 
-77 77
-
 <!-- page 78 (pdf 3) -->
 
 > [table] Why do people go to a weekly market? Give three reasons.
@@ -70,13 +70,15 @@ One of the advantages of weekly markets is that most things you need are availab
 
 Shops in the neighbourhood
 
-We have seen that the weekly markets offer a variety of goods. However, we also buy things from other kinds of markets. There are many shops that sell goods and services in our neighbourhoods. We may buy milk from the dairy, groceries from departmental stores, stationery, eatables or medicines from other Sujata and Kavita were sent to buy groceries from their neighbourhood shop. This was the shop they usually went to. It was crowded today. The shop owner managed the shop herself with two helpers. When they managed to get into the shop, Sujata dictated a list to her. She in turn began asking her helpers to weigh and pack the items. Meanwhile Kavita looked around…
+We have seen that the weekly markets offer a variety of goods. However, we also buy things from other kinds of markets. There are many shops that sell goods and services in our neighbourhoods. We may buy milk from the dairy, groceries from departmental stores, stationery, eatables or medicines from other
 
 <!-- page 79 (pdf 4) -->
 
+Sujata and Kavita were sent to buy groceries from their neighbourhood shop. This was the shop they usually went to. It was crowded today. The shop owner managed the shop herself with two helpers. When they managed to get into the shop, Sujata dictated a list to her. She in turn began asking her helpers to weigh and pack the items. Meanwhile Kavita looked around…
+
 On the top left shelf there were different brands of detergent cakes. Another shelf had toothpastes, talcum powder, shampoo, hair oil. The different brands and different colours looked so attractive. On the floor lay a few sacks.
 
-It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ` 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
+It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
 > [table] Why did Sujata carry a notebook? Do you think this system is
 
@@ -90,7 +92,7 @@ Shops in the neighbourhood are useful in many ways. They are near our home and w
 
 > [table] neighbourhood? What do you purchase from them?
 
-> [table] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside
+> [table] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
 
 <!-- page 80 (pdf 5) -->
 
@@ -98,17 +100,19 @@ You might have noticed that there are different kinds of sellers even in the nei
 
 Anzal Mall is a five-floor shopping complex. Kavita and Sujata were enjoying going up and down in the lift. It seemed as if it was made of glass and they were able to see outside as they went up. It was fascinating to see so many different kinds of shops such as the ice-cream, burger, pizza and other food shops; shops full of home appliances; footwear and leather items as well as bookshops.
 
-While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ` 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
+While wandering about on the third floor they entered a shop that was selling branded ready-made clothes.The security guard looked at them as if he wanted to stop them but he did not say anything. They looked at some dresses and then looked at the price tag. None of them was less than ₹ 3,000, almost five times the weekly market price! Sujata whispered to Kavita, “I’ll take you to another shop which has good quality ready-made clothes at more reasonable prices”.
 
 Shopping complexes and malls
 
 > [table] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What
 
-So far we have seen two kinds of marketplaces – weekly markets and markets in our neighbourhood. There are other markets in the urban area that have many shops, popularly called shopping complexes. These days, in many urban areas, you also have large multi-storeyed air-conditioned buildings with shops on different floors, known as malls. In these urban markets, you get both branded and non-branded goods. As you have read in the chapter on advertising, branded goods are expensive, often promoted by advertising and claims of better quality. The companies producing these products sell them through shops in large urban markets and, at times, through special showrooms. As compared to non-branded goods, fewer people can afford to buy branded ones.
+So far we have seen two kinds of marketplaces – weekly markets and markets in our neighbourhood. There are other markets in the urban area that have many shops, popularly called shopping complexes. These days, in many urban areas, you also have large multi-storeyed air-conditioned buildings with shops on different floors, known as malls. In these urban markets, you get both branded and non-branded goods. As you have read in the chapter on advertising,
 
 > [table] would you say if someone stops you from entering a shop in a market?
 
 <!-- page 81 (pdf 6) -->
+
+branded goods are expensive, often promoted by advertising and claims of better quality. The companies producing these products sell them through shops in large urban markets and, at times, through special showrooms. As compared to non-branded goods, fewer people can afford to buy branded ones.
 
 Chain of markets
 
@@ -116,7 +120,9 @@ In the previous sections, you have read about different markets from where we bu
 
 The people in between the producer and the final consumer are the traders. The wholesale trader first buys goods in large quantities. For example, the vegetable wholesale trader will not buy a few kilos of vegetables, but will buy in large lots of 25 to 100 kilos. These will then be sold to other traders. In these markets, buying and selling takes place between traders. It is through these links of traders that goods reach faraway places. The trader who finally sells this to the consumer, is the retailer. This could be a trader in a weekly market, a hawker in the neighbourhood or a shop in a shopping complex.
 
-We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city The above map of Delhi shows four of the 10 wholesale markets in the city.
+We can understand this with the help of the following examples –
+
+Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city
 
 > [table] Why do people not bargain in shops located in malls whereas they bargain in weekly markets?
 
@@ -132,11 +138,13 @@ We can understand this with the help of the following examples – Every city ha
 
 > [caption] Okhla
 
+The above map of Delhi shows four of the 10 wholesale markets in the city.
+
 <!-- page 82 (pdf 7) -->
 
 wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
-Aftab –The wholesaler in the city
+### Aftab –The wholesaler in the city
 
 Aftab is one of the wholesale traders who purchases in bulk. His business starts around 2 o’clock in the morning when vegetables reach the market. This is the time when the vegetable market or mandi starts buzzing with activity. The vegetables come in trucks, matadors, tractor trolleys from farms both near and far. Soon the process of auctions begins. Aftab participates in this auction and decides what he will buy. Today, for example, he bought 5 quintals of cauliflower, 10 quintals of onions. He has a shop in the market where he stores the vegetables that he has bought. From here he sells to hawkers and shopkeepers who start coming to the market around six in the morning. They have to organise their purchases so that they can start their shop for the day around ten in the morning.
 
@@ -144,15 +152,19 @@ Markets everywhere
 
 So far we have seen different marketplaces where people buy and sell a variety of goods and services. All these markets are in a specific locality and work in a particular manner and time. However, it is not always necessary that one has to go to the market to purchase goods. You can place orders for a variety of things through the phone and these days through the Internet, and the goods are delivered at your home. In clinics and nursing homes, you may have noticed sales representatives waiting for doctors. Such persons are also engaged in the selling of goods. Thus, buying and selling takes place in different ways, not necessarily through shops in the market.
 
-The markets that we looked at above are the ones that we recognise easily. However, there are markets that we may not be so aware of. This is because a large number of goods are bought and sold that we don’t use directly. For example, a farmer uses fertilisers to grow crops that he purchases from special shops in the city and they, in turn get them from factories. A car factory purchases engine, gears, petrol tanks, axles, wheels, etc., from various other factories. We don’t usually see all the buying and selling, but only the final product – the car in the showroom. The story is similar for any other good.
+The markets that we looked at above are the ones that we recognise easily. However, there are markets that we may not be so aware of. This is because a
 
 <!-- page 83 (pdf 8) -->
+
+large number of goods are bought and sold that we don’t use directly. For example, a farmer uses fertilisers to grow crops that he purchases from special shops in the city and they, in turn get them from factories. A car factory purchases engine, gears, petrol tanks, axles, wheels, etc., from various other factories. We don’t usually see all the buying and selling, but only the final product – the car in the showroom. The story is similar for any other good.
 
 Markets and equality
 
 In this chapter, we have looked at shop owners in a weekly market and those in a shopping complex. They are very different people. One is a small trader with little money to run the shop whereas the other is able to spend a lot of money to set up the shop. They also earn unequal amounts. The weekly market trader earns little compared to the profit of a regular shop owner in a shopping complex. Similarly, buyers are differently placed. There are many who are not able to afford the cheapest of goods while others are busy shopping in malls. Thus, whether we can be buyers or sellers in these different markets depends, among other things, on the money that we have.
 
-We have also examined the chain of markets that is formed before goods can reach us. It is through People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
+We have also examined the chain of markets that is formed before goods can reach us. It is through
+
+People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
 
 A car being put together in a factory.
 
@@ -174,13 +186,21 @@ EXERCISES
 
 > [table] 2. Compare and contrast a weekly market and a shopping complex on the following:
 
-Market Kind of goods sold Prices of goods Sellers Buyers Weekly market Shopping complex Glossary
+Market Kind of goods sold Prices of goods Sellers Buyers
+
+Weekly market
+
+Shopping complex
 
 > [table] 3. Explain how a chain of markets is formed. What purpose does it serve?
 
 > [table] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
 
 > [table] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
+
+<!-- section: glossary -->
+
+Glossary
 
 > [table] Weekly market: These markets are not daily markets but are to be found at a particular place on one or maybe two days of the week. These markets most often sell everything that a household needs ranging from vegetables to clothes to utensils.
 

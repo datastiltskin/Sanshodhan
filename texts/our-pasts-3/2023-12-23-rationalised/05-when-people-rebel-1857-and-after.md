@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch05.pdf"
 source_sha256: "e58a1f64fe0bf0d848ee6ae4dbdbe5179bcded0b31e382ad19cdf24fba1be209"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "9c6d66150a1e5a3664f246d13919710cf2e7308429396a78a66e7e5bfc3137f1"
+body_fingerprint: "d996bdd428c7236cc877042bd84f7fd9b2ad4f25485cbcca049964cd50ac095f"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -25,11 +25,13 @@ In the previous chapters you looked at the policies of the East India Company an
 
 Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
 
-Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Activity Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
+Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
 
 > [caption] Fig. 1 – Sepoys and peasants gather forces for the revolt that spread across the plains of north India in 1857
 
 <!-- page 52 (pdf 2) -->
+
+### Activity
 
 Peshwa Baji Rao II, pleaded that he be given his father’s pension when the latter died. However, the Company, confident of its superiority and military powers, turned down these pleas.
 
@@ -77,7 +79,11 @@ Another account we have from those days are the memoirs of Subedar Sitaram Pande
 
 It is my humble opinion that this seizing of Oudh filled the minds of the Sepoys with distrust and led them to plot against the Government. Agents of the Nawab of Oudh and also of the King of Delhi were sent all over India to discover the temper of the army. They worked upon the feelings of sepoys, telling them how treacherously the foreigners had behaved towards their king. They invented ten thousand lies and promises to persuade the soldiers to mutiny and turn against their masters, the English, with the object of restoring the Emperor of Delhi to the throne. They maintained that this was wholly within the army’s powers if the soldiers would only act together and do as they were advised.
 
-> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings Source 2
+> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings
+
+> [table] Source 2 contd.
+
+> [caption] Source 2
 
 <!-- page 55 (pdf 5) -->
 
@@ -95,17 +101,19 @@ Though struggles between rulers and the ruled are not unusual, sometimes such st
 
 Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
 
-Activity
+### Activity
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt?
 
 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
-Mutiny – When soldiers as a group disobey their officers in the army On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857. The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
+Mutiny – When soldiers as a group disobey their officers in the army Firangis – Foreigners The term reflects an attitude of contempt.
 
 <!-- page 56 (pdf 6) -->
 
 ### From Meerut to Delhi
+
+On 8 April 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857. The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
 
 The sepoys of Meerut rode all night of 10 May to reach Delhi in the early hours next morning. As news of their arrival spread, the regiments stationed in Delhi also rose up in rebellion. Again british officers were killed, arms and ammunition seized, buildings set on fire. Triumphant soldiers gathered around the walls of the Red Fort where the Badshah lived, demanding to meet him. The emperor was not quite willing to challenge the mighty British power but the soldiers persisted. They forced their way into the palace and proclaimed Bahadur Shah Zafar as their leader.
 
@@ -114,8 +122,6 @@ The sepoys of Meerut rode all night of 10 May to reach Delhi in the early hours 
 > [caption] On the evening of 3 July 1857, over 3,000 rebels came from Bareilly, crossed the river Jamuna, entered Delhi, and attacked the British cavalry posts. The battle continued all through the night.
 
 > [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
-
-> [note] Firangis – Foreigners The term reflects an attitude of contempt.
 
 <!-- page 57 (pdf 7) -->
 
@@ -129,7 +135,7 @@ The British had not expected this to happen. They thought the disturbance caused
 
 After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
 
-Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and Activity
+Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and
 
 > [caption] Fig. 6 – Bahadur Shah Zafar
 
@@ -138,6 +144,8 @@ Regiment after regiment mutinied and took off to join other troops at nodal poin
 > [caption] Fig. 8 – As the mutiny spread, British officers were killed in the cantonments
 
 <!-- page 58 (pdf 8) -->
+
+### Activity
 
 1. Why did the Mughal emperor agree to support the rebels?
 
@@ -167,13 +175,15 @@ The recapture of Delhi, however, did not mean that the rebellion died down after
 
 Lucknow was taken in March 1858. Rani Lakshmibai was defeated and killed in June 1858. A similar fate awaited Rani Avantibai, who after initial victory in Kheri, chose to embrace death when surrounded by the British on all sides. Tantia Tope escaped to the jungles of central India and continued to fight a guerrilla war with the support of many tribal and peasant leaders. He was captured, tried and killed in April 1859.
 
-Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, Activity Make a list of places where the uprising took place in May, June and July 1857.
+Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, Make a list of places where the uprising took place in May, June and July 1857.
 
 > [caption] Fig. 12– The siege train reaches Delhi
 
 > [caption] The British forces initially found it difficult to break through the heavy fortification in Delhi. On 3 September 1857, reinforcements arrived – a 7- mile-long siege train comprising cartloads of canons and ammunition pulled by elephants.
 
 > [caption] Fig. 13 – Postal stamp issued in commemoration of Tantia Tope
+
+### Activity
 
 <!-- page 60 (pdf 10) -->
 

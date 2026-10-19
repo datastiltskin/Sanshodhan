@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch06.pdf"
 source_sha256: "a1e8a27b4c7f398feb11a7ff55fbe4bbc47e427fe0378172de79713867dfd61f"
 pdf_pages: 18
 printed_pages: "61-78"
-body_fingerprint: "e86695ce92a8d5c1e5d4b468adfcdccdfe66003f716b7eb614070e1834b6fbbd"
+body_fingerprint: "67da03468ec9e508e374ea9ebc9834a8dbe96102445cbe629a51646dfd24a0b8"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -29,7 +29,7 @@ Many people were uneasy with such ideas and turned to the teachings of the Buddh
 
 <!-- page 62 (pdf 2) -->
 
-Shiva, Vishnu and Durga as supreme deities came to be worshipped through elaborate rituals. At the same time, gods and goddesses worshipped in different areas c a m e t o b e identified with Shiva, Vishnu or Durga. In the process, local myths and legends became a part of the Puranic stories, and methods of worship recommended in the Puranas were introduced into the local cults. Eventually the Puranas also laid down that it was possible for devotees to receive the grace of God regardless of their caste status. The idea of bhakti became so popular that even Buddhists and Jainas adopted these beliefs.
+Shiva, Vishnu and Durga as supreme deities came to be worshipped through elaborate rituals. At the same time, gods and goddesses worshipped in different areas came to be identified with Shiva, Vishnu or Durga. In the process, local myths and legends became a part of the Puranic stories, and methods of worship recommended in the Puranas were introduced into the local cults. Eventually the Puranas also laid down that it was possible for devotees to receive the grace of God regardless of their caste status. The idea of bhakti became so popular that even Buddhists and Jainas adopted these beliefs.
 
 ## A New Kind of Bhakti in South India – Nayanars and Alvars
 
@@ -77,7 +77,7 @@ We noted earlier the connection between the Tamil bhakti movement and temple wor
 
 <!-- page 65 (pdf 5) -->
 
-Virashaiva vachanas
+### Virashaiva vachanas
 
 > [note] These are vachanas or sayings attributed to Basavanna:
 
@@ -95,7 +95,7 @@ From the thirteenth to the seventeenth centuries, Maharashtra saw a great number
 
 These saint-poets rejected all forms of ritualism, outward display of piety and social differences based on birth. In fact, they even rejected the idea of renunciation and preferred to live with their families, earning their livelihood like any other person, while humbly serving fellow human beings in need. A new humanist idea emerged as they insisted that bhakti lay in sharing others’ pain. As the famous Gujarati saint Narsi Mehta said, “They are Vaishnavas who understand the pain of others.”
 
-> [note] The Vaishnava poet-saints of Maharashtra, such as Jnaneshwar, Namadeva, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the Varkari sect which lay emphasis on an annual pilgrimage to Pandharpur. The cult of Vitthala emerged as a powerful mode of devotion and was very popular amongst the people.
+The Vaishnava poet-saints of Maharashtra, such as Jnaneshwar, Namadeva, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the Varkari sect which lay emphasis on an annual pilgrimage to Pandharpur. The cult of Vitthala emerged as a powerful mode of devotion and was very popular amongst the people.
 
 <!-- page 66 (pdf 6) -->
 
@@ -129,7 +129,7 @@ Islam propagated strict monotheism or submission to one God. In the eighth and n
 
 > [caption] Fig. 4 Mystics in ecstasy.
 
-> [note] In Kashmir, the Rishi order of Sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
+In Kashmir, the Rishi order of Sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
 
 <!-- page 69 (pdf 9) -->
 
@@ -139,9 +139,11 @@ The Sufi masters held their assemblies in their khanqahs or hospices. Devotees o
 
 Often people attributed Sufi masters with miraculous powers that could relieve others of their illnesses and troubles. The tomb or dargah of a Sufi saint became a place of pilgrimage to which thousands of people of all faiths thronged.
 
+> [caption] Fig. 6 Devotees of all backgrounds visit Sufi shrines.
+
 > [caption] Fig. 5 A page from a manuscript of the Quran, Deccan, late fifteenth century.
 
-> [note] Hospice House of rest for travellers, especially one kept by a religious order.
+Hospice House of rest for travellers, especially one kept by a religious order.
 
 <!-- page 70 (pdf 10) -->
 
@@ -165,7 +167,7 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 > [caption] Map 1 Major bhakti saints and the regions associated with them.
 
-> [note] The essence of Shankaradeva’s devotion came to be known as Eka Sarana Nama Dharma (supreme surrender to the One). The teachings of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana. He also encouraged the establishment of satra or monasteries for transmission of knowledge. His major compositions included Kirtana-ghosha.
+The essence of Shankaradeva’s devotion came to be known as Eka Sarana Nama Dharma (supreme surrender to the One). The teachings of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana. He also encouraged the establishment of satra or monasteries for transmission of knowledge. His major compositions included Kirtana-ghosha.
 
 <!-- page 72 (pdf 12) -->
 
@@ -233,7 +235,7 @@ The changing historical situation during the sixteenth and seventeenth centuries
 
 <!-- page 76 (pdf 16) -->
 
-Imagine
+### Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
@@ -281,11 +283,15 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 <!-- section: glossary -->
 
-Keywords
+### Keywords
 
-Virashaivism bhakti
+- Virashaivism
 
-Sufi khanqah
+- bhakti
+
+- Sufi
+
+- khanqah
 
 <!-- page 78 (pdf 18) -->
 

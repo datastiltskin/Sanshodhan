@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch05.pdf"
 source_sha256: "0b338cf2619ad4cc9bd853be5c04389977c968a8ba77553679a90e4d63792290"
 pdf_pages: 13
 printed_pages: "51-63"
-body_fingerprint: "570155acbaca24f03e9551b6cb1cc844f693e9d8f41c05af02c387332cb3c5a3"
+body_fingerprint: "27bacd7662de5973da6013e1f6317a6ab75d16dc8a81e613941a2ff0397ce1ed"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -69,6 +69,8 @@ Given here are excerpts from the book Majha Pravaas, written by Vishnubhatt Gods
 
 the English were determined to wipe out the religions of the Hindus and the Muslims … they had made a list of eighty-four rules and announced these in a gathering of all big kings and princes in Calcutta. They said that the kings refused to accept these rules and warned the English of dire consequences and massive upheaval if these are implemented … that the kings all returned to their capitals in great anger … all the big people began making plans. A date was fixed for the war of religion and the secret plan had been circulated from the cantonment in Meerut by letters sent to different cantonments.
 
+> [table] Vishnubhatt Godse, Majha Pravaas, pp. 23-24.
+
 <!-- page 54 (pdf 4) -->
 
 ## “There was soon excitement in every regiment”
@@ -77,7 +79,11 @@ Another account we have from those days are the memoirs of Subedar Sitaram Pande
 
 It is my humble opinion that this seizing of Oudh filled the minds of the Sepoys with distrust and led them to plot against the Government. Agents of the Nawab of Oudh and also of the King of Delhi were sent all over India to discover the temper of the army. They worked upon the feelings of sepoys, telling them how treacherously the foreigners had behaved towards their king. They invented ten thousand lies and promises to persuade the soldiers to mutiny and turn against their masters, the English, with the object of restoring the Emperor of Delhi to the throne. They maintained that this was wholly within the army’s powers if the soldiers would only act together and do as they were advised.
 
-> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings Source 2
+> [caption] Fig. 3 – Rebel sepoys at Meerut attack officers, enter their homes and set fire to buildings
+
+> [table] Source 2 contd.
+
+> [caption] Source 2
 
 <!-- page 55 (pdf 5) -->
 
@@ -95,7 +101,7 @@ Though struggles between rulers and the ruled are not unusual, sometimes such st
 
 Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
 
-Activity 
+### Activity
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
@@ -189,9 +195,9 @@ Thus a new phase of history began after 1857.
 
 <!-- page 62 (pdf 12) -->
 
-ELSEWHERE
+### ELSEWHERE
 
-For a Heavenly Kingdom of Great Peace
+### For a Heavenly Kingdom of Great Peace
 
 While the revolt was spreading in India in 1857, a massive popular uprising was raging in the southern parts of China. It had started in 1850 and could be suppressed only by the mid-1860s. Thousands of labouring, poor people were led by Hong Xiuquan to fight for the establishment of the Heavenly Kingdom of Great Peace. This was known as the Taiping Rebellion.
 

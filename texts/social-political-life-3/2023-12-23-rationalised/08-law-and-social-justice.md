@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/ch08.pdf"
 source_sha256: "c38ecee2db356aee862cf1fe8f9cc22f298ee6555c7500efa6ea6027f142acd3"
 pdf_pages: 15
 printed_pages: "100-114"
-body_fingerprint: "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa"
+body_fingerprint: "18878cdecc8d41b5d839c770d5610206b2a660c70e15ad73fe3eb52dda396e7e"
 ---
 
 <!-- page 100 (pdf 1) -->
@@ -71,11 +71,11 @@ Through making, enforcing and upholding these laws, the government can control t
 
 How are these laws played out in practice? To what extent do they address the concerns of social justice? These are some of the questions that this chapter will now go on to explore.
 
-> [caption] According to the 2011 census, over 4 million children in India aged between 5 and 14 work in various occupations including hazardous ones. In 2016, Parliament amended the Child Labour (Prohibition and Regulation) Act, 1986, banning the employment of children below the age of 14 years in all occupations and of adolescents (14-18 years) in hazardous occupations and processes. It made employing these children or adolescents a cognizable offence. Anyone found violating the ban must be penalized with a punishment ranging from a jail term of six months to two years and/or fine of `20,000 to `50,000. The central government had asked state governments to develop plans to rescue and rehabilitate children who are working. An online portal, https://pencil.gov.in, Platform for Effective Enforcement for No Child Labour (PENCIL) has become functional in 2017. It is meant for filing of complaint, child tracking, implementation and monitoring of National Child Labour Project (NCLP).
+> [caption] According to the 2011 census, over 4 million children in India aged between 5 and 14 work in various occupations including hazardous ones. In 2016, Parliament amended the Child Labour (Prohibition and Regulation) Act, 1986, banning the employment of children below the age of 14 years in all occupations and of adolescents (14-18 years) in hazardous occupations and processes. It made employing these children or adolescents a cognizable offence. Anyone found violating the ban must be penalized with a punishment ranging from a jail term of six months to two years and/or fine of ₹20,000 to ₹50,000. The central government had asked state governments to develop plans to rescue and rehabilitate children who are working. An online portal, https://pencil.gov.in, Platform for Effective Enforcement for No Child Labour (PENCIL) has become functional in 2017. It is meant for filing of complaint, child tracking, implementation and monitoring of National Child Labour Project (NCLP).
 
 <!-- page 104 (pdf 5) -->
 
-## Bhopal Gas T Bhopal Gas Tragedy ragedy
+## Bhopal Gas Tragedy
 
 The world’s worst industrial tragedy took place in Bhopal 24 years ago. Union Carbide (UC) an American company had a factory in the city in which it produced pesticides. At midnight on 2 December 1984 methyl-isocyanite (MIC) - a highly poisonous gas - started leaking from this UC plant....
 
@@ -89,6 +89,8 @@ Remembers Aziza Sultan, a survivor: “At about 12.30 am I woke to the sound of 
 
 Most of those exposed to the poison gas came from poor, working-class families, of which nearly 50,000 people are today too sick to work. Among those who survived, many developed severe respiratory disorders, eye problems and other disorders. Children developed peculiar abnormalities, like the girl in the photo.
 
+> [caption] A child severely affected by the gas
+
 <!-- page 105 (pdf 6) -->
 
 The disaster was not an accident. UC had deliberately ignored the essential safety measures in order to cut costs. Much before the Bhopal disaster, there had been incidents of gas leak killing a worker and injuring several.
@@ -96,6 +98,8 @@ The disaster was not an accident. UC had deliberately ignored the essential safe
 > [caption] Gas victims with the Gas Relief Minister
 
 UC stopped its operations, but left behind tons of toxic chemicals. These have seeped into the ground, contaminating water. Dow Chemical, the company who now owns the plant, refuses to take responsibility for clean up.
+
+> [caption] The struggle for justice goes on…
 
 > [caption] Members of UC Employees Union protesting
 
@@ -317,4 +321,4 @@ The various chapters in this book have tried to make clear to you the democratic
 
 > [caption] Democracy in Nepal, http://www.himalmag.com (Accessed on 15 December 2007)
 
-> [caption] Election Commission of India, https://eci.gov.in Manual scavenging, http://in.one.un.org/page/breaking-free-rehabilitating-manual-scavengers/ On Manual Scavenging, www.hrdc.net/sahrdc/hrfeatures/HRF 129.html (Accessed on Rajya Sabha, https://rajyasabha.nic.in Supreme Court of India, https://www.sci.gov.in
+> [caption] Election Commission of India, https://eci.gov.in Manual scavenging, http://in.one.un.org/page/breaking-free-rehabilitating-manual-scavengers/ On Manual Scavenging, www.hrdc.net/sahrdc/hrfeatures/HRF 129.html (Accessed on Rajya Sabha, https://rajyasabha.nic.in Supreme Court of India, https://www.sci.gov.in Sustainable Development Goals (SDGs), www.in.undp.org

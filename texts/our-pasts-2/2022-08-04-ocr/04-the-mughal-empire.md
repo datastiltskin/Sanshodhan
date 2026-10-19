@@ -10,9 +10,15 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch04.pdf"
 source_sha256: "dd093909165e906dccd974513391c6d3c833d032ee5b18cf612637968f36a7aa"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "7863b950f88d6c8b3eb9542db85e4728ab6736e58bdf4158caf918f471f60391"
+body_fingerprint: "1408084d12bf914740b08fbd72d5030047b1374bb033b1f26ff5d205d0d8c9e8"
 ocr: true
 ocr_confidence: 93.1
+overrides:
+  - "OCR misread of Sanga in Table 1 on page 48, the page reads 'Rana Sanga, Rajput rulers'"
+  - "stray OCR token in Table 1 on page 48, the page reads 'after an accident'"
+  - "OCR misread of Salim in Table 1 on page 48"
+  - "text of the box and caption from page 53 spliced into the paragraph on page 52, which reads 'used one term – zamindars – to describe all intermediaries'"
+  - "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -27,15 +33,15 @@ Ruling as large a territory as the Indian subcontinent with such a diversity of 
 
 ## Who were the Mughals?
 
-The Mughals were descendants of two great lineages of rulers. From their mother’s side they were descendants of Genghis Khan (died 1227), the Mongol ruler who ruled over parts of China and Central Asia. From their father’s side they were the successors of Timur (died 1404), the ruler of Iran, Iraq and modern-day Turkey. However, the Mughals did not like to be called Mughal or Mongol. This was because Genghis Khan’s memory was associated with the massacre of innumerable people. It was also linked with the Uzbegs, their Mongol competitors. On the other hand, the Mughals were A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
+The Mughals were descendants of two great lineages of rulers. From their mother’s side they were descendants of Genghis Khan (died 1227), the Mongol ruler who ruled over parts of China and Central Asia. From their father’s side they were the successors of Timur (died 1404), the ruler of Iran, Iraq and modern-day Turkey. However, the Mughals did not like to be called Mughal or Mongol. This was because Genghis Khan’s memory was associated with the massacre of innumerable people. It was also linked with the Uzbegs, their Mongol competitors. On the other hand, the Mughals were proud of their Timurid ancestry, not least of all because their great ancestor had captured Delhi in 1398.
 
 > [table] Fig. 2
 
-> [note] Do you think this painting suggests that the Mughals claimed kingship as a birthright?
+A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
+
+Do you think this painting suggests that the Mughals claimed kingship as a birthright?
 
 <!-- page 47 (pdf 3) -->
-
-proud of their Timurid ancestry, not least of all because their great ancestor had captured Delhi in 1398.
 
 They celebrated their genealogy pictorially, each ruler getting a picture made of Timur and himself. Take a look at Figure 2, which is somewhat like a “group photograph”.
 
@@ -57,23 +63,27 @@ Table 1 charts some of the major campaigns of the Mughals. Study it carefully an
 
 ‘Table 1 MUGHAL EMPERORS
 
-Major campaigns and events
+### Major campaigns and events
 
 > [caption] BABUR 1526-1530
 
 1526 —- defeated Ibrahim Lodi and his Afghan supporters at Panipat.
 
-1527 = defeated Rana anges Rajput rulers and allies at Khanua.
+1527 = defeated Rana Sanga, Rajput rulers and allies at Khanua.
 
 1528 — defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.
 
+> [caption] * (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his: brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. ‘
+
+> [caption] _ (2) In Iran Humayun received help from the Safavid Shah. 4 § He recaptured Delhi in 1555 but died the next year after an accident in this building.
+
+AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent
+
+Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa. These campaigns were complicated by the
+
++ 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 - expansion of Akbar’s empire. Campaigns - were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Anmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.
+
 > [caption] HUMAYUN 1530-1540, 1555-1556
-
-* (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his: brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. ‘ AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa. These campaigns were complicated by the
-
-> [table] _ (2) In Iran Humayun received help from the Safavid Shah. 4 § He recaptured Delhi in 1555 but died the next year after ye an accident in this building.
-
-+ 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 - expansion of Akbar’s empire. Campaigns - were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Anmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince paling, the future Emperor Jahangir.
 
 <!-- page 49 (pdf 5) -->
 
@@ -83,11 +93,13 @@ Major campaigns and events
 
 Military campaigns started by Akbar continued.
 
-The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.
+The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E
 
 > [caption] Shah Jahan 1627-1658
 
-> [table] Aurangzeb 1658-1707
+Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.
+
+> [caption] Aurangzeb 1658-1707
 
 ## (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in }
 
@@ -109,6 +121,14 @@ The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successfu
 
 <!-- page 50 (pdf 6) -->
 
+> [caption] Map 1
+
+> [caption] Military campaigns under Akbar and Aurangzeb.
+
+Mughal marriages with the Rajputs princess, daughter of the Rajput ruler of Amber (modern-day Jaipur). The mother of Shah Jahan was a Rathor princess, daughter of the Rajput ruler of Marwar (Jodhpur).
+
+> [caption] The mother of Jahangir was a Kachhwaha
+
 Kabul = a | Saar Ses Om (| \RASHIIIR © Qandahar /Lahore oy ie ee x PUNJAB) 10 a L re Panipat (a ) a I Delhi ( te See \ imer Fate! kh, 2, ~~ _ — >) sino - a BAN aK, a, "amy { LJ Chairs Rantha ta ~ ~ OT Batter ahaa | awa ‘4 BENG rh y 0g Oe GONDWANA fol p SN ee , a? aia / BERAR [{ _J.0r'ssi \ me ( ae ~. ao } ARABIAN > ae ae ai of BAY OF SEA “2d BENGAI ea ages
 
 ## Mughal Traditions of Succession
@@ -118,16 +138,6 @@ The Mughals did not believe in the rule of primogeniture, where the eldest son i
 ## Mughal Relations with Other Rulers
 
 Take a look at Table 1 once again. You will notice that the Mughal rulers campaigned constantly against rulers who refused to accept their authority. But as the Mughals became powerful many other rulers also joined them voluntarily. The Rajputs are a good example of this. Many of them married their daughters into Mughal families and received high positions. But many resisted as well.
-
-> [caption] Map 1
-
-> [caption] Military campaigns under Akbar and Aurangzeb.
-
-> [note] Mughal marriages with the Rajputs
-
-> [caption] The mother of Jahangir was a Kachhwaha
-
-> [note] princess, daughter of the Rajput ruler of Amber (modern-day Jaipur). The mother of Shah Jahan was a Rathor princess, daughter of the Rajput ruler of Marwar (Jodhpur).
 
 <!-- page 51 (pdf 7) -->
 
@@ -151,11 +161,11 @@ In Akbar’s reign these jagirs were carefully assessed so that their revenues w
 
 Zabt and.Zamindars
 
-The main source of income available to Mughal rulers was tax on the produce of the peasantry. In most places, peasants paid taxes through the rural elites, that is, the headman or the local chieftain. The Mughals
+The main source of income available to Mughal rulers was tax on the produce of the peasantry. In most places, peasants paid taxes through the rural elites, that is, the headman or the local chieftain. The Mughals used one term – zamindars – to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.
 
-~-.» used one term - zamindars - to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.
+Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, 1570-1580. On the basis of this data, tax was fixed on each crop in cash. Each province was
 
-Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, 1570-1580. On the basis of this data, tax was fixed on each crop in cash. Each province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt. It was prevalent in those areas where Mughal administrators could survey the land and keep very careful accounts. This was not possible in provinces such as Gujarat and Bengal.
+divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt. It was prevalent in those areas where Mughal administrators could survey the land
 
 > [caption] Fig. 5
 
@@ -167,11 +177,15 @@ Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yiel
 
 <!-- page 53 (pdf 9) -->
 
+and keep very careful accounts. This was not possible in provinces such as Gujarat and Bengal.
+
 In some areas the zamindars exercised a great deal of power. The exploitation by Mughal administrators could drive them to rebellion. Sometimes zamindars and peasants of the same caste allied in rebelling against Mughal authority. These peasant revolts challenged the stability of the Mughal Empire from the end of the seventeenth century.
 
 Akbar Nama and Ain-i Akbari
 
-Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar’s reign, titled Akbar Nama. The first volume dealt with Akbar’s ancestors and the second volume recorded the events of Akbar’s reign. The third volume is the Ain-i Akbari. \t deals with Akbar’s administration, household, army, the revenues and the geography of his empire. It also provides rich details about the traditions and culture of the people living in India. The most interesting aspect about the Ain-i Akbari is its rich Fig.7 statistical details about things as diverse as = Akbar recieving the Akbar Nama crops, yields, prices, wages and revenues. from Abul Fazl.
+Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar’s reign, titled Akbar Nama. The first volume dealt with Akbar’s ancestors and the second volume recorded the events of Akbar’s reign. The third volume is the Ain-i Akbari. \t deals with Akbar’s administration, household, army, the revenues and the geography of his empire. It also provides rich details about the traditions and culture of the people living in India. The most interesting aspect about the Ain-i Akbari is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.
+
+> [caption] Fig. 7 Akbar recieving the Akbar Nama from Abul Fazl.
 
 A Closer Look: Akbar’s Policies
 
@@ -180,6 +194,16 @@ The broad features of administration were laid down by Akbar and were elaboratel
 Abul Fazl explained that the empire was divided into provinces called subas, governed by a subadar who carried out both political and military functions. Each province also had a financial officer or diwan. For the maintenance of peace and order in his province, the subadar was supported by other officers such as the military paymaster (bakhshi, the minister in charge of religious and charitable patronage (sadr), military commanders (faujdars) and the town police commander (kotwal).
 
 <!-- page 54 (pdf 10) -->
+
+> [caption] Nur Jahan’s farman.
+
+> [table] Dogma
+
+> [caption] A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
+
+Bigot
+
+An individual who is intolerant of another person’s religious beliefs or culture.
 
 ## Nur Jahan’s influence in Jahangir’s court
 
@@ -193,16 +217,6 @@ Akbar’s nobles commanded large armies and had access to large amounts of reven
 
 While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. Akbar’s interaction with people of different faiths made him realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or “universal peace”. This idea of tolerance did not discriminate between people of different religions in his realm. Instead it focused on a system of ethics — honesty, justice, peace — that was universally applicable. Abul Fazl helped Akbar in framing a vision of governance around this idea of sulh-i kul. This principle of governance was followed by Jahangir and Shah Jahan as well.
 
-> [caption] Nur Jahan’s farman.
-
-> [caption] Dogma
-
-> [caption] A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.
-
-> [note] Bigot
-
-> [note] An individual who is intolerant of another person’s religious beliefs or culture.
-
 <!-- page 55 (pdf 11) -->
 
 Sulh-i kul
@@ -215,7 +229,7 @@ As in the wide expanse of the divine compassion there 1s room for all classes an
 
 > [caption] Akbar holding discussions with learned individuals of different faiths in the ibadat khana.
 
-> [note] Can you identify the Jesuit priests in this picture?
+Can you identify the Jesuit priests in this picture?
 
 > [caption] Akbar commissioned the translation of many Sanskrit works into Persian. A Maktab Khana or translation bureau was also established at Fatehpur Sikri_for this purpose. The Mahabharata, Ramayana, Lilavati and Yogavashisht were some of the notable Sanskrit works that were taken up for translation.
 
@@ -237,9 +251,15 @@ Kings and queens
 
 These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
 
-Find out more about Akbar’s other contemporaries - the ruler of Imagine You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
+Find out more about Akbar’s other contemporaries - the ruler of
 
 > [table] ©/ England, Queen Elizabeth | (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
+
+### Imagine
+
+You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make
+
+your kingdom stable and prosperous?
 
 <!-- section: exercises -->
 
@@ -255,9 +275,11 @@ mansab Marwar Mongol governor Sisodiya Rajput Uzbeg Rathor Rajput Mewar Nur Jaha
 
 > [caption] (a) The capital of Mirza Hakim, Akbar’s half-brother, was .
 
-(b) The five Deccan Sultanates were Berar, Khandesh, KEYWORDS Ahmadnagar, and Mughal (d) Abul Fazl, Akbar’s friend and counsellor, helped mansab him frame the idea of so that he could govern a society composed of many religions, Jagir cultures and castes. zat 3. What were the central provinces under the control of the Mughals? sawar sulh-i kul 4. What was the relationship between the mansabdar and the jagir? primogeniture coparcenary zamindar : : os
+(b) The five Deccan Sultanates were Berar, Khandesh, KEYWORDS Ahmadnagar, and
 
 > [table] (c) If zat determined a mansabdar’s rank and salary, sawar indicated his
+
+Mughal (d) Abul Fazl, Akbar’s friend and counsellor, helped mansab him frame the idea of so that he could govern a society composed of many religions, Jagir cultures and castes. zat 3. What were the central provinces under the control of the Mughals? sawar sulh-i kul 4. What was the relationship between the mansabdar and the jagir? primogeniture coparcenary zamindar : : os
 
 > [table] 5. What was the role of the zamindar in Mughal administration?
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch09.pdf"
 source_sha256: "bb94d9414e6e434fde9c828d11c51eb173bb1768eefb33141b1d237dba9923bf"
 pdf_pages: 16
 printed_pages: "104-119"
-body_fingerprint: "d6ced8b4f8ff5d055561a519748cd4402b67a595b475ade5610f8fc588d1de3d"
+body_fingerprint: "221b6a197f305f3981764acf33dee732cbe08f897dbfda904bea3e228f2755b6"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -148,7 +148,7 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [table] 1. What are public facilities? Why should the government be responsible for providing public facilities?
 
-Q2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
+2. The government can get private companies to deliver some of the public facilities. For instance, contracts for building roads are given to private contractors. Distribution of electricity in Delhi is done by two private companies. However, the government must keep a close watch on these and ensure that they fulfil their commitment to reach these facilities to all people and at affordable prices.
 
 > [table] Why do you think the government must assume the overall responsibility for public facilities even when if it gets private companies to do part of the job?
 

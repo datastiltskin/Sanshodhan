@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch02.pdf"
 source_sha256: "8e48542a17e94a5b86e8e6d8c7d711860f40fc1459f93bc509f5a3164b9eb0a0"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "d6e66186428adfddb00e7efef691ba03616dc52a1de5b66b637dcee873fd4c3f"
+body_fingerprint: "f47ae6117f6226703af72fbbe497ab5c955f27412a95ee28530a7ebc75161635"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -91,11 +91,15 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 <!-- page 22 (pdf 7) -->
 
-> [table] THE COST OF A CURE Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+## THE COST OF A CURE
 
 > [table] I had viral fever and
 
-> [table] Oh! Me, too! I just got back to had to go to the school on Monday. My Daddy hospital...
+> [table] Oh! Me, too! I just got back to
+
+> [table] Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+
+> [table] had to go to the school on Monday. My Daddy hospital...
 
 > [table] took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
@@ -113,7 +117,7 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] ...and have you taken three times a day, and the white tablet heard the one about Batman on Reality TV?
 
-> [table] once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
+> [table] once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty Thank you Doctor...I feel better already!
 
 <!-- page 23 (pdf 8) -->
 
@@ -134,6 +138,8 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 > [table] – quickly please!
 
 > [table] My hospital was nice, but they gave me many medicines and the whole thing cost quite a lot!
+
+> [table] Oh! My treatment did not cost much!
 
 <!-- page 24 (pdf 9) -->
 

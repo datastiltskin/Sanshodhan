@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch01.pdf"
 source_sha256: "726bd12ebbf3c948b31ab5831101cb7f1ce9712ee44e170a3203c833036e4380"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "14bca95f8b8029532395e63bf1ac4fa1b31a6cf3c4a0f5788597e6d6897e16db"
+body_fingerprint: "345be3caf05bfa51b4323c220f1edb9d0fb44e970c61768b014b6fb768bade95"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -27,7 +27,7 @@ History is certainly about changes that occur over time. It is about finding out
 
 Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall you may wonder – when did people begin to drink tea or coffee? Looking out of the window of a train you may ask yourself – when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.
 
- Activity
+### Activity
 
 Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.
 
@@ -59,15 +59,13 @@ How do we periodise? In 1817, James Mill, a Scottish economist and political phi
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
 
 > [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773
 
 > [caption] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
 
- Activity
-
-Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
+### Activity
 
 <!-- page 4 (pdf 4) -->
 
@@ -169,7 +167,7 @@ As the news spread to the other police stations, the men there also refused to t
 
 > [table] 22 March, 1946
 
- Activity
+### Activity
 
 Look at Sources 1 and 2. Do you find any differences in the nature of reporting? Explain what you observe.
 

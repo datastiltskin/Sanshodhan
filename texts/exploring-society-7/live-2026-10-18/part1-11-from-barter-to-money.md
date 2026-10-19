@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf"
 source_sha256: "b3e45b2aa51b9948bb7bacdc953214b886992da6ed3d561a54601747edef16af"
 pdf_pages: 18
 printed_pages: "229-246"
-body_fingerprint: "bc5ebf60b2b4df8b4f4722c85b2bc3ba9cfab87bdad541a2a1cf10b8015dcb97"
+body_fingerprint: "c241335f6a1639d5241107cfb3f65953060de0e50e4c6e9b5c0c3dcf8d956793"
 ---
 
 <!-- page 229 (pdf 1) -->
@@ -42,7 +42,7 @@ People exchanged goods or services for other goods and services. This system is 
 
 Today, we use coins and notes to buy and sell things. People also use their mobile phones and computers for such transactions.
 
-The barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc. Transaction:
+The barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc.
 
 > [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones
 
@@ -57,6 +57,8 @@ The barter system was the earliest form of exchange. There is a lot of evidence 
 > [caption] Barter System: a way of exchanging goods and services without using money.
 
 > [caption] Money: the common tool that everybody accepts and uses in order to make or receive payments in exchange for goods and services.
+
+> [caption] Transaction:
 
 > [caption] a piece of business that is done between people, especially an act of buying or selling.
 
@@ -345,5 +347,3 @@ Forms of money evolved through time, such as shells, coins, and paper currency. 
 <!-- page 246 (pdf 18) -->
 
 ## Noodles
-
-> [caption] XN aN yN
