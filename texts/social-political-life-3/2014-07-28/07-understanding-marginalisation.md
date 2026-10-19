@@ -1,0 +1,280 @@
+---
+book: "social-political-life-3"
+book_title: "Social and Political Life III"
+edition: "2014-07-28"
+snapshots:
+  - "2014-07-28"
+chapter: 7
+title: "Understanding Marginalisation"
+source_pdf: "pdfs/social-political-life-3/2014-07-28/ch07.pdf"
+source_sha256: "cd1a5cac5b2c1c42d329321ea56d1413bc2575bf078848e7cbd23a0a9bf3bf2f"
+pdf_pages: 16
+printed_pages: "78-93"
+body_fingerprint: "282c3ed76863339f1b843dd3661b058907509559f696755dfed678394b59c9e2"
+---
+
+<!-- page 78 (pdf 1) -->
+
+## Unit Four
+
+<!-- page 79 (pdf 2) -->
+
+## Teacher’s Note
+
+Equality is a value and right that we have tried to understand in the Social and Political Life series. Over the three years, we have deepened our conceptual understanding of equality. We have distinguished the idea of formal equality from that of substantive equality and the need to move towards establishing the latter. Kanta’s story, in the Class VII book, is an example of this. We have also established that to understand equality it is important to delve into how inequality is experienced and manifested. We have, thus, examined the connections between discrimination and inequality through the childhood experiences of Dr Ambedkar and Om Prakash Valmiki in Class VI and VII books. The impact of inequality on access to resources was looked at in the context of women’s access to education. Rashsundari Devi and Rokeya Begum’s writings point to women’s struggles to overcome this denial. We have often pointed to the Fundamental Rights enshrined in our Constitution to highlight why equality and the idea of dignity that it contains is crucial to the functioning of democracy in India.
+
+This unit looks more closely at the ways in which inequality affects different groups and communities by introducing the concept of marginalisation or exclusion from the mainstream. The Unit focuses on three groups, namely the Adivasis, the Muslims and the Dalits. These three groups have been chosen because the causes that contribute to each group’s marginalisation is different and they sometimes experience marginalisation in different ways. In teaching this unit, the aim should be to help students identify the factors that contribute to marginalisation as well as be able to recognise and empathise with the marginalised. You could help children identify the marginalised communities in your region. In Chapter 7, we look at the experiences of Adivasi and Muslim communities. Chapter 8 discusses ways in which the government as well as these communities themselves have tried to address marginalisation through various struggles. The government does this through its law-making function and through different policies and schemes that specifically target these communities as beneficiaries.
+
+We have used a variety of pedagogic tools in this unit – data, poems, a storyboard and a case-study. Use the storyboard to discuss processes of marginalisation experienced by the Adivasis. The case study on Dalits should lead to a discussion on the importance of this law as well as the ways in which this law reflects the Constitution’s commitment to Fundamental Rights. To understand the situation of the Muslim community, we have used data from different sources, which can be analysed in the class. Songs and poems have been used in this unit to break down the boundaries created between social science and language textbooks and to establish that, in the everyday lives of communities, this separation does not exist. Moreover, struggles for justice have produced memorable poetry and songs that often do not find a place in textbooks.
+
+This chapter does contain several issues that may lead to contentious discussions within the classroom space. Children are aware of such issues and we have to find a mature way of discussing these. You play a crucial role in facilitating these discussions in order to ensure that no child or group of children feel discriminated against, ridiculed or left out from these discussions.
+
+<!-- page 80 (pdf 3) -->
+
+# Understanding Marginalisation
+
+## What Does it Mean to be Socially Marginalised?
+
+To be marginalised is to be forced to occupy the sides or fringes and thus not be at the centre of things. This is something that some of you have probably experienced in the classroom or playground. If you are not like most people in your class, that is, if your taste in music or films is different, if your accent marks you out from others, if you are less chatty than others in your class, if you don’t play the same sport that many of your classmates like, if you dress differently, the chances are that you will not be considered to be ‘in’ by your peers. So, often, you end up feeling that you are ‘not with it’ – as if what you say, feel and think and how you act are not quite right or acceptable to others.
+
+As in the classroom, in the social environment too, groups of people or communities may have the experience of being excluded. Their marginalisation can be because they speak a different language, follow different customs or belong to a different religious group from the majority community. They may also feel marginalised because they are poor, considered to be of ‘low’ social status and viewed as being less human than others. Sometimes, marginalised groups are viewed with hostility and fear. This sense of difference and exclusion leads to communities not having access to resources and opportunities and in their inability to assert their rights. They experience a sense of disadvantage and powerlessness vis-a-vis more powerful and dominant sections of society who own land, are wealthy, better educated and politically powerful. Thus, marginalisation is seldom experienced in one sphere. Economic, social, cultural and political factors work together to make certain groups in society feel marginalised.
+
+In this chapter, you will read about two communities that are considered to be socially marginalised in India today.
+
+<!-- page 81 (pdf 4) -->
+
+> [caption] The lives of adivasis are very rich; most people don’t know that.
+
+> [caption] Soma and Helen are watching the Republic Day parade on TV with their grandfather.
+
+> [caption] Yes, don’t they know anything else about us!
+
+> [caption] Oh see! An adivasi float!
+
+> [caption] Oh, see! The Nagaland
+
+> [caption] Dadu why do they always show adivasis as only dancing?
+
+> [caption] Suddenly we were told that the forest was not ours. Forest officials and contractors cut down large parts of it. If we protested they beat us and then took us to court, where we did not have our lawyers and could not fight our cases.
+
+> [caption] When I was young, our village in Orissa was beautiful. We got everything we needed from the land and the forests around us. We in turn respected the land, the forest, the river.
+
+> [caption] Then how did you survive, Dadu?
+
+> [caption] Then the companywallahs came. They said there was iron ore under our land, they wanted to mine it. They promised jobs and money, if we sold our land to them. Some villagers were excited. Others said this would destroy our lives and we would get nothing. Some gave Many of us were forced to leave our homes and find seasonal work in nearby towns.
+
+<!-- page 82 (pdf 5) -->
+
+> [caption] Then they beat and threatened us till eventually everyone was forced to sell and abandon the land of their forefathers. They had the support of the authorities. Our whole way of living vanished overnight.
+
+> [caption] Oh, Dadu! And our land what…
+
+> [caption] For our 30 acres we got a little money from one contractor. I never saw most of my friends again.
+
+> [caption] After a few years your father got a job in Delhi and we all moved here. Those were very difficult times… That is why both of you did not go to school for several years.
+
+> [caption] The money hardly lasted in the city. We had no means of livelihood anymore. We were all cramped into a tiny rented room. How we missed our carefree lives, the open spaces.
+
+> [caption] I hated going back to school. We had missed so much of our studies and other children made fun of us. We spoke Santhali at home, and did not know Hindi.
+
+> [caption] But now we have friends. I can even speak some English now.
+
+> [caption] You can still tell them about our village. It has a lot to teach them…
+
+> [caption] I wish I could have shown my friends our village before it was destroyed.
+
+> [caption] One day I’ll make a movie on this story, our story, the adivasi story.
+
+<!-- page 83 (pdf 6) -->
+
+You just read about how Dadu was forced to leave his village in Orissa. Dadu’s story is similar to the lives of millions of Adivasis in India. You will read more about the marginalisation of this community in this chapter.
+
+## Who are Adivasis?
+
+Adivasis – the term literally means ‘original inhabitants’ – are communities who lived, and often continue to live, in close association with forests. Around 8 per cent of India’s population is Adivasi and many of India’s most important mining and industrial centres are located in Adivasi areas – Jamshedpur, Rourkela, Bokaro and Bhilai among others. Adivasis are not a homogeneous population: there are over 500 different Adivasi groups in India. Adivasis are particularly numerous in states like Chhattisgarh, Jharkhand, Madhya Pradesh, Orissa, Gujarat, Maharashtra, Rajasthan, Andhra Pradesh, West Bengal and in the north-eastern states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland and Tripura. A state like Orissa is home to more than 60 different tribal groups. Adivasi societies are also most distinctive because there is often very little hierarchy among them. This makes them radically different from communities organised around principles of jati-varna (caste) or those that were ruled by kings.
+
+Adivasis practise a range of tribal religions that are different from Islam, Hinduism and Christianity. These often involve the worship of ancestors, village and nature spirits, the last associated with and residing in various sites in the landscape – ‘mountain-spirits’, ‘river-spirits’, ‘animal-spirits’, etc. The village spirits are often worshipped at specific sacred groves within the village boundary while the ancestral ones are usually worshipped at home. Additionally, Adivasis have always been influenced by different surrounding religions like Shakta, Buddhist, Vaishnav, Bhakti and Christianity. Simultaneously, Adivasi religions themselves have influenced dominant religions of the empires around them, for example, the Jagannath cult of Orissa and Shakti and Tantric traditions in Bengal and Assam. During the nineteenth century, substantial numbers of Adivasis converted to Christianity, which has emerged as a very important religion in modern Adivasi history.
+
+> [caption] Explain at least three different reasons why groups may be marginalised.
+
+> [caption] Why was Dadu forced to leave his village in Orissa?
+
+> [caption] Tribals are also referred to as Adivasis.
+
+> [caption] You may have heard the term Scheduled Tribes. Scheduled Tribes is the term used for Adivasis used by the Indian government in various official documents. There is an official list of tribes. Scheduled Tribes are often grouped together with Scheduled Castes in the category Scheduled Castes and Scheduled Tribes.
+
+> [caption] In your own city or village, who would you think are the marginalised groups? Discuss.
+
+> [caption] Can you name some Adivasi communities that live in your state?
+
+> [caption] What languages do they speak?
+
+> [caption] Do they live close to the forest?
+
+> [caption] Do they migrate to other regions looking for work?
+
+<!-- page 84 (pdf 7) -->
+
+Adivasis have their own languages (most of them radically different from and possibly as old as Sanskrit), which have often deeply influenced the formation of ‘mainstream’ Indian languages, like Bengali. Santhali has the largest number of speakers and has a significant body of publications including magazines on the internet or in e-zines.
+
+## Adivasis and Stereotyping
+
+In India, we usually ‘showcase’ Adivasi communities in particular ways. Thus, during school functions or other official events or in books and movies, Adivasis are invariably portrayed in very stereotypical ways – in colourful costumes, headgear and through their dancing. Besides this, we seem to know very little about the realities of their lives. This often wrongly leads to people believing that they are exotic, primitive and backward. Often Adivasis are blamed for their lack of advancement as they are believed to be resistant to change or new ideas. You will remember that you read in Class VI book how stereotyping particular communities can lead to people discriminating against such groups.
+
+## Adivasis and Development
+
+As you have already read in your history textbook, forests were absolutely crucial to the development of all empires and settled civilisations in India. Metal ores like iron and copper, and gold and silver, coal and diamonds, invaluable timber, most medicinal herbs and animal products (wax, lac, honey) and animals themselves (elephants, the mainstay of imperial armies), all came from the forests. In addition, the continuation of life depended heavily on forests, that help recharge many of India’s rivers and, as is becoming clearer now, crucial to the availability and quality of our air and water. Forests covered the major part of our country till the nineteenth century and the Adivasis had a deep knowledge of, access to, as well as control over most of these vast tracts at least till the middle of the nineteenth century. This meant that they were not ruled by large states and empires. Instead, often empires heavily depended on Adivasis for the crucial access to forest resources.
+
+> [caption] The above two images of tribal communities in their traditional costumes are often the only ways in which Adivasi communities are represented. This then leads us to think of them as being ‘exotic’ and ‘backward’.
+
+<!-- page 85 (pdf 8) -->
+
+This is radically contrary to our image of Adivasis today as somewhat marginal and powerless communities. In the pre-colonial world, they were traditionally ranged hunter-gatherers and nomads and lived by shifting agriculture and also cultivating in one place. Although these remain, for the past 200 years Adivasis have been increasingly forced – through economic changes, forest policies and political force applied by the State and private industry – to migrate to lives as workers in plantations, at construction sites, in industries and as domestic workers. For the first time in history, they do not control or have much direct access to the forest territories.
+
+From the 1830s onwards, Adivasis from Jharkhand and adjoining areas moved in very large numbers to various plantations in India and the world - Mauritius, the Caribbean and even Australia. India’s tea industry became possible with their labour in Assam. Today, there are 70 lakh Adivasis in Assam alone. The story of this migration is full of extreme hardship, torture, heartbreak and death. For example, in the nineteenth century alone five lakh Adivasis had perished in these migrations. The song below captures the hopes of the migrants and the reality they faced in Assam.
+
+> [caption] Come Mini, let’s go to Assam
+
+> [caption] Our country has so much suffering
+
+> [caption] The country of Assam, oh Mini
+
+> [caption] Has tea gardens full of greenery...
+
+> [caption] The Sardar says work, work
+
+> [caption] The Babu says catch and bring them in
+
+> [caption] The Saheb says I’ll take off the skin of your back Hey Jaduram, you deceived us by sending us to Assam .
+
+> [caption] Source: Basu, S. Jharkhand Movement: Ethnicity and Culture of Silence What metals are important in present-day India? Why? Where do they come from? Are there Adivasi populations there?
+
+> [caption] List five products that you use at home that come from the forest.
+
+> [caption] By whom were the following demands being made on forest land? · timber for construction of houses and railways · forest land for mining · forest land for agriculture by non-tribal people · reserved by government as wildlife parks In what ways would this affect tribal people?
+
+> [caption] What do you think this poem is trying to convey?
+
+<!-- page 86 (pdf 9) -->
+
+Forest lands have been cleared for timber and to get land for agriculture and industry. Adivasis have also lived in areas that are rich in minerals and other natural resources. These are taken over for mining and other large industrial projects. Powerful forces have often colluded to take over tribal land. Much of the time, the land is taken away forcefully and procedures are not followed. According to official figures, more than 50 per cent of persons displaced due to mines and mining projects are tribals. Another recent survey report by organisations working among Adivasis shows that 79 per cent of the persons displaced from the states of Andhra Pradesh, Chhattisgarh, Orissa and Jharkhand are tribals. Huge tracts of their lands have also gone under the waters of hundreds of dams that have been built in independent India. In the North east, their lands remain highly militarised and war-torn. India has 54 national parks and 372 wildlife sanctuaries covering 1,09,652 sq km. These are areas where tribals originally lived but were evicted from. When they continue to stay in these forests, they are termed encroachers.
+
+Losing their lands and access to the forest means that tribals lose their main sources of livelihood and food. Having gradually lost access to their traditional homelands, many Adivasis have migrated to cities in search of work where they are employed for very low wages in local industries or at building or construction sites. They, thus, get caught in a cycle of poverty and deprivation. 45 per cent of tribal groups in rural areas and 35 per cent in urban areas live below the poverty line. This leads to deprivation in other areas. Many tribal children are malnourished. Literacy rates among tribals are also very low.
+
+> [caption] This is a photo of Niyamgiri Hill located in Kalahandi district of Orissa. This area is inhabited by Dongarria Konds, an Adivasi community. Niyamgiri is the sacred mountain of this community. A major aluminium company is planning to set up a mine and a refinery here which will displace this Adivasi community. They have strongly resisted this proposed development and have been joined by environmentalists as well. A case against the company is also pending in the Supreme Court.
+
+> [caption] Adivasis use around 10,000 plant species – approximately 8,000 species are used for medicinal purposes; 325 are used as pesticides; 425 as gums, resins and dyes; 550 as fibres; 3,500 are edible. This entire knowledge system gets wiped out when Adivasis lose their rights over forest lands.
+
+<!-- page 87 (pdf 10) -->
+
+When Adivasis are displaced from their lands, they lose much more than a source of income. They lose their traditions and customs – a way of living and being. “They took our farming land. They left some houses. They took the cremation ground, temple, well and pond. How will we survive?” says Gobindha Maran, who was displaced due to a refinery project in Orissa.
+
+As you have read, there exists an interconnectedness between the economic and social dimensions of tribal life. Destruction in one sphere naturally impacts the other. Often this process of dispossession and displacement can be painful and violent.
+
+## Minorities and Marginalisation
+
+In Unit 1, you read that the Constitution provides safeguards to religious and linguistic minorities as part of our Fundamental Rights. Why do you think these minority groups have been provided these safeguards? The term minority is most commonly used to refer to communities that are numerically small in relation to the rest of the population. However, it is a concept that goes well beyond numbers. It encompasses issues of power, access to resources and has social and cultural dimensions. As you read in Unit 1, the Indian Constitution recognised that the culture of the majority influences the way in which society and government might express themselves. In such cases, size can be a disadvantage and lead to the marginalisation of the relatively smaller communities. Thus, safeguards are needed to protect minority communities against the possibility of being culturally dominated by the majority. They also protect them against any discrimination and disadvantage that they may face. Given certain conditions, communities that are small in number relative to the rest of society may feel insecure about their lives, assets and well-being. This sense of insecurity may get accentuated if the relations between the minority and majority communities are fraught. The Constitution provides these safeguards because it is committed to protecting India’s cultural diversity and promoting equality as well as justice. As you have already read in Chapter 5, the judiciary plays a crucial role in upholding the law and enforcing Fundamental Rights. Every citizen of India can approach the courts if they believe that their Fundamental Rights have been violated. Now let us understand marginalisation in the context of the Muslim community.
+
+> [caption] In your opinion, why is it important that Adivasis should have a say in how their forests and forest lands are used?
+
+<!-- page 88 (pdf 11) -->
+
+> [table] Why do we need safeguards for minorities?
+
+Muslims and Marginalisation
+
+Muslims are 13.4 per cent of India’s population and are considered to be a marginalised community in India today because in comparison to other communities, they have over the years been deprived of the benefits of socio-economic development. The data in the three tables below, derived from different sources, indicate the situation of the Muslim community with regard to basic amenities, literacy and public employment. Read the tables below. What do you think these tables tell us about the socio-economic status of the Muslim community?
+
+> [table] I. Basic Amenities, 1994
+
+Kutcha houses: 63.6% of Muslims live in kutcha houses 55.2% of Hindus live in kutcha houses Electricity: 30% of Muslims have access to electricity 43.2% of Hindus have access to electricity Piped water: 19.4% of Muslims have access to piped water 25.3% of Hindus have access to piped water All Hindus Muslims Christians Sikhs Buddhists Jains 65% 65% 59% 80% 70% 73% 94% Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)
+
+> [caption] Source: Abusaleh Shariff (1999), India Human Development Report: A Profile of Indian States in the 1990s, Oxford University Press for National Council of Applied Economic Research, New Delhi, p. 236, 238, 240.
+
+> [table] Do Muslims have the equal access to basic amenities?
+
+<!-- page 89 (pdf 12) -->
+
+> [table] II. Literacy Rate by Religion, 2001
+
+> [caption] Source: Census of India 2001
+
+> [table] Which religious group has the lowest literacy rate?
+
+> [table] III. Public Employment of Muslims (percentages)
+
+13.5 3 4 1.8 3.3 10.8 2.2
+
+> [caption] Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006
+
+> [table] What do these figures convey?
+
+Recognising that Muslims in India were lagging behind in terms of various development indicators, the government set up a high-level committee in 2005. Chaired by Justice Rajindar Sachar, the committee examined the social, economic and educational status of the Muslim community in India. The report discusses in detail the marginalisation of this community. It suggests that on a range of social, economic and educational indicators the situation of the Muslim community is comparable to that of other marginalised communities like Scheduled Castes and Scheduled Tribes. For example, according to the Report the average years of schooling for Muslim children between the ages of 7-16 is much lower than that of other socio-religious communities (page 56).
+
+> [table] Read the data related to schooling provided by the Sachar Committee Report:
+
+• 25 per cent of Muslim children in the 6-14 year age group have either never been enrolled in school or have dropped out. This percentage is much higher than that of any other socio-religious community (page 58).
+
+> [table] Do you think special measures are required to address this situation?
+
+Economic and social marginalisation experienced by Muslims has other dimensions as well. Like other minorities, Muslim customs and practices are sometimes quite distinct from what is seen as the mainstream. Some – not all – Muslims may wear a burqa, sport a long beard, wear a fez, and these become ways to identify all Muslims. Because of this, they tend to be identified differently and some people think they are not like the ‘rest of us’. Often this becomes an excuse to treat them unfairly, and discriminate against them. Do you remember reading in your Class VII book about how the Ansaris were finding it difficult to rent a house? This social marginalisation of Muslims in some instances has led to them migrating from places where they have lived, often leading to the ghettoisation of the community. Sometimes, this prejudice leads to hatred and violence.
+
+<!-- page 90 (pdf 13) -->
+
+> [caption] Muslim women are an important part of the women’s movement in India.
+
+I live in a Muslim-dominated area. Some days back during Ramzan there was some disturbance that started taking a communal outlook. My brother and I had gone for an Iftar party in the neighbourhood and were dressed in traditional clothes, that is sherwani and salwar kameez respectively. On returning home, my brother and I were asked to change our clothes to jeans and T-shirt.
+
+Now when everything is fine I wonder what was the reason that we were asked to change our clothes and why I didn’t find it odd. Were our clothes giving away our identity and is that identity linked to all kinds of fears and discrimination?
+
+> [caption] Ainee A. Farooqi
+
+In the above section of this chapter, we saw how in the case of the Muslim community there is a link between economic and social marginalisation. Earlier in this chapter, you read about the situation of Adivasis. In your Class VII book, you read about the unequal status of women in India. The experiences of all these groups point to the fact that marginalisation is a complex phenomena requiring a variety of strategies, measures and safeguards to redress this situation. All of us have a stake in protecting the rights defined in the Constitution and the laws and policies framed to realise these rights. Without these, we will never be able to protect the diversity that makes our country unique nor realise the State’s commitment to promote equality for all.
+
+> [caption] The above essay has been written by a child around your age. What do you think she is trying to convey?
+
+<!-- page 91 (pdf 14) -->
+
+## Conclusion
+
+In this chapter, we have tried to understand what it means to be a marginalised community. We have tried to look at this through the experiences of different marginalised communities. There are different reasons for each of these communities being marginalised. Each experiences marginalisation in different ways. We have also seen that marginalisation is linked to experiencing disadvantage, prejudice and powerlessness. In India there are several more marginalised communities, like Dalits, of whom you will read more in the next chapter. Marginalisation results in having a low social status and not having equal access to education and other resources.
+
+Yet, the lives of marginalised people can and do change. Thus, no one is marginalised all the time in exactly the same way. If we go back to the two examples of marginalisation we have discussed, we will see that each of these groups has a long history of struggle and resistance. Marginalised communities want to maintain their cultural distinctiveness while having access to rights, development and other opportunities. In the next chapter, we will read about how different groups have confronted marginalisation.
+
+> [caption] The Sachar Committee Report also debunked other prevalent myths about Muslims. It is commonly believed that the Muslims prefer to send their children to Madarsas. The figures show that only 4 per cent of Muslim children are in Madarsas, where as 66 per cent attend government schools and 30 per cent private schools. (page 75)
+
+<!-- page 92 (pdf 15) -->
+
+## Exercises
+
+> [table] 1. Write in your own words two or more sentences of what you understand by the word ‘marginalisation’.
+
+> [table] 2. List two reasons why Adivasis are becoming increasingly marginalised.
+
+> [table] 3. Write one reason why you think the Constitution’s safeguards to protect minority communities are very important?
+
+> [table] 4. Re-read the section on Minorities and Marginalisation. What do you understand by the term minority?
+
+5. You are participating in a debate where you have to provide reasons to support the following statement: ‘Muslims are a marginalised community’. Using the data provided in this chapter, list two reasons that you would give.
+
+6. Imagine that you are watching the Republic Day parade on TV with a friend and she remarks, “Look at these tribals. They look so exotic. And they seem to be dancing all the time”. List three things that you would tell her about the lives of Adivasis in India.
+
+> [table] 7. In the storyboard you read about how Helen hopes to make a movie on the Adivasi story. Can you help her by developing a short story on Adivasis?
+
+> [table] 8. Would you agree with the statement that economic and social marginalisation are interlinked? Why?
+
+<!-- page 93 (pdf 16) -->
+
+## GLOSSARY
+
+Hierarchy: A graded system or arrangement of persons or things. Usually persons at the bottom of the hierarchy are those who have the least power. The caste system is a hierarchical system and Dalits are considered to be at the lowest end.
+
+Ghettoisation: A ghetto is an area or locality that is populated largely by members of a particular community. Ghettoisation refers to the process that leads to such a situation. This may occur due to various social, cultural and economic reasons. Fear or hostility may also compel a community to group together as they feel more secure living amongst their own. Often a ‘ghettoised’ community has few options of moving out, which may lead to them becoming alienated from the rest of the society.
+
+Mainstream: Literally this refers to the main current of a river or stream. In this chapter it is used to refer to a cultural context in which the customs and practices that are followed are those of the dominant community. In connection with this, mainstream is also used to refer to those people or communities that are considered to be at the centre of a society, i.e. often the powerful or dominant group.
+
+> [table] Displaced: In the context of this chapter this refers to people who are forced or compelled to move from their homes for big development projects including dams, mining etc.
+
+> [table] Militarised: An area where the presence of the armed forces is considerable.
+
+> [table] Malnourished: A person who does not get adequate nutrition or food.

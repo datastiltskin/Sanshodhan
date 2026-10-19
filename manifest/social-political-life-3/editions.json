@@ -1,0 +1,1873 @@
+{
+  "book": "social-political-life-3",
+  "title": "Social and Political Life III",
+  "editions": [
+    {
+      "id": "2014-07-28",
+      "fingerprint": "818449d8d1be3f9ac7718fd58389fd4dfa18c2b7097e19757bc38d6f0b755ddc",
+      "snapshots": [
+        "2014-07-28"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "c5a10f510060dc2fa43607b3110c739bcdef39000266c797633f1a1b7385f7a6",
+          "role_counts": {
+            "footer": 23,
+            "h2": 7,
+            "body": 41,
+            "chapter-number": 1,
+            "caption": 42,
+            "dropcap": 1,
+            "table": 38,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "f87697ceb36455865d6a2afd53cec4f72f34ebf063b74153b760462f513e1c1a",
+          "role_counts": {
+            "footer": 15,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "eb32d5799141392532921a3532dc41aae0f9b48b5877630fc998866684c3e8e8",
+          "role_counts": {
+            "footer": 20,
+            "h2": 8,
+            "body": 69,
+            "chapter-number": 1,
+            "caption": 62,
+            "dropcap": 1,
+            "table": 23
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "a9b53b93a5d4847d2eb070021dfb06363f9a2a81319cba10aff477f4d3cbe865",
+          "role_counts": {
+            "footer": 15,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 61
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "d9357cb35ace45a2de118d6311a0e8c2669f3318868c6b525e60d18109ef496b",
+          "role_counts": {
+            "footer": 20,
+            "h2": 10,
+            "body": 35,
+            "chapter-number": 1,
+            "caption": 26,
+            "table": 36,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "role_counts": {
+            "footer": 18,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 22,
+            "caption": 56,
+            "dropcap": 3,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "282c3ed76863339f1b843dd3661b058907509559f696755dfed678394b59c9e2",
+          "role_counts": {
+            "footer": 23,
+            "h2": 11,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 57,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "97a3e81030d9add06c03b9ecce941337821e950170857cac3aa6cf1a93cf32e7",
+          "role_counts": {
+            "footer": 14,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 35,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "d6ced8b4f8ff5d055561a519748cd4402b67a595b475ade5610f8fc588d1de3d",
+          "role_counts": {
+            "footer": 22,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 29,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2014-07-28/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "9e89759f1e9307a7f36ff9de5e10a0a02b3102650b5eeac3b295996455013702",
+          "role_counts": {
+            "footer": 18,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 45,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2014-07-28/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2016-09-10",
+      "fingerprint": "fa11caec5e8efca6078e6b3251eec04c466d81b830141f94d83b4d8e818f9537",
+      "snapshots": [
+        "2016-09-10"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014"
+          ],
+          "latest_print": "December 2014",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "4fdb71ecb149f9c10281444bb457cffd66a2924015b8dfaf4dde646ae980f965",
+          "role_counts": {
+            "footer": 39,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 42,
+            "table": 34,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "52bc98cd822d09f9e0ad0748527143cf41282c29795732a7c40e066940d8b9a6",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 25,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "0bb7bee1acaac32db3d284796e0f9b6b427984d01a1e457760dddde9a392ff4e",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 49,
+            "chapter-number": 1,
+            "caption": 36,
+            "dropcap": 1,
+            "table": 25
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "a9b53b93a5d4847d2eb070021dfb06363f9a2a81319cba10aff477f4d3cbe865",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 55
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "130cc36cbeb95cf5b38317e2634babaa7dccf361e74e1c1dce41a0c5734dad6f",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 89,
+            "chapter-number": 1,
+            "caption": 13,
+            "dropcap": 3,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "f22a020ada1c6a2510188331362641c2422f54d32a892a6100d143dd32eca44f",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 82,
+            "table": 1,
+            "dropcap": 3,
+            "caption": 25,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "fea5d64e573361c5b7fd18ced13b4d26d47cdcd256bf4867d33cf67effe4cdd0",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 84,
+            "chapter-number": 1,
+            "caption": 24,
+            "table": 5,
+            "h3": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "f0a0fcb3247d150a5406874711d8805d78a6960bd0db5ae4fa54dada268d6bcb",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 64,
+            "note": 22,
+            "caption": 4,
+            "h3": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "d6ced8b4f8ff5d055561a519748cd4402b67a595b475ade5610f8fc588d1de3d",
+          "role_counts": {
+            "footer": 22,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 29,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2016-09-10/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "9e89759f1e9307a7f36ff9de5e10a0a02b3102650b5eeac3b295996455013702",
+          "role_counts": {
+            "footer": 18,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 45,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2016-09-10/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "f0cbc622741c986fe4b61438946b3bec37fa34f819461f539db1285edb1126a5",
+      "snapshots": [
+        "2019-05-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018"
+          ],
+          "latest_print": "December 2018",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
+          "role_counts": {
+            "footer": 39,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 38,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "7099b70bd48110b4b4cb10ca912ad27ffff575bf09aa7abc950befccec520859",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 50,
+            "chapter-number": 1,
+            "caption": 31,
+            "dropcap": 1,
+            "table": 30
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "ac3f052fc00c427372cfb9213f8c321d065898d85782d92e6e4909649e5150a9",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 62
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "020f86b5060b360915e2e1bdb01260aa68d87d08e3baf637d060aabbdd777b44",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 39,
+            "chapter-number": 1,
+            "caption": 33,
+            "table": 38,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 22,
+            "caption": 57,
+            "dropcap": 3,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "a687abddbd45ce30ba68b65ea023b3526efb2066d7d012d22f8374e087845faf",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 49,
+            "chapter-number": 1,
+            "caption": 56,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "38b7465a418aa66dac7348559c53d2331e79a2563b83c91a5a8ecd74f127ad41",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 35,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "role_counts": {
+            "footer": 38,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 75,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2019-05-04/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 32,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 57,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2019-05-04/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-06-16",
+      "fingerprint": "92c5d33fa94540a66e7bbb49cd22afade1bcf4cb0bc3d181fa8fb7d0d66611f4",
+      "snapshots": [
+        "2020-06-16"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018",
+            "January 2020"
+          ],
+          "latest_print": "January 2020",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 11
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
+          "role_counts": {
+            "footer": 39,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 38,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "3e5a483869a29c3d16100327eaaa43e1a67f65a338de7175ec202aab8d063321",
+          "role_counts": {
+            "footer": 35,
+            "h2": 8,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 31,
+            "dropcap": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 62
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "0008ced7fb62919bba9bbb9abaab13fb45faff0acabf3d6a742d41747e788b46",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 39,
+            "chapter-number": 1,
+            "caption": 33,
+            "table": 38,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 22,
+            "caption": 57,
+            "dropcap": 3,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "a687abddbd45ce30ba68b65ea023b3526efb2066d7d012d22f8374e087845faf",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 49,
+            "chapter-number": 1,
+            "caption": 56,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "38b7465a418aa66dac7348559c53d2331e79a2563b83c91a5a8ecd74f127ad41",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 35,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "role_counts": {
+            "footer": 38,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 75,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2020-06-16/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 32,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 57,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2020-06-16/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2021-08-14",
+      "fingerprint": "8384b38d9ba0281bade4dadd6683016caeb6726ff0e87a2581a2b51bf74e01dd",
+      "snapshots": [
+        "2021-08-14"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018",
+            "January 2020",
+            "March 2021"
+          ],
+          "latest_print": "March 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 11
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
+          "role_counts": {
+            "footer": 41,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 36,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "b7774110877979175bc63c9c047f354edf67b90f79400d8438585c62cf596ba4",
+          "role_counts": {
+            "footer": 35,
+            "h2": 8,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 31,
+            "dropcap": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 62
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "0008ced7fb62919bba9bbb9abaab13fb45faff0acabf3d6a742d41747e788b46",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 39,
+            "chapter-number": 1,
+            "caption": 33,
+            "table": 38,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 22,
+            "caption": 57,
+            "dropcap": 3,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "6a39565ccba8307f4f899f628e7b7ec9d873eca953c1c16131336983a75b32ba",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 49,
+            "chapter-number": 1,
+            "caption": 56,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "38b7465a418aa66dac7348559c53d2331e79a2563b83c91a5a8ecd74f127ad41",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 35,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "d4ca5ab88f087fb7a4864cb43dd002781fb1872c34c58ab88aa7bd9862ef0703",
+          "role_counts": {
+            "footer": 43,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 70,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2021-08-14/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 33,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 56,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2021-08-14/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-08-02",
+      "fingerprint": "efce52227f3c16a73ef0e607e0bdbd160538a5e3c94fe33d6d7fabe50442bb0e",
+      "snapshots": [
+        "2022-08-02",
+        "2023-02-10-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018",
+            "January 2020",
+            "March 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 11
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918ef9c",
+          "role_counts": {
+            "footer": 41,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 36,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "471adc927f0bc7a8d58c6c5e1a99742327bbc768a153bc99551f3201a4674791",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 30,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "b7774110877979175bc63c9c047f354edf67b90f79400d8438585c62cf596ba4",
+          "role_counts": {
+            "footer": 35,
+            "h2": 8,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 31,
+            "dropcap": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Understanding Laws",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "42-51",
+          "fingerprint": "33f77c6b27ca4e38c94db918bd481ccd39596f3a7d2dea5a0c56fb3af7a25f31",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 22,
+            "h2": 5,
+            "dropcap": 1,
+            "table": 10,
+            "caption": 62
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/04-understanding-laws.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "0008ced7fb62919bba9bbb9abaab13fb45faff0acabf3d6a742d41747e788b46",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 39,
+            "chapter-number": 1,
+            "caption": 33,
+            "table": 38,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "adeaaa2684241e4cb3a9f0fcebded449fd8c33e0f48fd2651d8f2feb139146f7",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 22,
+            "caption": 57,
+            "dropcap": 3,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "6a39565ccba8307f4f899f628e7b7ec9d873eca953c1c16131336983a75b32ba",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 49,
+            "chapter-number": 1,
+            "caption": 56,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "94-103",
+          "fingerprint": "38b7465a418aa66dac7348559c53d2331e79a2563b83c91a5a8ecd74f127ad41",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 35,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/08-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch09.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "104-119",
+          "fingerprint": "b383518eebbf6a28a8756475ce97495f2ea8a909d7228f27926a34689880fb44",
+          "role_counts": {
+            "footer": 43,
+            "h2": 12,
+            "body": 57,
+            "chapter-number": 1,
+            "caption": 70,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/09-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2022-08-02/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 33,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 56,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2022-08-02/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "6efb81e146fa5d19ec430bd4a039f630cba7acd215e3352f845e0d5afae7a34a",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "November 2022",
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018",
+            "January 2020",
+            "March 2021",
+            "November 2021",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 15
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "a70222ddeda5bd7553c8739543b2fea8f3af2e6da17d9756c82751074db263a3",
+          "role_counts": {
+            "footer": 41,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 36,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Parliament and the Making of Laws",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch03.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "28-45",
+          "fingerprint": "cd70845c4e61158981d804a8f494be9f830a6daf774db6db0e34f9d294829ec8",
+          "role_counts": {
+            "footer": 44,
+            "h2": 8,
+            "body": 52,
+            "chapter-number": 1,
+            "caption": 88,
+            "dropcap": 1,
+            "table": 27
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/03-parliament-and-the-making-of-laws.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch04.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "46-59",
+          "fingerprint": "1ecfd9bf46d19574f47eefe4a590d30b8788dffec8134b9e1eb48415beece60b",
+          "role_counts": {
+            "footer": 35,
+            "h2": 10,
+            "body": 37,
+            "chapter-number": 1,
+            "caption": 32,
+            "table": 38,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/04-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "60-73",
+          "fingerprint": "1dc4c94d893a80b37f1ca38407650844ab8417408815eda3222b6d73cdcbfa79",
+          "role_counts": {
+            "footer": 33,
+            "h2": 11,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 54,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/05-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch06.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "74-83",
+          "fingerprint": "2338cba9a0b5f88e4626f75289ae1be901abe2e9130c308643cb0c3213e416e5",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 34,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/06-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "84-99",
+          "fingerprint": "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c5bd",
+          "role_counts": {
+            "footer": 43,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 70,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/07-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2023-12-23/ch08.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "100-114",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 34,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 56,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2023-12-23-rationalised/08-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-05-24",
+      "fingerprint": "b28ff0a7d72dbce292938eefd416118cf3afda1324d8a9a1a7e203554dea5d61",
+      "snapshots": [
+        "2024-05-24",
+        "live-2026-10-19"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": "November 2022",
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "December 2018",
+            "January 2020",
+            "March 2021",
+            "November 2021",
+            "November 2022",
+            "February 2023",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 15
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Indian Constitution",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch01.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "2-17",
+          "fingerprint": "a70222ddeda5bd7553c8739543b2fea8f3af2e6da17d9756c82751074db263a3",
+          "role_counts": {
+            "footer": 41,
+            "h2": 7,
+            "body": 42,
+            "chapter-number": 1,
+            "caption": 41,
+            "table": 36,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/01-the-indian-constitution.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "0408a03caa7abccdf25c730eae916a111016987f2b32b03bf7117f0f40dbbcd0",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 27,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Parliament and the Making of Laws",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch03.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "28-45",
+          "fingerprint": "734f4e6003db309a7e95e9bd88b0324827512556d988876ee9d9cdf28cfdcb15",
+          "role_counts": {
+            "footer": 44,
+            "h2": 8,
+            "body": 52,
+            "chapter-number": 1,
+            "caption": 69,
+            "dropcap": 1,
+            "table": 27
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/03-parliament-and-the-making-of-laws.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch04.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "46-59",
+          "fingerprint": "387502231d2b623eb450ef8871c202e80183d346ad6eb787aa105d93c13a565d",
+          "role_counts": {
+            "footer": 35,
+            "h2": 10,
+            "body": 37,
+            "chapter-number": 1,
+            "caption": 33,
+            "table": 37,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/04-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "60-73",
+          "fingerprint": "75a3058b3290d2649688c9483ae1b6946707d19c86ab6fc5293e04cd8e7ce226",
+          "role_counts": {
+            "footer": 33,
+            "h2": 11,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 54,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/05-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Confronting Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch06.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "74-83",
+          "fingerprint": "1ccb16c1fabbc8044307d6901655e1fa5383acd1caa5bb9db8c12fbfbdf7f3ca",
+          "role_counts": {
+            "footer": 24,
+            "chapter-number": 1,
+            "h2": 8,
+            "body": 38,
+            "caption": 34,
+            "table": 19
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/06-confronting-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Public Facilities",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "84-99",
+          "fingerprint": "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c5bd",
+          "role_counts": {
+            "footer": 40,
+            "h2": 12,
+            "body": 53,
+            "chapter-number": 1,
+            "caption": 70,
+            "note": 1,
+            "table": 24,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/07-public-facilities.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2024-05-24/ch08.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "100-114",
+          "fingerprint": "a90e2122b38befceca96c1e73dfac954571caf4730d7cb42f29cd83ee25fb4fa",
+          "role_counts": {
+            "footer": 34,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 56,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "file": "texts/social-political-life-3/2024-05-24/08-law-and-social-justice.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": []
+}

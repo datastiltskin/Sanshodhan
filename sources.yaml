@@ -69,6 +69,32 @@ books:
       - { label: "2024-08-04", wayback: "20240804102308", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
 
+  social-political-life-3:
+    class: 8
+    subject: civics
+    language: en
+    title: "Social and Political Life III"
+    code: hess3
+    snapshots:
+      - { label: "2014-07-28", wayback: "20140728043207", url: "http://ncert.nic.in/ncerts/l/hess3dd.zip" }
+      - { label: "2016-09-10", wayback: "20160910184715", url: "http://ncert.nic.in/ncerts/l/hess3dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504055337", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      - { label: "2020-06-16", wayback: "20200616101116", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      - { label: "2021-08-14", wayback: "20210814170507", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      - { label: "2022-08-02", wayback: "20220802180114", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      # The archive's copy of this zip is truncated. Chapters 1 to 4 of the 2022-23 printing
+      # were salvaged from it by hand (see docs/sources.md), so it is a partial snapshot.
+      - { label: "2023-02-10-partial", wayback: "20230210035803", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      # Per-chapter captures of the same printing fill in chapters 6, 7, 8 and 10. Chapters 5 and 9 were never captured.
+      - { label: "2023-02-10-partial", wayback: "20230215000000", url: "https://ncert.nic.in/textbook/pdf/hess306.pdf" }
+      - { label: "2023-02-10-partial", wayback: "20221207000000", url: "https://ncert.nic.in/textbook/pdf/hess307.pdf" }
+      - { label: "2023-02-10-partial", wayback: "20230210000000", url: "https://ncert.nic.in/textbook/pdf/hess308.pdf" }
+      - { label: "2023-02-10-partial", wayback: "20230208000000", url: "https://ncert.nic.in/textbook/pdf/hess310.pdf" }
+      - { label: "2023-12-23", wayback: "20231223073449", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      # Same digest is served through 2025 and 2026 captures.
+      - { label: "2024-05-24", wayback: "20240524024219", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+
   exploring-society-7:
     class: 7
     subject: social science

@@ -178,6 +178,87 @@ Three edits in two years:
   "Banaras", "nabobs" gained "(nawabs)", and "the Third Anglo-Maratha War of 1817–19 crushed
   Maratha power" became "the Maratha power came to end with the Third Anglo-Maratha War".
 
+## Social and Political Life III (Class 8 civics)
+
+### 2008 text (2014 capture) to December 2014 printing (2016 capture)
+
+The 2014 capture is the 2008 first-edition text (A4-sized files). The next printing updated
+data and exercises throughout:
+
+- Chapter 1: "three organs of the State" became "three organs of government" (three places);
+  "Om Prakash Valmiki" respelt "Omprakash"; "changed over the years" became "amended"; a new
+  activity on the 11 Fundamental Duties; the glossary entry "Trafficking" became "Human
+  Trafficking".
+- Chapter 3: the table of Lok Sabha results was replaced (1984 results out, 2014 results in);
+  "an increase in political participation from the Dalit and backward castes and the
+  minorities" became "from the Dalits and backward classes"; "plus 2 nominated" became
+  "plus 2 Anglo-Indian nominated".
+- Chapter 5: the Chief Justice's speech on judicial vacancies is now dated 26 November 2014
+  with a new vacancy table; new activities on vacancies, on Fundamental Rights, and on the
+  Right to Food poster.
+- Chapter 6: the opening on the police and fair trials was rewritten around Article 22 ("every
+  person has a Fundamental Right to be defended by a lawyer"); the Shanti Hembram storyboard
+  and the Fiesta Club activity were expanded.
+- Chapter 7: the Muslim marginalisation data became a set of boxes with 2001 census figures
+  and a comparison table of Hindus, Muslims, Christians, Sikhs, Buddhists and Jains in
+  government jobs; "Adivasi religions themselves have influenced dominant religions" kept.
+- Chapter 8: a glossary (Confront, Ostracise) and activities on the Safai Karamchari
+  Andolan's PIL were added; the SC/ST (Prevention of Atrocities) Act got its own heading.
+
+### December 2014 printing to December 2018 printing (2019 capture)
+
+- Chapter 1: Nepal's constitution-writing is now past tense ("the people of Nepal adopted a
+  new Constitution for the country in 2015"); the quoted article renumbered 37 to 75.
+- Chapter 3: women MPs "just above nine per cent" became "just above eleven per cent"; a 2016
+  National Plan of Action for Children answer was added as the sample parliamentary question.
+- Chapter 5: the vacancy table updated to November 2018 and the 2014 speech removed;
+  exercises renumbered.
+
+### 2018 printing through 2020, 2021 and 2022 printings
+
+- 2020: the Lok Sabha results table updated from the 16th (2014) to the 17th (2019) election,
+  with the turnout row "17th 2019 67.11"; the vacancy table to 2019; "Domestic violence
+  generally refers to".
+- 2021: the Opposition "is formed by all the political parties that oppose the majority
+  party/coalition" became "that are not part of the majority party/coalition"; the glossary
+  example "If the government decides not to promote an officer of the armed forces for being
+  a woman" was cut from the definition of tyranny; national park figures updated.
+- 2022: only exercise numbering and a schemes table re-set. The 2022-23 printing (February
+  2023 capture) is identical to it.
+
+### November 2021 printing to rationalised 2023-24
+
+- Chapters 4 (Understanding Laws) and 6 (Understanding Our Criminal Justice System)
+  dropped; chapter 3 became "Parliament and the Making of Laws", absorbing the domestic
+  violence law story and the "Unpopular and Controversial Laws" section from old chapter 4.
+- Chapter 3, p. 39 to 40: the section "Who are the People in Parliament?" was dropped (about
+  20 sentences): that Parliament "now has more and more people from different backgrounds",
+  the reservation of seats for SCs and STs, the debate on reserving seats for women ("Sixty
+  years ago, only four per cent of MPs were women and today it is just above eleven per
+  cent"), and "Why do you think there are so few women in Parliament? Discuss."
+- Chapter 7 (now 5), p. 90: the first-person account of being told to change out of a
+  sherwani and salwar kameez during Ramzan was dropped, as were the references to the Ansari
+  family's difficulty renting a house and to Kanta's story from the Class VII book.
+- Chapter 5 (now 4), p. 55: the Hakim Sheikh case (Right to Life includes Right to Health)
+  dropped. Chapter 1, p. 7: the Omprakash Valmiki references dropped.
+
+### Rationalised 2023-24 to 2024-25 printing
+
+- Chapter 5, p. 65: "Adivasis practise a range of tribal religions that are different from
+  Islam, Hinduism and Christianity" became "a range of belief systems that are different from
+  other religions".
+- Chapter 5, p. 71 to 72: the Sachar Committee passage was recast. "It suggests that on a
+  range of ... indicators the situation of the Muslim community is comparable to that of
+  other marginalised communities" became "The report discussed in detail ... and suggested";
+  "treat them unfairly" became "treat them differently"; "this prejudice leads to hatred and
+  violence" became "has also led to"; "there is a link between economic and social
+  marginalisation" became "there used to be a link". National park figures updated to the
+  Wildlife Institute of India's November 2023 data; "marginalised" respelt "marginalized" in
+  that passage.
+- Chapter 3, p. 36: "(plus 2 Anglo-Indian nominated)" removed from the Lok Sabha count,
+  following the 104th Amendment.
+- Chapter 4: vacancy table updated again; Teacher's Note rewritten for the merged unit.
+
 ## Not yet compared
 
 The 2025 "Exploring Society" books share no chapter structure with Our Pasts II, so the

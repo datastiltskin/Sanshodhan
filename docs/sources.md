@@ -56,6 +56,7 @@ Whole-book zips with distinct content (these are what `sources.yaml` lists):
 | Our Pasts II | 2023-12-23 | Rationalised 2023-24, 8 chapters |
 | Our Pasts II | 2024-05-24 | identical bytes in 2025 and 2026 captures |
 | Our Pasts III | 2014-07-28, 2016-09-10, 2019-03-12, 2020-10-15, 2021-08-14, 2022-08-02, 2023-12-23, 2024-08-04 | |
+| Social and Political Life III | 2014-07-28, 2016-09-10, 2019-05-04, 2020-06-16, 2021-08-14, 2022-08-02, 2023-02-10 (truncated), 2023-12-23, 2024-05-24 | 2020-06-16 and 2020-10-11 share a digest |
 
 What the downloaded zips turned out to contain:
 
@@ -80,6 +81,18 @@ What the downloaded zips turned out to contain:
   book is one volume under `hess2`, with 10 chapters, then 8 after rationalisation.
 - Our Pasts III 2019-03-12: the headings are set in fonts without a Unicode mapping and come
   out blank, so titles for that edition are taken from the contents page.
+- Social and Political Life III 2023-02-10: the archive's copy of the zip stops at 11.9 MB
+  of 24 MB (its recorded length, so a re-download gives the same bytes). Chapters 1 to 4 of
+  the 2022-23 printing were recovered from it with `scripts/salvage_truncated_zip.py`, and
+  chapters 6, 7, 8 and 10 from per-chapter captures of the same months. Chapters 5 and 9 and
+  the prelims were never captured. All eight recovered chapters are identical to the
+  November 2021 printing, so the snapshot is folded into that edition.
+- Social and Political Life III 2022-08-02: the body font maps every character to the
+  Unicode private-use range (U+F048 for "H"), as symbol fonts do. The extractor translates
+  it back, so the text reads normally.
+- Social and Political Life III, all editions: odd-numbered chapter files open with a unit
+  title page and a Teacher's Note, and in 2016 and 2019 the first chapter file also carries
+  the contents page. Chapter titles sit beside a "Chapter N" label rather than a numeral.
 
 Per-chapter captures also exist for years without a zip (2017, 2018, 2025). Many of those are
 re-encodes of the same text with very different file sizes, so a different file hash does not

@@ -55,6 +55,16 @@ Things seen so far:
 - Files whose italic terms are drawn as outlines (2024-25 Our Pasts II). Recovered with
   OCR of the small rectangles automatically. Spot check a page.
 - Fonts with no Unicode map (2018 Our Pasts III). Their text is marked `[unreadable]`.
+- Fonts that map letters into the private-use range U+F0xx (2022 Social and Political Life
+  III). Decoded automatically; if a new file shows `[unreadable]` or empty chapters, check
+  the span text in PyMuPDF for `\uf0..` characters.
+- A zip the archive cut short (2023-02 Social and Political Life III). Run
+  `uv run python scripts/salvage_truncated_zip.py <zip>` to pull out the complete members,
+  rename them to `chNN.pdf`, give the snapshot a `-partial` label in `sources.yaml`, and look
+  for per-chapter captures of the same months to fill the gaps.
+- Books whose chapters open with a unit page and a "Chapter N" label beside the title
+  (the civics books). Handled: the label gives the number, the title is the heading beside
+  it, unit pages and teacher's notes are kept, a bound-in contents page is dropped.
 
 ## 4. Extract and check
 
@@ -75,7 +85,9 @@ page ranges per edition. Check that:
   (`https://ncert.nic.in/pdf/BookletClass<N>.pdf`).
 
 If a new book's layout breaks a rule, the knobs are in `extract.py`: the footer band, the
-body-size profile, the side fonts, the chapter-number detection. Add a fixture page to
+body-size profile (the largest prose size carrying a quarter of the text), the side fonts,
+the chapter-number and chapter-label detection, and the heading length limit (some fonts
+report every weight as bold, so a long "bold" block is prose, not a heading). Add a fixture page to
 `tests/fixtures/` and a test before changing them.
 
 ## 5. Diff
