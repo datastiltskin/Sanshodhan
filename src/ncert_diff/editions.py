@@ -14,6 +14,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import pymupdf
+import yaml
 
 from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
@@ -100,6 +101,46 @@ def parse_prelims(pdf_path: Path) -> Prelims:
     return out
 
 
+OVERRIDES_DIR = PDF_DIR.parent / "overrides"
+
+
+def load_overrides(book_id: str) -> list[dict]:
+    """Hand corrections to extracted text, from overrides/<book>.yaml. Each entry has
+    `snapshot` (a label, or "*" for any), `chapter` (a number, or "*"), `find`, `replace`,
+    and a `note` saying why. They are applied after extraction and before fingerprinting,
+    so a corrected text still groups with the snapshots that share it."""
+    path = OVERRIDES_DIR / f"{book_id}.yaml"
+    if not path.exists():
+        return []
+    entries = yaml.safe_load(path.read_text()) or []
+    for i, e in enumerate(entries):
+        for k in ("find", "replace", "note"):
+            if k not in e:
+                raise ValueError(f"{path}: entry {i + 1} has no '{k}'")
+        e.setdefault("snapshot", "*")
+        e.setdefault("chapter", "*")
+    return entries
+
+
+def apply_overrides(markdown: str, snapshot: str, chapter: int | None, overrides: list[dict]) -> tuple[str, list[str], list[str]]:
+    """(corrected markdown, notes of the overrides applied, notes of those that did not match).
+    An entry addressed to a specific snapshot and chapter is expected to match; a wildcard
+    entry is applied wherever its text occurs and is never reported as missed."""
+    applied: list[str] = []
+    missed: list[str] = []
+    for e in overrides:
+        if e["snapshot"] != "*" and e["snapshot"] != snapshot:
+            continue
+        if e["chapter"] != "*" and int(e["chapter"]) != chapter:
+            continue
+        if e["find"] in markdown:
+            markdown = markdown.replace(e["find"], e["replace"])
+            applied.append(e["note"])
+        elif e["snapshot"] != "*" and e["chapter"] != "*":
+            missed.append(e["note"])
+    return markdown, applied, missed
+
+
 def snapshot_dirs(book: Book) -> list[Path]:
     root = PDF_DIR / book.id
     if not root.exists():
@@ -184,6 +225,8 @@ def process_book(book: Book, *, log=print) -> Path:
     manifest = load_manifest(book.id)
     extracted: dict[str, dict] = {}  # snapshot label -> details
     skipped: list[dict] = []
+    overrides = load_overrides(book.id)
+    overrides_missed: list[dict] = []
 
     for snap in snapshot_dirs(book):
         label = snap.name
@@ -249,6 +292,12 @@ def process_book(book: Book, *, log=print) -> Path:
                 log(f"  {pdf.name}: chapter {number} already taken from another file, skipped")
                 continue
             md = annotate_sections(md)
+            md, applied, missed = apply_overrides(md, label, number, overrides)
+            for note in applied:
+                log(f"  chapter {number}: override applied ({note})")
+            for note in missed:
+                log(f"  chapter {number}: OVERRIDE NOT FOUND ({note})")
+                overrides_missed.append({"snapshot": label, "chapter": number, "note": note})
             chapters.append(
                 {
                     "part": part,
@@ -263,6 +312,7 @@ def process_book(book: Book, *, log=print) -> Path:
                     "ocr": meta.get("ocr", False),
                     "ocr_confidence": meta.get("ocr_confidence"),
                     "ocr_pages": meta.get("ocr_pages"),
+                    "overrides": applied or None,
                 }
             )
         prelims_meta: dict[int | None, Prelims] = {}
@@ -369,11 +419,12 @@ def process_book(book: Book, *, log=print) -> Path:
                     "ocr": True if ch.get("ocr") else None,
                     "ocr_confidence": ch.get("ocr_confidence") if ch.get("ocr") else None,
                     "ocr_pages": ch.get("ocr_pages"),
+                    "overrides": ch.get("overrides"),
                 }
             )
             (out_dir / fname).write_text(fm + ch["markdown"], encoding="utf-8")
             chapter_records.append(
-                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts", "ocr", "ocr_confidence", "ocr_pages")}
+                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts", "ocr", "ocr_confidence", "ocr_pages", "overrides")}
                 | ({"title_borrowed_from": ch["title_borrowed_from"]} if ch.get("title_borrowed_from") else {})
                 | {"file": str((out_dir / fname).relative_to(TEXTS_DIR.parent))}
             )
@@ -413,6 +464,6 @@ def process_book(book: Book, *, log=print) -> Path:
     path = MANIFEST_DIR / book.id / "editions.json"
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w") as fh:
-        json.dump({"book": book.id, "title": book.title, "editions": editions, "skipped_snapshots": skipped}, fh, indent=2, ensure_ascii=False)
+        json.dump({"book": book.id, "title": book.title, "editions": editions, "skipped_snapshots": skipped, "overrides_missed": overrides_missed}, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
     return path

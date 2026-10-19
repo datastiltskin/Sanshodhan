@@ -52,6 +52,18 @@ regard to order (questions get renumbered and glossary entries reflowed). A `[ta
 inside a section is a text box, not a table, so its rows are split into sentences like any
 other text.
 
+## Hand corrections
+
+`overrides/<book>.yaml` holds corrections to extracted text that no rule should make: an OCR
+misreading on one page, a glyph that leaked into a heading. Each entry names the snapshot
+(or `*`), the chapter (or `*`), the exact text to find, its replacement, and a note saying
+why. The editions step applies them after extraction and before fingerprinting, so a
+corrected text still groups with the snapshots that share it. Applied corrections are listed
+in the chapter's front matter and on its page on the site. An entry addressed to a specific
+snapshot and chapter that no longer matches is reported in the log and in
+`manifest/<book>/editions.json` under `overrides_missed`, so a re-extraction cannot drop a
+fix silently.
+
 ## Tagged blocks
 
 Anything that is not body text is kept as a blockquote with a role tag, so later diffs can

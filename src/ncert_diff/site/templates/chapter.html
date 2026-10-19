@@ -23,6 +23,7 @@
 </div>
 <p class="legend"><span class="chg chg-inserted">added</span> <span class="chg chg-deleted">removed</span> <span class="chg chg-modified"><del>old</del> <ins>new</ins> reworded</span></p>
 {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}
+{% if chapter.ch.overrides %}<p class="callout">Hand-corrected in {{ chapter.ch.overrides|length }} place{{ 's' if chapter.ch.overrides|length != 1 }}: {{ chapter.ch.overrides|join('. ') }}. The corrections are listed in the repository's overrides file.</p>{% endif %}
 <div class="pages">
 {% for p in chapter.pages %}
   <section class="page" id="p{{ p.page }}">

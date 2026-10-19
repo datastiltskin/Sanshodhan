@@ -11,7 +11,9 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch06.pdf"
 source_sha256: "6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9"
 pdf_pages: 12
 printed_pages: "62-73"
-body_fingerprint: "901412b6dc037c6a703d454cefacd0231f39ddcb0257b213e10d21e3ff8fe11a"
+body_fingerprint: "990ccf6c43701a8144d1fc40a88d7f66729ed0b350081565b5dc9c9338c7f007"
+overrides:
+  - "a decorative glyph next to the Exercises heading in the 2024-25 file reads as 'oD.'"
 ---
 
 <!-- page 62 (pdf 15 of ch05.pdf) -->
@@ -21,6 +23,8 @@ body_fingerprint: "901412b6dc037c6a703d454cefacd0231f39ddcb0257b213e10d21e3ff8fe
 <!-- page 63 (pdf 16 of ch05.pdf) -->
 
 # Media
+
+<!-- section: teachers-note -->
 
 Teacher’s note
 
@@ -168,7 +172,7 @@ to the working of the government. The media decides what to focus on and in this
 
 <!-- page 73 (pdf 10) -->
 
-EXERCISES oD.
+EXERCISES
 
 > [table] 1. In what ways does the media play an important role in a democracy?
 
@@ -201,6 +205,8 @@ EXERCISES oD.
 > [table] d. Whose point of view is being left out and why?
 
 > [table] 5. Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
+
+<!-- section: glossary -->
 
 Glossary
 

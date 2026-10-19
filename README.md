@@ -10,6 +10,8 @@ editions only for now.
 
 ## What is here
 
+- `overrides/<book>.yaml` holds hand corrections to extracted text (an OCR misreading, a stray
+  glyph), applied on every extraction and listed on the chapter's page.
 - `sources.yaml` lists every PDF the project uses: Wayback Machine snapshots (one per known
   distinct edition) and the live files on ncert.nic.in. This is the only place archive URLs live.
 - `pdfs/` (not in git) holds the downloaded books, one folder per snapshot, with readable names.

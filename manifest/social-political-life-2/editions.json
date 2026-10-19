@@ -43,6 +43,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/01-on-equality.md"
         },
         {
@@ -65,6 +66,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/02-role-of-the-government-in-health.md"
         },
         {
@@ -87,6 +89,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/03-how-the-state-government-works.md"
         },
         {
@@ -109,6 +112,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -131,6 +135,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/05-women-change-the-world.md"
         },
         {
@@ -152,6 +157,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/06-understanding-media.md"
         },
         {
@@ -174,6 +180,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/07-understanding-advertising.md"
         },
         {
@@ -195,6 +202,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/08-markets-around-us.md"
         },
         {
@@ -217,6 +225,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/09-a-shirt-in-the-market.md"
         },
         {
@@ -238,6 +247,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2014-07-28/10-struggles-for-equality.md"
         }
       ]
@@ -284,6 +294,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/01-on-equality.md"
         },
         {
@@ -305,6 +316,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/02-role-of-the-government-in-health.md"
         },
         {
@@ -327,6 +339,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/03-how-the-state-government-works.md"
         },
         {
@@ -349,6 +362,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -371,6 +385,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/05-women-change-the-world.md"
         },
         {
@@ -392,6 +407,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/06-understanding-media.md"
         },
         {
@@ -414,6 +430,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/07-understanding-advertising.md"
         },
         {
@@ -435,6 +452,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/08-markets-around-us.md"
         },
         {
@@ -457,6 +475,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/09-a-shirt-in-the-market.md"
         },
         {
@@ -478,6 +497,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2016-09-10/10-struggles-for-equality.md"
         }
       ]
@@ -535,6 +555,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/01-on-equality.md"
         },
         {
@@ -557,6 +578,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/02-role-of-the-government-in-health.md"
         },
         {
@@ -579,6 +601,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/03-how-the-state-government-works.md"
         },
         {
@@ -601,6 +624,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -622,6 +646,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/05-women-change-the-world.md"
         },
         {
@@ -643,6 +668,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/06-understanding-media.md"
         },
         {
@@ -664,6 +690,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/07-markets-around-us.md"
         },
         {
@@ -687,6 +714,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/08-a-shirt-in-the-market.md"
         },
         {
@@ -708,6 +736,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2019-05-04/09-struggles-for-equality.md"
         }
       ]
@@ -766,6 +795,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/01-on-equality.md"
         },
         {
@@ -788,6 +818,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/02-role-of-the-government-in-health.md"
         },
         {
@@ -810,6 +841,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/03-how-the-state-government-works.md"
         },
         {
@@ -832,6 +864,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -853,6 +886,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/05-women-change-the-world.md"
         },
         {
@@ -874,6 +908,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/06-understanding-media.md"
         },
         {
@@ -895,6 +930,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/07-markets-around-us.md"
         },
         {
@@ -918,6 +954,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/08-a-shirt-in-the-market.md"
         },
         {
@@ -939,6 +976,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2020-05-08/09-struggles-for-equality.md"
         }
       ]
@@ -1000,6 +1038,7 @@
           "ocr": true,
           "ocr_confidence": 88.2,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/01-on-equality.md"
         },
@@ -1022,6 +1061,7 @@
           "ocr": true,
           "ocr_confidence": 95.2,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/02-role-of-the-government-in-health.md"
         },
@@ -1044,6 +1084,7 @@
           "ocr": true,
           "ocr_confidence": 86.9,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/03-how-the-state-government-works.md"
         },
@@ -1066,6 +1107,7 @@
           "ocr": true,
           "ocr_confidence": 94.6,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/04-growing-up-as-boys-and-girls.md"
         },
@@ -1088,6 +1130,7 @@
           "ocr": true,
           "ocr_confidence": 94.8,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/05-women-change-the-world.md"
         },
@@ -1110,6 +1153,7 @@
           "ocr": true,
           "ocr_confidence": 80.5,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/06-understanding-media.md"
         },
@@ -1132,6 +1176,7 @@
           "ocr": true,
           "ocr_confidence": 92.3,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/07-markets-around-us.md"
         },
@@ -1154,6 +1199,7 @@
           "ocr": true,
           "ocr_confidence": 94.5,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/08-a-shirt-in-the-market.md"
         },
@@ -1176,6 +1222,7 @@
           "ocr": true,
           "ocr_confidence": 92.8,
           "ocr_pages": null,
+          "overrides": null,
           "title_borrowed_from": "2020-05-08",
           "file": "texts/social-political-life-2/2022-08-02-ocr/09-struggles-for-equality.md"
         }
@@ -1239,6 +1286,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/01-on-equality.md"
         },
         {
@@ -1261,6 +1309,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/02-role-of-the-government-in-health.md"
         },
         {
@@ -1283,6 +1332,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/03-how-the-state-government-works.md"
         },
         {
@@ -1305,6 +1355,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -1327,6 +1378,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/05-women-change-the-world.md"
         },
         {
@@ -1348,6 +1400,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/06-understanding-media.md"
         },
         {
@@ -1370,6 +1423,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/07-markets-around-us.md"
         },
         {
@@ -1393,13 +1447,14 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2023-12-23-rationalised/08-a-shirt-in-the-market.md"
         }
       ]
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "f4f115750908eba6960523baee1264e4ec223c002a6d073db490f156f92a64a5",
+      "fingerprint": "fd797f8644f401f7100a6f9a4b5dca9660610d40db5e8d06f00af1740b85503f",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-19"
@@ -1457,6 +1512,7 @@
           "ocr_pages": [
             4
           ],
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/01-on-equality.md"
         },
         {
@@ -1466,7 +1522,7 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "10-23",
-          "fingerprint": "e0fd9d0d310e149f965d062bcc4630e0ae15e3fb490730dcf9d7f4fcb96ff6e6",
+          "fingerprint": "3038936ef139eeb08d7be6b7df32e66c26222b34f94fdb1dc85c660a756a25e8",
           "role_counts": {
             "footer": 25,
             "h2": 3,
@@ -1480,6 +1536,9 @@
           "ocr_confidence": null,
           "ocr_pages": [
             5
+          ],
+          "overrides": [
+            "OCR misread on page 14, a flat image in the 2024-25 file; the 2023-24 text reads 11,174"
           ],
           "file": "texts/social-political-life-2/2024-05-24/02-role-of-the-government-in-health.md"
         },
@@ -1503,6 +1562,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/03-how-the-state-government-works.md"
         },
         {
@@ -1525,6 +1585,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -1546,6 +1607,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/05-women-change-the-world.md"
         },
         {
@@ -1555,7 +1617,7 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "62-73",
-          "fingerprint": "901412b6dc037c6a703d454cefacd0231f39ddcb0257b213e10d21e3ff8fe11a",
+          "fingerprint": "990ccf6c43701a8144d1fc40a88d7f66729ed0b350081565b5dc9c9338c7f007",
           "role_counts": {
             "h2": 3,
             "body": 59,
@@ -1568,6 +1630,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": [
+            "a decorative glyph next to the Exercises heading in the 2024-25 file reads as 'oD.'"
+          ],
           "file": "texts/social-political-life-2/2024-05-24/06-understanding-media.md"
         },
         {
@@ -1589,6 +1654,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/07-markets-around-us.md"
         },
         {
@@ -1614,10 +1680,12 @@
           "ocr_pages": [
             13
           ],
+          "overrides": null,
           "file": "texts/social-political-life-2/2024-05-24/08-a-shirt-in-the-market.md"
         }
       ]
     }
   ],
-  "skipped_snapshots": []
+  "skipped_snapshots": [],
+  "overrides_missed": []
 }

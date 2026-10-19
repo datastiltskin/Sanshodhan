@@ -11,9 +11,11 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch02.pdf"
 source_sha256: "2a1c6f49007feb460c4583b3fbd0eba17a4d4edc4b81abb7dfa7254cc60d4b34"
 pdf_pages: 14
 printed_pages: "10-23"
-body_fingerprint: "e0fd9d0d310e149f965d062bcc4630e0ae15e3fb490730dcf9d7f4fcb96ff6e6"
+body_fingerprint: "3038936ef139eeb08d7be6b7df32e66c26222b34f94fdb1dc85c660a756a25e8"
 ocr_pages:
   - 5
+overrides:
+  - "OCR misread on page 14, a flat image in the 2024-25 file; the 2023-24 text reads 11,174"
 ---
 
 <!-- page 10 (pdf 1) -->
@@ -23,6 +25,8 @@ ocr_pages:
 <!-- page 11 (pdf 2) -->
 
 # State Government
+
+<!-- section: teachers-note -->
 
 Teacher’s note
 
@@ -64,7 +68,7 @@ colleges in the world and is among the People in rural areas have to travel long
 
 Healthcare facilities have grown About five lakh people die from tuberculosis substantially over the years. In 1950, every year. This number is almost there were only 2,717 government hospitals unchanged since Independence!
 
-in India. In 1991, there were I 1,174 hospitals. Almost two million cases of malaria are In 2017, the number grew to 23,583. reported every year and this number isn’t decreasing.
+in India. In 1991, there were 11,174 hospitals. Almost two million cases of malaria are In 2017, the number grew to 23,583. reported every year and this number isn’t decreasing.
 
 India gets a large number of medical We are not able to provide clean drinking tourists from many countries. They come water to all. 21 per cent of all for treatment in some of the hospitals in communicable diseases are water borne.
 
@@ -244,6 +248,8 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 Sustainable Development Goal (SDG) www.in.undp.org
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
@@ -255,6 +261,8 @@ Sustainable Development Goal (SDG) www.in.undp.org
 > [caption] Facility Affordability Availability Quality Private Public
 
 > [caption] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

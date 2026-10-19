@@ -1,0 +1,18 @@
+# Hand corrections to extracted text. Applied after extraction, before fingerprinting.
+# Fields: snapshot (label or "*"), chapter (number or "*"), find, replace, note (why).
+# An entry with a specific snapshot and chapter must match, or the editions step reports it.
+- snapshot: "2024-05-24"
+  chapter: 2
+  find: "there were I 1,174 hospitals"
+  replace: "there were 11,174 hospitals"
+  note: "OCR misread on page 14, a flat image in the 2024-25 file; the 2023-24 text reads 11,174"
+- snapshot: "live-2026-10-19"
+  chapter: 2
+  find: "there were I 1,174 hospitals"
+  replace: "there were 11,174 hospitals"
+  note: "OCR misread on page 14, a flat image in the 2024-25 file; the 2023-24 text reads 11,174"
+- snapshot: "*"
+  chapter: 6
+  find: "EXERCISES oD."
+  replace: "EXERCISES"
+  note: "a decorative glyph next to the Exercises heading in the 2024-25 file reads as 'oD.'"

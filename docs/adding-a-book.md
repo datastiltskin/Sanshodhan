@@ -120,6 +120,12 @@ Writes `diffs/<book>/<from>__<to>.json` and `.html` for consecutive editions. Re
 for each pair once. Noise you can expect and how it is handled is in `docs/diff-engine.md`.
 Add what you learn to `docs/findings.md`, with page numbers.
 
+The command also prints "pages to look at" per pair, and the site gets a
+`/<book>/checks/` page listing them with both page images. Go through that list once. A
+page that is a real cut needs nothing. A page the extractor misread gets an entry in
+`overrides/<book>.yaml` (snapshot, chapter, find, replace, note), and the editions step
+applies it on every run from then on. Re-run `extract`, `diff` and `build` after adding one.
+
 ## 6. Page images
 
 ```sh

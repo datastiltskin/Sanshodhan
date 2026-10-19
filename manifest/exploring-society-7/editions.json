@@ -55,6 +55,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-01-geographical-diversity-of-india.md"
         },
         {
@@ -77,6 +78,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-02-understanding-the-weather.md"
         },
         {
@@ -99,6 +101,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-03-climates-of-india.md"
         },
         {
@@ -121,6 +124,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-04-new-beginnings-cities-and-states.md"
         },
         {
@@ -143,6 +147,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-05-the-rise-of-empires.md"
         },
         {
@@ -166,6 +171,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-06-the-age-of-reorganisation.md"
         },
         {
@@ -189,6 +195,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-07-the-gupta-era-an-age-of-tireless-creativity.md"
         },
         {
@@ -210,6 +217,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-08-how-the-land-becomes-sacred.md"
         },
         {
@@ -232,6 +240,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-09-from-the-rulers-to-the-ruled-types-of-government.md"
         },
         {
@@ -255,6 +264,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-10-the-constitution-of-india-an-introduction.md"
         },
         {
@@ -276,6 +286,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-11-from-barter-to-money.md"
         },
         {
@@ -300,6 +311,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-12-understanding-markets.md"
         },
         {
@@ -322,6 +334,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-01-the-story-of-indian-farming.md"
         },
         {
@@ -344,6 +357,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-02-india-and-her-neighbours.md"
         },
         {
@@ -366,6 +380,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-03-empires-and-kingdoms-6th-to-10th-centuries.md"
         },
         {
@@ -388,6 +403,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-04-turning-tides-11th-and-12th-centuries.md"
         },
         {
@@ -410,6 +426,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-05-india-a-home-to-many.md"
         },
         {
@@ -433,6 +450,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-06-the-state-the-government-and-you.md"
         },
         {
@@ -455,6 +473,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-07-infrastructure-engine-of-indias-development.md"
         },
         {
@@ -478,10 +497,12 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part2-08-banks-and-the-magic-of-finance.md"
         }
       ]
     }
   ],
-  "skipped_snapshots": []
+  "skipped_snapshots": [],
+  "overrides_missed": []
 }
