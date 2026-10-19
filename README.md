@@ -3,8 +3,10 @@
 Tracks what changes between editions of NCERT (India) history textbooks, so that additions,
 deletions, and rewordings over the years can be seen side by side with the original pages.
 
-Current scope: Class 7 "Our Pasts II" (2007 to 2025), its 2025 successor "Exploring Society:
-India and Beyond", and Class 8 "Our Pasts III". English editions only for now.
+Current scope: history and civics for the middle classes. Class 7 "Our Pasts II" (2007 to
+2025) and "Social and Political Life II", Class 8 "Our Pasts III" and "Social and Political
+Life III", and the 2025 Class 7 successor "Exploring Society: India and Beyond". English
+editions only for now.
 
 ## What is here
 

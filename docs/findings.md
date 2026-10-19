@@ -259,6 +259,113 @@ data and exercises throughout:
   following the 104th Amendment.
 - Chapter 4: vacancy table updated again; Teacher's Note rewritten for the merged unit.
 
+## Social and Political Life II (Class 7 civics)
+
+Seven editions: the 2007 text (2014 capture), a January 2015 re-set of three chapters (2016
+capture, identical to the rungtaias.org copies), the January 2019 printing for the 2019-20
+session, the January 2020 printing, the November 2021 printing (2022 capture, OCR), the
+rationalised 2023-24 edition, and the March 2024 printing for 2024-25 (served unchanged
+through 2026).
+
+### 2007 text (2014 capture) to January 2015 re-set (2016 capture)
+
+Only chapters 2, 3 and 10 were re-set, and the text barely moved:
+
+- Chapter 2: "healthcare" became "health care" throughout; "water-coolers, roof tops" became
+  "water coolers, rooftops"; the map reference "inside back cover (cover three)" became
+  "page 123" because a map page was bound in at the back.
+- Chapter 3: the same map reference change on page 32; no wording changes.
+- Chapter 10: a References page and a Notes page were added (the chapter grew from 8 to 11
+  pages), and two activities were reworded ("Can you share with your class a local song or a
+  poem on dignity that is from your area?" lost its last clause, "Can you make up a social
+  advertisement on equality?" gained "You can do this in small groups").
+
+The rest of the differences in this pair are shadow-printed words in the 2007 files
+("majority majority majority", "MLA 1: MLA 1:") that the re-set files do not have.
+
+### January 2015 re-set to January 2019 printing (the 2019-20 syllabus cut)
+
+- Chapter 7 "Understanding Advertising" was dropped and chapters 8 to 10 renumbered 7 to 9.
+  The Unit Four teacher's note was rewritten from two chapters to one ("Both chapters
+  conclude" became "This chapter concludes") and its heading "Media and Advertising" became
+  "Social advertising"; chapter 1's note now points to "Chapter 9" instead of "Chapter 10".
+- Chapter 1: Omprakash Valmiki got dates "(1950–2013)" and Rosa Parks "(1913–2005)";
+  Sustainable Development Goal boxes (with the UNDP web address) were added to the margins of
+  most chapters, and they bleed into the text as "Sustainable Development Goal (SDG)
+  www.in.undp.org" fragments.
+- Chapter 2: "India is the fourth largest producer of medicines" became "third largest";
+  "Hakim Sheik" was respelt "Hakim Seikh" (eight places); "long queues in public hospitals"
+  became "government hospitals".
+- Chapter 3: the Himachal Pradesh assembly table was replaced. The 2003 results (Indian
+  National Congress 43, BJP 16, Virbhadra Singh as chief minister) became the 2017 results
+  (BJP 44, Congress 21, CPI(M) 1, Jairam Thakur as chief minister), with a link to
+  hpvidhansabha.nic.in and a new "Find out the name of Governor of your State" activity.
+  The map colour changed from green to purple, and the Telangana footnote (page 32, "became
+  the 29th State of India on the 2nd June 2014") was removed.
+- Chapter 5: literacy figures moved from the 2001 census (76 per cent of boys and men, 54
+  per cent of girls and women) to 2011 (82 and 65); "Dalit and Adivasi" became "Dalit (SC)
+  and Adivasi (ST)" and the sentence "Scheduled Caste (SC) is the official term for Dalit..."
+  was dropped; the school drop-out table was replaced by the 2014-15 "Average Annual Drop-out
+  Rate" table; a "Beti Bachao Beti Padhao" activity was added; "A law was passed in 2006"
+  became "A law was made in 2006".
+- Chapter 6: the cost of a TV advertisement went from "Rs 500 to Rs 8,000 per 10 seconds"
+  on a news channel to "₹1,000 to ₹1,00,000 per 10 seconds" on a TV channel.
+- Chapters 7 and 8 (Markets, A Shirt in the Market): every rupee figure was raised. The
+  branded shirt went from Rs 1,550 to ₹3,000, the shirt sold abroad from "$26 or around Rs
+  1,200" to "$26 or around ₹1,800", the exporter's price from Rs 200 to ₹300 per shirt, the
+  cloth from Rs 70 to ₹100, office costs from Rs 15 to ₹25, the business person's cost from
+  Rs 600 to ₹900, and the profit box from Rs 600 to ₹900. "Rs" became the rupee sign
+  everywhere (it comes out as a backtick in the text layer).
+- Chapter 9 (Struggles for Equality): population shares updated from the 2001 census (women
+  48 per cent, Muslims 13, Dalits 16, Adivasis 8) to 2011 (48.5, 14.2, 16.6 for SCs, 8.6 for
+  STs); a road-safety box from the Delhi Traffic Police was added at the back of the book.
+
+### January 2019 to January 2020 printing
+
+Four sentences:
+
+- Chapter 1, page 11: "both lower and upper caste children in the school eat this meal
+  together" became "children of all castes in the school eat this meal together".
+- Chapter 2, page 20: "Approximately 15,000 new doctors qualify every year" became "more
+  than 30,000"; "there were only 2,717 hospitals in India" became "2,717 government
+  hospitals"; the malaria figure "In 2000, the number grew to 18,218" became "In 2017, the
+  number grew to 23,583".
+
+### January 2020 to the November 2021 printing (OCR)
+
+The 2021 files are page images. Read with tesseract they differ from the 2020 text in
+hundreds of places, nearly all OCR splits, drop caps, and speech-bubble text. No wording
+change was found in a read of the body hunks, so the 2021 printing is treated as the 2020
+text until a text-layer copy turns up.
+
+### 2020 printing to rationalised 2023-24
+
+Matches NCERT's Class 7 booklet (see `docs/sources.md`):
+
+- Chapter 1 lost pages 4 to 8 (Kanta's story, "Equal right to vote", "Other kinds of
+  equality", the Omprakash Valmiki and Ansari stories) and the first three paragraphs of page
+  9, so it runs 8 pages instead of 14. The teacher's note lost the paragraphs about the
+  dropped last chapter.
+- Chapter 2 lost the "Story of Hakim Seikh" box and the court's finding in his case (pages 21
+  and 25), and the sentence about specialised hospitals "such as the ones in Hakim Seikh's
+  case" was cut short.
+- Chapter 5: "just like Omprakash Valmiki was" was removed from the sentence on children who
+  leave school because of discrimination.
+- Chapter 8: "In the last chapter, we will read about how one such fish-workers' cooperative
+  was started on the Tawa river" was removed, since that chapter no longer exists.
+- Chapter 9 "Struggles for Equality" was removed entirely, with its references pages moving
+  to the end of chapter 8.
+- Chapter 3: the map reference "page 111" became "page 97".
+
+### Rationalised 2023-24 to 2024-25 printing
+
+No wording changes were found. What the diff shows is packaging: the 2024-25 files are a
+re-export with different fonts, three pages are flat images read by OCR (chapter 1 page 5,
+chapter 2 page 14, and the road-safety poster at the back, where the OCR reads the poster's
+own text), and the sample newspaper reports in chapter 6 are set in a layout the extractor
+reads in a different order. The glossary and exercise question numbers also moved between
+streams.
+
 ## Not yet compared
 
 The 2025 "Exploring Society" books share no chapter structure with Our Pasts II, so the

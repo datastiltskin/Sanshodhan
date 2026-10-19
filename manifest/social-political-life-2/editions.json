@@ -1,0 +1,1623 @@
+{
+  "book": "social-political-life-2",
+  "title": "Social and Political Life II",
+  "editions": [
+    {
+      "id": "2014-07-28",
+      "fingerprint": "e7594ce333e40b3ce8d9abe37ba5c5463a758757277ede9c872ea71fd19eab34",
+      "snapshots": [
+        "2014-07-28"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch01.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "2-15",
+          "fingerprint": "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c2f1",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 54,
+            "note": 44,
+            "caption": 31,
+            "chapter-number": 1,
+            "table": 27
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "11ba6b407bd84b0adcb1cce1314df0b70a8ebba2709f8ef2bee9ebbac8738cdc",
+          "role_counts": {
+            "footer": 19,
+            "h2": 3,
+            "body": 60,
+            "note": 39,
+            "chapter-number": 1,
+            "table": 39,
+            "caption": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "30-41",
+          "fingerprint": "83de001f93e9befcde362f303dd29a9d060df552d4d8e4f001ae4607af3f8ed9",
+          "role_counts": {
+            "h2": 2,
+            "note": 40,
+            "chapter-number": 1,
+            "caption": 31,
+            "body": 54,
+            "table": 21,
+            "footer": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "42-53",
+          "fingerprint": "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9950",
+          "role_counts": {
+            "h2": 4,
+            "body": 34,
+            "footer": 13,
+            "note": 35,
+            "chapter-number": 1,
+            "caption": 30,
+            "table": 49
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "38ba49ae3985eed267a2b8aca12acb854df6ffd4e03a3a8736113ca639b3bfa9",
+          "role_counts": {
+            "h2": 1,
+            "note": 30,
+            "chapter-number": 1,
+            "body": 81,
+            "caption": 22,
+            "footer": 12,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "68-79",
+          "fingerprint": "73b8b4b7eb7e219b1c0acfe14713e0f006ca2f2b192fd94b80d9467006f291de",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 62,
+            "note": 70,
+            "chapter-number": 1,
+            "caption": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Advertising",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "80-91",
+          "fingerprint": "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda369468121b2",
+          "role_counts": {
+            "h2": 2,
+            "note": 29,
+            "chapter-number": 1,
+            "body": 50,
+            "footer": 13,
+            "caption": 12,
+            "table": 32
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/07-understanding-advertising.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "92-103",
+          "fingerprint": "47717b7328c173e03fe29d970a81fc1cb50ce337f65158741c75169502bacb2b",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 50,
+            "note": 42,
+            "chapter-number": 1,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/08-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "104-113",
+          "fingerprint": "20ee861602b1938a22f2e2a2e114c29129e71814a64a5e6a9a22221eddce380d",
+          "role_counts": {
+            "h2": 1,
+            "note": 33,
+            "chapter-number": 1,
+            "caption": 38,
+            "body": 51,
+            "footer": 13,
+            "decoration": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/09-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2014-07-28/ch10.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "114-121",
+          "fingerprint": "47d90ab8f715d00030f094dc3ddec03257fd9ca2749ee6e0ee957c9f22f87915",
+          "role_counts": {
+            "h2": 1,
+            "note": 16,
+            "chapter-number": 1,
+            "caption": 8,
+            "body": 41,
+            "footer": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2014-07-28/10-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2016-09-10",
+      "fingerprint": "d7bee23b02c72c6973f866b844ea10be138172ebbd7d0d2904c0d072fe5f2fcd",
+      "snapshots": [
+        "2016-09-10",
+        "rungtaias-2015-16"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 10,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch01.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "2-15",
+          "fingerprint": "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c2f1",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 54,
+            "note": 44,
+            "caption": 31,
+            "chapter-number": 1,
+            "table": 27
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "18-29",
+          "fingerprint": "7b51101b4787cd93f51d24188c287b6610e547c2a6638de294e7b83b434dee6a",
+          "role_counts": {
+            "body": 59,
+            "chapter-number": 1,
+            "h2": 1,
+            "footer": 30,
+            "caption": 16,
+            "table": 77
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "30-41",
+          "fingerprint": "ad34b672eba2bfddfc0d481fc6c76c0f58f9617e0f994447c552e73ffbe8cf7d",
+          "role_counts": {
+            "h2": 2,
+            "body": 63,
+            "chapter-number": 1,
+            "caption": 55,
+            "footer": 25,
+            "table": 46,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "42-53",
+          "fingerprint": "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9950",
+          "role_counts": {
+            "h2": 4,
+            "body": 34,
+            "footer": 13,
+            "note": 35,
+            "chapter-number": 1,
+            "caption": 30,
+            "table": 49
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "38ba49ae3985eed267a2b8aca12acb854df6ffd4e03a3a8736113ca639b3bfa9",
+          "role_counts": {
+            "h2": 1,
+            "note": 30,
+            "chapter-number": 1,
+            "body": 81,
+            "caption": 22,
+            "footer": 12,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "68-79",
+          "fingerprint": "73b8b4b7eb7e219b1c0acfe14713e0f006ca2f2b192fd94b80d9467006f291de",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 62,
+            "note": 70,
+            "chapter-number": 1,
+            "caption": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Advertising",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "80-91",
+          "fingerprint": "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda369468121b2",
+          "role_counts": {
+            "h2": 2,
+            "note": 29,
+            "chapter-number": 1,
+            "body": 50,
+            "footer": 13,
+            "caption": 12,
+            "table": 32
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/07-understanding-advertising.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "92-103",
+          "fingerprint": "47717b7328c173e03fe29d970a81fc1cb50ce337f65158741c75169502bacb2b",
+          "role_counts": {
+            "footer": 16,
+            "h2": 4,
+            "body": 50,
+            "note": 42,
+            "chapter-number": 1,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/08-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "104-113",
+          "fingerprint": "20ee861602b1938a22f2e2a2e114c29129e71814a64a5e6a9a22221eddce380d",
+          "role_counts": {
+            "h2": 1,
+            "note": 33,
+            "chapter-number": 1,
+            "caption": 38,
+            "body": 51,
+            "footer": 13,
+            "decoration": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/09-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2016-09-10/ch10.pdf",
+          "pdf_pages": 11,
+          "printed_pages": "114-124",
+          "fingerprint": "f5e68e9a97510cacd3a4cc048140adec089a32cac911c5afab428d496240ac6d",
+          "role_counts": {
+            "h2": 3,
+            "body": 42,
+            "chapter-number": 1,
+            "footer": 22,
+            "caption": 19,
+            "table": 35
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2016-09-10/10-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "756139048de9d3b6e8b80ab9ec40ca330116ce6f435feeb2b01e817997bc112b",
+      "snapshots": [
+        "2019-05-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019"
+          ],
+          "latest_print": "January 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 16
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch01.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "2-15",
+          "fingerprint": "5b2cf82e59f90d841f044bd8c5359ac0e0000ab7c96d4de86d262c02df8cdcfe",
+          "role_counts": {
+            "footer": 30,
+            "h2": 4,
+            "body": 56,
+            "caption": 31,
+            "chapter-number": 1,
+            "table": 71
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "511fe9f7526aa8ab747cf6e9bd2fc93922ec4a5545a02eed8e39839022ac2b79",
+          "role_counts": {
+            "footer": 33,
+            "h2": 3,
+            "body": 64,
+            "chapter-number": 1,
+            "caption": 30,
+            "table": 62,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "30-41",
+          "fingerprint": "508f6672efdee86ca29d76c632c4f40e8b14e08c62b1732632d0d095a8844a40",
+          "role_counts": {
+            "h2": 2,
+            "body": 65,
+            "chapter-number": 1,
+            "caption": 39,
+            "footer": 24,
+            "table": 44,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "42-53",
+          "fingerprint": "437268e2b84902911b25f0eb209d7d007c62119d435e037e75aa3e8fa07dd2fb",
+          "role_counts": {
+            "h2": 4,
+            "footer": 25,
+            "body": 36,
+            "chapter-number": 1,
+            "table": 87,
+            "caption": 25,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "e88ab9637534494c3d1bb64e996858289c7156e4e2e1ab878a2a0a134f523f4f",
+          "role_counts": {
+            "h2": 1,
+            "body": 90,
+            "chapter-number": 1,
+            "footer": 26,
+            "caption": 18,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "68-79",
+          "fingerprint": "b9815fec44cc42e0e30396e0f9a8181f5787d6d9f1abdbb66c32501313febfdd",
+          "role_counts": {
+            "footer": 28,
+            "h2": 5,
+            "body": 83,
+            "chapter-number": 1,
+            "table": 58,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "80-91",
+          "fingerprint": "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0825",
+          "role_counts": {
+            "footer": 28,
+            "h2": 4,
+            "body": 52,
+            "chapter-number": 1,
+            "table": 44,
+            "caption": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "92-101",
+          "fingerprint": "c5a19b637d2e2e3c345d12eda54671b1f42b4030a8726dc6969a75cbd6e49ba1",
+          "role_counts": {
+            "h2": 1,
+            "body": 61,
+            "chapter-number": 1,
+            "footer": 23,
+            "caption": 31,
+            "note": 7,
+            "table": 24,
+            "decoration": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/08-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2019-05-04/ch09.pdf",
+          "pdf_pages": 11,
+          "printed_pages": "102-112",
+          "fingerprint": "68f9bcf5b12216e6f00a960d8c41c20d303a02c1e1d4eb985717c5c44dc7c1fd",
+          "role_counts": {
+            "h2": 2,
+            "body": 46,
+            "chapter-number": 1,
+            "footer": 22,
+            "table": 35,
+            "caption": 16
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2019-05-04/09-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-05-08",
+      "fingerprint": "0757fc320e707419f6ccaac5c770c1a8c4d5a97ee0c8bcbf098d2dea1c139ba0",
+      "snapshots": [
+        "2020-05-08"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020"
+          ],
+          "latest_print": "January 2020",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 17
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch01.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "2-15",
+          "fingerprint": "65a97bc802ba04fd54399a0c232f1b38f00710509e509d7903d3242c18c3e50c",
+          "role_counts": {
+            "footer": 30,
+            "h2": 4,
+            "body": 56,
+            "caption": 31,
+            "chapter-number": 1,
+            "table": 71
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "a4b73464999cdd12443fad8aa5608d522b5036a003cc82b922684b758f13d854",
+          "role_counts": {
+            "footer": 33,
+            "h2": 3,
+            "body": 64,
+            "chapter-number": 1,
+            "caption": 30,
+            "table": 62,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "30-41",
+          "fingerprint": "508f6672efdee86ca29d76c632c4f40e8b14e08c62b1732632d0d095a8844a40",
+          "role_counts": {
+            "h2": 2,
+            "body": 65,
+            "chapter-number": 1,
+            "caption": 39,
+            "footer": 24,
+            "table": 44,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "42-53",
+          "fingerprint": "437268e2b84902911b25f0eb209d7d007c62119d435e037e75aa3e8fa07dd2fb",
+          "role_counts": {
+            "h2": 4,
+            "footer": 25,
+            "body": 36,
+            "chapter-number": 1,
+            "table": 87,
+            "caption": 25,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "e88ab9637534494c3d1bb64e996858289c7156e4e2e1ab878a2a0a134f523f4f",
+          "role_counts": {
+            "h2": 1,
+            "body": 90,
+            "chapter-number": 1,
+            "footer": 26,
+            "caption": 18,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "68-79",
+          "fingerprint": "aefcb7ef7662390bca1352a02a3e1264344643dcd80488f32f438b3e204ad711",
+          "role_counts": {
+            "footer": 28,
+            "h2": 5,
+            "body": 83,
+            "chapter-number": 1,
+            "table": 58,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "80-91",
+          "fingerprint": "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0825",
+          "role_counts": {
+            "footer": 28,
+            "h2": 4,
+            "body": 52,
+            "chapter-number": 1,
+            "table": 44,
+            "caption": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "92-101",
+          "fingerprint": "c5a19b637d2e2e3c345d12eda54671b1f42b4030a8726dc6969a75cbd6e49ba1",
+          "role_counts": {
+            "h2": 1,
+            "body": 61,
+            "chapter-number": 1,
+            "footer": 23,
+            "caption": 31,
+            "note": 7,
+            "table": 24,
+            "decoration": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/08-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2020-05-08/ch09.pdf",
+          "pdf_pages": 11,
+          "printed_pages": "102-112",
+          "fingerprint": "68f9bcf5b12216e6f00a960d8c41c20d303a02c1e1d4eb985717c5c44dc7c1fd",
+          "role_counts": {
+            "h2": 2,
+            "body": 46,
+            "chapter-number": 1,
+            "footer": 22,
+            "table": 35,
+            "caption": 16
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2020-05-08/09-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-08-02-ocr",
+      "fingerprint": "90d77ec679d9fd97a0b5903efc2204937dd0ef36a64828e5cf7fc5c266143634",
+      "snapshots": [
+        "2022-08-02"
+      ],
+      "prelims": {
+        "single": {
+          "title": "SOCIAL AND POLITICAL LIFE—II Textbook for Class VII",
+          "first_edition": "February 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 17
+        }
+      },
+      "chapter_count": 9,
+      "ocr": true,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch01.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "2-15",
+          "fingerprint": "85130db9f9f8be426edc6992ca75b2604a8680235c17544e545f8ffb7afc393c",
+          "role_counts": {
+            "table": 4,
+            "body": 61,
+            "footer": 24,
+            "h2": 10,
+            "caption": 14,
+            "note": 14
+          },
+          "ocr": true,
+          "ocr_confidence": 88.2,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "b6f3f68c779f78d39ea3adbd01f665559fc4cc5050255726115474e33902f76e",
+          "role_counts": {
+            "footer": 25,
+            "table": 8,
+            "body": 101,
+            "caption": 13,
+            "h2": 3,
+            "note": 21
+          },
+          "ocr": true,
+          "ocr_confidence": 95.2,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "30-43",
+          "fingerprint": "38de19ac71c5c6e5285ba9ab80639ef354db1118535028571c22bdd6152d8232",
+          "role_counts": {
+            "body": 82,
+            "h2": 2,
+            "caption": 11,
+            "table": 7,
+            "note": 11,
+            "footer": 21
+          },
+          "ocr": true,
+          "ocr_confidence": 86.9,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "44-53",
+          "fingerprint": "a8dc26f1dbd15cdccd87968719af803af27bb1855452b333b1705ab8d686b482",
+          "role_counts": {
+            "h2": 3,
+            "body": 45,
+            "footer": 16,
+            "caption": 8,
+            "note": 13,
+            "table": 8
+          },
+          "ocr": true,
+          "ocr_confidence": 94.6,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "690e29d1c18f93d50418da93baed69f22ce2c63a746ca5d6cf5cd203a85c7c39",
+          "role_counts": {
+            "h2": 4,
+            "caption": 12,
+            "body": 88,
+            "table": 4,
+            "footer": 19,
+            "note": 12
+          },
+          "ocr": true,
+          "ocr_confidence": 94.8,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch06.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "68-81",
+          "fingerprint": "d96d1c29a91b770bc8e5c37acea588d378288bda4c70e4ec5af500846e9591d9",
+          "role_counts": {
+            "table": 5,
+            "body": 78,
+            "footer": 20,
+            "h2": 9,
+            "caption": 9,
+            "note": 15
+          },
+          "ocr": true,
+          "ocr_confidence": 80.5,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch07.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "82-91",
+          "fingerprint": "3d42723e6a9f8298dc4251d462d888ceef2e67be9c730d823b89baffe6a67b36",
+          "role_counts": {
+            "caption": 9,
+            "h2": 3,
+            "body": 62,
+            "footer": 16,
+            "note": 10,
+            "table": 3
+          },
+          "ocr": true,
+          "ocr_confidence": 92.3,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "92-101",
+          "fingerprint": "b15782f828e3ff7bdde8d425b4bf4f1fa7e45385a0d5cb9bef1094b95b3fc8b5",
+          "role_counts": {
+            "h2": 3,
+            "body": 69,
+            "table": 4,
+            "caption": 6,
+            "note": 11,
+            "footer": 19
+          },
+          "ocr": true,
+          "ocr_confidence": 94.5,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/08-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2022-08-02/ch09.pdf",
+          "pdf_pages": 11,
+          "printed_pages": "102-112",
+          "fingerprint": "735931a14e1bf84cecbb51f44625134580b8939b5f08399fb685d9157445b148",
+          "role_counts": {
+            "h2": 9,
+            "caption": 10,
+            "body": 68,
+            "footer": 19,
+            "note": 4,
+            "table": 3
+          },
+          "ocr": true,
+          "ocr_confidence": 92.8,
+          "ocr_pages": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2022-08-02-ocr/09-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "62dc1421ce6fa560278902295075e93d983badeaab813d7df0c0f70d4d8a922b",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": "Social and Political Life–II Textbook for Class VII",
+          "first_edition": "February 2007",
+          "revised": "November 2022",
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 19
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "2-9",
+          "fingerprint": "6c5e3165457a8f79c9d9be3024831e3f56bcb6d77b1252503c9c4a6731240313",
+          "role_counts": {
+            "footer": 19,
+            "h2": 4,
+            "body": 38,
+            "chapter-number": 1,
+            "note": 27,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "10-23",
+          "fingerprint": "3f1f66dc7b0c31d3aab0fe49152d3094e3d65075cdd9f9c4ecdf0f8efac588ef",
+          "role_counts": {
+            "footer": 35,
+            "h2": 3,
+            "body": 58,
+            "chapter-number": 1,
+            "note": 25,
+            "caption": 31,
+            "table": 37
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "24-35",
+          "fingerprint": "fa087957b55770099481cf22ef06ed125213ae3c109efab813125bca6dada38d",
+          "role_counts": {
+            "footer": 25,
+            "h2": 2,
+            "note": 30,
+            "chapter-number": 1,
+            "caption": 38,
+            "body": 63,
+            "table": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "36-47",
+          "fingerprint": "22eeb719fcbaa1623275890c433646dd5b976069e15e5eda1192abede372525d",
+          "role_counts": {
+            "h2": 4,
+            "footer": 23,
+            "body": 35,
+            "note": 35,
+            "chapter-number": 1,
+            "caption": 30,
+            "table": 48
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "48-61",
+          "fingerprint": "5b3c0c032ab7bafc6e2a20b62f4f6cce837bca076a284defc37212c73fa23465",
+          "role_counts": {
+            "footer": 28,
+            "h2": 1,
+            "note": 41,
+            "chapter-number": 1,
+            "body": 86,
+            "caption": 12,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "62-73",
+          "fingerprint": "0131014948af1abfc2ad357f2742b5f3af89d114183fa3f6538bf17213e3ec01",
+          "role_counts": {
+            "h2": 5,
+            "footer": 26,
+            "body": 63,
+            "note": 70,
+            "chapter-number": 1,
+            "caption": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "74-85",
+          "fingerprint": "1b319c2a3b8a6002ce73be88609665aa5457683f4ead6556e25eb34c40210f81",
+          "role_counts": {
+            "h2": 4,
+            "footer": 24,
+            "body": 47,
+            "note": 34,
+            "chapter-number": 1,
+            "decoration": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2023-12-23/ch08.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "86-98",
+          "fingerprint": "9b4c4ab389b7550442b888b3e6e8741d08734bff1d57db27818cfd5cd133d4bd",
+          "role_counts": {
+            "footer": 25,
+            "h2": 2,
+            "note": 38,
+            "chapter-number": 1,
+            "body": 54,
+            "table": 21,
+            "caption": 37,
+            "decoration": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2023-12-23-rationalised/08-a-shirt-in-the-market.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-05-24",
+      "fingerprint": "f4f115750908eba6960523baee1264e4ec223c002a6d073db490f156f92a64a5",
+      "snapshots": [
+        "2024-05-24",
+        "live-2026-10-19"
+      ],
+      "prelims": {
+        "single": {
+          "title": "Social and Political Life–II Textbook for Class VII",
+          "first_edition": "February 2007",
+          "revised": "November 2022",
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 18
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "2-9",
+          "fingerprint": "5b586d1b5aea7df976232c80640de1396928d905a61aa65edf4dcd4178ee64c1",
+          "role_counts": {
+            "footer": 13,
+            "h2": 5,
+            "body": 40,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": [
+            4
+          ],
+          "file": "texts/social-political-life-2/2024-05-24/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "10-23",
+          "fingerprint": "e0fd9d0d310e149f965d062bcc4630e0ae15e3fb490730dcf9d7f4fcb96ff6e6",
+          "role_counts": {
+            "footer": 25,
+            "h2": 3,
+            "body": 72,
+            "chapter-number": 1,
+            "caption": 31,
+            "table": 55,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": [
+            5
+          ],
+          "file": "texts/social-political-life-2/2024-05-24/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch03.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "24-35",
+          "fingerprint": "d9ea81851b004edc7142428101122e3925cbb59bca1956caee5a72d3f6c59553",
+          "role_counts": {
+            "footer": 16,
+            "h2": 2,
+            "body": 65,
+            "chapter-number": 1,
+            "caption": 39,
+            "table": 44,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2024-05-24/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch04.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "36-47",
+          "fingerprint": "4d78e0dcbf29ef4daea0c937548a2ed9a4b50b41045e4931eb747f397d328cac",
+          "role_counts": {
+            "h2": 4,
+            "body": 36,
+            "footer": 15,
+            "chapter-number": 1,
+            "table": 82,
+            "caption": 30,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2024-05-24/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "48-61",
+          "fingerprint": "cd394b9221f6134f51ec101a465779b786a1b3ae82b6bf064c3fd92bad6d88b3",
+          "role_counts": {
+            "footer": 18,
+            "h2": 1,
+            "body": 91,
+            "chapter-number": 1,
+            "caption": 18,
+            "table": 36
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2024-05-24/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "62-73",
+          "fingerprint": "901412b6dc037c6a703d454cefacd0231f39ddcb0257b213e10d21e3ff8fe11a",
+          "role_counts": {
+            "h2": 3,
+            "body": 59,
+            "footer": 16,
+            "chapter-number": 1,
+            "table": 60,
+            "caption": 5,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2024-05-24/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "74-85",
+          "fingerprint": "a21b170dd39dd7cfb8d5184e223cdc26094c1e792cb391b6c818c60f470591dd",
+          "role_counts": {
+            "h2": 4,
+            "body": 53,
+            "footer": 15,
+            "chapter-number": 1,
+            "table": 40,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "file": "texts/social-political-life-2/2024-05-24/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2024-05-24/ch08.pdf",
+          "pdf_pages": 13,
+          "printed_pages": "86-98",
+          "fingerprint": "95c12218e57bed5670d3d056131aace14d9a13f1ed7a19a236ba667a7352e77c",
+          "role_counts": {
+            "footer": 18,
+            "h2": 9,
+            "body": 56,
+            "chapter-number": 1,
+            "caption": 46,
+            "note": 17,
+            "table": 27,
+            "h3": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": [
+            13
+          ],
+          "file": "texts/social-political-life-2/2024-05-24/08-a-shirt-in-the-market.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": []
+}

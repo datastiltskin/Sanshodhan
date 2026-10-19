@@ -57,6 +57,7 @@ Whole-book zips with distinct content (these are what `sources.yaml` lists):
 | Our Pasts II | 2024-05-24 | identical bytes in 2025 and 2026 captures |
 | Our Pasts III | 2014-07-28, 2016-09-10, 2019-03-12, 2020-10-15, 2021-08-14, 2022-08-02, 2023-12-23, 2024-08-04 | |
 | Social and Political Life III | 2014-07-28, 2016-09-10, 2019-05-04, 2020-06-16, 2021-08-14, 2022-08-02, 2023-02-10 (truncated), 2023-12-23, 2024-05-24 | 2020-06-16 and 2020-10-11 share a digest |
+| Social and Political Life II | 2014-07-28, 2016-09-10, 2019-05-04, 2020-05-08, 2022-08-02, 2023-12-23, 2024-05-24 | no 2021 zip; three captures on 2022-08-02, two of them cut short; 2024-05-24 identical through 2026 |
 
 What the downloaded zips turned out to contain:
 
@@ -95,6 +96,27 @@ What the downloaded zips turned out to contain:
 - Social and Political Life III, all editions: odd-numbered chapter files open with a unit
   title page and a Teacher's Note, and in 2016 and 2019 the first chapter file also carries
   the contents page. Chapter titles sit beside a "Chapter N" label rather than a numeral.
+- Social and Political Life II 2014-07-28: the 2007 first-edition files (ten chapters, plus a
+  one-page `gess3rf.pdf` of references). The 2016-09-10 zip has the same files except
+  chapters 2, 3 and 10, which were re-set in January 2015, and chapter 10 grew a references
+  page. The rungtaias.org copies are byte-for-byte the 2016 zip's files.
+- Social and Political Life II 2019-05-04: nine chapters. "Understanding Advertising"
+  (chapter 7) was dropped for the 2019-20 session and the later chapters renumbered. The
+  first chapter file carries the contents page.
+- Social and Political Life II 2022-08-02: the archive took the zip three times that day
+  (07:47, 18:10 and 18:11 UTC) with three digests. The first two are truncated prefixes of
+  the third (checked with `cmp`), so only the complete capture is listed. Its chapter files
+  are rasterised page images with no text layer at all, like the 2022-23 Our Pasts II files,
+  and are read with tesseract (word confidence 80 to 95 percent per chapter).
+- Social and Political Life II 2023-12-23: `ch07.pdf` holds the Unit Five opener and chapter
+  7, and `ch08.pdf` holds chapter 7 again followed by chapter 8 and the references. The
+  extractor splits the second file and keeps the first copy of chapter 7.
+- Social and Political Life II 2024-05-24: a re-export with generic `CIDFont+F1` font names
+  whose Unicode maps put the typographic quotes and dashes on Latin-1 and Latin Extended-A
+  code points ("women·s", "RamabaiĬs"). Three pages (the chapter 1 opener, page 14, and the
+  road-safety poster at the back) are flat images and are OCR'd. Each unit opener and
+  teacher's note sits at the end of the previous chapter's file rather than the start of its
+  own; the extractor moves those pages to the chapter they introduce.
 
 Per-chapter captures also exist for years without a zip (2017, 2018, 2025). Many of those are
 re-encodes of the same text with very different file sizes, so a different file hash does not
@@ -133,6 +155,19 @@ For Our Pasts II (book number 0760):
 Chapter 3 was retitled "Delhi: 12th to 15th Century" and chapter 4 "The Mughals (16th to 17th
 Century)" in the rationalised edition.
 
+For Social and Political Life II (book number 0764), the booklet lists:
+
+| Chapter | Pages | Dropped |
+|---|---|---|
+| Introductory note for teachers | vii to xiii | the last three lines of page viii, the third point on page ix, the question on Omprakash Valmiki on page xi |
+| 1 On Equality | 3 to 15 | on the teacher's-note page the second paragraph, the third paragraph, "Both" to "This" in the fourth, and the first sentence of the fifth; pages 4 to 8 in full; the first three paragraphs and the first sentence of the second column on page 9; "like Omprakash Valmiki" on page 11; question 3 on page 15 |
+| 2 Role of the Government in Health (the booklet calls it "How the State Government works") | 21, 24, 25 | the box "The Story of Hakim Sheikh" and the activity after it; the last line of the second paragraph on page 24; the sentence beginning "Hakim ... hospitals" on page 25 |
+| 8 A Shirt in the Market | 100 | the last sentence |
+| 9 Struggles for Equality | 102 to 109 | the whole chapter |
+
+The rationalised 2023-24 files match this list: chapter 1 shrank from 14 pages to 8, the
+Hakim Seikh story is gone from chapter 2, and chapter 9 is absent.
+
 ## Lineage of the Class 7 history book
 
 From NCERT's Library and Documentation Division catalogue
@@ -164,5 +199,6 @@ Class 8 for reference: 1980 History and Civics, 1989 Modern India, 2004 India an
   The first-page footer of most of its chapters reads "2015-16"; a few chapters carry no
   footer and cannot be dated from the site. Its Our Pasts II and Social and Political Life
   III files are identical to the December 2014 printing already held from the Wayback
-  Machine and are recorded as the `rungtaias-2015-16` snapshots. It has no Class 8 history
-  book. Checked October 2026.
+  Machine, and its Social and Political Life II files to the January 2015 re-set of that book
+  held in the 2016 zip. All are recorded as `rungtaias-2015-16` snapshots. It has no Class 8
+  history book. Checked October 2026.

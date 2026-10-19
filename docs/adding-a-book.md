@@ -68,6 +68,23 @@ Things seen so far:
 - Books whose chapters open with a unit page and a "Chapter N" label beside the title
   (the civics books). Handled: the label gives the number, the title is the heading beside
   it, unit pages and teacher's notes are kept, a bound-in contents page is dropped.
+- The same capture listed several times on one day with different digests (2022-08-02
+  Social and Political Life II). Compare the files with `cmp`: two of the three were
+  truncated prefixes of the third, so only the complete one is listed.
+- A chapter file that holds two chapters (the 2023-24 Social and Political Life II `ch08.pdf`
+  carries chapters 7 and 8, and chapter 7 again in `ch07.pdf`). Split automatically at the
+  chapter openers when their numbers differ, and the first copy of a chapter wins. The
+  editions log says "holds 2 chapters, split".
+- A file that ends with the next unit's opener and teacher's note instead of starting with
+  it (2024-25 Social and Political Life II). Those pages are carried over to the front of
+  the next chapter automatically, and the log says "opens with 2 pages carried over".
+- A few rasterised pages inside a file that otherwise has a text layer (three pages in the
+  2024-25 Social and Political Life II files). They are OCR'd one page at a time and listed
+  as `ocr_pages` in the front matter. Expect some reading errors on those pages.
+- Fonts whose quotes come out as "women·s" or "RamabaiĬs" (the 2024-25 Social and Political
+  Life II files, re-exported with generic `CIDFont+F*` names). Repaired automatically when a
+  file shows the pattern. If a new file shows middle dots or Latin Extended letters where
+  apostrophes belong, extend `QUOTE_SHIFT` in `extract.py`.
 
 ## 4. Extract and check
 

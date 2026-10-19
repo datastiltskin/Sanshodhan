@@ -121,6 +121,38 @@ books:
       - { label: "2024-05-24", wayback: "20240524024219", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
 
+  social-political-life-2:
+    class: 7
+    subject: civics
+    language: en
+    title: "Social and Political Life II"
+    code: gess3
+    snapshots:
+      - { label: "2014-07-28", wayback: "20140728043044", url: "http://ncert.nic.in/ncerts/l/gess3dd.zip" }
+      - { label: "2016-09-10", wayback: "20160910123706", url: "http://ncert.nic.in/ncerts/l/gess3dd.zip" }
+      # Third-party mirror (an IAS coaching site) serving NCERT's own chapter files from the
+      # 2015-16 session. Kept as evidence of that session's text; see docs/sources.md.
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess301.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess302.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess303.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess304.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess305.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess306.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess307.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess308.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess309.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess310.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20Social%20and%20Political%20Life/gess3ps.pdf" }
+      - { label: "2019-05-04", wayback: "20190504055606", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      - { label: "2020-05-08", wayback: "20200508031850", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      # The archive holds three captures of the zip from this day. The first two (07:47 and
+      # 18:10 UTC) are truncated prefixes of the third, so only the complete one is listed.
+      - { label: "2022-08-02", wayback: "20220802181154", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223073406", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      # Same digest is served through 2025 and 2026 captures.
+      - { label: "2024-05-24", wayback: "20240524024834", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+
   exploring-society-7:
     class: 7
     subject: social science

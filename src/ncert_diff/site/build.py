@@ -77,7 +77,10 @@ def files_year(ed: dict) -> str | None:
         m = re.search(r"(\d{4})", created)
         if m:
             years.append(m.group(1))
-    return min(years) if years else None
+    if not years:
+        return None
+    # The 2016 capture of Social and Political Life II mixes 2007 files with three re-set in 2015.
+    return min(years) if min(years) == max(years) else f"{min(years)} to {max(years)}"
 
 
 def describe_edition(book_id: str, ed: dict, prev_label: str | None) -> tuple[str, str, list[str]]:
