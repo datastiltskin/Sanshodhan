@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch04.pdf"
 source_sha256: "a860464406de1cc06e73228ea73e59b32d7e050118d4d86f21089e6043b83f6e"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "470e2b9bde602578e43e9766e421cf9f46b267ec825e1b32ec1da4f3a8d12aca"
+body_fingerprint: "95e4a84bc9482a8250b11d01206c61445cb9002cb9e91d938ba9d3ebd3b09199"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -38,9 +38,13 @@ Fallow – A field left uncultivated for a while so that the soil recovers ferti
 
 By the nineteenth century, tribal people in different parts of India were involved in a variety of activities.
 
-Some were jhum cultivators Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
+### Some were jhum cultivators
 
-Some were hunters and gatherers In many regions, tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
+Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
+
+### Some were hunters and gatherers
+
+In many regions, tribal groups lived by hunting animals and gathering forest produce. They saw forests as essential for survival. The Khonds were such a community living in the forests of Orissa. They regularly went out on collective hunts and then divided the meat amongst themselves. They ate fruits and roots collected from the forest and cooked food with the oil they extracted from the seeds of the sal and mahua. They used many forest shrubs and herbs for medicinal purposes, and sold forest produce in the local markets. The local weavers and leather workers turned to the Khonds when they needed supplies of kusum and palash flowers to colour their clothes and leather.
 
 <!-- page 41 (pdf 3) -->
 
@@ -48,7 +52,9 @@ From where did these forest people get their supplies of rice and other grains? 
 
 Tribal groups often needed to buy and sell in order to be able to get the goods that were not produced within the locality. This led to their dependence on traders and moneylenders. Traders came around with things for sale, and sold the goods at high prices. Moneylenders gave loans with which the tribals met their cash needs, adding to what they earned. But the interest charged on the loans was usually very high. So for the tribals, market and commerce often meant debt and poverty. They therefore came to see the moneylender and trader as evil outsiders and the cause of their misery.
 
-Some herded animals Many tribal groups lived by herding and rearing animals. They were pastoralists who moved with their herds of cattle or sheep according to the seasons. When the grass in one place was exhausted, they moved to another area. The Van Gujjars of the Punjab hills and the Labadis of Andhra Pradesh were cattle herders, the Gaddis of Kulu were shepherds, and the Bakarwals of Kashmir reared goats. You will read more about them in your history book next year.
+### Some herded animals
+
+Many tribal groups lived by herding and rearing animals. They were pastoralists who moved with their herds of cattle or sheep according to the seasons. When the grass in one place was exhausted, they moved to another area. The Van Gujjars of the Punjab hills and the Labadis of Andhra Pradesh were cattle herders, the Gaddis of Kulu were shepherds, and the Bakarwals of Kashmir reared goats. You will read more about them in your history book next year.
 
 > [caption] Fig. 3 – Location of some tribal groups in India
 
@@ -76,7 +82,9 @@ Look carefully at the tasks that Baiga men and women did. Do you see any pattern
 
 <!-- page 43 (pdf 5) -->
 
-Some took to settled cultivation Even before the nineteenth century, many from within the tribal groups had begun settling down, and cultivating their fields in one place year after year, instead of moving from place to place. They began to use the plough, and gradually got rights over the land they lived on. In many cases, like the Mundas of Chottanagpur, the land belonged to the clan as a whole. All members of the clan were regarded as descendants of the original settlers, who had first cleared the land. Therefore, all of them had rights on the land. Very often some people within the clan acquired more power than others, some became chiefs and others followers. Powerful men often rented out their land instead of cultivating it themselves.
+### Some took to settled cultivation
+
+Even before the nineteenth century, many from within the tribal groups had begun settling down, and cultivating their fields in one place year after year, instead of moving from place to place. They began to use the plough, and gradually got rights over the land they lived on. In many cases, like the Mundas of Chottanagpur, the land belonged to the clan as a whole. All members of the clan were regarded as descendants of the original settlers, who had first cleared the land. Therefore, all of them had rights on the land. Very often some people within the clan acquired more power than others, some became chiefs and others followers. Powerful men often rented out their land instead of cultivating it themselves.
 
 British officials saw settled tribal groups like the Gonds and Santhals as more civilised than hunter-gatherers or shifting cultivators. Those who lived in the forests were considered to be wild and savage: they needed to be settled and civilised.
 
@@ -102,7 +110,9 @@ The British effort to settle jhum cultivators was not very successful. Settled p
 
 <!-- page 45 (pdf 7) -->
 
-Forest laws and their impact The life of tribal groups, as you have seen, was directly connected to the forest. So changes in forest laws had a considerable effect on tribal lives. The British extended their control over all forests and declared that forests were state property. Some forests were classified as Reserved Forests for they produced timber which the British wanted. In these forests people were not allowed to move freely, practise jhum cultivation, collect fruits, or hunt animals. How were jhum cultivators to survive in such a situation? Many were therefore forced to move to other areas in search of work and livelihood.
+### Forest laws and their impact
+
+The life of tribal groups, as you have seen, was directly connected to the forest. So changes in forest laws had a considerable effect on tribal lives. The British extended their control over all forests and declared that forests were state property. Some forests were classified as Reserved Forests for they produced timber which the British wanted. In these forests people were not allowed to move freely, practise jhum cultivation, collect fruits, or hunt animals. How were jhum cultivators to survive in such a situation? Many were therefore forced to move to other areas in search of work and livelihood.
 
 But once the British stopped the tribal people from living inside forests, they faced a problem. From where would the Forest Department get its labour to cut trees for railway sleepers and to transport logs?
 
@@ -120,7 +130,9 @@ In this land of the English how hard it is to live How hard it is to live In the
 
 <!-- page 46 (pdf 8) -->
 
-The problem with trade During the nineteenth century, tribal groups found that traders and money-lenders were coming into the forests more often, wanting to buy forest produce, offering cash loans, and asking them to work for wages. It took tribal groups some time to understand the consequences of what was happening.
+### The problem with trade
+
+During the nineteenth century, tribal groups found that traders and money-lenders were coming into the forests more often, wanting to buy forest produce, offering cash loans, and asking them to work for wages. It took tribal groups some time to understand the consequences of what was happening.
 
 Let us consider the case of the silk growers. In the eighteenth century, Indian silk was in demand in European markets. The fine quality of Indian silk was highly valued and exports from India increased rapidly. As the market expanded, East India Company officials tried to encourage silk production to meet the growing demand.
 
@@ -134,7 +146,9 @@ Hazaribagh, in present-day Jharkhand, was an area where the Santhals reared coco
 
 <!-- page 47 (pdf 9) -->
 
-The search for work The plight of the tribals who had to go far away from their homes in search of work was even worse. From the late nineteenth century, tea plantations started coming up and mining became an important industry. Tribals were recruited in large numbers to work at the tea plantations of Assam and the coal mines of Jharkhand. They were recruited through contractors who paid them miserably low wages, and prevented them from returning home.
+### The search for work
+
+The plight of the tribals who had to go far away from their homes in search of work was even worse. From the late nineteenth century, tea plantations started coming up and mining became an important industry. Tribals were recruited in large numbers to work at the tea plantations of Assam and the coal mines of Jharkhand. They were recruited through contractors who paid them miserably low wages, and prevented them from returning home.
 
 ## A Closer Look
 
@@ -164,7 +178,9 @@ Alas! under [the drudgery of] forced labour Blood trickles from my shoulders Day
 
 Vaishnav – Worshippers of Vishnu
 
-Birsa Munda Birsa was born in the mid-1870s. The son of a poor father, he grew up around the forests of Bohonda, grazing sheep, playing the flute, and dancing in the local akhara. Forced by poverty, his father had to move from place to place looking for work. As an adolescent, Birsa heard tales of the Munda uprisings of the past and saw the sirdars (leaders) of the community urging the people to revolt. They talked of a golden age when the Mundas had been free of the oppression of dikus, and said there would be a time when the ancestral right of the community would be restored. They saw themselves as the descendants of the original settlers of the region, fighting for their land (mulk ki larai), reminding people of the need to win back their kingdom.
+### Birsa Munda
+
+Birsa was born in the mid-1870s. The son of a poor father, he grew up around the forests of Bohonda, grazing sheep, playing the flute, and dancing in the local akhara. Forced by poverty, his father had to move from place to place looking for work. As an adolescent, Birsa heard tales of the Munda uprisings of the past and saw the sirdars (leaders) of the community urging the people to revolt. They talked of a golden age when the Mundas had been free of the oppression of dikus, and said there would be a time when the ancestral right of the community would be restored. They saw themselves as the descendants of the original settlers of the region, fighting for their land (mulk ki larai), reminding people of the need to win back their kingdom.
 
 Birsa went to the local missionary school, and listened to the sermons of missionaries. There too he heard it said that it was possible for the Mundas to attain the Kingdom of Heaven, and regain their lost rights. This would be possible if they became good Christians and gave up their “bad practices”. Later Birsa also spent some time in the company of a prominent Vaishnav preacher. He wore the sacred thread, and began to value the importance of purity and piety.
 

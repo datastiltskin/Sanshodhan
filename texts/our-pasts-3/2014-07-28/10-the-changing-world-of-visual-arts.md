@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch04.pdf"
 source_sha256: "859777d342dfd1aa2e7027d92a85e630916de485540d32aa0f735d7e52e3f8d7"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "a1bf7adfa5d8ff17947a2b7cc2452b64684067360379ca377aefbb776688b08b"
+body_fingerprint: "9173514eb8059272b6b7fd9e1547fd54eaccfaf6b9040f8242695bb7ec63e5d7"
 ---
 
 <!-- page 123 (pdf 1) -->
@@ -51,7 +51,9 @@ Engraving – A picture printed onto paper from a piece of wood or metal into wh
 
 <!-- page 125 (pdf 3) -->
 
-Portraits of authority Another tradition of art that became immensely popular in colonial India was portrait painting. The rich and the powerful, both British and Indian, wanted to see themselves on canvas. Unlike the existing Indian tradition of painting portraits in miniature, colonial portraits were life-size images that looked lifelike and real. The size of the paintings itself projected the importance of the patrons who commissioned these portraits. This new style of portraiture also served as an ideal means of displaying the lavish lifestyles, wealth and status that the empire generated.
+### Portraits of authority
+
+Another tradition of art that became immensely popular in colonial India was portrait painting. The rich and the powerful, both British and Indian, wanted to see themselves on canvas. Unlike the existing Indian tradition of painting portraits in miniature, colonial portraits were life-size images that looked lifelike and real. The size of the paintings itself projected the importance of the patrons who commissioned these portraits. This new style of portraiture also served as an ideal means of displaying the lavish lifestyles, wealth and status that the empire generated.
 
 > [caption] Fig. 3 – Clive street in Calcutta, drawn by Thomas and William Daniell, 1786
 
@@ -77,7 +79,9 @@ Many of the Indian nawabs too began commissioning imposing oil portraits by Euro
 
 fghsdtysd
 
-Painting history There was a third category of imperial art, called “history painting”. This tradition sought to dramatise and recreate various episodes of British imperial history, and enjoyed great prestige and popularity during the late eighteenth and early nineteenth centuries.
+### Painting history
+
+There was a third category of imperial art, called “history painting”. This tradition sought to dramatise and recreate various episodes of British imperial history, and enjoyed great prestige and popularity during the late eighteenth and early nineteenth centuries.
 
 British victories in India served as rich material for history painters in Britain. These painters drew on first-hand sketches and accounts of travellers to depict for the British public a favourable image of British actions in India. These paintings once again celebrated the British: their power, their victories, their supremacy. One of the first of these history paintings was produced by Francis Hayman in 1762 and placed on public display in the Vauxhall Gardens in London (Fig. 7). The British had just defeated Sirajuddaulah in the famous Battle of Plassey and installed Mir Jafar as the Nawab of Murshidabad. It was a victory won through conspiracy, and the traitor Mir Jafar was awarded the title of Nawab. In the painting by Hayman this act of aggression and conquest is not depicted. It shows Lord Clive being welcomed by Mir Jafar and his troops after the Battle of Plassey.
 
@@ -173,7 +177,9 @@ of these pictures came into being in the late nineteenth century.
 
 These types of popular pictures were printed and circulated in other parts of India too. With the spread of nationalism, popular prints of the early twentieth century began carrying nationalist messages. In many of them you see Bharat Mata appearing as a goddess carrying the national flag, or nationalist heroes sacrificing their head to the Mata, and gods and goddesses slaughtering the British.
 
-> [caption] Fig. 16 – Mythological scene from the legend of Nala and Damayanti, produced by Calcutta Art Studio, 1878-1880 Notice the contrast between this picture and Fig. 15. Which one do you think looks more realistic?
+> [caption] Fig. 16 – Mythological scene from the legend of Nala and Damayanti, produced by Calcutta Art Studio, 1878-1880
+
+> [caption] Notice the contrast between this picture and Fig. 15. Which one do you think looks more realistic?
 
 > [caption] Fig. 17 – Kali, produced by Calcutta Art Studio, 1880s This is an advertisement of an Indian brand of cigarette that was banned by the British in 1905. You can see the heads of British soldiers amongst the demons killed by the goddess. Religious images were thus used to express nationalist ideas and inspire people against British rule.
 
@@ -221,11 +227,15 @@ Towards the end of the nineteenth century, a stronger connection was established
 
 What could be defined as a national style?
 
-The art of Raja Ravi Varma Raja Ravi Varma was one of the first artists who tried to create a style that was both modern and national. Ravi Varma belonged to the family of the Maharajas of Travancore in Kerala, and was addressed as Raja. He mastered the Western art of oil painting and realistic life study, but painted themes from Indian mythology. He dramatised on canvas, scene after scene from the Ramayana and the Mahabharata, drawing on the theatrical performances of mythological stories that he witnessed during his tour of the Bombay Presidency. From the 1880s, Ravi Varma’s mythological paintings became the rage among Indian princes and art collectors, who filled their palace galleries with his works.
+### The art of Raja Ravi Varma
+
+Raja Ravi Varma was one of the first artists who tried to create a style that was both modern and national. Ravi Varma belonged to the family of the Maharajas of Travancore in Kerala, and was addressed as Raja. He mastered the Western art of oil painting and realistic life study, but painted themes from Indian mythology. He dramatised on canvas, scene after scene from the Ramayana and the Mahabharata, drawing on the theatrical performances of mythological stories that he witnessed during his tour of the Bombay Presidency. From the 1880s, Ravi Varma’s mythological paintings became the rage among Indian princes and art collectors, who filled their palace galleries with his works.
 
 Responding to the huge popular appeal of such paintings, Ravi Varma decided to set up a picture production team and printing press on the outskirts of Bombay. Here colour prints of his religious paintings were mass produced. Even the poor could now buy these cheap prints.
 
-A different vision of national art In Bengal, a new group of nationalist artists gathered around Abanindranath Tagore (1871-1951), the nephew of Rabindranath Tagore. They rejected the art of Ravi Varma as imitative and westernised, and declared that such a style was unsuitable for depicting the nation’s ancient myths and legends. They felt that a genuine Indian style of painting had to draw inspiration from non-Western art traditions, and try to capture the spiritual essence of the East. So they broke away from the convention of oil painting and the realistic style, and turned for inspiration to medieval Indian traditions of miniature painting and the ancient art of mural Activity Look at Fig.25 along with the images of Indian miniatures you saw in the History book of Class VII. Can you identify some of the elements of similarity between them? Look for differences too.
+### A different vision of national art
+
+In Bengal, a new group of nationalist artists gathered around Abanindranath Tagore (1871-1951), the nephew of Rabindranath Tagore. They rejected the art of Ravi Varma as imitative and westernised, and declared that such a style was unsuitable for depicting the nation’s ancient myths and legends. They felt that a genuine Indian style of painting had to draw inspiration from non-Western art traditions, and try to capture the spiritual essence of the East. So they broke away from the convention of oil painting and the realistic style, and turned for inspiration to medieval Indian traditions of miniature painting and the ancient art of mural Activity Look at Fig.25 along with the images of Indian miniatures you saw in the History book of Class VII. Can you identify some of the elements of similarity between them? Look for differences too.
 
 > [caption] Fig. 24 – Krishna Sandhan, by Raja Ravi Varma
 

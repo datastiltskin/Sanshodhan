@@ -101,7 +101,9 @@ With the help of the table below, let us understand this further.
 
 > [table] Results of the 17th Lok Sabha Elections, (May 2019)
 
-> [caption] Political Party No. of MPs Bharatiya Janata Party (BJP) 303 Indian National Congress (INC) 52 Dravida Munnetra Kazhagam (DMK) 24 All India Trinamool Congress (AITC) 22 Yuvajana Sramika Rythu Congress Party (YSRCP) 22 Shiv Sena (SS) 18 Janata Dal (United) (JD (U)) 16 Biju Janata Dal (BJD) 12 Bahujan Samaj Party (BSP) 10 Telangana Rashtra Samithi (TRS) 9 Lok Jan Shakti Party (LJSP) 5 Samajwadi Party (SP) 5 Independents (Ind.) 4 Nationalist Congress Party (NCP) 4 Communist Party of India (Marxist) (CPI)(M)) 3 Indian Union Muslim League (IUML) 3 Jammu and Kashmir National Conference (J&KNC) 3 Telugu Desam Party (TDP) 3 All India Majlis-e-Ittehadul Muslimeen (AIMIM) 2 Apna Dal (Apna Dal) 2 Communist Party of India (CPI) 2 Shiromani Akali Dal (SAD) 2 Aam Aadmi Party (AAP) 1 AJSU Party (AJSU) 1 All India Anna Dravida Munnetra Kazhagam (AIADMK) 1 All India United Democratic Front (AIUDF) 1 Janata Dal (Secular) (JD(s)) 1 Jharkhand Mukti Morcha (JMM) 1 Kerala Congress (M)(KC(M)) 1 Mizo National Front (MNF) 1 Naga Peoples Front (NPF) 1 National People’s Party (NPP) 1 Nationalist Democratic Progressive Party (PDPP) 1 Rashtriya Loktantrik Party (RLP) 1 Revolutionary Socialist Party (RSP) 1 Sikkim Krantikari Morcha (SKM) 1 Viduthalai Chiruthaigal Katchi (VCK) 1 Grand Total 543 Use the table alongside to answer the questions below:
+> [caption] Political Party No. of MPs Bharatiya Janata Party (BJP) 303 Indian National Congress (INC) 52 Dravida Munnetra Kazhagam (DMK) 24 All India Trinamool Congress (AITC) 22 Yuvajana Sramika Rythu Congress Party (YSRCP) 22 Shiv Sena (SS) 18 Janata Dal (United) (JD (U)) 16 Biju Janata Dal (BJD) 12 Bahujan Samaj Party (BSP) 10 Telangana Rashtra Samithi (TRS) 9 Lok Jan Shakti Party (LJSP) 5 Samajwadi Party (SP) 5 Independents (Ind.) 4 Nationalist Congress Party (NCP) 4 Communist Party of India (Marxist) (CPI)(M)) 3 Indian Union Muslim League (IUML) 3 Jammu and Kashmir National Conference (J&KNC) 3 Telugu Desam Party (TDP) 3 All India Majlis-e-Ittehadul Muslimeen (AIMIM) 2 Apna Dal (Apna Dal) 2 Communist Party of India (CPI) 2 Shiromani Akali Dal (SAD) 2 Aam Aadmi Party (AAP) 1 AJSU Party (AJSU) 1 All India Anna Dravida Munnetra Kazhagam (AIADMK) 1 All India United Democratic Front (AIUDF) 1 Janata Dal (Secular) (JD(s)) 1 Jharkhand Mukti Morcha (JMM) 1 Kerala Congress (M)(KC(M)) 1 Mizo National Front (MNF) 1 Naga Peoples Front (NPF) 1 National People’s Party (NPP) 1 Nationalist Democratic Progressive Party (PDPP) 1 Rashtriya Loktantrik Party (RLP) 1 Revolutionary Socialist Party (RSP) 1 Sikkim Krantikari Morcha (SKM) 1 Viduthalai Chiruthaigal Katchi (VCK) 1 Grand Total 543
+
+> [caption] Use the table alongside to answer the questions below:
 
 > [caption] Who will form the government? Why?
 
@@ -139,7 +141,15 @@ Often times in the recent past it has been difficult for a single political part
 
 > [caption] Political Party No. of MPs
 
-> [caption] National Parties Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9 Grand Total 543 Source: www.eci.nic.in The above table gives you the results of the 15th Lok Sabha elections held in 2009. In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha. It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.
+> [caption] National Parties
+
+> [caption] Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9
+
+> [caption] Grand Total 543
+
+> [caption] Source: www.eci.nic.in
+
+> [caption] The above table gives you the results of the 15th Lok Sabha elections held in 2009. In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha. It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.
 
 <!-- page 37 (pdf 10) -->
 
@@ -155,7 +165,13 @@ The following is an example of a question asked in Parliament.
 
 > [table] Lok Sabha
 
-> [table] Unstarred Question No: 48 Answered On: 15.12.2017 Converge of Schemes for Children Manoj Rajoria Will the Minister of Women and Child Development be pleased to state:-
+> [table] Unstarred Question No: 48 Answered On: 15.12.2017
+
+> [table] Converge of Schemes for Children
+
+> [table] Manoj Rajoria
+
+> [table] Will the Minister of Women and Child Development be pleased to state:-
 
 > [table] (a) whether the Government proposes to converge various schemes and policies for children in the country; (b) if so, the details thereof; and; (c) if not, the reasons therefor?
 

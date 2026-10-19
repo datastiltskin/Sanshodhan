@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch09.pdf"
 source_sha256: "723673512f8d684346611871ef1d90b69b09f623f63fc33091cf19b5dae21d5f"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "dfb926a152ad9a3799f4f9f76c8f5da4c371bf423d3fbd2e302a1ed30c6e8e1e"
+body_fingerprint: "2aace274317caec52578bb294268a8af52ec74fe2ba14e81c4d7b7c31a1f3774"
 ocr: true
 ocr_confidence: 92.4
 ---
@@ -63,11 +63,11 @@ a Raj Singh of These cultural traditions Bikaner. ying were Closely linked with 
 
 Did women find a place within these stories? Sometimes, they figure as the “cause” for conflicts, as men fought with one another to either “win” or “protect” women. Women are also depicted as following their heroic husbands in both life and death - there are stories about the practice of sati or the immolation of widows on the funeral pyre of their husbands. So those
 
-> [caption] My a rr SAMMU / { AND as j KASHMIR > : z i. ; “ PRADESH j ,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.
+> [caption] My a rr SAMMU / { AND as j KASHMIR >: z i. ; “ PRADESH j,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.
 
 {RAJASTHAN Jaipur 74 pp Lucknow Spo, sik / ; se \dodhpure Ajmer ~ Ry AWADH “Nee we K Se ; ote, | 4 BIHAR gay SMECWAA, 7 oC OF ee © Chittaurgarh © = 4 @ ji #7
 
-“a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee . ny . > S$. -Kolkata® *- nye? ie oe. é a \ i ~~ << \ & ; co hal \n" DIU ft: = ORISSA \ Nee. ie 3 ‘Bhubaneshwareg / . Sy \ ; f em Puri & ( of 2) \RABIAN j . Ff AY oO! ‘ E \ : wt fa BENGAL \ {ANDHRA “A ; ‘ \ PRADESH — ly a cog (C7 Ys } Us, < . yr. 0 X TAMIL NADU 2 . \2 j *¢ ‘ \> onal \ c f a > > a \ ° ‘e 4 Thiruvananthaputamy” ; \ y ‘2S D y OCEAN *
+“a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee. ny . > S$. -Kolkata® *- nye? ie oe. é a \ i ~~ << \ & ; co hal \n" DIU ft: = ORISSA \ Nee. ie 3 ‘Bhubaneshwareg / . Sy \ ; f em Puri & ( of 2) \RABIAN j . Ff AY oO! ‘ E \ : wt fa BENGAL \ {ANDHRA “A ; ‘ \ PRADESH — ly a cog (C7 Ys } Us, < . yr. 0 X TAMIL NADU 2. \2 j *¢ ‘ \> onal \ c f a > > a \ ° ‘e 4 Thiruvananthaputamy” ; \ y ‘2S D y OCEAN *
 
 > [caption] Map 1 Regions discussed in this chapter.
 

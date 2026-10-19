@@ -7,22 +7,24 @@
   "chapters_dropped": 0,
   "chapters_added": 0,
   "body": {
-   "deleted": 4,
-   "inserted": 9,
-   "modified": 11,
-   "moved": 7,
+   "deleted": 5,
+   "inserted": 7,
+   "modified": 9,
+   "moved": 9,
    "typographic": 0,
    "restreamed": 9,
+   "resplit": 2,
    "unreadable": 0,
    "punctuation": 1
   },
   "other_streams": {
-   "deleted": 73,
-   "inserted": 30,
-   "modified": 40,
+   "deleted": 72,
+   "inserted": 31,
+   "modified": 41,
    "moved": 0,
    "typographic": 0,
    "restreamed": 181,
+   "resplit": 2,
    "unreadable": 0,
    "punctuation": 1
   },
@@ -42,7 +44,7 @@
     "title": "On Equality",
     "file": "texts/social-political-life-2/2024-05-24/01-on-equality.md"
    },
-   "similarity": 0.956,
+   "similarity": 0.971,
    "status": "matched",
    "streams": {
     "heading": {
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -122,11 +125,12 @@
     "body": {
      "counts": {
       "deleted": 1,
-      "inserted": 3,
-      "modified": 2,
+      "inserted": 2,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -288,39 +292,6 @@
        "new_pos": 26
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.857,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
-       "new": "children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
-       "old_page": 5,
-       "new_page": 6,
-       "words": [
-        [
-         "-",
-         "Sustainable Development Goal (SDG) www.in.undp.org"
-        ],
-        [
-         "=",
-         "children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved."
-        ]
-       ],
-       "old_pos": 23,
-       "new_pos": 40
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "Sustainable Development Goal (SDG)",
-       "old_page": null,
-       "new_page": 5,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 37
-      },
-      {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
@@ -330,7 +301,7 @@
        "new_page": 5,
        "words": [],
        "old_pos": null,
-       "new_pos": 38
+       "new_pos": 37
       },
       {
        "type": "equal",
@@ -453,42 +424,6 @@
        "new_pos": 36
       },
       {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
-       "new": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
-       "old_page": 5,
-       "new_page": 6,
-       "words": [],
-       "old_pos": 24,
-       "new_pos": 41
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
-       "new": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
-       "old_page": 5,
-       "new_page": 6,
-       "words": [],
-       "old_pos": 25,
-       "new_pos": 42
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
-       "new": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
-       "old_page": 5,
-       "new_page": 6,
-       "words": [],
-       "old_pos": 26,
-       "new_pos": 43
-      },
-      {
        "type": "modified",
        "stream": "body",
        "similarity": 0.742,
@@ -511,7 +446,7 @@
         ]
        ],
        "old_pos": 37,
-       "new_pos": 54
+       "new_pos": 53
       },
       {
        "type": "inserted",
@@ -523,7 +458,55 @@
        "new_page": 6,
        "words": [],
        "old_pos": null,
+       "new_pos": 38
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
+       "new": "children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 23,
        "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
+       "new": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
+       "new": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
+       "new": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": 42
       },
       {
        "type": "equal",
@@ -535,7 +518,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 27,
-       "new_pos": 44
+       "new_pos": 43
       },
       {
        "type": "equal",
@@ -547,7 +530,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 28,
-       "new_pos": 45
+       "new_pos": 44
       },
       {
        "type": "equal",
@@ -559,7 +542,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 29,
-       "new_pos": 46
+       "new_pos": 45
       },
       {
        "type": "equal",
@@ -571,7 +554,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 30,
-       "new_pos": 47
+       "new_pos": 46
       },
       {
        "type": "equal",
@@ -583,7 +566,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 31,
-       "new_pos": 48
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -595,7 +578,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 32,
-       "new_pos": 49
+       "new_pos": 48
       },
       {
        "type": "equal",
@@ -607,7 +590,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 33,
-       "new_pos": 50
+       "new_pos": 49
       },
       {
        "type": "equal",
@@ -619,7 +602,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 34,
-       "new_pos": 51
+       "new_pos": 50
       },
       {
        "type": "equal",
@@ -631,7 +614,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 35,
-       "new_pos": 52
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -643,7 +626,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 36,
-       "new_pos": 53
+       "new_pos": 52
       },
       {
        "type": "deleted",
@@ -667,7 +650,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 39,
-       "new_pos": 55
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -679,7 +662,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 40,
-       "new_pos": 56
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -691,7 +674,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 41,
-       "new_pos": 57
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -703,7 +686,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 42,
-       "new_pos": 58
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -715,7 +698,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 43,
-       "new_pos": 59
+       "new_pos": 58
       },
       {
        "type": "equal",
@@ -727,7 +710,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 44,
-       "new_pos": 60
+       "new_pos": 59
       },
       {
        "type": "equal",
@@ -739,7 +722,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 45,
-       "new_pos": 61
+       "new_pos": 60
       },
       {
        "type": "equal",
@@ -751,7 +734,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 46,
-       "new_pos": 62
+       "new_pos": 61
       },
       {
        "type": "equal",
@@ -763,7 +746,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 47,
-       "new_pos": 63
+       "new_pos": 62
       },
       {
        "type": "equal",
@@ -775,7 +758,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 48,
-       "new_pos": 64
+       "new_pos": 63
       },
       {
        "type": "equal",
@@ -787,7 +770,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 49,
-       "new_pos": 65
+       "new_pos": 64
       },
       {
        "type": "equal",
@@ -799,7 +782,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 50,
-       "new_pos": 66
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -811,7 +794,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 51,
-       "new_pos": 67
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -823,7 +806,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 52,
-       "new_pos": 68
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -835,7 +818,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 53,
-       "new_pos": 69
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -847,7 +830,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 54,
-       "new_pos": 70
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -859,7 +842,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 55,
-       "new_pos": 71
+       "new_pos": 70
       },
       {
        "type": "equal",
@@ -871,7 +854,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 56,
-       "new_pos": 72
+       "new_pos": 71
       },
       {
        "type": "equal",
@@ -883,7 +866,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 57,
-       "new_pos": 73
+       "new_pos": 72
       },
       {
        "type": "equal",
@@ -895,7 +878,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 58,
-       "new_pos": 74
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -907,7 +890,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 59,
-       "new_pos": 75
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -919,7 +902,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 60,
-       "new_pos": 76
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -931,7 +914,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 61,
-       "new_pos": 77
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -943,7 +926,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 62,
-       "new_pos": 78
+       "new_pos": 77
       },
       {
        "type": "equal",
@@ -955,7 +938,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 63,
-       "new_pos": 79
+       "new_pos": 78
       },
       {
        "type": "equal",
@@ -967,7 +950,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 64,
-       "new_pos": 80
+       "new_pos": 79
       },
       {
        "type": "equal",
@@ -979,7 +962,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 65,
-       "new_pos": 81
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -991,7 +974,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 66,
-       "new_pos": 82
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -1003,7 +986,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 67,
-       "new_pos": 83
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -1015,7 +998,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 68,
-       "new_pos": 84
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -1027,7 +1010,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 69,
-       "new_pos": 85
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -1039,7 +1022,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 70,
-       "new_pos": 86
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -1051,7 +1034,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 71,
-       "new_pos": 87
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -1063,7 +1046,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 72,
-       "new_pos": 88
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -1075,7 +1058,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 73,
-       "new_pos": 89
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -1087,7 +1070,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 74,
-       "new_pos": 90
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -1099,7 +1082,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 75,
-       "new_pos": 91
+       "new_pos": 90
       }
      ]
     },
@@ -1111,6 +1094,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1193,14 +1177,37 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
-     "hunks": []
+     "hunks": [
+      {
+       "type": "modified",
+       "stream": "caption",
+       "similarity": 0.81,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG)",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [
+        [
+         "=",
+         "Sustainable Development Goal (SDG)"
+        ],
+        [
+         "-",
+         "www.in.undp.org"
+        ]
+       ],
+       "old_pos": 0,
+       "new_pos": 0
+      }
+     ]
     },
     "table": {
      "counts": {
@@ -1210,6 +1217,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1248,6 +1256,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1261,6 +1270,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1299,6 +1309,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1559,6 +1570,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1572,6 +1584,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 13,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1820,15 +1833,15 @@
      {
       "page": 5,
       "new_page": 5,
-      "sentences": 14,
+      "sentences": 11,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 6,
       "new_page": 6,
-      "sentences": 17,
-      "score": 0.65,
+      "sentences": 21,
+      "score": 0.71,
       "suspect": false
      },
      {
@@ -1870,7 +1883,7 @@
     "title": "Role of the Government in Health",
     "file": "texts/social-political-life-2/2024-05-24/02-role-of-the-government-in-health.md"
    },
-   "similarity": 0.954,
+   "similarity": 0.953,
    "status": "matched",
    "streams": {
     "heading": {
@@ -1881,6 +1894,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1926,11 +1940,12 @@
     "body": {
      "counts": {
       "deleted": 0,
-      "inserted": 2,
-      "modified": 6,
+      "inserted": 0,
+      "modified": 4,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2123,48 +2138,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.784,
-       "old": "India has the largest number of medical Most doctors settle in urban areas. colleges in the world and is among the People in rural areas have to travel long largest producers of doctors. distances to reach a doctor.",
-       "new": "colleges in the world and is among the People in rural areas have to travel long largest producers of doctors. distances to reach a doctor.",
-       "old_page": 14,
-       "new_page": 14,
-       "words": [
-        [
-         "-",
-         "India has the largest number of medical Most doctors settle in urban areas."
-        ],
-        [
-         "=",
-         "colleges in the world and is among the People in rural areas have to travel long largest producers of doctors. distances to reach a doctor."
-        ]
-       ],
-       "old_pos": 16,
-       "new_pos": 22
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.949,
-       "old": "This number is almost there were only 2,717 government hospitals unchanged since Independence! in India.",
-       "new": "This number is almost there were only 2,717 government hospitals unchanged since Independence!",
-       "old_page": 14,
-       "new_page": 14,
-       "words": [
-        [
-         "=",
-         "This number is almost there were only 2,717 government hospitals unchanged since Independence!"
-        ],
-        [
-         "-",
-         "in India."
-        ]
-       ],
-       "old_pos": 20,
-       "new_pos": 26
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.995,
        "old": "21per cent of all for treatment in some of the hospitals in communicable diseases are water borne.",
        "new": "21 per cent of all for treatment in some of the hospitals in communicable diseases are water borne.",
@@ -2188,28 +2161,28 @@
        "new_pos": 32
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "India has the largest number of medical Most doctors settle in urban areas.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "India has the largest number of medical Most doctors settle in urban areas. colleges in the world and is among the People in rural areas have to travel long largest producers of doctors. distances to reach a doctor.",
+       "new": "India has the largest number of medical Most doctors settle in urban areas. colleges in the world and is among the People in rural areas have to travel long largest producers of doctors. distances to reach a doctor.",
+       "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": null,
+       "old_pos": 16,
        "new_pos": 21
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "in India.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "This number is almost there were only 2,717 government hospitals unchanged since Independence! in India.",
+       "new": "This number is almost there were only 2,717 government hospitals unchanged since Independence! in India.",
+       "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": null,
-       "new_pos": 27
+       "old_pos": 20,
+       "new_pos": 26
       },
       {
        "type": "equal",
@@ -3481,10 +3454,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org The above map of India shows the state of Kerala in pink.",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org The above map of India shows the state of Kerala in pink.",
-       "old_page": 21,
-       "new_page": 21,
+       "old": "The above map of India shows the state of Kerala in pink.",
+       "new": "The above map of India shows the state of Kerala in pink.",
+       "old_page": 22,
+       "new_page": 22,
        "words": [],
        "old_pos": 121,
        "new_pos": 128
@@ -3740,18 +3713,6 @@
        "words": [],
        "old_pos": 142,
        "new_pos": 149
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 143,
-       "new_pos": 150
       }
      ]
     },
@@ -3762,7 +3723,8 @@
       "modified": 2,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 11,
+      "restreamed": 10,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3984,18 +3946,6 @@
        "new_pos": 27
       },
       {
-       "type": "restreamed",
-       "stream": "note>table",
-       "similarity": 1.0,
-       "old": "An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”",
-       "new": "An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 20,
-       "new_pos": 29
-      },
-      {
        "type": "modified",
        "stream": "note>table",
        "similarity": 0.905,
@@ -4046,11 +3996,12 @@
     "caption": {
      "counts": {
       "deleted": 0,
-      "inserted": 0,
+      "inserted": 1,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4342,6 +4293,30 @@
        "words": [],
        "old_pos": 23,
        "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": 21,
+       "new_page": 21,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 24
+      },
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": null,
+       "new_page": 23,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 25
       }
      ]
     },
@@ -4353,6 +4328,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4631,6 +4607,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4638,16 +4615,83 @@
     },
     "exercises": {
      "counts": {
-      "deleted": 0,
+      "deleted": 2,
       "inserted": 0,
-      "modified": 0,
+      "modified": 3,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
+      {
+       "type": "deleted",
+       "stream": "exercises",
+       "similarity": null,
+       "old": "An important part of the Constitution says it is the “duty of",
+       "new": null,
+       "old_page": 23,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "exercises",
+       "similarity": null,
+       "old": "Look at this quote from the Constitution and",
+       "new": null,
+       "old_page": 23,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": null
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.695,
+       "old": "Facility Affordability Availability Quality Private Public Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Facility Affordability Availability Quality Private Public",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [
+        [
+         "=",
+         "Facility Affordability Availability Quality Private Public"
+        ],
+        [
+         "-",
+         "Sustainable Development Goal (SDG) www.in.undp.org"
+        ]
+       ],
+       "old_pos": 10,
+       "new_pos": 7
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.764,
+       "old": "explain the terms ‘living standard’ and ‘public health’ in your own words.",
+       "new": "Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [
+        [
+         "+",
+         "Look at this quote from the Constitution and"
+        ],
+        [
+         "=",
+         "explain the terms ‘living standard’ and ‘public health’ in your own words."
+        ]
+       ],
+       "old_pos": 4,
+       "new_pos": 2
+      },
       {
        "type": "equal",
        "stream": "exercises",
@@ -4669,7 +4713,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 3,
+       "old_pos": 6,
        "new_pos": 3
       },
       {
@@ -4681,7 +4725,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 5,
+       "old_pos": 8,
        "new_pos": 5
       },
       {
@@ -4693,7 +4737,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 8,
+       "old_pos": 11,
        "new_pos": 8
       },
       {
@@ -4705,7 +4749,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 4,
+       "old_pos": 7,
        "new_pos": 4
       },
       {
@@ -4729,32 +4773,8 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 9,
+       "old_pos": 12,
        "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "Facility Affordability Availability Quality Private Public",
-       "new": "Facility Affordability Availability Quality Private Public",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.",
-       "new": "Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": 2
       },
       {
        "type": "equal",
@@ -4765,8 +4785,29 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 6,
+       "old_pos": 9,
        "new_pos": 6
+      },
+      {
+       "type": "modified",
+       "stream": "exercises>table",
+       "similarity": 0.762,
+       "old": "the State to raise the level of nutrition and the standard of living and to improve public health.”",
+       "new": "An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [
+        [
+         "+",
+         "An important part of the Constitution says it is the “duty of"
+        ],
+        [
+         "=",
+         "the State to raise the level of nutrition and the standard of living and to improve public health.”"
+        ]
+       ],
+       "old_pos": 5,
+       "new_pos": 29
       }
      ]
     },
@@ -4778,6 +4819,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4948,6 +4990,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4961,6 +5004,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5254,15 +5298,15 @@
      {
       "page": 22,
       "new_page": 22,
-      "sentences": 21,
+      "sentences": 22,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 23,
       "new_page": 23,
-      "sentences": 25,
-      "score": 1.0,
+      "sentences": 26,
+      "score": 0.92,
       "suspect": false
      }
     ],
@@ -5283,7 +5327,7 @@
     "title": "How the State Government Works",
     "file": "texts/social-political-life-2/2024-05-24/03-how-the-state-government-works.md"
    },
-   "similarity": 0.986,
+   "similarity": 0.993,
    "status": "matched",
    "streams": {
     "heading": {
@@ -5294,6 +5338,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5332,6 +5377,7 @@
       "moved": 3,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5651,19 +5697,19 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.828,
-       "old": "Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) .............................................................",
-       "new": "“nme and Kashmir Jammu and Kashmir Punjab Uttarakhand Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) .............................................................",
+       "similarity": 0.689,
+       "old": "Results of the Assembly Elections in Himachal Pradesh in 2017",
+       "new": "“name and Kashmir Jammu and Kashmir Punjab Uttarakhand Results of the Assembly Elections in Himachal Pradesh in 2017",
        "old_page": 27,
        "new_page": 26,
        "words": [
         [
          "+",
-         "“nme and Kashmir Jammu and Kashmir Punjab Uttarakhand"
+         "“name and Kashmir Jammu and Kashmir Punjab Uttarakhand"
         ],
         [
          "=",
-         "Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) ............................................................."
+         "Results of the Assembly Elections in Himachal Pradesh in 2017"
         ]
        ],
        "old_pos": 26,
@@ -5678,8 +5724,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 46,
-       "new_pos": 41
+       "old_pos": 53,
+       "new_pos": 48
       },
       {
        "type": "moved",
@@ -5690,8 +5736,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 47,
-       "new_pos": 42
+       "old_pos": 54,
+       "new_pos": 49
       },
       {
        "type": "moved",
@@ -5702,17 +5748,17 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 48,
-       "new_pos": 43
+       "old_pos": 55,
+       "new_pos": 50
       },
       {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "44 Indian National Congress (INC) ...................................................",
-       "new": "44 Indian National Congress (INC) ...................................................",
+       "old": "Political party Number of MLAs elected",
+       "new": "Political party Number of MLAs elected",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 27,
        "new_pos": 31
@@ -5721,10 +5767,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "21 Communist Party of India (Marxist)...............................................",
-       "new": "21 Communist Party of India (Marxist)...............................................",
+       "old": "Bharatiya Janata Party (BJP) .............................................................",
+       "new": "Bharatiya Janata Party (BJP) .............................................................",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 28,
        "new_pos": 32
@@ -5733,10 +5779,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "1 Independents (who don’t belong to any party) ..........................",
-       "new": "1 Independents (who don’t belong to any party) ..........................",
+       "old": "44",
+       "new": "44",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 29,
        "new_pos": 33
@@ -5745,10 +5791,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "2 Total ................................................................................",
-       "new": "2 Total ................................................................................",
+       "old": "Indian National Congress (INC) ...................................................",
+       "new": "Indian National Congress (INC) ...................................................",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 30,
        "new_pos": 34
@@ -5757,10 +5803,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "68 For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs.",
-       "new": "68 For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs.",
+       "old": "21",
+       "new": "21",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 31,
        "new_pos": 35
@@ -5769,10 +5815,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority.",
-       "new": "Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority.",
+       "old": "Communist Party of India (Marxist)...............................................",
+       "new": "Communist Party of India (Marxist)...............................................",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 32,
        "new_pos": 36
@@ -5781,10 +5827,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party.",
-       "new": "The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party.",
+       "old": "1",
+       "new": "1",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 33,
        "new_pos": 37
@@ -5793,10 +5839,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "All other MLAs became the opposition.",
-       "new": "All other MLAs became the opposition.",
+       "old": "Independents (who don’t belong to any party) ..........................",
+       "new": "Independents (who don’t belong to any party) ..........................",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 34,
        "new_pos": 38
@@ -5805,10 +5851,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP.",
-       "new": "In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP.",
+       "old": "2",
+       "new": "2",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 35,
        "new_pos": 39
@@ -5817,13 +5863,97 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Among the opposition were other parties, including those who had been elected as independent candidates.",
-       "new": "Among the opposition were other parties, including those who had been elected as independent candidates.",
+       "old": "Total ................................................................................",
+       "new": "Total ................................................................................",
        "old_page": 27,
-       "new_page": 26,
+       "new_page": 27,
        "words": [],
        "old_pos": 36,
        "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "68",
+       "new": "68",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs.",
+       "new": "For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 42
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority.",
+       "new": "Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 43
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party.",
+       "new": "The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 44
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "All other MLAs became the opposition.",
+       "new": "All other MLAs became the opposition.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP.",
+       "new": "In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 42,
+       "new_pos": 46
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Among the opposition were other parties, including those who had been elected as independent candidates.",
+       "new": "Among the opposition were other parties, including those who had been elected as independent candidates.",
+       "old_page": 27,
+       "new_page": 27,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -5834,8 +5964,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 37,
-       "new_pos": 44
+       "old_pos": 44,
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -5846,8 +5976,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 38,
-       "new_pos": 45
+       "old_pos": 45,
+       "new_pos": 52
       },
       {
        "type": "equal",
@@ -5858,8 +5988,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 39,
-       "new_pos": 46
+       "old_pos": 46,
+       "new_pos": 53
       },
       {
        "type": "equal",
@@ -5870,8 +6000,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 40,
-       "new_pos": 47
+       "old_pos": 47,
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -5882,8 +6012,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 41,
-       "new_pos": 48
+       "old_pos": 48,
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -5894,8 +6024,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 42,
-       "new_pos": 49
+       "old_pos": 49,
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -5906,8 +6036,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 43,
-       "new_pos": 50
+       "old_pos": 50,
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -5918,8 +6048,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 44,
-       "new_pos": 51
+       "old_pos": 51,
+       "new_pos": 58
       },
       {
        "type": "equal",
@@ -5930,8 +6060,8 @@
        "old_page": 27,
        "new_page": 27,
        "words": [],
-       "old_pos": 45,
-       "new_pos": 52
+       "old_pos": 52,
+       "new_pos": 59
       },
       {
        "type": "equal",
@@ -5942,8 +6072,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 49,
-       "new_pos": 53
+       "old_pos": 56,
+       "new_pos": 60
       },
       {
        "type": "equal",
@@ -5954,8 +6084,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 50,
-       "new_pos": 54
+       "old_pos": 57,
+       "new_pos": 61
       },
       {
        "type": "equal",
@@ -5966,8 +6096,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 51,
-       "new_pos": 55
+       "old_pos": 58,
+       "new_pos": 62
       },
       {
        "type": "equal",
@@ -5978,8 +6108,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 52,
-       "new_pos": 56
+       "old_pos": 59,
+       "new_pos": 63
       },
       {
        "type": "equal",
@@ -5990,8 +6120,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 53,
-       "new_pos": 57
+       "old_pos": 60,
+       "new_pos": 64
       },
       {
        "type": "equal",
@@ -6002,8 +6132,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 54,
-       "new_pos": 58
+       "old_pos": 61,
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -6014,8 +6144,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 55,
-       "new_pos": 59
+       "old_pos": 62,
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -6026,8 +6156,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 56,
-       "new_pos": 60
+       "old_pos": 63,
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -6038,8 +6168,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 57,
-       "new_pos": 61
+       "old_pos": 64,
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -6050,8 +6180,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 58,
-       "new_pos": 62
+       "old_pos": 65,
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -6062,8 +6192,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 59,
-       "new_pos": 63
+       "old_pos": 66,
+       "new_pos": 70
       },
       {
        "type": "equal",
@@ -6074,8 +6204,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 60,
-       "new_pos": 64
+       "old_pos": 67,
+       "new_pos": 71
       },
       {
        "type": "equal",
@@ -6086,8 +6216,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 61,
-       "new_pos": 65
+       "old_pos": 68,
+       "new_pos": 72
       },
       {
        "type": "equal",
@@ -6098,8 +6228,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 62,
-       "new_pos": 66
+       "old_pos": 69,
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -6110,8 +6240,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 63,
-       "new_pos": 67
+       "old_pos": 70,
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -6122,8 +6252,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 64,
-       "new_pos": 68
+       "old_pos": 71,
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -6134,8 +6264,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 65,
-       "new_pos": 69
+       "old_pos": 72,
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -6146,8 +6276,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 66,
-       "new_pos": 70
+       "old_pos": 73,
+       "new_pos": 77
       },
       {
        "type": "equal",
@@ -6158,8 +6288,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 67,
-       "new_pos": 71
+       "old_pos": 74,
+       "new_pos": 78
       },
       {
        "type": "equal",
@@ -6170,8 +6300,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 68,
-       "new_pos": 72
+       "old_pos": 75,
+       "new_pos": 79
       },
       {
        "type": "equal",
@@ -6182,8 +6312,8 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 69,
-       "new_pos": 73
+       "old_pos": 76,
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -6194,15 +6324,15 @@
        "old_page": 28,
        "new_page": 28,
        "words": [],
-       "old_pos": 70,
-       "new_pos": 74
+       "old_pos": 77,
+       "new_pos": 81
       },
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.988,
-       "old": "1 2 In the earlier section you have read about a debate in the Legislative Assembly.",
-       "new": "1 2 5 In the earlier section you have read about a debate in the Legislative Assembly.",
+       "similarity": 0.75,
+       "old": "1 2",
+       "new": "1 2 5",
        "old_page": 29,
        "new_page": 29,
        "words": [
@@ -6213,14 +6343,10 @@
         [
          "+",
          "5"
-        ],
-        [
-         "=",
-         "In the earlier section you have read about a debate in the Legislative Assembly."
         ]
        ],
-       "old_pos": 89,
-       "new_pos": 93
+       "old_pos": 96,
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -6231,8 +6357,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 71,
-       "new_pos": 75
+       "old_pos": 78,
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -6243,8 +6369,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 72,
-       "new_pos": 76
+       "old_pos": 79,
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -6255,8 +6381,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 73,
-       "new_pos": 77
+       "old_pos": 80,
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -6267,8 +6393,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 74,
-       "new_pos": 78
+       "old_pos": 81,
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -6279,8 +6405,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 75,
-       "new_pos": 79
+       "old_pos": 82,
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -6291,8 +6417,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 76,
-       "new_pos": 80
+       "old_pos": 83,
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -6303,8 +6429,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 77,
-       "new_pos": 81
+       "old_pos": 84,
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -6315,8 +6441,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 78,
-       "new_pos": 82
+       "old_pos": 85,
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -6327,8 +6453,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 79,
-       "new_pos": 83
+       "old_pos": 86,
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -6339,8 +6465,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 80,
-       "new_pos": 84
+       "old_pos": 87,
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -6351,8 +6477,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 81,
-       "new_pos": 85
+       "old_pos": 88,
+       "new_pos": 92
       },
       {
        "type": "equal",
@@ -6363,8 +6489,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 82,
-       "new_pos": 86
+       "old_pos": 89,
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -6375,8 +6501,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 83,
-       "new_pos": 87
+       "old_pos": 90,
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -6387,8 +6513,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 84,
-       "new_pos": 88
+       "old_pos": 91,
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -6399,8 +6525,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 85,
-       "new_pos": 89
+       "old_pos": 92,
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -6411,8 +6537,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 86,
-       "new_pos": 90
+       "old_pos": 93,
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -6423,8 +6549,8 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 87,
-       "new_pos": 91
+       "old_pos": 94,
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -6435,78 +6561,6 @@
        "old_page": 29,
        "new_page": 29,
        "words": [],
-       "old_pos": 88,
-       "new_pos": 92
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "The members were debating the action taken or not taken by the government.",
-       "new": "The members were debating the action taken or not taken by the government.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 90,
-       "new_pos": 94
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "This is because the MLAs are together responsible for the work of the government.",
-       "new": "This is because the MLAs are together responsible for the work of the government.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 91,
-       "new_pos": 95
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "In common usage the word ‘government’ refers to government departments and various ministers who head them.",
-       "new": "In common usage the word ‘government’ refers to government departments and various ministers who head them.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 92,
-       "new_pos": 96
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "The overall head is the chief minister.",
-       "new": "The overall head is the chief minister.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 93,
-       "new_pos": 97
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "More correctly, this is called the executive part of the government.",
-       "new": "More correctly, this is called the executive part of the government.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 94,
-       "new_pos": 98
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature.",
-       "new": "All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
        "old_pos": 95,
        "new_pos": 99
       },
@@ -6514,22 +6568,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They are the ones who authorise and supervise their work.",
-       "new": "They are the ones who authorise and supervise their work.",
-       "old_page": 29,
-       "new_page": 29,
-       "words": [],
-       "old_pos": 96,
-       "new_pos": 100
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.",
-       "new": "As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.",
-       "old_page": 29,
-       "new_page": 29,
+       "old": "In the earlier section you have read about a debate in the Legislative Assembly.",
+       "new": "In the earlier section you have read about a debate in the Legislative Assembly.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 97,
        "new_pos": 101
@@ -6538,8 +6580,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Working of the government",
-       "new": "Working of the government",
+       "old": "The members were debating the action taken or not taken by the government.",
+       "new": "The members were debating the action taken or not taken by the government.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6550,8 +6592,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Legislative Assembly is not the only place where opinions are expressed about the work of the government and action is demanded.",
-       "new": "The Legislative Assembly is not the only place where opinions are expressed about the work of the government and action is demanded.",
+       "old": "This is because the MLAs are together responsible for the work of the government.",
+       "new": "This is because the MLAs are together responsible for the work of the government.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6562,8 +6604,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "You will find newspapers, TV channels and other organisations regularly talking about the government.",
-       "new": "You will find newspapers, TV channels and other organisations regularly talking about the government.",
+       "old": "In common usage the word ‘government’ refers to government departments and various ministers who head them.",
+       "new": "In common usage the word ‘government’ refers to government departments and various ministers who head them.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6574,8 +6616,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In a democracy, there are various ways through which people express their views and also take action.",
-       "new": "In a democracy, there are various ways through which people express their views and also take action.",
+       "old": "The overall head is the chief minister.",
+       "new": "The overall head is the chief minister.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6586,8 +6628,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Let us look at one such way.",
-       "new": "Let us look at one such way.",
+       "old": "More correctly, this is called the executive part of the government.",
+       "new": "More correctly, this is called the executive part of the government.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6598,8 +6640,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Soon after the discussion in the assembly, there was a press conference organised by the health minister.",
-       "new": "Soon after the discussion in the assembly, there was a press conference organised by the health minister.",
+       "old": "All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature.",
+       "new": "All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6610,8 +6652,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Large numbers of people from different newspapers were present.",
-       "new": "Large numbers of people from different newspapers were present.",
+       "old": "They are the ones who authorise and supervise their work.",
+       "new": "They are the ones who authorise and supervise their work.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6622,8 +6664,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The minister and some government officials were also present.",
-       "new": "The minister and some government officials were also present.",
+       "old": "As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.",
+       "new": "As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6634,8 +6676,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The minister explained the steps the government had taken.",
-       "new": "The minister explained the steps the government had taken.",
+       "old": "Working of the government",
+       "new": "Working of the government",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6646,8 +6688,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Reporters asked many questions at this meeting.",
-       "new": "Reporters asked many questions at this meeting.",
+       "old": "The Legislative Assembly is not the only place where opinions are expressed about the work of the government and action is demanded.",
+       "new": "The Legislative Assembly is not the only place where opinions are expressed about the work of the government and action is demanded.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6658,8 +6700,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These discussions were then reported in different newspapers.",
-       "new": "These discussions were then reported in different newspapers.",
+       "old": "You will find newspapers, TV channels and other organisations regularly talking about the government.",
+       "new": "You will find newspapers, TV channels and other organisations regularly talking about the government.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6670,8 +6712,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The following page has one such report.",
-       "new": "The following page has one such report.",
+       "old": "In a democracy, there are various ways through which people express their views and also take action.",
+       "new": "In a democracy, there are various ways through which people express their views and also take action.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6682,8 +6724,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "During the next week, the chief minister and the minister for health visited Patalpuram district.",
-       "new": "During the next week, the chief minister and the minister for health visited Patalpuram district.",
+       "old": "Let us look at one such way.",
+       "new": "Let us look at one such way.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6694,8 +6736,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They went to visit the families who had lost their relatives and also visited people in the hospitals.",
-       "new": "They went to visit the families who had lost their relatives and also visited people in the hospitals.",
+       "old": "Soon after the discussion in the assembly, there was a press conference organised by the health minister.",
+       "new": "Soon after the discussion in the assembly, there was a press conference organised by the health minister.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6706,8 +6748,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks.",
-       "new": "The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks.",
+       "old": "Large numbers of people from different newspapers were present.",
+       "new": "Large numbers of people from different newspapers were present.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6718,8 +6760,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The chief minister has promised funds for this work.",
-       "new": "The chief minister has promised funds for this work.",
+       "old": "The minister and some government officials were also present.",
+       "new": "The minister and some government officials were also present.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6730,8 +6772,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea.",
-       "new": "They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea.",
+       "old": "The minister explained the steps the government had taken.",
+       "new": "The minister explained the steps the government had taken.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6742,8 +6784,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.",
-       "new": "When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.",
+       "old": "Reporters asked many questions at this meeting.",
+       "new": "Reporters asked many questions at this meeting.",
        "old_page": 30,
        "new_page": 30,
        "words": [],
@@ -6754,10 +6796,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "During the last few weeks, there have been many deaths in some districts of our state.",
-       "new": "During the last few weeks, there have been many deaths in some districts of our state.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "These discussions were then reported in different newspapers.",
+       "new": "These discussions were then reported in different newspapers.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 116,
        "new_pos": 120
@@ -6766,10 +6808,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There has been a strong reaction that the government has not taken this seriously.",
-       "new": "There has been a strong reaction that the government has not taken this seriously.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "The following page has one such report.",
+       "new": "The following page has one such report.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 117,
        "new_pos": 121
@@ -6778,10 +6820,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures.",
-       "new": "The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "During the next week, the chief minister and the minister for health visited Patalpuram district.",
+       "new": "During the next week, the chief minister and the minister for health visited Patalpuram district.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 118,
        "new_pos": 122
@@ -6790,10 +6832,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The most important problem is that of drinking water.",
-       "new": "The most important problem is that of drinking water.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "They went to visit the families who had lost their relatives and also visited people in the hospitals.",
+       "new": "They went to visit the families who had lost their relatives and also visited people in the hospitals.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 119,
        "new_pos": 123
@@ -6802,10 +6844,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The minister said that they families.",
-       "new": "The minister said that they families.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks.",
+       "new": "The government announced a compensation for these Government smells the garbage Chief Minister promises funds for work intend to supply drinking water to every village through tanker trucks.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 120,
        "new_pos": 124
@@ -6814,10 +6856,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water.",
-       "new": "The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "The chief minister has promised funds for this work.",
+       "new": "The chief minister has promised funds for this work.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 121,
        "new_pos": 125
@@ -6826,10 +6868,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.",
-       "new": "He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea.",
+       "new": "They also plan to start a campaign to inform people about the steps that can be taken to prevent diarrhoea.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 122,
        "new_pos": 126
@@ -6838,10 +6880,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "As you saw above, the people in power like the chief minister and the minister have to take action.",
-       "new": "As you saw above, the people in power like the chief minister and the minister have to take action.",
-       "old_page": 31,
-       "new_page": 31,
+       "old": "When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.",
+       "new": "When a reporter asked him as to what steps are being taken to see that garbage that has been lying around for months is quickly collected, the chief minister said that he would look into this.",
+       "old_page": 30,
+       "new_page": 30,
        "words": [],
        "old_pos": 123,
        "new_pos": 127
@@ -6850,8 +6892,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They do so through various departments like the Public Works Department, the Agriculture Department, the Health Department, the Education Department and so on.",
-       "new": "They do so through various departments like the Public Works Department, the Agriculture Department, the Health Department, the Education Department and so on.",
+       "old": "During the last few weeks, there have been many deaths in some districts of our state.",
+       "new": "During the last few weeks, there have been many deaths in some districts of our state.",
        "old_page": 31,
        "new_page": 31,
        "words": [],
@@ -6862,8 +6904,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They also have to answer questions that are asked in the Legislative Assembly and convince people asking the questions that proper steps are being taken.",
-       "new": "They also have to answer questions that are asked in the Legislative Assembly and convince people asking the questions that proper steps are being taken.",
+       "old": "There has been a strong reaction that the government has not taken this seriously.",
+       "new": "There has been a strong reaction that the government has not taken this seriously.",
        "old_page": 31,
        "new_page": 31,
        "words": [],
@@ -6874,8 +6916,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "At the same time, newspapers and the media widely discuss the issue and the government has to respond, for example, by holding the press conferences.",
-       "new": "At the same time, newspapers and the media widely discuss the issue and the government has to respond, for example, by holding the press conferences.",
+       "old": "The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures.",
+       "new": "The health minister explained today at a press conference that his government has asked all the collectors and the chief medical officers to take urgent measures.",
        "old_page": 31,
        "new_page": 31,
        "words": [],
@@ -6886,10 +6928,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The government can also decide to make new laws for the state regarding sanitation and health facilities.",
-       "new": "The government can also decide to make new laws for the state regarding sanitation and health facilities.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "The most important problem is that of drinking water.",
+       "new": "The most important problem is that of drinking water.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 127,
        "new_pos": 131
@@ -6898,10 +6940,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "For example, it may make it compulsory for municipal corporations to ensure that there are adequate toilets in every urban area.",
-       "new": "For example, it may make it compulsory for municipal corporations to ensure that there are adequate toilets in every urban area.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "The minister said that they families.",
+       "new": "The minister said that they families.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 128,
        "new_pos": 132
@@ -6910,10 +6952,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "It may also ensure that a health worker is appointed in every village.",
-       "new": "It may also ensure that a health worker is appointed in every village.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water.",
+       "new": "The chief minister also said that he thought the problem was not only one of sanitation but also of a lack of clean drinking water.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 129,
        "new_pos": 133
@@ -6922,10 +6964,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This act of making laws on certain issues is done in the Legislative Assembly of each state.",
-       "new": "This act of making laws on certain issues is done in the Legislative Assembly of each state.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.",
+       "new": "He said that a high-level enquiry committee will be asked to look into the needs of the district to provide sanitation facilities and would request the minister for Public Works to take care of the needs of proper water supply in the region.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 130,
        "new_pos": 134
@@ -6934,10 +6976,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The various government departments then implement these laws.",
-       "new": "The various government departments then implement these laws.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "As you saw above, the people in power like the chief minister and the minister have to take action.",
+       "new": "As you saw above, the people in power like the chief minister and the minister have to take action.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 131,
        "new_pos": 135
@@ -6946,10 +6988,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Laws for the entire country are made in the Parliament.",
-       "new": "Laws for the entire country are made in the Parliament.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "They do so through various departments like the Public Works Department, the Agriculture Department, the Health Department, the Education Department and so on.",
+       "new": "They do so through various departments like the Public Works Department, the Agriculture Department, the Health Department, the Education Department and so on.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 132,
        "new_pos": 136
@@ -6958,10 +7000,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "You will read more about the Parliament next year.",
-       "new": "You will read more about the Parliament next year.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "They also have to answer questions that are asked in the Legislative Assembly and convince people asking the questions that proper steps are being taken.",
+       "new": "They also have to answer questions that are asked in the Legislative Assembly and convince people asking the questions that proper steps are being taken.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 133,
        "new_pos": 137
@@ -6970,10 +7012,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In a democracy, it is the people who elect their representatives as Members of the Legislative Assembly (MLAs) and, thus, it is the people who have the main authority.",
-       "new": "In a democracy, it is the people who elect their representatives as Members of the Legislative Assembly (MLAs) and, thus, it is the people who have the main authority.",
-       "old_page": 32,
-       "new_page": 32,
+       "old": "At the same time, newspapers and the media widely discuss the issue and the government has to respond, for example, by holding the press conferences.",
+       "new": "At the same time, newspapers and the media widely discuss the issue and the government has to respond, for example, by holding the press conferences.",
+       "old_page": 31,
+       "new_page": 31,
        "words": [],
        "old_pos": 134,
        "new_pos": 138
@@ -6982,8 +7024,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The ruling party members then form the government and some members are appointed ministers.",
-       "new": "The ruling party members then form the government and some members are appointed ministers.",
+       "old": "The government can also decide to make new laws for the state regarding sanitation and health facilities.",
+       "new": "The government can also decide to make new laws for the state regarding sanitation and health facilities.",
        "old_page": 32,
        "new_page": 32,
        "words": [],
@@ -6994,8 +7036,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These ministers are in charge of various departments of the government such as health in the above example.",
-       "new": "These ministers are in charge of various departments of the government such as health in the above example.",
+       "old": "For example, it may make it compulsory for municipal corporations to ensure that there are adequate toilets in every urban area.",
+       "new": "For example, it may make it compulsory for municipal corporations to ensure that there are adequate toilets in every urban area.",
        "old_page": 32,
        "new_page": 32,
        "words": [],
@@ -7006,8 +7048,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Whatever work is done by these departments has to be approved by the members of the legislative assembly.",
-       "new": "Whatever work is done by these departments has to be approved by the members of the legislative assembly.",
+       "old": "It may also ensure that a health worker is appointed in every village.",
+       "new": "It may also ensure that a health worker is appointed in every village.",
        "old_page": 32,
        "new_page": 32,
        "words": [],
@@ -7018,8 +7060,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In a democracy, people organise meetings to voice their opinions and protest against the government.",
-       "new": "In a democracy, people organise meetings to voice their opinions and protest against the government.",
+       "old": "This act of making laws on certain issues is done in the Legislative Assembly of each state.",
+       "new": "This act of making laws on certain issues is done in the Legislative Assembly of each state.",
        "old_page": 32,
        "new_page": 32,
        "words": [],
@@ -7030,10 +7072,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Name of department Examples of their work School Education Public Works Department Agriculture A wallpaper project A wallpaper is an interesting activity through which research can be done on particular topics of interest.",
-       "new": "Name of department Examples of their work School Education Public Works Department Agriculture A wallpaper project A wallpaper is an interesting activity through which research can be done on particular topics of interest.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "The various government departments then implement these laws.",
+       "new": "The various government departments then implement these laws.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 139,
        "new_pos": 143
@@ -7042,10 +7084,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The following photographs explain the different aspects involved in creating a wallpaper in a classroom.",
-       "new": "The following photographs explain the different aspects involved in creating a wallpaper in a classroom.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "Laws for the entire country are made in the Parliament.",
+       "new": "Laws for the entire country are made in the Parliament.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 140,
        "new_pos": 144
@@ -7054,10 +7096,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups.",
-       "new": "After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "You will read more about the Parliament next year.",
+       "new": "You will read more about the Parliament next year.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 141,
        "new_pos": 145
@@ -7066,10 +7108,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The group discusses the issue and decides what it would like to include in the wall-paper.",
-       "new": "The group discusses the issue and decides what it would like to include in the wall-paper.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "In a democracy, it is the people who elect their representatives as Members of the Legislative Assembly (MLAs) and, thus, it is the people who have the main authority.",
+       "new": "In a democracy, it is the people who elect their representatives as Members of the Legislative Assembly (MLAs) and, thus, it is the people who have the main authority.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 142,
        "new_pos": 146
@@ -7078,10 +7120,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Children then work individually or in pairs to read the collected material and write their observations or experiences.",
-       "new": "Children then work individually or in pairs to read the collected material and write their observations or experiences.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "The ruling party members then form the government and some members are appointed ministers.",
+       "new": "The ruling party members then form the government and some members are appointed ministers.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 143,
        "new_pos": 147
@@ -7090,10 +7132,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They can do this through creating stories, poems, case studies, interviews, etc.",
-       "new": "They can do this through creating stories, poems, case studies, interviews, etc.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "These ministers are in charge of various departments of the government such as health in the above example.",
+       "new": "These ministers are in charge of various departments of the government such as health in the above example.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 144,
        "new_pos": 148
@@ -7102,10 +7144,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The group looks at the material that they have selected, drawn or written.",
-       "new": "The group looks at the material that they have selected, drawn or written.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "Whatever work is done by these departments has to be approved by the members of the legislative assembly.",
+       "new": "Whatever work is done by these departments has to be approved by the members of the legislative assembly.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 145,
        "new_pos": 149
@@ -7114,10 +7156,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They read each other’s writing and provide feedback to each other.",
-       "new": "They read each other’s writing and provide feedback to each other.",
-       "old_page": 33,
-       "new_page": 33,
+       "old": "In a democracy, people organise meetings to voice their opinions and protest against the government.",
+       "new": "In a democracy, people organise meetings to voice their opinions and protest against the government.",
+       "old_page": 32,
+       "new_page": 32,
        "words": [],
        "old_pos": 146,
        "new_pos": 150
@@ -7126,8 +7168,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They make decisions on what should be included and finalise the layout for the wallpaper.",
-       "new": "They make decisions on what should be included and finalise the layout for the wallpaper.",
+       "old": "Name of department Examples of their work School Education Public Works Department Agriculture A wallpaper project A wallpaper is an interesting activity through which research can be done on particular topics of interest.",
+       "new": "Name of department Examples of their work School Education Public Works Department Agriculture A wallpaper project A wallpaper is an interesting activity through which research can be done on particular topics of interest.",
        "old_page": 33,
        "new_page": 33,
        "words": [],
@@ -7138,13 +7180,109 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "The following photographs explain the different aspects involved in creating a wallpaper in a classroom.",
+       "new": "The following photographs explain the different aspects involved in creating a wallpaper in a classroom.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 148,
+       "new_pos": 152
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups.",
+       "new": "After introducing the topic and having a brief discussion with the whole class, the teacher divides the class into groups.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 149,
+       "new_pos": 153
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The group discusses the issue and decides what it would like to include in the wall-paper.",
+       "new": "The group discusses the issue and decides what it would like to include in the wall-paper.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 150,
+       "new_pos": 154
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Children then work individually or in pairs to read the collected material and write their observations or experiences.",
+       "new": "Children then work individually or in pairs to read the collected material and write their observations or experiences.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 151,
+       "new_pos": 155
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They can do this through creating stories, poems, case studies, interviews, etc.",
+       "new": "They can do this through creating stories, poems, case studies, interviews, etc.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 152,
+       "new_pos": 156
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The group looks at the material that they have selected, drawn or written.",
+       "new": "The group looks at the material that they have selected, drawn or written.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 153,
+       "new_pos": 157
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They read each other’s writing and provide feedback to each other.",
+       "new": "They read each other’s writing and provide feedback to each other.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 154,
+       "new_pos": 158
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They make decisions on what should be included and finalise the layout for the wallpaper.",
+       "new": "They make decisions on what should be included and finalise the layout for the wallpaper.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 155,
+       "new_pos": 159
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "Each group then presents the wallpaper to the entire class.",
        "new": "Each group then presents the wallpaper to the entire class.",
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 148,
-       "new_pos": 152
+       "old_pos": 156,
+       "new_pos": 160
       },
       {
        "type": "equal",
@@ -7155,8 +7293,8 @@
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 149,
-       "new_pos": 153
+       "old_pos": 157,
+       "new_pos": 161
       },
       {
        "type": "equal",
@@ -7167,8 +7305,8 @@
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 150,
-       "new_pos": 154
+       "old_pos": 158,
+       "new_pos": 162
       },
       {
        "type": "equal",
@@ -7179,8 +7317,8 @@
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 151,
-       "new_pos": 155
+       "old_pos": 159,
+       "new_pos": 163
       },
       {
        "type": "equal",
@@ -7191,8 +7329,8 @@
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 152,
-       "new_pos": 156
+       "old_pos": 160,
+       "new_pos": 164
       },
       {
        "type": "equal",
@@ -7203,8 +7341,8 @@
        "old_page": 34,
        "new_page": 34,
        "words": [],
-       "old_pos": 153,
-       "new_pos": 157
+       "old_pos": 161,
+       "new_pos": 165
       }
      ]
     },
@@ -7216,6 +7354,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 10,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7407,6 +7546,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7511,8 +7651,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to",
-       "new": "What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to",
+       "old": "What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to",
+       "new": "What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to",
        "old_page": 25,
        "new_page": 25,
        "words": [],
@@ -7745,6 +7885,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7879,6 +8020,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7892,6 +8034,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7990,6 +8133,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 7,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8181,6 +8325,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8194,6 +8339,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8226,8 +8372,8 @@
      {
       "page": 27,
       "new_page": 27,
-      "sentences": 27,
-      "score": 0.93,
+      "sentences": 34,
+      "score": 0.94,
       "suspect": false
      },
      {
@@ -8240,14 +8386,14 @@
      {
       "page": 29,
       "new_page": 29,
-      "sentences": 30,
+      "sentences": 22,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 30,
       "new_page": 30,
-      "sentences": 24,
+      "sentences": 33,
       "score": 1.0,
       "suspect": false
      },
@@ -8315,6 +8461,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8374,9 +8521,10 @@
       "deleted": 0,
       "inserted": 0,
       "modified": 0,
-      "moved": 0,
+      "moved": 1,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9465,8 +9613,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Haryana 23 30 ?",
-       "new": "Haryana 23 30 ?",
+       "old": "Haryana 23 30?",
+       "new": "Haryana 23 30?",
        "old_page": 44,
        "new_page": 44,
        "words": [],
@@ -9477,8 +9625,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "38 2 ?",
-       "new": "38 2 ?",
+       "old": "38 2?",
+       "new": "38 2?",
        "old_page": 44,
        "new_page": 44,
        "words": [],
@@ -9489,8 +9637,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Tamil Nadu 19 35 ?",
-       "new": "Tamil Nadu 19 35 ?",
+       "old": "Tamil Nadu 19 35?",
+       "new": "Tamil Nadu 19 35?",
        "old_page": 44,
        "new_page": 44,
        "words": [],
@@ -9501,8 +9649,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "40 4 ?",
-       "new": "40 4 ?",
+       "old": "40 4?",
+       "new": "40 4?",
        "old_page": 44,
        "new_page": 44,
        "words": [],
@@ -9642,7 +9790,7 @@
        "new_pos": 113
       },
       {
-       "type": "equal",
+       "type": "moved",
        "stream": "body",
        "similarity": 1.0,
        "old": "Children at an Anganwadi centre in a village in Madhya Pradesh.",
@@ -9650,19 +9798,19 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 111,
        "new_pos": 114
       },
       {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org This naturally has an impact on whether girls can attend school.",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org This naturally has an impact on whether girls can attend school.",
+       "old": "This naturally has an impact on whether girls can attend school.",
+       "new": "This naturally has an impact on whether girls can attend school.",
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 106,
+       "old_pos": 105,
        "new_pos": 115
       },
       {
@@ -9674,7 +9822,7 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 107,
+       "old_pos": 106,
        "new_pos": 116
       },
       {
@@ -9686,7 +9834,7 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 108,
+       "old_pos": 107,
        "new_pos": 117
       },
       {
@@ -9698,7 +9846,7 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 109,
+       "old_pos": 108,
        "new_pos": 118
       },
       {
@@ -9710,7 +9858,7 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 110,
+       "old_pos": 109,
        "new_pos": 119
       },
       {
@@ -9722,7 +9870,7 @@
        "old_page": 45,
        "new_page": 45,
        "words": [],
-       "old_pos": 111,
+       "old_pos": 110,
        "new_pos": 120
       }
      ]
@@ -9735,6 +9883,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 12,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9938,6 +10087,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10162,10 +10312,10 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "What do you think this poster is trying to say?",
-       "new": "What do you think this poster is trying to say?",
-       "old_page": 46,
-       "new_page": 46,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": 45,
+       "new_page": 45,
        "words": [],
        "old_pos": 18,
        "new_pos": 18
@@ -10174,8 +10324,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "This poster was created by a women’s group in Bengal.",
-       "new": "This poster was created by a women’s group in Bengal.",
+       "old": "What do you think this poster is trying to say?",
+       "new": "What do you think this poster is trying to say?",
        "old_page": 46,
        "new_page": 46,
        "words": [],
@@ -10186,13 +10336,25 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Can you write an interesting slogan for the poster?",
-       "new": "Can you write an interesting slogan for the poster?",
+       "old": "This poster was created by a women’s group in Bengal.",
+       "new": "This poster was created by a women’s group in Bengal.",
        "old_page": 46,
        "new_page": 46,
        "words": [],
        "old_pos": 20,
        "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Can you write an interesting slogan for the poster?",
+       "new": "Can you write an interesting slogan for the poster?",
+       "old_page": 46,
+       "new_page": 46,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 21
       }
      ]
     },
@@ -10204,6 +10366,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10518,6 +10681,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10531,6 +10695,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10590,6 +10755,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 21,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11000,6 +11166,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11013,6 +11180,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11393,7 +11561,7 @@
      {
       "page": 45,
       "new_page": 45,
-      "sentences": 7,
+      "sentences": 8,
       "score": 1.0,
       "suspect": false
      },
@@ -11433,6 +11601,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11459,6 +11628,7 @@
       "moved": 4,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13051,25 +13221,13 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [],
-       "old_pos": 132,
-       "new_pos": 138
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
        "old": "(7 years old and above) were literate (that is, they could at least write their names) compared to just 15 per cent of all girls and women.",
        "new": "(7 years old and above) were literate (that is, they could at least write their names) compared to just 15 per cent of all girls and women.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 133,
-       "new_pos": 139
+       "old_pos": 132,
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -13080,8 +13238,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 134,
-       "new_pos": 140
+       "old_pos": 133,
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -13092,8 +13250,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 135,
-       "new_pos": 141
+       "old_pos": 134,
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -13104,8 +13262,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 136,
-       "new_pos": 142
+       "old_pos": 135,
+       "new_pos": 141
       },
       {
        "type": "equal",
@@ -13116,8 +13274,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 137,
-       "new_pos": 143
+       "old_pos": 136,
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -13128,8 +13286,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 138,
-       "new_pos": 144
+       "old_pos": 137,
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -13140,8 +13298,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 139,
-       "new_pos": 145
+       "old_pos": 138,
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -13152,8 +13310,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 140,
-       "new_pos": 146
+       "old_pos": 139,
+       "new_pos": 145
       },
       {
        "type": "equal",
@@ -13164,8 +13322,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 141,
-       "new_pos": 147
+       "old_pos": 140,
+       "new_pos": 146
       },
       {
        "type": "equal",
@@ -13176,6 +13334,18 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
+       "old_pos": 141,
+       "new_pos": 147
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93",
+       "new": "Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93",
+       "old_page": 56,
+       "new_page": 56,
+       "words": [],
        "old_pos": 142,
        "new_pos": 148
       },
@@ -13183,8 +13353,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93 Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59 Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68 Source: Educational Statistics at a Glance, MHRD, 2018 You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’.",
-       "new": "Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93 Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59 Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68 Source: Educational Statistics at a Glance, MHRD, 2018 You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’.",
+       "old": "Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59",
+       "new": "Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13195,8 +13365,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school.",
-       "new": "This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school.",
+       "old": "Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68",
+       "new": "Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13207,8 +13377,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school.",
-       "new": "The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school.",
+       "old": "Source: Educational Statistics at a Glance, MHRD, 2018",
+       "new": "Source: Educational Statistics at a Glance, MHRD, 2018",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13219,8 +13389,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.",
-       "new": "While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.",
+       "old": "You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’.",
+       "new": "You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13231,8 +13401,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There are several reasons why children from Dalit, Adivasi and Muslim communities leave school.",
-       "new": "There are several reasons why children from Dalit, Adivasi and Muslim communities leave school.",
+       "old": "This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school.",
+       "new": "This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13243,8 +13413,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis.",
-       "new": "In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis.",
+       "old": "The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school.",
+       "new": "The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13255,8 +13425,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "If a school is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school.",
-       "new": "If a school is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school.",
+       "old": "While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.",
+       "new": "While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13267,8 +13437,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Many families are too poor and unable to bear the cost of educating all their children.",
-       "new": "Many families are too poor and unable to bear the cost of educating all their children.",
+       "old": "There are several reasons why children from Dalit, Adivasi and Muslim communities leave school.",
+       "new": "There are several reasons why children from Dalit, Adivasi and Muslim communities leave school.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13279,8 +13449,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Boys may get preference in this situation.",
-       "new": "Boys may get preference in this situation.",
+       "old": "In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis.",
+       "new": "In many parts of the country, especially in rural and poor areas, there may not even be proper schools nor teachers who teach on a regular basis.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13291,8 +13461,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Many children also leave school because they are discriminated against by their teacher and classmates.",
-       "new": "Many children also leave school because they are discriminated against by their teacher and classmates.",
+       "old": "If a school is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school.",
+       "new": "If a school is not close to people’s homes, and there is no transport like buses or vans, parents may not be willing to send their girls to school.",
        "old_page": 56,
        "new_page": 56,
        "words": [],
@@ -13303,10 +13473,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "10",
-       "new": "10",
-       "old_page": 57,
-       "new_page": 57,
+       "old": "Many families are too poor and unable to bear the cost of educating all their children.",
+       "new": "Many families are too poor and unable to bear the cost of educating all their children.",
+       "old_page": 56,
+       "new_page": 56,
        "words": [],
        "old_pos": 153,
        "new_pos": 159
@@ -13315,10 +13485,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "8",
-       "new": "8",
-       "old_page": 57,
-       "new_page": 57,
+       "old": "Boys may get preference in this situation.",
+       "new": "Boys may get preference in this situation.",
+       "old_page": 56,
+       "new_page": 56,
        "words": [],
        "old_pos": 154,
        "new_pos": 160
@@ -13327,10 +13497,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "6",
-       "new": "6",
-       "old_page": 57,
-       "new_page": 57,
+       "old": "Many children also leave school because they are discriminated against by their teacher and classmates.",
+       "new": "Many children also leave school because they are discriminated against by their teacher and classmates.",
+       "old_page": 56,
+       "new_page": 56,
        "words": [],
        "old_pos": 155,
        "new_pos": 161
@@ -13339,8 +13509,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "4",
-       "new": "4",
+       "old": "10",
+       "new": "10",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13351,8 +13521,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "All boys 4.36%",
-       "new": "All boys 4.36%",
+       "old": "8",
+       "new": "8",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13363,8 +13533,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "ST boys 7.02%",
-       "new": "ST boys 7.02%",
+       "old": "6",
+       "new": "6",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13375,8 +13545,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "2",
-       "new": "2",
+       "old": "4",
+       "new": "4",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13387,8 +13557,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "0",
-       "new": "0",
+       "old": "All boys 4.36%",
+       "new": "All boys 4.36%",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13399,8 +13569,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Women’s movement",
-       "new": "Women’s movement",
+       "old": "ST boys 7.02%",
+       "new": "ST boys 7.02%",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13411,8 +13581,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Women and girls now have the right to study and go to school.",
-       "new": "Women and girls now have the right to study and go to school.",
+       "old": "2",
+       "new": "2",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13423,8 +13593,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There are other spheres – like legal reform, violence and health – where the situation of women and girls has improved.",
-       "new": "There are other spheres – like legal reform, violence and health – where the situation of women and girls has improved.",
+       "old": "0",
+       "new": "0",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13435,8 +13605,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These changes have not happened automatically.",
-       "new": "These changes have not happened automatically.",
+       "old": "Women’s movement",
+       "new": "Women’s movement",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13447,8 +13617,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Women individually, and collectively have struggled to bring about these changes.",
-       "new": "Women individually, and collectively have struggled to bring about these changes.",
+       "old": "Women and girls now have the right to study and go to school.",
+       "new": "Women and girls now have the right to study and go to school.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13459,8 +13629,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This struggle is known as the Women’s Movement.",
-       "new": "This struggle is known as the Women’s Movement.",
+       "old": "There are other spheres – like legal reform, violence and health – where the situation of women and girls has improved.",
+       "new": "There are other spheres – like legal reform, violence and health – where the situation of women and girls has improved.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13471,8 +13641,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Individual women and women’s organisations from different parts of the country are part of the movement.",
-       "new": "Individual women and women’s organisations from different parts of the country are part of the movement.",
+       "old": "These changes have not happened automatically.",
+       "new": "These changes have not happened automatically.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13483,8 +13653,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Many men support the women’s movement as well.",
-       "new": "Many men support the women’s movement as well.",
+       "old": "Women individually, and collectively have struggled to bring about these changes.",
+       "new": "Women individually, and collectively have struggled to bring about these changes.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13495,8 +13665,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The diversity, passion and efforts of those involved makes it a very vibrant movement.",
-       "new": "The diversity, passion and efforts of those involved makes it a very vibrant movement.",
+       "old": "This struggle is known as the Women’s Movement.",
+       "new": "This struggle is known as the Women’s Movement.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13507,8 +13677,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Different strategies have been used to spread awareness, fight discrimination and seek justice.",
-       "new": "Different strategies have been used to spread awareness, fight discrimination and seek justice.",
+       "old": "Individual women and women’s organisations from different parts of the country are part of the movement.",
+       "new": "Individual women and women’s organisations from different parts of the country are part of the movement.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13519,8 +13689,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Here are some glimpses of this struggle.",
-       "new": "Here are some glimpses of this struggle.",
+       "old": "Many men support the women’s movement as well.",
+       "new": "Many men support the women’s movement as well.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13531,8 +13701,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Find out about the ‘Beti Bachao Beti Padhao’ campaign launched in 2014.",
-       "new": "Find out about the ‘Beti Bachao Beti Padhao’ campaign launched in 2014.",
+       "old": "The diversity, passion and efforts of those involved makes it a very vibrant movement.",
+       "new": "The diversity, passion and efforts of those involved makes it a very vibrant movement.",
        "old_page": 57,
        "new_page": 57,
        "words": [],
@@ -13543,10 +13713,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Campaigning",
-       "new": "Campaigning",
-       "old_page": 58,
-       "new_page": 58,
+       "old": "Different strategies have been used to spread awareness, fight discrimination and seek justice.",
+       "new": "Different strategies have been used to spread awareness, fight discrimination and seek justice.",
+       "old_page": 57,
+       "new_page": 57,
        "words": [],
        "old_pos": 173,
        "new_pos": 179
@@ -13555,10 +13725,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Campaigns to fight discrimination and violence against women are an important part of the women’s movement.",
-       "new": "Campaigns to fight discrimination and violence against women are an important part of the women’s movement.",
-       "old_page": 58,
-       "new_page": 58,
+       "old": "Here are some glimpses of this struggle.",
+       "new": "Here are some glimpses of this struggle.",
+       "old_page": 57,
+       "new_page": 57,
        "words": [],
        "old_pos": 174,
        "new_pos": 180
@@ -13567,10 +13737,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Campaigns have also led to new laws being passed.",
-       "new": "Campaigns have also led to new laws being passed.",
-       "old_page": 58,
-       "new_page": 58,
+       "old": "Find out about the ‘Beti Bachao Beti Padhao’ campaign launched in 2014.",
+       "new": "Find out about the ‘Beti Bachao Beti Padhao’ campaign launched in 2014.",
+       "old_page": 57,
+       "new_page": 57,
        "words": [],
        "old_pos": 175,
        "new_pos": 181
@@ -13579,8 +13749,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A law was made in 2006 to give women who face physical and mental violence within their homes, also called domestic violence, some legal protection.",
-       "new": "A law was made in 2006 to give women who face physical and mental violence within their homes, also called domestic violence, some legal protection.",
+       "old": "Campaigning",
+       "new": "Campaigning",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13591,8 +13761,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.",
-       "new": "Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.",
+       "old": "Campaigns to fight discrimination and violence against women are an important part of the women’s movement.",
+       "new": "Campaigns to fight discrimination and violence against women are an important part of the women’s movement.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13603,8 +13773,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry.",
-       "new": "In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry.",
+       "old": "Campaigns have also led to new laws being passed.",
+       "new": "Campaigns have also led to new laws being passed.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13615,8 +13785,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Women’s groups spoke out against the failure to bring these cases to justice.",
-       "new": "Women’s groups spoke out against the failure to bring these cases to justice.",
+       "old": "A law was made in 2006 to give women who face physical and mental violence within their homes, also called domestic violence, some legal protection.",
+       "new": "A law was made in 2006 to give women who face physical and mental violence within their homes, also called domestic violence, some legal protection.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13627,8 +13797,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They did so by coming on to the streets, approaching the courts, and by sharing information.",
-       "new": "They did so by coming on to the streets, approaching the courts, and by sharing information.",
+       "old": "Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.",
+       "new": "Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13639,8 +13809,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.",
-       "new": "Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.",
+       "old": "In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry.",
+       "new": "In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13651,8 +13821,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Satyarani, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.",
-       "new": "Satyarani, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.",
+       "old": "Women’s groups spoke out against the failure to bring these cases to justice.",
+       "new": "Women’s groups spoke out against the failure to bring these cases to justice.",
        "old_page": 58,
        "new_page": 58,
        "words": [],
@@ -13663,10 +13833,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Raising Awareness",
-       "new": "Raising Awareness",
-       "old_page": 59,
-       "new_page": 59,
+       "old": "They did so by coming on to the streets, approaching the courts, and by sharing information.",
+       "new": "They did so by coming on to the streets, approaching the courts, and by sharing information.",
+       "old_page": 58,
+       "new_page": 58,
        "words": [],
        "old_pos": 183,
        "new_pos": 189
@@ -13675,10 +13845,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "An important part of the women’s movements’ work is to raise public awareness on women’s rights issues.",
-       "new": "An important part of the women’s movements’ work is to raise public awareness on women’s rights issues.",
-       "old_page": 59,
-       "new_page": 59,
+       "old": "Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.",
+       "new": "Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.",
+       "old_page": 58,
+       "new_page": 58,
        "words": [],
        "old_pos": 184,
        "new_pos": 190
@@ -13687,10 +13857,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Their message has been spread through street plays, songs and public meetings.",
-       "new": "Their message has been spread through street plays, songs and public meetings.",
-       "old_page": 59,
-       "new_page": 59,
+       "old": "Satyarani, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.",
+       "new": "Satyarani, an active member of the women’s movement, sitting on the steps of the Supreme Court surrounded by legal files gathered during the course of a long legal battle to seek justice for her daughter who was murdered for dowry.",
+       "old_page": 58,
+       "new_page": 58,
        "words": [],
        "old_pos": 185,
        "new_pos": 191
@@ -13699,8 +13869,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Protesting",
-       "new": "Protesting",
+       "old": "Raising Awareness",
+       "new": "Raising Awareness",
        "old_page": 59,
        "new_page": 59,
        "words": [],
@@ -13711,8 +13881,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The women’s movement raises its voice when violations against women take place or for example, when a law or policy acts against their interests.",
-       "new": "The women’s movement raises its voice when violations against women take place or for example, when a law or policy acts against their interests.",
+       "old": "An important part of the women’s movements’ work is to raise public awareness on women’s rights issues.",
+       "new": "An important part of the women’s movements’ work is to raise public awareness on women’s rights issues.",
        "old_page": 59,
        "new_page": 59,
        "words": [],
@@ -13723,8 +13893,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Public rallies and demonstrations are a very powerful way of drawing attention to injustices.",
-       "new": "Public rallies and demonstrations are a very powerful way of drawing attention to injustices.",
+       "old": "Their message has been spread through street plays, songs and public meetings.",
+       "new": "Their message has been spread through street plays, songs and public meetings.",
        "old_page": 59,
        "new_page": 59,
        "words": [],
@@ -13735,10 +13905,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Showing Solidarity",
-       "new": "Showing Solidarity",
-       "old_page": 60,
-       "new_page": 60,
+       "old": "Protesting",
+       "new": "Protesting",
+       "old_page": 59,
+       "new_page": 59,
        "words": [],
        "old_pos": 189,
        "new_pos": 195
@@ -13747,10 +13917,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The women’s movement is also about showing solidarity with other women and causes.",
-       "new": "The women’s movement is also about showing solidarity with other women and causes.",
-       "old_page": 60,
-       "new_page": 60,
+       "old": "The women’s movement raises its voice when violations against women take place or for example, when a law or policy acts against their interests.",
+       "new": "The women’s movement raises its voice when violations against women take place or for example, when a law or policy acts against their interests.",
+       "old_page": 59,
+       "new_page": 59,
        "words": [],
        "old_pos": 190,
        "new_pos": 196
@@ -13759,10 +13929,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Below: On 8 March, International Women’s Day, women all over the world come together to celebrate and renew their struggles.",
-       "new": "Below: On 8 March, International Women’s Day, women all over the world come together to celebrate and renew their struggles.",
-       "old_page": 60,
-       "new_page": 60,
+       "old": "Public rallies and demonstrations are a very powerful way of drawing attention to injustices.",
+       "new": "Public rallies and demonstrations are a very powerful way of drawing attention to injustices.",
+       "old_page": 59,
+       "new_page": 59,
        "words": [],
        "old_pos": 191,
        "new_pos": 197
@@ -13771,8 +13941,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan.",
-       "new": "Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan.",
+       "old": "Showing Solidarity",
+       "new": "Showing Solidarity",
        "old_page": 60,
        "new_page": 60,
        "words": [],
@@ -13783,13 +13953,49 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.",
-       "new": "Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.",
+       "old": "The women’s movement is also about showing solidarity with other women and causes.",
+       "new": "The women’s movement is also about showing solidarity with other women and causes.",
        "old_page": 60,
        "new_page": 60,
        "words": [],
        "old_pos": 193,
        "new_pos": 199
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Below: On 8 March, International Women’s Day, women all over the world come together to celebrate and renew their struggles.",
+       "new": "Below: On 8 March, International Women’s Day, women all over the world come together to celebrate and renew their struggles.",
+       "old_page": 60,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 194,
+       "new_pos": 200
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan.",
+       "new": "Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan.",
+       "old_page": 60,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 195,
+       "new_pos": 201
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.",
+       "new": "Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.",
+       "old_page": 60,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 196,
+       "new_pos": 202
       }
      ]
     },
@@ -13801,6 +14007,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 18,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14064,6 +14271,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14187,6 +14395,18 @@
        "words": [],
        "old_pos": 9,
        "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 17
       }
      ]
     },
@@ -14198,6 +14418,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14272,6 +14493,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14285,6 +14507,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14323,6 +14546,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 6,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14559,6 +14783,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14572,6 +14797,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14639,7 +14865,7 @@
      {
       "page": 56,
       "new_page": 56,
-      "sentences": 23,
+      "sentences": 27,
       "score": 1.0,
       "suspect": false
      },
@@ -14707,6 +14933,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14781,6 +15008,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -15460,7 +15688,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "News of India Report Crackdown on pol Protestors block roads and disrupt traffic luting factories Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.",
+       "new": "News of India Report Crackdown on pol Protestors block roads and disrupt traffic cutting factories Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.",
        "old_page": null,
        "new_page": 68,
        "words": [],
@@ -16425,6 +16653,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 21,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16859,6 +17088,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16933,6 +17163,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16959,6 +17190,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16972,6 +17204,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17058,6 +17291,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 22,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17498,6 +17732,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17511,6 +17746,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17782,6 +18018,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17841,9 +18078,10 @@
       "deleted": 0,
       "inserted": 1,
       "modified": 0,
-      "moved": 0,
+      "moved": 1,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19433,7 +19671,7 @@
        "new_pos": 135
       },
       {
-       "type": "equal",
+       "type": "moved",
        "stream": "body",
        "similarity": 1.0,
        "old": "Malls, like the one above, sell expensive and branded goods.",
@@ -19441,19 +19679,19 @@
        "old_page": 84,
        "new_page": 84,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 135,
        "new_pos": 136
       },
       {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org this chain that what is produced in one place reaches people everywhere.",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org this chain that what is produced in one place reaches people everywhere.",
+       "old": "this chain that what is produced in one place reaches people everywhere.",
+       "new": "this chain that what is produced in one place reaches people everywhere.",
        "old_page": 84,
        "new_page": 84,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 131,
        "new_pos": 137
       },
       {
@@ -19465,7 +19703,7 @@
        "old_page": 84,
        "new_page": 84,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 132,
        "new_pos": 138
       },
       {
@@ -19477,7 +19715,7 @@
        "old_page": 84,
        "new_page": 84,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 133,
        "new_pos": 139
       },
       {
@@ -19489,7 +19727,7 @@
        "old_page": 84,
        "new_page": 84,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 134,
        "new_pos": 140
       }
      ]
@@ -19502,6 +19740,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 10,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19882,6 +20121,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19933,6 +20173,18 @@
        "words": [],
        "old_pos": 3,
        "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": 84,
+       "new_page": 84,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
       }
      ]
     },
@@ -19944,6 +20196,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19982,6 +20235,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19995,6 +20249,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20174,6 +20429,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 5,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20359,6 +20615,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20372,6 +20629,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20656,7 +20914,7 @@
      {
       "page": 84,
       "new_page": 84,
-      "sentences": 5,
+      "sentences": 6,
       "score": 1.0,
       "suspect": false
      },
@@ -20685,7 +20943,7 @@
     "title": "A Shirt in the Market",
     "file": "texts/social-political-life-2/2024-05-24/08-a-shirt-in-the-market.md"
    },
-   "similarity": 0.964,
+   "similarity": 0.951,
    "status": "matched",
    "streams": {
     "heading": {
@@ -20696,6 +20954,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20836,12 +21095,13 @@
     },
     "body": {
      "counts": {
-      "deleted": 0,
-      "inserted": 0,
-      "modified": 0,
+      "deleted": 1,
+      "inserted": 1,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22122,8 +22382,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Tailoring .......................................................` 3,000 Ironing..........................................................` 1.50 (per piece)",
-       "new": "Tailoring .......................................................` 3,000 Ironing..........................................................` 1.50 (per piece)",
+       "old": "Tailoring .......................................................` 3,000",
+       "new": "Tailoring .......................................................` 3,000",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22134,8 +22394,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Checking .....................................................` 2,000 Thread cutting and buttoning.............................................` 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.",
-       "new": "Checking .....................................................` 2,000 Thread cutting and buttoning.............................................` 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.",
+       "old": "Ironing..........................................................` 1.50 (per piece)",
+       "new": "Ironing..........................................................` 1.50 (per piece)",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22146,8 +22406,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Use the diagram shown in the margin to fill in the blanks below.",
-       "new": "Use the diagram shown in the margin to fill in the blanks below.",
+       "old": "Checking .....................................................` 2,000",
+       "new": "Checking .....................................................` 2,000",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22158,8 +22418,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The businessperson purchased the shirts from the garment exporter in Delhi for ` _______ per shirt.",
-       "new": "The businessperson purchased the shirts from the garment exporter in Delhi for ` _______ per shirt.",
+       "old": "Thread cutting and buttoning.............................................` 1,500",
+       "new": "Thread cutting and buttoning.............................................` 1,500",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22170,8 +22430,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "He then spent ` _______ for advertising in the media, and another ` _______ per shirt on storage, display and all other charges.",
-       "new": "He then spent ` _______ for advertising in the media, and another ` _______ per shirt on storage, display and all other charges.",
+       "old": "The shirt in the United States",
+       "new": "The shirt in the United States",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22182,8 +22442,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Thus, the cost to this person is ` 900 while he sells the shirt for ` 1,800. ` __________ is his profit on one shirt!",
-       "new": "Thus, the cost to this person is ` 900 while he sells the shirt for ` 1,800. ` __________ is his profit on one shirt!",
+       "old": "A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.",
+       "new": "A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22194,8 +22454,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "If he is able to sell a large number of shirts, his profit will be higher.",
-       "new": "If he is able to sell a large number of shirts, his profit will be higher.",
+       "old": "Use the diagram shown in the margin to fill in the blanks below.",
+       "new": "Use the diagram shown in the margin to fill in the blanks below.",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22206,8 +22466,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The garment exporter sold the shirt at ` 300 per piece.",
-       "new": "The garment exporter sold the shirt at ` 300 per piece.",
+       "old": "The businessperson purchased the shirts from the garment exporter in Delhi for ` _______ per shirt.",
+       "new": "The businessperson purchased the shirts from the garment exporter in Delhi for ` _______ per shirt.",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22218,8 +22478,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The cloth and other raw materials cost him ` 100 per shirt.",
-       "new": "The cloth and other raw materials cost him ` 100 per shirt.",
+       "old": "He then spent ` _______ for advertising in the media, and another ` _______ per shirt on storage, display and all other charges.",
+       "new": "He then spent ` _______ for advertising in the media, and another ` _______ per shirt on storage, display and all other charges.",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22230,8 +22490,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The workers’ wages cost another",
-       "new": "The workers’ wages cost another",
+       "old": "Thus, the cost to this person is ` 900 while he sells the shirt for ` 1,800. ` __________ is his profit on one shirt!",
+       "new": "Thus, the cost to this person is ` 900 while he sells the shirt for ` 1,800. ` __________ is his profit on one shirt!",
        "old_page": 92,
        "new_page": 92,
        "words": [],
@@ -22242,10 +22502,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "` 25 per shirt.",
-       "new": "` 25 per shirt.",
-       "old_page": 93,
-       "new_page": 93,
+       "old": "If he is able to sell a large number of shirts, his profit will be higher.",
+       "new": "If he is able to sell a large number of shirts, his profit will be higher.",
+       "old_page": 92,
+       "new_page": 92,
        "words": [],
        "old_pos": 116,
        "new_pos": 123
@@ -22254,10 +22514,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The cost of running his office came to ` 25 per shirt.",
-       "new": "The cost of running his office came to ` 25 per shirt.",
-       "old_page": 93,
-       "new_page": 93,
+       "old": "The garment exporter sold the shirt at ` 300 per piece.",
+       "new": "The garment exporter sold the shirt at ` 300 per piece.",
+       "old_page": 92,
+       "new_page": 92,
        "words": [],
        "old_pos": 117,
        "new_pos": 124
@@ -22266,10 +22526,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Can you calculate the profit per shirt for the garment exporter?",
-       "new": "Can you calculate the profit per shirt for the garment exporter?",
-       "old_page": 93,
-       "new_page": 93,
+       "old": "The cloth and other raw materials cost him ` 100 per shirt.",
+       "new": "The cloth and other raw materials cost him ` 100 per shirt.",
+       "old_page": 92,
+       "new_page": 92,
        "words": [],
        "old_pos": 118,
        "new_pos": 125
@@ -22278,20 +22538,73 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Who are the gainers in the market?",
-       "new": "Who are the gainers in the market?",
-       "old_page": 93,
-       "new_page": 93,
+       "old": "The workers’ wages cost another",
+       "new": "The workers’ wages cost another",
+       "old_page": 92,
+       "new_page": 92,
        "words": [],
        "old_pos": 119,
        "new_pos": 126
       },
       {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.651,
+       "old": "On the other hand, it is usually the rich and the powerful that get the maximum earnings from the market.",
+       "new": "On the other hand, it is usually the rich and the powerful Did you know that the readymade clothes that you buy require the work of so many different persons?",
+       "old_page": 93,
+       "new_page": 93,
+       "words": [
+        [
+         "=",
+         "On the other hand, it is usually the rich and the powerful"
+        ],
+        [
+         "+",
+         "Did you know"
+        ],
+        [
+         "=",
+         "that"
+        ],
+        [
+         "-",
+         "get"
+        ],
+        [
+         "=",
+         "the"
+        ],
+        [
+         "-",
+         "maximum earnings from"
+        ],
+        [
+         "+",
+         "readymade clothes that you buy require"
+        ],
+        [
+         "=",
+         "the"
+        ],
+        [
+         "-",
+         "market."
+        ],
+        [
+         "+",
+         "work of so many different persons?"
+        ]
+       ],
+       "old_pos": 144,
+       "new_pos": 151
+      },
+      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A chain of markets links the producer of cotton to the buyer at the supermarket.",
-       "new": "A chain of markets links the producer of cotton to the buyer at the supermarket.",
+       "old": "` 25 per shirt.",
+       "new": "` 25 per shirt.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22302,8 +22615,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Buying and selling takes place at every step in the chain.",
-       "new": "Buying and selling takes place at every step in the chain.",
+       "old": "The cost of running his office came to ` 25 per shirt.",
+       "new": "The cost of running his office came to ` 25 per shirt.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22314,8 +22627,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Let us recall who were the people who were involved in this process of buying and selling.",
-       "new": "Let us recall who were the people who were involved in this process of buying and selling.",
+       "old": "Can you calculate the profit per shirt for the garment exporter?",
+       "new": "Can you calculate the profit per shirt for the garment exporter?",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22326,8 +22639,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Did they all gain as much?",
-       "new": "Did they all gain as much?",
+       "old": "Who are the gainers in the market?",
+       "new": "Who are the gainers in the market?",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22338,8 +22651,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There were people who made profits in the market and there were some who did not gain as much from this buying and selling.",
-       "new": "There were people who made profits in the market and there were some who did not gain as much from this buying and selling.",
+       "old": "A chain of markets links the producer of cotton to the buyer at the supermarket.",
+       "new": "A chain of markets links the producer of cotton to the buyer at the supermarket.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22350,8 +22663,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Despite their having toiled very hard, they earned little.",
-       "new": "Despite their having toiled very hard, they earned little.",
+       "old": "Buying and selling takes place at every step in the chain.",
+       "new": "Buying and selling takes place at every step in the chain.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22362,8 +22675,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Can you place them in the table shown here?",
-       "new": "Can you place them in the table shown here?",
+       "old": "Let us recall who were the people who were involved in this process of buying and selling.",
+       "new": "Let us recall who were the people who were involved in this process of buying and selling.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22374,8 +22687,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Market and equality",
-       "new": "Market and equality",
+       "old": "Did they all gain as much?",
+       "new": "Did they all gain as much?",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22386,8 +22699,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The foreign businessperson made huge profits in the market.",
-       "new": "The foreign businessperson made huge profits in the market.",
+       "old": "There were people who made profits in the market and there were some who did not gain as much from this buying and selling.",
+       "new": "There were people who made profits in the market and there were some who did not gain as much from this buying and selling.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22398,8 +22711,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Compared to this, the garment exporter made only moderate profits.",
-       "new": "Compared to this, the garment exporter made only moderate profits.",
+       "old": "Despite their having toiled very hard, they earned little.",
+       "new": "Despite their having toiled very hard, they earned little.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22410,8 +22723,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs.",
-       "new": "On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs.",
+       "old": "Can you place them in the table shown here?",
+       "new": "Can you place them in the table shown here?",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22422,8 +22735,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work.",
-       "new": "Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work.",
+       "old": "Market and equality",
+       "new": "Market and equality",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22434,8 +22747,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "But they did not get a fair price in the market for what they produced.",
-       "new": "But they did not get a fair price in the market for what they produced.",
+       "old": "The foreign businessperson made huge profits in the market.",
+       "new": "The foreign businessperson made huge profits in the market.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22446,8 +22759,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The merchants or traders are somewhere in between.",
-       "new": "The merchants or traders are somewhere in between.",
+       "old": "Compared to this, the garment exporter made only moderate profits.",
+       "new": "Compared to this, the garment exporter made only moderate profits.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22458,8 +22771,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Compared to the weavers, they have earned more but it is still much less than the exporter.",
-       "new": "Compared to the weavers, they have earned more but it is still much less than the exporter.",
+       "old": "On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs.",
+       "new": "On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22470,8 +22783,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Thus, not everyone gains equally in the market.",
-       "new": "Thus, not everyone gains equally in the market.",
+       "old": "Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work.",
+       "new": "Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22482,8 +22795,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Democracy is also about getting a fair wage in the market.",
-       "new": "Democracy is also about getting a fair wage in the market.",
+       "old": "But they did not get a fair price in the market for what they produced.",
+       "new": "But they did not get a fair price in the market for what they produced.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22494,8 +22807,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?",
-       "new": "Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?",
+       "old": "The merchants or traders are somewhere in between.",
+       "new": "The merchants or traders are somewhere in between.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22506,8 +22819,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce.",
-       "new": "On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce.",
+       "old": "Compared to the weavers, they have earned more but it is still much less than the exporter.",
+       "new": "Compared to the weavers, they have earned more but it is still much less than the exporter.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22518,8 +22831,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "It could be the farmer selling cotton or the weaver producing cloth.",
-       "new": "It could be the farmer selling cotton or the weaver producing cloth.",
+       "old": "Thus, not everyone gains equally in the market.",
+       "new": "Thus, not everyone gains equally in the market.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22530,8 +22843,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "On the other hand, it is usually the rich and the powerful Did you know that the readymade clothes that you buy require the work of so many different persons?",
-       "new": "On the other hand, it is usually the rich and the powerful Did you know that the readymade clothes that you buy require the work of so many different persons?",
+       "old": "Democracy is also about getting a fair wage in the market.",
+       "new": "Democracy is also about getting a fair wage in the market.",
        "old_page": 93,
        "new_page": 93,
        "words": [],
@@ -22542,10 +22855,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings from the market.",
-       "new": "Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings from the market.",
-       "old_page": 94,
-       "new_page": 94,
+       "old": "Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?",
+       "new": "Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?",
+       "old_page": 93,
+       "new_page": 93,
        "words": [],
        "old_pos": 141,
        "new_pos": 148
@@ -22554,10 +22867,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These are the people who have money and own the factories, the large shops, large land holdings, etc.",
-       "new": "These are the people who have money and own the factories, the large shops, large land holdings, etc.",
-       "old_page": 94,
-       "new_page": 94,
+       "old": "On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce.",
+       "new": "On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce.",
+       "old_page": 93,
+       "new_page": 93,
        "words": [],
        "old_pos": 142,
        "new_pos": 149
@@ -22566,10 +22879,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The poor have to depend on the rich and the powerful for various things.",
-       "new": "The poor have to depend on the rich and the powerful for various things.",
-       "old_page": 94,
-       "new_page": 94,
+       "old": "It could be the farmer selling cotton or the weaver producing cloth.",
+       "new": "It could be the farmer selling cotton or the weaver producing cloth.",
+       "old_page": 93,
+       "new_page": 93,
        "words": [],
        "old_pos": 143,
        "new_pos": 150
@@ -22578,13 +22891,37 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory).",
-       "new": "They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory).",
-       "old_page": 94,
+       "old": "These are the people who have money and own the factories, the large shops, large land holdings, etc.",
+       "new": "These are the people who have money and own the factories, the large shops, large land holdings, etc.",
+       "old_page": 93,
        "new_page": 94,
        "words": [],
-       "old_pos": 144,
-       "new_pos": 151
+       "old_pos": 145,
+       "new_pos": 153
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The poor have to depend on the rich and the powerful for various things.",
+       "new": "The poor have to depend on the rich and the powerful for various things.",
+       "old_page": 93,
+       "new_page": 94,
+       "words": [],
+       "old_pos": 146,
+       "new_pos": 154
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory).",
+       "new": "They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory).",
+       "old_page": 93,
+       "new_page": 94,
+       "words": [],
+       "old_pos": 147,
+       "new_pos": 155
       },
       {
        "type": "equal",
@@ -22592,11 +22929,11 @@
        "similarity": 1.0,
        "old": "Because of this dependence, the poor are exploited in the market.",
        "new": "Because of this dependence, the poor are exploited in the market.",
-       "old_page": 94,
+       "old_page": 93,
        "new_page": 94,
        "words": [],
-       "old_pos": 145,
-       "new_pos": 152
+       "old_pos": 148,
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -22604,11 +22941,35 @@
        "similarity": 1.0,
        "old": "There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.",
        "new": "There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.",
-       "old_page": 94,
+       "old_page": 93,
        "new_page": 94,
        "words": [],
-       "old_pos": 146,
-       "new_pos": 153
+       "old_pos": 149,
+       "new_pos": 157
+      },
+      {
+       "type": "deleted",
+       "stream": "body",
+       "similarity": null,
+       "old": "Did you know that the readymade clothes that you buy require the work of so many different persons?",
+       "new": null,
+       "old_page": 94,
+       "new_page": null,
+       "words": [],
+       "old_pos": 150,
+       "new_pos": null
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "that get the maximum earnings from the market.",
+       "old_page": null,
+       "new_page": 94,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 152
       },
       {
        "type": "restreamed",
@@ -22619,7 +22980,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 151,
        "new_pos": 1
       },
       {
@@ -22631,7 +22992,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 152,
        "new_pos": 2
       },
       {
@@ -22643,7 +23004,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 153,
        "new_pos": 3
       },
       {
@@ -22655,7 +23016,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 154,
        "new_pos": 4
       },
       {
@@ -22667,7 +23028,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 151,
+       "old_pos": 155,
        "new_pos": 5
       },
       {
@@ -22679,7 +23040,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 152,
+       "old_pos": 156,
        "new_pos": 6
       },
       {
@@ -22691,7 +23052,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 153,
+       "old_pos": 157,
        "new_pos": 7
       },
       {
@@ -22703,7 +23064,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 154,
+       "old_pos": 158,
        "new_pos": 8
       },
       {
@@ -22715,7 +23076,7 @@
        "old_page": 95,
        "new_page": 95,
        "words": [],
-       "old_pos": 155,
+       "old_pos": 159,
        "new_pos": 9
       }
      ]
@@ -22728,6 +23089,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 15,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23237,6 +23599,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23372,6 +23735,18 @@
        "words": [],
        "old_pos": 10,
        "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "new": "Sustainable Development Goal (SDG) www.in.undp.org",
+       "old_page": 94,
+       "new_page": 94,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 20
       }
      ]
     },
@@ -23379,10 +23754,11 @@
      "counts": {
       "deleted": 1,
       "inserted": 1,
-      "modified": 5,
+      "modified": 4,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 0,
+      "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23412,31 +23788,14 @@
        "new_pos": 4
       },
       {
-       "type": "modified",
+       "type": "restreamed",
        "stream": "table>caption",
-       "similarity": 0.984,
+       "similarity": 1.0,
        "old": "2. Ginning mill buys the cotton.",
-       "new": "2. Ginning mil buys the cotton.",
+       "new": "2. Ginning mill buys the cotton.",
        "old_page": 87,
        "new_page": 87,
-       "words": [
-        [
-         "=",
-         "2. Ginning"
-        ],
-        [
-         "-",
-         "mill"
-        ],
-        [
-         "+",
-         "mil"
-        ],
-        [
-         "=",
-         "buys the cotton."
-        ]
-       ],
+       "words": [],
        "old_pos": 1,
        "new_pos": 5
       },
@@ -23468,9 +23827,9 @@
       {
        "type": "modified",
        "stream": "table>caption",
-       "similarity": 0.878,
+       "similarity": 0.889,
        "old": "1. Trader sells the cotton at the Kurnool cotton market.",
-       "new": "rader sells the cotton at the cotton market.",
+       "new": "trader sells the cotton at the cotton market.",
        "old_page": 87,
        "new_page": 87,
        "words": [
@@ -23480,7 +23839,7 @@
         ],
         [
          "+",
-         "rader"
+         "trader"
         ],
         [
          "=",
@@ -23501,23 +23860,23 @@
       {
        "type": "modified",
        "stream": "table>caption",
-       "similarity": 0.846,
+       "similarity": 0.844,
        "old": "3. Ginning mill removes the seeds and presses the cotton into bales.",
-       "new": "3. Ginking fri the seeisand presses the cottn into bales.",
+       "new": "3. Ginning fruit the seeisand pressures the cotton into bales.",
        "old_page": 87,
        "new_page": 87,
        "words": [
         [
          "=",
-         "3."
+         "3. Ginning"
         ],
         [
          "-",
-         "Ginning mill removes"
+         "mill removes"
         ],
         [
          "+",
-         "Ginking fri"
+         "fruit"
         ],
         [
          "=",
@@ -23525,27 +23884,15 @@
         ],
         [
          "-",
-         "seeds and"
+         "seeds and presses"
         ],
         [
          "+",
-         "seeisand"
+         "seeisand pressures"
         ],
         [
          "=",
-         "presses the"
-        ],
-        [
-         "-",
-         "cotton"
-        ],
-        [
-         "+",
-         "cottn"
-        ],
-        [
-         "=",
-         "into bales."
+         "the cotton into bales."
         ]
        ],
        "old_pos": 2,
@@ -23554,9 +23901,9 @@
       {
        "type": "modified",
        "stream": "table>caption",
-       "similarity": 0.766,
+       "similarity": 0.743,
        "old": "5. Spinning mill spins the cotton into yarn.",
-       "new": "“5. Spinning fmilll spins the cotton into mill sells the dealers.",
+       "new": "“5. Spinning fill signs the cotton into mill sells the dealers.",
        "old_page": 87,
        "new_page": 87,
        "words": [
@@ -23574,15 +23921,15 @@
         ],
         [
          "-",
-         "mill"
+         "mill spins"
         ],
         [
          "+",
-         "fmilll"
+         "fill signs"
         ],
         [
          "=",
-         "spins the cotton into"
+         "the cotton into"
         ],
         [
          "-",
@@ -23606,6 +23953,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23619,6 +23967,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23765,6 +24114,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23845,81 +24195,40 @@
     },
     "references": {
      "counts": {
-      "deleted": 3,
+      "deleted": 0,
       "inserted": 2,
-      "modified": 3,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 1
      },
      "hunks": [
       {
-       "type": "deleted",
+       "type": "resplit",
        "stream": "references",
-       "similarity": null,
-       "old": "http://www.who.int/medicines/services/inn/en/",
-       "new": null,
-       "old_page": 96,
-       "new_page": null,
-       "words": [],
-       "old_pos": 34,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "references",
-       "similarity": null,
-       "old": "India.",
-       "new": null,
-       "old_page": 96,
-       "new_page": null,
-       "words": [],
-       "old_pos": 40,
-       "new_pos": null
-      },
-      {
-       "type": "modified",
-       "stream": "references",
-       "similarity": 0.95,
-       "old": "Poster Women: A Visual History of the Women’s Movement in",
-       "new": "Poster Women: A Visual History of the Women’s Movement in India.",
-       "old_page": 96,
-       "new_page": 96,
-       "words": [
-        [
-         "=",
-         "Poster Women: A Visual History of the Women’s Movement in"
-        ],
-        [
-         "+",
-         "India."
-        ]
-       ],
-       "old_pos": 39,
-       "new_pos": 38
-      },
-      {
-       "type": "modified",
-       "stream": "references",
-       "similarity": 0.737,
-       "old": "World Health Organization, Essential medicines and health products,",
+       "similarity": 1.0,
+       "old": "World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/",
        "new": "World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/",
        "old_page": 96,
        "new_page": 96,
-       "words": [
-        [
-         "=",
-         "World Health Organization, Essential medicines and health products,"
-        ],
-        [
-         "+",
-         "http://www.who.int/medicines/services/inn/en/"
-        ]
-       ],
+       "words": [],
        "old_pos": 33,
        "new_pos": 33
+      },
+      {
+       "type": "resplit",
+       "stream": "references",
+       "similarity": 1.0,
+       "old": "Poster Women: A Visual History of the Women’s Movement in India.",
+       "new": "Poster Women: A Visual History of the Women’s Movement in India.",
+       "old_page": 96,
+       "new_page": 96,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 38
       },
       {
        "type": "equal",
@@ -24503,18 +24812,6 @@
        "new_pos": 40
       },
       {
-       "type": "deleted",
-       "stream": "references",
-       "similarity": null,
-       "old": "Have you participated in any event related to school road safety?",
-       "new": null,
-       "old_page": 98,
-       "new_page": null,
-       "words": [],
-       "old_pos": 50,
-       "new_pos": null
-      },
-      {
        "type": "modified",
        "stream": "references",
        "similarity": 0.998,
@@ -24541,7 +24838,7 @@
         ]
        ],
        "old_pos": 51,
-       "new_pos": 50
+       "new_pos": 51
       },
       {
        "type": "inserted",
@@ -24560,12 +24857,24 @@
        "stream": "references",
        "similarity": null,
        "old": null,
-       "new": "Follow us on: {yh} nttps:/Atwitter.com/dtptrattic —_F} https://www.facebook.com/dtptraftic 24 Hours Traffic Helpline : 011-25844444, 1095 Have you participated in any event related to school road safety?",
+       "new": "Follow us on: {yh} nttps:/Atwitter.com/dtptrattic —_F} https://www.facebook.com/dtptraftic 24 Hours Traffic Helpline : 011-25844444, 1095",
        "old_page": null,
        "new_page": 98,
        "words": [],
        "old_pos": null,
        "new_pos": 49
+      },
+      {
+       "type": "equal",
+       "stream": "references",
+       "similarity": 1.0,
+       "old": "Have you participated in any event related to school road safety?",
+       "new": "Have you participated in any event related to school road safety?",
+       "old_page": 98,
+       "new_page": 98,
+       "words": [],
+       "old_pos": 50,
+       "new_pos": 50
       }
      ]
     },
@@ -24577,6 +24886,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24630,21 +24940,14 @@
      {
       "page": 92,
       "new_page": 92,
-      "sentences": 28,
+      "sentences": 32,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 93,
       "new_page": 93,
-      "sentences": 39,
-      "score": 1.0,
-      "suspect": false
-     },
-     {
-      "page": 94,
-      "new_page": 94,
-      "sentences": 6,
+      "sentences": 44,
       "score": 1.0,
       "suspect": false
      },
@@ -24658,8 +24961,8 @@
      {
       "page": 96,
       "new_page": 96,
-      "sentences": 43,
-      "score": 0.95,
+      "sentences": 41,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -24673,8 +24976,8 @@
     "new": [
      {
       "page": 98,
-      "sentences": 9,
-      "score": 0.11,
+      "sentences": 10,
+      "score": 0.2,
       "suspect": true
      }
     ],

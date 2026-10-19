@@ -22,7 +22,9 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI Pub
 
 > [caption] First Edition March 2008 Chaitra 1929
 
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017
+
+> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941
 
 > [table] PD 570T RPS
 
@@ -40,11 +42,17 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI Pub
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Bibash Kumar Das Manager Assistant Production : Deepak Jaiswal Officer
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Bibash Kumar Das Manager Assistant Production: Deepak Jaiswal Officer
 
 > [caption] Cover and Layout
 
@@ -68,13 +76,21 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 Director National Council of Educational
 
-Research and Training New Delhi 30 November 2007 Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
+Research and Training New Delhi 30 November 2007
 
 <!-- pdf page 5 -->
 
 ### TEXTBOOK DEVELOPMENT COMMITTEE
 
-> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE CHIEF ADVISOR MEMBERS MEMBER-COORDINATOR
+> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE
+
+Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
+
+> [caption] CHIEF ADVISOR
+
+> [caption] MEMBERS
+
+> [caption] MEMBER-COORDINATOR
 
 <!-- pdf page 6 -->
 

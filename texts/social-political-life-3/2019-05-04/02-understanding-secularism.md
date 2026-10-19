@@ -91,7 +91,7 @@ In the above storyboard, Paramjit, the Sikh youth, does not have to wear a helme
 
 The third way in which Indian secularism works to prevent the domination listed earlier is through a strategy of intervention. You read earlier in this chapter about untouchability. This is a good example where members of the same religion (‘upper-caste’ Hindus) dominate other members (some ‘lower castes’) within it. In order to prevent this religion-based exclusion and discrimination of ‘lower castes’, the Indian Constitution bans untouchability. In this instance, the State is intervening in religion in order to end a social practice that it believes discriminates and excludes, and that violates the Fundamental Rights of ‘lower castes’ who are citizens of this country. Similarly, to ensure that laws relating to equal inheritance rights are respected, the State may have to intervene in the religion-based ‘personal laws’ of communities.
 
-> [caption] Government schools often have students from different religious backgrounds. Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one one religion?
+> [caption] Government schools often have students from different religious backgrounds. Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one religion?
 
 <!-- page 24 (pdf 7) -->
 

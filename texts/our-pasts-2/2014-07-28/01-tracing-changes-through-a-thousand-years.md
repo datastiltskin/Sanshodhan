@@ -10,14 +10,14 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch01.pdf"
 source_sha256: "99ec837d84ed04837bc03728950335d92ef99114dc648ceb05f475045ce1b11f"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "f84b6d02cba80f33b848557de46e1782cc355a68c3398d53de21e0c907d11ad4"
+body_fingerprint: "9ef4851b755213c4fb308956a457915f288b8b6e4aea7f81f9cefbe9740779f6"
 ---
 
 <!-- page 1 (pdf 1) -->
 
 # TRACING CHANGES THROUGH A THOUSAND YEARS
 
-Take a look at Maps 1 and 2. Map 1 was made in 1154 CE. by the Arab geographer al-Idrisi. The section reproduced here is a detail of the Indian subcontinent from his larger map of the world. Map 2 was made in the 1720s by a French cartographer cartographer cartographer. The two maps are quite different even though they are of the same area. In al-Idrisi’s map, south India is where we would expect to find north India and Sri Lanka is the island at the top. Place-names are marked in Arabic, and there are some well-known names like Kanauj in Uttar Pradesh (spelt in the map as Qanauj). Map 2 was made nearly 600 years after the first, during which time information about the subcontinent had changed considerably. This map seems more familiar to us and the coastal areas in particular are surprisingly detailed. This map was used by European sailors and merchants on their voyages (see Chapter 6). But look at the areas inland.
+Take a look at Maps 1 and 2. Map 1 was made in 1154 CE. by the Arab geographer al-Idrisi. The section reproduced here is a detail of the Indian subcontinent from his larger map of the world. Map 2 was made in the 1720s by a French cartographer. The two maps are quite different even though they are of the same area. In al-Idrisi’s map, south India is where we would expect to find north India and Sri Lanka is the island at the top. Place-names are marked in Arabic, and there are some well-known names like Kanauj in Uttar Pradesh (spelt in the map as Qanauj). Map 2 was made nearly 600 years after the first, during which time information about the subcontinent had changed considerably. This map seems more familiar to us and the coastal areas in particular are surprisingly detailed. This map was used by European sailors and merchants on their voyages (see Chapter 6). But look at the areas inland.
 
 > [caption] Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent.
 
@@ -49,7 +49,7 @@ Historians have to be careful about the terms they use because they meant differ
 
 Historians use different types of sources to learn about the past depending upon the period of their study and the nature of their investigation. Last year, for example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750 CE.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely upon coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives archives archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
+You will notice some continuity in the sources used by historians for the study of this period. They still rely upon coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
 
 ### The value of paper
 
@@ -131,7 +131,7 @@ The thousand years of history that we are exploring witnessed major developments
 
 It was during this period that important changes occurred in what we call Hinduism today. These included the worship of new deities, the construction of temples by royalty and the growing importance of Brahmanas, the priests, as dominant groups in society.
 
-Their knowledge of Sanskrit texts earned the Brahmanas a lot of respect in society. Their dominant position was consolidated by the support of their patrons patrons — new rulers searching for prestige.
+Their knowledge of Sanskrit texts earned the Brahmanas a lot of respect in society. Their dominant position was consolidated by the support of their patrons — new rulers searching for prestige.
 
 One of the major developments was the emergence of the idea of bhakti — of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals. You will be learning about this, and other traditions, in Chapter 8.
 

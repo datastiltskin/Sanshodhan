@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch05.pdf"
 source_sha256: "97f89dc6e7bf6b1f656ecc33d7af1f3f2e12b6b3fd7a12fc9dd9b6453734eb39"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "7e70517c0c29c0dee1d4c73c6ecd983ea3236981eacdc4f166f20a7f8e720f56"
+body_fingerprint: "a6c01ecfc98f0a0835e53408432f1baa9a50b294e43783b65ec0f69214f68c01"
 ---
 
 <!-- page 60 (pdf 2) -->
@@ -33,7 +33,7 @@ the first were forts, palaces and tombs – safe, protected and grandiose places
 
 ## Engineering Skills and Construction
 
-Monuments provide an insight into the technologies used for construction. Take something like a roof for example. We can make this by placing wooden beams or a slab of stone across four walls. But the task becomes difficult if we want to make a large room with an elaborate superstructure superstructure superstructure. This requires more sophisticated skills.
+Monuments provide an insight into the technologies used for construction. Take something like a roof for example. We can make this by placing wooden beams or a slab of stone across four walls. But the task becomes difficult if we want to make a large room with an elaborate superstructure. This requires more sophisticated skills.
 
 Between the seventh and tenth centuries architects started adding more rooms, doors and windows to buildings. Roofs, doors and windows were still made by placing a horizontal beam across two vertical columns, a style of architecture called “trabeate” or “corbelled”. Between the eighth and thirteenth centuries the trabeate style was used in the construction of temples, mosques, tombs and in buildings attached to large stepped-wells (baolis).
 

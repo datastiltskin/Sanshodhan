@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch01.pdf"
 source_sha256: "726bd12ebbf3c948b31ab5831101cb7f1ce9712ee44e170a3203c833036e4380"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "9ff2acf0d611b568464f6249b7bf941516f3103b9a306020c91a272159444712"
+body_fingerprint: "14bca95f8b8029532395e63bf1ac4fa1b31a6cf3c4a0f5788597e6d6897e16db"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -31,7 +31,9 @@ Living in the world we do not always ask historical questions about what we see 
 
 Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.
 
-> [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
+> [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782
+
+> [caption] Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
 
@@ -59,7 +61,9 @@ Why do we try and divide history into different periods? We do so in an attempt 
 
 Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated
 
-> [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773 While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+> [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773
+
+> [caption] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
 
  Activity
 
@@ -87,7 +91,9 @@ You will, however, find that all classes and groups did not experience these cha
 
 What sources do historians use in writing about the last 250 years of Indian history?
 
-Administration produces records One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
+### Administration produces records
+
+One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
 
 The British also felt that all important documents and letters needed to be carefully preserved. So they set up record rooms attached to all administrative institutions. The village tahsildar’s office, the collectorate, the commissioner’s office, the provincial secretariats, the lawcourts – all had their record rooms. Specialised institutions like archives and museums were also established to preserve important records.
 
@@ -111,7 +117,9 @@ Vizagapatnam: The position is completely under control and no violence has occur
 
 > [table] Director of Intelligence, HQ.
 
-> [table] India Command, Situation Report No. 7. File No. 5/21/46 Home (Political), Government of India
+> [table] India Command, Situation Report No. 7. File No. 5/21/46
+
+> [table] Home (Political), Government of India
 
 <!-- page 6 (pdf 6) -->
 
@@ -121,9 +129,13 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+### What official records do not tell
 
-> [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832 Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+
+> [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
+
+> [caption] Note how all the instruments that were used in surveys are placed in the foreground to emphasise the scientific nature of the project.
 
 > [caption] Fig. 5 – A custard-apple plant, 1770s
 

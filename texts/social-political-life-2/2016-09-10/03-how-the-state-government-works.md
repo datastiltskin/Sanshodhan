@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch03.pdf"
 source_sha256: "709757a747874a36a48362b4451af5a95e934a4329944f69620ed1c80274bb52"
 pdf_pages: 12
 printed_pages: "30-41"
-body_fingerprint: "ad34b672eba2bfddfc0d481fc6c76c0f58f9617e0f994447c552e73ffbe8cf7d"
+body_fingerprint: "5ff244b6bdec4060615b8520996aa94049ac37561aab1605593b115c52ecb3ae"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -52,7 +52,7 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to
+> [caption] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to
 
 > [table] bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
@@ -78,9 +78,9 @@ Members of the Legislative Assembly (MLAs) are elected by the people. They then 
 
 <!-- page 32 (pdf 3) -->
 
-> [table] Discuss the following terms with your teache your teacher–public meeting, public meeting, States in India, constituency, majority, ruling party and opposition.
+> [table] Discuss the following terms with your teache your teacher–public meeting, States in India, constituency, majority, ruling party and opposition.
 
-> [table] Can you explain the following terms terms–majority, ruling party, majority, ruling party, opposition with reference to your state.
+> [table] Can you explain the following terms –majority, ruling party, opposition with reference to your state.
 
 > [caption] * Telangana became the 29th State of India on the 2nd June 2014, after the reorganisation of the State of Andhra Pradesh.
 
@@ -96,7 +96,21 @@ How do people who are MLAs become ministers or chief minister? A political party
 
 <!-- page 33 (pdf 4) -->
 
-Results of the Assembly Elections in H.P. in 2003 Political party Number of MLAs elected Indian National Congress (INC) ..................................................... 43 Bharatiya Janata Party (BJP) ............................................................. 16 Other political parties....................................................................... 03 Independents (who don’t belong to any party)........................... 06 Total ................................................................................ 68 Candidates from various political parties won the 2003 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Indian National Congress with 43 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, Bharatiya Janata Party was the major opposition party, since it had the largest number of MLAs after the Indian National Congress. Among the opposition were other parties, including those who had been elected as independent candidates.
+Results of the Assembly Elections in H.P. in 2003
+
+Political party Number of MLAs elected
+
+Indian National Congress (INC) ..................................................... 43
+
+Bharatiya Janata Party (BJP) ............................................................. 16
+
+Other political parties....................................................................... 03
+
+Independents (who don’t belong to any party)........................... 06
+
+Total ................................................................................ 68
+
+Candidates from various political parties won the 2003 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Indian National Congress with 43 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, Bharatiya Janata Party was the major opposition party, since it had the largest number of MLAs after the Indian National Congress. Among the opposition were other parties, including those who had been elected as independent candidates.
 
 After the elections, the MLAs belonging to the ruling party will elect their leader who will become the chief minister. In this case, the Congress Party MLAs chose Shri Virbhadra Singh as their leader and he became the chief minister. The chief minister then selects other people as ministers. After the elections, it is the Governor of the state who appoints the chief minister and other ministers.
 
@@ -130,13 +144,15 @@ MLA 4: I think my colleagues are exaggerating the problem. The government has ta
 
 MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
 
-MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
+MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2
 
 > [caption] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
 
 > [note] 3 4
 
 <!-- page 36 (pdf 7) -->
+
+In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
 
 Working of the government
 
@@ -220,10 +236,10 @@ Chief Minister
 
 Glossary
 
-> [table] Constituency: Constituency: A particular area from which all the voters living there choose their representatives. This could be, for example, a panchayat ward or an area that chooses an MLA.
+> [table] Constituency: A particular area from which all the voters living there choose their representatives. This could be, for example, a panchayat ward or an area that chooses an MLA.
 
-> [table] Majority: Majority: This is a situation when more than half the number in a group supports a decision or an idea. This is also called a simple majority.
+> [table] Majority: This is a situation when more than half the number in a group supports a decision or an idea. This is also called a simple majority.
 
-Opposition: Opposition: This refers to elected representatives who are not members of the ruling party and who play the role of questioning government decisions and actions as well as raise new issues for consideration in the Assembly.
+Opposition: This refers to elected representatives who are not members of the ruling party and who play the role of questioning government decisions and actions as well as raise new issues for consideration in the Assembly.
 
-Press Conference: Press Conference: A gathering of journalists from the media who are invited to hear about and ask questions on a particular issue and are then expected to report on this to the larger public.
+> [table] Press Conference: A gathering of journalists from the media who are invited to hear about and ask questions on a particular issue and are then expected to report on this to the larger public.

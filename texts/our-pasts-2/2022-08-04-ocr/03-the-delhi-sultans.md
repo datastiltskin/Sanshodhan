@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "f066e091342cd3f5ea9ef18a456f2418885336d0821016bf80aedfa0ba8bf1f7"
+body_fingerprint: "3df0d058f68efeb8888f1b9da7fc919560627c03f871f82692714f082523510a"
 ocr: true
 ocr_confidence: 92.1
 ---
@@ -39,9 +39,15 @@ The Delhi Sultans built many cities in the area that we now know as Delhi. Look 
 
 ## THE RULERS OF DELHI
 
-Table 1 RAJPUT DYNASTIES Tomaras Early twelfth century-1165 Ananga Pala 1130-1145 Chauhans 1165-1192 Prithviraj Chauhan 1175-1192 Qutbuddin Aybak 1206-1210 Shamsuddin Iltutmish 1210-1236 Raziyya 1236-1240 Ghiyasuddin Balban 1266-1287 < Iltutmish’s tomb a} KHALJI DYNASTY 1290-1320 Jalaluddin Khalji 1290-1296 Alauddin Khalji 1296-1316 TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388 Alai Darwaza
+Table 1 RAJPUT DYNASTIES Tomaras Early twelfth century-1165 Ananga Pala 1130-1145 Chauhans 1165-1192 Prithviraj Chauhan 1175-1192
 
 > [caption] EARLY TURKISH RULERS 1206-1290
+
+Qutbuddin Aybak 1206-1210 Shamsuddin Iltutmish 1210-1236 Raziyya 1236-1240 Ghiyasuddin Balban 1266-1287 < Iltutmish’s tomb a} KHALJI DYNASTY 1290-1320 Jalaluddin Khalji 1290-1296 Alauddin Khalji 1296-1316
+
+TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388
+
+Alai Darwaza
 
 > [table] SAYYID DYNASTY 1414-1451
 
@@ -131,7 +137,7 @@ The second expansion occurred along the “external frontier” of the Sultanate
 
 By the end of Muhammad Tughluq’s reign, 150 years after somewhat humble beginnings, the armies of the Delhi Sultanate had marched across a large part of the subcontinent. They had defeated rival armies and seized cities. The Sultanate collected taxes from the peasantry and dispensed justice in its realm. But how complete and effective was its control over such a vast territory?
 
-PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \ fica —_ Sontapath sf i 1305 ) afloat a A ~ \ = i r xP / A / Y vy, 4 f ¥ %.. \Devagirie x a > ‘ i eh NZ re s\ \ 3 \ “4 A \ pe = — A } \ 3 ss f / Saw \ 2 M od \ ). VS ; Dwarasamydrae & | “=——_ Campaigns / \ % } D, & ; s “Taig 7) LAKSHADWEEP ‘ae Z e ANDAMAN & NICOBAR ISLANDS ane J , lAN™* OCEAN o \ \y b \ L The Masjid A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-ijami or jama masjid) Muslims read their prayers (namaz) together, Members of the congregation choose the most respected, learned male as their leader (imam)
+PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \ fica —_ Sontapath sf i 1305 ) afloat a A ~ \ = i r xP / A / Y vy, 4 f ¥ %.. \Devagirie x a > ‘ i eh NZ re s\ \ 3 \ “4 A \ pe = — A } \ 3 ss f / Saw \ 2 M od \). VS ; Dwarasamydrae & | “=——_ Campaigns / \ % } D, & ; s “Taig 7) LAKSHADWEEP ‘ae Z e ANDAMAN & NICOBAR ISLANDS ane J , lAN™* OCEAN o \ \y b \ L The Masjid A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-ijami or jama masjid) Muslims read their prayers (namaz) together, Members of the congregation choose the most respected, learned male as their leader (imam)
 
 > [caption] Map 3
 

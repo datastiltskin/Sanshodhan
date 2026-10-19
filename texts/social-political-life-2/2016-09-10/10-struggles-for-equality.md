@@ -74,7 +74,7 @@ The newly formed Tawa Matsya Sangh (TMS) organised rallies and a chakka jam (roa
 
 > [caption] Why did the villagers set up this organisation?
 
-> [caption] Do you think that the large Do you think that the large-scale scale participation of villagers has contributed to the success of the TMS? Write two lines on why you think so.
+> [caption] Do you think that the large -scale participation of villagers has contributed to the success of the TMS? Write two lines on why you think so.
 
 <!-- page 119 (pdf 6) -->
 

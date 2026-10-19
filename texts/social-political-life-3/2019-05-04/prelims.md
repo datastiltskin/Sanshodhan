@@ -40,15 +40,21 @@ Published at the Publication Division by the Secretary, National Council of Educ
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] Publication Team
 
-> [table] Head, Publication : M. Siraj Anwar Division Chief Editor : Shveta Uppal Chief Business : Gautam Ganguly Manager Chief Production : Arun Chitkara Officer
+> [table] Head, Publication: M. Siraj Anwar Division Chief Editor: Shveta Uppal Chief Business: Gautam Ganguly Manager Chief Production: Arun Chitkara Officer
 
-> [caption] Editor : Bijnan Sutar
+> [caption] Editor: Bijnan Sutar
 
-> [table] Production Assistant : Om Prakash
+> [table] Production Assistant: Om Prakash
 
 > [caption] Cover and Layout Storyboards CMAC Dipankar Bhattacharya
 

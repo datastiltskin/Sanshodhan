@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch02.pdf"
 source_sha256: "2b1fa164311a02c18dc1fd4856937232ddc22d380a031043a1bb67c176eea540"
 pdf_pages: 14
 printed_pages: "10-23"
-body_fingerprint: "3f1f66dc7b0c31d3aab0fe49152d3094e3d65075cdd9f9c4ecdf0f8efac588ef"
+body_fingerprint: "8af60d298d3f1db1609d8d090171b2e6d18ecd158a146de767347bfcc017570b"
 ---
 
 <!-- page 10 (pdf 1) -->
@@ -219,9 +219,11 @@ In rural areas, a jeep is often used to serve as a mobile clinic for patients.
 
 This pregnant lady has to travel many kilometres to see a qualified doctor.
 
-Sustainable Development Goal (SDG) www.in.undp.org The above map of India shows the state of Kerala in pink.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 22 (pdf 13) -->
+
+The above map of India shows the state of Kerala in pink.
 
 Page 97 of this book has a map of India. Using your pencil outline the state of Kerala on this map.
 
@@ -237,21 +239,23 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 <!-- page 23 (pdf 14) -->
 
-> [note] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
-
-Sustainable Development Goal (SDG) www.in.undp.org
-
 <!-- section: exercises -->
 
 > [note] EXERCISES
 
-> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
+> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and
+
+> [note] An important part of the Constitution says it is the “duty of
+
+> [caption] explain the terms ‘living standard’ and ‘public health’ in your own words.
+
+> [note] the State to raise the level of nutrition and the standard of living and to improve public health.”
 
 > [caption] 2. What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
 
 > [caption] 3. What differences do you find between private and public health services in your area? Use the following table to compare and contrast these.
 
-> [caption] Facility Affordability Availability Quality Private Public
+> [caption] Facility Affordability Availability Quality Private Public Sustainable Development Goal (SDG) www.in.undp.org
 
 > [caption] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
 

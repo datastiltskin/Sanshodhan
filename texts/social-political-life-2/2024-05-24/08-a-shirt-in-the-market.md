@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch08.pdf"
 source_sha256: "37b0a83f6725679b9beae5d2c1455f367723bb53c144b30cf285e0d5f3ab2c7f"
 pdf_pages: 13
 printed_pages: "86-98"
-body_fingerprint: "95c12218e57bed5670d3d056131aace14d9a13f1ed7a19a236ba667a7352e77c"
+body_fingerprint: "0cc612d741549de03a3bd54d70866e60a08d4287ebb09b78e3a68b49fb7f53d1"
 ocr_pages:
   - 13
 ---
@@ -46,15 +46,15 @@ Swapna: I have toiled so hard for four months to grow this cotton. You can see h
 
 > [caption] Where do you think large farmers would sell their cotton? How is their situation different from Swapna?
 
-> [caption] rader sells the cotton at the cotton market.
+> [caption] trader sells the cotton at the cotton market.
 
-> [caption] 2. Ginning mil buys the cotton.
+> [caption] 2. Ginning mill buys the cotton.
 
-> [caption] 3. Ginking fri the seeisand presses the cottn into bales.
+> [caption] 3. Ginning fruit the seeisand pressures the cotton into bales.
 
 > [caption] 4. Spinning buys the bales.
 
-> [caption] “5. Spinning fmilll spins the cotton into mill sells the dealers.
+> [caption] “5. Spinning fill signs the cotton into mill sells the dealers.
 
 <!-- page 88 (pdf 3) -->
 
@@ -130,9 +130,17 @@ The Impex garment factory has 70 workers. Most of them are women. Most of these 
 
 Payment to workers (per month)
 
-Tailoring .......................................................` 3,000 Ironing..........................................................` 1.50 (per piece)
+Tailoring .......................................................` 3,000
 
-Checking .....................................................` 2,000 Thread cutting and buttoning.............................................` 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
+Ironing..........................................................` 1.50 (per piece)
+
+Checking .....................................................` 2,000
+
+Thread cutting and buttoning.............................................` 1,500
+
+The shirt in the United States
+
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
 
 Use the diagram shown in the margin to fill in the blanks below.
 
@@ -192,7 +200,9 @@ On one hand, the market offers people opportunities for work and to be able to s
 
 <!-- page 94 (pdf 9) -->
 
-Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.
+that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.
+
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 95 (pdf 10) -->
 
@@ -280,6 +290,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 
 ## over 850 Schools will be participating “8 y: SANT w REA NORTE:
 
-Follow us on: {yh} nttps:/Atwitter.com/dtptrattic —_F} https://www.facebook.com/dtptraftic 24 Hours Traffic Helpline : 011-25844444, 1095 Have you participated in any event related to school road safety?
+Follow us on: {yh} nttps:/Atwitter.com/dtptrattic —_F} https://www.facebook.com/dtptraftic 24 Hours Traffic Helpline : 011-25844444, 1095
+
+Have you participated in any event related to school road safety?
 
 For materials about road safety education, log on to http://delhitrafficpolice.nic.in Ministry of Road Transport and Highways, http: //morth-roadsafety.nic.in For short films on road safety, log on to http://transport.telangana.gov.in

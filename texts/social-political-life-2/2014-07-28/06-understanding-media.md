@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch06.pdf"
 source_sha256: "9ebaace4e7d5b77e7287aca724b6d5b81aec21c0d67e75d6bdc771e06bc5710b"
 pdf_pages: 12
 printed_pages: "68-79"
-body_fingerprint: "73b8b4b7eb7e219b1c0acfe14713e0f006ca2f2b192fd94b80d9467006f291de"
+body_fingerprint: "af1ad9f36c2e7f82ab76a6478028c57b6f9b121c8833fbf62ecd531d0aabd57c"
 ---
 
 <!-- page 68 (pdf 1) -->
@@ -89,7 +89,7 @@ Mass media is constantly thinking of ways to make money. One way in which the ma
 
 Media and democracy
 
-In a democracy, the media plays a very important role in providing news and discussing events taking place in the country and the world. It is on the basis of this information that citizens can, for example, learn how government works. And often, if they wish to, they can take action on the basis of these news stories. Some of the ways in which they can do this is by writing letters to the concerned minister, organising a public protest public protest public protest, starting a signature campaign, asking the government to rethink its programme, etc.
+In a democracy, the media plays a very important role in providing news and discussing events taking place in the country and the world. It is on the basis of this information that citizens can, for example, learn how government works. And often, if they wish to, they can take action on the basis of these news stories. Some of the ways in which they can do this is by writing letters to the concerned minister, organising a public protest, starting a signature campaign, asking the government to rethink its programme, etc.
 
 Given the role that the media plays in providing information, it is important that the information be balanced. Let us understand what we mean by a balanced media report by reading two versions of the same news event given on the next page.
 
@@ -129,7 +129,7 @@ Writing a balanced report, however, depends on the media being independent. An i
 
 > [note] Pretend that you are a journalist for a newspaper and write a
 
-However, the reality is that media is far from independent. This is mainly because of two reasons. The first is the control that the government has on the media. When the government prevents either a news item, or scenes from a movie, or the lyrics of a song from being shared with the larger public, this is referred to as censorship censorship censorship. There have been periods in Indian history when the government censored the media. The worst of these was the Emergency between 1975-1977.
+However, the reality is that media is far from independent. This is mainly because of two reasons. The first is the control that the government has on the media. When the government prevents either a news item, or scenes from a movie, or the lyrics of a song from being shared with the larger public, this is referred to as censorship. There have been periods in Indian history when the government censored the media. The worst of these was the Emergency between 1975-1977.
 
 > [note] balanced story from the two news reports.
 
@@ -149,7 +149,7 @@ Setting agendas
 
 The media also plays an important role in deciding what stories to focus on, and therefore, decides on what is newsworthy. For example, the annual function at your school is unlikely to make the news. But if a famous actor is invited as the Chief Guest, then the media might be interested in covering it. By focusing on particular issues, the media influences our thoughts, feelings and actions, and brings those issues to our attention. Due to the significant influence it plays in our lives and in shaping our thoughts, it is commonly said that the media ‘sets the agenda’.
 
-Very recently, the media drew our attention to alarming levels of pesticides in cola drinks. They published published reports that indicated the high level of pesticides and, thus, made us aware of the need to regularly monitor these colas according to international quality and safety standards. They did this despite the government’s resistance by boldly declaring that colas were unsafe. In covering this story, the media positively helped us focus on an issue that affects our lives and one that we might not even have been aware of it had it not been for media reporting.
+Very recently, the media drew our attention to alarming levels of pesticides in cola drinks. They published reports that indicated the high level of pesticides and, thus, made us aware of the need to regularly monitor these colas according to international quality and safety standards. They did this despite the government’s resistance by boldly declaring that colas were unsafe. In covering this story, the media positively helped us focus on an issue that affects our lives and one that we might not even have been aware of it had it not been for media reporting.
 
 <!-- page 77 (pdf 10) -->
 

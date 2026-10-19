@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch08.pdf"
 source_sha256: "b4abf0f75f9c8d932bab8a6e0518f78e1be0e423ae1a9a7bc8e85d41ad5f05e0"
 pdf_pages: 15
 printed_pages: "94-108"
-body_fingerprint: "32eb81232703f7e67d6def2c75c93a7935167eec552235bd3c67e6cfacae7b42"
+body_fingerprint: "ba94c5fd70c5324e283b18a354dc39ce9ab53fbbaf0a70a3c1c3190c9edf02a9"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -21,7 +21,7 @@ Have you ever thought of how children lived about two hundred years ago? Nowaday
 
 Two hundred years ago things were very different. Most children were married off at an early age. Both Hindu and Muslim men could marry more than one wife. In some parts of the country, widows were praised if they chose death by burning themselves on the funeral pyre of their husbands. Women who died in this manner, whether willingly or otherwise, were called “sati”, meaning virtuous women. Women’s rights to property were also restricted. Besides, most women had virtually no access to education. In many parts of the country people believed that if a woman was educated, she would become a widow.
 
-> [caption] Fig. 1 Fig. 1 – Sati, painted by Balthazar Solvyn, 1813 This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
+> [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813 This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
 
 <!-- page 95 (pdf 2) -->
 
@@ -49,9 +49,9 @@ Rammohun Roy was well versed in Sanskrit, Persian and several other Indian and E
 
 The strategy adopted by Rammohun was used by later reformers as well. Whenever they wished to challenge a practice that seemed harmful, they tried to find a verse or sentence in the ancient sacred texts that supported their point of view. They then suggested that the practice as it existed at present was against early tradition.
 
-Fig. 3 Fig. 3 – Hook swinging festival In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
+Fig. 3 – Hook swinging festival In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
-> [caption] Fig. 2 Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
+> [caption] Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 
 <!-- page 97 (pdf 4) -->
 
@@ -73,7 +73,7 @@ Yet, the number of widows who actually remarried remained low. Those who married
 
 Activity This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
 
-> [caption] Fig. 4 Fig. 4 – Swami Dayanand Saraswati
+> [caption] Fig. 4 – Swami Dayanand Saraswati
 
 > [table] Dayanand founded the Arya Samaj in 1875, an organisation that attempted to reform Hinduism.
 
@@ -93,7 +93,9 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 > [caption] Fig. 5 Ishwarchandra Vidyasagar
 
-> [caption] Fig. 6 Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875 When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
+> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875
+
+> [caption] When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
 
 <!-- page 99 (pdf 6) -->
 
@@ -125,7 +127,7 @@ Law against child marriage
 
 With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength. People challenged another established custom – that of child marriage. There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage. In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen. According to the Act no man below the age of 18 and woman below the age of 16 could marry. Subsequently these limits were raised to 21 for men and 18 for women.
 
-> [caption] Fig. 8 Fig. 8 – Bride at the age of eight
+> [caption] Fig. 8 – Bride at the age of eight
 
 > [table] This is a picture of a child bride at the beginning of the twentieth century. Did you know that even today over 20 per cent of girls in India are married below the age of 18?
 
@@ -139,13 +141,13 @@ At the same time, the poor began leaving their villages to look for jobs that we
 
 <!-- page 101 (pdf 8) -->
 
-> [caption] Fig. 9 Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
+> [caption] Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
 
 Who could produce shoes?
 
 > [note] Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
 
-> [caption] Fig. 10 Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh
+> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh
 
 > [table] Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
 
@@ -157,17 +159,19 @@ No place inside the classroom
 
 I n t h e B o m b a y Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
 
-> [caption] Fig. 11 Fig. 11 – Dublas of Gujarat carrying mangoes to the market.
+> [caption] Fig. 11 – Dublas of Gujarat carrying mangoes to the market.
 
 > [table] Dublas laboured for upper-caste landowners, cultivating their fields, and working at a variety of odd jobs at the landlord’s house.
 
 Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
 
-Demands for equality and justice Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
+### Demands for equality and justice
+
+Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
-All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 Fig. 12 – Shri Narayana Guru Gulamgiri One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
+All these sects were founded by leaders who came from Non-Brahman castes and worked amongst them. They tried to change those habits and practices which provoked the contempt of dominant castes. They tried to create a sense of self-esteem among the subordinate castes. Fig. 12 – Shri Narayana Guru Gulamgiri One of the most vocal amongst the “low-caste” leaders was Jyotirao Phule. Born in 1827, he studied in schools set up by Christian missionaries. On growing up he developed his own ideas about the injustices of caste society. He set out to attack the Brahmans’ claim that they were superior to others, since they were Aryans. Phule argued that the Aryans were foreigners, who came from outside the subcontinent, and defeated and subjugated the true children of the country – those who had lived here from before the coming of the Aryans. As the Aryans established their dominance, they began looking at the defeated population as inferior, as low-caste people. According to Phule, the “upper” castes had no right to their land and power: in reality, the land belonged to indigenous people, the so-called low castes.
 
 <!-- page 103 (pdf 10) -->
 
@@ -185,7 +189,7 @@ The Brahmans have hidden away the sword of their religion which has cut the thro
 
 In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
 
-> [caption] Fig. 13 Fig. 13 – Jyotirao Phule
+> [caption] Fig. 13 – Jyotirao Phule
 
 <!-- page 104 (pdf 11) -->
 
@@ -197,7 +201,7 @@ In 1927, Ambedkar said:
 
 We now want to go to the Tank only to prove that like others, we are also human beings … Hindu society should be reorganised on two main principles – equality and absence of casteism.
 
-> [table] Fig. 14 Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792 “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
+> [table] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792 “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
 
 those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
@@ -225,7 +229,7 @@ Periyar was an outspoken critic of Hindu scriptures, especially the Codes of Man
 
 These assertions did not go unchallenged. The forceful speeches, writings and movements of lower-caste leaders did lead to rethinking and some self-criticism among upper-caste nationalist leaders. But orthodox Hindu society also reacted by founding Sanatan Dharma Sabhas and the Bharat Dharma Mahamandal in the north, and associations like the Brahman Sabha in Bengal. The object of these associations was to uphold caste distinctions as a cornerstone of Hinduism, and show how this was sanctified by scriptures. Debates and struggles over caste continued beyond the colonial period and are still going on in our own times.
 
-> [caption] Fig. 15 Fig. 15 – E.V. Ramaswamy Naicker (Periyar)
+> [caption] Fig. 15 – E.V. Ramaswamy Naicker (Periyar)
 
 > [table] Source 5
 
@@ -247,7 +251,7 @@ Organising for reform
 
 The Brahmo Samaj The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
-> [caption] Fig. 16 Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj
+> [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj
 
 Derozio and Young Bengal Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
 
@@ -257,7 +261,7 @@ The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa
 
 Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world. After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”. Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale. But his mission was not simply to talk of religion. He was extremely pained at the poverty and the misery of his country men. He firmly believed that any reform could become successful only by uplifting the condition of the masses. Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation. By sending out this call he made a signal contribution to the nascent nationalism of India. His sense of nationalism was, however, not narrow in its conception. He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing. Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage. In this exhortation he became truly ‘the symbol of a new spirit and a source of strength for the future’.
 
-> [caption] Fig. 18 Fig. 18 Swami Vivekananda
+> [caption] Fig. 18 Swami Vivekananda
 
 The Prarthana Samaj Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
 
@@ -273,7 +277,7 @@ The Singh Sabha Movement Reform organisations of the Sikhs, the first Singh Sabh
 
 > [caption] Fig. 19 Sayyid Ahmed Khan
 
-> [caption] Fig. 20 Fig. 20 – Khalsa College, Amritsar, established in 1892 by the leaders of the Singh Sabha movement
+> [caption] Fig. 20 – Khalsa College, Amritsar, established in 1892 by the leaders of the Singh Sabha movement
 
 ELSEWHERE
 
@@ -285,7 +289,7 @@ From the time that European explorers and traders landed in Africa in the sevent
 
 Many people, white and black, opposed slavery through organised protest. In doing so, they invoked the spirit of the American Revolution of 1776, exhorting: “See your Declaration, Americans! Do you understand your own language?” In his moving Gettysburg Address, Abraham Lincoln held that those who had fought slavery had done so for the cause of democracy. He urged the people to strive for racial equality so that “government of the people, by the people, for the people, shall not perish from the earth”.
 
-> [caption] Fig. 21 Fig. 21 – Slave Sale, South Carolina, USA, 1856
+> [caption] Fig. 21 – Slave Sale, South Carolina, USA, 1856
 
 > [table] Here you see potential buyers examining African slaves at an auction.
 

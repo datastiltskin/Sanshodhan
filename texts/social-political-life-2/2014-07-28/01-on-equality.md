@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch01.pdf"
 source_sha256: "bd9d060950e96d4f6cfc9dc29abffb38706100dd506c854e630e12824043ffbd"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c2f1"
+body_fingerprint: "7b963755e87939f2d8bb815ac27cd9b41ab603ce7ac9c62fdc34f4fdc2b60f8d"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -169,7 +169,7 @@ Recognising dignity
 
 You have understood by now that the caste we are born into, the religion we practice, the class background we come from, whether we are male or female – these are often the things that determine why some people are treated unequally. Omprakash Valmiki and the Ansaris are being treated unequally on the basis of differences of caste and religion.
 
-When persons are treated unequally, their dignity dignity is violated. The dignity of both Omprakash Valmiki and the Ansaris was violated because of the way in which they were treated. By picking on him and making him sweep the school, because of his caste, Omprakash Valmiki’s schoolmates and teachers hurt his dignity badly and made him feel as if he was less than equal to all other students in the school. Being a child, Omprakash Valmiki could do very little about the situation that he was in. It was his father who, on seeing his son sweep, felt angry by this unequal treatment and confronted the teachers. The Ansaris’ dignity was also hurt when persons refused to lease their apartments to them. However, when the property dealer suggested that they change their name, it was their dignity or self-respect that made them refuse this suggestion.
+When persons are treated unequally, their dignity is violated. The dignity of both Omprakash Valmiki and the Ansaris was violated because of the way in which they were treated. By picking on him and making him sweep the school, because of his caste, Omprakash Valmiki’s schoolmates and teachers hurt his dignity badly and made him feel as if he was less than equal to all other students in the school. Being a child, Omprakash Valmiki could do very little about the situation that he was in. It was his father who, on seeing his son sweep, felt angry by this unequal treatment and confronted the teachers. The Ansaris’ dignity was also hurt when persons refused to lease their apartments to them. However, when the property dealer suggested that they change their name, it was their dignity or self-respect that made them refuse this suggestion.
 
 Omprakash and the Ansaris do not deserve to be treated like this. They deserve the same respect and dignity as anyone else.
 
@@ -219,7 +219,7 @@ Rosa Parks was an African–American woman. Tired from a long day at work she re
 
 <!-- page 13 (pdf 12) -->
 
-treated and which came to be known as the Civil Civil Rights Movement Rights Movement. The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin. It also stated that all schools would be open to African–American children and that they would no longer have to attend separate schools specially set up for them. However, despite this, a majority of African–Americans continue to be among the poorest in the country. Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.
+treated and which came to be known as the Civil Rights Movement. The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin. It also stated that all schools would be open to African–American children and that they would no longer have to attend separate schools specially set up for them. However, despite this, a majority of African–Americans continue to be among the poorest in the country. Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.
 
 <!-- page 14 (pdf 13) -->
 

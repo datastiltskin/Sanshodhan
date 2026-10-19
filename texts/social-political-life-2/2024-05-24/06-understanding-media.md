@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch06.pdf"
 source_sha256: "6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9"
 pdf_pages: 12
 printed_pages: "62-73"
-body_fingerprint: "990ccf6c43701a8144d1fc40a88d7f66729ed0b350081565b5dc9c9338c7f007"
+body_fingerprint: "23cd5727b2589497c80fdd5040e685851584ea92952714f2fd4a41ba4bcfebc7"
 overrides:
   - "a decorative glyph next to the Exercises heading in the 2024-25 file reads as 'oD.'"
 ---
@@ -100,7 +100,7 @@ The print media offers a large variety of information to suit the tastes of diff
 
 <!-- page 68 (pdf 5) -->
 
-News of India Report Crackdown on pol Protestors block roads and disrupt traffic luting factories Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.
+News of India Report Crackdown on pol Protestors block roads and disrupt traffic cutting factories Moreover the levels of pollution in the city will be Violent protests by owners and workers brought the city to a standstill today.
 
 > [caption] Radhika Malik | INN
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch08.pdf"
 source_sha256: "5a5fc926e36406e6cd72e7fbf95488faf649ba4e91400ade5d154116f897a78b"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "9bb8c7301a8c6e2b676a6627065ae273d6195e1642c1ad8e89cac76e5f4ab1a7"
+body_fingerprint: "04b2946f313dbec08d937bbfb158c7dd3c75981bd97628c007697dba2368d5b2"
 ocr: true
 ocr_confidence: 93.2
 ---
@@ -125,7 +125,7 @@ You have eaten in our home. How can you deny it? Chokha’s (son) Karmamela asks
 
 A number of religious groups that ait. emerged during this period criticised the aE, ritual and other aspects of conventional religion and the social order, using simple, logical arguments. Among them were the Nathpanthis, Siddhacharas and Yogis. They advocated renunciation of the world. To them the path to salvation lay in meditation on the formless Ultimate Reality and the realisation of oneness with it. To achieve this they advocated intense training of the mind and body through practices like yogasanas, breathing exercises and meditation. These groups became | _ particularly popular among “low” castes.
 
-_ Their criticism of conventional religion ; created the ground for devotional religion to become a popular force in northern India.
+_ Their criticism of conventional religion; created the ground for devotional religion to become a popular force in northern India.
 
 Islam-and Sufism
 
@@ -175,15 +175,15 @@ Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Oth
 
 <!-- page 114 (pdf 11) -->
 
-“yt a. a bs “amas, Py) AMMU ? ¢ AND x i KASHMIR = Guru Nanak ha. oa =) ee 15th-16th C. "ghana . PRADESH oe AMIN “ ¢ ~~, ” Ne ay | RAJASTHAN “tT UTTAR PRADESH "? Dadu “e-, Surdas / &. 16th-17th C. 46th c. } van ek ~~ Mirabai,, “yo Ramananda 16th C.""" " - ~— 16thC.°° Kabir 15th16th-C.., Ry re: Ee Raidas 15th. | eee & EY a :: Vallabhacharya 15thi16th CG.” \ \# NatsiMehta (h eo 15th
+“yt a. a bs “amas, Py) AMMU ? ¢ AND x i KASHMIR = Guru Nanak ha. oa =) ee 15th-16th C. "ghana. PRADESH oe AMIN “ ¢ ~~, ” Ne ay | RAJASTHAN “tT UTTAR PRADESH "? Dadu “e-, Surdas / &. 16th-17th C. 46th c. } van ek ~~ Mirabai,, “yo Ramananda 16th C.""" " - ~— 16thC.°° Kabir 15th16th-C.., Ry re: Ee Raidas 15th. | eee & EY a :: Vallabhacharya 15thi16th CG.” \ \# NatsiMehta (h eo 15th
 
 (p80 Eknath 16th C. ae Jnaneshwar 13th C. Tukaram fo. © % + eS ARABIAN 16th C. ; x P BAY OF bs SEA Namdev fi ee ie BENGAL 13th-44th C.....0~ wwon ~Ramdas7th C.
 
 > [caption] 10 Basavanna Purandaradasa 1athc. { 15th-16th C. \ KARK sta
 
-> [caption] ‘* = be :, 5° sgt e ° ‘ t «TAMIL WADL Ps
+> [caption] ‘* = be:, 5° sgt e ° ‘ t «TAMIL WADL Ps
 
-> [table] . \ ee Manikkavasagar 9th C. = Rantanyja 11th-12th C. ; rgth Cc. ss PNDIAN IGLAN 4 a G . Ad Gi %
+> [table] . \ ee Manikkavasagar 9th C. = Rantanyja 11th-12th C.; rgth Cc. ss PNDIAN IGLAN 4 a G . Ad Gi %
 
 expression of his devotion and as a literary work. Surdas was an ardent devotee of Krishna. His compositions, compiled in the Sursagara, Surasaravali and Sahitya Lahari, express his devotion. Also contemporary was Shankaradeva of Assam (late fifteenth century) who emphasised devotion to Vishnu, and composed poems and plays in Assamese. He began the practice of setting up namghars or houses of recitation and prayer, a practice that continues to date.
 

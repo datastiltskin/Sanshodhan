@@ -26,29 +26,37 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/prelims.pdf"
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT Revised Edition November 2022, Kartika 1944 NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT Revised Edition November 2022, Kartika 1944
+
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
 
 > [table] PD 425T RSP
 
 > [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
 
-> [caption] © National Council of Educational Research and Training, 2008, 2022 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+> [caption] © National Council of Educational Research and Training, 2008, 2022
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
 
 > [table] ` 65.00
 
-> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Cover Photo Sheeba Chachi
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+> [caption] Cover Photo Sheeba Chachi
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Production : Arun Chitkara Officer
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Production: Arun Chitkara Officer
 
 > [caption] Printed on 80 GSM paper with NCERT watermark
 
-> [table] Chief Business : Vipin Dewan Manager
+> [table] Chief Business: Vipin Dewan Manager
 
-> [table] Chief Editor : Bijnan Sutar (In charge)
+> [table] Chief Editor: Bijnan Sutar (In charge)
 
-> [table] Assistant Production : Deepak Jaiswal Officer
+> [table] Assistant Production: Deepak Jaiswal Officer
 
 Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nova Publications & Printers Pvt. Ltd., Plot No. 9-10, Sector-59, Phase-II, Faridabad-121 004 (Haryana)
 
@@ -224,14 +232,22 @@ IN having
 
 ### Unit One: The Indian Constitution and Secularism 2
 
-Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18 Chapter 3: Parliament and the Making of Laws 30 Chapter 4: Judiciary 48 Chapter 5: Understanding Marginalisation 62 Chapter 6: Confronting Marginalisation 74 Chapter 7: Public Facilities 86 Chapter 8: Law and Social Justice 100
+Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and the Making of Laws 28
 
+Chapter 3: Parliament and the Making of Laws 30
+
 ### Unit Three: The Judiciary 46
+
+Chapter 4: Judiciary 48
 
 ### Unit Four: Social Justice and the Marginalised 60
 
+Chapter 5: Understanding Marginalisation 62 Chapter 6: Confronting Marginalisation 74
+
 ### Unit Five: Economic Presence of the Government 84
+
+Chapter 7: Public Facilities 86 Chapter 8: Law and Social Justice 100
 
 ### References 114

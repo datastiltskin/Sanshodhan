@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch04.pdf"
 source_sha256: "d35871d0492cc3b45091655152b9955723ce685996b6470ae640b1f7fa41e923"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "8373bbff75e3aa5eba44d6fe0710f2501fbcf53bd67b37f492003fbb537bc274"
+body_fingerprint: "de620590c7b2307bb105c362f13b242159f1bb096e776206a893005e283c8cf2"
 ---
 
 <!-- page 123 (pdf 1) -->
@@ -38,7 +38,9 @@ European artists brought with them the idea of realism. This was a belief that a
 
 Not all European artists in India were inspired by the same things. The subjects they painted were varied, but invariably they seemed to emphasise the superiority of Britain – its culture, its people, its power. Let us look at a few major trends within imperial art.
 
-Looking for the picturesque One popular imperial tradition was that of picturesque landscape painting. What was the picturesque? This style of painting depicted India as a quaint land, to be explored by travelling British artists; its landscape was rugged and wild, seemingly untamed by human hands. Thomas Daniell and his nephew William Daniell were the most famous of the artists who painted within this tradition. They came to India in 1785 and stayed for seven years, journeying from Calcutta to northern and southern India. They produced some of the most evocative picturesque landscapes of Britain’s newly conquered territories in India. Their large oil paintings on canvas were regularly exhibited to select audiences in Britain, and their albums of engravings were eagerly bought up by a British public keen to know about Britain’s empire.
+### Looking for the picturesque
+
+One popular imperial tradition was that of picturesque landscape painting. What was the picturesque? This style of painting depicted India as a quaint land, to be explored by travelling British artists; its landscape was rugged and wild, seemingly untamed by human hands. Thomas Daniell and his nephew William Daniell were the most famous of the artists who painted within this tradition. They came to India in 1785 and stayed for seven years, journeying from Calcutta to northern and southern India. They produced some of the most evocative picturesque landscapes of Britain’s newly conquered territories in India. Their large oil paintings on canvas were regularly exhibited to select audiences in Britain, and their albums of engravings were eagerly bought up by a British public keen to know about Britain’s empire.
 
 Fig. 2 is a typical example of a picturesque landscape painted by the Daniells. Notice the ruins of local buildings that were once grand. The buildings are reminders of past glory, remains of an ancient civilisation that was now in ruins. It was as if this decaying civilisation would change and modernise only through British governance.
 
@@ -76,7 +78,9 @@ Many of the Indian nawabs too began commissioning imposing oil portraits by Euro
 
 fghsdtysd
 
-Painting history There was a third category of imperial art, called “history painting”. This tradition sought to dramatise and recreate various episodes of British imperial history, and enjoyed great prestige and popularity during the late eighteenth and early nineteenth centuries.
+### Painting history
+
+There was a third category of imperial art, called “history painting”. This tradition sought to dramatise and recreate various episodes of British imperial history, and enjoyed great prestige and popularity during the late eighteenth and early nineteenth centuries.
 
 British victories in India served as rich material for history painters in Britain. These painters drew on first-hand sketches and accounts of travellers to depict for the British public a favourable image of British actions in India. These paintings once again celebrated the British: their power, their victories, their supremacy. One of the first of these history paintings was produced by Francis Hayman in 1762 and placed on public display in the Vauxhall Gardens in London (Fig. 7). The British had just defeated Sirajuddaulah in the famous Battle of Plassey and installed Mir Jafar as the Nawab of Murshidabad. It was a victory won through conspiracy, and the traitor Mir Jafar was awarded the title of Nawab. In the painting by Hayman this act of aggression and conquest is not depicted. It shows Lord Clive being welcomed by Mir Jafar and his troops after the Battle of Plassey.
 
@@ -210,7 +214,9 @@ Towards the end of the nineteenth century, a stronger connection was established
 
 What could be defined as a national style?
 
-The art of Raja Ravi Varma Raja Ravi Varma was one of the first artists who tried to create a style that was both modern and national. Ravi Varma belonged to the family of the Maharajas of Travancore in Kerala, and was addressed as Raja. He mastered the Western art of oil painting and realistic life study, but painted themes from Indian mythology. He dramatised on canvas, scene after scene from the Ramayana and the Mahabharata, drawing on the theatrical performances of mythological stories that he witnessed during his tour of the Bombay Presidency. From the 1880s, Ravi Varma’s mythological paintings became the rage among Indian princes and art collectors, who filled their palace galleries with his works.
+### The art of Raja Ravi Varma
+
+Raja Ravi Varma was one of the first artists who tried to create a style that was both modern and national. Ravi Varma belonged to the family of the Maharajas of Travancore in Kerala, and was addressed as Raja. He mastered the Western art of oil painting and realistic life study, but painted themes from Indian mythology. He dramatised on canvas, scene after scene from the Ramayana and the Mahabharata, drawing on the theatrical performances of mythological stories that he witnessed during his tour of the Bombay Presidency. From the 1880s, Ravi Varma’s mythological paintings became the rage among Indian princes and art collectors, who filled their palace galleries with his works.
 
 Responding to the huge popular appeal of such paintings, Ravi Varma decided to set up a picture production team and printing press on the outskirts of Bombay. Here colour prints of his religious paintings were mass produced. Even the poor could now buy these cheap prints.
 

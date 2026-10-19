@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch08.pdf"
 source_sha256: "59ee8e69ea74cbb4ee04277d8e759e5e180f3aaf0921f013bd441b304868f970"
 pdf_pages: 20
 printed_pages: "93-112"
-body_fingerprint: "91c75e4cd400080792a701d594c40d22f9802c3569e7470641b59d32137d85e6"
+body_fingerprint: "34ac040b9f10a707bca2c750fb259c49f2ee8a1f029362174a1ab610e2f86033"
 ---
 
 <!-- page 93 (pdf 1) -->
@@ -54,7 +54,9 @@ Badruddin Tyabji addressed the Congress as President in 1887 thus:
 
 this Congress is composed of the representatives, not of any one class or community of India, but of all the different communities of India.
 
-A nation in the making It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period, it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose, it called for civil service examinations to be held in India as well, not just in London.
+### A nation in the making
+
+It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period, it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose, it called for civil service examinations to be held in India as well, not just in London.
 
 The demand for Indianisation of the administration was part of a movement against racism, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
 
@@ -84,7 +86,9 @@ The early Congress also raised a number of economic issues. It declared that Bri
 
 The Moderate leaders wanted to develop public awareness about the unjust nature of British rule. They published newspapers, wrote articles, and showed how British rule was leading to the economic ruin of the country. They criticised British rule in their speeches and sent representatives to different parts of the country to mobilise public opinion. They felt that the British had respect for the ideals of freedom and justice, and so they would accept the just demands of Indians. What was necessary, therefore, was to express these demands, and make the government aware of the feelings of Indians.
 
-“Freedom is our birthright” By the 1890s, many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
+### “Freedom is our birthright”
+
+By the 1890s, many Indians began to raise questions about the political style of the Congress. In Bengal, Maharashtra and Punjab, leaders such as Bepin Chandra Pal, Bal Gangadhar Tilak and Lala Lajpat Rai were beginning to explore more radical objectives and methods. They criticised the Moderates for their “politics of prayers”, and emphasised the importance of self-reliance and constructive work. They argued that people must rely on their own strength, not on the “good” intentions of the government; people must fight for swaraj. Tilak raised the slogan, “Freedom is my birthright and I shall have it!”
 
 <!-- page 97 (pdf 5) -->
 
@@ -120,11 +124,15 @@ The war also lead the British to expand their army. Villages were pressurised to
 
 Furthermore, in 1917, there was a revolution in Russia. News about peasants’ and workers’ struggles and ideas of socialism circulated widely, inspiring Indian nationalists.
 
-The advent of Mahatma Gandhi It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As you may know, Gandhiji, aged 46, arrived in India in 1915 from South Africa. Having led Indians in that country in non-violent marches against racist restrictions, he was already a respected leader, known internationally. His South African campaigns had brought him in contact with various types of Indians: Hindus, Muslims, Parsis and Christians; Gujaratis, Tamils and north Indians; and upper-class merchants, lawyers and workers.
+### The advent of Mahatma Gandhi
+
+It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As you may know, Gandhiji, aged 46, arrived in India in 1915 from South Africa. Having led Indians in that country in non-violent marches against racist restrictions, he was already a respected leader, known internationally. His South African campaigns had brought him in contact with various types of Indians: Hindus, Muslims, Parsis and Christians; Gujaratis, Tamils and north Indians; and upper-class merchants, lawyers and workers.
 
 Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
-> [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895 In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
+> [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895
+
+> [caption] In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
 
 <!-- page 100 (pdf 8) -->
 
@@ -136,7 +144,9 @@ Knighthood – An honour granted by the British Crown for exceptional personal a
 
 Let us now focus in some detail on the movements organised between 1919 and 1922.
 
-The Rowlatt Satyagraha In 1919, Gandhiji gave a call for a satyagraha against the Rowlatt Act that the British had just passed. The Act curbed fundamental rights such as the freedom of expression and strengthened police powers. Mahatma Gandhi, Mohammad Ali Jinnah and others felt that the government had no right to restrict people’s basic freedoms. They criticised the Act as “devilish” and tyrannical. Gandhiji asked the Indian people to observe 6 April 1919 as a day of non-violent opposition to this Act, as a day of “humiliation and prayer” and hartal (strike). Satyagraha Sabhas were set up to launch the movement.
+### The Rowlatt Satyagraha
+
+In 1919, Gandhiji gave a call for a satyagraha against the Rowlatt Act that the British had just passed. The Act curbed fundamental rights such as the freedom of expression and strengthened police powers. Mahatma Gandhi, Mohammad Ali Jinnah and others felt that the government had no right to restrict people’s basic freedoms. They criticised the Act as “devilish” and tyrannical. Gandhiji asked the Indian people to observe 6 April 1919 as a day of non-violent opposition to this Act, as a day of “humiliation and prayer” and hartal (strike). Satyagraha Sabhas were set up to launch the movement.
 
 The Rowlatt Satyagraha turned out to be the first all-India struggle against the British government although it was largely restricted to cities. In April 1919, there were a number of demonstrations and hartals in the country and the government used brutal measures to suppress them. The Jallianwala Bagh atrocities, inflicted by General Dyer in Amritsar on Baisakhi day (13 April), were a part of this repression. On learning about the massacre, Rabindranath Tagore expressed the pain and anger of the country by renouncing his knighthood.
 
@@ -148,7 +158,9 @@ Khilafat agitation and the Non-Cooperation Movement The Khilafat issue was one s
 
 The Non-Cooperation Movement gained momentum through 1921–22. Thousands of students left government-controlled schools and colleges. Many lawyers such as Motilal Nehru, C.R. Das, C. Rajagopalachari and Asaf Ali gave up their practices. British titles were surrendered and legislatures boycotted. People lit public bonfires of foreign cloth. The imports of foreign cloth fell drastically between 1920 and 1922. But all this was merely the tip of the iceberg. Large parts of the country were on the brink of a formidable revolt.
 
-People’s initiatives In many cases, people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
+### People’s initiatives
+
+In many cases, people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
 
 In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against the high land revenue demand of the British. In coastal Andhra and interior Tamil Nadu, liquor shops were picketed. In the Guntur district of Andhra Pradesh, tribals and poor peasants staged a number of “forest satyagrahas”, sometimes sending their cattle into forests without paying grazing fee. They were protesting because the colonial state
 
@@ -178,7 +190,9 @@ In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic ab
 
 In Punjab, the Akali agitation of the Sikhs sought to remove corrupt mahants – supported by the British – from their gurdwaras. This movement got closely identified with the Non-Cooperation Movement. In Assam, tea garden labourers, shouting “Gandhi Maharaj ki Jai”, demanded a big increase in their wages. They left the British-owned plantations amidst declarations that they were following Gandhiji’s wish. Interestingly, in the Assamese Vaishnava songs of the period, the reference to Krishna was substituted by “Gandhi Raja”.
 
-The people’s Mahatma We can see from the above that sometimes people thought of Gandhiji as a kind of messiah, as someone who could help them overcome their misery and poverty. Gandhiji wished to build class unity, not class conflict, yet peasants could imagine that he would help them in their fight against zamindars, and agricultural labourers believed he would provide them land. At times, ordinary people credited Gandhiji with their own achievements. For instance, at the end of a powerful movement, peasants of Pratapgarh in the United Provinces (now Uttar Pradesh) managed to stop illegal eviction of tenants; but they felt it was Gandhiji who had won this demand for them. At other times, using Gandhiji’s name, tribals and peasants undertook actions that did not conform to Gandhian ideals.
+### The people’s Mahatma
+
+We can see from the above that sometimes people thought of Gandhiji as a kind of messiah, as someone who could help them overcome their misery and poverty. Gandhiji wished to build class unity, not class conflict, yet peasants could imagine that he would help them in their fight against zamindars, and agricultural labourers believed he would provide them land. At times, ordinary people credited Gandhiji with their own achievements. For instance, at the end of a powerful movement, peasants of Pratapgarh in the United Provinces (now Uttar Pradesh) managed to stop illegal eviction of tenants; but they felt it was Gandhiji who had won this demand for them. At other times, using Gandhiji’s name, tribals and peasants undertook actions that did not conform to Gandhian ideals.
 
 <!-- page 103 (pdf 11) -->
 
@@ -192,7 +206,9 @@ The following is an extract from a CID report on the kisan movement in Allahabad
 
 The currency which Mr. Gandhi’s name has acquired even in the remotest villages is astonishing. No one seems to know quite who or what he is, but it is an accepted fact that what he says is so, and what he orders must be done. He is a Mahatma or sadhu, a Pundit, a Brahmin who lives at Allahabad, even a deota … the real power of his name is to be traced back to the idea that it was he who got bedakhli [illegal eviction] stopped in Pratapgarh … as a general rule, Gandhi is not thought of as being antagonistic to Government, but only to the zamindars … We are for Gandhiji and the Sarkar.
 
-The happenings of 1922–1929 Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922, a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
+### The happenings of 1922–1929
+
+Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922, a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
 
 Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that the Congress must undertake constructive work in the rural areas. Other leaders such as Chitta Ranjan Das and Motilal Nehru argued that the party should fight elections to the councils and enter them in order to influence government policies. Through sincere social work in villages in the mid-1920s, the Gandhians were able to extend their support base. This proved to be very useful in launching the Civil Disobedience movement in 1930.
 
@@ -274,7 +290,9 @@ Mahatma Gandhi decided to initiate a new phase of movement against the British i
 
 The first response of the British was severe repression. By the end of 1943, over 90,000 people were arrested, and around 1,000 killed in police firing. In many areas, orders were given to machine-gun crowds from airplanes. The rebellion, however, ultimately brought the Raj to its knees.
 
-Towards Independence and Partition Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Independent States” for Muslims in the north-western and eastern areas of the country. The resolution did not mention partition or Pakistan. Why did the League ask for an autonomous arrangement for the Muslims of the subcontinent?
+### Towards Independence and Partition
+
+Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Independent States” for Muslims in the north-western and eastern areas of the country. The resolution did not mention partition or Pakistan. Why did the League ask for an autonomous arrangement for the Muslims of the subcontinent?
 
 > [note] Bose and the INA
 
@@ -282,7 +300,9 @@ Towards Independence and Partition Meanwhile, in 1940 the Muslim League had move
 
 > [note] A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”. In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA). To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed. The INA members were imprisoned and tried. People across the country, from all walks of life, participated in the movement against the INA trials.
 
-> [caption] Fig. 16 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946 Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
+> [caption] Fig. 16 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946
+
+> [caption] Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
 
 <!-- page 108 (pdf 16) -->
 

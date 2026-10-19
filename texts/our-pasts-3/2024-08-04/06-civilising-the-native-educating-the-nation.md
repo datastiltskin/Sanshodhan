@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch06.pdf"
 source_sha256: "0f3f1c8df84e1437e607e51cefd76b795ad3c96bfc56c3d81f2b07b651378925"
 pdf_pages: 13
 printed_pages: "65-77"
-body_fingerprint: "ca36b4119da95c171173342626c07d82258208fad6f1e403c7be308303e68d8c"
+body_fingerprint: "507fa12e537e42da89aefb680a8cd2eebec33fca2249726852c9bc59c9ad8d5f"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -26,7 +26,9 @@ What changes were to be introduced? How were Indians to be educated, “civilise
 
 Let us look at what the British thought and did, and how some of the ideas of education that we now take for granted evolved in the last two hundred years. In the process of this enquiry, we will also see how Indians reacted to British ideas, and how they developed their own views about how Indians were to be educated.
 
-The tradition of Orientalism In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages Madrasa – An Arabic word for a place of learning; any type of school or college poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+### The tradition of Orientalism
+
+In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages Madrasa – An Arabic word for a place of learning; any type of school or college poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
 
 <!-- page 66 (pdf 2) -->
 
@@ -52,7 +54,9 @@ This image represents how Orientalists thought of British power in India. You wi
 
 Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
-“Grave errors of the East” From the early nineteenth century, many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
+### “Grave errors of the East”
+
+From the early nineteenth century, many British officials began to criticise the Orientalist vision of learning. They said that knowledge of the East was full of errors and unscientific thought; Eastern literature was non-serious and light-hearted. So they argued that it was wrong on the part of the British to spend so much effort in encouraging the study of Arabic and Sanskrit language and literature.
 
 James Mill was one of those who attacked the Orientalists. The British effort, he declared, should not be to teach what the natives wanted, or what they respected, in order to please them and “win a place in their heart”. The aim of education ought to be to teach what was useful and practical. So Indians should be made familiar with the scientific and technical advances that the West had made, rather than with the poetry and sacred literature of the Orient.
 
@@ -70,7 +74,7 @@ By the 1830s, the attack on the Orientalists became sharper. One of the most out
 
 Emphasising the need to teach English, Macaulay declared:
 
-All parties seem to be agreed on one point, that the dialects commonly spoken among the natives ... of India, contain neither literary nor scientific information, and are, moreover, so poor and rude that, until they are enriched from some other quarter, it will not be easy to translate any valuable work into them ...
+All parties seem to be agreed on one point, that the dialects commonly spoken among the natives... of India, contain neither literary nor scientific information, and are, moreover, so poor and rude that, until they are enriched from some other quarter, it will not be easy to translate any valuable work into them ...
 
 > [caption] From Thomas Babington Macaulay,
 
@@ -84,7 +88,9 @@ With gr eat energy and passion, Macaulay emphasised the need to teach the Englis
 
 Following Macaulay’s minute, the English Education Act of 1835 was introduced. The decision was to make English the medium of instruction for higher education, and to stop the promotion of Oriental institutions like the Calcutta Madrasa and Benaras Sanskrit College. These institutions were seen as “temples of darkness that were falling of themselves into decay”. English textbooks now began to be produced for schools.
 
-Education for commerce In 1854, the Court of Directors of the East India Company in London sent an educational despatch to the Governor-General in India. Issued by Charles Wood, the President of the Board of Control of the Company, it has come to be known as Wood’s Despatch. Outlining the educational policy that was to be followed in India, it emphasised once again the practical benefits of a system of European learning, as opposed to Oriental knowledge.
+### Education for commerce
+
+In 1854, the Court of Directors of the East India Company in London sent an educational despatch to the Governor-General in India. Issued by Charles Wood, the President of the Board of Control of the Company, it has come to be known as Wood’s Despatch. Outlining the educational policy that was to be followed in India, it emphasised once again the practical benefits of a system of European learning, as opposed to Oriental knowledge.
 
 One of the practical uses the Despatch pointed to was economic. European learning, it said, would enable Indians to recognise the advantages that flow from the expansion of trade and commerce, and make them see the importance of developing the resources of the country. Introducing them to European ways of life, would change their tastes and desires, and create a demand for British goods, for Indians would begin to appreciate and buy things that were produced in Europe.
 
@@ -128,7 +134,9 @@ The demand for moral education
 
 Do you have any idea of how children were taught in pre-British times? Have you ever wondered whether they went to schools? And if there were schools, what happened to these under British rule?
 
-The report of William Adam In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
+### The report of William Adam
+
+In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
 
 Adam found that there were over 1 lakh pathshalas in Bengal and Bihar. These were small institutions with no more than 20 students each. But the total number of children being taught in these pathshalas was considerable – over 20 lakh. These institutions were set up by wealthy people, or the local community. At times they were started by a teacher (guru).
 
@@ -152,7 +160,9 @@ Activity
 
 In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
 
-New routines, new rules Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854, the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
+### New routines, new rules
+
+Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854, the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
 
 How was this to be done? What measures did the Company undertake? It appointed a number of government pandits, each in charge of looking after four to five schools. The task of the pandit was to visit the pathshalas and try and improve the standard of teaching. Each guru was asked to submit periodic reports and take classes according to a regular timetable. Teaching was now to be based on textbooks and learning was to be tested through a system of annual examination. Students were asked to pay a regular fee, attend regular classes, sit on fixed seats, and obey the new rules of discipline.
 
@@ -168,7 +178,9 @@ British officials were not the only people thinking about education in India. Fr
 
 Let us look at what they had to say.
 
-“English education has enslaved us” Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement, he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
+### “English education has enslaved us”
+
+Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement, he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
 
 Mahatma Gandhi strongly felt that Indian languages ought to be the medium of teaching. Education in English crippled Indians, distanced them from their own social surroundings, and made them “strangers in their own lands”. Speaking a foreign tongue, despising local culture, the English educated did not know how to relate to the masses.
 
@@ -190,7 +202,9 @@ By education I mean an all-round drawing out of the best in child and man – bo
 
 As nationalist sentiments spread, other thinkers also began thinking of a system of national education which would be radically different from that set up by the British.
 
-Tagore’s “abode of peace” Many of you may have heard of Santiniketan. Do you know why it was established and by whom?
+### Tagore’s “abode of peace”
+
+Many of you may have heard of Santiniketan. Do you know why it was established and by whom?
 
 Rabindranath Tagore started the institution in 1901. As a child, Tagore hated going to school. He found it suffocating and oppressive. The school appeared like a prison, for he could never do what he felt like doing. So while other children listened to the teacher, Tagore’s mind would wander away.
 

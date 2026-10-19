@@ -18,15 +18,29 @@ sta srfar COU
 
 <!-- pdf page 2 -->
 
-0764 – SOCIAL AND POLITICAL LIFE—II Textbook for Class VII ISBN 81-7450-672-1 First Edition February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941 March 2021 Phalguna 1942 August 2021 Shravana 1943 November 2021 Agrahayana 1943 PD 610T RSP
+0764 – SOCIAL AND POLITICAL LIFE—II Textbook for Class VII ISBN 81-7450-672-1
 
-> [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] ALL RIGHTS RESERVED
+
+First Edition
+
+> [caption] q No part of this publication may be reproduced, stored in a retrieval system or
+
+February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941 March 2021 Phalguna 1942 August 2021 Shravana 1943 November 2021 Agrahayana 1943
+
+> [caption] transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+PD 610T RSP
 
 © National Council of Educational
 
@@ -36,17 +50,17 @@ Research and Training, 2007
 
 Publication Team
 
-Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal
+Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal
 
 ` 65.00
 
-Chief Production : Arun Chitkara Officer
+Chief Production: Arun Chitkara Officer
 
-Chief Business : Vipin Dewan Manager
+Chief Business: Vipin Dewan Manager
 
-Assistant Editor : Shashi Chadha
+Assistant Editor: Shashi Chadha
 
-Production Assistant : Rajesh Pippal
+Production Assistant: Rajesh Pippal
 
 Printed on 80 GSM paper with NCERT watermark Cover, Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B.M. Offset Printers, D-247/17, Sector-63, Noida, Uttar Pradesh Orijit Sen with Splash! Communications Illustrations Orijit Sen
 
@@ -372,7 +386,9 @@ Note: The Article 51A containing Fundamental Duties was inserted by the Constitu
 
 ## Contents
 
-| 0) oa", 0) 06 Bere iii Introductory note for teaches ........... cee ceeeeeeeeceeeneee eee eee ees vii Teacher’s note on evaluation ....... ict... ce eeeeeeeeeeeneeeeeeeeee eens x Unit One: Equality in Indian Democracy .....................00. 2 Chapter 1: On Equality 2.0... eeceececeeeecteeeeneeeeneeeeneas 4 Unit Two: State Governme)h ...........3...........cscecececeeeeees 16 Chapter 2: Role of the Government in Health ................ 18 Chapter 3: How the State Government Works................ 30 Unit Three: Gender. ................sccccccccceccccccsccccccccccccscceees 42 Chapter 4: Growing up as Boys and Girls ...................... 44 Chapter 5: Women Change the World ....................eeeeeee 54 Unit Four: Media ..............sccscecescsccceseccscececececcsceceseees 68 Chapter 6: Understanding Media .................... cece econ 70 Unit Five: Markets ..............scscesecccsscccscccvccecccecscceseceeees 80 Chapter 7: Markets Around US .............scseb eee ee eee ee eee enes 82 Chapter 8: A Shirt in the Market... eee ee neces 92 Equality in Indian Democracy (continued)
+| 0) oa", 0) 06 Bere iii Introductory note for teaches ........... cee ceeeeeeeeceeeneee eee eee ees vii Teacher’s note on evaluation ....... ict... ce eeeeeeeeeeeneeeeeeeeee eens x Unit One: Equality in Indian Democracy .....................00. 2 Chapter 1: On Equality 2.0... eeceececeeeecteeeeneeeeneeeeneas 4 Unit Two: State Governme)h ...........3...........cscecececeeeeees 16 Chapter 2: Role of the Government in Health ................ 18 Chapter 3: How the State Government Works................ 30 Unit Three: Gender. ................sccccccccceccccccsccccccccccccscceees 42 Chapter 4: Growing up as Boys and Girls ...................... 44 Chapter 5: Women Change the World ....................eeeeeee 54 Unit Four: Media ..............sccscecescsccceseccscececececcsceceseees 68 Chapter 6: Understanding Media .................... cece econ 70 Unit Five: Markets ..............scscesecccsscccscccvccecccecscceseceeees 80 Chapter 7: Markets Around US .............scseb eee ee eee ee eee enes 82 Chapter 8: A Shirt in the Market... eee ee neces 92
+
+Equality in Indian Democracy (continued)
 
 Chapter 9: Struggles for Equality ................. eee 102
 

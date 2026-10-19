@@ -476,7 +476,19 @@ DATE: 01-02-2024
 
 > [table] S/N (cm) R/F S/N
 
-> [table] SRINAGAR 6.5 8.9 –2.4 0.2 –0.7 0.9 TR 0.0 13.4 2.4 89 89 QAZIGUND 3.2 8.5 –5.3 –0.4 –2.1 1.7 11.8 10.0 36.2 22.0 97 90 PAHALGAM 1.1 5.6 –4.5 –4.1 –6.1 2.0 6.0 8.0 19.4 23.0 96 96 KUPWARA 5.1 8.5 –3.4 –0.7 –2.3 1.6 0.5 0.0 21.9 10.0 97 94 KUKERNAG 2.6 6.6 –4.0 –1.4 –2.4 1.0 12.0 8.0 35.2 30.0 96 97 GULMARG –2.6 1.4 –4.0 –7.6 –7.6 0.0 8.2 6.35 35.2 35.0 76 100 MUZAFARABAD 8.5 – – 5.6 – 25.8 – 93 –
+> [table] SRINAGAR 6.5 8.9 –2.4 0.2 –0.7 0.9 TR 0.0 13.4 2.4 89 89
+
+> [table] QAZIGUND 3.2 8.5 –5.3 –0.4 –2.1 1.7 11.8 10.0 36.2 22.0 97 90
+
+> [table] PAHALGAM 1.1 5.6 –4.5 –4.1 –6.1 2.0 6.0 8.0 19.4 23.0 96 96
+
+> [table] KUPWARA 5.1 8.5 –3.4 –0.7 –2.3 1.6 0.5 0.0 21.9 10.0 97 94
+
+> [table] KUKERNAG 2.6 6.6 –4.0 –1.4 –2.4 1.0 12.0 8.0 35.2 30.0 96 97
+
+> [table] GULMARG –2.6 1.4 –4.0 –7.6 –7.6 0.0 8.2 6.35 35.2 35.0 76 100
+
+> [table] MUZAFARABAD 8.5 – – 5.6 – 25.8 – 93 –
 
 Note: ACT means actual; NOR means normal; DEP is departure from normal; R/F is rainfall; S/N is snowfall; TR means trace amount.
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch05.pdf"
 source_sha256: "93f4748d6a04fdcf319c218bcbf1e1666654c6f09356be1b35a336f61b8b5849"
 pdf_pages: 14
 printed_pages: "48-61"
-body_fingerprint: "5b3c0c032ab7bafc6e2a20b62f4f6cce837bca076a284defc37212c73fa23465"
+body_fingerprint: "91ca4af63b72000b2474b467742e42557ebcbab87ea988e081766925043eddf0"
 ---
 
 <!-- page 48 (pdf 1) -->
@@ -151,7 +151,7 @@ Schooling and education today
 
 Today, both boys and girls attend school in large numbers. Yet, as we will see, there still remain differences between the education of boys and girls. India has a census every 10 years, which counts the whole population of the country. It also gathers detailed information about the people living in India – their age, schooling, what work they do, and so on. We use this information to measure many things, like the number of literate people, and the ratio of men and women. According to the 1961 census, about 40 per cent of all boys and men Unlike Rashsundari Devi and Rokeya Hossain, who were not allowed to learn to read and write, large numbers of girls attend school in India today. Despite this, there continue to be many girls who leave school for reasons of poverty, inadequate schooling facilities and discrimination. Providing equal schooling facilities to children from all communities and class backgrounds, and particularly girls, continues to be a challenge in India.
 
-Sustainable Development Goal (SDG) www.in.undp.org
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 56 (pdf 9) -->
 
@@ -167,7 +167,15 @@ Level All SC ST
 
 Boys Girls Total
 
-Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93 Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59 Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68 Source: Educational Statistics at a Glance, MHRD, 2018 You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’. This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school. The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school. While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.
+Primary (Classes 1-5) 4.36 3.88 4.13 4.71 4.20 4.46 7.02 6.84 6.93
+
+Upper Primary (Classes 6-8) 3.49 4.60 4.03 5.00 6.03 5.51 8.48 8.71 8.59
+
+Secondary (Classes 9-10) 17.21 16.88 17.06 19.64 19.05 19.36 24.94 24.40 24.68
+
+Source: Educational Statistics at a Glance, MHRD, 2018
+
+You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’. This means that girls who are from Dalit (SC) and Adivasi (ST) backgrounds are less likely to remain in school. The 2011 census also found that Muslim girls are less likely, than SC and ST girls, to complete primary school. While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.
 
 > [note] What percentage of children leave school at the upper primary level?
 

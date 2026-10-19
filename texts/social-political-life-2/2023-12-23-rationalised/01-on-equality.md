@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch01.pdf"
 source_sha256: "f3d00ae74b615e82f5b087edaf9aa0bb93197f0c32bae53633ccc42fc68e811e"
 pdf_pages: 8
 printed_pages: "2-9"
-body_fingerprint: "6c5e3165457a8f79c9d9be3024831e3f56bcb6d77b1252503c9c4a6731240313"
+body_fingerprint: "01682da3608ea84541a511081ec2dd0add0b1279c4be30c33b7249f40cc54edf"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -55,9 +55,11 @@ The two ways in which the government has tried to implement the equality that is
 
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
-Sustainable Development Goal (SDG) www.in.undp.org children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 6 (pdf 5) -->
+
+children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
 
 While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not respected. This is because people refuse to think of them as equal even though the law requires it.
 

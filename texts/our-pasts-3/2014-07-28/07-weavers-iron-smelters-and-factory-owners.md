@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf"
 source_sha256: "b08a9af74359a5edfc940ed5022dcf2faeaaa194584af724defea4c909406e1c"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "8c7ce35855acd5f536e34100de91632da4441a3dbfdd285cb1b7604c71cda62d"
+body_fingerprint: "66cb986ddd8fa524bf0426c3863220b00cd8f8fb1c20982be94680be638cf6d8"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -109,7 +109,9 @@ The first stage of production was spinning – a work done mostly by women. The 
 
 > [table] The tanti weaver here is at work in the pit loom. Do you know what a pit loom is?
 
-The decline of Indian textiles The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
+### The decline of Indian textiles
+
+The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
 
 Aurang – A Persian term for a warehouse – a place where goods are collected before being sold; also refers to a workshop By the beginning of the nineteenth century, English-made cotton textiles successfully ousted Indian goods from their traditional markets in Africa, America and Europe. Thousands of weavers in India were now thrown out of employment. Bengal weavers were the worst hit. English and European companies stopped buying Indian goods and their agents no longer gave out
 
@@ -157,7 +159,9 @@ You must have heard of Sholapur in western India and Madura in South India. Thes
 
 What happened to the weavers and spinners who lost their livelihood? Many weavers became agricultural labourers. Some migrated to cities in search of work, and yet others went out of the country to work in plantations in Africa and South America. Some of these handloom weavers also found work in the new cotton mills that were established in Bombay (now Mumbai), Ahmedabad, Sholapur, Nagpur and Kanpur.
 
-Cotton mills come up The first cotton mill in India was set up as a spinning mill in Bombay in 1854. From the early nineteenth century, Bombay had grown as an important port for the export of raw cotton from India to England and China. It was close to the vast black soil tract of western India where cotton was grown. When the cotton textile mills came up they could get supplies of raw material with ease.
+### Cotton mills come up
+
+The first cotton mill in India was set up as a spinning mill in Bombay in 1854. From the early nineteenth century, Bombay had grown as an important port for the export of raw cotton from India to England and China. It was close to the vast black soil tract of western India where cotton was grown. When the cotton textile mills came up they could get supplies of raw material with ease.
 
 > [caption] Fig. 10 – Workers in a cotton factory, circa 1900, photograph by Raja Deen Dayal Most workers in the spinning departments were women, while workers in the weaving departments were mostly men.
 
@@ -215,7 +219,9 @@ By the early twentieth century, the artisans producing iron and steel faced a ne
 
 <!-- page 91 (pdf 13) -->
 
-Iron and steel factories come up in India The year was 1904. In the hot month of April, Charles Weld, an American geologist and Dorabji Tata, the eldest son of Jamsetji Tata, were travelling in Chhattisgarh in search of iron ore deposits. They had spent many months on a costly venture looking for sources of good iron ore to set up a modern iron and steel plant in India. Jamsetji Tata had decided to spend a large part of his fortune to build a big iron and steel industry in India. But this could not be done without identifying the source of fine quality iron ore.
+### Iron and steel factories come up in India
+
+The year was 1904. In the hot month of April, Charles Weld, an American geologist and Dorabji Tata, the eldest son of Jamsetji Tata, were travelling in Chhattisgarh in search of iron ore deposits. They had spent many months on a costly venture looking for sources of good iron ore to set up a modern iron and steel plant in India. Jamsetji Tata had decided to spend a large part of his fortune to build a big iron and steel industry in India. But this could not be done without identifying the source of fine quality iron ore.
 
 One day, after travelling for many hours in the forests, Weld and Dorabji came upon a small village and found a group of men and women carrying basketloads of iron ore. These people were the Agarias. When asked where they had found the iron ore, the Agarias pointed to a hill in the distance. Weld and Dorabji reached the hill after an exhausting trek through dense forests. On exploring the hill the geologist declared that they had at last found what they had been looking for. Rajhara Hills had one of the finest ores in the world.
 

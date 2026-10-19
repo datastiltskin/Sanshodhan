@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch10.pdf"
 source_sha256: "880472f33cb3eac4ccb296d541ad4317b3a9e9aaf7c9bc6c22cabae3218e6f7c"
 pdf_pages: 8
 printed_pages: "114-121"
-body_fingerprint: "47d90ab8f715d00030f094dc3ddec03257fd9ca2749ee6e0ee957c9f22f87915"
+body_fingerprint: "2cefc6cac2a7c97e5f11f3aa68aa23cdb2692668968f1e38d3c209e4cec439a4"
 ---
 
 <!-- page 114 (pdf 1) -->
@@ -25,7 +25,7 @@ As you have already read in this book, the Indian Constitution recognises all In
 
 But this feeling of equality that the ballot box provides, because the vote of one person is as good as that of another, does not extend to most people’s lives. As you have read, the increasing privatisation of health services and the neglect of government hospitals have made it difficult for most poor people like Kanta, Hakim Sheik and Aman to get good quality health care. These people do not have the resources to afford expensive private health services.
 
-Similarly, the man who sells juice does not have the resources to compete with all of the major companies who sell branded drinks through expensive advertising. Swapna does not have sufficient resources to grow cotton and, so, has to take a loan from the trader to grow her crop. This forces her to sell her cotton at a lower price. Melani, like the millions of domestic workers across the country, is forced to endure the insults and hardship of working as a domestic help because she has no resources to set up something on her own. Poverty Poverty and the lack of resources continue to be a key reason why so many people’s lives in India are highly unequal.
+Similarly, the man who sells juice does not have the resources to compete with all of the major companies who sell branded drinks through expensive advertising. Swapna does not have sufficient resources to grow cotton and, so, has to take a loan from the trader to grow her crop. This forces her to sell her cotton at a lower price. Melani, like the millions of domestic workers across the country, is forced to endure the insults and hardship of working as a domestic help because she has no resources to set up something on her own. Poverty and the lack of resources continue to be a key reason why so many people’s lives in India are highly unequal.
 
 On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
 

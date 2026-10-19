@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch03.pdf"
 source_sha256: "4bb904dfc52ef62e640a40b74626dfb2ae222195d4e72cdfe8d6cfb893e3a76c"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "5cfade1226103e0579888daa5e054a1aec8b3acb3efa72108adc8da0c0fdf5b5"
+body_fingerprint: "82f920156b64eabe0acc64032cc8d38318e0dd4980d276637513075e3053d2cc"
 ---
 
 <!-- page 108 (pdf 2) -->
@@ -23,7 +23,9 @@ Have you ever thought of how children lived about two hundred years ago? Nowaday
 
 Two hundred years ago things were very different. Most children were married off at an early age. Both Hindu and Muslim men could marry more than one wife. In some parts of the country, widows were praised if they chose death by burning themselves on the funeral pyre of their husbands. Women who died in this manner, whether willingly or otherwise, were called “sati”, meaning virtuous women. Women’s rights to property were also restricted. Besides, most women had virtually no access to education. In many parts of the country people believed that if a woman was educated, she would become a widow.
 
-> [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813 This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
+> [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813
+
+> [caption] This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
 
 <!-- page 109 (pdf 3) -->
 
@@ -83,7 +85,9 @@ Activity This argument was taking place more than 175 years ago. Write down the 
 
 <!-- page 112 (pdf 6) -->
 
-Girls begin going to school Many of the reformers felt that education for girls was necessary in order to improve the condition of women.
+### Girls begin going to school
+
+Many of the reformers felt that education for girls was necessary in order to improve the condition of women.
 
 Vidyasagar in Calcutta and many other reformers in Bombay set up schools for girls. When the first schools were opened in the mid-nineteenth century, many people were afraid of them. They feared that schools would take girls away from home, prevent them from doing their domestic duties. Moreover, girls had to travel through public places in order to reach school. Many people felt that this would have a corrupting influence on them. They felt that girls should stay away from public spaces. Therefore, throughout the nineteenth century, most educated women were taught at home by liberal fathers or husbands. Sometimes women taught themselves. Do you remember what you read about Rashsundari Debi in your book Social and Political Life last year? She was one of those who secretly learned to read and write in the flickering light of candles at night.
 
@@ -95,7 +99,9 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 > [caption] Fig. 5 Ishwarchandra Vidyasagar
 
-> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875 When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
+> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875
+
+> [caption] When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
 
 <!-- page 113 (pdf 7) -->
 
@@ -165,7 +171,9 @@ No place inside the classroom
 
 Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
 
-Demands for equality and justice Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
+### Demands for equality and justice
+
+Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
@@ -217,7 +225,9 @@ His aim was to make everyone see the power of caste prejudices within society.
 
 <!-- page 119 (pdf 13) -->
 
-The Non-Brahman movement In the early twentieth century, the non-Brahman movement started. The initiative came from those non-Brahman castes that had acquired access to education, wealth and influence. They argued that Brahmans were heirs of Aryan invaders from the north who had conquered southern lands from the original inhabitants of the region – the indigenous Dravidian races. They also challenged Brahmanical claims to power.
+### The Non-Brahman movement
+
+In the early twentieth century, the non-Brahman movement started. The initiative came from those non-Brahman castes that had acquired access to education, wealth and influence. They argued that Brahmans were heirs of Aryan invaders from the north who had conquered southern lands from the original inhabitants of the region – the indigenous Dravidian races. They also challenged Brahmanical claims to power.
 
 E.V. Ramaswamy Naicker, or Periyar, as he was called, came from a middle-class family. Interestingly, he had been an ascetic in his early life and had studied Sanskrit scriptures carefully. Later, he became a member of the Congress, only to leave it in disgust when he found that at a feast organised by nationalists, seating arrangements followed caste distinctions – that is, the lower castes were made to sit at a distance from the upper castes. Convinced that untouchables had to fight for their dignity, Periyar founded the Self Respect Movement. He argued that untouchables were the true upholders of an original Tamil and Dravidian culture which had been subjugated by Brahmans. He felt that all religious authorities saw social divisions and inequality as God-given. Untouchables had to free themselves, therefore, from all religions in order to achieve social equality.
 
@@ -245,25 +255,39 @@ Activity Why does caste remain such a controversial issue today? What do you thi
 
 Organising for reform
 
-> [note] Derozio and Young Bengal Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
+> [note] The Brahmo Samaj
 
-> [note] The Veda Samaj Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
+> [note] Derozio and Young Bengal
 
-> [note] The Aligarh Movement The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+> [note] Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
 
-> [note] The Singh Sabha Movement Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+> [note] The Ramakrishna Mission and Vivekananda
 
-> [note] The Brahmo Samaj The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
+> [note] The Prarthana Samaj
+
+> [note] Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
+
+> [note] The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+
+> [note] Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+
+> [note] The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
 > [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj Fig. 17 Henry Derozio
 
-> [note] The Ramakrishna Mission and Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
+> [note] Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
 
-> [note] The Prarthana Samaj Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
+> [note] Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
 
 > [caption] Fig. 18 Swami Vivekananda
 
+> [note] The Veda Samaj
+
+> [note] The Aligarh Movement
+
 > [caption] Fig. 19 Sayyid Ahmed Khan
+
+> [note] The Singh Sabha Movement
 
 > [caption] Fig. 20 – Khalsa College, Amritsar, established in 1892 by the leaders of the Singh Sabha movement
 

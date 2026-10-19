@@ -7,9 +7,10 @@ snapshots:
 chapter: 6
 title: "Understanding Media"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch06.pdf"
+source_sha256: "0c902779fc6aedda2e807f9d9c20bc2e0c5916f230e239121bab390746926ff6"
 pdf_pages: 14
 printed_pages: "68-81"
-body_fingerprint: "d96d1c29a91b770bc8e5c37acea588d378288bda4c70e4ec5af500846e9591d9"
+body_fingerprint: "29caa5973786c0de25cbff3ddb66b44f86869dad06cc024ca8e191ecb43b949b"
 ocr: true
 ocr_confidence: 80.5
 ---
@@ -188,7 +189,9 @@ a@) SEEONBOTHTHESIDES 45) LISTEN CAREFULLY to spot an approaching train. brotha 
 
 <!-- page 79 (pdf 12) -->
 
-(— > BIG BUSINESS HOUSES Some own radio, | | TV, newspaper People buy advertise products their seen in the products media. Money, therefore, flows back to big business ] houses mS MEDIA ~~ | | duct , through VIEWERS, advertisements LISTENERS Ne y, Chapter 6: Understanding Media 79 Can you give this diagram a title? What do you understand about the link between media and big business from this diagram?
+(— > BIG BUSINESS HOUSES Some own radio, | | TV, newspaper People buy advertise products their seen in the products media. Money, therefore, flows back to big business ] houses mS MEDIA ~~ | | duct , through VIEWERS, advertisements LISTENERS Ne y, Chapter 6: Understanding Media 79
+
+Can you give this diagram a title? What do you understand about the link between media and big business from this diagram?
 
 You have read about the ways in which the media ‘sets the agenda’. What kind of effect does this have in a democracy? Provide two examples to support your point of view.
 

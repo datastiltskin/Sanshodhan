@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch03.pdf"
 source_sha256: "e6f595c477a4e4a0ad3a37d9afc57ce5437f8ea0c64cff3f7b9eb098de4e2d15"
 pdf_pages: 12
 printed_pages: "30-41"
-body_fingerprint: "508f6672efdee86ca29d76c632c4f40e8b14e08c62b1732632d0d095a8844a40"
+body_fingerprint: "f32f95c1a77a8bbab07f53235d029fdcca3a8bea67b3bf486593cc50bf8d1606"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -47,7 +47,7 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to
+> [caption] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to
 
 > [table] bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
@@ -91,7 +91,21 @@ Punjab Uttarakhand
 
 <!-- page 33 (pdf 4) -->
 
-Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) ............................................................. 44 Indian National Congress (INC) ................................................... 21 Communist Party of India (Marxist)............................................... 1 Independents (who don’t belong to any party) .......................... 2 Total ................................................................................ 68 For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
+Results of the Assembly Elections in Himachal Pradesh in 2017
+
+Political party Number of MLAs elected
+
+Bharatiya Janata Party (BJP) ............................................................. 44
+
+Indian National Congress (INC) ................................................... 21
+
+Communist Party of India (Marxist)............................................... 1
+
+Independents (who don’t belong to any party) .......................... 2
+
+Total ................................................................................ 68
+
+For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
 
 > [table] Construct a table, similar to the one given for Himachal Pradesh, for your state.
 
@@ -125,13 +139,15 @@ MLA 4: I think my colleagues are exaggerating the problem. The government has ta
 
 MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
 
-MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 5 In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
+MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 5
 
 > [caption] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
 
 > [note] 3 4
 
 <!-- page 36 (pdf 7) -->
+
+In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
 
 Working of the government
 

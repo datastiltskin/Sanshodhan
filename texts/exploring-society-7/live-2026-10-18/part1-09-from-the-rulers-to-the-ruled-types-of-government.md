@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "7f3da2693f9ef9b659b18af34b670d2c1390fa522bbd651555648da15fd54df9"
+body_fingerprint: "0475afc6f2a84c333935cb894e4e7a9f977c176bf7db62363c81b4da3af0aab0"
 ---
 
 <!-- page 185 (pdf 1) -->
@@ -210,11 +210,23 @@ Elections are an integral part of representative democracy through which people 
 
 As we stated in the beginning, democracies have evolved over time, and so have their characteristics. Even today, there are a lot of differences in the functioning of these democracies. It is useful to remember that when these countries adopted democracies, they may not have had all the principles of democracy as we understand them today. For example, effective Universal Adult Suffrage in the UK happened in 1928 and in the USA by 1965.
 
-Country Year when democracy was established USA 1787 Switzerland 1848 India 1947 Germany 1949 Kenya 1964 Nepal 2008 Most of the democracies today are representative democracies. But every democracy functions differently. Here are the two forms of representative democracy.
+Country Year when democracy was established USA 1787
+
+Switzerland 1848
+
+India 1947
+
+Germany 1949
+
+Kenya 1964
+
+Nepal 2008
 
 > [caption] Accountability: Accountability in democracy means that the government is answerable to the people who have elected them.
 
 <!-- page 194 (pdf 10) -->
+
+Most of the democracies today are representative democracies. But every democracy functions differently. Here are the two forms of representative democracy.
 
 a. Parliamentary democracy
 

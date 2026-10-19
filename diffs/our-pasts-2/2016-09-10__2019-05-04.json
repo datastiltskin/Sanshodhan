@@ -7,22 +7,24 @@
   "chapters_dropped": 0,
   "chapters_added": 0,
   "body": {
-   "deleted": 4,
+   "deleted": 3,
    "inserted": 5,
-   "modified": 54,
+   "modified": 49,
    "moved": 0,
    "typographic": 24,
-   "restreamed": 109,
+   "restreamed": 112,
+   "resplit": 0,
    "unreadable": 0,
    "punctuation": 3
   },
   "other_streams": {
    "deleted": 7,
-   "inserted": 71,
-   "modified": 42,
+   "inserted": 68,
+   "modified": 33,
    "moved": 4,
    "typographic": 19,
    "restreamed": 24,
+   "resplit": 1,
    "unreadable": 0,
    "punctuation": 3
   },
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -224,6 +227,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 15,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2192,6 +2196,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2350,6 +2355,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2509,6 +2515,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2522,6 +2529,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2535,6 +2543,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2861,6 +2870,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2874,6 +2884,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2887,6 +2898,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3018,7 +3030,7 @@
     "title": "NEW KINGS AND KINGDOMS",
     "file": "texts/our-pasts-2/2019-05-04/02-new-kings-and-kingdoms.md"
    },
-   "similarity": 0.92,
+   "similarity": 0.93,
    "status": "matched",
    "streams": {
     "heading": {
@@ -3029,6 +3041,7 @@
       "moved": 0,
       "typographic": 4,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3236,10 +3249,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 7,
+      "modified": 6,
       "moved": 0,
       "typographic": 3,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -3696,31 +3710,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.956,
-       "old": "One of the best known of such rulers is Sultan Sultan Mahmud of Ghazni, Afghanistan.",
-       "new": "One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan.",
-       "old_page": 21,
-       "new_page": 21,
-       "words": [
-        [
-         "=",
-         "One of the best known of such rulers is Sultan"
-        ],
-        [
-         "-",
-         "Sultan"
-        ],
-        [
-         "=",
-         "Mahmud of Ghazni, Afghanistan."
-        ]
-       ],
-       "old_pos": 40,
-       "new_pos": 40
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.966,
        "old": "This Arabic work, known as the Kitab-al Hind, remains an important source for historians.",
        "new": "This Arabic work, known as the Kitab ul-Hind, remains an important source for historians.",
@@ -3880,6 +3869,18 @@
        "words": [],
        "old_pos": 39,
        "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan.",
+       "new": "One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan.",
+       "old_page": 21,
+       "new_page": 21,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 40
       },
       {
        "type": "equal",
@@ -4710,6 +4711,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -4898,8 +4900,8 @@
       {
        "type": "modified",
        "stream": "note",
-       "similarity": 0.875,
-       "old": "Sultan Sultan is an Arabic term meaning ruler.",
+       "similarity": 0.959,
+       "old": "Sultan is an Arabic term meaning ruler.",
        "new": "Sultan An Arabic term meaning ruler.",
        "old_page": 21,
        "new_page": 21,
@@ -4910,7 +4912,7 @@
         ],
         [
          "-",
-         "Sultan is an"
+         "is an"
         ],
         [
          "+",
@@ -5155,6 +5157,7 @@
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5354,6 +5357,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5367,6 +5371,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5602,6 +5607,7 @@
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5832,6 +5838,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5845,6 +5852,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5858,6 +5866,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5982,17 +5991,18 @@
     "title": "THE DELHI SULTANS",
     "file": "texts/our-pasts-2/2019-05-04/03-the-delhi-sultans.md"
    },
-   "similarity": 0.908,
+   "similarity": 0.918,
    "status": "matched",
    "streams": {
     "heading": {
      "counts": {
       "deleted": 0,
-      "inserted": 1,
+      "inserted": 0,
       "modified": 0,
       "moved": 0,
       "typographic": 4,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -6111,18 +6121,6 @@
        "new_pos": 5
       },
       {
-       "type": "inserted",
-       "stream": "heading",
-       "similarity": null,
-       "old": null,
-       "new": "The Masjid",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 6
-      },
-      {
        "type": "typographic",
        "stream": "heading",
        "similarity": 1.0,
@@ -6234,12 +6232,13 @@
     },
     "body": {
      "counts": {
-      "deleted": 1,
+      "deleted": 0,
       "inserted": 0,
-      "modified": 10,
+      "modified": 9,
       "moved": 0,
       "typographic": 20,
-      "restreamed": 0,
+      "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -6682,31 +6681,6 @@
        "new_pos": 34
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.861,
-       "old": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions gender distinctions gender distinctions.",
-       "new": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions.",
-       "old_page": 33,
-       "new_page": 33,
-       "words": [
-        [
-         "=",
-         "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender"
-        ],
-        [
-         "-",
-         "distinctions gender distinctions gender"
-        ],
-        [
-         "=",
-         "distinctions."
-        ]
-       ],
-       "old_pos": 37,
-       "new_pos": 37
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -6729,6 +6703,18 @@
        "words": [],
        "old_pos": 36,
        "new_pos": 36
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions.",
+       "new": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions.",
+       "old_page": 33,
+       "new_page": 33,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 37
       },
       {
        "type": "equal",
@@ -7088,18 +7074,6 @@
        "words": [],
        "old_pos": 61,
        "new_pos": 61
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "The The Masjid Masjid",
-       "new": null,
-       "old_page": 36,
-       "new_page": null,
-       "words": [],
-       "old_pos": 62,
-       "new_pos": null
       },
       {
        "type": "modified",
@@ -7926,6 +7900,18 @@
        "new_pos": 124
       },
       {
+       "type": "restreamed",
+       "stream": "body>heading",
+       "similarity": 1.0,
+       "old": "The Masjid",
+       "new": "The Masjid",
+       "old_page": 36,
+       "new_page": 36,
+       "words": [],
+       "old_pos": 62,
+       "new_pos": 6
+      },
+      {
        "type": "modified",
        "stream": "body>note",
        "similarity": 0.997,
@@ -8005,6 +7991,7 @@
       "moved": 2,
       "typographic": 4,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8626,10 +8613,11 @@
      "counts": {
       "deleted": 2,
       "inserted": 6,
-      "modified": 14,
+      "modified": 9,
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -9093,31 +9081,6 @@
       {
        "type": "modified",
        "stream": "caption",
-       "similarity": 0.962,
-       "old": "Produce from the same area was collected as tax to feed feed the army.",
-       "new": "Produce from the same area was collected as tax to feed the army.",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [
-        [
-         "=",
-         "Produce from the same area was collected as tax to feed"
-        ],
-        [
-         "-",
-         "feed"
-        ],
-        [
-         "=",
-         "the army."
-        ]
-       ],
-       "old_pos": 31,
-       "new_pos": 35
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
        "similarity": 0.875,
        "old": "But to meet the need of the large number of soldiers the Sultan levied additional taxes.",
        "new": "But to meet the expense of maintaining such a large number of soldiers the Sultan levied additional taxes.",
@@ -9155,106 +9118,6 @@
        ],
        "old_pos": 32,
        "new_pos": 36
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.867,
-       "old": "The soldiers had to be fed fed fed.",
-       "new": "The soldiers had to be fed.",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [
-        [
-         "=",
-         "The soldiers had to be"
-        ],
-        [
-         "-",
-         "fed fed"
-        ],
-        [
-         "=",
-         "fed."
-        ]
-       ],
-       "old_pos": 34,
-       "new_pos": 38
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.844,
-       "old": "The soldiers had to be paid paid paid.",
-       "new": "The soldiers had to be paid.",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [
-        [
-         "=",
-         "The soldiers had to be"
-        ],
-        [
-         "-",
-         "paid paid"
-        ],
-        [
-         "=",
-         "paid."
-        ]
-       ],
-       "old_pos": 42,
-       "new_pos": 46
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.826,
-       "old": "Muhammad Tughluq’s administrative measures administrative measures were a failure.",
-       "new": "Muhammad Tughluq’s administrative measures were a failure.",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [
-        [
-         "=",
-         "Muhammad Tughluq’s"
-        ],
-        [
-         "-",
-         "administrative measures"
-        ],
-        [
-         "=",
-         "administrative measures were a failure."
-        ]
-       ],
-       "old_pos": 47,
-       "new_pos": 51
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.972,
-       "old": "Alauddin’s administrative measures measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
-       "new": "Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [
-        [
-         "=",
-         "Alauddin’s administrative"
-        ],
-        [
-         "-",
-         "measures"
-        ],
-        [
-         "=",
-         "measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market."
-        ]
-       ],
-       "old_pos": 54,
-       "new_pos": 58
       },
       {
        "type": "modified",
@@ -9389,6 +9252,18 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
+       "old": "Produce from the same area was collected as tax to feed the army.",
+       "new": "Produce from the same area was collected as tax to feed the army.",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 31,
+       "new_pos": 35
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
        "old": "This coincided with famine in the area.",
        "new": "This coincided with famine in the area.",
        "old_page": 41,
@@ -9396,6 +9271,18 @@
        "words": [],
        "old_pos": 33,
        "new_pos": 37
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "The soldiers had to be fed.",
+       "new": "The soldiers had to be fed.",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 38
       },
       {
        "type": "equal",
@@ -9485,6 +9372,18 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
+       "old": "The soldiers had to be paid.",
+       "new": "The soldiers had to be paid.",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 42,
+       "new_pos": 46
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
        "old": "Alauddin chose to pay his soldiers salaries in cash rather than iqtas.",
        "new": "Alauddin chose to pay his soldiers salaries in cash rather than iqtas.",
        "old_page": 41,
@@ -9528,6 +9427,18 @@
        "words": [],
        "old_pos": 46,
        "new_pos": 50
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Muhammad Tughluq’s administrative measures were a failure.",
+       "new": "Muhammad Tughluq’s administrative measures were a failure.",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 47,
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -9605,6 +9516,18 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
+       "old": "Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
+       "new": "Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 54,
+       "new_pos": 58
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
        "old": "He successfully withstood the threat of Mongol invasions.",
        "new": "He successfully withstood the threat of Mongol invasions.",
        "old_page": 41,
@@ -9623,6 +9546,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9636,6 +9560,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9722,6 +9647,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9964,6 +9890,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9977,6 +9904,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9990,6 +9918,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10044,7 +9973,7 @@
       "page": 36,
       "new_page": 36,
       "sentences": 14,
-      "score": 0.93,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -10132,6 +10061,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10338,6 +10268,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 28,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10971,8 +10902,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
-       "new": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "old": "Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "new": "Mughal campaigns continued in the Deccan under Shah Jahan.",
        "old_page": 49,
        "new_page": 49,
        "words": [],
@@ -12572,6 +12503,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12682,6 +12614,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12960,6 +12893,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12985,6 +12919,18 @@
        "old_page": 49,
        "new_page": 49,
        "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Shah Jahan 1627-1658",
+       "new": "Shah Jahan 1627-1658",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
        "old_pos": 1,
        "new_pos": 1
       },
@@ -12997,7 +12943,7 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 2,
+       "old_pos": 3,
        "new_pos": 21
       }
      ]
@@ -13010,6 +12956,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13018,48 +12965,16 @@
     "exercises": {
      "counts": {
       "deleted": 0,
-      "inserted": 3,
-      "modified": 2,
+      "inserted": 2,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 7,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.682,
-       "old": "mansab Marwar Mongol governor",
-       "new": "Mongol governor",
-       "old_page": 57,
-       "new_page": 57,
-       "words": [
-        [
-         "-",
-         "mansab Marwar"
-        ],
-        [
-         "=",
-         "Mongol governor"
-        ]
-       ],
-       "old_pos": 1,
-       "new_pos": 2
-      },
-      {
-       "type": "inserted",
-       "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "mansab Marwar",
-       "old_page": null,
-       "new_page": 57,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 1
-      },
       {
        "type": "inserted",
        "stream": "exercises",
@@ -13083,6 +12998,18 @@
        "words": [],
        "old_pos": null,
        "new_pos": 4
+      },
+      {
+       "type": "resplit",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "mansab Marwar Mongol governor",
+       "new": "mansab Marwar Mongol governor",
+       "old_page": 57,
+       "new_page": 57,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
       },
       {
        "type": "equal",
@@ -13367,6 +13294,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13393,6 +13321,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13406,6 +13335,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13445,7 +13375,7 @@
      {
       "page": 49,
       "new_page": 49,
-      "sentences": 21,
+      "sentences": 22,
       "score": 1.0,
       "suspect": false
      },
@@ -13548,6 +13478,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13695,6 +13626,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15180,6 +15112,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15260,13 +15193,25 @@
        "type": "equal",
        "stream": "note",
        "similarity": 1.0,
-       "old": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
-       "new": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "old": "Pietra dura",
+       "new": "Pietra dura",
        "old_page": 69,
        "new_page": 69,
        "words": [],
        "old_pos": 7,
        "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "new": "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "old_page": 69,
+       "new_page": 69,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 10
       },
       {
        "type": "inserted",
@@ -15278,7 +15223,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": null,
-       "new_pos": 10
+       "new_pos": 11
       },
       {
        "type": "inserted",
@@ -15290,7 +15235,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": null,
-       "new_pos": 11
+       "new_pos": 12
       },
       {
        "type": "inserted",
@@ -15302,7 +15247,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": null,
-       "new_pos": 12
+       "new_pos": 13
       },
       {
        "type": "restreamed",
@@ -15326,6 +15271,7 @@
       "moved": 1,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16084,6 +16030,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16122,7 +16069,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 1,
-       "new_pos": 13
+       "new_pos": 14
       }
      ]
     },
@@ -16134,6 +16081,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16147,6 +16095,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16365,6 +16314,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16415,6 +16365,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16428,6 +16379,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16502,7 +16454,7 @@
      {
       "page": 69,
       "new_page": 69,
-      "sentences": 12,
+      "sentences": 13,
       "score": 1.0,
       "suspect": false
      },
@@ -16570,6 +16522,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16760,10 +16713,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 4,
+      "modified": 3,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 8,
+      "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -18346,6 +18300,18 @@
       },
       {
        "type": "restreamed",
+       "stream": "body>source",
+       "similarity": 1.0,
+       "old": "… at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
+       "new": "… at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
+       "old_page": 83,
+       "new_page": 83,
+       "words": [],
+       "old_pos": 69,
+       "new_pos": 0
+      },
+      {
+       "type": "restreamed",
        "stream": "body>heading",
        "similarity": 1.0,
        "old": "A poor fisher town",
@@ -18391,27 +18357,6 @@
        "words": [],
        "old_pos": 102,
        "new_pos": 3
-      },
-      {
-       "type": "modified",
-       "stream": "body>source",
-       "similarity": 0.994,
-       "old": "… at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
-       "new": "… … at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
-       "old_page": 83,
-       "new_page": 83,
-       "words": [
-        [
-         "+",
-         "…"
-        ],
-        [
-         "=",
-         "… at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs."
-        ]
-       ],
-       "old_pos": 69,
-       "new_pos": 0
       }
      ]
     },
@@ -18423,6 +18368,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19035,6 +18981,7 @@
       "moved": 1,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19271,6 +19218,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19284,6 +19232,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19297,6 +19246,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19659,6 +19609,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19672,6 +19623,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19685,6 +19637,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19823,17 +19776,18 @@
     "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
     "file": "texts/our-pasts-2/2019-05-04/07-tribes-nomads-and-settled-communities.md"
    },
-   "similarity": 0.994,
+   "similarity": 1.0,
    "status": "matched",
    "streams": {
     "heading": {
      "counts": {
       "deleted": 0,
-      "inserted": 1,
+      "inserted": 0,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19885,18 +19839,6 @@
        "words": [],
        "old_pos": 3,
        "new_pos": 3
-      },
-      {
-       "type": "inserted",
-       "stream": "heading",
-       "similarity": null,
-       "old": null,
-       "new": "Deliberations on jati",
-       "old_page": null,
-       "new_page": 96,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 6
       },
       {
        "type": "equal",
@@ -19988,10 +19930,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 1,
+      "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 11,
+      "restreamed": 12,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20753,27 +20696,6 @@
        "new_pos": 62
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.807,
-       "old": "Deliberations on Deliberations on jati jati Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
-       "new": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
-       "old_page": 96,
-       "new_page": 97,
-       "words": [
-        [
-         "-",
-         "Deliberations on Deliberations on jati jati"
-        ],
-        [
-         "=",
-         "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries."
-        ]
-       ],
-       "old_pos": 85,
-       "new_pos": 74
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -20909,12 +20831,24 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
-       "new": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
-       "old_page": 96,
+       "old": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
+       "new": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
+       "old_page": 97,
        "new_page": 97,
        "words": [],
        "old_pos": 86,
+       "new_pos": 74
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
+       "new": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
+       "old_page": 97,
+       "new_page": 97,
+       "words": [],
+       "old_pos": 87,
        "new_pos": 75
       },
       {
@@ -20923,10 +20857,10 @@
        "similarity": 1.0,
        "old": "Some of these, too, had been tribes earlier.",
        "new": "Some of these, too, had been tribes earlier.",
-       "old_page": 96,
+       "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 87,
+       "old_pos": 88,
        "new_pos": 76
       },
       {
@@ -20935,10 +20869,10 @@
        "similarity": 1.0,
        "old": "Many of these clans came to be regarded as Rajputs.",
        "new": "Many of these clans came to be regarded as Rajputs.",
-       "old_page": 96,
+       "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 88,
+       "old_pos": 89,
        "new_pos": 77
       },
       {
@@ -20947,10 +20881,10 @@
        "similarity": 1.0,
        "old": "They gradually replaced the older rulers, especially in agricultural areas.",
        "new": "They gradually replaced the older rulers, especially in agricultural areas.",
-       "old_page": 96,
+       "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 89,
+       "old_pos": 90,
        "new_pos": 78
       },
       {
@@ -20959,10 +20893,10 @@
        "similarity": 1.0,
        "old": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
        "new": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
-       "old_page": 96,
+       "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 90,
+       "old_pos": 91,
        "new_pos": 79
       },
       {
@@ -20974,7 +20908,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 91,
+       "old_pos": 92,
        "new_pos": 80
       },
       {
@@ -20986,7 +20920,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 92,
+       "old_pos": 93,
        "new_pos": 81
       },
       {
@@ -20998,7 +20932,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 93,
+       "old_pos": 94,
        "new_pos": 82
       },
       {
@@ -21010,7 +20944,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 94,
+       "old_pos": 95,
        "new_pos": 83
       },
       {
@@ -21022,7 +20956,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 95,
+       "old_pos": 96,
        "new_pos": 84
       },
       {
@@ -21034,7 +20968,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 96,
+       "old_pos": 97,
        "new_pos": 85
       },
       {
@@ -21046,7 +20980,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 97,
+       "old_pos": 98,
        "new_pos": 86
       },
       {
@@ -21058,7 +20992,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 98,
+       "old_pos": 99,
        "new_pos": 87
       },
       {
@@ -21070,7 +21004,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 99,
+       "old_pos": 100,
        "new_pos": 88
       },
       {
@@ -21082,7 +21016,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 100,
+       "old_pos": 101,
        "new_pos": 89
       },
       {
@@ -21094,7 +21028,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 101,
+       "old_pos": 102,
        "new_pos": 90
       },
       {
@@ -21106,7 +21040,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 102,
+       "old_pos": 103,
        "new_pos": 91
       },
       {
@@ -21118,7 +21052,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 103,
+       "old_pos": 104,
        "new_pos": 92
       },
       {
@@ -21130,7 +21064,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 104,
+       "old_pos": 105,
        "new_pos": 93
       },
       {
@@ -21142,7 +21076,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 106,
        "new_pos": 94
       },
       {
@@ -21154,7 +21088,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 106,
+       "old_pos": 107,
        "new_pos": 95
       },
       {
@@ -21166,7 +21100,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 107,
+       "old_pos": 108,
        "new_pos": 96
       },
       {
@@ -21178,7 +21112,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 108,
+       "old_pos": 109,
        "new_pos": 97
       },
       {
@@ -21190,7 +21124,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 109,
+       "old_pos": 110,
        "new_pos": 98
       },
       {
@@ -21202,7 +21136,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 110,
+       "old_pos": 111,
        "new_pos": 99
       },
       {
@@ -21214,7 +21148,7 @@
        "old_page": 97,
        "new_page": 97,
        "words": [],
-       "old_pos": 111,
+       "old_pos": 112,
        "new_pos": 100
       },
       {
@@ -21226,7 +21160,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 112,
+       "old_pos": 113,
        "new_pos": 101
       },
       {
@@ -21238,7 +21172,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 113,
+       "old_pos": 114,
        "new_pos": 102
       },
       {
@@ -21250,7 +21184,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 114,
+       "old_pos": 115,
        "new_pos": 103
       },
       {
@@ -21262,7 +21196,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 115,
+       "old_pos": 116,
        "new_pos": 104
       },
       {
@@ -21274,7 +21208,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 116,
+       "old_pos": 117,
        "new_pos": 105
       },
       {
@@ -21286,7 +21220,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 117,
+       "old_pos": 118,
        "new_pos": 106
       },
       {
@@ -21298,7 +21232,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 118,
+       "old_pos": 119,
        "new_pos": 107
       },
       {
@@ -21310,7 +21244,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 119,
+       "old_pos": 120,
        "new_pos": 108
       },
       {
@@ -21322,7 +21256,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 120,
+       "old_pos": 121,
        "new_pos": 109
       },
       {
@@ -21334,7 +21268,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 121,
+       "old_pos": 122,
        "new_pos": 110
       },
       {
@@ -21346,7 +21280,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 122,
+       "old_pos": 123,
        "new_pos": 111
       },
       {
@@ -21358,7 +21292,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 123,
+       "old_pos": 124,
        "new_pos": 112
       },
       {
@@ -21370,7 +21304,7 @@
        "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": 124,
+       "old_pos": 125,
        "new_pos": 113
       },
       {
@@ -21382,7 +21316,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 125,
+       "old_pos": 126,
        "new_pos": 114
       },
       {
@@ -21394,7 +21328,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 126,
+       "old_pos": 127,
        "new_pos": 115
       },
       {
@@ -21406,7 +21340,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 127,
+       "old_pos": 128,
        "new_pos": 116
       },
       {
@@ -21418,7 +21352,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 128,
+       "old_pos": 129,
        "new_pos": 117
       },
       {
@@ -21430,7 +21364,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 129,
+       "old_pos": 130,
        "new_pos": 118
       },
       {
@@ -21442,7 +21376,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 130,
+       "old_pos": 131,
        "new_pos": 119
       },
       {
@@ -21454,7 +21388,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 132,
        "new_pos": 120
       },
       {
@@ -21466,7 +21400,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 133,
        "new_pos": 121
       },
       {
@@ -21478,7 +21412,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 134,
        "new_pos": 122
       },
       {
@@ -21490,7 +21424,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 135,
        "new_pos": 123
       },
       {
@@ -21502,7 +21436,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 136,
        "new_pos": 124
       },
       {
@@ -21514,7 +21448,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 137,
        "new_pos": 125
       },
       {
@@ -21526,7 +21460,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 137,
+       "old_pos": 138,
        "new_pos": 126
       },
       {
@@ -21538,7 +21472,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 139,
        "new_pos": 127
       },
       {
@@ -21550,7 +21484,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 139,
+       "old_pos": 140,
        "new_pos": 128
       },
       {
@@ -21562,7 +21496,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 141,
        "new_pos": 129
       },
       {
@@ -21574,7 +21508,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 142,
        "new_pos": 130
       },
       {
@@ -21586,7 +21520,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 142,
+       "old_pos": 143,
        "new_pos": 131
       },
       {
@@ -21598,7 +21532,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 143,
+       "old_pos": 144,
        "new_pos": 132
       },
       {
@@ -21610,7 +21544,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 144,
+       "old_pos": 145,
        "new_pos": 133
       },
       {
@@ -21622,7 +21556,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 146,
        "new_pos": 134
       },
       {
@@ -21634,7 +21568,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 146,
+       "old_pos": 147,
        "new_pos": 135
       },
       {
@@ -21646,7 +21580,7 @@
        "old_page": 99,
        "new_page": 99,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 148,
        "new_pos": 136
       },
       {
@@ -21658,7 +21592,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 149,
        "new_pos": 137
       },
       {
@@ -21670,7 +21604,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 150,
        "new_pos": 138
       },
       {
@@ -21682,7 +21616,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 151,
        "new_pos": 139
       },
       {
@@ -21694,7 +21628,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 151,
+       "old_pos": 152,
        "new_pos": 140
       },
       {
@@ -21706,7 +21640,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 152,
+       "old_pos": 153,
        "new_pos": 141
       },
       {
@@ -21718,7 +21652,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 153,
+       "old_pos": 154,
        "new_pos": 142
       },
       {
@@ -21730,7 +21664,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 154,
+       "old_pos": 155,
        "new_pos": 143
       },
       {
@@ -21742,7 +21676,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 155,
+       "old_pos": 156,
        "new_pos": 144
       },
       {
@@ -21754,7 +21688,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 156,
+       "old_pos": 157,
        "new_pos": 145
       },
       {
@@ -21766,7 +21700,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 157,
+       "old_pos": 158,
        "new_pos": 146
       },
       {
@@ -21778,7 +21712,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 158,
+       "old_pos": 159,
        "new_pos": 147
       },
       {
@@ -21790,7 +21724,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 159,
+       "old_pos": 160,
        "new_pos": 148
       },
       {
@@ -21802,7 +21736,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 160,
+       "old_pos": 161,
        "new_pos": 149
       },
       {
@@ -21814,7 +21748,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 161,
+       "old_pos": 162,
        "new_pos": 150
       },
       {
@@ -21826,7 +21760,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 162,
+       "old_pos": 163,
        "new_pos": 151
       },
       {
@@ -21838,7 +21772,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 163,
+       "old_pos": 164,
        "new_pos": 152
       },
       {
@@ -21850,7 +21784,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 164,
+       "old_pos": 165,
        "new_pos": 153
       },
       {
@@ -21862,7 +21796,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 165,
+       "old_pos": 166,
        "new_pos": 154
       },
       {
@@ -21874,7 +21808,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 166,
+       "old_pos": 167,
        "new_pos": 155
       },
       {
@@ -21886,7 +21820,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 167,
+       "old_pos": 168,
        "new_pos": 156
       },
       {
@@ -21898,7 +21832,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 168,
+       "old_pos": 169,
        "new_pos": 157
       },
       {
@@ -21910,7 +21844,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 169,
+       "old_pos": 170,
        "new_pos": 158
       },
       {
@@ -21922,7 +21856,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 170,
+       "old_pos": 171,
        "new_pos": 159
       },
       {
@@ -21934,7 +21868,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 171,
+       "old_pos": 172,
        "new_pos": 160
       },
       {
@@ -21946,7 +21880,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 172,
+       "old_pos": 173,
        "new_pos": 161
       },
       {
@@ -21958,7 +21892,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 173,
+       "old_pos": 174,
        "new_pos": 162
       },
       {
@@ -21970,7 +21904,7 @@
        "old_page": 100,
        "new_page": 100,
        "words": [],
-       "old_pos": 174,
+       "old_pos": 175,
        "new_pos": 163
       },
       {
@@ -21982,7 +21916,7 @@
        "old_page": 101,
        "new_page": 101,
        "words": [],
-       "old_pos": 175,
+       "old_pos": 176,
        "new_pos": 164
       },
       {
@@ -21994,7 +21928,7 @@
        "old_page": 101,
        "new_page": 101,
        "words": [],
-       "old_pos": 176,
+       "old_pos": 177,
        "new_pos": 165
       },
       {
@@ -22006,7 +21940,7 @@
        "old_page": 101,
        "new_page": 101,
        "words": [],
-       "old_pos": 177,
+       "old_pos": 178,
        "new_pos": 166
       },
       {
@@ -22018,7 +21952,7 @@
        "old_page": 101,
        "new_page": 101,
        "words": [],
-       "old_pos": 178,
+       "old_pos": 179,
        "new_pos": 167
       },
       {
@@ -22152,6 +22086,18 @@
        "words": [],
        "old_pos": 73,
        "new_pos": 9
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>heading",
+       "similarity": 1.0,
+       "old": "Deliberations on jati",
+       "new": "Deliberations on jati",
+       "old_page": 96,
+       "new_page": 96,
+       "words": [],
+       "old_pos": 85,
+       "new_pos": 6
       }
      ]
     },
@@ -22163,6 +22109,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22501,6 +22448,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22671,6 +22619,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22684,6 +22633,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22697,6 +22647,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23011,6 +22962,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23024,6 +22976,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23037,6 +22990,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23083,14 +23037,14 @@
      {
       "page": 96,
       "new_page": 96,
-      "sentences": 22,
+      "sentences": 17,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 97,
       "new_page": 97,
-      "sentences": 26,
+      "sentences": 32,
       "score": 1.0,
       "suspect": false
      },
@@ -23165,6 +23119,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23355,10 +23310,11 @@
      "counts": {
       "deleted": 2,
       "inserted": 2,
-      "modified": 17,
+      "modified": 16,
       "moved": 0,
       "typographic": 0,
       "restreamed": 38,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23810,31 +23766,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.655,
-       "old": "Virashaiva Virashaiva vachanas vachanas",
-       "new": "Virashaiva vachanas",
-       "old_page": 108,
-       "new_page": 108,
-       "words": [
-        [
-         "-",
-         "Virashaiva"
-        ],
-        [
-         "=",
-         "Virashaiva vachanas"
-        ],
-        [
-         "-",
-         "vachanas"
-        ]
-       ],
-       "old_pos": 43,
-       "new_pos": 37
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.949,
        "old": "The most important among them were Janeshwar, Namdev, Eknath and Tukaram as well as women like Sakkubai and the family of Chokhamela, who belonged to the “untouchable” Mahar caste.",
        "new": "The most important among them were Dnyaneshwar (Gyaneshwar), Namdev, Eknath and Tukaram as well as women like Sakhubai and the family of Chokhamela, who belonged to the “untouchable” Mahar caste.",
@@ -23872,6 +23803,18 @@
        ],
        "old_pos": 49,
        "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Virashaiva vachanas",
+       "new": "Virashaiva vachanas",
+       "old_page": 108,
+       "new_page": 108,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 37
       },
       {
        "type": "equal",
@@ -25866,6 +25809,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26360,6 +26304,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26590,6 +26535,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26603,6 +26549,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26616,6 +26563,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26906,6 +26854,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26956,6 +26905,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26969,6 +26919,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27128,10 +27079,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 2,
+      "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27185,31 +27137,14 @@
        "new_pos": 3
       },
       {
-       "type": "modified",
+       "type": "equal",
        "stream": "heading",
-       "similarity": 0.821,
-       "old": "Beyond Regional Frontiers: The Story of The Story of Kathak Kathak",
+       "similarity": 1.0,
+       "old": "Beyond Regional Frontiers: The Story of Kathak",
        "new": "Beyond Regional Frontiers: The Story of Kathak",
        "old_page": 126,
        "new_page": 126,
-       "words": [
-        [
-         "=",
-         "Beyond Regional Frontiers: The Story of"
-        ],
-        [
-         "-",
-         "The Story of"
-        ],
-        [
-         "=",
-         "Kathak"
-        ],
-        [
-         "-",
-         "Kathak"
-        ]
-       ],
+       "words": [],
        "old_pos": 4,
        "new_pos": 4
       },
@@ -27238,27 +27173,14 @@
        "new_pos": 7
       },
       {
-       "type": "modified",
+       "type": "equal",
        "stream": "heading",
-       "similarity": 0.653,
-       "old": "Pirs Pirs and Temples and Temples",
+       "similarity": 1.0,
+       "old": "Pirs and Temples",
        "new": "Pirs and Temples",
        "old_page": 132,
        "new_page": 132,
-       "words": [
-        [
-         "-",
-         "Pirs"
-        ],
-        [
-         "=",
-         "Pirs and Temples"
-        ],
-        [
-         "-",
-         "and Temples"
-        ]
-       ],
+       "words": [],
        "old_pos": 7,
        "new_pos": 9
       },
@@ -27320,6 +27242,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28918,6 +28841,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29285,6 +29209,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29500,6 +29425,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29513,6 +29439,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29526,6 +29453,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29816,6 +29744,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29829,6 +29758,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29842,6 +29772,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29980,10 +29911,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 1,
+      "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30037,27 +29969,14 @@
        "new_pos": 5
       },
       {
-       "type": "modified",
+       "type": "equal",
        "stream": "heading",
-       "similarity": 0.765,
-       "old": "The The Watan Jagirs of the Rajputs of the Rajputs",
+       "similarity": 1.0,
+       "old": "The Watan Jagirs of the Rajputs",
        "new": "The Watan Jagirs of the Rajputs",
        "old_page": 146,
        "new_page": 146,
-       "words": [
-        [
-         "-",
-         "The"
-        ],
-        [
-         "=",
-         "The Watan Jagirs of the Rajputs"
-        ],
-        [
-         "-",
-         "of the Rajputs"
-        ]
-       ],
+       "words": [],
        "old_pos": 4,
        "new_pos": 7
       },
@@ -30119,6 +30038,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32167,6 +32087,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32505,6 +32426,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32843,6 +32765,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32856,6 +32779,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33062,6 +32986,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33398,6 +33323,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33411,6 +33337,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33424,6 +33351,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },

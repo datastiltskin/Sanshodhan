@@ -107,7 +107,11 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 ### States
 
-> [caption] Fig. 5 (a) Indian Provinces and Princely States before 14 August 1947 Princely States British India
+> [caption] Fig. 5 (a) Indian Provinces and Princely States before 14 August 1947
+
+> [caption] Princely States
+
+> [caption] British India
 
 <!-- page 167 (pdf 8) -->
 

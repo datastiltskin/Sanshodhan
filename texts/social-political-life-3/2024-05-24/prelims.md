@@ -24,23 +24,35 @@ source_pdf: "pdfs/social-political-life-3/2024-05-24/prelims.pdf"
 
 > [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption] Reprinted January 2009, December 2009, November 2010, January 2012, November 2012, December 2013, December 2014, January 2016, January 2017, December 2017, December 2018, January 2020, March 2021 and November 2021 This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+> [caption] Reprinted January 2009, December 2009, November 2010, January 2012, November 2012, December 2013, December 2014, January 2016, January 2017, December 2017, December 2018, January 2020, March 2021 and November 2021
+
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT Revised Edition November 2022, Kartika 1944 NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Reprinted February 2023, Magha 1945, March 2024, Chaitra1946, 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT Revised Edition November 2022, Kartika 1944
+
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+> [caption] Reprinted February 2023, Magha 1945, March 2024, Chaitra1946, 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
 
 > [table] PD 600T SU
 
-> [caption] © National Council of Educational Research and Training, 2008, 2024 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] © National Council of Educational Research and Training, 2008, 2024
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] ` 65.00
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Amitabh Kumar Manager (In Charge)
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Amitabh Kumar Manager (In Charge)
 
-> [table] Assistant Production : Deepak Jaiswal Officer
+> [table] Assistant Production: Deepak Jaiswal Officer
 
 > [caption] Printed on 80 GSM paper with NCERT watermark
 
@@ -214,14 +226,22 @@ IN having
 
 ### Unit One: The Indian Constitution and Secularism 2
 
-Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18 Chapter 3: Parliament and the Making of Laws 30 Chapter 4: Judiciary 48 Chapter 5: Understanding Marginalisation 62 Chapter 6: Confronting Marginalisation 74 Chapter 7: Public Facilities 86 Chapter 8: Law and Social Justice 100
+Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and the Making of Laws 28
 
+Chapter 3: Parliament and the Making of Laws 30
+
 ### Unit Three: The Judiciary 46
+
+Chapter 4: Judiciary 48
 
 ### Unit Four: Social Justice and the Marginalised 60
 
+Chapter 5: Understanding Marginalisation 62 Chapter 6: Confronting Marginalisation 74
+
 ### Unit Five: Economic Presence of the Government 84
+
+Chapter 7: Public Facilities 86 Chapter 8: Law and Social Justice 100
 
 ### References 114

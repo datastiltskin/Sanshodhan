@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch10.pdf"
 source_sha256: "020fee1ef5931fe9120d12bffa6d5d8cc2ab81ded499e22e98e0e5ed73889a3a"
 pdf_pages: 17
 printed_pages: "138-154"
-body_fingerprint: "570b9abd0c5681dc32291b17e902feb71dcad1c6061a0b564b300c2cffd566d8"
+body_fingerprint: "f3557218ae76bde04de4490ad4e1c4677b512670f8d44f2679a08861015e7902"
 ---
 
 <!-- page 138 (pdf 1) -->
@@ -119,7 +119,7 @@ The formation of a regional state in eighteenth-century Bengal therefore led to 
 
 If we take a bird’s eye view, we can detect three common features amongst these states. First, though many of the larger states were established by erstwhile Mughal nobles they were highly suspicious of some of the administrative systems that they had inherited, in particular the jagirdari system. Second, their method of tax collection differed. Rather than relying upon the officers of the state, all three regimes contracted with revenue-farmers for the collection of revenue. The practice of ijaradari, thoroughly disapproved of by the Mughals, spread all over India in the eighteenth century. Their impact on the countryside differed considerably. The third common feature in all these regional states was their emerging relationship with rich bankers and merchants. These people lent money to revenue farmers, received land as security and collected taxes from these lands through their own agents. Throughout India the richest merchants and bankers were gaining a stake in the new political order.
 
-## The The Watan Jagirs of the Rajputs of the Rajputs
+## The Watan Jagirs of the Rajputs
 
 Many Rajput kings, particularly those belonging to Amber and Jodhpur, had served under the Mughals with distinction. In exchange, they were permitted to enjoy considerable autonomy in their watan jagirs. In the eighteenth century, these rulers now attempted to extend their control over adjacent regions. Ajit Singh, the ruler of Jodhpur, was also involved in the factional politics at the Mughal court.
 

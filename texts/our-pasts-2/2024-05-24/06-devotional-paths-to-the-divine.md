@@ -11,14 +11,14 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch06.pdf"
 source_sha256: "79e362e3ad577c5b2405894ebbdd0b2bdd6f807b5e0608dcf11a6ec5231bce3f"
 pdf_pages: 18
 printed_pages: "61-78"
-body_fingerprint: "b8fbd53077280ba87cb88df0045670a13c3e07999a19e940f7f8686f832f8ccb"
+body_fingerprint: "dc11fd6c5eab188a04fa1942b5c2249cef9593523dae52d1e5d3f87505b9a6e3"
 ---
 
 <!-- page 61 (pdf 1) -->
 
 # DEVOTIONAL PATHS TO THE DIVINE
 
-You may have seen people perform rituals of worship, or singing bhajans, kirtans , or qawwialis, , or even repeating the name of God in silence, and noticed that some of them are moved to tears. Such intense devotion or love of God is the legacy of various kinds of bhakti and Sufi movements that have evolved since the eighth century.
+You may have seen people perform rituals of worship, or singing bhajans, kirtans, or qawwalis,, or even repeating the name of God in silence, and noticed that some of them are moved to tears. Such intense devotion or love of God is the legacy of various kinds of bhakti and Sufi movements that have evolved since the eighth century.
 
 ## The Idea of a Supreme God
 
@@ -52,9 +52,9 @@ Between the tenth and twelfth centuries, the Chola and Pandya kings built elabor
 
 ### The devotee and the Lord
 
-This is a composition of Manikkavasagar: lesh le body Into my vile Ay of You came, as though it were a temple of gold le of And soothed me wholly ly and saved me, O Lord of of Grace, O Gem most Pure, leath and illu Sorrow and birth and de usion You took j from me, and set me fre free. lass O Light I have taken ref O Bis fuge in Yo And never can I be parted j from Yo How does the poet describe his relationship with the deity?
+This is a composition of Manikkavasagar: flesh body Into my vile Ay of You came, as though it were a temple gold left And soothed me wholly ly and saved me, O Lord of of Grace, O Gem most Pure, death and ill Sorrow and birth and de union You took j from me, and set me free free. class O Light I have taken refer O is refuge in Yo And never can I be parted j from How does the poet describe his relationship with the deity?
 
-> [note] Hagiography Writing of saints’ lives.
+> [note] Hagiography Writing of saints lives.
 
 > [caption] Fig. 2 A bronze image of Manikkavasagar.
 
@@ -92,13 +92,13 @@ From the thirteenth to the seventeenth centuries, Maharashtra saw a great number
 
 These saint-poets rejected all forms of ritualism, outward display of piety and social differences based on birth. In fact, they even rejected the idea of renunciation and preferred to live with their families, earning their livelihood like any other person, while humbly serving fellow human beings in need. A new humanist idea emerged as they insisted that bhakti lay in sharing others’ pain. As the famous Gujarati saint Narsi Mehta said, “They are Vaishnavas who understand the pain of others.”
 
-> [caption] The Vaishnava poet-saints of Maharas htra, such as Jnaneshwar, Namadeva, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the Varkari sect which lay emphasis on an annual pilgrimage to Pandharpur. The cult of Vitthala emerged as a powerful mode O of devotion and was very popular amongst the people.
+> [caption] The Vaishnava poet-saints of Mahar htra, such dnyaneshwar, Namdev, Eknath and Tukaram were devotees of lord Vitthala. Devotion around lord Vitthala gave rise to the akbari set which lay emphasis on an annual pilgrimage pandharpur. The cult of Vitthala emerged as a powerful mode O of devotion and was very popular amongst the people.
 
 <!-- page 66 (pdf 6) -->
 
 ### Questioning the social order
 
-This is an abhang (Marathi devotional hymn) of Sant Tukaram: He who ide tiftes fentif with the battered and the beaten Mark him as a saint For God is with him He holds Every forsaken man Close to his heart He treats A slave As his own son Says Tuka I won’t be tired to repeat again Such a man Is God In person. Here is an abhang composed by Chokhamela’s son:
+This is an abhang (Marathi devotional hymn) of Sant Tukaram: He who wide titles fentif with the battered and the beaten Mark him as a saint For God is with him He holds Every forsaken man Close to his heart He treats A slave As his own son Says Tuka I won’t be tired to repeat again Such a man Is God In person. Here is an abhang composed by Chokhamela’s son:
 
 You made us low caste, Why don’t you face that fact, Great Lord? Our whole life – left-over food to eat. You should be ashamed of this.
 
@@ -110,15 +110,15 @@ Discuss the ideas about the social order expressed in these compositions.
 
 ## Nathpanthis, Siddhas and Yogis
 
-A number of religious groups that emerged during this period criticised the ritual and other aspects of conventional religion and the social order, using simple, logical arguments. Among them were the Nathpanthis, Siddhacharas and Yogis. They advocated renunciation of the world. To them the path to salvation lay in meditation on the formless Ultimate Reality and the realisation of oneness with it. To achieve this, they advocated intense training of the mind and body through practices like yogasands , breathing exercises and meditation. These groups became particularly popular among “low” castes. Their criticism of conventional religion created the ground for devotional religion to become a popular force in northern India.
+A number of religious groups that emerged during this period criticised the ritual and other aspects of conventional religion and the social order, using simple, logical arguments. Among them were the Nathpanthis, Siddhacharas and Yogis. They advocated renunciation of the world. To them the path to salvation lay in meditation on the formless Ultimate Reality and the realisation of oneness with it. To achieve this, they advocated intense training of the mind and body through practices like yogasanas , breathing exercises and meditation. These groups became particularly popular among “low” castes. Their criticism of conventional religion created the ground for devotional religion to become a popular force in northern India.
 
 ## Islam and Sufism
 
 The sants had much in common with the Sufis, SO much so that it is believed that they adopted many ideas of each other. ‘Sufis were Muslim mystics. They rejected outward religiosity and emphasised love and devotion to God and compassion towards all fellow human beings.
 
-Islam propagated strict monotheism or submission to one God. In the eighth and ninth centuries, religious scholars developed different aspects of the Holy Law (Shariat) and theology of Islam. While the religion of Islam gradually became more complex, Sufis provided it with an additional dimension that favoured a more personal devotion to God. The Sufis often rej ected the elaborate rituals and codes of behaviour demanded by Muslim religious scholars. They sought union with God much as a lover seeks his beloved with a disregard for the world. Like the saint-poets, the Sufis too composed poems expressing their feelings, and a rich literature in prose, including anecdotes and fables, developed Among the great Sufis of Central Asia around them.
+Islam propagated strict monotheism or submission to one God. In the eighth and ninth centuries, religious scholars developed different aspects of the Holy Law (Shariat) and theology of Islam. While the religion of Islam gradually became more complex, Sufis provided it with an additional dimension that favoured a more personal devotion to God. The Sufis often rej recited the elaborate rituals and codes of behaviour demanded by Muslim religious scholars. They sought union with God much as a lover seeks his beloved with a disregard for the world. Like the saint-poets, the Sufis too composed poems expressing their feelings, and a rich literature in prose, including anecdotes and fables, developed Among the great Sufis of Central Asia around them.
 
-> [caption] Fig. 3 A fireside gathering of ascetics.
+> [caption] Fig. 3 A reside glaring of ascetics.
 
 <!-- page 68 (pdf 8) -->
 
@@ -126,23 +126,23 @@ were Ghazzali, Rumi and Sadi. Like the Nathpanthis, Siddhas and Yogis, the Sufis
 
 . Thus emerged the silsilas, a spiritual genealogy of Sufi teachers, each following a slightly different method
 
-( (tariqa) ) of instruction and ritual practice.
+( (tariqa)) of instruction and ritual practice.
 
 > [caption] Fig. 4 Mystics in ecstasy.
 
-> [note] In Kashmir, the Rishi order of Su fism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
+> [note] In Kashmir, the Rishi order of Su sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
 
 <!-- page 69 (pdf 9) -->
 
-A large number of Sufis from Central Asia settled in Hindustan from the eleventh century onwards. This process was strengthened with the establishment of the Delhi Sultanate (Chapter 3), when several major Sufi centres developed all over the subcontinent. The Chishti was among the silsila most influential orders. It hada long line of teachers like Khwaja Muinuddin Chishti of Ajmer, Qutbuddin Bakhtiar Kaki of Delhi, Baba Farid of Punjab, Khwaja Nizamuddin Auliya of Delhi and Bandanawaz Gisudaraz of Gulbarga.
+A large number of Sufis from Central Asia settled in Hindustan from the eleventh century onwards. This process was strengthened with the establishment of the Delhi Sultanate (Chapter 3), when several major Sufi centres developed all over the subcontinent. The Chishti was among the silsila most influential orders. Iqtadar long line of teachers like Khwaja Muinuddin Chishti of Ajmer, Qutbuddin Bakhtiar Kaki of Delhi, Baba Farid of Punjab, Khwaja Nizamuddin Auliya of Delhi and Bandanawaz Gisudaraz of Gulbarga.
 
 The Sufi masters held their assemblies in their khanqahs or hospices. Devotees of all descriptions including members of the royalty and nobility, and ordinary people flocked to these khanqahs . They discussed spiritual matters, sought the blessings of the saints in solving their worldly problems, or simply attended the music and dance sessions. Often people attributed Sufi masters with miraculous powers that could relieve others of their illnesses and troubles. The tomb or dargah ot a Sufi saint became a place of pilgrimage to which thousands of people of all faiths thronged.
 
 > [caption] Fig. 6 Devotees of all backgrounds visit Sufi shrines.
 
-> [caption] Fig. 5 A page from a manuscript of the Quran, Deccan, late fifteenth century.
+> [caption] Fig. 5 A page from a manuscript of the Quran, Deccan, late eighteenth-century.
 
-> [note] Hospice House of rest for travellers, especially one kept by a religious orde I.
+> [note] Hospice House of rest for travellers, especially one kept by a religious order.
 
 <!-- page 70 (pdf 10) -->
 
@@ -150,13 +150,13 @@ The Sufi masters held their assemblies in their khanqahs or hospices. Devotees o
 
 Jalaluddin Rumi was a great thirteenth-century Sufi poet from Iran who wrote in Persian. Here is an excerpt from his work:
 
-He was not on the Cross of the Christians. I went to the Hindu temples. In none of them was there any sign. He was not on the heights or in the lo fowla lands I went to the Kaaba of Mecca. He was not there. I asked about him from Avicenna losopher. He was beyond the range of the philo of Avicenna looked into my heart. In that, his place, I saw him. He was in no other place.
+He was not on the Cross of the Christians. I went to the Hindu temples. In none of them was there any sign. He was not on the heights or in the lo fowla lands I went to the Kaaba of Mecca. He was not there. I asked about him from Avicenna losopher. He was beyond the range of the philo avicenna looked into my heart. In that, his place, I saw him. He was in no other place.
 
 ## New Religious Developments in North India
 
 The period after the thirteenth century saw a new wave of the bhakti movement in North India. This was an age when Islam, Brahmanical Sufism, various strands of bhakti, Hinduism, and Siddhas and Yogis influenced one the Nathpanths, another. We saw that new kingdoms (Chapters 2, 3 and 4) were emerging, and people were taking up new professions and finding new roles for themselves. Such people, especially craftspersons, peasants, traders and labourers, thronged to listen to these new saints and spread their ideas.
 
-Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Others like Tulsidas and Surdas accepted existing beliefs and practices but wanted to make these accessible to all. Tulsidas conceived of God in the form of Rama. Tulsidas’s composition, the Ramcharitmanas, written in Awadhi (a language used in eastern Uttar Pradesh), is important both as an expression of his devotion and as a literary work. Surdas was an ardent devotee of Krishna. His compositions, , and Sahitya compiled in the Sursagara, Surasaravali Lahari , express his devotion. Also contemporary was Shankaradeva of Assam (late fifteenth century) who emphasised devotion to Vishnu, and composed poems and plays in Assamese. He began the practice of setting up namghars or houses of recitation and prayer, a practice that continues to date.
+Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Others like Tulsidas and Surdas accepted existing beliefs and practices but wanted to make these accessible to all. Tulsidas conceived of God in the form of Rama. Tulsidas’s composition, the Ramcharitmanas, written in Awadhi (a language used in eastern Uttar Pradesh), is important both as an expression of his devotion and as a literary work. Surdas was an ardent devotee of Krishna. His compositions,, and Sahitya compiled in the Sursagara, Surasaravali Lahari , express his devotion. Also contemporary was Shankaradeva of Assam (late fifteenth century) who emphasised devotion to Vishnu, and composed poems and plays in Assamese. He began the practice of setting up namghars or houses of recitation and prayer, a practice that continues to date.
 
 > [caption] Fig. 7 Chaitanyadeva, a sixteenth-century bhakti saint from Bengal, preached selfless devotion to Krishna-Radha. In the picture you see a group of his followers engaged in ecstatic dancing and singing.
 
@@ -166,9 +166,9 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 > [caption] Map 1 Major bhakti saints and the regions associated with them.
 
-> [caption] The essence of Shankaradeva’s
+> [caption] The essence of Shankaradeva
 
-> [note] devotion came to Eka be known as Sarana Nama Dharma (supreme surrender to the One). The teachings Q of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana L. He also encouraged the establishment of satra monasteries Jor trans miss ion Q of knowledge. H is maj or compos itions included Kirtana-ghosha
+> [note] devotion came to Eka best-known Sarana Nama Dharma (supreme surrender the One). The teachings Q of Shankaradeva were based on the Bhagavad Gita and Bhagavata Purana L. He also encouraged the establishment of satra monasteries or turanis misls in Q of knowledge. H is ma or composed actions included Kirtana-ghosha
 
 <!-- page 72 (pdf 12) -->
 
@@ -184,13 +184,15 @@ Why do you think Mirabai left the Rana’s palace?
 
 > [caption] Fig. 8 Mirabai.
 
-> [caption] An important contribution of Bhakti saints was towards the development of music. Jayadeva of Bengal composed the , Gita Govinda in Sanskrit, each song composed in a particular raga and: tala Lificant impact that these saints had on music was bhajan, kirtan and abhang These songs which emphasised on emotional experience had a tremendous appeal to the common people.
+> [caption] important contributing Bhakti saints was towards the development music. mahadeva of Bengal composed the , Gita Govinda in Sanskrit, each songs composed in a particular raga and: tala Lificant impact that these saints had on music was bhajan, kirtan and abhang These songs which emphasised devotional experiences had a tremendously appear to the common people.
 
 <!-- page 73 (pdf 13) -->
 
-## A Closer Look: Kabir who probably lived in the fifteenth-sixteenth Kabir, centuries, was one of the most influential saints. He
+## A Closer Look: Kabir
 
-was brought up in a family of Muslim or weavers settled in or near the city of Benares (Varanasi). We have little reliable information about his life. We get to know of his ideas from a vast collection of verses called salchis and pads said to have been composed by him and sung by wandering bhajan : singers. Some of these were later collected and preserved in the Guru Granth Sahib, Panch Vani and Bijak. .
+## who probably lived in the fifteenth-sixteenth Kabir, centuries, was one of the most influential saints. He
+
+was brought up in a family of Muslim or weavers settled in or near the city of Benares (Varanasi). We have little reliable information about his life. We get to know of his ideas from a vast collection of verses called balochis and pads said to have been composed by him and sung by wandering bhajan : singers. Some of these were later collected and preserved in the Guru Granth Sahib, Panch Vani and Bijak..
 
 ### In search of the True Lord
 
@@ -218,9 +220,9 @@ Kabir believed in a formless Supreme God and preached that the only path to salv
 
 We know more about Baba Guru Nanak (1469-1539) than about Kabir. Born at Talwandi (Nankana Sahib in Pakistan), he travelled widely before establishing a centre at Kartarpur (Dera Baba Nanak on the river Ravi). A regular worship that consisted of the singing of his own hymns was established there for his followers.
 
-Irrespective of their former creed, caste or gender, his followers ate together in the common kitchen ( (langar). The sacred space thus created by Baba Guru Nanak was known as dharmsal. . It is now known as Gurdwara.
+Irrespective of their former creed, caste or gender, his followers ate together in the common kitchen ( (langar). The sacred space thus created by Baba Guru Nanak was known as dharmsal.. It is now known as Gurdwara.
 
-Before his death in 1539, Baba Guru Nanak appointed one of his followers as his successor. His name was Lehna but he came to be known as Guru Angad, signifying that he was a part of Baba Guru Nanak himself. Guru Angad compiled the compositions of Baba Guru Nanak, to which he added his own in a new script known as Gurmukhi. The three successors of Guru Angad also wrote under the name of “Nanak” and all of their compositions were compiled by Guru Arjan in 1604. To this compilation were added the writings of other figures like Shaikh Farid, Sant Kabir, Bhagat Namdev and Guru Tegh Bahadur. In 1706, this compilation was authenticated by Guru Tegh Bahadur’s son and successor, Guru Gobind Singh. It is now known as Guru Granth Sahib, , the holy scripture of the Sikhs.
+Before his death in 1539, Baba Guru Nanak appointed one of his followers as his successor. His name was Lehna but he came to be known as Guru Angad, signifying that he was a part of Baba Guru Nanak himself. Guru Angad compiled the compositions of Baba Guru Nanak, to which he added his own in a new script known as Gurmukhi. The three successors of Guru Angad also wrote under the name of “Nanak” and all of their compositions were compiled by Guru Arjan in 1604. To this compilation were added the writings of other figures like Shaikh Farid, Sant Kabir, Bhagat Namdev and Guru Tegh Bahadur. In 1706, this compilation was authenticated by Guru Tegh Bahadur’s son and successor, Guru Gobind Singh. It is now known as Guru Granth Sahib,, the holy scripture of the Sikhs.
 
 > [caption] Fig. 10 Baba Guru Nanak as a young man, in discussion with holy men.
 
@@ -228,9 +230,9 @@ Before his death in 1539, Baba Guru Nanak appointed one of his followers as his 
 
 The number of Baba Guru Nanak’s followers increased through the sixteenth century under his successors. They belonged to a number of castes but traders, agriculturists, artisans and craftsmen predominated. This may have something to do with Baba Guru Nanak’s insistence that his followers must be householders and should adopt productive and useful occupations. They were also expected to contribute to the general funds of the community of followers.
 
-By the beginning of the seventeenth century, the town of Ramdaspur (Amritsar) had developed around the central Gurdwara called Harmandar Sahib (Golden Temple). It was virtually self-governing and modern historians refer to the early-seventeenth-century Sikh community as ‘a state within the state’. The Mughal emperor Jahangir looked upon them as a potential threat and he ordered the execution of Guru Arjan in 1606. The Sikh movement began to get politicised in the seventeenth century, a development which culminated in the institution of the Khalsa by Guru Gobind Singh in 1699. The community of the Sikhs, called the Khalsa Panth, , became a political entity.
+By the beginning of the seventeenth century, the town of Ramdaspur (Amritsar) had developed around the central Gurdwara called Harmandar Sahib (Golden Temple). It was virtually self-governing and modern historians refer to the early-seventeenth-century Sikh community as ‘a state within the state’. The Mughal emperor Jahangir looked upon them as a potential threat and he ordered the execution of Guru Arjan in 1606. The Sikh movement began to get politicised in the seventeenth century, a development which culminated in the institution of the Khalsa by Guru Gobind Singh in 1699. The community of the Sikhs, called the Khalsa Panth,, became a political entity.
 
-The changing historical situation during the sixteenth and seventeenth centuries influenced the development of the Sikh movement. The ideas of Baba Guru Nanak had a huge impact on this development from the very beginning. He emphasised the importance of the worship of one God. He insisted that caste, creed or gender was irrelevant for attaining liberation. His idea of liberation was not that of a state of inert bliss but rather the pursuit of active life with a strong sense of social commitment. He himself used the terms nam, dan , and isnan for the essence of his teaching, which actually meant right worship, welfare of others and purity of conduct. His teachings are now remembered as , and ‘vand-chhalcna , which also underline the importance of right belief and worship, honest living, and helping others. Thus, Baba Guru Nanak’s idea of equality had social and political implications. This might partly explain the difference between the history of the followers of Baba Guru Nanak and the history of the followers of the other religious figures of the medieval centuries, like Kabir, Ravidas and Dadu, whose ideas were very similar to those of Baba Guru Nanak.
+The changing historical situation during the sixteenth and seventeenth centuries influenced the development of the Sikh movement. The ideas of Baba Guru Nanak had a huge impact on this development from the very beginning. He emphasised the importance of the worship of one God. He insisted that caste, creed or gender was irrelevant for attaining liberation. His idea of liberation was not that of a state of inert bliss but rather the pursuit of active life with a strong sense of social commitment. He himself used the terms nam-japna, and isnan for the essence of his teaching, which actually meant right worship, welfare of others and purity of conduct. His teachings are now remembered as, and ‘vand-chhalcna , which also underline the importance of right belief and worship, honest living, and helping others. Thus, Baba Guru Nanak’s idea of equality had social and political implications. This might partly explain the difference between the history of the followers of Baba Guru Nanak and the history of the followers of the other religious figures of the medieval centuries, like Kabir, Ravidas and Dadu, whose ideas were very similar to those of Baba Guru Nanak.
 
 > [caption] Fig. 11 An early manuscript of the Guru Granth Sahib.
 
@@ -284,7 +286,7 @@ KEYWORDS
 
 Virashaivism bhakti
 
-> [caption] Sufi khangah
+> [caption] Sufi khanqah
 
 <!-- page 78 (pdf 18) -->
 

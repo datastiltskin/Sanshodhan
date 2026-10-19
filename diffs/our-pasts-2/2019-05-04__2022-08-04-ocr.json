@@ -7,22 +7,24 @@
   "chapters_dropped": 0,
   "chapters_added": 0,
   "body": {
-   "deleted": 39,
-   "inserted": 86,
-   "modified": 104,
+   "deleted": 34,
+   "inserted": 83,
+   "modified": 98,
    "moved": 1,
    "typographic": 51,
    "restreamed": 6,
+   "resplit": 6,
    "unreadable": 0,
    "punctuation": 10
   },
   "other_streams": {
-   "deleted": 158,
-   "inserted": 181,
-   "modified": 271,
+   "deleted": 160,
+   "inserted": 139,
+   "modified": 226,
    "moved": 0,
    "typographic": 4,
-   "restreamed": 357,
+   "restreamed": 359,
+   "resplit": 43,
    "unreadable": 0,
    "punctuation": 2
   },
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -232,6 +235,7 @@
       "moved": 0,
       "typographic": 15,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -2142,6 +2146,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 14,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2552,36 +2557,16 @@
     "caption": {
      "counts": {
       "deleted": 0,
-      "inserted": 15,
-      "modified": 7,
+      "inserted": 13,
+      "modified": 5,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.978,
-       "old": "Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.",
-       "new": "A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.",
-       "old_page": 1,
-       "new_page": 1,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 2
-      },
       {
        "type": "inserted",
        "stream": "caption",
@@ -2595,15 +2580,15 @@
        "new_pos": 0
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.",
+       "new": "Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.",
+       "old_page": 1,
        "new_page": 1,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 1
       },
       {
@@ -2652,7 +2637,7 @@
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "Me ap aoe psn Sa he Geant Ve a , rites .",
+       "new": "Me ap aoe psn Sa he Geant Ve a, rites .",
        "old_page": null,
        "new_page": 2,
        "words": [],
@@ -2766,39 +2751,6 @@
        "new_pos": 16
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.927,
-       "old": "Fig. 1 A painting of a scribe making a copy of a manuscript.",
-       "new": "A painting of a scribe making a copy ofa manuscript.",
-       "old_page": 5,
-       "new_page": 5,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "A painting of a scribe making a copy"
-        ],
-        [
-         "-",
-         "of a"
-        ],
-        [
-         "+",
-         "ofa"
-        ],
-        [
-         "=",
-         "manuscript."
-        ]
-       ],
-       "old_pos": 2,
-       "new_pos": 14
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -2811,15 +2763,15 @@
        "new_pos": 10
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 1 A painting of a scribe making a copy of a manuscript.",
+       "new": "Fig. 1 A painting of a scribe making a copy ofa manuscript.",
+       "old_page": 5,
        "new_page": 5,
        "words": [],
-       "old_pos": null,
+       "old_pos": 2,
        "new_pos": 13
       },
       {
@@ -2990,6 +2942,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3016,6 +2969,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3071,6 +3025,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 19,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3410,30 +3365,9 @@
       {
        "type": "modified",
        "stream": "exercises>body",
-       "similarity": 0.814,
-       "old": "(d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.",
-       "new": "(d) Sultan Ghiyasuddin Balban controlled Assam,",
-       "old_page": 14,
-       "new_page": 14,
-       "words": [
-        [
-         "=",
-         "(d) Sultan Ghiyasuddin Balban controlled Assam,"
-        ],
-        [
-         "-",
-         "Manipur and Kashmir."
-        ]
-       ],
-       "old_pos": 5,
-       "new_pos": 167
-      },
-      {
-       "type": "modified",
-       "stream": "exercises>body",
-       "similarity": 0.812,
+       "similarity": 0.816,
        "old": "(c) Forest-dwellers were sometimes pushed out of their lands with the spread of agricultural settlements.",
-       "new": ". during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural ; settlements. region",
+       "new": ". during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural; settlements. region",
        "old_page": 14,
        "new_page": 14,
        "words": [
@@ -3451,11 +3385,15 @@
         ],
         [
          "=",
-         "their lands with the spread of agricultural"
+         "their lands with the spread of"
+        ],
+        [
+         "-",
+         "agricultural"
         ],
         [
          "+",
-         ";"
+         "agricultural;"
         ],
         [
          "=",
@@ -3468,6 +3406,27 @@
        ],
        "old_pos": 4,
        "new_pos": 166
+      },
+      {
+       "type": "modified",
+       "stream": "exercises>body",
+       "similarity": 0.814,
+       "old": "(d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.",
+       "new": "(d) Sultan Ghiyasuddin Balban controlled Assam,",
+       "old_page": 14,
+       "new_page": 14,
+       "words": [
+        [
+         "=",
+         "(d) Sultan Ghiyasuddin Balban controlled Assam,"
+        ],
+        [
+         "-",
+         "Manipur and Kashmir."
+        ]
+       ],
+       "old_pos": 5,
+       "new_pos": 167
       }
      ]
     },
@@ -3479,6 +3438,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3492,6 +3452,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3505,6 +3466,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3654,6 +3616,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 8,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3860,6 +3823,7 @@
       "moved": 1,
       "typographic": 5,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5358,6 +5322,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 12,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5818,36 +5783,16 @@
     "caption": {
      "counts": {
       "deleted": 0,
-      "inserted": 12,
-      "modified": 9,
+      "inserted": 7,
+      "modified": 4,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 5,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.932,
-       "old": "Map 1 Major kingdoms, seventh-twelfth centuries",
-       "new": "Major kingdoms, seventh-twelfth centuries",
-       "old_page": 16,
-       "new_page": 16,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Major kingdoms, seventh-twelfth centuries"
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 4
-      },
       {
        "type": "inserted",
        "stream": "caption",
@@ -5873,48 +5818,27 @@
        "new_pos": 1
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Map 1 Major kingdoms, seventh-twelfth centuries",
+       "new": "Map 1 Major kingdoms, seventh-twelfth centuries",
+       "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 3
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.955,
+       "similarity": 1.0,
        "old": "Fig. 1 Wall relief from Cave 15, Ellora, showing Vishnu as Narasimha, the man-lion.",
-       "new": "Wall relief from Cave 15, Ellora, showing Vishnu as Narasimha, the man-lion.",
+       "new": "Fig. 1 Wall relief from Cave 15, Ellora, showing Vishnu as Narasimha, the man-lion.",
        "old_page": 17,
        "new_page": 17,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "Wall relief from Cave 15, Ellora, showing Vishnu as Narasimha, the man-lion."
-        ]
-       ],
-       "old_pos": 1,
-       "new_pos": 6
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
-       "new_page": 17,
        "words": [],
-       "old_pos": null,
+       "old_pos": 1,
        "new_pos": 5
       },
       {
@@ -5930,39 +5854,6 @@
        "new_pos": 7
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.972,
-       "old": "Fig. 2 This is a set of copper plates recording a grant of land made by a ruler in the ninth century, written partly in Sanskrit and partly in Tamil.",
-       "new": "This is a set of copper plates recording a grant of land made by aruler in the ninth century, written partly in Sanskrit and partly in Tamil.",
-       "old_page": 19,
-       "new_page": 19,
-       "words": [
-        [
-         "-",
-         "Fig. 2"
-        ],
-        [
-         "=",
-         "This is a set of copper plates recording a grant of land made by"
-        ],
-        [
-         "-",
-         "a ruler"
-        ],
-        [
-         "+",
-         "aruler"
-        ],
-        [
-         "=",
-         "in the ninth century, written partly in Sanskrit and partly in Tamil."
-        ]
-       ],
-       "old_pos": 3,
-       "new_pos": 13
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -5975,15 +5866,15 @@
        "new_pos": 10
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 2",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 2 This is a set of copper plates recording a grant of land made by a ruler in the ninth century, written partly in Sanskrit and partly in Tamil.",
+       "new": "Fig. 2 This is a set of copper plates recording a grant of land made by aruler in the ninth century, written partly in Sanskrit and partly in Tamil.",
+       "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": null,
+       "old_pos": 3,
        "new_pos": 12
       },
       {
@@ -6047,36 +5938,15 @@
        "new_pos": 18
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.909,
+       "similarity": 1.0,
        "old": "Fig. 3 The temple at Gangaikondacholapuram.",
-       "new": "The temple at Gangaikondacholapuram.",
+       "new": "Fig. 3 The temple at Gangaikondacholapuram.",
        "old_page": 23,
        "new_page": 23,
-       "words": [
-        [
-         "-",
-         "Fig. 3"
-        ],
-        [
-         "=",
-         "The temple at Gangaikondacholapuram."
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 20
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 3",
-       "old_page": null,
-       "new_page": 23,
        "words": [],
-       "old_pos": null,
+       "old_pos": 6,
        "new_pos": 19
       },
       {
@@ -6154,36 +6024,15 @@
        "new_pos": 26
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.921,
+       "similarity": 1.0,
        "old": "Fig. 5 A ninth-century sluice-gate in Tamil Nadu.",
-       "new": "A ninth-century sluice-gate in Tamil Nadu.",
+       "new": "Fig. 5 A ninth-century sluice-gate in Tamil Nadu.",
        "old_page": 25,
        "new_page": 25,
-       "words": [
-        [
-         "-",
-         "Fig. 5"
-        ],
-        [
-         "=",
-         "A ninth-century sluice-gate in Tamil Nadu."
-        ]
-       ],
-       "old_pos": 11,
-       "new_pos": 25
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 5",
-       "old_page": null,
-       "new_page": 25,
        "words": [],
-       "old_pos": null,
+       "old_pos": 11,
        "new_pos": 24
       },
       {
@@ -6286,6 +6135,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6368,10 +6218,11 @@
      "counts": {
       "deleted": 1,
       "inserted": 0,
-      "modified": 8,
+      "modified": 7,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 8,
+      "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6423,6 +6274,18 @@
        "words": [],
        "old_pos": 5,
        "new_pos": 45
+      },
+      {
+       "type": "restreamed",
+       "stream": "source>body",
+       "similarity": 1.0,
+       "old": "He should ensure that water is not wasted, and that embankments are built.",
+       "new": "He should ensure that water is not wasted, and that embankments are built.?",
+       "old_page": 20,
+       "new_page": 20,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 46
       },
       {
        "type": "restreamed",
@@ -6647,27 +6510,6 @@
       {
        "type": "modified",
        "stream": "source>body",
-       "similarity": 0.986,
-       "old": "He should ensure that water is not wasted, and that embankments are built.",
-       "new": "He should ensure that water is not wasted, and that embankments are built. ?",
-       "old_page": 20,
-       "new_page": 20,
-       "words": [
-        [
-         "=",
-         "He should ensure that water is not wasted, and that embankments are built."
-        ],
-        [
-         "+",
-         "?"
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 46
-      },
-      {
-       "type": "modified",
-       "stream": "source>body",
        "similarity": 0.974,
        "old": "They should have knowledge of the Vedas.",
        "new": "They should have Rnowledge of the Vedas.",
@@ -6746,6 +6588,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7024,6 +6867,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7037,6 +6881,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7050,6 +6895,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7185,6 +7031,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7344,7 +7191,7 @@
        "new_page": 32,
        "words": [],
        "old_pos": 3,
-       "new_pos": 13
+       "new_pos": 16
       },
       {
        "type": "restreamed",
@@ -7356,7 +7203,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 8,
-       "new_pos": 74
+       "new_pos": 77
       },
       {
        "type": "restreamed",
@@ -7368,7 +7215,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 9,
-       "new_pos": 84
+       "new_pos": 87
       },
       {
        "type": "restreamed",
@@ -7380,7 +7227,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 10,
-       "new_pos": 107
+       "new_pos": 110
       },
       {
        "type": "modified",
@@ -7401,7 +7248,7 @@
         ]
        ],
        "old_pos": 4,
-       "new_pos": 28
+       "new_pos": 31
       },
       {
        "type": "modified",
@@ -7422,18 +7269,19 @@
         ]
        ],
        "old_pos": 11,
-       "new_pos": 148
+       "new_pos": 151
       }
      ]
     },
     "body": {
      "counts": {
-      "deleted": 20,
-      "inserted": 4,
+      "deleted": 16,
+      "inserted": 5,
       "modified": 20,
       "moved": 0,
       "typographic": 1,
       "restreamed": 6,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7703,54 +7551,6 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "TUGHLUQ DYNASTY 1320-1414",
-       "new": null,
-       "old_page": 31,
-       "new_page": null,
-       "words": [],
-       "old_pos": 25,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "Ghiyasuddin Tughluq 1320-1324",
-       "new": null,
-       "old_page": 31,
-       "new_page": null,
-       "words": [],
-       "old_pos": 26,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "Muhammad Tughluq 1324-1351",
-       "new": null,
-       "old_page": 31,
-       "new_page": null,
-       "words": [],
-       "old_pos": 27,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "Firuz Shah Tughluq 1351-1388",
-       "new": null,
-       "old_page": 31,
-       "new_page": null,
-       "words": [],
-       "old_pos": 28,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
        "old": "Bahlul Lodi 1451-1489",
        "new": null,
        "old_page": 31,
@@ -7778,7 +7578,7 @@
         ]
        ],
        "old_pos": 24,
-       "new_pos": 119
+       "new_pos": 122
       },
       {
        "type": "modified",
@@ -7799,19 +7599,43 @@
         ]
        ],
        "old_pos": 20,
-       "new_pos": 29
+       "new_pos": 32
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "Table 1 RAJPUT DYNASTIES Tomaras Early twelfth century-1165 Ananga Pala 1130-1145 Chauhans 1165-1192 Prithviraj Chauhan 1175-1192 Qutbuddin Aybak 1206-1210 Shamsuddin Iltutmish 1210-1236 Raziyya 1236-1240 Ghiyasuddin Balban 1266-1287 < Iltutmish’s tomb a} KHALJI DYNASTY 1290-1320 Jalaluddin Khalji 1290-1296 Alauddin Khalji 1296-1316 TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388 Alai Darwaza",
+       "new": "Table 1 RAJPUT DYNASTIES Tomaras Early twelfth century-1165 Ananga Pala 1130-1145 Chauhans 1165-1192 Prithviraj Chauhan 1175-1192",
        "old_page": null,
        "new_page": 31,
        "words": [],
        "old_pos": null,
        "new_pos": 10
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Qutbuddin Aybak 1206-1210 Shamsuddin Iltutmish 1210-1236 Raziyya 1236-1240 Ghiyasuddin Balban 1266-1287 < Iltutmish’s tomb a} KHALJI DYNASTY 1290-1320 Jalaluddin Khalji 1290-1296 Alauddin Khalji 1296-1316",
+       "old_page": null,
+       "new_page": 31,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 11
+      },
+      {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388",
+       "new": "TUGHLUQ DYNASTY 1320-1414 Ghiyasuddin Tughluq 1320-1324 Muhammad Tughluq 1324-1351 Firuz Shah Tughluq 1351-1388",
+       "old_page": 31,
+       "new_page": 31,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 12
       },
       {
        "type": "modified",
@@ -7840,7 +7664,7 @@
         ]
        ],
        "old_pos": 33,
-       "new_pos": 11
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -7852,7 +7676,7 @@
        "new_page": 32,
        "words": [],
        "old_pos": 34,
-       "new_pos": 12
+       "new_pos": 15
       },
       {
        "type": "modified",
@@ -7881,7 +7705,7 @@
         ]
        ],
        "old_pos": 35,
-       "new_pos": 19
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -7893,7 +7717,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 36,
-       "new_pos": 20
+       "new_pos": 23
       },
       {
        "type": "equal",
@@ -7905,7 +7729,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 37,
-       "new_pos": 21
+       "new_pos": 24
       },
       {
        "type": "equal",
@@ -7917,7 +7741,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 38,
-       "new_pos": 22
+       "new_pos": 25
       },
       {
        "type": "equal",
@@ -7929,7 +7753,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 39,
-       "new_pos": 23
+       "new_pos": 26
       },
       {
        "type": "equal",
@@ -7941,7 +7765,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 40,
-       "new_pos": 24
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -7953,7 +7777,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 41,
-       "new_pos": 25
+       "new_pos": 28
       },
       {
        "type": "equal",
@@ -7965,7 +7789,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 42,
-       "new_pos": 26
+       "new_pos": 29
       },
       {
        "type": "equal",
@@ -7977,7 +7801,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 43,
-       "new_pos": 27
+       "new_pos": 30
       },
       {
        "type": "modified",
@@ -7998,7 +7822,7 @@
         ]
        ],
        "old_pos": 44,
-       "new_pos": 41
+       "new_pos": 44
       },
       {
        "type": "inserted",
@@ -8010,7 +7834,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": null,
-       "new_pos": 40
+       "new_pos": 43
       },
       {
        "type": "equal",
@@ -8022,7 +7846,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 45,
-       "new_pos": 42
+       "new_pos": 45
       },
       {
        "type": "equal",
@@ -8034,7 +7858,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 46,
-       "new_pos": 43
+       "new_pos": 46
       },
       {
        "type": "equal",
@@ -8046,7 +7870,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 47,
-       "new_pos": 44
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -8058,7 +7882,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 48,
-       "new_pos": 45
+       "new_pos": 48
       },
       {
        "type": "equal",
@@ -8070,7 +7894,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 49,
-       "new_pos": 46
+       "new_pos": 49
       },
       {
        "type": "equal",
@@ -8082,7 +7906,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 50,
-       "new_pos": 47
+       "new_pos": 50
       },
       {
        "type": "equal",
@@ -8094,7 +7918,7 @@
        "new_page": 34,
        "words": [],
        "old_pos": 51,
-       "new_pos": 48
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -8106,19 +7930,19 @@
        "new_page": 34,
        "words": [],
        "old_pos": 52,
-       "new_pos": 49
+       "new_pos": 52
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \\ fica —_ Sontapath sf i 1305 ) afloat a A ~ \\ = i r xP / A / Y vy, 4 f ¥ %.. \\Devagirie x a > ‘ i eh NZ re s\\ \\ 3 \\ “4 A \\ pe = — A } \\ 3 ss f / Saw \\ 2 M od \\ ).",
+       "new": "PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \\ fica —_ Sontapath sf i 1305 ) afloat a A ~ \\ = i r xP / A / Y vy, 4 f ¥ %.. \\Devagirie x a > ‘ i eh NZ re s\\ \\ 3 \\ “4 A \\ pe = — A } \\ 3 ss f / Saw \\ 2 M od \\).",
        "old_page": null,
        "new_page": 35,
        "words": [],
        "old_pos": null,
-       "new_pos": 59
+       "new_pos": 62
       },
       {
        "type": "equal",
@@ -8130,7 +7954,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 53,
-       "new_pos": 50
+       "new_pos": 53
       },
       {
        "type": "equal",
@@ -8142,7 +7966,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 54,
-       "new_pos": 51
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -8154,7 +7978,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 55,
-       "new_pos": 52
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -8166,7 +7990,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 56,
-       "new_pos": 53
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -8178,7 +8002,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 57,
-       "new_pos": 54
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -8190,7 +8014,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 58,
-       "new_pos": 55
+       "new_pos": 58
       },
       {
        "type": "equal",
@@ -8202,7 +8026,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 59,
-       "new_pos": 56
+       "new_pos": 59
       },
       {
        "type": "equal",
@@ -8214,7 +8038,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 60,
-       "new_pos": 57
+       "new_pos": 60
       },
       {
        "type": "equal",
@@ -8226,7 +8050,7 @@
        "new_page": 35,
        "words": [],
        "old_pos": 61,
-       "new_pos": 58
+       "new_pos": 61
       },
       {
        "type": "deleted",
@@ -8263,7 +8087,7 @@
         ]
        ],
        "old_pos": 65,
-       "new_pos": 62
+       "new_pos": 65
       },
       {
        "type": "modified",
@@ -8300,7 +8124,7 @@
         ]
        ],
        "old_pos": 63,
-       "new_pos": 61
+       "new_pos": 64
       },
       {
        "type": "modified",
@@ -8321,7 +8145,7 @@
         ]
        ],
        "old_pos": 62,
-       "new_pos": 60
+       "new_pos": 63
       },
       {
        "type": "equal",
@@ -8333,7 +8157,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 66,
-       "new_pos": 63
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -8345,7 +8169,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 67,
-       "new_pos": 64
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -8357,7 +8181,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 68,
-       "new_pos": 65
+       "new_pos": 68
       },
       {
        "type": "modified",
@@ -8398,7 +8222,7 @@
         ]
        ],
        "old_pos": 72,
-       "new_pos": 67
+       "new_pos": 70
       },
       {
        "type": "modified",
@@ -8419,7 +8243,7 @@
         ]
        ],
        "old_pos": 71,
-       "new_pos": 66
+       "new_pos": 69
       },
       {
        "type": "modified",
@@ -8448,7 +8272,7 @@
         ]
        ],
        "old_pos": 74,
-       "new_pos": 71
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -8460,7 +8284,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 73,
-       "new_pos": 70
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -8472,7 +8296,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 75,
-       "new_pos": 72
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -8484,7 +8308,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 76,
-       "new_pos": 73
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -8496,7 +8320,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 77,
-       "new_pos": 77
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -8508,7 +8332,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 78,
-       "new_pos": 78
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -8520,7 +8344,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 79,
-       "new_pos": 79
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -8532,7 +8356,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 80,
-       "new_pos": 80
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -8544,7 +8368,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 81,
-       "new_pos": 81
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -8556,7 +8380,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 82,
-       "new_pos": 82
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -8568,7 +8392,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 83,
-       "new_pos": 83
+       "new_pos": 86
       },
       {
        "type": "modified",
@@ -8593,7 +8417,7 @@
         ]
        ],
        "old_pos": 86,
-       "new_pos": 89
+       "new_pos": 92
       },
       {
        "type": "modified",
@@ -8618,7 +8442,7 @@
         ]
        ],
        "old_pos": 90,
-       "new_pos": 93
+       "new_pos": 96
       },
       {
        "type": "modified",
@@ -8659,7 +8483,7 @@
         ]
        ],
        "old_pos": 89,
-       "new_pos": 92
+       "new_pos": 95
       },
       {
        "type": "modified",
@@ -8684,7 +8508,7 @@
         ]
        ],
        "old_pos": 91,
-       "new_pos": 94
+       "new_pos": 97
       },
       {
        "type": "modified",
@@ -8713,7 +8537,7 @@
         ]
        ],
        "old_pos": 103,
-       "new_pos": 106
+       "new_pos": 109
       },
       {
        "type": "typographic",
@@ -8725,7 +8549,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 93,
-       "new_pos": 96
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -8737,7 +8561,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 84,
-       "new_pos": 87
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -8749,7 +8573,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 85,
-       "new_pos": 88
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -8761,7 +8585,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 87,
-       "new_pos": 90
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -8773,7 +8597,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 88,
-       "new_pos": 91
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -8785,7 +8609,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 92,
-       "new_pos": 95
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -8797,7 +8621,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 94,
-       "new_pos": 97
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -8809,7 +8633,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 95,
-       "new_pos": 98
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -8821,7 +8645,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 96,
-       "new_pos": 99
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -8833,7 +8657,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 97,
-       "new_pos": 100
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -8845,7 +8669,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 98,
-       "new_pos": 101
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -8857,7 +8681,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 99,
-       "new_pos": 102
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -8869,7 +8693,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 100,
-       "new_pos": 103
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -8881,7 +8705,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 101,
-       "new_pos": 104
+       "new_pos": 107
       },
       {
        "type": "equal",
@@ -8893,7 +8717,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 102,
-       "new_pos": 105
+       "new_pos": 108
       },
       {
        "type": "inserted",
@@ -8905,7 +8729,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": null,
-       "new_pos": 108
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -8917,7 +8741,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 104,
-       "new_pos": 115
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -8929,7 +8753,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 105,
-       "new_pos": 116
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -8941,7 +8765,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 106,
-       "new_pos": 117
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -8953,7 +8777,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 107,
-       "new_pos": 118
+       "new_pos": 121
       },
       {
        "type": "modified",
@@ -8974,7 +8798,7 @@
         ]
        ],
        "old_pos": 108,
-       "new_pos": 127
+       "new_pos": 130
       },
       {
        "type": "deleted",
@@ -9015,7 +8839,7 @@
         ]
        ],
        "old_pos": 112,
-       "new_pos": 149
+       "new_pos": 152
       },
       {
        "type": "equal",
@@ -9027,7 +8851,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 109,
-       "new_pos": 146
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -9039,7 +8863,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 110,
-       "new_pos": 147
+       "new_pos": 150
       },
       {
        "type": "equal",
@@ -9051,7 +8875,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 113,
-       "new_pos": 150
+       "new_pos": 153
       },
       {
        "type": "equal",
@@ -9063,7 +8887,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 114,
-       "new_pos": 151
+       "new_pos": 154
       },
       {
        "type": "equal",
@@ -9075,7 +8899,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 115,
-       "new_pos": 152
+       "new_pos": 155
       },
       {
        "type": "equal",
@@ -9087,7 +8911,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 116,
-       "new_pos": 153
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -9099,7 +8923,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 117,
-       "new_pos": 154
+       "new_pos": 157
       },
       {
        "type": "equal",
@@ -9111,7 +8935,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 118,
-       "new_pos": 155
+       "new_pos": 158
       },
       {
        "type": "equal",
@@ -9123,7 +8947,7 @@
        "new_page": 42,
        "words": [],
        "old_pos": 119,
-       "new_pos": 156
+       "new_pos": 159
       },
       {
        "type": "deleted",
@@ -9159,7 +8983,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 122,
-       "new_pos": 168
+       "new_pos": 171
       },
       {
        "type": "equal",
@@ -9171,7 +8995,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 123,
-       "new_pos": 169
+       "new_pos": 172
       },
       {
        "type": "equal",
@@ -9183,7 +9007,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 124,
-       "new_pos": 170
+       "new_pos": 173
       },
       {
        "type": "restreamed",
@@ -9288,6 +9112,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 21,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9383,7 +9208,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 2,
-       "new_pos": 30
+       "new_pos": 33
       },
       {
        "type": "restreamed",
@@ -9395,7 +9220,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 3,
-       "new_pos": 31
+       "new_pos": 34
       },
       {
        "type": "restreamed",
@@ -9407,7 +9232,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 4,
-       "new_pos": 32
+       "new_pos": 35
       },
       {
        "type": "restreamed",
@@ -9419,7 +9244,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 5,
-       "new_pos": 33
+       "new_pos": 36
       },
       {
        "type": "restreamed",
@@ -9431,7 +9256,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 6,
-       "new_pos": 34
+       "new_pos": 37
       },
       {
        "type": "restreamed",
@@ -9443,7 +9268,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 7,
-       "new_pos": 35
+       "new_pos": 38
       },
       {
        "type": "restreamed",
@@ -9455,7 +9280,7 @@
        "new_page": 33,
        "words": [],
        "old_pos": 11,
-       "new_pos": 39
+       "new_pos": 42
       },
       {
        "type": "restreamed",
@@ -9491,7 +9316,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": 21,
-       "new_pos": 86
+       "new_pos": 89
       },
       {
        "type": "restreamed",
@@ -9515,7 +9340,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 27,
-       "new_pos": 158
+       "new_pos": 161
       },
       {
        "type": "restreamed",
@@ -9527,7 +9352,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 28,
-       "new_pos": 159
+       "new_pos": 162
       },
       {
        "type": "restreamed",
@@ -9539,7 +9364,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 29,
-       "new_pos": 160
+       "new_pos": 163
       },
       {
        "type": "restreamed",
@@ -9551,7 +9376,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 30,
-       "new_pos": 161
+       "new_pos": 164
       },
       {
        "type": "restreamed",
@@ -9563,7 +9388,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 31,
-       "new_pos": 162
+       "new_pos": 165
       },
       {
        "type": "restreamed",
@@ -9575,7 +9400,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 32,
-       "new_pos": 163
+       "new_pos": 166
       },
       {
        "type": "restreamed",
@@ -9587,7 +9412,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 33,
-       "new_pos": 164
+       "new_pos": 167
       },
       {
        "type": "restreamed",
@@ -9599,7 +9424,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 34,
-       "new_pos": 165
+       "new_pos": 168
       },
       {
        "type": "restreamed",
@@ -9611,7 +9436,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 35,
-       "new_pos": 166
+       "new_pos": 169
       },
       {
        "type": "restreamed",
@@ -9623,7 +9448,7 @@
        "new_page": 43,
        "words": [],
        "old_pos": 36,
-       "new_pos": 167
+       "new_pos": 170
       },
       {
        "type": "modified",
@@ -9652,7 +9477,7 @@
         ]
        ],
        "old_pos": 17,
-       "new_pos": 69
+       "new_pos": 72
       },
       {
        "type": "modified",
@@ -9681,7 +9506,7 @@
         ]
        ],
        "old_pos": 8,
-       "new_pos": 36
+       "new_pos": 39
       },
       {
        "type": "modified",
@@ -9722,7 +9547,7 @@
         ]
        ],
        "old_pos": 20,
-       "new_pos": 85
+       "new_pos": 88
       },
       {
        "type": "modified",
@@ -9743,7 +9568,7 @@
         ]
        ],
        "old_pos": 16,
-       "new_pos": 68
+       "new_pos": 71
       },
       {
        "type": "modified",
@@ -9768,7 +9593,7 @@
         ]
        ],
        "old_pos": 25,
-       "new_pos": 114
+       "new_pos": 117
       },
       {
        "type": "modified",
@@ -9814,7 +9639,7 @@
         ]
        ],
        "old_pos": 9,
-       "new_pos": 37
+       "new_pos": 40
       },
       {
        "type": "modified",
@@ -9860,7 +9685,7 @@
         ]
        ],
        "old_pos": 10,
-       "new_pos": 38
+       "new_pos": 41
       },
       {
        "type": "modified",
@@ -9885,7 +9710,7 @@
         ]
        ],
        "old_pos": 0,
-       "new_pos": 14
+       "new_pos": 17
       },
       {
        "type": "modified",
@@ -9906,43 +9731,23 @@
         ]
        ],
        "old_pos": 26,
-       "new_pos": 157
+       "new_pos": 160
       }
      ]
     },
     "caption": {
      "counts": {
       "deleted": 8,
-      "inserted": 11,
-      "modified": 11,
+      "inserted": 7,
+      "modified": 6,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 24,
+      "restreamed": 25,
+      "resplit": 4,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.957,
-       "old": "Map 1 Selected Sultanate cities of Delhi, thirteenth-fourteenth centuries.",
-       "new": "Selected Sultanate cities of Delhi, thirteenth-fourteenth centuries.",
-       "old_page": 30,
-       "new_page": 30,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Selected Sultanate cities of Delhi, thirteenth-fourteenth centuries."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 2
-      },
       {
        "type": "inserted",
        "stream": "caption",
@@ -9968,6 +9773,18 @@
        "new_pos": 3
       },
       {
+       "type": "resplit",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Map 1 Selected Sultanate cities of Delhi, thirteenth-fourteenth centuries.",
+       "new": "Map 1 Selected Sultanate cities of Delhi, thirteenth-fourteenth centuries.",
+       "old_page": 30,
+       "new_page": 30,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 1
+      },
+      {
        "type": "deleted",
        "stream": "caption",
        "similarity": null,
@@ -9977,18 +9794,6 @@
        "new_page": null,
        "words": [],
        "old_pos": 1,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "caption",
-       "similarity": null,
-       "old": "Alai Darwaza",
-       "new": null,
-       "old_page": 31,
-       "new_page": null,
-       "words": [],
-       "old_pos": 2,
        "new_pos": null
       },
       {
@@ -10028,65 +9833,16 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.889,
+       "similarity": 1.0,
        "old": "Fig.1 Four stages in the making of a manuscript: A.",
-       "new": "Four stages in the making ofa manuscript:",
+       "new": "Fig.1 Four stages in the making ofa manuscript: A.",
        "old_page": 32,
        "new_page": 32,
-       "words": [
-        [
-         "-",
-         "Fig.1"
-        ],
-        [
-         "=",
-         "Four stages in the making"
-        ],
-        [
-         "-",
-         "of a"
-        ],
-        [
-         "+",
-         "ofa"
-        ],
-        [
-         "=",
-         "manuscript:"
-        ],
-        [
-         "-",
-         "A."
-        ]
-       ],
+       "words": [],
        "old_pos": 5,
-       "new_pos": 8
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig.1",
-       "old_page": null,
-       "new_page": 32,
-       "words": [],
-       "old_pos": null,
        "new_pos": 7
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "A.",
-       "old_page": null,
-       "new_page": 32,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 9
       },
       {
        "type": "equal",
@@ -10173,36 +9929,15 @@
        "new_pos": 16
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.846,
+       "similarity": 1.0,
        "old": "Gender distinctions Social and biological differences between women and men.",
-       "new": "Social and biological differences between women and men.",
+       "new": "Gender distinctions Social and biological differences between women and men.",
        "old_page": 33,
        "new_page": 33,
-       "words": [
-        [
-         "-",
-         "Gender distinctions"
-        ],
-        [
-         "=",
-         "Social and biological differences between women and men."
-        ]
-       ],
-       "old_pos": 13,
-       "new_pos": 18
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Gender distinctions",
-       "old_page": null,
-       "new_page": 33,
        "words": [],
-       "old_pos": null,
+       "old_pos": 13,
        "new_pos": 17
       },
       {
@@ -10295,36 +10030,15 @@
        "new_pos": 24
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.935,
+       "similarity": 1.0,
        "old": "Map 3 Alauddin Khalji’s campaign into south India.",
-       "new": "Alauddin Khalji’s campaign into south India.",
+       "new": "Map 3 Alauddin Khalji’s campaign into south India.",
        "old_page": 35,
        "new_page": 35,
-       "words": [
-        [
-         "-",
-         "Map 3"
-        ],
-        [
-         "=",
-         "Alauddin Khalji’s campaign into south India."
-        ]
-       ],
-       "old_pos": 16,
-       "new_pos": 27
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 3",
-       "old_page": null,
-       "new_page": 35,
        "words": [],
-       "old_pos": null,
+       "old_pos": 16,
        "new_pos": 26
       },
       {
@@ -10503,33 +10217,16 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "deleted",
        "stream": "caption",
-       "similarity": 0.714,
+       "similarity": null,
        "old": "See Map 1.",
-       "new": "Map 1",
+       "new": null,
        "old_page": 41,
-       "new_page": 30,
-       "words": [
-        [
-         "-",
-         "See"
-        ],
-        [
-         "=",
-         "Map"
-        ],
-        [
-         "-",
-         "1."
-        ],
-        [
-         "+",
-         "1"
-        ]
-       ],
+       "new_page": null,
+       "words": [],
        "old_pos": 34,
-       "new_pos": 1
+       "new_pos": null
       },
       {
        "type": "equal",
@@ -10595,13 +10292,25 @@
        "type": "restreamed",
        "stream": "caption>body",
        "similarity": 1.0,
+       "old": "Alai Darwaza",
+       "new": "Alai Darwaza",
+       "old_page": 31,
+       "new_page": 31,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 13
+      },
+      {
+       "type": "restreamed",
+       "stream": "caption>body",
+       "similarity": 1.0,
        "old": "The Sultanate was attacked in the early years of Muhammad Tughluq’s reign.",
        "new": "The Sultanate was attacked in the early years of Muhammad Tughluq’s reign.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
        "old_pos": 27,
-       "new_pos": 128
+       "new_pos": 131
       },
       {
        "type": "restreamed",
@@ -10613,7 +10322,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 28,
-       "new_pos": 129
+       "new_pos": 132
       },
       {
        "type": "restreamed",
@@ -10625,7 +10334,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 29,
-       "new_pos": 130
+       "new_pos": 133
       },
       {
        "type": "restreamed",
@@ -10637,7 +10346,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 30,
-       "new_pos": 131
+       "new_pos": 134
       },
       {
        "type": "restreamed",
@@ -10649,7 +10358,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 31,
-       "new_pos": 132
+       "new_pos": 135
       },
       {
        "type": "restreamed",
@@ -10661,7 +10370,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 32,
-       "new_pos": 133
+       "new_pos": 136
       },
       {
        "type": "restreamed",
@@ -10673,7 +10382,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 41,
-       "new_pos": 134
+       "new_pos": 137
       },
       {
        "type": "restreamed",
@@ -10685,7 +10394,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 42,
-       "new_pos": 135
+       "new_pos": 138
       },
       {
        "type": "restreamed",
@@ -10697,7 +10406,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 43,
-       "new_pos": 136
+       "new_pos": 139
       },
       {
        "type": "restreamed",
@@ -10709,7 +10418,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 44,
-       "new_pos": 137
+       "new_pos": 140
       },
       {
        "type": "restreamed",
@@ -10721,7 +10430,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 45,
-       "new_pos": 138
+       "new_pos": 141
       },
       {
        "type": "restreamed",
@@ -10733,7 +10442,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 46,
-       "new_pos": 120
+       "new_pos": 123
       },
       {
        "type": "restreamed",
@@ -10745,7 +10454,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 48,
-       "new_pos": 122
+       "new_pos": 125
       },
       {
        "type": "restreamed",
@@ -10757,7 +10466,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 49,
-       "new_pos": 123
+       "new_pos": 126
       },
       {
        "type": "restreamed",
@@ -10769,7 +10478,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 50,
-       "new_pos": 124
+       "new_pos": 127
       },
       {
        "type": "restreamed",
@@ -10781,7 +10490,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 51,
-       "new_pos": 139
+       "new_pos": 142
       },
       {
        "type": "restreamed",
@@ -10793,7 +10502,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 52,
-       "new_pos": 140
+       "new_pos": 143
       },
       {
        "type": "restreamed",
@@ -10805,7 +10514,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 53,
-       "new_pos": 141
+       "new_pos": 144
       },
       {
        "type": "restreamed",
@@ -10817,7 +10526,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 54,
-       "new_pos": 142
+       "new_pos": 145
       },
       {
        "type": "restreamed",
@@ -10829,7 +10538,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 55,
-       "new_pos": 143
+       "new_pos": 146
       },
       {
        "type": "restreamed",
@@ -10841,7 +10550,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 56,
-       "new_pos": 144
+       "new_pos": 147
       },
       {
        "type": "restreamed",
@@ -10853,7 +10562,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 57,
-       "new_pos": 145
+       "new_pos": 148
       },
       {
        "type": "restreamed",
@@ -10865,7 +10574,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 58,
-       "new_pos": 125
+       "new_pos": 128
       },
       {
        "type": "restreamed",
@@ -10877,7 +10586,7 @@
        "new_page": 41,
        "words": [],
        "old_pos": 59,
-       "new_pos": 126
+       "new_pos": 129
       },
       {
        "type": "modified",
@@ -10902,7 +10611,7 @@
         ]
        ],
        "old_pos": 47,
-       "new_pos": 121
+       "new_pos": 124
       },
       {
        "type": "modified",
@@ -10935,6 +10644,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10997,6 +10707,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11035,7 +10746,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 9,
-       "new_pos": 110
+       "new_pos": 113
       },
       {
        "type": "restreamed",
@@ -11047,7 +10758,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 10,
-       "new_pos": 111
+       "new_pos": 114
       },
       {
        "type": "restreamed",
@@ -11059,7 +10770,7 @@
        "new_page": 40,
        "words": [],
        "old_pos": 12,
-       "new_pos": 113
+       "new_pos": 116
       },
       {
        "type": "modified",
@@ -11088,7 +10799,7 @@
         ]
        ],
        "old_pos": 5,
-       "new_pos": 75
+       "new_pos": 78
       },
       {
        "type": "modified",
@@ -11113,7 +10824,7 @@
         ]
        ],
        "old_pos": 6,
-       "new_pos": 76
+       "new_pos": 79
       },
       {
        "type": "modified",
@@ -11142,7 +10853,7 @@
         ]
        ],
        "old_pos": 11,
-       "new_pos": 112
+       "new_pos": 115
       },
       {
        "type": "modified",
@@ -11183,7 +10894,7 @@
         ]
        ],
        "old_pos": 8,
-       "new_pos": 109
+       "new_pos": 112
       },
       {
        "type": "modified",
@@ -11208,7 +10919,7 @@
         ]
        ],
        "old_pos": 3,
-       "new_pos": 17
+       "new_pos": 20
       },
       {
        "type": "modified",
@@ -11233,7 +10944,7 @@
         ]
        ],
        "old_pos": 2,
-       "new_pos": 16
+       "new_pos": 19
       },
       {
        "type": "modified",
@@ -11262,7 +10973,7 @@
         ]
        ],
        "old_pos": 4,
-       "new_pos": 18
+       "new_pos": 21
       },
       {
        "type": "modified",
@@ -11287,7 +10998,7 @@
         ]
        ],
        "old_pos": 1,
-       "new_pos": 15
+       "new_pos": 18
       }
      ]
     },
@@ -11299,6 +11010,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11677,6 +11389,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11690,6 +11403,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11703,6 +11417,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11721,8 +11436,8 @@
      {
       "page": 31,
       "new_page": 31,
-      "sentences": 25,
-      "score": 0.28,
+      "sentences": 22,
+      "score": 0.41,
       "suspect": true
      },
      {
@@ -11792,7 +11507,7 @@
       "page": 41,
       "new_page": 41,
       "sentences": 36,
-      "score": 0.92,
+      "score": 0.89,
       "suspect": false
      },
      {
@@ -11845,6 +11560,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12151,12 +11867,13 @@
     },
     "body": {
      "counts": {
-      "deleted": 8,
-      "inserted": 5,
-      "modified": 19,
+      "deleted": 7,
+      "inserted": 3,
+      "modified": 16,
       "moved": 0,
       "typographic": 8,
       "restreamed": 0,
+      "resplit": 3,
       "unreadable": 0,
       "punctuation": 4
      },
@@ -12471,18 +12188,6 @@
        "new_pos": null
       },
       {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "(1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff.",
-       "new": null,
-       "old_page": 48,
-       "new_page": null,
-       "words": [],
-       "old_pos": 35,
-       "new_pos": null
-      },
-      {
        "type": "modified",
        "stream": "body",
        "similarity": 0.926,
@@ -12605,35 +12310,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.784,
-       "old": "Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
-       "new": "(1) 1556-1570 —- Akbar became independent of the regent Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "+",
-         "(1) 1556-1570 —- Akbar became independent of the regent Bairam Khan and other members of his domestic staff. :"
-        ],
-        [
-         "=",
-         "Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of"
-        ],
-        [
-         "+",
-         "|"
-        ],
-        [
-         "=",
-         "Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs."
-        ]
-       ],
-       "old_pos": 36,
-       "new_pos": 39
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.973,
        "old": "(2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa.",
        "new": "(2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa.",
@@ -12675,31 +12351,6 @@
        ],
        "old_pos": 38,
        "new_pos": 41
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.683,
-       "old": "These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim.",
-       "new": "+ 1579-1580 revolt in support of Mirza Hakim.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "-",
-         "These campaigns were complicated by the"
-        ],
-        [
-         "+",
-         "+"
-        ],
-        [
-         "=",
-         "1579-1580 revolt in support of Mirza Hakim."
-        ]
-       ],
-       "old_pos": 39,
-       "new_pos": 43
       },
       {
        "type": "modified",
@@ -12758,18 +12409,6 @@
        ],
        "old_pos": 44,
        "new_pos": 48
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "These campaigns were complicated by the",
-       "old_page": null,
-       "new_page": 48,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 42
       },
       {
        "type": "typographic",
@@ -12860,6 +12499,30 @@
        ],
        "old_pos": 41,
        "new_pos": 45
+      },
+      {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim.",
+       "new": "These campaigns were complicated by the + 1579-1580 revolt in support of Mirza Hakim.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 42
+      },
+      {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
+       "new": "(1) 1556-1570 —- Akbar became independent of the regent Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 35,
+       "new_pos": 39
       },
       {
        "type": "equal",
@@ -13010,16 +12673,12 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.847,
-       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "similarity": 0.983,
+       "old": "Mughal campaigns continued in the Deccan under Shah Jahan.",
        "new": "E Mughal campaigns continued in the Deccan under Shah Jahan.",
        "old_page": 49,
        "new_page": 49,
        "words": [
-        [
-         "-",
-         "Shah Jahan 1627-1658"
-        ],
         [
          "+",
          "E"
@@ -13577,64 +13236,15 @@
        "new_pos": 92
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "body",
-       "similarity": 0.943,
+       "similarity": 1.0,
        "old": "The Mughals used one term – zamindars – to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.",
-       "new": "~-.» used one term - zamindars - to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.",
+       "new": "The Mughals ~-.» used one term - zamindars - to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.",
        "old_page": 52,
        "new_page": 52,
-       "words": [
-        [
-         "-",
-         "The Mughals"
-        ],
-        [
-         "+",
-         "~-.»"
-        ],
-        [
-         "=",
-         "used one term"
-        ],
-        [
-         "-",
-         "–"
-        ],
-        [
-         "+",
-         "-"
-        ],
-        [
-         "=",
-         "zamindars"
-        ],
-        [
-         "-",
-         "–"
-        ],
-        [
-         "+",
-         "-"
-        ],
-        [
-         "=",
-         "to describe all intermediaries, whether they were local headmen of villages or powerful chieftains."
-        ]
-       ],
-       "old_pos": 101,
-       "new_pos": 103
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "The Mughals",
-       "old_page": null,
-       "new_page": 52,
        "words": [],
-       "old_pos": null,
+       "old_pos": 101,
        "new_pos": 102
       },
       {
@@ -14413,11 +14023,12 @@
     "note": {
      "counts": {
       "deleted": 1,
-      "inserted": 1,
-      "modified": 7,
+      "inserted": 0,
+      "modified": 6,
       "moved": 0,
       "typographic": 0,
       "restreamed": 21,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14459,36 +14070,15 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "note",
-       "similarity": 0.964,
+       "similarity": 1.0,
        "old": "Bigot An individual who is intolerant of another person’s religious beliefs or culture.",
-       "new": "An individual who is intolerant of another person’s religious beliefs or culture.",
+       "new": "Bigot An individual who is intolerant of another person’s religious beliefs or culture.",
        "old_page": 54,
        "new_page": 54,
-       "words": [
-        [
-         "-",
-         "Bigot"
-        ],
-        [
-         "=",
-         "An individual who is intolerant of another person’s religious beliefs or culture."
-        ]
-       ],
-       "old_pos": 18,
-       "new_pos": 5
-      },
-      {
-       "type": "inserted",
-       "stream": "note",
-       "similarity": null,
-       "old": null,
-       "new": "Bigot",
-       "old_page": null,
-       "new_page": 54,
        "words": [],
-       "old_pos": null,
+       "old_pos": 18,
        "new_pos": 4
       },
       {
@@ -14930,11 +14520,12 @@
     "caption": {
      "counts": {
       "deleted": 1,
-      "inserted": 11,
-      "modified": 10,
+      "inserted": 5,
+      "modified": 5,
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 5,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14952,36 +14543,15 @@
        "new_pos": 0
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.947,
+       "similarity": 1.0,
        "old": "Fig. 4 Cannons were an important addition in sixteenth-century warfare.",
-       "new": "Cannons were an important addition in sixteenth-century warfare.",
+       "new": "Fig. 4 Cannons were an important addition in sixteenth-century warfare.",
        "old_page": 47,
        "new_page": 47,
-       "words": [
-        [
-         "-",
-         "Fig. 4"
-        ],
-        [
-         "=",
-         "Cannons were an important addition in sixteenth-century warfare."
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 3
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 4",
-       "old_page": null,
-       "new_page": 47,
        "words": [],
-       "old_pos": null,
+       "old_pos": 6,
        "new_pos": 2
       },
       {
@@ -15049,18 +14619,6 @@
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "Shah Jahan 1627-1658",
-       "old_page": null,
-       "new_page": 49,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 9
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
        "new": "of the Ahoms and in the Deccan of the Marathas.",
        "old_page": null,
        "new_page": 49,
@@ -15081,39 +14639,6 @@
        "new_pos": 11
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.936,
-       "old": "Map 1 Military campaigns under Akbar and Aurangzeb.",
-       "new": "Military campaigns under Akbar and Aurangzeb.",
-       "old_page": 50,
-       "new_page": 50,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Military campaigns under Akbar and Aurangzeb."
-        ]
-       ],
-       "old_pos": 10,
-       "new_pos": 13
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
-       "new_page": 50,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 12
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -15126,93 +14651,39 @@
        "new_pos": 14
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.977,
-       "old": "Fig. 6 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt officer receiving a bribe and (2) a tax-collector punishing poor peasants.",
-       "new": "Details froma miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) acorrupt officer receiving a bribe and (2) a tax-collector punishing poor peasants.",
-       "old_page": 52,
-       "new_page": 52,
-       "words": [
-        [
-         "-",
-         "Fig. 6"
-        ],
-        [
-         "=",
-         "Details"
-        ],
-        [
-         "-",
-         "from a"
-        ],
-        [
-         "+",
-         "froma"
-        ],
-        [
-         "=",
-         "miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1)"
-        ],
-        [
-         "-",
-         "a corrupt"
-        ],
-        [
-         "+",
-         "acorrupt"
-        ],
-        [
-         "=",
-         "officer receiving a bribe and (2) a tax-collector punishing poor peasants."
-        ]
-       ],
-       "old_pos": 14,
-       "new_pos": 20
+       "similarity": 1.0,
+       "old": "Map 1 Military campaigns under Akbar and Aurangzeb.",
+       "new": "Map 1 Military campaigns under Akbar and Aurangzeb.",
+       "old_page": 50,
+       "new_page": 50,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 12
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.911,
+       "similarity": 1.0,
        "old": "Fig. 5 A mansabdar on march with his sawars.",
-       "new": "A mansabdar on march with his sawars.",
+       "new": "Fig. 5 A mansabdar on march with his sawars.",
        "old_page": 52,
-       "new_page": 52,
-       "words": [
-        [
-         "-",
-         "Fig. 5"
-        ],
-        [
-         "=",
-         "A mansabdar on march with his sawars."
-        ]
-       ],
-       "old_pos": 13,
-       "new_pos": 18
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 5",
-       "old_page": null,
        "new_page": 52,
        "words": [],
-       "old_pos": null,
+       "old_pos": 13,
        "new_pos": 17
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 6",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 6 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt officer receiving a bribe and (2) a tax-collector punishing poor peasants.",
+       "new": "Fig. 6 Details froma miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) acorrupt officer receiving a bribe and (2) a tax-collector punishing poor peasants.",
+       "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": null,
+       "old_pos": 14,
        "new_pos": 19
       },
       {
@@ -15263,27 +14734,6 @@
       {
        "type": "modified",
        "stream": "caption",
-       "similarity": 0.963,
-       "old": "Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.",
-       "new": "Akbar holding discussions with learned individuals of different faiths in the ibadat khana.",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [
-        [
-         "-",
-         "Fig. 9"
-        ],
-        [
-         "=",
-         "Akbar holding discussions with learned individuals of different faiths in the ibadat khana."
-        ]
-       ],
-       "old_pos": 17,
-       "new_pos": 25
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
        "similarity": 0.989,
        "old": "A Maktab Khana or translation bureau was also established at Fatehpur Sikri for this purpose.",
        "new": "A Maktab Khana or translation bureau was also established at Fatehpur Sikri_for this purpose.",
@@ -15311,15 +14761,15 @@
        "new_pos": 27
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 9",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.",
+       "new": "Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.",
+       "old_page": 55,
        "new_page": 55,
        "words": [],
-       "old_pos": null,
+       "old_pos": 17,
        "new_pos": 24
       },
       {
@@ -15498,7 +14948,8 @@
       "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 1,
+      "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15524,7 +14975,7 @@
        "old_page": 49,
        "new_page": null,
        "words": [],
-       "old_pos": 1,
+       "old_pos": 2,
        "new_pos": null
       },
       {
@@ -15610,6 +15061,18 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 7
+      },
+      {
+       "type": "restreamed",
+       "stream": "table>caption",
+       "similarity": 1.0,
+       "old": "Shah Jahan 1627-1658",
+       "new": "Shah Jahan 1627-1658",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 9
       }
      ]
     },
@@ -15621,6 +15084,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15713,6 +15177,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16048,6 +15513,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16192,6 +15658,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16205,6 +15672,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16237,15 +15705,15 @@
      {
       "page": 48,
       "new_page": 48,
-      "sentences": 24,
-      "score": 0.92,
+      "sentences": 23,
+      "score": 0.96,
       "suspect": false
      },
      {
       "page": 49,
       "new_page": 49,
-      "sentences": 21,
-      "score": 0.76,
+      "sentences": 22,
+      "score": 0.77,
       "suspect": false
      },
      {
@@ -16347,6 +15815,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16488,11 +15957,12 @@
     "body": {
      "counts": {
       "deleted": 1,
-      "inserted": 7,
-      "modified": 10,
+      "inserted": 5,
+      "modified": 9,
       "moved": 0,
       "typographic": 6,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -16826,18 +16296,6 @@
        ],
        "old_pos": 26,
        "new_pos": 37
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "| Fig. 3a",
-       "old_page": null,
-       "new_page": 62,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 30
       },
       {
        "type": "inserted",
@@ -17920,51 +17378,6 @@
        "new_pos": 115
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.67,
-       "old": "Mughal rulers were particularly skilled in adapting regional architectural styles in the construction of their own buildings.",
-       "new": "* architectural styles in the construction of their = own buildings.",
-       "old_page": 71,
-       "new_page": 72,
-       "words": [
-        [
-         "-",
-         "Mughal rulers were particularly skilled in adapting regional"
-        ],
-        [
-         "+",
-         "*"
-        ],
-        [
-         "=",
-         "architectural styles in the construction of their"
-        ],
-        [
-         "+",
-         "="
-        ],
-        [
-         "=",
-         "own buildings."
-        ]
-       ],
-       "old_pos": 105,
-       "new_pos": 121
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "Mughal rulers were particularly skilled in adapting regional",
-       "old_page": null,
-       "new_page": 71,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 120
-      },
-      {
        "type": "punctuation",
        "stream": "body",
        "similarity": 0.977,
@@ -17996,6 +17409,18 @@
        ],
        "old_pos": 106,
        "new_pos": 122
+      },
+      {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Mughal rulers were particularly skilled in adapting regional architectural styles in the construction of their own buildings.",
+       "new": "Mughal rulers were particularly skilled in adapting regional * architectural styles in the construction of their = own buildings.",
+       "old_page": 71,
+       "new_page": 71,
+       "words": [],
+       "old_pos": 105,
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -18234,48 +17659,28 @@
     },
     "note": {
      "counts": {
-      "deleted": 2,
-      "inserted": 3,
+      "deleted": 3,
+      "inserted": 1,
       "modified": 3,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 5,
+      "restreamed": 4,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 1
      },
      "hunks": [
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "note",
-       "similarity": 0.737,
+       "similarity": 1.0,
        "old": "Labour for the Agra Fort",
-       "new": "Labour for the",
+       "new": "Labour for the Agra Fort",
        "old_page": 61,
        "new_page": 61,
-       "words": [
-        [
-         "=",
-         "Labour for the"
-        ],
-        [
-         "-",
-         "Agra Fort"
-        ]
-       ],
+       "words": [],
        "old_pos": 0,
        "new_pos": 0
-      },
-      {
-       "type": "inserted",
-       "stream": "note",
-       "similarity": null,
-       "old": null,
-       "new": "Agra Fort",
-       "old_page": null,
-       "new_page": 61,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 1
       },
       {
        "type": "equal",
@@ -18363,16 +17768,16 @@
        "new_pos": 6
       },
       {
-       "type": "inserted",
+       "type": "deleted",
        "stream": "note",
        "similarity": null,
-       "old": null,
-       "new": "Fig. 9",
-       "old_page": null,
-       "new_page": 66,
+       "old": "Pietra dura",
+       "new": null,
+       "old_page": 69,
+       "new_page": null,
        "words": [],
-       "old_pos": null,
-       "new_pos": 7
+       "old_pos": 9,
+       "new_pos": null
       },
       {
        "type": "inserted",
@@ -18412,18 +17817,6 @@
       },
       {
        "type": "restreamed",
-       "stream": "note>caption",
-       "similarity": 1.0,
-       "old": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
-       "new": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
-       "old_page": 69,
-       "new_page": 69,
-       "words": [],
-       "old_pos": 9,
-       "new_pos": 34
-      },
-      {
-       "type": "restreamed",
        "stream": "note>body",
        "similarity": 1.0,
        "old": "From the twelfth century onwards, attempts began in France to build churches that were taller and lighter than earlier buildings.",
@@ -18431,7 +17824,7 @@
        "old_page": 72,
        "new_page": 72,
        "words": [],
-       "old_pos": 10,
+       "old_pos": 11,
        "new_pos": 128
       },
       {
@@ -18443,8 +17836,29 @@
        "old_page": 72,
        "new_page": 72,
        "words": [],
-       "old_pos": 13,
+       "old_pos": 14,
        "new_pos": 9
+      },
+      {
+       "type": "modified",
+       "stream": "note>caption",
+       "similarity": 0.949,
+       "old": "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "new": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "old_page": 69,
+       "new_page": 69,
+       "words": [
+        [
+         "+",
+         "Pietra dura"
+        ],
+        [
+         "=",
+         "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns."
+        ]
+       ],
+       "old_pos": 10,
+       "new_pos": 34
       },
       {
        "type": "modified",
@@ -18488,7 +17902,7 @@
          "buttresses."
         ]
        ],
-       "old_pos": 11,
+       "old_pos": 12,
        "new_pos": 129
       },
       {
@@ -18509,7 +17923,7 @@
          "were visible from a distance were added to the church."
         ]
        ],
-       "old_pos": 12,
+       "old_pos": 13,
        "new_pos": 42
       }
      ]
@@ -18517,46 +17931,26 @@
     "caption": {
      "counts": {
       "deleted": 9,
-      "inserted": 6,
-      "modified": 29,
+      "inserted": 0,
+      "modified": 21,
       "moved": 0,
       "typographic": 0,
       "restreamed": 9,
+      "resplit": 8,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.909,
+       "similarity": 1.0,
        "old": "Fig. 1 The Qutb Minar is five storeys high.",
-       "new": "The Qutb Minar is five storeys high.",
+       "new": "Fig. 1 The Qutb Minar is five storeys high.",
        "old_page": 60,
        "new_page": 60,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "The Qutb Minar is five storeys high."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 1
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
-       "new_page": 60,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 0
       },
       {
@@ -18658,25 +18052,16 @@
        "new_pos": 9
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.943,
+       "similarity": 1.0,
        "old": "Fig. 2a Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century).",
-       "new": "Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century).",
+       "new": "Fig. 2a Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century).",
        "old_page": 61,
        "new_page": 61,
-       "words": [
-        [
-         "-",
-         "Fig. 2a"
-        ],
-        [
-         "=",
-         "Screen in the Quwwat al-Islam mosque, Delhi (late twelfth century)."
-        ]
-       ],
+       "words": [],
        "old_pos": 7,
-       "new_pos": 8
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -18767,56 +18152,6 @@
       {
        "type": "modified",
        "stream": "caption",
-       "similarity": 0.857,
-       "old": "Fig. 3b",
-       "new": "Fig. 5b",
-       "old_page": 62,
-       "new_page": 63,
-       "words": [
-        [
-         "=",
-         "Fig."
-        ],
-        [
-         "-",
-         "3b"
-        ],
-        [
-         "+",
-         "5b"
-        ]
-       ],
-       "old_pos": 25,
-       "new_pos": 14
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.857,
-       "old": "Fig. 3a",
-       "new": "Fig. 2a",
-       "old_page": 62,
-       "new_page": 61,
-       "words": [
-        [
-         "=",
-         "Fig."
-        ],
-        [
-         "-",
-         "3a"
-        ],
-        [
-         "+",
-         "2a"
-        ]
-       ],
-       "old_pos": 16,
-       "new_pos": 7
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
        "similarity": 0.663,
        "old": "So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top.",
        "new": "placed the boulder on rollers and rolled it all the way to the top.",
@@ -18881,57 +18216,27 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.943,
+       "similarity": 1.0,
        "old": "Fig. 5b True arch; detail from the Alai Darwaza (early fourteenth century).",
-       "new": "True arch; detail from the Alai Darwaza (early fourteenth century).",
+       "new": "Fig. 5b True arch; detail from the Alai Darwaza (early fourteenth century).",
        "old_page": 63,
-       "new_page": 63,
-       "words": [
-        [
-         "-",
-         "Fig. 5b"
-        ],
-        [
-         "=",
-         "True arch; detail from the Alai Darwaza (early fourteenth century)."
-        ]
-       ],
-       "old_pos": 29,
-       "new_pos": 15
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.969,
-       "old": "Fig. 6 A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort.",
-       "new": "A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort.",
-       "old_page": 63,
-       "new_page": 63,
-       "words": [
-        [
-         "-",
-         "Fig. 6"
-        ],
-        [
-         "=",
-         "A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort."
-        ]
-       ],
-       "old_pos": 31,
-       "new_pos": 18
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 6",
-       "old_page": null,
        "new_page": 63,
        "words": [],
-       "old_pos": null,
+       "old_pos": 29,
+       "new_pos": 14
+      },
+      {
+       "type": "resplit",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Fig. 6 A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort.",
+       "new": "Fig. 6 A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort.",
+       "old_page": 63,
+       "new_page": 63,
+       "words": [],
+       "old_pos": 31,
        "new_pos": 17
       },
       {
@@ -18959,36 +18264,15 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.963,
+       "similarity": 1.0,
        "old": "Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.",
-       "new": "Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.",
+       "new": "Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.",
        "old_page": 64,
        "new_page": 64,
-       "words": [
-        [
-         "-",
-         "Fig. 7"
-        ],
-        [
-         "=",
-         "Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656."
-        ]
-       ],
-       "old_pos": 34,
-       "new_pos": 21
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 7",
-       "old_page": null,
-       "new_page": 64,
        "words": [],
-       "old_pos": null,
+       "old_pos": 34,
        "new_pos": 20
       },
       {
@@ -19004,36 +18288,15 @@
        "new_pos": 19
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.954,
+       "similarity": 1.0,
        "old": "Fig. 8 Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.",
-       "new": "Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.",
+       "new": "Fig. 8 Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.",
        "old_page": 65,
        "new_page": 65,
-       "words": [
-        [
-         "-",
-         "Fig. 8"
-        ],
-        [
-         "=",
-         "Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar."
-        ]
-       ],
-       "old_pos": 35,
-       "new_pos": 23
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 8",
-       "old_page": null,
-       "new_page": 65,
        "words": [],
-       "old_pos": null,
+       "old_pos": 35,
        "new_pos": 22
       },
       {
@@ -19160,36 +18423,15 @@
        "new_pos": 31
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.941,
+       "similarity": 1.0,
        "old": "Fig. 12 The throne balcony in the diwan-i am in Delhi, completed in 1648.",
-       "new": "The throne balcony in the diwan-i am in Delhi, completed in 1648.",
+       "new": "Fig. 12 The throne balcony in the diwan-i am in Delhi, completed in 1648.",
        "old_page": 68,
        "new_page": 68,
-       "words": [
-        [
-         "-",
-         "Fig. 12"
-        ],
-        [
-         "=",
-         "The throne balcony in the diwan-i am in Delhi, completed in 1648."
-        ]
-       ],
-       "old_pos": 44,
-       "new_pos": 33
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 12",
-       "old_page": null,
-       "new_page": 68,
        "words": [],
-       "old_pos": null,
+       "old_pos": 44,
        "new_pos": 32
       },
       {
@@ -19255,27 +18497,6 @@
       {
        "type": "modified",
        "stream": "caption",
-       "similarity": 0.929,
-       "old": "Fig. 16 Interior of temple of Govind Deva in Vrindavan, 1590.",
-       "new": "Interior of temple of Govind Deva in Vrindavan, 1590.",
-       "old_page": 71,
-       "new_page": 71,
-       "words": [
-        [
-         "-",
-         "Fig. 16"
-        ],
-        [
-         "=",
-         "Interior of temple of Govind Deva in Vrindavan, 1590."
-        ]
-       ],
-       "old_pos": 55,
-       "new_pos": 38
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
        "similarity": 0.989,
        "old": "This style of architecture is from north-east Iran (Khurasan) and was used in Fatehpur Sikri.",
        "new": "This style of architecture is from north-east Iran (Khurasan) and was used in Fatehpur Silkcri.",
@@ -19299,15 +18520,15 @@
        "new_pos": 41
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 16",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 16 Interior of temple of Govind Deva in Vrindavan, 1590.",
+       "new": "Fig. 16 Interior of temple of Govind Deva in Vrindavan, 1590.",
+       "old_page": 71,
        "new_page": 71,
        "words": [],
-       "old_pos": null,
+       "old_pos": 55,
        "new_pos": 37
       },
       {
@@ -19570,6 +18791,27 @@
       {
        "type": "modified",
        "stream": "caption>body",
+       "similarity": 0.875,
+       "old": "Fig. 3a",
+       "new": "| Fig. 3a",
+       "old_page": 62,
+       "new_page": 62,
+       "words": [
+        [
+         "+",
+         "|"
+        ],
+        [
+         "=",
+         "Fig. 3a"
+        ]
+       ],
+       "old_pos": 16,
+       "new_pos": 30
+      },
+      {
+       "type": "modified",
+       "stream": "caption>body",
        "similarity": 0.849,
        "old": "The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva of the Chandela dynasty.",
        "new": "The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva Gl of the Chandela dynasty. | Fig. 3b is the plan of the ~ temple.",
@@ -19624,19 +18866,23 @@
       {
        "type": "modified",
        "stream": "caption>body",
-       "similarity": 0.807,
+       "similarity": 0.81,
        "old": "The “keystone” at the centre of the arch transferred the weight of the superstructure to the base of the arch.",
-       "new": "The “keystone” at : the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.",
+       "new": "The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.",
        "old_page": 63,
        "new_page": 63,
        "words": [
         [
          "=",
-         "The “keystone” at"
+         "The “keystone”"
+        ],
+        [
+         "-",
+         "at"
         ],
         [
          "+",
-         ":"
+         "at:"
         ],
         [
          "=",
@@ -19682,6 +18928,31 @@
        ],
        "old_pos": 53,
        "new_pos": 5
+      },
+      {
+       "type": "modified",
+       "stream": "caption>note",
+       "similarity": 0.769,
+       "old": "Fig. 3b",
+       "new": "Fig. 9",
+       "old_page": 62,
+       "new_page": 66,
+       "words": [
+        [
+         "=",
+         "Fig."
+        ],
+        [
+         "-",
+         "3b"
+        ],
+        [
+         "+",
+         "9"
+        ]
+       ],
+       "old_pos": 25,
+       "new_pos": 7
       }
      ]
     },
@@ -19693,6 +18964,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19767,6 +19039,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19793,6 +19066,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 11,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20071,6 +19345,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20130,6 +19405,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20143,6 +19419,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20217,8 +19494,8 @@
      {
       "page": 69,
       "new_page": 69,
-      "sentences": 12,
-      "score": 1.0,
+      "sentences": 13,
+      "score": 0.92,
       "suspect": false
      },
      {
@@ -20285,6 +19562,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 6,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -20547,11 +19825,12 @@
     "body": {
      "counts": {
       "deleted": 1,
-      "inserted": 7,
-      "modified": 6,
+      "inserted": 6,
+      "modified": 5,
       "moved": 0,
       "typographic": 5,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20561,7 +19840,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \\ bd ‘e|Surat (aS ; BERAR Bombay ARABIAN | Bidar BAY OF SEA \\ Bijapur Golconda BENGAL . nna : \\ wy e|Masulipatnam] [Hampila, Kamalapuram , Svamimalai 3 ) eTitupati fh \\ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %.",
+       "new": "s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \\ bd ‘e|Surat (aS; BERAR Bombay ARABIAN | Bidar BAY OF SEA \\ Bijapur Golconda BENGAL. nna : \\ wy e|Masulipatnam] [Hampila, Kamalapuram, Svamimalai 3) eTitupati fh \\ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %.",
        "old_page": null,
        "new_page": 75,
        "words": [],
@@ -22027,27 +21306,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.941,
-       "old": "The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St. William in Calcutta.",
-       "new": "The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St.",
-       "old_page": 87,
-       "new_page": 87,
-       "words": [
-        [
-         "=",
-         "The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St."
-        ],
-        [
-         "-",
-         "William in Calcutta."
-        ]
-       ],
-       "old_pos": 115,
-       "new_pos": 151
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.863,
        "old": "The story of crafts and commerce in the eighteenth century will be taken up next year.",
        "new": "The story of crafts and commerce Fig. 8 in the eighteenth century will be taken up next year. nineteenth century.",
@@ -22075,16 +21333,16 @@
        "new_pos": 153
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "William in Calcutta.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St. William in Calcutta.",
+       "new": "The “blacks” or native traders and craftspersons were confined here while the “white” rulers occupied the superior residencies of Fort St. George in Madras or Fort St. William in Calcutta.",
+       "old_page": 87,
        "new_page": 87,
        "words": [],
-       "old_pos": null,
-       "new_pos": 152
+       "old_pos": 115,
+       "new_pos": 151
       },
       {
        "type": "equal",
@@ -22175,11 +21433,12 @@
     "note": {
      "counts": {
       "deleted": 5,
-      "inserted": 3,
+      "inserted": 4,
       "modified": 12,
       "moved": 0,
       "typographic": 1,
       "restreamed": 21,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22292,6 +21551,18 @@
        "words": [],
        "old_pos": 26,
        "new_pos": 5
+      },
+      {
+       "type": "inserted",
+       "stream": "note",
+       "similarity": null,
+       "old": null,
+       "new": "WV Fig. 5 ‘ A seventeenth- £) i century candlestand;?",
+       "old_page": null,
+       "new_page": 81,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 6
       },
       {
        "type": "inserted",
@@ -22896,37 +22167,17 @@
     },
     "caption": {
      "counts": {
-      "deleted": 3,
-      "inserted": 16,
-      "modified": 9,
+      "deleted": 4,
+      "inserted": 13,
+      "modified": 5,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 3,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.965,
-       "old": "Map 1 Some important centres of trade and artisanal production in central and south India.",
-       "new": "Some important centres of trade and artisanal production in central and south India.",
-       "old_page": 75,
-       "new_page": 75,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Some important centres of trade and artisanal production in central and south India."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 2
-      },
       {
        "type": "inserted",
        "stream": "caption",
@@ -22940,48 +22191,27 @@
        "new_pos": 0
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Map 1 Some important centres of trade and artisanal production in central and south India.",
+       "new": "Map 1 Some important centres of trade and artisanal production in central and south India.",
+       "old_page": 75,
        "new_page": 75,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 1
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.945,
+       "similarity": 1.0,
        "old": "Fig. 1 A bronze statue of Krishna subduing the serpent demon Kaliya.",
-       "new": "A bronze statue of Krishna subduing the serpent demon Kaliya.",
+       "new": "Fig. 1 A bronze statue of Krishna subduing the serpent demon Kaliya.",
        "old_page": 77,
        "new_page": 77,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "A bronze statue of Krishna subduing the serpent demon Kaliya."
-        ]
-       ],
-       "old_pos": 1,
-       "new_pos": 4
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
-       "new_page": 77,
        "words": [],
-       "old_pos": null,
+       "old_pos": 1,
        "new_pos": 3
       },
       {
@@ -23021,36 +22251,27 @@
        "new_pos": null
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.954,
-       "old": "Fig. 6 A view of the watch-tower through a broken wall of the enclosure of Hampi.",
-       "new": "A view of the watch-tower through a broken wall of the enclosure of Hampi.",
-       "old_page": 82,
-       "new_page": 82,
-       "words": [
-        [
-         "-",
-         "Fig. 6"
-        ],
-        [
-         "=",
-         "A view of the watch-tower through a broken wall of the enclosure of Hampi."
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 8
-      },
-      {
-       "type": "inserted",
+       "type": "deleted",
        "stream": "caption",
        "similarity": null,
-       "old": null,
-       "new": "Fig. 6",
-       "old_page": null,
+       "old": "Fig. 5 A seventeenth-century candlestand; brass with black overlay.",
+       "new": null,
+       "old_page": 81,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": null
+      },
+      {
+       "type": "resplit",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Fig. 6 A view of the watch-tower through a broken wall of the enclosure of Hampi.",
+       "new": "Fig. 6 A view of the watch-tower through a broken wall of the enclosure of Hampi.",
+       "old_page": 82,
        "new_page": 82,
        "words": [],
-       "old_pos": null,
+       "old_pos": 6,
        "new_pos": 7
       },
       {
@@ -23377,55 +22598,6 @@
        "words": [],
        "old_pos": null,
        "new_pos": 30
-      },
-      {
-       "type": "modified",
-       "stream": "caption>note",
-       "similarity": 0.712,
-       "old": "Fig. 5 A seventeenth-century candlestand; brass with black overlay.",
-       "new": "WV Fig. 5 ‘ A seventeenth- £) i century candlestand; ?",
-       "old_page": 81,
-       "new_page": 81,
-       "words": [
-        [
-         "+",
-         "WV"
-        ],
-        [
-         "=",
-         "Fig. 5"
-        ],
-        [
-         "+",
-         "‘"
-        ],
-        [
-         "=",
-         "A"
-        ],
-        [
-         "-",
-         "seventeenth-century"
-        ],
-        [
-         "+",
-         "seventeenth- £) i century"
-        ],
-        [
-         "=",
-         "candlestand;"
-        ],
-        [
-         "-",
-         "brass with black overlay."
-        ],
-        [
-         "+",
-         "?"
-        ]
-       ],
-       "old_pos": 5,
-       "new_pos": 6
       }
      ]
     },
@@ -23437,6 +22609,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23487,6 +22660,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23547,15 +22721,15 @@
       {
        "type": "modified",
        "stream": "source>body",
-       "similarity": 0.785,
-       "old": "… … at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
+       "similarity": 0.79,
+       "old": "… at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.",
        "new": "... at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city Sagar Tank was built fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as the Maldevi river.",
        "old_page": 83,
        "new_page": 83,
        "words": [
         [
          "-",
-         "… …"
+         "…"
         ],
         [
          "+",
@@ -23595,6 +22769,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 13,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24086,6 +23261,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24099,6 +23275,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24112,6 +23289,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24166,7 +23344,7 @@
       "page": 81,
       "new_page": 81,
       "sentences": 8,
-      "score": 0.88,
+      "score": 0.75,
       "suspect": false
      },
      {
@@ -24250,7 +23428,7 @@
     "title": "TRIBES, NOMADS AND SETTLED COMMUNITIES",
     "file": "texts/our-pasts-2/2022-08-04-ocr/07-tribes-nomads-and-settled-communities.md"
    },
-   "similarity": 0.918,
+   "similarity": 0.925,
    "status": "matched",
    "streams": {
     "heading": {
@@ -24261,6 +23439,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24395,7 +23574,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 8,
-       "new_pos": 185
+       "new_pos": 186
       },
       {
        "type": "modified",
@@ -24444,11 +23623,12 @@
     "body": {
      "counts": {
       "deleted": 2,
-      "inserted": 11,
-      "modified": 13,
+      "inserted": 12,
+      "modified": 12,
       "moved": 0,
       "typographic": 4,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -24698,7 +23878,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \\ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \\ > \\, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \\ .",
+       "new": "MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \\ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \\ > \\, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \\.",
        "old_page": null,
        "new_page": 92,
        "words": [],
@@ -24710,7 +23890,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe : ?",
+       "new": "BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe: ?",
        "old_page": null,
        "new_page": 92,
        "words": [],
@@ -24722,7 +23902,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \\ he VL \\ g iP e ¥ po j De ly Tho’ \\ ‘ é: = / = ) or rt 45 A \\\\ gysnohens 5 \"3 7 ee \\% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \\ MARAVARS. °F Ss . \\ f j \\ . ; Fe es A 3 a INDIAN .",
+       "new": "KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \\ he VL \\ g iP e ¥ po j De ly Tho’ \\ ‘ é: = / = ) or rt 45 A \\\\ gysnohens 5 \"3 7 ee \\% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \\ MARAVARS. °F Ss. \\ f j \\ .; Fe es A 3 a INDIAN .",
        "old_page": null,
        "new_page": 92,
        "words": [],
@@ -26060,27 +25240,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.981,
-       "old": "Despite their brave defence, the Ahoms were defeated.",
-       "new": "4 Despite their brave defence, the Ahoms were defeated.",
-       "old_page": 99,
-       "new_page": 99,
-       "words": [
-        [
-         "+",
-         "4"
-        ],
-        [
-         "=",
-         "Despite their brave defence, the Ahoms were defeated."
-        ]
-       ],
-       "old_pos": 128,
-       "new_pos": 158
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.894,
        "old": "However, the Ahoms faced many invasions from the south-west.",
        "new": "However, the Ahoms faced many invasions from the an of eastern south-west.",
@@ -26160,6 +25319,18 @@
        "words": [],
        "old_pos": null,
        "new_pos": 156
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "4",
+       "old_page": null,
+       "new_page": 99,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 158
       },
       {
        "type": "punctuation",
@@ -26298,13 +25469,25 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "Despite their brave defence, the Ahoms were defeated.",
+       "new": "Despite their brave defence, the Ahoms were defeated.",
+       "old_page": 99,
+       "new_page": 99,
+       "words": [],
+       "old_pos": 128,
+       "new_pos": 159
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "But direct Mughal control over the region could not last long.",
        "new": "But direct Mughal control over the region could not last long.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
        "old_pos": 129,
-       "new_pos": 159
+       "new_pos": 160
       },
       {
        "type": "equal",
@@ -26316,7 +25499,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 130,
-       "new_pos": 160
+       "new_pos": 161
       },
       {
        "type": "equal",
@@ -26328,7 +25511,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 131,
-       "new_pos": 161
+       "new_pos": 162
       },
       {
        "type": "equal",
@@ -26340,7 +25523,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 132,
-       "new_pos": 162
+       "new_pos": 163
       },
       {
        "type": "equal",
@@ -26352,7 +25535,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 133,
-       "new_pos": 163
+       "new_pos": 164
       },
       {
        "type": "equal",
@@ -26364,7 +25547,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 134,
-       "new_pos": 164
+       "new_pos": 165
       },
       {
        "type": "equal",
@@ -26376,7 +25559,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 135,
-       "new_pos": 165
+       "new_pos": 166
       },
       {
        "type": "equal",
@@ -26388,7 +25571,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 136,
-       "new_pos": 166
+       "new_pos": 167
       },
       {
        "type": "typographic",
@@ -26400,7 +25583,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 154,
-       "new_pos": 184
+       "new_pos": 185
       },
       {
        "type": "equal",
@@ -26412,7 +25595,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 137,
-       "new_pos": 167
+       "new_pos": 168
       },
       {
        "type": "equal",
@@ -26424,7 +25607,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 138,
-       "new_pos": 168
+       "new_pos": 169
       },
       {
        "type": "equal",
@@ -26436,7 +25619,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 139,
-       "new_pos": 169
+       "new_pos": 170
       },
       {
        "type": "equal",
@@ -26448,7 +25631,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 140,
-       "new_pos": 170
+       "new_pos": 171
       },
       {
        "type": "equal",
@@ -26460,7 +25643,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 141,
-       "new_pos": 171
+       "new_pos": 172
       },
       {
        "type": "equal",
@@ -26472,7 +25655,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 142,
-       "new_pos": 172
+       "new_pos": 173
       },
       {
        "type": "equal",
@@ -26484,7 +25667,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 143,
-       "new_pos": 173
+       "new_pos": 174
       },
       {
        "type": "equal",
@@ -26496,7 +25679,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 144,
-       "new_pos": 174
+       "new_pos": 175
       },
       {
        "type": "equal",
@@ -26508,7 +25691,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 145,
-       "new_pos": 175
+       "new_pos": 176
       },
       {
        "type": "equal",
@@ -26520,7 +25703,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 146,
-       "new_pos": 176
+       "new_pos": 177
       },
       {
        "type": "equal",
@@ -26532,7 +25715,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 147,
-       "new_pos": 177
+       "new_pos": 178
       },
       {
        "type": "equal",
@@ -26544,7 +25727,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 148,
-       "new_pos": 178
+       "new_pos": 179
       },
       {
        "type": "equal",
@@ -26556,7 +25739,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 149,
-       "new_pos": 179
+       "new_pos": 180
       },
       {
        "type": "equal",
@@ -26568,7 +25751,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 150,
-       "new_pos": 180
+       "new_pos": 181
       },
       {
        "type": "equal",
@@ -26580,7 +25763,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 151,
-       "new_pos": 181
+       "new_pos": 182
       },
       {
        "type": "equal",
@@ -26592,7 +25775,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 152,
-       "new_pos": 182
+       "new_pos": 183
       },
       {
        "type": "equal",
@@ -26604,7 +25787,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 153,
-       "new_pos": 183
+       "new_pos": 184
       },
       {
        "type": "equal",
@@ -26616,7 +25799,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 155,
-       "new_pos": 186
+       "new_pos": 187
       },
       {
        "type": "equal",
@@ -26628,7 +25811,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 156,
-       "new_pos": 187
+       "new_pos": 188
       },
       {
        "type": "equal",
@@ -26640,7 +25823,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 157,
-       "new_pos": 188
+       "new_pos": 189
       },
       {
        "type": "equal",
@@ -26652,7 +25835,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 158,
-       "new_pos": 189
+       "new_pos": 190
       },
       {
        "type": "equal",
@@ -26664,7 +25847,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 159,
-       "new_pos": 190
+       "new_pos": 191
       },
       {
        "type": "equal",
@@ -26676,7 +25859,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 160,
-       "new_pos": 191
+       "new_pos": 192
       },
       {
        "type": "equal",
@@ -26688,7 +25871,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 161,
-       "new_pos": 192
+       "new_pos": 193
       },
       {
        "type": "equal",
@@ -26700,7 +25883,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 162,
-       "new_pos": 193
+       "new_pos": 194
       },
       {
        "type": "equal",
@@ -26712,7 +25895,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 163,
-       "new_pos": 194
+       "new_pos": 195
       },
       {
        "type": "deleted",
@@ -26749,7 +25932,7 @@
         ]
        ],
        "old_pos": 166,
-       "new_pos": 205
+       "new_pos": 206
       },
       {
        "type": "inserted",
@@ -26761,7 +25944,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": null,
-       "new_pos": 208
+       "new_pos": 209
       },
       {
        "type": "equal",
@@ -26773,7 +25956,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 164,
-       "new_pos": 195
+       "new_pos": 196
       },
       {
        "type": "equal",
@@ -26785,7 +25968,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 167,
-       "new_pos": 206
+       "new_pos": 207
       }
      ]
     },
@@ -26797,6 +25980,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 17,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27000,7 +26184,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 18,
-       "new_pos": 196
+       "new_pos": 197
       },
       {
        "type": "restreamed",
@@ -27012,7 +26196,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 19,
-       "new_pos": 197
+       "new_pos": 198
       },
       {
        "type": "restreamed",
@@ -27024,7 +26208,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 20,
-       "new_pos": 198
+       "new_pos": 199
       },
       {
        "type": "restreamed",
@@ -27036,7 +26220,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 21,
-       "new_pos": 199
+       "new_pos": 200
       },
       {
        "type": "restreamed",
@@ -27048,7 +26232,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 22,
-       "new_pos": 200
+       "new_pos": 201
       },
       {
        "type": "restreamed",
@@ -27060,7 +26244,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 23,
-       "new_pos": 201
+       "new_pos": 202
       },
       {
        "type": "restreamed",
@@ -27072,7 +26256,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 24,
-       "new_pos": 202
+       "new_pos": 203
       },
       {
        "type": "restreamed",
@@ -27084,7 +26268,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 25,
-       "new_pos": 203
+       "new_pos": 204
       },
       {
        "type": "restreamed",
@@ -27096,7 +26280,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 26,
-       "new_pos": 204
+       "new_pos": 205
       },
       {
        "type": "modified",
@@ -27166,11 +26350,12 @@
     "caption": {
      "counts": {
       "deleted": 2,
-      "inserted": 9,
-      "modified": 5,
+      "inserted": 6,
+      "modified": 2,
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
+      "resplit": 3,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27200,39 +26385,6 @@
        "new_pos": 0
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.935,
-       "old": "Map 1 Location of some of the major Indian tribes.",
-       "new": "Location of some of the major Indian tribes.",
-       "old_page": 93,
-       "new_page": 93,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Location of some of the major Indian tribes."
-        ]
-       ],
-       "old_pos": 1,
-       "new_pos": 2
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
-       "new_page": 93,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 1
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -27245,36 +26397,27 @@
        "new_pos": 3
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.925,
-       "old": "Fig. 4 Bronze crocodile, Kutiya Kond tribe, Orissa.",
-       "new": "Bronze crocodile, Kutiya Kond tribe, Orissa.",
-       "old_page": 96,
-       "new_page": 96,
-       "words": [
-        [
-         "-",
-         "Fig. 4"
-        ],
-        [
-         "=",
-         "Bronze crocodile, Kutiya Kond tribe, Orissa."
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 6
+       "similarity": 1.0,
+       "old": "Map 1 Location of some of the major Indian tribes.",
+       "new": "Map 1 Location of some of the major Indian tribes.",
+       "old_page": 93,
+       "new_page": 93,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 4",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 4 Bronze crocodile, Kutiya Kond tribe, Orissa.",
+       "new": "Fig. 4 Bronze crocodile, Kutiya Kond tribe, Orissa.",
+       "old_page": 96,
        "new_page": 96,
        "words": [],
-       "old_pos": null,
+       "old_pos": 6,
        "new_pos": 5
       },
       {
@@ -27311,27 +26454,6 @@
        "new_pos": 8
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.788,
-       "old": "Fig. 6 A carved door.",
-       "new": "A carved door.",
-       "old_page": 98,
-       "new_page": 98,
-       "words": [
-        [
-         "-",
-         "Fig. 6"
-        ],
-        [
-         "=",
-         "A carved door."
-        ]
-       ],
-       "old_pos": 9,
-       "new_pos": 15
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -27344,15 +26466,15 @@
        "new_pos": 12
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 6",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 6 A carved door.",
+       "new": "Fig. 6 A carved door.",
+       "old_page": 98,
        "new_page": 98,
        "words": [],
-       "old_pos": null,
+       "old_pos": 9,
        "new_pos": 14
       },
       {
@@ -27494,6 +26616,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27664,6 +26787,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 8,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27798,6 +26922,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 14,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27836,7 +26961,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 0,
-       "new_pos": 207
+       "new_pos": 208
       },
       {
        "type": "restreamed",
@@ -27848,7 +26973,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 12,
-       "new_pos": 210
+       "new_pos": 211
       },
       {
        "type": "restreamed",
@@ -27872,7 +26997,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 14,
-       "new_pos": 211
+       "new_pos": 212
       },
       {
        "type": "restreamed",
@@ -27884,7 +27009,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 19,
-       "new_pos": 215
+       "new_pos": 216
       },
       {
        "type": "restreamed",
@@ -27896,7 +27021,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 21,
-       "new_pos": 217
+       "new_pos": 218
       },
       {
        "type": "restreamed",
@@ -27908,7 +27033,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 22,
-       "new_pos": 218
+       "new_pos": 219
       },
       {
        "type": "restreamed",
@@ -27932,7 +27057,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 16,
-       "new_pos": 212
+       "new_pos": 213
       },
       {
        "type": "restreamed",
@@ -27944,7 +27069,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 17,
-       "new_pos": 213
+       "new_pos": 214
       },
       {
        "type": "restreamed",
@@ -27956,7 +27081,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 20,
-       "new_pos": 216
+       "new_pos": 217
       },
       {
        "type": "restreamed",
@@ -27968,7 +27093,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 18,
-       "new_pos": 214
+       "new_pos": 215
       },
       {
        "type": "restreamed",
@@ -27980,7 +27105,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 23,
-       "new_pos": 219
+       "new_pos": 220
       },
       {
        "type": "restreamed",
@@ -27992,7 +27117,7 @@
        "new_page": 103,
        "words": [],
        "old_pos": 24,
-       "new_pos": 220
+       "new_pos": 221
       },
       {
        "type": "modified",
@@ -28151,7 +27276,7 @@
         ]
        ],
        "old_pos": 6,
-       "new_pos": 209
+       "new_pos": 210
       },
       {
        "type": "modified",
@@ -28209,6 +27334,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28222,6 +27348,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28235,6 +27362,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28363,6 +27491,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 9,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28663,6 +27792,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -29330,9 +28460,9 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.984,
+       "similarity": 0.988,
        "old": "Their criticism of conventional religion created the ground for devotional religion to become a popular force in northern India.",
-       "new": "_ Their criticism of conventional religion ; created the ground for devotional religion to become a popular force in northern India.",
+       "new": "_ Their criticism of conventional religion; created the ground for devotional religion to become a popular force in northern India.",
        "old_page": 110,
        "new_page": 110,
        "words": [
@@ -29342,11 +28472,15 @@
         ],
         [
          "=",
-         "Their criticism of conventional religion"
+         "Their criticism of conventional"
+        ],
+        [
+         "-",
+         "religion"
         ],
         [
          "+",
-         ";"
+         "religion;"
         ],
         [
          "=",
@@ -29930,7 +29064,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "\"ghana .",
+       "new": "\"ghana.",
        "old_page": null,
        "new_page": 114,
        "words": [],
@@ -30824,11 +29958,12 @@
     "note": {
      "counts": {
       "deleted": 7,
-      "inserted": 1,
-      "modified": 8,
+      "inserted": 0,
+      "modified": 7,
       "moved": 0,
       "typographic": 0,
       "restreamed": 19,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30894,36 +30029,15 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "note",
-       "similarity": 0.946,
+       "similarity": 1.0,
        "old": "Hospice House of rest for travellers, especially one kept by a religious order.",
-       "new": "House of rest for travellers, especially one kept by a religious order.",
+       "new": "Hospice House of rest for travellers, especially one kept by a religious order.",
        "old_page": 112,
        "new_page": 112,
-       "words": [
-        [
-         "-",
-         "Hospice"
-        ],
-        [
-         "=",
-         "House of rest for travellers, especially one kept by a religious order."
-        ]
-       ],
-       "old_pos": 20,
-       "new_pos": 4
-      },
-      {
-       "type": "inserted",
-       "stream": "note",
-       "similarity": null,
-       "old": null,
-       "new": "Hospice",
-       "old_page": null,
-       "new_page": 112,
        "words": [],
-       "old_pos": null,
+       "old_pos": 20,
        "new_pos": 3
       },
       {
@@ -31398,11 +30512,12 @@
     "caption": {
      "counts": {
       "deleted": 1,
-      "inserted": 8,
-      "modified": 7,
+      "inserted": 4,
+      "modified": 3,
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 4,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31420,36 +30535,15 @@
        "new_pos": 0
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.942,
+       "similarity": 1.0,
        "old": "Fig. 1 A page from a south Indian manuscript of the Bhagavadgita.",
-       "new": "A page from a south Indian manuscript of the Bhagavadgita.",
+       "new": "Fig. 1 A page from a south Indian manuscript of the Bhagavadgita.",
        "old_page": 105,
        "new_page": 105,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "A page from a south Indian manuscript of the Bhagavadgita."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 2
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
-       "new_page": 105,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 1
       },
       {
@@ -31501,48 +30595,15 @@
        "new_pos": 10
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.944,
+       "similarity": 1.0,
        "old": "Fig. 5 A page from a manuscript of the Quran, Deccan, late fifteenth century.",
-       "new": "A page froma manuscript of the Quran, Deccan, late fifteenth century.",
+       "new": "Fig. 5 A page froma manuscript of the Quran, Deccan, late fifteenth century.",
        "old_page": 112,
        "new_page": 112,
-       "words": [
-        [
-         "-",
-         "Fig. 5"
-        ],
-        [
-         "=",
-         "A page"
-        ],
-        [
-         "-",
-         "from a"
-        ],
-        [
-         "+",
-         "froma"
-        ],
-        [
-         "=",
-         "manuscript of the Quran, Deccan, late fifteenth century."
-        ]
-       ],
-       "old_pos": 5,
-       "new_pos": 15
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 5",
-       "old_page": null,
-       "new_page": 112,
        "words": [],
-       "old_pos": null,
+       "old_pos": 5,
        "new_pos": 14
       },
       {
@@ -31570,27 +30631,6 @@
        "new_pos": 17
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.949,
-       "old": "Map 1 Major bhakti saints and the regions associated with them.",
-       "new": "Major bhakti saints and the regions associated with them.",
-       "old_page": 114,
-       "new_page": 114,
-       "words": [
-        [
-         "-",
-         "Map 1"
-        ],
-        [
-         "=",
-         "Major bhakti saints and the regions associated with them."
-        ]
-       ],
-       "old_pos": 8,
-       "new_pos": 21
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -31607,7 +30647,7 @@
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "‘* = be :, 5° sgt e ° ‘ t «TAMIL WADL Ps",
+       "new": "‘* = be:, 5° sgt e ° ‘ t «TAMIL WADL Ps",
        "old_page": null,
        "new_page": 114,
        "words": [],
@@ -31615,15 +30655,15 @@
        "new_pos": 19
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Map 1",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Map 1 Major bhakti saints and the regions associated with them.",
+       "new": "Map 1 Major bhakti saints and the regions associated with them.",
+       "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": null,
+       "old_pos": 8,
        "new_pos": 20
       },
       {
@@ -31725,36 +30765,15 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.937,
+       "similarity": 1.0,
        "old": "Fig. 10 Baba Guru Nanak as a young man, in discussion with holy men.",
-       "new": "Baba Guru Nanak as a young man, in discussion with holy men.",
+       "new": "Fig. 10 Baba Guru Nanak as a young man, in discussion with holy men.",
        "old_page": 117,
        "new_page": 117,
-       "words": [
-        [
-         "-",
-         "Fig. 10"
-        ],
-        [
-         "=",
-         "Baba Guru Nanak as a young man, in discussion with holy men."
-        ]
-       ],
-       "old_pos": 16,
-       "new_pos": 31
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 10",
-       "old_page": null,
-       "new_page": 117,
        "words": [],
-       "old_pos": null,
+       "old_pos": 16,
        "new_pos": 30
       },
       {
@@ -31836,6 +30855,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31881,7 +30901,7 @@
        "stream": "table",
        "similarity": null,
        "old": null,
-       "new": ". \\ ee Manikkavasagar 9th C. = Rantanyja 11th-12th C. ; rgth Cc. ss PNDIAN IGLAN 4 a G . Ad Gi %",
+       "new": ". \\ ee Manikkavasagar 9th C. = Rantanyja 11th-12th C.; rgth Cc. ss PNDIAN IGLAN 4 a G . Ad Gi %",
        "old_page": null,
        "new_page": 114,
        "words": [],
@@ -31934,6 +30954,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 18,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32537,6 +31558,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 14,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32926,6 +31948,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32985,6 +32008,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32998,6 +32022,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33161,6 +32186,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33352,6 +32378,7 @@
       "moved": 0,
       "typographic": 7,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33947,7 +32974,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "“a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee . ny . > S$. -Kolkata® *- nye? ie oe. é a \\ i ~~ << \\ & ; co hal \\n\" DIU ft: = ORISSA \\ Nee. ie 3 ‘Bhubaneshwareg / .",
+       "new": "“a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee. ny . > S$. -Kolkata® *- nye? ie oe. é a \\ i ~~ << \\ & ; co hal \\n\" DIU ft: = ORISSA \\ Nee. ie 3 ‘Bhubaneshwareg / .",
        "old_page": null,
        "new_page": 125,
        "words": [],
@@ -33995,7 +33022,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "0 X TAMIL NADU 2 . \\2 j *¢ ‘ \\> onal \\ c f a > > a \\ ° ‘e 4 Thiruvananthaputamy” ; \\ y ‘2S D y OCEAN *",
+       "new": "0 X TAMIL NADU 2. \\2 j *¢ ‘ \\> onal \\ c f a > > a \\ ° ‘e 4 Thiruvananthaputamy” ; \\ y ‘2S D y OCEAN *",
        "old_page": null,
        "new_page": 125,
        "words": [],
@@ -35384,6 +34411,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 20,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -35781,11 +34809,12 @@
     "caption": {
      "counts": {
       "deleted": 4,
-      "inserted": 18,
-      "modified": 7,
+      "inserted": 12,
+      "modified": 1,
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 6,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -35803,69 +34832,27 @@
        "new_pos": 0
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.957,
-       "old": "Fig. 2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.",
-       "new": "The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.",
-       "old_page": 123,
-       "new_page": 123,
-       "words": [
-        [
-         "-",
-         "Fig. 2"
-        ],
-        [
-         "=",
-         "The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa."
-        ]
-       ],
-       "old_pos": 1,
-       "new_pos": 6
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.935,
+       "similarity": 1.0,
        "old": "Fig. 1 An early Kerala inscription, composed in Malayalam.",
-       "new": "An early Kerala inscription, composed in Malayalam.",
+       "new": "Fig. 1 An early Kerala inscription, composed in Malayalam.",
        "old_page": 123,
-       "new_page": 123,
-       "words": [
-        [
-         "-",
-         "Fig. 1"
-        ],
-        [
-         "=",
-         "An early Kerala inscription, composed in Malayalam."
-        ]
-       ],
-       "old_pos": 0,
-       "new_pos": 4
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 1",
-       "old_page": null,
        "new_page": 123,
        "words": [],
-       "old_pos": null,
+       "old_pos": 0,
        "new_pos": 3
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 2",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.",
+       "new": "Fig. 2 The icons of Balabhadra, Subhadra and Jagannatha, palm-leaf manuscript, Orissa.",
+       "old_page": 123,
        "new_page": 123,
        "words": [],
-       "old_pos": null,
+       "old_pos": 1,
        "new_pos": 5
       },
       {
@@ -35897,7 +34884,7 @@
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "My a rr SAMMU / { AND as j KASHMIR > : z i. ; “ PRADESH j ,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.",
+       "new": "My a rr SAMMU / { AND as j KASHMIR >: z i. ; “ PRADESH j,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.",
        "old_page": null,
        "new_page": 125,
        "words": [],
@@ -35917,36 +34904,15 @@
        "new_pos": 8
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.92,
+       "similarity": 1.0,
        "old": "Fig. 5 Dance class, Lakshmana temple, Khajuraho.",
-       "new": "Dance class, Lakshmana temple, Khajuraho.",
+       "new": "Fig. 5 Dance class, Lakshmana temple, Khajuraho.",
        "old_page": 126,
        "new_page": 126,
-       "words": [
-        [
-         "-",
-         "Fig. 5"
-        ],
-        [
-         "=",
-         "Dance class, Lakshmana temple, Khajuraho."
-        ]
-       ],
-       "old_pos": 5,
-       "new_pos": 13
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 5",
-       "old_page": null,
-       "new_page": 126,
        "words": [],
-       "old_pos": null,
+       "old_pos": 5,
        "new_pos": 12
       },
       {
@@ -35962,102 +34928,39 @@
        "new_pos": null
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.928,
+       "similarity": 1.0,
        "old": "Fig. 7 Akbar resting during a hunt, Mughal miniature.",
-       "new": "Akbar resting during a hunt, Mughal miniature.",
+       "new": "Fig. 7 Akbar resting during a hunt, Mughal miniature.",
        "old_page": 128,
        "new_page": 128,
-       "words": [
-        [
-         "-",
-         "Fig. 7"
-        ],
-        [
-         "=",
-         "Akbar resting during a hunt, Mughal miniature."
-        ]
-       ],
-       "old_pos": 7,
-       "new_pos": 15
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 7",
-       "old_page": null,
-       "new_page": 128,
        "words": [],
-       "old_pos": null,
+       "old_pos": 7,
        "new_pos": 14
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.907,
+       "similarity": 1.0,
        "old": "Fig. 8 Maharana Ram Singh II playing holi.",
-       "new": "Maharana Ram Singh II playing holi.",
+       "new": "Fig. 8 Maharana Ram Singh II playing holi.",
        "old_page": 129,
-       "new_page": 129,
-       "words": [
-        [
-         "-",
-         "Fig. 8"
-        ],
-        [
-         "=",
-         "Maharana Ram Singh II playing holi."
-        ]
-       ],
-       "old_pos": 8,
-       "new_pos": 17
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.943,
-       "old": "Fig. 9 Krishna, Radha and her companion, Pahari miniature, Kangra.",
-       "new": "Krishna, Radha and her companion, Pahari miniature, Kangra.",
-       "old_page": 129,
-       "new_page": 129,
-       "words": [
-        [
-         "-",
-         "Fig. 9"
-        ],
-        [
-         "=",
-         "Krishna, Radha and her companion, Pahari miniature, Kangra."
-        ]
-       ],
-       "old_pos": 10,
-       "new_pos": 20
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 8",
-       "old_page": null,
        "new_page": 129,
        "words": [],
-       "old_pos": null,
+       "old_pos": 8,
        "new_pos": 16
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Fig. 9",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Fig. 9 Krishna, Radha and her companion, Pahari miniature, Kangra.",
+       "new": "Fig. 9 Krishna, Radha and her companion, Pahari miniature, Kangra.",
+       "old_page": 129,
        "new_page": 129,
        "words": [],
-       "old_pos": null,
+       "old_pos": 10,
        "new_pos": 19
       },
       {
@@ -36283,6 +35186,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36333,6 +35237,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36346,6 +35251,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36746,6 +35652,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36759,6 +35666,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36772,6 +35680,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36921,6 +35830,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -37091,6 +36001,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -38989,6 +37900,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -39291,6 +38203,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -39641,6 +38554,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -39654,6 +38568,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -39860,6 +38775,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -40150,6 +39066,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -40163,6 +39080,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -40176,6 +39094,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },

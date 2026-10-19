@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch02.pdf"
 source_sha256: "68d1f68c586036816facbd301841aa42cc7351ac1bc824c7a96e18c3a3647acb"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "027270850300852ef92f50e0754caf79b11eb9e5cc7876913652382a4aaacc01"
+body_fingerprint: "f9a5e337562225efcb4d4a4e336019bc837d1bd48b3b33e5823c3e2fd055c8df"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -32,7 +32,7 @@ By the seventh century, there were big landlords or warrior chiefs in different 
 
 independence from their overlords.
 
-One such instance was that of the Rashtrakutas in the Deccan. Initially they were subordinate to the Chalukyas of Karnataka. In the mid-eighth century, Dantidurga, a Rashtrakuta chief, overthrew his Chalukya overlord and (literally, the performed a ritual called hiranya-garbha golden womb). When this ritual was performed with the help of Brahmanas, it was thought to lead to the ‘rebirth’ of the sacrificer asa Kshatriya, even if he was not one by birth.
+One such instance was that of the Rashtrakutas in the Deccan. Initially they were subordinate to the Chalukyas of Karnataka. In the mid-eighth century, Dantidurga, a Rashtrakuta chief, overthrew his Chalukya overlord and (literally, the performed a ritual called hiranya-garbha golden womb). When this ritual was performed with the help of Brahmanas, it was thought to lead to the ‘rebirth of the sacrificer asia Kshatriya, even if he was not one by birth.
 
 In other cases, men from enterprising families used their military skills to carve out kingdoms. For instance, the Kadamba Mayurasharman and the Gurjara-Pratihara Harichandra were Brahmanas who gave up their traditional professions and took to arms, successfully establishing kingdoms in Karnataka and Rajasthan respectively.
 
@@ -88,11 +88,11 @@ Kings often rewarded Brahmanas by grants of land. These were recorded on copper 
 
 This is a part of the Tamil section of a land grant given by the Cholas:
 
-We have demarcated the boundaries of the land by making earthen embankments, as well as by planting thorny bushes. This is what the land contains: fruit-bearing trees, water, land, gardens and orchards, trees, wells, open spaces, pasture-land, a village, anthills, platforms, canals, ditches, RS, granaries, fish ponds, rivers, silt-la land, tanks, lade: len la 1s, bee hives, and deep lakes. He who receives the land can collect taxes from it. He can fficers as fines, the tax lect the taxes imposed by judi ficial of coll on betel-leaves, that on woven cloth, as well as on vehicles. He can build large rooms, with upper stories made of baked bricks, he can get large and small wells dug, he can plant trees and thorny bushes, if necessary, he can get canals constructed for irrigation. He should ensure that water is not wasted, and that embankments are built.
+We have demarcated the boundaries of the land by making earthen embankments, as well as by planting thorny bushes. This is what the land contains: fruit-bearing trees, water, land, gardens and orchards, trees, wells, open spaces, pasture-land, a village, anthills, platforms, canals, ditches, RS, granaries, fish ponds, rivers, silt-la land, tanks, laden: lehna 1s, been wives, and deep lakes. He who receives the land can collect taxes from it. He can officers as finest, the tax let the taxes imposed by judi official of cool on betel-leaves, that on woven cloth, as well as on vehicles. He can build large rooms, with upper stories made of baked bricks, he can get large and small wells dug, he can plant trees and thorny bushes, if necessary, he can get canals constructed for irrigation. He should ensure that water is not wasted, and that embankments are built.
 
 List all the possible sources of irrigation mentioned in the inscription, and discuss how these might have been used.
 
-Unusual for the twelfth century was a long Sanskrit poem containing the history of kings who ruled over Kashmir. It was composed by an author named Kalhana. He used a variety of sources, including inscriptions, documents, eyewitness accounts and earlier histories, to write his account. Unlike the writers of prashastis, , he was often critical about rulers and their policies.
+Unusual for the twelfth century was a long Sanskrit poem containing the history of kings who ruled over Kashmir. It was composed by an author named Kalhana. He used a variety of sources, including inscriptions, documents, eyewitness accounts and earlier histories, to write his account. Unlike the writers of prashastis,, he was often critical about rulers and their policies.
 
 ## Warfare for Wealth
 
@@ -150,19 +150,19 @@ In many cases it was necessary to water crops artificially. A variety of methods
 
 The Administration of the Empire How was the administration organised Settlements of peasants, known as UT , became prosperous with the spread of irrigation agriculture. Groups of such villages formed larger units called nadu . The village council and the nadu performed several administrative functions including dispensing justice and collecting taxes.
 
-Rich peasants exercised considerable control over the affairs of the nadu under the supervision of the central Chola government. The Chola kings gave some rich landowners titles like muvendavelan velan or peasant serving three kings), (a aralyar (chief), etc., as markers of respect, and entrusted them with important offices of the state at the centre.
+Rich peasants exercised considerable control over the affairs of the nadu under the supervision of the central Chola government. The Chola kings gave some rich landowners titles like muvendavelan velan or peasant serving three kings), (a araiyar (chief), etc., as markers of respect, and entrusted them with important offices of the state at the centre.
 
 > [caption] Fig. 5 A ninth-century sluice gate in Tamil Nadu. It regulated the outflow of water from a tank into the channels that irrigated the fields.
 
-> [caption] A sluice gate is traditionally a wood or metal barrier which is commonly used to control water levels and flow rates mn rivers and canals.
+> [caption] A sluice gate is traditionally a wood or metal barrier which is commonly used to control water levels and flows rates mn rivers and canals.
 
 <!-- page 26 (pdf 11) -->
 
 ### Types of land
 
-Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam [unreadable] land donated to Jaina institutions We have seen that Brahmanas often received land grants or brahmadeya. . As a result, a large number of Brahmana settlements emerged in the Kaveri valley as in other parts of south India.
+Chola inscriptions mention several categories of land: vellanvagai land of non-Brahmana peasant proprietors brahmadeya land gifted to Brahmanas shalabhoga land for the maintenance of a school devadana, tirunamattukkani land gifted to temples pallichchhandam [unreadable] land donated to Jaina institutions We have seen that Brahmanas often received land grants or brahmadeya.. As a result, a large number of Brahmana settlements emerged in the Kaveri valley as in other parts of south India.
 
-Each brahmadeya ; was looked after by an assembly or sabha of prominent Brahmana landholders. These assemblies worked very efficiently. Their decisions were recorded in detail in inscriptions, often on the stone walls of temples. Associations of traders known as Mag Cais also occasionally performed administrative functions in towns.
+Each brahmadeya ; was looked after by an assembly or sabha of prominent Brahmana landholders. These assemblies worked very efficiently. Their decisions were recorded in detail in inscriptions, often on the stone walls of temples. Associations of traders known as Ma Claims also occasionally performed administrative functions in towns.
 
 Inscriptions from Uttaramerur in Chingleput district, Tamil Nadu, provide details of the way in was organised. The sabha had which the sabha separate committees to look after irrigation works, gardens, temples, etc. Names of those eligible to be members of these committees were written on small tickets of palm leaf; these tickets were put into an earthenware pot, from which a young boy was asked to take out the tickets, one by one for each committee.
 

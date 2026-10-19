@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch08.pdf"
 source_sha256: "c87b595dc2add71bae133c452bf74b40ea9f82f390bb8373474c4305e491564f"
 pdf_pages: 10
 printed_pages: "92-101"
-body_fingerprint: "c5a19b637d2e2e3c345d12eda54671b1f42b4030a8726dc6969a75cbd6e49ba1"
+body_fingerprint: "643b50a9c82b65e58e76a31bba59c56a629ad9285577d5a4b1f1b06162aa97a1"
 ---
 
 <!-- page 92 (pdf 1) -->
@@ -129,9 +129,17 @@ The Impex garment factory has 70 workers. Most of them are women. Most of these 
 
 Payment to workers (per month)
 
-Tailoring .......................................................` 3,000 Ironing..........................................................` 1.50 (per piece)
+Tailoring .......................................................` 3,000
 
-Checking .....................................................` 2,000 Thread cutting and buttoning.............................................` 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
+Ironing..........................................................` 1.50 (per piece)
+
+Checking .....................................................` 2,000
+
+Thread cutting and buttoning.............................................` 1,500
+
+The shirt in the United States
+
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
 
 Use the diagram shown in the margin to fill in the blanks below.
 
@@ -185,13 +193,13 @@ People who didn’t gain as much in the market
 
 2. ________________________
 
-3. ________________________
+3. ________________________ that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly. In the last chapter, we will read about how one such fish-workers’ cooperative was started on the Tawa river.
 
 <!-- page 100 (pdf 9) -->
 
 Did you know that the readymade clothes that you buy require the work of so many different persons?
 
-Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly. In the last chapter, we will read about how one such fish-workers’ cooperative was started on the Tawa river.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 101 (pdf 10) -->
 

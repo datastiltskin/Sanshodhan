@@ -13,16 +13,18 @@
    "moved": 2,
    "typographic": 33,
    "restreamed": 8,
+   "resplit": 0,
    "unreadable": 5,
    "punctuation": 49
   },
   "other_streams": {
-   "deleted": 168,
-   "inserted": 18,
-   "modified": 53,
+   "deleted": 169,
+   "inserted": 14,
+   "modified": 49,
    "moved": 3,
    "typographic": 14,
    "restreamed": 9,
+   "resplit": 4,
    "unreadable": 5,
    "punctuation": 10
   },
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -232,6 +235,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 13
      },
@@ -2294,6 +2298,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -2693,6 +2698,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2839,6 +2845,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2852,6 +2859,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2873,36 +2881,16 @@
     "exercises": {
      "counts": {
       "deleted": 0,
-      "inserted": 3,
-      "modified": 6,
+      "inserted": 0,
+      "modified": 3,
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 3,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.963,
-       "old": "(a) We do not find inscriptions for the period after 700.",
-       "new": "(a) We do not find inscriptions for the period after",
-       "old_page": 14,
-       "new_page": 14,
-       "words": [
-        [
-         "=",
-         "(a) We do not find inscriptions for the period after"
-        ],
-        [
-         "-",
-         "700."
-        ]
-       ],
-       "old_pos": 2,
-       "new_pos": 2
-      },
       {
        "type": "modified",
        "stream": "exercises",
@@ -2931,27 +2919,6 @@
        ],
        "old_pos": 7,
        "new_pos": 8
-      },
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.905,
-       "old": "4. List some of the technological changes associated with this period.",
-       "new": "4. List some of the technological changes associated with",
-       "old_page": 14,
-       "new_page": 14,
-       "words": [
-        [
-         "=",
-         "4. List some of the technological changes associated with"
-        ],
-        [
-         "-",
-         "this period."
-        ]
-       ],
-       "old_pos": 10,
-       "new_pos": 11
       },
       {
        "type": "modified",
@@ -3024,30 +2991,6 @@
        "new_pos": 9
       },
       {
-       "type": "inserted",
-       "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "700.",
-       "old_page": null,
-       "new_page": 14,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 3
-      },
-      {
-       "type": "inserted",
-       "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "this period.",
-       "old_page": null,
-       "new_page": 14,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 12
-      },
-      {
        "type": "typographic",
        "stream": "exercises",
        "similarity": 1.0,
@@ -3058,6 +3001,30 @@
        "words": [],
        "old_pos": 11,
        "new_pos": 13
+      },
+      {
+       "type": "resplit",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "(a) We do not find inscriptions for the period after 700.",
+       "new": "(a) We do not find inscriptions for the period after 700.",
+       "old_page": 14,
+       "new_page": 14,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "resplit",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. List some of the technological changes associated with this period.",
+       "new": "4. List some of the technological changes associated with this period.",
+       "old_page": 14,
+       "new_page": 14,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -3132,37 +3099,16 @@
        "new_pos": 7
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "exercises",
-       "similarity": 0.803,
+       "similarity": 1.0,
        "old": "6. In what ways has the meaning of the term “Hindustan” changed over the centuries?",
-       "new": "6. In what ways has the meaning of the term “Hindustan”",
+       "new": "6. In what ways has the meaning of the term “Hindustan” changed over the centuries?",
        "old_page": 15,
        "new_page": 15,
-       "words": [
-        [
-         "=",
-         "6. In what ways has the meaning of the term “Hindustan”"
-        ],
-        [
-         "-",
-         "changed over the centuries?"
-        ]
-       ],
+       "words": [],
        "old_pos": 13,
        "new_pos": 15
-      },
-      {
-       "type": "inserted",
-       "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "changed over the centuries?",
-       "old_page": null,
-       "new_page": 15,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 16
       },
       {
        "type": "equal",
@@ -3330,6 +3276,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3343,6 +3290,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3356,6 +3304,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3498,6 +3447,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3701,6 +3651,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 4
      },
@@ -5218,6 +5169,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 1,
       "punctuation": 0
      },
@@ -5618,6 +5570,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5829,6 +5782,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5842,6 +5796,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6055,47 +6010,27 @@
     "exercises": {
      "counts": {
       "deleted": 0,
-      "inserted": 1,
-      "modified": 1,
+      "inserted": 0,
+      "modified": 0,
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "exercises",
-       "similarity": 0.911,
+       "similarity": 1.0,
        "old": "2. Who were the parties involved in the “tripartite struggle”?",
-       "new": "2. Who were the parties involved in the “tripartite",
+       "new": "2. Who were the parties involved in the “tripartite struggle”?",
        "old_page": 28,
        "new_page": 28,
-       "words": [
-        [
-         "=",
-         "2. Who were the parties involved in the “tripartite"
-        ],
-        [
-         "-",
-         "struggle”?"
-        ]
-       ],
+       "words": [],
        "old_pos": 5,
        "new_pos": 5
-      },
-      {
-       "type": "inserted",
-       "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "struggle”?",
-       "old_page": null,
-       "new_page": 28,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 6
       },
       {
        "type": "equal",
@@ -6311,6 +6246,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6324,6 +6260,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6337,6 +6274,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6472,6 +6410,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6712,6 +6651,7 @@
       "moved": 0,
       "typographic": 24,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 5,
       "punctuation": 1
      },
@@ -8297,6 +8237,7 @@
       "moved": 2,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 2,
       "punctuation": 0
      },
@@ -8755,6 +8696,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 2,
       "punctuation": 0
      },
@@ -9489,6 +9431,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9502,6 +9445,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9672,6 +9616,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10002,6 +9947,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10015,6 +9961,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10028,6 +9975,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10170,6 +10118,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10424,6 +10373,7 @@
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 9
      },
@@ -11083,7 +11033,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "old": "Mughal campaigns continued in the Deccan under Shah Jahan.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -12413,6 +12363,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12811,6 +12762,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13197,12 +13149,13 @@
     },
     "table": {
      "counts": {
-      "deleted": 2,
+      "deleted": 3,
       "inserted": 0,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13228,6 +13181,18 @@
        "old_page": 49,
        "new_page": null,
        "words": [],
+       "old_pos": 2,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "table",
+       "similarity": null,
+       "old": "Shah Jahan 1627-1658",
+       "new": null,
+       "old_page": 49,
+       "new_page": null,
+       "words": [],
        "old_pos": 1,
        "new_pos": null
       }
@@ -13241,6 +13206,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13291,6 +13257,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13614,6 +13581,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13816,6 +13784,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13829,6 +13798,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13868,7 +13838,7 @@
      {
       "page": 49,
       "new_page": null,
-      "sentences": 21,
+      "sentences": 22,
       "score": 0.0,
       "suspect": true
      },
@@ -13993,6 +13963,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14163,6 +14134,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -16235,6 +16207,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16573,6 +16546,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16743,6 +16717,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16756,6 +16731,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16907,6 +16883,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17255,6 +17232,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17268,6 +17246,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17281,6 +17260,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17409,6 +17389,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17687,6 +17668,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 6,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 9
      },
@@ -19660,6 +19642,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -20169,6 +20152,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20496,6 +20480,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20509,6 +20494,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20907,6 +20893,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21269,6 +21256,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21319,6 +21307,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21332,6 +21321,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21495,6 +21485,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21677,6 +21668,7 @@
       "moved": 2,
       "typographic": 2,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 5
      },
@@ -23489,6 +23481,7 @@
       "moved": 1,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23839,6 +23832,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24045,6 +24039,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24058,6 +24053,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24071,6 +24067,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -24374,6 +24371,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24387,6 +24385,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24400,6 +24399,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24542,6 +24542,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24748,6 +24749,7 @@
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 7
      },
@@ -26958,6 +26960,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27273,6 +27276,7 @@
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -27734,6 +27738,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27747,6 +27752,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27953,6 +27959,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28337,6 +28344,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28350,6 +28358,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28363,6 +28372,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },

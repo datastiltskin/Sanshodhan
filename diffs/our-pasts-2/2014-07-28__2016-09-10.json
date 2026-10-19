@@ -7,22 +7,24 @@
   "chapters_dropped": 0,
   "chapters_added": 0,
   "body": {
-   "deleted": 4,
+   "deleted": 2,
    "inserted": 16,
-   "modified": 55,
+   "modified": 49,
    "moved": 0,
-   "typographic": 3,
+   "typographic": 4,
    "restreamed": 2,
+   "resplit": 2,
    "unreadable": 0,
    "punctuation": 9
   },
   "other_streams": {
    "deleted": 35,
    "inserted": 20,
-   "modified": 45,
+   "modified": 42,
    "moved": 0,
    "typographic": 15,
    "restreamed": 36,
+   "resplit": 2,
    "unreadable": 0,
    "punctuation": 0
   },
@@ -42,7 +44,7 @@
     "title": "TRACING CHANGES THROUGH A THOUSAND YEARS",
     "file": "texts/our-pasts-2/2016-09-10/01-tracing-changes-through-a-thousand-years.md"
    },
-   "similarity": 0.824,
+   "similarity": 0.845,
    "status": "matched",
    "streams": {
     "heading": {
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 5,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -232,10 +235,11 @@
      "counts": {
       "deleted": 1,
       "inserted": 3,
-      "modified": 21,
+      "modified": 18,
       "moved": 0,
-      "typographic": 3,
+      "typographic": 4,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 4
      },
@@ -251,31 +255,6 @@
        "words": [],
        "old_pos": 9,
        "new_pos": null
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.8,
-       "old": "Map 2 was made in the 1720s by a French cartographer cartographer cartographer.",
-       "new": "Map 2 was made in the 1720s by a French cartographer.",
-       "old_page": 1,
-       "new_page": 1,
-       "words": [
-        [
-         "=",
-         "Map 2 was made in the 1720s by a French"
-        ],
-        [
-         "-",
-         "cartographer cartographer"
-        ],
-        [
-         "=",
-         "cartographer."
-        ]
-       ],
-       "old_pos": 2,
-       "new_pos": 2
       },
       {
        "type": "modified",
@@ -354,6 +333,18 @@
        "words": [],
        "old_pos": 1,
        "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Map 2 was made in the 1720s by a French cartographer.",
+       "new": "Map 2 was made in the 1720s by a French cartographer.",
+       "old_page": 1,
+       "new_page": 1,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
       },
       {
        "type": "equal",
@@ -820,31 +811,6 @@
        "new_pos": 40
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.824,
-       "old": "They were placed in libraries and archives archives archives.",
-       "new": "They were placed in libraries and archives.",
-       "old_page": 4,
-       "new_page": 5,
-       "words": [
-        [
-         "=",
-         "They were placed in libraries and"
-        ],
-        [
-         "-",
-         "archives archives"
-        ],
-        [
-         "=",
-         "archives."
-        ]
-       ],
-       "old_pos": 41,
-       "new_pos": 49
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -939,6 +905,18 @@
        "words": [],
        "old_pos": 40,
        "new_pos": 48
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They were placed in libraries and archives.",
+       "new": "They were placed in libraries and archives.",
+       "old_page": 4,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 49
       },
       {
        "type": "equal",
@@ -1787,35 +1765,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.964,
-       "old": "Their dominant position was consolidated by the support of their patrons patrons — new rulers searching for prestige.",
-       "new": "Their dominant position was consolidated by the support of their patrons – new rulers searching for prestige.",
-       "old_page": 11,
-       "new_page": 11,
-       "words": [
-        [
-         "=",
-         "Their dominant position was consolidated by the support of their patrons"
-        ],
-        [
-         "-",
-         "patrons —"
-        ],
-        [
-         "+",
-         "–"
-        ],
-        [
-         "=",
-         "new rulers searching for prestige."
-        ]
-       ],
-       "old_pos": 110,
-       "new_pos": 126
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.958,
        "old": "One of the major developments was the emergence of the idea of bhakti — of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals.",
        "new": "One of the major developments of this period was the emergence of the idea of bhakti – of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals.",
@@ -1849,6 +1798,18 @@
        ],
        "old_pos": 111,
        "new_pos": 127
+      },
+      {
+       "type": "typographic",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Their dominant position was consolidated by the support of their patrons — new rulers searching for prestige.",
+       "new": "Their dominant position was consolidated by the support of their patrons – new rulers searching for prestige.",
+       "old_page": 11,
+       "new_page": 11,
+       "words": [],
+       "old_pos": 110,
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -2459,6 +2420,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 10,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2799,6 +2761,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2962,6 +2925,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -2975,6 +2939,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3022,6 +2987,7 @@
       "moved": 0,
       "typographic": 3,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3361,6 +3327,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3374,6 +3341,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3387,6 +3355,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3529,6 +3498,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3723,6 +3693,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4211,8 +4182,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "One of the best known of such rulers is Sultan Sultan Mahmud of Ghazni, Afghanistan.",
-       "new": "One of the best known of such rulers is Sultan Sultan Mahmud of Ghazni, Afghanistan.",
+       "old": "One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan.",
+       "new": "One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan.",
        "old_page": 21,
        "new_page": 21,
        "words": [],
@@ -5021,6 +4992,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5209,8 +5181,8 @@
        "type": "equal",
        "stream": "note",
        "similarity": 1.0,
-       "old": "Sultan Sultan is an Arabic term meaning ruler.",
-       "new": "Sultan Sultan is an Arabic term meaning ruler.",
+       "old": "Sultan is an Arabic term meaning ruler.",
+       "new": "Sultan is an Arabic term meaning ruler.",
        "old_page": 21,
        "new_page": 21,
        "words": [],
@@ -5395,6 +5367,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5565,6 +5538,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5578,6 +5552,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5796,6 +5771,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6026,6 +6002,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6039,6 +6016,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6052,6 +6030,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6187,6 +6166,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6381,6 +6361,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6833,8 +6814,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions gender distinctions gender distinctions.",
-       "new": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions gender distinctions gender distinctions.",
+       "old": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions.",
+       "new": "(3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions.",
        "old_page": 33,
        "new_page": 33,
        "words": [],
@@ -7133,8 +7114,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The The Masjid Masjid",
-       "new": "The The Masjid Masjid",
+       "old": "The Masjid",
+       "new": "The Masjid",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7931,6 +7912,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8437,6 +8419,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8817,8 +8800,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Produce from the same area was collected as tax to feed feed the army.",
-       "new": "Produce from the same area was collected as tax to feed feed the army.",
+       "old": "Produce from the same area was collected as tax to feed the army.",
+       "new": "Produce from the same area was collected as tax to feed the army.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
@@ -8853,8 +8836,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "The soldiers had to be fed fed fed.",
-       "new": "The soldiers had to be fed fed fed.",
+       "old": "The soldiers had to be fed.",
+       "new": "The soldiers had to be fed.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
@@ -8949,8 +8932,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "The soldiers had to be paid paid paid.",
-       "new": "The soldiers had to be paid paid paid.",
+       "old": "The soldiers had to be paid.",
+       "new": "The soldiers had to be paid.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
@@ -9009,8 +8992,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Muhammad Tughluq’s administrative measures administrative measures were a failure.",
-       "new": "Muhammad Tughluq’s administrative measures administrative measures were a failure.",
+       "old": "Muhammad Tughluq’s administrative measures were a failure.",
+       "new": "Muhammad Tughluq’s administrative measures were a failure.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
@@ -9093,8 +9076,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Alauddin’s administrative measures measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
-       "new": "Alauddin’s administrative measures measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
+       "old": "Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
+       "new": "Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market.",
        "old_page": 41,
        "new_page": 41,
        "words": [],
@@ -9123,6 +9106,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9136,6 +9120,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9210,6 +9195,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9452,6 +9438,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9465,6 +9452,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9478,6 +9466,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9620,6 +9609,7 @@
       "moved": 0,
       "typographic": 6,
       "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9881,12 +9871,13 @@
     },
     "body": {
      "counts": {
-      "deleted": 3,
+      "deleted": 1,
       "inserted": 11,
-      "modified": 15,
+      "modified": 13,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -10235,64 +10226,6 @@
        "new_pos": 23
       },
       {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "1528 – defeated the Rajputs at Chanderi.",
-       "new": null,
-       "old_page": 48,
-       "new_page": null,
-       "words": [],
-       "old_pos": 26,
-       "new_pos": null
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.873,
-       "old": "HUMAYUN HUMAYUN 1530-1540, 1555-1556 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
-       "new": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "=",
-         "HUMAYUN"
-        ],
-        [
-         "-",
-         "HUMAYUN 1530-1540, 1555-1556"
-        ],
-        [
-         "=",
-         "1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father."
-        ]
-       ],
-       "old_pos": 28,
-       "new_pos": 27
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.742,
-       "old": "Established control over Agra and Delhi before his death.",
-       "new": "1528 – defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "+",
-         "1528 – defeated the Rajputs at Chanderi;"
-        ],
-        [
-         "=",
-         "Established control over Agra and Delhi before his death."
-        ]
-       ],
-       "old_pos": 27,
-       "new_pos": 26
-      },
-      {
        "type": "modified",
        "stream": "body",
        "similarity": 0.748,
@@ -10355,6 +10288,18 @@
        "new_pos": 41
       },
       {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "1528 – defeated the Rajputs at Chanderi. Established control over Agra and Delhi before his death.",
+       "new": "1528 – defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": 26
+      },
+      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -10377,6 +10322,18 @@
        "words": [],
        "old_pos": 25,
        "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
+       "new": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -10561,6 +10518,27 @@
       {
        "type": "modified",
        "stream": "body",
+       "similarity": 0.844,
+       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "new": "Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [
+        [
+         "-",
+         "Shah Jahan 1627-1658"
+        ],
+        [
+         "=",
+         "Mughal campaigns continued in the Deccan under Shah Jahan."
+        ]
+       ],
+       "old_pos": 51,
+       "new_pos": 50
+      },
+      {
+       "type": "modified",
+       "stream": "body",
        "similarity": 0.975,
        "old": "against Aurangzeb and received support from the Marathas and Deccan Sultanate.",
        "new": "against Aurangzeb and received support from the Marathas and the Deccan Sultanate.",
@@ -10671,18 +10649,6 @@
        "words": [],
        "old_pos": 50,
        "new_pos": 49
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
-       "new": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
-       "old_page": 49,
-       "new_page": 49,
-       "words": [],
-       "old_pos": 51,
-       "new_pos": 50
       },
       {
        "type": "equal",
@@ -11507,8 +11473,8 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.729,
-       "old": "It made him realise that religious scholars who emphasised ritual and dogma dogma were often bigots bigots bigots.",
+       "similarity": 0.791,
+       "old": "It made him realise that religious scholars who emphasised ritual and dogma were often bigots.",
        "new": "Akbar’s interaction with people of different faiths made him realise that religious scholars who emphasised ritual and dogma were often bigots.",
        "old_page": 54,
        "new_page": 54,
@@ -11523,46 +11489,21 @@
         ],
         [
          "=",
-         "made him realise that religious scholars who emphasised ritual and dogma"
-        ],
-        [
-         "-",
-         "dogma"
-        ],
-        [
-         "=",
-         "were often"
-        ],
-        [
-         "-",
-         "bigots bigots"
-        ],
-        [
-         "=",
-         "bigots."
+         "made him realise that religious scholars who emphasised ritual and dogma were often bigots."
         ]
        ],
        "old_pos": 123,
        "new_pos": 136
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "body",
-       "similarity": 0.857,
-       "old": "This eventually led Akbar to the idea of sulh-i kul or",
+       "similarity": 1.0,
+       "old": "This eventually led Akbar to the idea of sulh-i kul or “universal peace”.",
        "new": "This eventually led Akbar to the idea of sulh-i kul or “universal peace”.",
        "old_page": 54,
        "new_page": 54,
-       "words": [
-        [
-         "=",
-         "This eventually led Akbar to the idea of sulh-i kul or"
-        ],
-        [
-         "+",
-         "“universal peace”."
-        ]
-       ],
+       "words": [],
        "old_pos": 125,
        "new_pos": 138
       },
@@ -11649,18 +11590,6 @@
        "words": [],
        "old_pos": 124,
        "new_pos": 137
-      },
-      {
-       "type": "deleted",
-       "stream": "body",
-       "similarity": null,
-       "old": "“universal peace”.",
-       "new": null,
-       "old_page": 55,
-       "new_page": null,
-       "words": [],
-       "old_pos": 126,
-       "new_pos": null
       },
       {
        "type": "equal",
@@ -12146,11 +12075,12 @@
     "note": {
      "counts": {
       "deleted": 8,
-      "inserted": 1,
-      "modified": 6,
+      "inserted": 0,
+      "modified": 5,
       "moved": 0,
       "typographic": 0,
       "restreamed": 11,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12204,41 +12134,16 @@
        "new_pos": 4
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "note",
-       "similarity": 0.746,
+       "similarity": 1.0,
        "old": "Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question Bigot An individual who is intolerant of another person’s religious beliefs or culture",
-       "new": "Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question.",
+       "new": "Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without question. Bigot An individual who is intolerant of another person’s religious beliefs or culture.",
        "old_page": 54,
        "new_page": 54,
-       "words": [
-        [
-         "=",
-         "Dogma A statement or an interpretation declared as authoritative with the expectation that it would be followed without"
-        ],
-        [
-         "-",
-         "question Bigot An individual who is intolerant of another person’s religious beliefs or culture"
-        ],
-        [
-         "+",
-         "question."
-        ]
-       ],
+       "words": [],
        "old_pos": 17,
        "new_pos": 5
-      },
-      {
-       "type": "inserted",
-       "stream": "note",
-       "similarity": null,
-       "old": null,
-       "new": "Bigot An individual who is intolerant of another person’s religious beliefs or culture.",
-       "old_page": null,
-       "new_page": 54,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 6
       },
       {
        "type": "equal",
@@ -12507,7 +12412,7 @@
         ]
        ],
        "old_pos": 20,
-       "new_pos": 2
+       "new_pos": 3
       },
       {
        "type": "modified",
@@ -12659,6 +12564,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12948,39 +12854,39 @@
     "table": {
      "counts": {
       "deleted": 0,
-      "inserted": 0,
-      "modified": 1,
+      "inserted": 1,
+      "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
       {
-       "type": "modified",
+       "type": "equal",
        "stream": "table",
-       "similarity": 0.652,
-       "old": "BABUR BABUR 1526-1530 1526-1530",
+       "similarity": 1.0,
+       "old": "BABUR 1526-1530",
        "new": "BABUR 1526-1530",
        "old_page": 48,
        "new_page": 48,
-       "words": [
-        [
-         "-",
-         "BABUR"
-        ],
-        [
-         "=",
-         "BABUR 1526-1530"
-        ],
-        [
-         "-",
-         "1526-1530"
-        ]
-       ],
+       "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "inserted",
+       "stream": "table",
+       "similarity": null,
+       "old": null,
+       "new": "Shah Jahan 1627-1658",
+       "old_page": null,
+       "new_page": 49,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 1
       },
       {
        "type": "equal",
@@ -12992,7 +12898,7 @@
        "new_page": 49,
        "words": [],
        "old_pos": 1,
-       "new_pos": 1
+       "new_pos": 2
       }
      ]
     },
@@ -13004,6 +12910,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13100,6 +13007,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13374,6 +13282,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13552,6 +13461,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13565,6 +13475,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13597,8 +13508,8 @@
      {
       "page": 48,
       "new_page": 48,
-      "sentences": 25,
-      "score": 0.96,
+      "sentences": 24,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -13646,8 +13557,8 @@
      {
       "page": 55,
       "new_page": 55,
-      "sentences": 12,
-      "score": 0.92,
+      "sentences": 11,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -13696,7 +13607,7 @@
     "title": "RULERS AND BUILDINGS",
     "file": "texts/our-pasts-2/2016-09-10/05-rulers-and-buildings.md"
    },
-   "similarity": 0.796,
+   "similarity": 0.805,
    "status": "matched",
    "streams": {
     "heading": {
@@ -13707,6 +13618,7 @@
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -13849,10 +13761,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 2,
-      "modified": 19,
+      "modified": 18,
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 2
      },
@@ -14048,31 +13961,6 @@
        "new_pos": 11
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.864,
-       "old": "But the task becomes difficult if we want to make a large room with an elaborate superstructure superstructure superstructure.",
-       "new": "But the task becomes difficult if we want to make a large room with an elaborate superstructure.",
-       "old_page": 61,
-       "new_page": 61,
-       "words": [
-        [
-         "=",
-         "But the task becomes difficult if we want to make a large room with an elaborate"
-        ],
-        [
-         "-",
-         "superstructure superstructure"
-        ],
-        [
-         "=",
-         "superstructure."
-        ]
-       ],
-       "old_pos": 19,
-       "new_pos": 19
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -14155,6 +14043,18 @@
        "words": [],
        "old_pos": 18,
        "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "But the task becomes difficult if we want to make a large room with an elaborate superstructure.",
+       "new": "But the task becomes difficult if we want to make a large room with an elaborate superstructure.",
+       "old_page": 61,
+       "new_page": 61,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -15663,11 +15563,12 @@
     "note": {
      "counts": {
       "deleted": 5,
-      "inserted": 1,
+      "inserted": 2,
       "modified": 3,
       "moved": 0,
       "typographic": 0,
       "restreamed": 5,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15844,9 +15745,9 @@
       {
        "type": "modified",
        "stream": "note",
-       "similarity": 0.583,
+       "similarity": 0.589,
        "old": "ura ra hard aced in ns o marble one eautiful, tterns.",
-       "new": "Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
+       "new": "Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.",
        "old_page": 68,
        "new_page": 69,
        "words": [
@@ -15856,7 +15757,7 @@
         ],
         [
          "+",
-         "Pietra dura Coloured,"
+         "Coloured,"
         ],
         [
          "=",
@@ -15896,6 +15797,18 @@
         ]
        ],
        "old_pos": 12,
+       "new_pos": 8
+      },
+      {
+       "type": "inserted",
+       "stream": "note",
+       "similarity": null,
+       "old": null,
+       "new": "Pietra dura",
+       "old_page": null,
+       "new_page": 69,
+       "words": [],
+       "old_pos": null,
        "new_pos": 7
       },
       {
@@ -16024,11 +15937,12 @@
     "caption": {
      "counts": {
       "deleted": 10,
-      "inserted": 15,
-      "modified": 13,
+      "inserted": 14,
+      "modified": 12,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16262,27 +16176,6 @@
        "new_pos": 19
       },
       {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.83,
-       "old": "Even now a village near the temple is called Charupallam, the “Village of the Incline”.",
-       "new": "Even now a village near the temple is called Charupallam, the",
-       "old_page": 62,
-       "new_page": 62,
-       "words": [
-        [
-         "=",
-         "Even now a village near the temple is called Charupallam, the"
-        ],
-        [
-         "-",
-         "“Village of the Incline”."
-        ]
-       ],
-       "old_pos": 21,
-       "new_pos": 22
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -16295,16 +16188,16 @@
        "new_pos": 15
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "“Village of the Incline”.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Even now a village near the temple is called Charupallam, the “Village of the Incline”.",
+       "new": "Even now a village near the temple is called Charupallam, the “Village of the Incline”.",
+       "old_page": 62,
        "new_page": 62,
        "words": [],
-       "old_pos": null,
-       "new_pos": 23
+       "old_pos": 21,
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -17068,6 +16961,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17094,6 +16988,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17120,6 +17015,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17351,6 +17247,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17401,6 +17298,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17414,6 +17312,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17556,6 +17455,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -17738,6 +17638,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19312,6 +19213,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19842,6 +19744,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20024,6 +19927,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20037,6 +19941,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20050,6 +19955,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20412,6 +20318,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20425,6 +20332,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20438,6 +20346,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20587,6 +20496,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -20733,6 +20643,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21761,8 +21672,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Deliberations on Deliberations on jati jati Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
-       "new": "Deliberations on Deliberations on jati jati Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
+       "old": "Deliberations on jati",
+       "new": "Deliberations on jati",
        "old_page": 96,
        "new_page": 96,
        "words": [],
@@ -21773,10 +21684,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
-       "new": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
-       "old_page": 96,
-       "new_page": 96,
+       "old": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
+       "new": "Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 86,
        "new_pos": 86
@@ -21785,10 +21696,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Some of these, too, had been tribes earlier.",
-       "new": "Some of these, too, had been tribes earlier.",
-       "old_page": 96,
-       "new_page": 96,
+       "old": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
+       "new": "They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 87,
        "new_pos": 87
@@ -21797,10 +21708,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Many of these clans came to be regarded as Rajputs.",
-       "new": "Many of these clans came to be regarded as Rajputs.",
-       "old_page": 96,
-       "new_page": 96,
+       "old": "Some of these, too, had been tribes earlier.",
+       "new": "Some of these, too, had been tribes earlier.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 88,
        "new_pos": 88
@@ -21809,10 +21720,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They gradually replaced the older rulers, especially in agricultural areas.",
-       "new": "They gradually replaced the older rulers, especially in agricultural areas.",
-       "old_page": 96,
-       "new_page": 96,
+       "old": "Many of these clans came to be regarded as Rajputs.",
+       "new": "Many of these clans came to be regarded as Rajputs.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 89,
        "new_pos": 89
@@ -21821,10 +21732,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
-       "new": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
-       "old_page": 96,
-       "new_page": 96,
+       "old": "They gradually replaced the older rulers, especially in agricultural areas.",
+       "new": "They gradually replaced the older rulers, especially in agricultural areas.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 90,
        "new_pos": 90
@@ -21833,8 +21744,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The rise of Rajput clans to the position of rulers set an example for the tribal people to follow.",
-       "new": "The rise of Rajput clans to the position of rulers set an example for the tribal people to follow.",
+       "old": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
+       "new": "Here a developed society was emerging, and rulers used their wealth to create powerful states.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21845,8 +21756,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Gradually, with the support of the Brahmanas, many tribes became part of the caste system.",
-       "new": "Gradually, with the support of the Brahmanas, many tribes became part of the caste system.",
+       "old": "The rise of Rajput clans to the position of rulers set an example for the tribal people to follow.",
+       "new": "The rise of Rajput clans to the position of rulers set an example for the tribal people to follow.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21857,8 +21768,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "But only the leading tribal families could join the ruling class.",
-       "new": "But only the leading tribal families could join the ruling class.",
+       "old": "Gradually, with the support of the Brahmanas, many tribes became part of the caste system.",
+       "new": "Gradually, with the support of the Brahmanas, many tribes became part of the caste system.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21869,8 +21780,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A large majority joined the lower jatis of caste society.",
-       "new": "A large majority joined the lower jatis of caste society.",
+       "old": "But only the leading tribal families could join the ruling class.",
+       "new": "But only the leading tribal families could join the ruling class.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21881,8 +21792,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "On the other hand, many dominant tribes of Punjab, Sind and the North-West Frontier had adopted Islam quite early.",
-       "new": "On the other hand, many dominant tribes of Punjab, Sind and the North-West Frontier had adopted Islam quite early.",
+       "old": "A large majority joined the lower jatis of caste society.",
+       "new": "A large majority joined the lower jatis of caste society.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21893,8 +21804,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They continued to reject the caste system.",
-       "new": "They continued to reject the caste system.",
+       "old": "On the other hand, many dominant tribes of Punjab, Sind and the North-West Frontier had adopted Islam quite early.",
+       "new": "On the other hand, many dominant tribes of Punjab, Sind and the North-West Frontier had adopted Islam quite early.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21905,8 +21816,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The unequal social order, prescribed by orthodox Hinduism, was not widely accepted in these areas.",
-       "new": "The unequal social order, prescribed by orthodox Hinduism, was not widely accepted in these areas.",
+       "old": "They continued to reject the caste system.",
+       "new": "They continued to reject the caste system.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21917,8 +21828,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The emergence of states is closely related to social change amongst tribal people.",
-       "new": "The emergence of states is closely related to social change amongst tribal people.",
+       "old": "The unequal social order, prescribed by orthodox Hinduism, was not widely accepted in these areas.",
+       "new": "The unequal social order, prescribed by orthodox Hinduism, was not widely accepted in these areas.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21929,8 +21840,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Two examples of this important part of our history are described below.",
-       "new": "Two examples of this important part of our history are described below.",
+       "old": "The emergence of states is closely related to social change amongst tribal people.",
+       "new": "The emergence of states is closely related to social change amongst tribal people.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21941,8 +21852,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Gonds",
-       "new": "The Gonds",
+       "old": "Two examples of this important part of our history are described below.",
+       "new": "Two examples of this important part of our history are described below.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21953,8 +21864,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”.",
-       "new": "The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”.",
+       "old": "The Gonds",
+       "new": "The Gonds",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21965,8 +21876,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They practised shifting cultivation.",
-       "new": "They practised shifting cultivation.",
+       "old": "The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”.",
+       "new": "The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21977,8 +21888,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The large Gond tribe was further divided into many smaller clans.",
-       "new": "The large Gond tribe was further divided into many smaller clans.",
+       "old": "They practised shifting cultivation.",
+       "new": "They practised shifting cultivation.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -21989,8 +21900,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Each clan had its own raja or rai.",
-       "new": "Each clan had its own raja or rai.",
+       "old": "The large Gond tribe was further divided into many smaller clans.",
+       "new": "The large Gond tribe was further divided into many smaller clans.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22001,8 +21912,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs.",
-       "new": "About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs.",
+       "old": "Each clan had its own raja or rai.",
+       "new": "Each clan had its own raja or rai.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22013,8 +21924,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.",
-       "new": "The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.",
+       "old": "About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs.",
+       "new": "About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22025,8 +21936,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The administrative system of these kingdoms was becoming centralised.",
-       "new": "The administrative system of these kingdoms was becoming centralised.",
+       "old": "The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.",
+       "new": "The Akbar Nama, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22037,8 +21948,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The kingdom was divided into garhs.",
-       "new": "The kingdom was divided into garhs.",
+       "old": "The administrative system of these kingdoms was becoming centralised.",
+       "new": "The administrative system of these kingdoms was becoming centralised.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22049,8 +21960,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Each garh was controlled by a particular Gond clan.",
-       "new": "Each garh was controlled by a particular Gond clan.",
+       "old": "The kingdom was divided into garhs.",
+       "new": "The kingdom was divided into garhs.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22061,8 +21972,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This was further divided into units of 84 villages called chaurasi.",
-       "new": "This was further divided into units of 84 villages called chaurasi.",
+       "old": "Each garh was controlled by a particular Gond clan.",
+       "new": "Each garh was controlled by a particular Gond clan.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22073,8 +21984,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The chaurasi was subdivided into barhots which were made up of 12 villages each.",
-       "new": "The chaurasi was subdivided into barhots which were made up of 12 villages each.",
+       "old": "This was further divided into units of 84 villages called chaurasi.",
+       "new": "This was further divided into units of 84 villages called chaurasi.",
        "old_page": 97,
        "new_page": 97,
        "words": [],
@@ -22085,10 +21996,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The emergence of large states changed the nature of Gond society.",
-       "new": "The emergence of large states changed the nature of Gond society.",
-       "old_page": 98,
-       "new_page": 98,
+       "old": "The chaurasi was subdivided into barhots which were made up of 12 villages each.",
+       "new": "The chaurasi was subdivided into barhots which were made up of 12 villages each.",
+       "old_page": 97,
+       "new_page": 97,
        "words": [],
        "old_pos": 112,
        "new_pos": 112
@@ -22097,8 +22008,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Their basically equal society gradually got divided into unequal social classes.",
-       "new": "Their basically equal society gradually got divided into unequal social classes.",
+       "old": "The emergence of large states changed the nature of Gond society.",
+       "new": "The emergence of large states changed the nature of Gond society.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22109,8 +22020,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Brahmanas received land grants from the Gond rajas and became more influential.",
-       "new": "Brahmanas received land grants from the Gond rajas and became more influential.",
+       "old": "Their basically equal society gradually got divided into unequal social classes.",
+       "new": "Their basically equal society gradually got divided into unequal social classes.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22121,8 +22032,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Gond chiefs now wished to be recognised as Rajputs.",
-       "new": "The Gond chiefs now wished to be recognised as Rajputs.",
+       "old": "Brahmanas received land grants from the Gond rajas and became more influential.",
+       "new": "Brahmanas received land grants from the Gond rajas and became more influential.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22133,8 +22044,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah.",
-       "new": "So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah.",
+       "old": "The Gond chiefs now wished to be recognised as Rajputs.",
+       "new": "The Gond chiefs now wished to be recognised as Rajputs.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22145,8 +22056,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.",
-       "new": "His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.",
+       "old": "So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah.",
+       "new": "So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22157,8 +22068,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Dalpat, however, died early.",
-       "new": "Dalpat, however, died early.",
+       "old": "His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.",
+       "new": "His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22169,8 +22080,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Rani Durgawati was very capable, and started ruling on behalf of her five-year-old son, Bir Narain.",
-       "new": "Rani Durgawati was very capable, and started ruling on behalf of her five-year-old son, Bir Narain.",
+       "old": "Dalpat, however, died early.",
+       "new": "Dalpat, however, died early.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22181,8 +22092,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Under her, the kingdom became even more extensive.",
-       "new": "Under her, the kingdom became even more extensive.",
+       "old": "Rani Durgawati was very capable, and started ruling on behalf of her five-year-old son, Bir Narain.",
+       "new": "Rani Durgawati was very capable, and started ruling on behalf of her five-year-old son, Bir Narain.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22193,8 +22104,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga.",
-       "new": "In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga.",
+       "old": "Under her, the kingdom became even more extensive.",
+       "new": "Under her, the kingdom became even more extensive.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22205,8 +22116,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A strong resistance was put up by Rani Durgawati.",
-       "new": "A strong resistance was put up by Rani Durgawati.",
+       "old": "In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga.",
+       "new": "In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22217,8 +22128,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "She was defeated and preferred to die rather than surrender.",
-       "new": "She was defeated and preferred to die rather than surrender.",
+       "old": "A strong resistance was put up by Rani Durgawati.",
+       "new": "A strong resistance was put up by Rani Durgawati.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22229,8 +22140,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Her son, too, died fighting soon after.",
-       "new": "Her son, too, died fighting soon after.",
+       "old": "She was defeated and preferred to die rather than surrender.",
+       "new": "She was defeated and preferred to die rather than surrender.",
        "old_page": 98,
        "new_page": 98,
        "words": [],
@@ -22241,10 +22152,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Garha Katanga was a rich state.",
-       "new": "Garha Katanga was a rich state.",
-       "old_page": 99,
-       "new_page": 99,
+       "old": "Her son, too, died fighting soon after.",
+       "new": "Her son, too, died fighting soon after.",
+       "old_page": 98,
+       "new_page": 98,
        "words": [],
        "old_pos": 125,
        "new_pos": 125
@@ -22253,8 +22164,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "It earned much wealth by trapping and exporting wild elephants to other kingdoms.",
-       "new": "It earned much wealth by trapping and exporting wild elephants to other kingdoms.",
+       "old": "Garha Katanga was a rich state.",
+       "new": "Garha Katanga was a rich state.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22265,8 +22176,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants.",
-       "new": "When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants.",
+       "old": "It earned much wealth by trapping and exporting wild elephants to other kingdoms.",
+       "new": "It earned much wealth by trapping and exporting wild elephants to other kingdoms.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22277,8 +22188,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain.",
-       "new": "They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain.",
+       "old": "When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants.",
+       "new": "When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22289,8 +22200,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Despite the fall of Garha Katanga, the Gond kingdoms survived for some time.",
-       "new": "Despite the fall of Garha Katanga, the Gond kingdoms survived for some time.",
+       "old": "They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain.",
+       "new": "They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22301,8 +22212,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.",
-       "new": "However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.",
+       "old": "Despite the fall of Garha Katanga, the Gond kingdoms survived for some time.",
+       "new": "Despite the fall of Garha Katanga, the Gond kingdoms survived for some time.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22313,8 +22224,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Ahoms",
-       "new": "The Ahoms",
+       "old": "However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.",
+       "new": "However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22325,8 +22236,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century.",
-       "new": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century.",
+       "old": "The Ahoms",
+       "new": "The Ahoms",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22337,8 +22248,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They created a new state by suppressing the older political system of the bhuiyans (landlords).",
-       "new": "They created a new state by suppressing the older political system of the bhuiyans (landlords).",
+       "old": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century.",
+       "new": "The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22349,8 +22260,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes.",
-       "new": "During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes.",
+       "old": "They created a new state by suppressing the older political system of the bhuiyans (landlords).",
+       "new": "They created a new state by suppressing the older political system of the bhuiyans (landlords).",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22361,8 +22272,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Ahoms built a large state, and for this they used firearms as early as the 1530s.",
-       "new": "The Ahoms built a large state, and for this they used firearms as early as the 1530s.",
+       "old": "During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes.",
+       "new": "During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22373,8 +22284,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "By the 1660s they could even make high-quality gunpowder and cannons.",
-       "new": "By the 1660s they could even make high-quality gunpowder and cannons.",
+       "old": "The Ahoms built a large state, and for this they used firearms as early as the 1530s.",
+       "new": "The Ahoms built a large state, and for this they used firearms as early as the 1530s.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22385,8 +22296,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "However, the Ahoms faced many invasions from the south-west.",
-       "new": "However, the Ahoms faced many invasions from the south-west.",
+       "old": "By the 1660s they could even make high-quality gunpowder and cannons.",
+       "new": "By the 1660s they could even make high-quality gunpowder and cannons.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22397,8 +22308,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In 1662, the Mughals under Mir Jumla attacked the Ahom kingdom.",
-       "new": "In 1662, the Mughals under Mir Jumla attacked the Ahom kingdom.",
+       "old": "However, the Ahoms faced many invasions from the south-west.",
+       "new": "However, the Ahoms faced many invasions from the south-west.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22409,8 +22320,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Despite their brave defence, the Ahoms were defeated.",
-       "new": "Despite their brave defence, the Ahoms were defeated.",
+       "old": "In 1662, the Mughals under Mir Jumla attacked the Ahom kingdom.",
+       "new": "In 1662, the Mughals under Mir Jumla attacked the Ahom kingdom.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22421,8 +22332,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "But direct Mughal control over the region could not last long.",
-       "new": "But direct Mughal control over the region could not last long.",
+       "old": "Despite their brave defence, the Ahoms were defeated.",
+       "new": "Despite their brave defence, the Ahoms were defeated.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22433,8 +22344,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Ahom state depended upon forced labour.",
-       "new": "The Ahom state depended upon forced labour.",
+       "old": "But direct Mughal control over the region could not last long.",
+       "new": "But direct Mughal control over the region could not last long.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22445,8 +22356,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Those forced to work for the state were called paiks.",
-       "new": "Those forced to work for the state were called paiks.",
+       "old": "The Ahom state depended upon forced labour.",
+       "new": "The Ahom state depended upon forced labour.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22457,8 +22368,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A census of the population was taken.",
-       "new": "A census of the population was taken.",
+       "old": "Those forced to work for the state were called paiks.",
+       "new": "Those forced to work for the state were called paiks.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22469,8 +22380,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Each village had to send a number of paiks by rotation.",
-       "new": "Each village had to send a number of paiks by rotation.",
+       "old": "A census of the population was taken.",
+       "new": "A census of the population was taken.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22481,8 +22392,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "People from heavily populated areas were shifted to less populated places.",
-       "new": "People from heavily populated areas were shifted to less populated places.",
+       "old": "Each village had to send a number of paiks by rotation.",
+       "new": "Each village had to send a number of paiks by rotation.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22493,8 +22404,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Ahom clans were thus broken up.",
-       "new": "Ahom clans were thus broken up.",
+       "old": "People from heavily populated areas were shifted to less populated places.",
+       "new": "People from heavily populated areas were shifted to less populated places.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22505,8 +22416,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "By the first half of the seventeenth century the administration became quite centralised.",
-       "new": "By the first half of the seventeenth century the administration became quite centralised.",
+       "old": "Ahom clans were thus broken up.",
+       "new": "Ahom clans were thus broken up.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
@@ -22517,10 +22428,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Almost all adult males served in the army during war.",
-       "new": "Almost all adult males served in the army during war.",
-       "old_page": 100,
-       "new_page": 100,
+       "old": "By the first half of the seventeenth century the administration became quite centralised.",
+       "new": "By the first half of the seventeenth century the administration became quite centralised.",
+       "old_page": 99,
+       "new_page": 99,
        "words": [],
        "old_pos": 148,
        "new_pos": 148
@@ -22529,8 +22440,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "At other times, they were engaged in building dams, irrigation systems and other public works.",
-       "new": "At other times, they were engaged in building dams, irrigation systems and other public works.",
+       "old": "Almost all adult males served in the army during war.",
+       "new": "Almost all adult males served in the army during war.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22541,8 +22452,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Ahoms also introduced new methods of rice cultivation.",
-       "new": "The Ahoms also introduced new methods of rice cultivation.",
+       "old": "At other times, they were engaged in building dams, irrigation systems and other public works.",
+       "new": "At other times, they were engaged in building dams, irrigation systems and other public works.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22553,8 +22464,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Ahom society was divided into clans or khels.",
-       "new": "Ahom society was divided into clans or khels.",
+       "old": "The Ahoms also introduced new methods of rice cultivation.",
+       "new": "The Ahoms also introduced new methods of rice cultivation.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22565,8 +22476,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms.",
-       "new": "There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms.",
+       "old": "Ahom society was divided into clans or khels.",
+       "new": "Ahom society was divided into clans or khels.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22577,8 +22488,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A khel often controlled several villages.",
-       "new": "A khel often controlled several villages.",
+       "old": "There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms.",
+       "new": "There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22589,8 +22500,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The peasant was given land by his village community.",
-       "new": "The peasant was given land by his village community.",
+       "old": "A khel often controlled several villages.",
+       "new": "A khel often controlled several villages.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22601,8 +22512,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Even the king could not take it away without the community’s consent.",
-       "new": "Even the king could not take it away without the community’s consent.",
+       "old": "The peasant was given land by his village community.",
+       "new": "The peasant was given land by his village community.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22613,8 +22524,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Originally, the Ahoms worshipped their own tribal gods.",
-       "new": "Originally, the Ahoms worshipped their own tribal gods.",
+       "old": "Even the king could not take it away without the community’s consent.",
+       "new": "Even the king could not take it away without the community’s consent.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22625,8 +22536,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "During the first half of the seventeenth century, however, the influence of Brahmanas increased.",
-       "new": "During the first half of the seventeenth century, however, the influence of Brahmanas increased.",
+       "old": "Originally, the Ahoms worshipped their own tribal gods.",
+       "new": "Originally, the Ahoms worshipped their own tribal gods.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22637,8 +22548,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Temples and Brahmanas were granted land by the king.",
-       "new": "Temples and Brahmanas were granted land by the king.",
+       "old": "During the first half of the seventeenth century, however, the influence of Brahmanas increased.",
+       "new": "During the first half of the seventeenth century, however, the influence of Brahmanas increased.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22649,8 +22560,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "In the reign of Sib Singh (1714-1744), Hinduism became the predominant religion.",
-       "new": "In the reign of Sib Singh (1714-1744), Hinduism became the predominant religion.",
+       "old": "Temples and Brahmanas were granted land by the king.",
+       "new": "Temples and Brahmanas were granted land by the king.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22661,8 +22572,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "But the Ahom kings did not completely give up their traditional beliefs after adopting Hinduism.",
-       "new": "But the Ahom kings did not completely give up their traditional beliefs after adopting Hinduism.",
+       "old": "In the reign of Sib Singh (1714-1744), Hinduism became the predominant religion.",
+       "new": "In the reign of Sib Singh (1714-1744), Hinduism became the predominant religion.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22673,8 +22584,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Ahom society was very sophisticated.",
-       "new": "Ahom society was very sophisticated.",
+       "old": "But the Ahom kings did not completely give up their traditional beliefs after adopting Hinduism.",
+       "new": "But the Ahom kings did not completely give up their traditional beliefs after adopting Hinduism.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22685,8 +22596,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Poets and scholars were given land grants.",
-       "new": "Poets and scholars were given land grants.",
+       "old": "Ahom society was very sophisticated.",
+       "new": "Ahom society was very sophisticated.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22697,8 +22608,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Theatre was encouraged.",
-       "new": "Theatre was encouraged.",
+       "old": "Poets and scholars were given land grants.",
+       "new": "Poets and scholars were given land grants.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22709,8 +22620,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Important works of Sanskrit were translated into the local language.",
-       "new": "Important works of Sanskrit were translated into the local language.",
+       "old": "Theatre was encouraged.",
+       "new": "Theatre was encouraged.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22721,8 +22632,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Historical works, known as buranjis, were also written – first in the Ahom language and then in Assamese.",
-       "new": "Historical works, known as buranjis, were also written – first in the Ahom language and then in Assamese.",
+       "old": "Important works of Sanskrit were translated into the local language.",
+       "new": "Important works of Sanskrit were translated into the local language.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22733,8 +22644,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Considerable social change took place in the subcontinent during the period we have been examining.",
-       "new": "Considerable social change took place in the subcontinent during the period we have been examining.",
+       "old": "Historical works, known as buranjis, were also written – first in the Ahom language and then in Assamese.",
+       "new": "Historical works, known as buranjis, were also written – first in the Ahom language and then in Assamese.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22745,8 +22656,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Varna-based society and tribal people constantly interacted with each other.",
-       "new": "Varna-based society and tribal people constantly interacted with each other.",
+       "old": "Considerable social change took place in the subcontinent during the period we have been examining.",
+       "new": "Considerable social change took place in the subcontinent during the period we have been examining.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22757,8 +22668,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This interaction caused both kinds of societies to adapt and change.",
-       "new": "This interaction caused both kinds of societies to adapt and change.",
+       "old": "Varna-based society and tribal people constantly interacted with each other.",
+       "new": "Varna-based society and tribal people constantly interacted with each other.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22769,8 +22680,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There were many different tribes and they took up diverse livelihoods.",
-       "new": "There were many different tribes and they took up diverse livelihoods.",
+       "old": "This interaction caused both kinds of societies to adapt and change.",
+       "new": "This interaction caused both kinds of societies to adapt and change.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22781,8 +22692,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Over a period of time, many of them merged with caste-based society.",
-       "new": "Over a period of time, many of them merged with caste-based society.",
+       "old": "There were many different tribes and they took up diverse livelihoods.",
+       "new": "There were many different tribes and they took up diverse livelihoods.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22793,8 +22704,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Others, however, rejected both the caste system and orthodox Hinduism.",
-       "new": "Others, however, rejected both the caste system and orthodox Hinduism.",
+       "old": "Over a period of time, many of them merged with caste-based society.",
+       "new": "Over a period of time, many of them merged with caste-based society.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22805,8 +22716,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Some tribes established extensive states with well-organised systems of administration.",
-       "new": "Some tribes established extensive states with well-organised systems of administration.",
+       "old": "Others, however, rejected both the caste system and orthodox Hinduism.",
+       "new": "Others, however, rejected both the caste system and orthodox Hinduism.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22817,8 +22728,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They thus became politically powerful.",
-       "new": "They thus became politically powerful.",
+       "old": "Some tribes established extensive states with well-organised systems of administration.",
+       "new": "Some tribes established extensive states with well-organised systems of administration.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22829,8 +22740,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This brought them into conflict with larger and more complex kingdoms and empires.",
-       "new": "This brought them into conflict with larger and more complex kingdoms and empires.",
+       "old": "They thus became politically powerful.",
+       "new": "They thus became politically powerful.",
        "old_page": 100,
        "new_page": 100,
        "words": [],
@@ -22841,10 +22752,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Mongols",
-       "new": "The Mongols",
-       "old_page": 101,
-       "new_page": 101,
+       "old": "This brought them into conflict with larger and more complex kingdoms and empires.",
+       "new": "This brought them into conflict with larger and more complex kingdoms and empires.",
+       "old_page": 100,
+       "new_page": 100,
        "words": [],
        "old_pos": 175,
        "new_pos": 175
@@ -22853,8 +22764,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Imagine",
-       "new": "Imagine",
+       "old": "The Mongols",
+       "new": "The Mongols",
        "old_page": 101,
        "new_page": 101,
        "words": [],
@@ -22865,8 +22776,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "You are a member of a nomadic community that shifts residence every three months.",
-       "new": "You are a member of a nomadic community that shifts residence every three months.",
+       "old": "Imagine",
+       "new": "Imagine",
        "old_page": 101,
        "new_page": 101,
        "words": [],
@@ -22877,13 +22788,25 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "How would this change your life?",
-       "new": "How would this change your life?",
+       "old": "You are a member of a nomadic community that shifts residence every three months.",
+       "new": "You are a member of a nomadic community that shifts residence every three months.",
        "old_page": 101,
        "new_page": 101,
        "words": [],
        "old_pos": 178,
        "new_pos": 178
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "How would this change your life?",
+       "new": "How would this change your life?",
+       "old_page": 101,
+       "new_page": 101,
+       "words": [],
+       "old_pos": 179,
+       "new_pos": 179
       }
      ]
     },
@@ -22895,6 +22818,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23233,6 +23157,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23403,6 +23328,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23416,6 +23342,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23429,6 +23356,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23743,6 +23671,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23756,6 +23685,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23769,6 +23699,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23815,14 +23746,14 @@
      {
       "page": 96,
       "new_page": 96,
-      "sentences": 22,
+      "sentences": 17,
       "score": 1.0,
       "suspect": false
      },
      {
       "page": 97,
       "new_page": 97,
-      "sentences": 26,
+      "sentences": 32,
       "score": 1.0,
       "suspect": false
      },
@@ -23897,6 +23828,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24091,6 +24023,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24615,8 +24548,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Virashaiva Virashaiva vachanas vachanas",
-       "new": "Virashaiva Virashaiva vachanas vachanas",
+       "old": "Virashaiva vachanas",
+       "new": "Virashaiva vachanas",
        "old_page": 108,
        "new_page": 108,
        "words": [],
@@ -26313,6 +26246,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26687,6 +26621,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26869,6 +26804,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26882,6 +26818,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26895,6 +26832,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27185,6 +27123,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27235,6 +27174,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27248,6 +27188,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27404,6 +27345,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27460,8 +27402,8 @@
        "type": "equal",
        "stream": "heading",
        "similarity": 1.0,
-       "old": "Beyond Regional Frontiers: The Story of The Story of Kathak Kathak",
-       "new": "Beyond Regional Frontiers: The Story of The Story of Kathak Kathak",
+       "old": "Beyond Regional Frontiers: The Story of Kathak",
+       "new": "Beyond Regional Frontiers: The Story of Kathak",
        "old_page": 126,
        "new_page": 126,
        "words": [],
@@ -27496,8 +27438,8 @@
        "type": "equal",
        "stream": "heading",
        "similarity": 1.0,
-       "old": "Pirs Pirs and Temples and Temples",
-       "new": "Pirs Pirs and Temples and Temples",
+       "old": "Pirs and Temples",
+       "new": "Pirs and Temples",
        "old_page": 132,
        "new_page": 132,
        "words": [],
@@ -27562,6 +27504,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29160,6 +29103,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29510,6 +29454,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29716,6 +29661,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29729,6 +29675,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29742,6 +29689,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30032,6 +29980,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30045,6 +29994,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30058,6 +30008,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30200,6 +30151,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30256,8 +30208,8 @@
        "type": "equal",
        "stream": "heading",
        "similarity": 1.0,
-       "old": "The The Watan Jagirs of the Rajputs of the Rajputs",
-       "new": "The The Watan Jagirs of the Rajputs of the Rajputs",
+       "old": "The Watan Jagirs of the Rajputs",
+       "new": "The Watan Jagirs of the Rajputs",
        "old_page": 146,
        "new_page": 146,
        "words": [],
@@ -30322,6 +30274,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32232,6 +32185,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32510,6 +32464,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32656,6 +32611,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32669,6 +32625,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -32875,6 +32832,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33165,6 +33123,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33178,6 +33137,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33191,6 +33151,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },

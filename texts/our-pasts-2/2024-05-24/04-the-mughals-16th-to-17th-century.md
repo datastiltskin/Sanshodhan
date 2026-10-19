@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch04.pdf"
 source_sha256: "c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "1ed58863601f53d2cd6195c3860eef911aa6c92f0996a531ffe21b8c11c73915"
+body_fingerprint: "02ea23db449c7ab2822261a6984aa18da7d30fabc480a25a2452f803e8424801"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -32,7 +32,9 @@ The Mughals were descendants of two great lineages of rulers. From their mother�
 
 They celebrated their genealogy pictorially, each ruler getting a picture made of Timur and himself.
 
-## Mughal Military Campaigns the first Mughal emperor Babur, succeeded to the throne of Ferghana in 1494 when
+## Mughal Military Campaigns
+
+## the first Mughal emperor Babur, succeeded to the throne of Ferghana in 1494 when
 
 he was only 12 years old. He was forced to leave his ancestral throne due to the invasion of another Mongol group, the Uzbegs. After years of wandering, he seized Kabul in 1504. In 1526 he defeated the Sultan of Delhi, Ibrahim Lodi, at Panipat and captured Delhi and Agra.
 
@@ -62,11 +64,11 @@ The Sisodiya Rajputs of Mewar refused to accept Mughal authority for a long time
 
 ## Mansabdars and Jagirdars
 
-As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as mansabdars. . The term mansabdar refers to an individual who holds a mansab, , meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat. . The higher the zat, , the more prestigious was the noble’s position in court and the larger his salary.
+As the empire expanded to encompass different regions, the Mughals recruited diverse bodies of people. From a small nucleus of Turkish nobles (Turanis) they expanded to include Iranians, Indian Muslims, Afghans, Rajputs, Marathas and other groups. Those who joined Mughal service were enrolled as mansabdars.. The term mansabdar refers to an individual who holds a mansab,, meaning a position or rank. It was a grading system used by the Mughals to fix (1) rank, (2) salary and (3) military responsibilities. Rank and salary were determined by a numerical value called zat.. The higher the zat,, the more prestigious was the noble’s position in court and the larger his salary.
 
 The mansabdar’s military responsibilities required him to maintain a specified number of SQAUWAaT or cavalrymen. The mansabdar brought his cavalrymen for review, got them registered, their horses branded and then received money to pay them as salary.
 
-Mansabdars received their salaries as revenue assignments called Jagirs which were somewhat like iqtas . But unlike mUuq lis ; , most mansabdars did not actually reside in or administer their - Jagirs. . They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
+Mansabdars received their salaries as revenue assignments called Jagirs which were somewhat like iqtas . But unlike mUuq list ;, most mansabdars did not actually reside in or administer their - Jagirs.. They only had rights to the revenue of their assignments which was collected for them by their servants while the mansabdars themselves served in some other part of the country.
 
 ### Zat ranking
 
@@ -76,17 +78,17 @@ Mansabdars received their salaries as revenue assignments called Jagirs which we
 
 In Akbar’s reign, these
 
-Jagirs : were carefully assessed so that their revenues were roughly equal to the salary of the mansabdar . By Aurangzeb’s reign, this was no longer the case and the actual revenue collected was often less than the granted sum. There was also a huge increase in the number of mansabdars, which meant a long wait before they received a . These and other factors created a shortage in the number of Jagirs. . As a result, many “jagirdars tried to extract as much revenue as possible while they had a . Aurangzeb was unable to control these developments in the last years of his reign and the peasantry therefore suffered tremendously.
+Jagirs : were carefully assessed so that their revenues were roughly equal to the salary of the mansabdar . By Aurangzeb’s reign, this was no longer the case and the actual revenue collected was often less than the granted sum. There was also a huge increase in the number of mansabdars, which meant a long wait before they received a. These and other factors created a shortage in the number of Jagirs.. As a result, many “jagirdars tried to extract as much revenue as possible while they had a. Aurangzeb was unable to control these developments in the last years of his reign and the peasantry therefore suffered tremendously.
 
 ## Zabt and Zamindars
 
 The main source of income available to Mughal rulers was tax on the produce of the peasantry. In most places, peasants paid taxes through the rural elites, that is, the headman or the local chieftain. The Mughals used one term – zamindars – to describe all intermediaries, whether they were local headmen of villages or powerful chieftains.
 
-Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, On the basis of this data, tax was fixed on each crop in cash. Bach province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt. . It was prevalent in those areas where Mughal administrators could survey the land and keep very careful accounts. This was not possible in provinces, such as Gujarat and Bengal.
+Akbar’s revenue minister, Todar Mal, carried out a careful survey of crop yields, prices and areas cultivated for a 10-year period, On the basis of this data, tax was fixed on each crop in cash. each province was divided into revenue circles with its own schedule of revenue rates for individual crops. This revenue system was known as zabt.. It was prevalent in those areas where Mughal administrators could survey the land and keep very careful accounts. This was not possible in provinces, such as Gujarat and Bengal.
 
 > [caption] Fig. 4 A mansabdar on march with his sawars.
 
-> [caption] Fig. 5 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt off fficer receiving a bribe and (2) a tax-collector punishing poor peasants.
+> [caption] Fig. 5 Details from a miniature from Shah Jahan’s reign depicting corruption in his father’s administration: (1) a corrupt off officer receiving a bribe and (2) a tax-collector punishing poor peasants.
 
 <!-- page 44 (pdf 6) -->
 
@@ -156,7 +158,7 @@ The five Deccan Sultanates were Berar, Khandesh, Ahmadnagar, and _______________
 
 What were the central provinces under the control of the Mughals?
 
-4 What was the relationship between the mansabdar : and the ?
+4 What was the relationship between the mansabdar : and the?
 
 ### Let’s understand
 
@@ -178,9 +180,7 @@ KEYWORDS
 
 Mughal primogeniture coparcenary zamindar Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
 
-> [caption] mansab jJagir zat
-
-> [caption] SQAWar sulh-i kul zabt
+> [caption] mansab jagir zat sawar sulh-i kul zabt
 
 <!-- page 48 (pdf 10) -->
 

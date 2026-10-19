@@ -33,15 +33,29 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 
 Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B. R. Printers, C-46/2, Lawrance Road, Industrial Area, Delhi 110 035
 
-> [caption] ISBN 978-93-5729-141-5 0782 – Exploring Society: India and Beyond Social Science Textbook for Grade 7 Part 2 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher. This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published. The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] ISBN 978-93-5729-141-5 0782 – Exploring Society: India and Beyond Social Science Textbook for Grade 7 Part 2
+
+> [caption] ALL RIGHTS RESERVED
+
+> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher. This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published. The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION
 
 > [caption] DIVISION, NCERT
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O. Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Publication Team Head, Publication : M.V. Srinivasan Division Chief Editor : Bijnan Sutar Chief Business Manager : Amitabh Kumar Chief Production Officer : Deepak Jaiswal (In charge)
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
 
-> [caption] Production Officer : Sunil Sharma
+> [caption] Navjivan Trust Building P.O. Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+> [caption] Publication Team
+
+> [caption] Head, Publication: M.V. Srinivasan Division Chief Editor: Bijnan Sutar Chief Business Manager : Amitabh Kumar Chief Production Officer : Deepak Jaiswal (In charge)
+
+> [caption] Production Officer: Sunil Sharma
 
 > [caption] Cover Design, Illustrations, and Layout
 
@@ -197,17 +211,29 @@ P.K. Mandal, Professor of History, RIE, Mysuru Prachi Lahiri, History Teacher, N
 
 ## guarantees these Fundamental Rights
 
-Right to Equality • before law and equal protection of laws; • irrespective of religion, race, caste, sex or place of birth; • of opportunity in public employment; • by abolition of untouchability and titles.
+Right to Equality
 
-Right to Freedom • of expression, assembly, association, movement, residence and profession; • of certain protections in respect of conviction for offences; • of protection of life and personal liberty; • of free and compulsory education for children between the age of six and fourteen years; • of protection against arrest and detention in certain cases.
+• before law and equal protection of laws; • irrespective of religion, race, caste, sex or place of birth; • of opportunity in public employment; • by abolition of untouchability and titles.
 
-Right against Exploitation • for prohibition of traffic in human beings and forced labour; • for prohibition of employment of children in hazardous jobs.
+Right to Freedom
 
-Right to Freedom of Religion • freedom of conscience and free profession, practice and propagation of religion; • freedom to manage religious affairs; • freedom as to payment of taxes for promotion of any particular religion; • freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
+• of expression, assembly, association, movement, residence and profession; • of certain protections in respect of conviction for offences; • of protection of life and personal liberty; • of free and compulsory education for children between the age of six and fourteen years; • of protection against arrest and detention in certain cases.
 
-Cultural and Educational Rights • for protection of interests of minorities to conserve their language, script and culture; • for minorities to establish and administer educational institutions of their choice.
+Right against Exploitation
 
-Right to Constitutional Remedies • by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
+• for prohibition of traffic in human beings and forced labour; • for prohibition of employment of children in hazardous jobs.
+
+Right to Freedom of Religion
+
+• freedom of conscience and free profession, practice and propagation of religion; • freedom to manage religious affairs; • freedom as to payment of taxes for promotion of any particular religion; • freedom as to attendance at religious instruction or religious worship in educational institutions wholly maintained by the State.
+
+Cultural and Educational Rights
+
+• for protection of interests of minorities to conserve their language, script and culture; • for minorities to establish and administer educational institutions of their choice.
+
+Right to Constitutional Remedies
+
+• by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
 
 <!-- pdf page 13 -->
 
@@ -237,8 +263,36 @@ Foreword iii
 
 Letter to the Student v
 
-Theme A — India and the World: Land and the People Chapter 1 The Story of Indian Farming 1 Chapter 2 India and Her Neighbours 29 Theme B — Tapestry of the Past Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61 Chapter 4 Turning Tides: 11th and 12th Centuries 97 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125 Theme D — Governance and Democracy Chapter 6 The State, the Government, and You 143 Theme E — Economic Life Around Us Chapter 7 Infrastructure: Engine of India’s Development 169 Chapter 8 Banks and the Magic of Finance 193 Maps of India 214 Glossary 216 Images and maps from external sources 218 The whole world is family
+Theme A — India and the World: Land and the People Chapter 1 The Story of Indian Farming 1
+
+Chapter 2 India and Her Neighbours 29
+
+Theme B — Tapestry of the Past
+
+Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61
+
+Chapter 4 Turning Tides: 11th and 12th Centuries 97
+
+Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125
+
+Theme D — Governance and Democracy
+
+Chapter 6 The State, the Government, and You 143
+
+Theme E — Economic Life Around Us
+
+Chapter 7 Infrastructure: Engine of India’s Development 169
+
+Chapter 8 Banks and the Magic of Finance 193
+
+Maps of India 214
+
+Glossary 216
+
+Images and maps from external sources 218
 
 <!-- pdf page 16 -->
 
 ### Vasudhaiva Kutumbakam:
+
+The whole world is family

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch01.pdf"
 source_sha256: "ab9b1e99ba545ebc678eb326ee422140f4e6848d92ebcb112e8633e5de62bb96"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "65a97bc802ba04fd54399a0c232f1b38f00710509e509d7903d3242c18c3e50c"
+body_fingerprint: "af06e7a18c872719fc49391a329b40fabe1dc52bd09dd1fb081197318536fbce"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -181,15 +181,17 @@ The Indian Constitution recognises every person as equal. This means that every 
 
 <!-- page 10 (pdf 9) -->
 
-The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
-
-Sustainable Development Goal (SDG) www.in.undp.org no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
+no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
 
 This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law. What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws. Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male. Third, every person has access to all public places including playgrounds, hotels, shops and markets. All persons can use publicly available wells, roads and bathing ghats. Fourth, untouchability has been abolished.
 
-The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
+The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 11 (pdf 10) -->
+
+set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
 
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
 

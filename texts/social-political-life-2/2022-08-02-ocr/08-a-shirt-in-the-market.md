@@ -7,9 +7,10 @@ snapshots:
 chapter: 8
 title: "A Shirt in the Market"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch08.pdf"
+source_sha256: "97fa0dae11cb844cf2ed09f7b7acb884a0122eccd35de032e89bec2c1b1b47a2"
 pdf_pages: 10
 printed_pages: "92-101"
-body_fingerprint: "b15782f828e3ff7bdde8d425b4bf4f1fa7e45385a0d5cb9bef1094b95b3fc8b5"
+body_fingerprint: "f74931f3ed4650549885d4399ef0491dc1003fb0278c7b202e9dcb6f8c49a202"
 ocr: true
 ocr_confidence: 94.5
 ---
@@ -74,7 +75,9 @@ On market days, you would also find weavers bringing cloth that has been made on
 
 The weavers and their families spend
 
-> ae i . = = long hours working on these looms. Most weaving units have about 2-8 Putting-out system-weavers producing cloth at home powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and The merchant distributes work among the weavers bedsheets are produced in these looms.
+> ae i . = = long hours working on these looms. Most weaving units have about 2-8
+
+Putting-out system-weavers producing cloth at home powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and The merchant distributes work among the weavers bedsheets are produced in these looms.
 
 based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
@@ -116,9 +119,13 @@ The Impex garment factory has 70 workers. Most of them are women. Most of these 
 
 Payment to workers (per month)
 
-Tailoring 3,000 lroning = 1.50 (per piece) Checking = 2,000 Thread cutting and buttoning = 1,500 A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around = 1,800.
+Tailoring 3,000 lroning = 1.50 (per piece) Checking = 2,000
+
+Thread cutting and buttoning = 1,500
 
 > [table] The shirt in the United States
+
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around = 1,800.
 
 Use the diagram shown in the margin to fill in the blanks below.
 
@@ -154,7 +161,7 @@ On one hand, the market offers people opportunities for work and to be able to s
 
 ## DECENT Wark ANG a ECONOMIC'GROWTT
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly. In the last chapter, we will read about how one such fish-workers’ cooperative was started on the Tawa river.
 

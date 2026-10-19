@@ -24,7 +24,9 @@ source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 
 > [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption] Reprinted January 2009 Pausha 1930 December 2009 Pausha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936 January 2016 Pausha 1937 January 2017 Magha 1938 December 2017 Pausha 1939 December 2018 Agharayana 1940 January 2020 Pausha 1941 March 2021 Phalguna 1942 This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+> [caption] Reprinted January 2009 Pausha 1930 December 2009 Pausha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936 January 2016 Pausha 1937 January 2017 Magha 1938 December 2017 Pausha 1939 December 2018 Agharayana 1940 January 2020 Pausha 1941 March 2021 Phalguna 1942
+
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
@@ -34,25 +36,29 @@ source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 
 > [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
 
-> [caption] © National Council of Educational Research and Training, 2008 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] © National Council of Educational Research and Training, 2008
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] ` 65.00
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal
 
 > [caption] Cover Photo Sheeba Chachi
 
-> [table] Chief Production : Arun Chitkara Officer
+> [table] Chief Production: Arun Chitkara Officer
 
-> [table] Chief Business : Vipin Dewan Manager (In charge)
+> [table] Chief Business: Vipin Dewan Manager (In charge)
 
-> [caption] Printed on 80 GSM paper with NCERT watermark Editor : Bijnan Sutar
+> [caption] Printed on 80 GSM paper with NCERT watermark Editor: Bijnan Sutar
 
 Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at A-One Offset Printers, 408, EPIP, Phase-III, HSIDC, Industrial Estate, Kundli, Sonipat- 130 128 (Haryana)
 
-> [table] Production Assistant : Om Prakash
+> [table] Production Assistant: Om Prakash
 
 > [caption] Cover and Layout Storyboards
 
@@ -180,14 +186,22 @@ Photo Essay: Last year’s book had a photo essay on the women’s movement. Thi
 
 ### Unit One: The Indian Constitution and Secularism 2
 
-Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18 Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42 Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66 Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94 Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
+Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and The Making of Laws 28
 
+Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42
+
 ### Unit Three: The Judiciary 52
+
+Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66
 
 ### Unit Four: Social Justice and The Marginalised 78
 
+Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94
+
 ### Unit Five: Economic Presence of the Government 104
+
+Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
 
 ### References 134

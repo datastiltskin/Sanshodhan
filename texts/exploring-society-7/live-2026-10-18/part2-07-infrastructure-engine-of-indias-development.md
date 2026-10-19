@@ -172,7 +172,9 @@ y lo et
 
 > [table] 69,181
 
-> [caption] had fad Ee 0 50000 100000 150000 200000 250000 300000 Canada
+> [caption] had fad Ee 0 50000 100000 150000 200000 250000 300000
+
+> [caption] Canada
 
 > [table] 48,000
 
@@ -528,7 +530,11 @@ Through the advancements in communication, students can access online classes, d
 
 > [caption] 2010s–Now: 5G, cloud communication,
 
-> [caption] 1930: All India Radio (AIR) broadcasting messaging started in India and AI-driven chat and voice services 1993: First version of the smartphone Shri. Shanmukham Chetty broadcast the budget on AIR, 1947 Radio becomes popular developed Fig. 7.23. Development of communications systems contd ...
+> [caption] 1930: All India Radio (AIR) broadcasting messaging started in India and AI-driven chat and voice services 1993: First version of the smartphone Shri. Shanmukham Chetty broadcast the budget on AIR, 1947
+
+> [caption] Radio becomes popular developed
+
+> [caption] Fig. 7.23. Development of communications systems contd ...
 
 ### DON’T MISS OUT
 

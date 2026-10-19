@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch04.pdf"
 source_sha256: "0702c0e93030c443a43680e49c47968e0dbe92901fed30b41841abe06d05ec81"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "bf9d4809e2925d7a42b1b1fc382efced24c1c46f5a447aeec3a69c2c62703ff8"
+body_fingerprint: "bd1e25ad4f399b20e33ea2fb037b7b4f0d428cb060d3acce2b725df70568f904"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -51,11 +51,11 @@ Table 1 charts some of the major campaigns of the Mughals. Study it carefully an
 
 ## Major campaigns and events
 
-> [table] BABUR BABUR 1526-1530 1526-1530
+> [table] BABUR 1526-1530
 
 1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat. 1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua. 1528 – defeated the Rajputs at Chanderi. Established control over Agra and Delhi before his death.
 
-HUMAYUN HUMAYUN 1530-1540, 1555-1556 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died in an accident the following year.
+HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died in an accident the following year.
 
 AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be divided into three periods. (1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa. These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 – expansion of Akbar’s empire. Campaigns in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.
 
@@ -143,7 +143,7 @@ Abul Fazl explained that the empire was divided into provinces called subas, gov
 
 Akbar’s nobles commanded large armies and had access to large amounts of revenue. While they were loyal the empire functioned efficiently but by the end of the seventeenth century many nobles had built independent networks of their own. Their loyalties to the empire were weakened by their own self-interest.
 
-While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. It made him realise that religious scholars who emphasised ritual and dogma dogma were often bigots bigots bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or
+While Akbar was at Fatehpur Sikri during the 1570s he started discussions on religion with the ulama, Brahmanas, Jesuit priests who were Roman Catholics, and Zoroastrians. These discussions took place in the ibadat khana. He was interested in the religion and social customs of different people. It made him realise that religious scholars who emphasised ritual and dogma were often bigots. Their teachings created divisions and disharmony amongst his subjects. This eventually led Akbar to the idea of sulh-i kul or
 
 > [caption] Fig. 8 Nur Jahan’s farman.
 

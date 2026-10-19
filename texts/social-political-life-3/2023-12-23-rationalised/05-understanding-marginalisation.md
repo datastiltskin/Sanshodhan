@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2023-12-23/ch05.pdf"
 source_sha256: "b38e486ad6a74ce12be90c5feeadb1f09a4ecd405b123c365920ebd3e7b1df6f"
 pdf_pages: 14
 printed_pages: "60-73"
-body_fingerprint: "1dc4c94d893a80b37f1ca38407650844ab8417408815eda3222b6d73cdcbfa79"
+body_fingerprint: "14589ed77c1e31951d8473fcda39f8dbf17fc3b8c4fbae24acb08ab83785d337"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -191,7 +191,13 @@ According to 2011 census, Muslims are 14.2 per cent of India’s population and 
 
 > [table] I. Access to Basic Amenities, 2008–2009
 
-Religious Community Pucca House Electricity Tap Water Hindu 65.4 75.2 43.7 Muslim 63.8 67.5 35.8 Christian 69.3 86.2 48.0 Sikh 91.3 96.0 49.3 All Hindus Muslims Christians Sikhs Buddhists Jains 74 63 57 74 67 71 86 Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)
+Religious Community Pucca House Electricity Tap Water Hindu 65.4 75.2 43.7
+
+Muslim 63.8 67.5 35.8
+
+Christian 69.3 86.2 48.0
+
+Sikh 91.3 96.0 49.3
 
 > [caption] Source: India Human Development Report 2011: Towards Social Inclusion, Oxford University Press for Institute of Applied Manpower Research, Planning Commission, Government of India, New Delhi, p. 346, 389, 392.
 
@@ -201,11 +207,15 @@ Religious Community Pucca House Electricity Tap Water Hindu 65.4 75.2 43.7 Musli
 
 > [table] II. Literacy Rate by Religion, 2011 (percentages)
 
+All Hindus Muslims Christians Sikhs Buddhists Jains 74 63 57 74 67 71 86
+
 > [caption] Source: Census of India 2011
 
 > [table] Which of these communities have the highest and the lowest literacy rate?
 
 > [table] III. Public Employment of Muslims (percentages)
+
+Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)
 
 13.5 3 4 1.8 3.3 10.8 2.2
 

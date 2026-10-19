@@ -10,14 +10,14 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch06.pdf"
 source_sha256: "da30a83b4063c2541ad255d05f299cab289946cb0b1699fdbb6a67d163b07031"
 pdf_pages: 16
 printed_pages: "65-80"
-body_fingerprint: "a270c7773354b9b5a0ba0864211e753c712feb72626d269c0c2130b6d6e587bb"
+body_fingerprint: "6d1ae0f9f0067d79d329c19018bcd9100fb09a632150621c5c79a5cbb145d311"
 ---
 
 <!-- page 65 (pdf 1) -->
 
 # Weavers, Iron Smelters and Factory Owners
 
-> [caption] Fig. 1 Fig. 1 – Trading ships on the port of Surat in the seventeenth century
+> [caption] Fig. 1 – Trading ships on the port of Surat in the seventeenth century
 
 Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
 
@@ -41,7 +41,7 @@ There are many other words which point to the popularity of Indian textiles in W
 
 The order that year was for 5,89,000 pieces of cloth. Browsing through the order book you would have seen a list of 98 varieties of cotton and silk cloths. These were known by their common name in the European trade as piece goods – usually woven cloth pieces that were 20 yards long and 1 yard wide.
 
-> [caption] Fig. 2 Fig. 2 – Patola weave, mid-nineteenth century Patola was woven in Surat, Ahmedabad and Patan. Highly valued in Indonesia, it became part of the local weaving tradition there.
+> [caption] Fig. 2 – Patola weave, mid-nineteenth century Patola was woven in Surat, Ahmedabad and Patan. Highly valued in Indonesia, it became part of the local weaving tradition there.
 
 <!-- page 67 (pdf 3) -->
 
@@ -49,9 +49,9 @@ Now look at the names of the different varieties of cloth in the book. Amongst t
 
 Similarly, the word bandanna now refers to any brightly coloured and printed scarf for the neck or head. Originally, the term derived from the word
 
-> [caption] Fig. 3 Fig. 3 – A page from an order book of the East India Company, 1730 Notice how each item in the order book was carefully priced in London. These orders had to be placed two years in advance because this was the time required to send orders to India, get the specific cloths woven and shipped to Britain. Once the cloth pieces arrived in London they were put up for auction and sold.
+> [caption] Fig. 3 – A page from an order book of the East India Company, 1730 Notice how each item in the order book was carefully priced in London. These orders had to be placed two years in advance because this was the time required to send orders to India, get the specific cloths woven and shipped to Britain. Once the cloth pieces arrived in London they were put up for auction and sold.
 
-> [caption] Fig. 4 Fig. 4 – Jamdani weave, early twentieth century Jamdani is a fine muslin on which decorative motifs are woven on the loom, typically in grey and white. Often a mixture of cotton and gold thread was used, as in the cloth in this picture. The most important centres of jamdani weaving were Dacca in Bengal and Lucknow in the United Provinces.
+> [caption] Fig. 4 – Jamdani weave, early twentieth century Jamdani is a fine muslin on which decorative motifs are woven on the loom, typically in grey and white. Often a mixture of cotton and gold thread was used, as in the cloth in this picture. The most important centres of jamdani weaving were Dacca in Bengal and Lucknow in the United Provinces.
 
 <!-- page 68 (pdf 4) -->
 
@@ -59,9 +59,9 @@ Similarly, the word bandanna now refers to any brightly coloured and printed sca
 
 There were other cloths in the order book that were noted by their place of origin: Kasimbazar, Patna, Calcutta, Orissa, Charpoore. The widespread use of such words shows how popular Indian textiles had become in different parts of the world.
 
-> [caption] Fig. 5 Fig. 5 – Printed design on fine cloth (chintz) produced in Masulipatnam, Andhra Pradesh, mid-nineteenth century This is a fine example of the type of chintz produced for export to Iran and Europe.
+> [caption] Fig. 5 – Printed design on fine cloth (chintz) produced in Masulipatnam, Andhra Pradesh, mid-nineteenth century This is a fine example of the type of chintz produced for export to Iran and Europe.
 
-> [caption] Fig. 6 Fig. 6 – Bandanna design, early twentieth century Notice the line that runs through the middle. Do you know why? In this odhni, two tie-and-dye silk pieces are seamed together with gold thread embroidery. Bandanna patterns were mostly produced in Rajasthan and Gujarat.
+> [caption] Fig. 6 – Bandanna design, early twentieth century Notice the line that runs through the middle. Do you know why? In this odhni, two tie-and-dye silk pieces are seamed together with gold thread embroidery. Bandanna patterns were mostly produced in Rajasthan and Gujarat.
 
 <!-- page 69 (pdf 5) -->
 
@@ -79,7 +79,7 @@ Activity Why do you think the Act was called the Calico Act? What does the name 
 
 Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
 
-> [caption] Fig. 7 Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century
+> [caption] Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century
 
 > [table] As European trade expanded, trading settlements were established at various ports. The Dutch settlements in Cochin came up in the seventeenth century. Notice the fortification around the settlement.
 
@@ -87,7 +87,7 @@ Spinning Jenny – A machine by which a single worker could operate several spin
 
 Where were the major centres of weaving in the late eighteenth century?
 
-> [caption] Fig. 8 Fig. 8 – Weaving centres: 1500-1750
+> [caption] Fig. 8 – Weaving centres: 1500-1750
 
 If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
 
@@ -103,11 +103,13 @@ Weavers often belonged to communities that specialised in weaving. Their skills 
 
 The first stage of production was spinning – a work done mostly by women. The charkha and the takli were household spinning instruments. The thread was spun on the charkha and rolled on the takli. When the spinning was over the thread was woven into cloth by the weaver. In most communities weaving was a task done by men. For coloured textiles, the thread was dyed by the dyer, known as rangrez. For printed cloth the weavers needed the help of specialist block printers known as chhipigars. Handloom weaving and the occupations associated with it provided livelihood for millions of Indians.
 
-> [caption] Fig. 9 Fig. 9 – A tanti weaver of Bengal, painted by the Belgian painter Solvyns in the 1790s
+> [caption] Fig. 9 – A tanti weaver of Bengal, painted by the Belgian painter Solvyns in the 1790s
 
 > [table] The tanti weaver here is at work in the pit loom. Do you know what a pit loom is?
 
-The decline of Indian textiles The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
+### The decline of Indian textiles
+
+The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
 
 Aurang – A Persian term for a warehouse – a place where goods are collected before being sold; also refers to a workshop By the beginning of the nineteenth century, English-made cotton textiles successfully ousted Indian goods from their traditional markets in Africa, America and Europe. Thousands of weavers in India were now thrown out of employment. Bengal weavers were the worst hit. English and European companies stopped buying Indian goods and their agents no longer gave out
 
@@ -155,13 +157,15 @@ You must have heard of Sholapur in western India and Madura in South India. Thes
 
 What happened to the weavers and spinners who lost their livelihood? Many weavers became agricultural labourers. Some migrated to cities in search of work, and yet others went out of the country to work in plantations in Africa and South America. Some of these handloom weavers also found work in the new cotton mills that were established in Bombay (now Mumbai), Ahmedabad, Sholapur, Nagpur and Kanpur.
 
-Cotton mills come up The first cotton mill in India was set up as a spinning mill in Bombay in 1854. From the early nineteenth century, Bombay had grown as an important port for the export of raw cotton from India to England and China. It was close to the vast black soil tract of western India where cotton was grown. When the cotton textile mills came up they could get supplies of raw material with ease.
+### Cotton mills come up
 
-> [caption] Fig. 10 Fig. 10 – Workers in a cotton factory, circa 1900, photograph by Raja Deen Dayal Most workers in the spinning departments were women, while workers in the weaving departments were mostly men.
+The first cotton mill in India was set up as a spinning mill in Bombay in 1854. From the early nineteenth century, Bombay had grown as an important port for the export of raw cotton from India to England and China. It was close to the vast black soil tract of western India where cotton was grown. When the cotton textile mills came up they could get supplies of raw material with ease.
+
+> [caption] Fig. 10 – Workers in a cotton factory, circa 1900, photograph by Raja Deen Dayal Most workers in the spinning departments were women, while workers in the weaving departments were mostly men.
 
 <!-- page 74 (pdf 10) -->
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Fig. 11 Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
 
 By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
@@ -185,11 +189,11 @@ Activity Why would the iron and steel making industry be affected by the defeat 
 
 Bellows – A device or equipment that can pump air Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
 
-> [caption] Fig. 12 Fig. 12 – Iron smelters of Palamau, Bihar
+> [caption] Fig. 12 – Iron smelters of Palamau, Bihar
 
 <!-- page 76 (pdf 12) -->
 
-> [caption] Fig. 13 Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
+> [caption] Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
 
 > [table] Source 3
 
@@ -203,7 +207,7 @@ One reason was the new forest laws that you have read about (Chapter 4). When th
 
 According to a report of the Geological Survey of India:
 
-Iron smelting was at one time a widespread industry in India and there is hardly a district away from the great alluvial tracts of the Indus, Ganges and Brahmaputra, in which slag heaps slag heaps are not found. For the primitive iron smelter finds no difficulty in obtaining sufficient supplies of ore from deposits that no European ironmaster would regard as worth his serious consideration.
+Iron smelting was at one time a widespread industry in India and there is hardly a district away from the great alluvial tracts of the Indus, Ganges and Brahmaputra, in which slag heaps are not found. For the primitive iron smelter finds no difficulty in obtaining sufficient supplies of ore from deposits that no European ironmaster would regard as worth his serious consideration.
 
 In some areas the government did grant access to the forest. But the iron smelters had to pay a very high tax to the forest department for every furnace they used. This reduced their income.
 
@@ -213,7 +217,9 @@ By the early twentieth century, the artisans producing iron and steel faced a ne
 
 <!-- page 77 (pdf 13) -->
 
-Iron and steel factories come up in India The year was 1904. In the hot month of April, Charles Weld, an American geologist and Dorabji Tata, the eldest son of Jamsetji Tata, were travelling in Chhattisgarh in search of iron ore deposits. They had spent many months on a costly venture looking for sources of good iron ore to set up a modern iron and steel plant in India. Jamsetji Tata had decided to spend a large part of his fortune to build a big iron and steel industry in India. But this could not be done without identifying the source of fine quality iron ore.
+### Iron and steel factories come up in India
+
+The year was 1904. In the hot month of April, Charles Weld, an American geologist and Dorabji Tata, the eldest son of Jamsetji Tata, were travelling in Chhattisgarh in search of iron ore deposits. They had spent many months on a costly venture looking for sources of good iron ore to set up a modern iron and steel plant in India. Jamsetji Tata had decided to spend a large part of his fortune to build a big iron and steel industry in India. But this could not be done without identifying the source of fine quality iron ore.
 
 One day, after travelling for many hours in the forests, Weld and Dorabji came upon a small village and found a group of men and women carrying basketloads of iron ore. These people were the Agarias. When asked where they had found the iron ore, the Agarias pointed to a hill in the distance. Weld and Dorabji reached the hill after an exhausting trek through dense forests. On exploring the hill the geologist declared that they had at last found what they had been looking for. Rajhara Hills had one of the finest ores in the world.
 
@@ -223,7 +229,7 @@ A few years later a large area of forest was cleared on the banks of the river S
 
 TISCO was set up at an opportune time. All through the late nineteenth century, India was importing steel that was manufactured in Britain. Expansion of the railways in India Slag heaps – The waste left when smelting metal had provided a huge market for rails that Britain produced. For a long while, British experts in the Indian Railways were unwilling to believe that good quality steel could be produced in India.
 
-> [caption] Fig. 14 Fig. 14 – The Tata Iron and Steel factory on the banks of the river Subarnarekha, 1940
+> [caption] Fig. 14 – The Tata Iron and Steel factory on the banks of the river Subarnarekha, 1940
 
 <!-- page 78 (pdf 14) -->
 
@@ -231,7 +237,7 @@ By the time TISCO was set up the situation was changing. In 1914 the First World
 
 In the case of iron and steel, as in the case of cotton textiles, industrial expansion occurred only when British imports into India declined and the market for Indian industrial goods increased. This happened during the First World War and after. As the nationalist movement developed and the industrial class became stronger, the demand for government protection became louder. Struggling to retain its control over India, the British government had to concede many of these demands in the last decades of colonial rule.
 
-> [caption] Fig. 15 Fig. 15 – Expansion at the end of the war To meet the demands of the war, TISCO had to expand its capacity and extend the size of its factory. The programme of expansion continued after the war. Here you see new powerhouses and boiler houses being built in Jamshedpur in 1919.
+> [caption] Fig. 15 – Expansion at the end of the war To meet the demands of the war, TISCO had to expand its capacity and extend the size of its factory. The programme of expansion continued after the war. Here you see new powerhouses and boiler houses being built in Jamshedpur in 1919.
 
 <!-- page 79 (pdf 15) -->
 

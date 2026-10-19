@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch05.pdf"
 source_sha256: "0b338cf2619ad4cc9bd853be5c04389977c968a8ba77553679a90e4d63792290"
 pdf_pages: 13
 printed_pages: "51-63"
-body_fingerprint: "4a4d3f19cb16522245e37b6c3ffb99f7bef27ea8e93015be14045623680c9130"
+body_fingerprint: "570155acbaca24f03e9551b6cb1cc844f693e9d8f41c05af02c387332cb3c5a3"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -23,7 +23,9 @@ body_fingerprint: "4a4d3f19cb16522245e37b6c3ffb99f7bef27ea8e93015be14045623680c9
 
 In the previous chapters you looked at the policies of the East India Company and the effect they had on different people. Kings, queens, peasants, landlords, tribals, soldiers were all affected in different ways. You have also seen how people resist policies and actions that harm their interests or go against their sentiments.
 
-Nawabs lose their power Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
+### Nawabs lose their power
+
+Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
 
 Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Peshwa Baji Rao II, pleaded that he be given his father’s pension when the latter died. However, the Company, confident of its superiority and military powers, turned down these pleas.
 
@@ -47,7 +49,9 @@ Activity Imagine you are a sepoy in the Company army, advising your nephew not t
 
 <!-- page 53 (pdf 3) -->
 
-Responses to reforms The British believed that Indian society had to be reformed. Laws were passed to stop the practice of sati and to encourage the remarriage of widows. English-language education was actively promoted. After 1830, the Company allowed Christian missionaries to function freely in its domain and even own land and property. In 1850, a new law was passed to make conversion to Christianity easier. This law allowed an Indian who had converted to Christianity to inherit the property of his ancestors. Many Indians began to feel that the British were destroying their religion, their social customs and their traditional way of life.
+### Responses to reforms
+
+The British believed that Indian society had to be reformed. Laws were passed to stop the practice of sati and to encourage the remarriage of widows. English-language education was actively promoted. After 1830, the Company allowed Christian missionaries to function freely in its domain and even own land and property. In 1850, a new law was passed to make conversion to Christianity easier. This law allowed an Indian who had converted to Christianity to inherit the property of his ancestors. Many Indians began to feel that the British were destroying their religion, their social customs and their traditional way of life.
 
 There were of course other Indians who wanted to change existing social practices. You will read about these reformers and reform movements in Chapter 7.
 
@@ -95,9 +99,11 @@ Activity 
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
-Mutiny – When soldiers as a group disobey their officers in the army From Meerut to Delhi On 29 March 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
+Mutiny – When soldiers as a group disobey their officers in the army On 29 March 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
 
 <!-- page 56 (pdf 6) -->
+
+### From Meerut to Delhi
 
 The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
 
@@ -117,7 +123,9 @@ The Mughal dynasty had ruled over a very large part of the country. Most smaller
 
 The British had not expected this to happen. They thought the disturbance caused by the issue of the cartridges would die down. But Bahadur Shah Zafar’s decision to bless the rebellion changed the entire situation dramatically. Often when people see an alternative possibility they feel inspired and enthused. It gives them the courage, hope and confidence to act.
 
-The rebellion spreads After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
+### The rebellion spreads
+
+After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
 
 Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and fought the British along with Tantia Tope, the general of Nana Saheb.
 

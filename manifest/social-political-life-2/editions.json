@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "e7594ce333e40b3ce8d9abe37ba5c5463a758757277ede9c872ea71fd19eab34",
+      "fingerprint": "2e0c8e3df0ed88d1c5425b88adb0b2463404795612adfb44b6cb2a4d6a179678",
       "snapshots": [
         "2014-07-28"
       ],
@@ -30,7 +30,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c2f1",
+          "fingerprint": "7b963755e87939f2d8bb815ac27cd9b41ab603ce7ac9c62fdc34f4fdc2b60f8d",
           "role_counts": {
             "footer": 16,
             "h2": 4,
@@ -53,7 +53,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "11ba6b407bd84b0adcb1cce1314df0b70a8ebba2709f8ef2bee9ebbac8738cdc",
+          "fingerprint": "8134d6ccec17e923cd8a2322fd66af72b8a964b931d542799e4753024a6670ab",
           "role_counts": {
             "footer": 19,
             "h2": 3,
@@ -76,7 +76,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "30-41",
-          "fingerprint": "83de001f93e9befcde362f303dd29a9d060df552d4d8e4f001ae4607af3f8ed9",
+          "fingerprint": "e4890e9e0740ffb3c334679a45da9f1997ad896677602701164e9a6ff304f72c",
           "role_counts": {
             "h2": 2,
             "note": 40,
@@ -99,7 +99,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "42-53",
-          "fingerprint": "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9950",
+          "fingerprint": "5ba0f4a51e93445b89e0181c90687d4f46fb64a41f2893fc16fbffe8e8ec0376",
           "role_counts": {
             "h2": 4,
             "body": 34,
@@ -122,7 +122,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "54-67",
-          "fingerprint": "38ba49ae3985eed267a2b8aca12acb854df6ffd4e03a3a8736113ca639b3bfa9",
+          "fingerprint": "0b80a91d2b31d41e6a3fda8ac5047779955b00b9bdc13c60f17dcdd0c10c8b55",
           "role_counts": {
             "h2": 1,
             "note": 30,
@@ -145,7 +145,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "68-79",
-          "fingerprint": "73b8b4b7eb7e219b1c0acfe14713e0f006ca2f2b192fd94b80d9467006f291de",
+          "fingerprint": "af1ad9f36c2e7f82ab76a6478028c57b6f9b121c8833fbf62ecd531d0aabd57c",
           "role_counts": {
             "footer": 16,
             "h2": 4,
@@ -167,7 +167,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "80-91",
-          "fingerprint": "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda369468121b2",
+          "fingerprint": "1ab6ed7af7701bb078965d6f0a39729dfbf2104ef97941c2de3a13e64f5c6b81",
           "role_counts": {
             "h2": 2,
             "note": 29,
@@ -212,7 +212,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch09.pdf",
           "pdf_pages": 10,
           "printed_pages": "104-113",
-          "fingerprint": "20ee861602b1938a22f2e2a2e114c29129e71814a64a5e6a9a22221eddce380d",
+          "fingerprint": "f1b5ed4abb4422c1fc942cbb36258d5f4cb645171fe21850d5363a187ca47126",
           "role_counts": {
             "h2": 1,
             "note": 33,
@@ -235,7 +235,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch10.pdf",
           "pdf_pages": 8,
           "printed_pages": "114-121",
-          "fingerprint": "47d90ab8f715d00030f094dc3ddec03257fd9ca2749ee6e0ee957c9f22f87915",
+          "fingerprint": "2cefc6cac2a7c97e5f11f3aa68aa23cdb2692668968f1e38d3c209e4cec439a4",
           "role_counts": {
             "h2": 1,
             "note": 16,
@@ -254,7 +254,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "d7bee23b02c72c6973f866b844ea10be138172ebbd7d0d2904c0d072fe5f2fcd",
+      "fingerprint": "e3537506cea636dd35fc309915cd169cead3cc7141eef7d93a5bac76b569e661",
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16"
@@ -281,7 +281,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c2f1",
+          "fingerprint": "7b963755e87939f2d8bb815ac27cd9b41ab603ce7ac9c62fdc34f4fdc2b60f8d",
           "role_counts": {
             "footer": 16,
             "h2": 4,
@@ -304,7 +304,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch02.pdf",
           "pdf_pages": 12,
           "printed_pages": "18-29",
-          "fingerprint": "7b51101b4787cd93f51d24188c287b6610e547c2a6638de294e7b83b434dee6a",
+          "fingerprint": "c270b7d2be0d1bbb36d13ea6b7c89acdca35f95f9ee55202f25053bf083d2dd5",
           "role_counts": {
             "body": 59,
             "chapter-number": 1,
@@ -326,14 +326,14 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "30-41",
-          "fingerprint": "ad34b672eba2bfddfc0d481fc6c76c0f58f9617e0f994447c552e73ffbe8cf7d",
+          "fingerprint": "5ff244b6bdec4060615b8520996aa94049ac37561aab1605593b115c52ecb3ae",
           "role_counts": {
             "h2": 2,
-            "body": 63,
+            "body": 62,
             "chapter-number": 1,
             "caption": 55,
             "footer": 25,
-            "table": 46,
+            "table": 47,
             "note": 1
           },
           "ocr": false,
@@ -349,7 +349,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "42-53",
-          "fingerprint": "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9950",
+          "fingerprint": "5ba0f4a51e93445b89e0181c90687d4f46fb64a41f2893fc16fbffe8e8ec0376",
           "role_counts": {
             "h2": 4,
             "body": 34,
@@ -372,7 +372,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "54-67",
-          "fingerprint": "38ba49ae3985eed267a2b8aca12acb854df6ffd4e03a3a8736113ca639b3bfa9",
+          "fingerprint": "0b80a91d2b31d41e6a3fda8ac5047779955b00b9bdc13c60f17dcdd0c10c8b55",
           "role_counts": {
             "h2": 1,
             "note": 30,
@@ -395,7 +395,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "68-79",
-          "fingerprint": "73b8b4b7eb7e219b1c0acfe14713e0f006ca2f2b192fd94b80d9467006f291de",
+          "fingerprint": "af1ad9f36c2e7f82ab76a6478028c57b6f9b121c8833fbf62ecd531d0aabd57c",
           "role_counts": {
             "footer": 16,
             "h2": 4,
@@ -417,7 +417,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "80-91",
-          "fingerprint": "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda369468121b2",
+          "fingerprint": "1ab6ed7af7701bb078965d6f0a39729dfbf2104ef97941c2de3a13e64f5c6b81",
           "role_counts": {
             "h2": 2,
             "note": 29,
@@ -462,7 +462,7 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch09.pdf",
           "pdf_pages": 10,
           "printed_pages": "104-113",
-          "fingerprint": "20ee861602b1938a22f2e2a2e114c29129e71814a64a5e6a9a22221eddce380d",
+          "fingerprint": "f1b5ed4abb4422c1fc942cbb36258d5f4cb645171fe21850d5363a187ca47126",
           "role_counts": {
             "h2": 1,
             "note": 33,
@@ -504,7 +504,7 @@
     },
     {
       "id": "2019-05-04",
-      "fingerprint": "756139048de9d3b6e8b80ab9ec40ca330116ce6f435feeb2b01e817997bc112b",
+      "fingerprint": "22fc26b2a762f4cad66356a325e9dc50e472947a3119e383effc05a44c10d179",
       "snapshots": [
         "2019-05-04"
       ],
@@ -543,12 +543,12 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "5b2cf82e59f90d841f044bd8c5359ac0e0000ab7c96d4de86d262c02df8cdcfe",
+          "fingerprint": "8a68f9907d8495ea43a1ae57c82bdd2c20709a879ac51556810b809795078672",
           "role_counts": {
             "footer": 30,
             "h2": 4,
-            "body": 56,
-            "caption": 31,
+            "body": 55,
+            "caption": 32,
             "chapter-number": 1,
             "table": 71
           },
@@ -565,13 +565,13 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "511fe9f7526aa8ab747cf6e9bd2fc93922ec4a5545a02eed8e39839022ac2b79",
+          "fingerprint": "6d6fd419e7b8033174d928bcecb0ecf5bc46d6750153a927f9fadd7603e4f6e7",
           "role_counts": {
             "footer": 33,
             "h2": 3,
-            "body": 64,
+            "body": 62,
             "chapter-number": 1,
-            "caption": 30,
+            "caption": 32,
             "table": 62,
             "note": 2
           },
@@ -588,7 +588,7 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "30-41",
-          "fingerprint": "508f6672efdee86ca29d76c632c4f40e8b14e08c62b1732632d0d095a8844a40",
+          "fingerprint": "f32f95c1a77a8bbab07f53235d029fdcca3a8bea67b3bf486593cc50bf8d1606",
           "role_counts": {
             "h2": 2,
             "body": 65,
@@ -611,14 +611,14 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "42-53",
-          "fingerprint": "437268e2b84902911b25f0eb209d7d007c62119d435e037e75aa3e8fa07dd2fb",
+          "fingerprint": "f610c078c31b8a9df0954476c61c62254f7e100a9ba6b11a5edf2ef2752a8a0a",
           "role_counts": {
             "h2": 4,
             "footer": 25,
-            "body": 36,
+            "body": 35,
             "chapter-number": 1,
             "table": 87,
-            "caption": 25,
+            "caption": 26,
             "note": 1
           },
           "ocr": false,
@@ -634,13 +634,13 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "54-67",
-          "fingerprint": "e88ab9637534494c3d1bb64e996858289c7156e4e2e1ab878a2a0a134f523f4f",
+          "fingerprint": "d4473bd0571034821ebd3849cbc4cfe2bbff118ab4a39b0d0eb240bd85174395",
           "role_counts": {
             "h2": 1,
-            "body": 90,
+            "body": 89,
             "chapter-number": 1,
             "footer": 26,
-            "caption": 18,
+            "caption": 19,
             "table": 36
           },
           "ocr": false,
@@ -678,14 +678,14 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "80-91",
-          "fingerprint": "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0825",
+          "fingerprint": "49b279f31f782fcd62844b812d19e071a4a0cd62603f919f26a0c535fa5abcd6",
           "role_counts": {
             "footer": 28,
             "h2": 4,
-            "body": 52,
+            "body": 51,
             "chapter-number": 1,
             "table": 44,
-            "caption": 1
+            "caption": 2
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -700,13 +700,13 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "92-101",
-          "fingerprint": "c5a19b637d2e2e3c345d12eda54671b1f42b4030a8726dc6969a75cbd6e49ba1",
+          "fingerprint": "643b50a9c82b65e58e76a31bba59c56a629ad9285577d5a4b1f1b06162aa97a1",
           "role_counts": {
             "h2": 1,
-            "body": 61,
+            "body": 60,
             "chapter-number": 1,
             "footer": 23,
-            "caption": 31,
+            "caption": 32,
             "note": 7,
             "table": 24,
             "decoration": 2
@@ -724,14 +724,14 @@
           "pdf": "pdfs/social-political-life-2/2019-05-04/ch09.pdf",
           "pdf_pages": 11,
           "printed_pages": "102-112",
-          "fingerprint": "68f9bcf5b12216e6f00a960d8c41c20d303a02c1e1d4eb985717c5c44dc7c1fd",
+          "fingerprint": "31af1c45d42e7b53000ab5ab26db0ea7f6332b07e7ba60579d7439179c1037d6",
           "role_counts": {
             "h2": 2,
-            "body": 46,
+            "body": 44,
             "chapter-number": 1,
             "footer": 22,
             "table": 35,
-            "caption": 16
+            "caption": 18
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -743,7 +743,7 @@
     },
     {
       "id": "2020-05-08",
-      "fingerprint": "0757fc320e707419f6ccaac5c770c1a8c4d5a97ee0c8bcbf098d2dea1c139ba0",
+      "fingerprint": "13f5755d44f12fe629fe9a7887c65afa52c34ef136e012c47dd9ecd878d218a3",
       "snapshots": [
         "2020-05-08"
       ],
@@ -783,12 +783,12 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "65a97bc802ba04fd54399a0c232f1b38f00710509e509d7903d3242c18c3e50c",
+          "fingerprint": "af06e7a18c872719fc49391a329b40fabe1dc52bd09dd1fb081197318536fbce",
           "role_counts": {
             "footer": 30,
             "h2": 4,
-            "body": 56,
-            "caption": 31,
+            "body": 55,
+            "caption": 32,
             "chapter-number": 1,
             "table": 71
           },
@@ -805,13 +805,13 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "a4b73464999cdd12443fad8aa5608d522b5036a003cc82b922684b758f13d854",
+          "fingerprint": "d6e66186428adfddb00e7efef691ba03616dc52a1de5b66b637dcee873fd4c3f",
           "role_counts": {
             "footer": 33,
             "h2": 3,
-            "body": 64,
+            "body": 62,
             "chapter-number": 1,
-            "caption": 30,
+            "caption": 32,
             "table": 62,
             "note": 2
           },
@@ -828,7 +828,7 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "30-41",
-          "fingerprint": "508f6672efdee86ca29d76c632c4f40e8b14e08c62b1732632d0d095a8844a40",
+          "fingerprint": "f32f95c1a77a8bbab07f53235d029fdcca3a8bea67b3bf486593cc50bf8d1606",
           "role_counts": {
             "h2": 2,
             "body": 65,
@@ -851,14 +851,14 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "42-53",
-          "fingerprint": "437268e2b84902911b25f0eb209d7d007c62119d435e037e75aa3e8fa07dd2fb",
+          "fingerprint": "f610c078c31b8a9df0954476c61c62254f7e100a9ba6b11a5edf2ef2752a8a0a",
           "role_counts": {
             "h2": 4,
             "footer": 25,
-            "body": 36,
+            "body": 35,
             "chapter-number": 1,
             "table": 87,
-            "caption": 25,
+            "caption": 26,
             "note": 1
           },
           "ocr": false,
@@ -874,13 +874,13 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "54-67",
-          "fingerprint": "e88ab9637534494c3d1bb64e996858289c7156e4e2e1ab878a2a0a134f523f4f",
+          "fingerprint": "d4473bd0571034821ebd3849cbc4cfe2bbff118ab4a39b0d0eb240bd85174395",
           "role_counts": {
             "h2": 1,
-            "body": 90,
+            "body": 89,
             "chapter-number": 1,
             "footer": 26,
-            "caption": 18,
+            "caption": 19,
             "table": 36
           },
           "ocr": false,
@@ -918,14 +918,14 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "80-91",
-          "fingerprint": "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0825",
+          "fingerprint": "49b279f31f782fcd62844b812d19e071a4a0cd62603f919f26a0c535fa5abcd6",
           "role_counts": {
             "footer": 28,
             "h2": 4,
-            "body": 52,
+            "body": 51,
             "chapter-number": 1,
             "table": 44,
-            "caption": 1
+            "caption": 2
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -940,13 +940,13 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "92-101",
-          "fingerprint": "c5a19b637d2e2e3c345d12eda54671b1f42b4030a8726dc6969a75cbd6e49ba1",
+          "fingerprint": "643b50a9c82b65e58e76a31bba59c56a629ad9285577d5a4b1f1b06162aa97a1",
           "role_counts": {
             "h2": 1,
-            "body": 61,
+            "body": 60,
             "chapter-number": 1,
             "footer": 23,
-            "caption": 31,
+            "caption": 32,
             "note": 7,
             "table": 24,
             "decoration": 2
@@ -964,14 +964,14 @@
           "pdf": "pdfs/social-political-life-2/2020-05-08/ch09.pdf",
           "pdf_pages": 11,
           "printed_pages": "102-112",
-          "fingerprint": "68f9bcf5b12216e6f00a960d8c41c20d303a02c1e1d4eb985717c5c44dc7c1fd",
+          "fingerprint": "31af1c45d42e7b53000ab5ab26db0ea7f6332b07e7ba60579d7439179c1037d6",
           "role_counts": {
             "h2": 2,
-            "body": 46,
+            "body": 44,
             "chapter-number": 1,
             "footer": 22,
             "table": 35,
-            "caption": 16
+            "caption": 18
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -983,7 +983,7 @@
     },
     {
       "id": "2022-08-02-ocr",
-      "fingerprint": "90d77ec679d9fd97a0b5903efc2204937dd0ef36a64828e5cf7fc5c266143634",
+      "fingerprint": "c523439919149c41438d41f16cf57db80747e9f3b2731aa8f88af1c6c6fafe44",
       "snapshots": [
         "2022-08-02"
       ],
@@ -1026,13 +1026,13 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "85130db9f9f8be426edc6992ca75b2604a8680235c17544e545f8ffb7afc393c",
+          "fingerprint": "b46b00ca501638bff082e9c6f216f0a08d5b298e42f3cca01dc793f5dc62742d",
           "role_counts": {
             "table": 4,
-            "body": 61,
+            "body": 60,
             "footer": 24,
             "h2": 10,
-            "caption": 14,
+            "caption": 15,
             "note": 14
           },
           "ocr": true,
@@ -1049,14 +1049,14 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "16-29",
-          "fingerprint": "b6f3f68c779f78d39ea3adbd01f665559fc4cc5050255726115474e33902f76e",
+          "fingerprint": "cf4168d9bae1eeeb3216f2f4b218e77759ea02eea9287bdda12fc67580aa3f10",
           "role_counts": {
             "footer": 25,
             "table": 8,
-            "body": 101,
-            "caption": 13,
+            "body": 100,
+            "caption": 15,
             "h2": 3,
-            "note": 21
+            "note": 20
           },
           "ocr": true,
           "ocr_confidence": 95.2,
@@ -1072,7 +1072,7 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch03.pdf",
           "pdf_pages": 14,
           "printed_pages": "30-43",
-          "fingerprint": "38de19ac71c5c6e5285ba9ab80639ef354db1118535028571c22bdd6152d8232",
+          "fingerprint": "83c01ef353c80d9cd36b2a5191b2bf92a49382c7a4455e28237cfd468a717463",
           "role_counts": {
             "body": 82,
             "h2": 2,
@@ -1095,12 +1095,12 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "44-53",
-          "fingerprint": "a8dc26f1dbd15cdccd87968719af803af27bb1855452b333b1705ab8d686b482",
+          "fingerprint": "19c8bb00a515e1e244d5efec1a6f913e88b2122793b2b688e83469b6c3f4866d",
           "role_counts": {
             "h2": 3,
-            "body": 45,
+            "body": 44,
             "footer": 16,
-            "caption": 8,
+            "caption": 9,
             "note": 13,
             "table": 8
           },
@@ -1118,11 +1118,11 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "54-67",
-          "fingerprint": "690e29d1c18f93d50418da93baed69f22ce2c63a746ca5d6cf5cd203a85c7c39",
+          "fingerprint": "a15666d21558990376f9a47b6701825e407418bf224b6b574c719dd9529e03ce",
           "role_counts": {
             "h2": 4,
-            "caption": 12,
-            "body": 88,
+            "caption": 13,
+            "body": 87,
             "table": 4,
             "footer": 19,
             "note": 12
@@ -1141,7 +1141,7 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch06.pdf",
           "pdf_pages": 14,
           "printed_pages": "68-81",
-          "fingerprint": "d96d1c29a91b770bc8e5c37acea588d378288bda4c70e4ec5af500846e9591d9",
+          "fingerprint": "29caa5973786c0de25cbff3ddb66b44f86869dad06cc024ca8e191ecb43b949b",
           "role_counts": {
             "table": 5,
             "body": 78,
@@ -1164,11 +1164,11 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch07.pdf",
           "pdf_pages": 10,
           "printed_pages": "82-91",
-          "fingerprint": "3d42723e6a9f8298dc4251d462d888ceef2e67be9c730d823b89baffe6a67b36",
+          "fingerprint": "a70b83ac6a3d643842681a7c24b3ef46b2846927768aa69ba5a17ddc4203b50d",
           "role_counts": {
-            "caption": 9,
+            "caption": 10,
             "h2": 3,
-            "body": 62,
+            "body": 61,
             "footer": 16,
             "note": 10,
             "table": 3
@@ -1187,12 +1187,12 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch08.pdf",
           "pdf_pages": 10,
           "printed_pages": "92-101",
-          "fingerprint": "b15782f828e3ff7bdde8d425b4bf4f1fa7e45385a0d5cb9bef1094b95b3fc8b5",
+          "fingerprint": "f74931f3ed4650549885d4399ef0491dc1003fb0278c7b202e9dcb6f8c49a202",
           "role_counts": {
             "h2": 3,
-            "body": 69,
+            "body": 68,
             "table": 4,
-            "caption": 6,
+            "caption": 7,
             "note": 11,
             "footer": 19
           },
@@ -1210,13 +1210,13 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch09.pdf",
           "pdf_pages": 11,
           "printed_pages": "102-112",
-          "fingerprint": "735931a14e1bf84cecbb51f44625134580b8939b5f08399fb685d9157445b148",
+          "fingerprint": "3073a107e16595597c17ef8eac33226c775d891f2ca61fd05967949f5d901d0f",
           "role_counts": {
             "h2": 9,
-            "caption": 10,
-            "body": 68,
+            "caption": 12,
+            "body": 67,
             "footer": 19,
-            "note": 4,
+            "note": 3,
             "table": 3
           },
           "ocr": true,
@@ -1230,7 +1230,7 @@
     },
     {
       "id": "2023-12-23-rationalised",
-      "fingerprint": "62dc1421ce6fa560278902295075e93d983badeaab813d7df0c0f70d4d8a922b",
+      "fingerprint": "784234fd9604708a632a0e4c201ac75a992bed5efe4c9b59317bc4d2f3c634c4",
       "snapshots": [
         "2023-12-23"
       ],
@@ -1274,13 +1274,14 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch01.pdf",
           "pdf_pages": 8,
           "printed_pages": "2-9",
-          "fingerprint": "6c5e3165457a8f79c9d9be3024831e3f56bcb6d77b1252503c9c4a6731240313",
+          "fingerprint": "01682da3608ea84541a511081ec2dd0add0b1279c4be30c33b7249f40cc54edf",
           "role_counts": {
             "footer": 19,
             "h2": 4,
-            "body": 38,
+            "body": 37,
             "chapter-number": 1,
             "note": 27,
+            "caption": 1,
             "table": 1
           },
           "ocr": false,
@@ -1296,14 +1297,14 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "10-23",
-          "fingerprint": "3f1f66dc7b0c31d3aab0fe49152d3094e3d65075cdd9f9c4ecdf0f8efac588ef",
+          "fingerprint": "8af60d298d3f1db1609d8d090171b2e6d18ecd158a146de767347bfcc017570b",
           "role_counts": {
             "footer": 35,
             "h2": 3,
-            "body": 58,
+            "body": 56,
             "chapter-number": 1,
             "note": 25,
-            "caption": 31,
+            "caption": 33,
             "table": 37
           },
           "ocr": false,
@@ -1319,7 +1320,7 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "24-35",
-          "fingerprint": "fa087957b55770099481cf22ef06ed125213ae3c109efab813125bca6dada38d",
+          "fingerprint": "4e88fe9911d5adbebe53a5bb88a8ba2e2e301c3013280b6d935892731a569803",
           "role_counts": {
             "footer": 25,
             "h2": 2,
@@ -1342,14 +1343,14 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "36-47",
-          "fingerprint": "22eeb719fcbaa1623275890c433646dd5b976069e15e5eda1192abede372525d",
+          "fingerprint": "549e00b33b84904486331f1e1925a34eeaf19af4d90d10123a398f178c2ad8a4",
           "role_counts": {
             "h2": 4,
             "footer": 23,
-            "body": 35,
+            "body": 34,
             "note": 35,
             "chapter-number": 1,
-            "caption": 30,
+            "caption": 31,
             "table": 48
           },
           "ocr": false,
@@ -1365,14 +1366,14 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "48-61",
-          "fingerprint": "5b3c0c032ab7bafc6e2a20b62f4f6cce837bca076a284defc37212c73fa23465",
+          "fingerprint": "91ca4af63b72000b2474b467742e42557ebcbab87ea988e081766925043eddf0",
           "role_counts": {
             "footer": 28,
             "h2": 1,
             "note": 41,
             "chapter-number": 1,
-            "body": 86,
-            "caption": 12,
+            "body": 85,
+            "caption": 13,
             "table": 6
           },
           "ocr": false,
@@ -1410,15 +1411,15 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "74-85",
-          "fingerprint": "1b319c2a3b8a6002ce73be88609665aa5457683f4ead6556e25eb34c40210f81",
+          "fingerprint": "03f8768001621234254e5560197db6b517fc93aaaaa1332628799590e59a231d",
           "role_counts": {
             "h2": 4,
             "footer": 24,
-            "body": 47,
+            "body": 46,
             "note": 34,
             "chapter-number": 1,
             "decoration": 1,
-            "caption": 15
+            "caption": 16
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1433,15 +1434,15 @@
           "pdf": "pdfs/social-political-life-2/2023-12-23/ch08.pdf",
           "pdf_pages": 13,
           "printed_pages": "86-98",
-          "fingerprint": "9b4c4ab389b7550442b888b3e6e8741d08734bff1d57db27818cfd5cd133d4bd",
+          "fingerprint": "0258b2bb7915eeaf625bb97b99a7e9f0b3f974509e9820151ce412f5b6615618",
           "role_counts": {
             "footer": 25,
             "h2": 2,
             "note": 38,
             "chapter-number": 1,
-            "body": 54,
+            "body": 53,
             "table": 21,
-            "caption": 37,
+            "caption": 38,
             "decoration": 2
           },
           "ocr": false,
@@ -1454,7 +1455,7 @@
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "fd797f8644f401f7100a6f9a4b5dca9660610d40db5e8d06f00af1740b85503f",
+      "fingerprint": "747608eeab67763579e28924c8cb262cf9d400af0a20822c0e43d9f7d8748ef3",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-19"
@@ -1500,12 +1501,13 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch01.pdf",
           "pdf_pages": 8,
           "printed_pages": "2-9",
-          "fingerprint": "5b586d1b5aea7df976232c80640de1396928d905a61aa65edf4dcd4178ee64c1",
+          "fingerprint": "c8219fc4a13d1017df263f4ffeb4eceec784418657f9b46d47f81f2099b65974",
           "role_counts": {
             "footer": 13,
             "h2": 5,
-            "body": 40,
-            "table": 28
+            "body": 39,
+            "table": 28,
+            "caption": 1
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1522,13 +1524,13 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch02.pdf",
           "pdf_pages": 14,
           "printed_pages": "10-23",
-          "fingerprint": "3038936ef139eeb08d7be6b7df32e66c26222b34f94fdb1dc85c660a756a25e8",
+          "fingerprint": "3f6f0e500d07f119c0f3e8267c6ed665ddb8f13daca5fa9f6ff7fbbe858d3a0f",
           "role_counts": {
             "footer": 25,
             "h2": 3,
-            "body": 72,
+            "body": 70,
             "chapter-number": 1,
-            "caption": 31,
+            "caption": 33,
             "table": 55,
             "note": 2
           },
@@ -1549,7 +1551,7 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch03.pdf",
           "pdf_pages": 12,
           "printed_pages": "24-35",
-          "fingerprint": "d9ea81851b004edc7142428101122e3925cbb59bca1956caee5a72d3f6c59553",
+          "fingerprint": "42a6084047e81049ba78473f4cdb01440bad95c0ecc46a022c96b2582c8a0d38",
           "role_counts": {
             "footer": 16,
             "h2": 2,
@@ -1572,14 +1574,14 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch04.pdf",
           "pdf_pages": 12,
           "printed_pages": "36-47",
-          "fingerprint": "4d78e0dcbf29ef4daea0c937548a2ed9a4b50b41045e4931eb747f397d328cac",
+          "fingerprint": "99f3fb489fb6ce13779619b4c5cb39c3d8a50ad12115431e2dc33bb44a126471",
           "role_counts": {
             "h2": 4,
-            "body": 36,
+            "body": 35,
             "footer": 15,
             "chapter-number": 1,
             "table": 82,
-            "caption": 30,
+            "caption": 31,
             "note": 1
           },
           "ocr": false,
@@ -1595,13 +1597,13 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch05.pdf",
           "pdf_pages": 14,
           "printed_pages": "48-61",
-          "fingerprint": "cd394b9221f6134f51ec101a465779b786a1b3ae82b6bf064c3fd92bad6d88b3",
+          "fingerprint": "119903325b1b9ecc35aea0f5f912190044234ac8531442f75c2593990574c53b",
           "role_counts": {
             "footer": 18,
             "h2": 1,
-            "body": 91,
+            "body": 90,
             "chapter-number": 1,
-            "caption": 18,
+            "caption": 19,
             "table": 36
           },
           "ocr": false,
@@ -1617,7 +1619,7 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch06.pdf",
           "pdf_pages": 12,
           "printed_pages": "62-73",
-          "fingerprint": "990ccf6c43701a8144d1fc40a88d7f66729ed0b350081565b5dc9c9338c7f007",
+          "fingerprint": "23cd5727b2589497c80fdd5040e685851584ea92952714f2fd4a41ba4bcfebc7",
           "role_counts": {
             "h2": 3,
             "body": 59,
@@ -1642,14 +1644,14 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch07.pdf",
           "pdf_pages": 12,
           "printed_pages": "74-85",
-          "fingerprint": "a21b170dd39dd7cfb8d5184e223cdc26094c1e792cb391b6c818c60f470591dd",
+          "fingerprint": "6b46b6e114506abbd5c9b899b8e785ff2ce62bb9a4fe87198e472675e8843fc6",
           "role_counts": {
             "h2": 4,
-            "body": 53,
+            "body": 52,
             "footer": 15,
             "chapter-number": 1,
             "table": 40,
-            "caption": 4
+            "caption": 5
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1664,13 +1666,13 @@
           "pdf": "pdfs/social-political-life-2/2024-05-24/ch08.pdf",
           "pdf_pages": 13,
           "printed_pages": "86-98",
-          "fingerprint": "95c12218e57bed5670d3d056131aace14d9a13f1ed7a19a236ba667a7352e77c",
+          "fingerprint": "0cc612d741549de03a3bd54d70866e60a08d4287ebb09b78e3a68b49fb7f53d1",
           "role_counts": {
             "footer": 18,
             "h2": 9,
-            "body": 56,
+            "body": 55,
             "chapter-number": 1,
-            "caption": 46,
+            "caption": 47,
             "note": 17,
             "table": 27,
             "h3": 2

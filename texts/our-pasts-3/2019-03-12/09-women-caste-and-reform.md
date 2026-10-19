@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch03.pdf"
 source_sha256: "b6da3bc354ec93f325e48339bab8bedab3e407b3723586473c6f2a587c6fdd76"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "c46150788c58a6e8130b332412c3740f8a55faa903c477afd41dd582f0a5db44"
+body_fingerprint: "06784b6c18b1d8b606cade6f1208c97fca5919c3594e85fb16864041e2fe8151"
 ---
 
 <!-- page 108 (pdf 1) -->
@@ -94,7 +94,9 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 > [caption] Fig. 5 Ishwarchandra Vidyasagar
 
-> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875 When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
+> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875
+
+> [caption] When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
 
 <!-- page 113 (pdf 6) -->
 
@@ -164,7 +166,9 @@ I n t h e B o m b a y Presidency, as late as 1829, untouchables were not allowed
 
 Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
 
-Demands for equality and justice Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
+### Demands for equality and justice
+
+Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 

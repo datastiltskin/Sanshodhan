@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch02.pdf"
 source_sha256: "95184a90157f48ee5e7b20b7a684a837d69d645736d57ae79c650209957caeec"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "a6e73f95830b91332b133fafef6f450f001860f0eeed17ad1701c2d97a72f8af"
+body_fingerprint: "d3641d4f2de9496d9a1106b983e20459a180521ec9496eda59190a35f7988870"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -39,7 +39,9 @@ The problem was that all the companies were interested in buying the same things
 
 This effort to fortify settlements and carry on profitable trade also led to intense conflict with local rulers. The company therefore found it difficult to separate trade from politics. Let us see how this happened.
 
-East India Company begins trade in Bengal The first English factory was set up on the banks of the river Hugli in 1651. This was the base from which the Company’s traders, known at that time as “factors”, operated. The factory had a warehouse where goods for export were stored, and it had offices where Company officials sat. As trade expanded, the Company persuaded merchants and traders to come and settle near the factory. By 1696, it began building a fort around the settlement. Two years later, it bribed Mughal officials into giving the Company zamindari rights over three villages. One of these was Kalikata, which later grew into the city of Calcutta or Kolkata as it is known today. It also persuaded the Mughal emperor Aurangzeb to issue a farman granting the Company the right to trade duty free.
+### East India Company begins trade in Bengal
+
+The first English factory was set up on the banks of the river Hugli in 1651. This was the base from which the Company’s traders, known at that time as “factors”, operated. The factory had a warehouse where goods for export were stored, and it had offices where Company officials sat. As trade expanded, the Company persuaded merchants and traders to come and settle near the factory. By 1696, it began building a fort around the settlement. Two years later, it bribed Mughal officials into giving the Company zamindari rights over three villages. One of these was Kalikata, which later grew into the city of Calcutta or Kolkata as it is known today. It also persuaded the Mughal emperor Aurangzeb to issue a farman granting the Company the right to trade duty free.
 
 The Company tried continuously to press for more concessions and manipulate existing privileges. Aurangzeb’s farman, for instance, had granted only the Company the right to trade duty free. But officials of the Company, who were carrying on private trade on the side, were expected to pay duty. This they refused to pay, causing an enormous loss of revenue for Bengal. How could the Nawab of Bengal, Murshid Quli Khan, not protest?
 
@@ -57,13 +59,17 @@ Did you know?
 
 > [note] Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
 
-How trade led to battles Through the early eighteenth century, the conflict between the Company and the nawabs of Bengal intensified. After the death of Aurangzeb, the Bengal nawabs asserted their power and autonomy, as other regional powers were doing at that time. Murshid Quli Khan was followed by Alivardi Khan and then Sirajuddaulah as the Nawab of Bengal. Each one of them was a strong ruler. They refused to grant the Company concessions, demanded large tributes for the Company’s right to trade, denied it any right to mint coins, and stopped it from extending its fortifications. Accusing the Company of deceit, they claimed that the Company was depriving the Bengal government of huge amounts of revenue and undermining the authority of the nawab. It was refusing to pay taxes, writing disrespectful letters, and trying to humiliate the nawab and his officials.
+### How trade led to battles
+
+Through the early eighteenth century, the conflict between the Company and the nawabs of Bengal intensified. After the death of Aurangzeb, the Bengal nawabs asserted their power and autonomy, as other regional powers were doing at that time. Murshid Quli Khan was followed by Alivardi Khan and then Sirajuddaulah as the Nawab of Bengal. Each one of them was a strong ruler. They refused to grant the Company concessions, demanded large tributes for the Company’s right to trade, denied it any right to mint coins, and stopped it from extending its fortifications. Accusing the Company of deceit, they claimed that the Company was depriving the Bengal government of huge amounts of revenue and undermining the authority of the nawab. It was refusing to pay taxes, writing disrespectful letters, and trying to humiliate the nawab and his officials.
 
 The Company on its part declared that the unjust demands of the local officials were ruining the trade of the Company, and trade could flourish only if the duties were removed. It was also convinced that to expand trade, it had to enlarge its settlements, buy up villages, and rebuild its forts.
 
 The conflicts led to confrontations and finally culminated in the famous Battle of Plassey.
 
-The Battle of Plassey When Alivardi Khan died in 1756, Sirajuddaulah became the nawab of Bengal. The Company was worried about his power and keen on a puppet ruler who would willingly give trade concessions and other privileges. So it tried, though without success, to help one of Sirajuddaulah’s rivals become the nawab. An infuriated Sirajuddaulah asked the Company to stop meddling in the political affairs of his dominion, stop fortification, and pay the revenues. After negotiations failed, the Nawab marched with 30,000 soldiers to the English factory at Kassimbazar, captured the Company officials, locked the warehouse, disarmed all Englishmen, and blockaded English ships. Then he marched to Calcutta to establish control over the Company’s fort there.
+### The Battle of Plassey
+
+When Alivardi Khan died in 1756, Sirajuddaulah became the nawab of Bengal. The Company was worried about his power and keen on a puppet ruler who would willingly give trade concessions and other privileges. So it tried, though without success, to help one of Sirajuddaulah’s rivals become the nawab. An infuriated Sirajuddaulah asked the Company to stop meddling in the political affairs of his dominion, stop fortification, and pay the revenues. After negotiations failed, the Nawab marched with 30,000 soldiers to the English factory at Kassimbazar, captured the Company officials, locked the warehouse, disarmed all Englishmen, and blockaded English ships. Then he marched to Calcutta to establish control over the Company’s fort there.
 
 On hearing the news of the fall of Calcutta, Company officials in Madras sent forces under the command of Robert Clive, reinforced by naval fleets. Prolonged negotiations with the Nawab followed. Finally, in 1757, Robert Clive led the Company’s army against Sirajuddaulah at Plassey. One of the main reasons for the defeat of the Nawab was that the forces led by Mir Jafar, one of Sirajuddaulah’s commanders, never fought the battle. Clive had managed to secure his support by promising to make him nawab after crushing Sirajuddaulah.
 
@@ -103,7 +109,9 @@ What could the Company do? When Mir Jafar protested, the Company deposed him and
 
 Finally, in 1765 the Mughal emperor appointed the Company as the Diwan of the provinces of Bengal. The Diwani allowed the Company to use the vast revenue resources of Bengal. This solved a major problem that the Company had earlier faced. From the early eighteenth century, its trade with India had expanded. But it had to buy most of the goods in India with gold and silver imported from Britain. This was because at this time Britain had no goods to sell in India. The outflow of gold from Britain slowed after the Battle of Plassey, and entirely stopped after the assumption of Diwani. Now revenues from India could finance Company expenses. These revenues could be used to purchase cotton and silk textiles in India, maintain Company troops, and meet the cost of building the Company fort and offices at Calcutta.
 
-Company officials become “nabobs” What did it mean to be nawabs? It meant of course that the Company acquired more power and authority. But it also meant something else. Each company servant began to have visions of living like nawabs.
+### Company officials become “nabobs”
+
+What did it mean to be nawabs? It meant of course that the Company acquired more power and authority. But it also meant something else. Each company servant began to have visions of living like nawabs.
 
 <!-- page 15 (pdf 7) -->
 
@@ -153,7 +161,9 @@ Subservience – Submissiveness
 
 > [caption] James Mill (1832)
 
-Tipu Sultan – The “Tiger of Mysore” The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
+### Tipu Sultan – The “Tiger of Mysore”
+
+The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
 
 Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785, Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close Fig. 8 – Tipu Sultan relationship with the French in India, and modernised his army with their help.
 
@@ -165,7 +175,9 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned, the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
 
-> [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793 The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
+> [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793
+
+> [caption] The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
 > [note] The legend of Tipu
 
@@ -183,11 +195,15 @@ Confederacy – Alliance
 
 > [caption] Fig. 12 – A Statue of the Queen of Kitoor (Karnataka)
 
-War with the Marathas From the late eighteenth century, the Company also sought to curb and eventually destroy Maratha power. With their defeat in the Third Battle of Panipat in 1761, the Marathas’ dream of ruling from Delhi was shattered. They were divided into many states under different chiefs (sardars) belonging to dynasties such as Sindhia, Holkar, Gaikwad and Bhonsle. These chiefs were held together in a confederacy under a Peshwa (Principal Minister) who became its effective military and administrative head based in Pune. Mahadji Sindhia and Nana Phadnis were two famous Maratha soldiers and statesmen of the late eighteenth century.
+### War with the Marathas
+
+From the late eighteenth century, the Company also sought to curb and eventually destroy Maratha power. With their defeat in the Third Battle of Panipat in 1761, the Marathas’ dream of ruling from Delhi was shattered. They were divided into many states under different chiefs (sardars) belonging to dynasties such as Sindhia, Holkar, Gaikwad and Bhonsle. These chiefs were held together in a confederacy under a Peshwa (Principal Minister) who became its effective military and administrative head based in Pune. Mahadji Sindhia and Nana Phadnis were two famous Maratha soldiers and statesmen of the late eighteenth century.
 
 The Marathas were subdued in a series of wars. In the first war that ended in 1782 with the Treaty of Salbai, there was no clear victor. The Second Anglo-Maratha War (1803–05) was fought on different fronts, resulting in the British gaining Orissa and the territories north of the Yamuna river including Agra and Delhi. Finally, the Third Anglo-Maratha War of 1817–19 crushed Maratha power. The Peshwa was removed and sent away to Bithur near Kanpur with a pension. The Company now had complete control over the territories south of the Vindhyas.
 
-The claim to paramountcy It is clear from the above that from the early nineteenth century, the Company pursued an aggressive policy of territorial expansion. Under Lord Hastings (Governor-General from 1813 to 1823), a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states. In order to protect its interests, it was justified in annexing or threatening to annex any Indian kingdom. This view continued to guide later British policies as well.
+### The claim to paramountcy
+
+It is clear from the above that from the early nineteenth century, the Company pursued an aggressive policy of territorial expansion. Under Lord Hastings (Governor-General from 1813 to 1823), a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states. In order to protect its interests, it was justified in annexing or threatening to annex any Indian kingdom. This view continued to guide later British policies as well.
 
 This process, however, did not go unchallenged. For example, when the British tried to annex the small state of Kitoor (in Karnataka today), Rani Channamma took to arms and led an anti-British resistance movement. She was arrested in 1824 and died in prison in 1829. But Rayanna, a poor chowkidar of Sangoli in Kitoor, carried on the resistance. With popular support, he destroyed many British camps and records. He was caught and hanged by the British in 1830. You will read more about several cases of resistance later in the book.
 
@@ -195,7 +211,9 @@ This process, however, did not go unchallenged. For example, when the British tr
 
 In the late 1830s, the East India Company became worried about Russia. It imagined that Russia might expand across Asia and enter India from the north-west. Driven by this fear, the British now wanted to secure their control over the north-west. They fought a prolonged war with Afghanistan between 1838 and 1842, and established indirect Company rule there. Sind was taken over in 1843. Next in line was Punjab. But the presence of Maharaja Ranjit Singh held back the Company. After his death in 1839, two prolonged wars were fought with the Sikh kingdom. Ultimately, in 1849, Punjab was annexed.
 
-The Doctrine of Lapse The final wave of annexations occurred under Lord Dalhousie who was the Governor-General from 1848 to 1856. He devised a policy that came to be known as the Doctrine of Lapse. The doctrine declared that if an Indian ruler died without a male heir his kingdom would “lapse”, that is, become a part of Company territory. One kingdom after another was annexed simply by applying this doctrine: Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853) and Jhansi (1854).
+### The Doctrine of Lapse
+
+The final wave of annexations occurred under Lord Dalhousie who was the Governor-General from 1848 to 1856. He devised a policy that came to be known as the Doctrine of Lapse. The doctrine declared that if an Indian ruler died without a male heir his kingdom would “lapse”, that is, become a part of Company territory. One kingdom after another was annexed simply by applying this doctrine: Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853) and Jhansi (1854).
 
 Finally, in 1856, the Company also took over Awadh. This time the British had an added argument – they said they were “obliged by duty” to take over Awadh in order to free the people from the “misgovernment” of the Nawab! Enraged by the humiliating way in which the Nawab was deposed, the people of Awadh joined the great revolt that broke out in 1857.
 
@@ -243,7 +261,9 @@ Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviou
 
 The principal figure in an Indian district was the Collector. As the title suggests, his main job was to collect revenue and taxes and maintain law and order in his district with the help of judges, police officers and darogas. His office – the Collectorate – became the new centre of power and patronage that steadily replaced previous holders of authority.
 
-The Company army Colonial rule in India brought in some new ideas of administration and reform but its power rested on its military strength. The Mughal army was mainly composed of cavalry (sawars: trained soldiers on horseback) and infantry, that is, paidal (foot) soldiers. They were given training in archery (teer-andazi) and the use of the sword. The cavalry dominated the army and the Mughal state did not feel the need to have a large professionally trained infantry. The rural areas had a large number of armed peasants and the local zamindars often supplied the Mughals with paidal soldiers.
+### The Company army
+
+Colonial rule in India brought in some new ideas of administration and reform but its power rested on its military strength. The Mughal army was mainly composed of cavalry (sawars: trained soldiers on horseback) and infantry, that is, paidal (foot) soldiers. They were given training in archery (teer-andazi) and the use of the sword. The cavalry dominated the army and the Mughal state did not feel the need to have a large professionally trained infantry. The rural areas had a large number of armed peasants and the local zamindars often supplied the Mughals with paidal soldiers.
 
 A change occurred in the eighteenth century when Mughal successor states like Awadh and Benaras started recruiting peasants into their armies and training them as professional soldiers. The East India Company adopted the same method when it began recruitment for its own army, which came to be known as the sepoy army (from the Indian word sipahi, meaning soldier).
 
@@ -261,7 +281,9 @@ Thus the East India Company was transformed from a trading company to a territor
 
 By 1857, the Company came to exercise direct rule over about 63 per cent of the territory and 78 per cent of the population of the Indian subcontinent. Combined with its indirect influence on the remaining territory and population of the country, the East India Company had virtually the whole of India under its control.
 
-> [caption] Fig. 16 – A sawar of Bengal in the service of the Company, painted by an unknown Indian artist, 1780 After the battles with the Marathas and the Mysore rulers, the Company realised the importance of strengthening its cavalry force.
+> [caption] Fig. 16 – A sawar of Bengal in the service of the Company, painted by an unknown Indian artist, 1780
+
+> [caption] After the battles with the Marathas and the Mysore rulers, the Company realised the importance of strengthening its cavalry force.
 
 <!-- page 24 (pdf 16) -->
 

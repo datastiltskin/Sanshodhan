@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch03.pdf"
 source_sha256: "4e420932015a742948f0686c141e30201ccfde30049586359bd35cded764759d"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "c03bfc2d4813349f427073401b806c051140193c4556bfa8327f6d53f695a70c"
+body_fingerprint: "91465602b81fb461f0aab6b58037e40a26a534e1b8c4f01de50718604afad11d"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -105,7 +105,7 @@ The authors of tawarikh were learned men: secretaries, administrators, poets and
 
 <!-- page 33 (pdf 4) -->
 
-Keep the following additional details in mind: (1) the authors of tawarikh lived in cities (mainly Delhi) and hardly ever in villages. (2) They often wrote their histories for Sultans in the hope of rich rewards. (3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions gender distinctions gender distinctions. Their ideas were not shared by everybody.
+Keep the following additional details in mind: (1) the authors of tawarikh lived in cities (mainly Delhi) and hardly ever in villages. (2) They often wrote their histories for Sultans in the hope of rich rewards. (3) These authors advised rulers on the need to preserve an “ideal” social order based on birthright and gender distinctions. Their ideas were not shared by everybody.
 
 In 1236 Sultan Iltutmish’s daughter, Raziyya, became Sultan. The chronicler of the age, Minhaj-i Siraj, recognised that she was more able and qualified than all her brothers. But he was not comfortable at having a queen as ruler. Nor were the nobles happy at her attempts to rule independently. She was removed from the throne in 1240.
 
@@ -149,7 +149,7 @@ By the end of Muhammad Tughluq’s reign, 150 years after somewhat humble beginn
 
 <!-- page 36 (pdf 7) -->
 
-The The Masjid Masjid
+The Masjid
 
 A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-i jami or jama masjid) Muslims read their prayers (namaz) together. Members of the congregation choose the most respected, learned male as their leader (imam) for the rituals of prayer. He also delivers the sermon (khutba) during the Friday prayer.
 
@@ -223,17 +223,17 @@ Alauddin Khalji Muhammad Tughluq
 
 > [caption] Alauddin constructed a new garrison town named Siri for his soldiers. See Map 1.
 
-> [caption] Produce from the same area was collected as tax to feed feed the army. But to meet the need of the large number of soldiers the Sultan levied additional taxes. This coincided with famine in the area.
+> [caption] Produce from the same area was collected as tax to feed the army. But to meet the need of the large number of soldiers the Sultan levied additional taxes. This coincided with famine in the area.
 
-> [caption] The soldiers had to be fed fed fed. This was done through the produce collected as tax from lands between the Ganga and Yamuna. Tax was fixed at 50 per cent of the peasant’s yield.
+> [caption] The soldiers had to be fed. This was done through the produce collected as tax from lands between the Ganga and Yamuna. Tax was fixed at 50 per cent of the peasant’s yield.
 
 > [caption] Muhammad Tughluq also paid his soldiers cash salaries. But instead of controlling prices, he used a “token” currency, somewhat like present-day paper currency, but made out of cheap metals, not gold and silver. People in the fourteenth century did not trust these coins. They were very smart: they saved their gold and silver coins and paid all their taxes to the state with this token currency. This cheap currency could also be counterfeited easily.
 
-> [caption] The soldiers had to be paid paid paid. Alauddin chose to pay his soldiers salaries in cash rather than iqtas. The soldiers would buy their supplies from merchants in Delhi and it was thus feared that merchants would raise their prices. To stop this, Alauddin controlled the prices of goods in Delhi. Prices were carefully surveyed by officers, and merchants who did not sell at the prescribed rates were punished.
+> [caption] The soldiers had to be paid. Alauddin chose to pay his soldiers salaries in cash rather than iqtas. The soldiers would buy their supplies from merchants in Delhi and it was thus feared that merchants would raise their prices. To stop this, Alauddin controlled the prices of goods in Delhi. Prices were carefully surveyed by officers, and merchants who did not sell at the prescribed rates were punished.
 
-> [caption] Muhammad Tughluq’s administrative measures administrative measures were a failure. His campaign into Kashmir was a disaster. He then gave up his plans to invade Transoxiana and disbanded his large army. Meanwhile, his administrative measures created complications. The shifting of people to Daulatabad was resented. The raising of taxes and famine in the Ganga-Yamuna belt led to widespread rebellion. And finally, the “token” currency had to be recalled.
+> [caption] Muhammad Tughluq’s administrative measures were a failure. His campaign into Kashmir was a disaster. He then gave up his plans to invade Transoxiana and disbanded his large army. Meanwhile, his administrative measures created complications. The shifting of people to Daulatabad was resented. The raising of taxes and famine in the Ganga-Yamuna belt led to widespread rebellion. And finally, the “token” currency had to be recalled.
 
-> [caption] Alauddin’s administrative measures measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
+> [caption] Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
 
 <!-- page 42 (pdf 13) -->
 

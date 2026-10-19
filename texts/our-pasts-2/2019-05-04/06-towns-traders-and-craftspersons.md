@@ -134,7 +134,7 @@ Hampi is located in the Krishna-Tungabhadra basin, which formed the nucleus of t
 
 > [note] This is how a Portuguese traveller, Domingo Paes, described Hampi in the sixteenth century:
 
-> [source] … … at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.
+> [source] … at the entrance of the gate where those pass who come from Goa, this king has made within it a very strong city fortified with walls and towers; these walls are not like those of other cities, but are made of very strong masonry such as would be found in few other parts, and inside very beautiful rows of buildings made after their manner with flat roofs.
 
 > [note] Why do you think the city was fortified?
 

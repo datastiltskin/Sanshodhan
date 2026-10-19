@@ -16,13 +16,17 @@ Sra afar COU
 
 <!-- pdf page 2 -->
 
-First Edition February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941 PD 570 T RPS
+First Edition February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941
+
+PD 570 T RPS
 
 © National Council of Educational Research and Training, 2007
 
 ` 65.00
 
-Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Laxmi Print India, 519/1/23, Sansar Compound, Dilshad Garden Industrial Area, Shahdara, Delhi -110 095 ISBN 81-7450-672-1 Publication Team Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Bibash Kumar Das Manager Assistant Editor : Shashi Chadha Production Assistant : Om Prakash Cover, Layout Orijit Sen with Splash! Communications Illustrations Orijit Sen
+Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Laxmi Print India, 519/1/23, Sansar Compound, Dilshad Garden Industrial Area, Shahdara, Delhi -110 095
+
+ISBN 81-7450-672-1
 
 > [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
@@ -30,7 +34,17 @@ Printed on 80 GSM paper with NCERT watermark Published at the Publication Divisi
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+Publication Team
+
+Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Bibash Kumar Das Manager Assistant Editor: Shashi Chadha Production Assistant: Om Prakash Cover, Layout Orijit Sen with Splash! Communications Illustrations Orijit Sen
 
 <!-- pdf page 3 -->
 
@@ -354,16 +368,34 @@ Note: The Article 51A containing Fundamental Duties was inserted by the Constitu
 
 ## Contents
 
-Foreword ........................................................................... iii Introductory note for teachers .......................................... vii Teacher’s note on evaluation .............................................. x Chapter 1: On Equality ................................................... 4 Chapter 2: Role of the Government in Health ................ 18 Chapter 3: How the State Government Works ................ 30 Chapter 4: Growing up as Boys and Girls ...................... 44 Chapter 5: Women Change the World ........................... 54 Chapter 6: Understanding Media .................................. 70 Chapter 7: Markets Around Us ...................................... 82 Chapter 8: A Shirt in the Market ................................... 92 Chapter 9: Struggles for Equality ................................ 102 References .................................................................. 110
+Foreword ........................................................................... iii Introductory note for teachers .......................................... vii Teacher’s note on evaluation .............................................. x Chapter 1: On Equality ................................................... 4
 
 ### Unit One: Equality in Indian Democracy ........................ 2
 
 ### Unit Two: State Government ....................................... 16
 
+Chapter 2: Role of the Government in Health ................ 18
+
+Chapter 3: How the State Government Works ................ 30
+
 ### Unit Three: Gender...................................................... 42
+
+Chapter 4: Growing up as Boys and Girls ...................... 44
+
+Chapter 5: Women Change the World ........................... 54
 
 ### Unit Four: Media ........................................................ 68
 
+Chapter 6: Understanding Media .................................. 70
+
 ### Unit Five: Markets ...................................................... 80
 
+Chapter 7: Markets Around Us ...................................... 82
+
+Chapter 8: A Shirt in the Market ................................... 92
+
 ### Equality in Indian Democracy (continued)
+
+Chapter 9: Struggles for Equality ................................ 102
+
+References .................................................................. 110

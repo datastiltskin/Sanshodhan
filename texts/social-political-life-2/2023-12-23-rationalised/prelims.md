@@ -26,11 +26,15 @@ sta srfar COU
 
 <!-- pdf page 4 -->
 
-0764 – Social and Political Life–II Textbook for Class VII ISBN 81-7450-672-1 First Edition February 2007 Phalguna 1928 Reprinted February 2008, March 2009, January 2010, December 2010, January 2012, November 2012, November 2013, December 2014, January 2016, January 2017, December 2017, January 2019, January 2020, March 2021, August 2021 and November 2021 Revised Edition November 2022 Kartika 1944 PD 560T BS
+0764 – Social and Political Life–II Textbook for Class VII ISBN 81-7450-672-1
 
 > [caption] ALL RIGHTS RESERVED
 
+First Edition February 2007 Phalguna 1928
+
 > [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+
+Reprinted February 2008, March 2009, January 2010, December 2010, January 2012, November 2012, November 2013, December 2014, January 2016, January 2017, December 2017, January 2019, January 2020, March 2021, August 2021 and November 2021
 
 > [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
@@ -40,7 +44,17 @@ sta srfar COU
 
 > [caption] DIVISION, NCERT
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+Revised Edition November 2022 Kartika 1944
+
+> [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+PD 560T BS
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
 
 © National Council of Educational
 
@@ -50,19 +64,19 @@ Research and Training, 2007, 2022
 
 Publication Team
 
-Head, Publication : Anup Kumar Rajput Division
+Head, Publication: Anup Kumar Rajput Division
 
 ` 65.00
 
-Chief Production : Arun Chitkara Officer
+Chief Production: Arun Chitkara Officer
 
-Chief Business : Vipin Dewan Manager
+Chief Business: Vipin Dewan Manager
 
 Chief Editor (In charge) : Bijnan Sutar
 
-Assistant Editor : Shashi Chadha
+Assistant Editor: Shashi Chadha
 
-Production Assistant : Rajesh Pippal
+Production Assistant: Rajesh Pippal
 
 Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Nav Durga Offset Printers, 54/3-A, 54/2, Janta Nagar, Industrial Area, Garh Road, Meerut-250 002 (U.P.)
 
@@ -366,14 +380,30 @@ IN having and
 
 ## Contents
 
-Foreword ............................................................................ v Rationalisation of Content in the textbooks ...................... vii Introductory note for teachers ........................................... xi Teacher’s note on evaluation ............................................xiv Chapter 1: On Equality ................................................... 4 Chapter 2: Role of the Government in Health ................ 12 Chapter 3: How the State Government Works ................ 24 Chapter 4: Growing up as Boys and Girls ...................... 38 Chapter 5: Women Change the World ........................... 48 Chapter 6: Understanding Media .................................. 64 Chapter 7: Markets Around Us ...................................... 76 Chapter 8: A Shirt in the Market ................................... 86 References ....................................................................... 96
+Foreword ............................................................................ v Rationalisation of Content in the textbooks ...................... vii Introductory note for teachers ........................................... xi Teacher’s note on evaluation ............................................xiv Chapter 1: On Equality ................................................... 4
 
 ### Unit One: Equality in Indian Democracy ........................ 2
 
 ### Unit Two: State Government ....................................... 10
 
+Chapter 2: Role of the Government in Health ................ 12
+
+Chapter 3: How the State Government Works ................ 24
+
 ### Unit Three: Gender...................................................... 36
+
+Chapter 4: Growing up as Boys and Girls ...................... 38
+
+Chapter 5: Women Change the World ........................... 48
 
 ### Unit Four: Media ........................................................ 62
 
+Chapter 6: Understanding Media .................................. 64
+
 ### Unit Five: Markets ...................................................... 74
+
+Chapter 7: Markets Around Us ...................................... 76
+
+Chapter 8: A Shirt in the Market ................................... 86
+
+References ....................................................................... 96

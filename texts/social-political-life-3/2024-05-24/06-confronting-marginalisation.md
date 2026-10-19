@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2024-05-24/ch06.pdf"
 source_sha256: "38ad22705816585182357066b63a10dbfa60898eeec5d93df14894e1221a12bb"
 pdf_pages: 10
 printed_pages: "74-83"
-body_fingerprint: "1ccb16c1fabbc8044307d6901655e1fa5383acd1caa5bb9db8c12fbfbdf7f3ca"
+body_fingerprint: "bd8653d835e2c33b63134dc1bd5a5e5704b4327ef6b0b13fa9eaebbf1041a974"
 ---
 
 <!-- page 74 (pdf 1) -->
@@ -66,7 +66,9 @@ Promoting Social Justice As part of their effort to implement the Constitution, 
 
 > [caption] Be sure of it says the Mahari Chokha
 
-> [caption] Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99 Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other. She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.
+> [caption] Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99
+
+> [caption] Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other. She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.
 
 <!-- page 77 (pdf 4) -->
 
@@ -100,7 +102,9 @@ Those from Rathnam’s own caste were fearful of angering the powerful. Many wor
 
 The powerful castes decided to teach Rathnam a lesson. His community was ordered to ostracise him and his family, and everyone was told that no one should speak or do any work for them or with them. One night some men entered their part of the village and set his hut on fire. He managed to escape with his mother. Rathnam, then went to file a case in the local police station under the Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989. Other Dalit families still did not come out in his support as they were scared that a similar fate might await them if they spoke out. The case was picked up by the local media that led to many journalists visiting the village. Rathnam was written about as a symbol of Dalit action. The ritual was called off, but his family was forced to move out as they continued to be ostracised by the powerful castes in the village.
 
-The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.
+The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989
+
+Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.
 
 This Act was framed in 1989 in response to demands made by Dalits and others that the government must take seriously the ill treatment and humiliation Dalits and tribal groups face in an everyday sense. While such treatment had persisted for a long time, it had acquired a violent character in the late 1970s and 1980s. During this period, in parts of southern India, a number of assertive Dalit groups came into being and asserted their rights – they refused to perform their so-called caste duties and insisted on being treated equally; like Rathnam they refused to follow practices located in the humiliation and exploitation of Dalits. This resulted in the more powerful castes unleashing violence against them. In order to indicate to the government that untouchability was still being practised and in the most hideous manner, Dalit groups demanded new laws that would list the various sorts of violence against dalits and prescribe stringent punishment for those who indulge in them.
 

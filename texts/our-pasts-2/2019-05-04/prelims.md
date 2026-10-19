@@ -30,23 +30,43 @@ cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] ISBN 81-7450-724-8
 
-> [caption] First Edition April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935 December 2014 Pausa 1936 December 2015 Agrahayana 1937 December 2016 Agrahayana 1938 December 2017 Agrahayana 1939 January 2019 Pausa 1940 ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] First Edition
+
+> [caption] April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935 December 2014 Pausa 1936 December 2015 Agrahayana 1937 December 2016 Agrahayana 1938 December 2017 Agrahayana 1939 January 2019 Pausa 1940
+
+> [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 PD 485T RPS 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+> [caption] PD 485T RPS
+
+> [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
 
 > [caption] © National Council of Educational
 
 > [caption] Research and Training, 2007
 
-> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Publication Team
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+> [caption] Publication Team
 
 > [caption] ` 60.00
 
-> [caption] Head, Publication : M. Siraj Anwar Division Chief Editor : Shveta Uppal Chief Business : Gautam Ganguly Manager Chief Production : Arun Chitkara Officer Assistant Editor : Shashi Chadha Production Assistant : Prakash Veer Singh Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Pelican Press, C-118, Mayapuri Industrial Area, Phase II, New Delhi - 110 064 Arrt Creations Cartography Cartographic Designs Agency
+> [caption] Head, Publication: M. Siraj Anwar Division Chief Editor: Shveta Uppal Chief Business: Gautam Ganguly Manager Chief Production: Arun Chitkara Officer Assistant Editor: Shashi Chadha Production Assistant: Prakash Veer Singh Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Pelican Press, C-118, Mayapuri Industrial Area, Phase II, New Delhi - 110 064
+
+> [caption] Arrt Creations
+
+> [caption] Cartography
+
+> [caption] Cartographic Designs Agency
 
 <!-- page 20 (pdf 5) -->
 
@@ -64,9 +84,11 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 Director National Council of Educational
 
-Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE ACKNOWLEDGEMENTS This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
+Research and Training New Delhi 20 November 2006
 
 <!-- page 20 (pdf 7) -->
+
+TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -91,6 +113,10 @@ Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE 
 > [caption] MEMBER-COORDINATOR
 
 <!-- page 20 (pdf 8) -->
+
+ACKNOWLEDGEMENTS
+
+This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
 Professors J.S. Grewal, member of the NCERT Monitoring Committee and Muzaffar Alam of the University of Chicago commented on several chapters and very generously responded to all our queries. Professor Ebba Koch of the University of Vienna was kind enough to give us permission to use many of her photographs and illustrations. We are indebted to Dr. Meera Khare of PGDAV College, Delhi University, for her promptness in responding to our questions and providing us help with information and visuals.
 

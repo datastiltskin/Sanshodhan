@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch01.pdf"
 source_sha256: "46a81ac9db9b48736a3bd3f1104bb5d1c57878df43197b91ea4af4da502956ab"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "7939c493e9a8dbc82dd590b9a6389f8edc73cf5e43eeb2e1568521b9fe07b91d"
+body_fingerprint: "5904c6906655baad7761188f79fde598e5b2dbaaf68feddec9783dfc9ff67093"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -86,7 +86,9 @@ You will, however, find that all classes and groups did not experience these cha
 
 What sources do historians use in writing about the last 250 years of Indian history?
 
-Administration produces records One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
+### Administration produces records
+
+One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
 
 The British also felt that all important documents and letters needed to be carefully preserved. So they set up record rooms attached to all administrative institutions. The village tahsildar’s office, the collectorate, the commissioner’s office, the provincial secretariats, the lawcourts – all had their record rooms. Specialised institutions like archives and museums were also established to preserve important records.
 
@@ -112,7 +114,9 @@ Vizagapatnam: The position is completely under control and no violence has occur
 
 > [table] Director of Intelligence, HQ.
 
-> [table] India Command, Situation Report No. 7. File No. 5/21/46 Home (Political), Government of India
+> [table] India Command, Situation Report No. 7. File No. 5/21/46
+
+> [table] Home (Political), Government of India
 
 <!-- page 6 (pdf 6) -->
 
@@ -122,7 +126,9 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+### What official records do not tell
+
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 

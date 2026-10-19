@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch02.pdf"
 source_sha256: "08028e311cd9ad1e5bf2d90c6ff5132d6e0d1b18ad59c6ba74423301ca1dc901"
 pdf_pages: 12
 printed_pages: "18-29"
-body_fingerprint: "7b51101b4787cd93f51d24188c287b6610e547c2a6638de294e7b83b434dee6a"
+body_fingerprint: "c270b7d2be0d1bbb36d13ea6b7c89acdca35f95f9ee55202f25053bf083d2dd5"
 ---
 
 <!-- page 18 (pdf 1) -->
@@ -246,12 +246,12 @@ EXERCISES
 
 Glossary
 
-Public: Public: An activity or service that is meant for all people in the country and is mainly organised by the government. This includes schools, hospitals, telephone services, etc. People can demand these services and also raise questions about their non-functioning.
+Public: An activity or service that is meant for all people in the country and is mainly organised by the government. This includes schools, hospitals, telephone services, etc. People can demand these services and also raise questions about their non-functioning.
 
-> [table] Private: Private: An activity or service that is organised by an individual or company for their own profit.
+> [table] Private: An activity or service that is organised by an individual or company for their own profit.
 
-Medical tourists: Medical tourists: This refers to foreigners who come to this country specifically for medical treatment at hospitals that offer world–class facilities at a lower cost than what they would have to pay in their own countries.
+Medical tourists: This refers to foreigners who come to this country specifically for medical treatment at hospitals that offer world–class facilities at a lower cost than what they would have to pay in their own countries.
 
-> [table] Communicable diseases: Communicable diseases: These are diseases that are spread from one person to another in many ways such as through water, food , air, etc.
+> [table] Communicable diseases: These are diseases that are spread from one person to another in many ways such as through water, food , air, etc.
 
-> [table] OPD: OPD: This is the short form for ‘Out Patient Department’. This is where people are first brought in and treated in a hospital without being admitted to any special ward.
+> [table] OPD: This is the short form for ‘Out Patient Department’. This is where people are first brought in and treated in a hospital without being admitted to any special ward.

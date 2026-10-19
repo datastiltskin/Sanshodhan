@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch05.pdf"
 source_sha256: "ecb1e72d777c376f6b7598c84314315016339271d80831b42621a835cd28bb73"
 pdf_pages: 14
 printed_pages: "52-65"
-body_fingerprint: "130cc36cbeb95cf5b38317e2634babaa7dccf361e74e1c1dce41a0c5734dad6f"
+body_fingerprint: "d1594b18c62741f1d304de8d2c59e358b45d60940b312b3fffa8c2e6d97640d6"
 ---
 
 <!-- page 52 (pdf 1) -->
@@ -42,9 +42,9 @@ A glance at the newspaper provides you a glimpse of the range of work done by th
 
 Courts take decisions on a very large number of issues. They can decide that no teacher can beat a student, or about the sharing of river waters between states, or they can punish people for particular crimes. Broadly speaking, the work that the judiciary does can be divided into the following:
 
-Dispute Resolution: Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.
+Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.
 
-Judicial Review: Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution. This is called judicial review.
+Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution. This is called judicial review.
 
 Upholding the Law and Enforcing Fundamental Rights: Every citizen of India can approach the Supreme Court or the High Court if they believe that their Fundamental Rights have been violated. For example, in the Class VII book, you read about Hakim Sheikh, an agricultural labourer who fell from a running train and injured himself and whose condition got worse because several hospitals refused to admit him. On hearing his case, the Supreme Court ruled that Article 21 which provides every citizen the Fundamental Right to Life also includes the Right to Health. It, therefore, directed the West Bengal government to pay him compensation for the loss suffered as well as to come up with a blueprint for primary health care with particular reference to treatment of patients during an emergency [Paschim Banga Khet Mazdoor Samity vs State of West Bengal (1996)].
 
@@ -180,7 +180,11 @@ In a speech made on 26 November 2014, the Chief Justice of India K.G. Balakrishn
 
 Number of Judges in India
 
-No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3 B High Courts 984 635 349 C District and 19,421 15,039 ? Subordinate Courts
+No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3
+
+B High Courts 984 635 349
+
+C District and 19,421 15,039? Subordinate Courts
 
 * Data in A and B (as on 1 November 2014); C (as on 31 December 2013)
 

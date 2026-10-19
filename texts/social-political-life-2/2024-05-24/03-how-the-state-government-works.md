@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch03.pdf"
 source_sha256: "365d04b5f3c0f25e8ed6dcf4bbc8b1be18e4a0dfa787225dc7d046b9d50bd5cf"
 pdf_pages: 12
 printed_pages: "24-35"
-body_fingerprint: "d9ea81851b004edc7142428101122e3925cbb59bca1956caee5a72d3f6c59553"
+body_fingerprint: "42a6084047e81049ba78473f4cdb01440bad95c0ecc46a022c96b2582c8a0d38"
 ---
 
 <!-- page 24 (pdf 1) -->
@@ -48,7 +48,7 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to
+> [caption] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to
 
 > [table] bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
@@ -84,9 +84,23 @@ government. In this way we say that the MLAs represent people. The example below
 
 Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 
-How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority. The political party that has the majority is called the ruling party and all other members are called the opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies. “nme and Kashmir Jammu and Kashmir Punjab Uttarakhand Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) ............................................................. 44 Indian National Congress (INC) ................................................... 21 Communist Party of India (Marxist)............................................... 1 Independents (who don’t belong to any party) .......................... 2 Total ................................................................................ 68 For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
+How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority. The political party that has the majority is called the ruling party and all other members are called the opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies. “name and Kashmir Jammu and Kashmir Punjab Uttarakhand Results of the Assembly Elections in Himachal Pradesh in 2017
 
 <!-- page 27 (pdf 4) -->
+
+Political party Number of MLAs elected
+
+Bharatiya Janata Party (BJP) ............................................................. 44
+
+Indian National Congress (INC) ................................................... 21
+
+Communist Party of India (Marxist)............................................... 1
+
+Independents (who don’t belong to any party) .......................... 2
+
+Total ................................................................................ 68
+
+For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
 
 > [table] Construct a table, similar to the one given for Himachal Pradesh, for your state.
 
@@ -120,13 +134,15 @@ MLA 4: I think my colleagues are exaggerating the problem. The government has ta
 
 MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
 
-MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 5 In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
+MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 5
 
 > [caption] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
 
 > [note] 3 4
 
 <!-- page 30 (pdf 7) -->
+
+In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
 
 Working of the government
 

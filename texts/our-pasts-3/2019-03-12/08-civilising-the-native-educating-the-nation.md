@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch02.pdf"
 source_sha256: "d53249402fae54c6e8d24c09b14a9a075e02e37f676cf64cd2983eace7c7cd99"
 pdf_pages: 13
 printed_pages: "95-107"
-body_fingerprint: "6a365bbf3987cafa7453b12fa48d4cc10564b9d290e0dfd9ada95dd71db28a05"
+body_fingerprint: "3ad2ba5a8cabda03a0bb4444a4de09007ecc6c82bdbcc3bb4d072470687d7313"
 ---
 
 <!-- page 95 (pdf 1) -->
@@ -132,7 +132,9 @@ The demand for moral education
 
 Do you have any idea of how children were taught in pre-British times? Have you ever wondered whether they went to schools? And if there were schools, what happened to these under British rule?
 
-The report of William Adam In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
+### The report of William Adam
+
+In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
 
 Adam found that there were over 1 lakh pathshalas in Bengal and Bihar. These were small institutions with no more than 20 students each. But the total number of children being taught in these pathshalas was considerable – over 20 lakh. These institutions were set up by wealthy people, or the local community. At times they were started by a teacher (guru).
 
@@ -170,7 +172,9 @@ British officials were not the only people thinking about education in India. Fr
 
 Let us look at what they had to say.
 
-“English education has enslaved us” Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
+### “English education has enslaved us”
+
+Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
 
 Mahatma Gandhi strongly felt that Indian languages ought to be the medium of teaching. Education in English crippled Indians, distanced them from their own social surroundings, and made them “strangers in their own lands”. Speaking a foreign tongue, despising local culture, the English educated did not know how to relate to the masses.
 

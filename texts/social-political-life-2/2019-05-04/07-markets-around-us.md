@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch07.pdf"
 source_sha256: "63e61e2ab7b5ac55bd44da38ed57384062ab8854f3deca3aa28607866464c790"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0825"
+body_fingerprint: "49b279f31f782fcd62844b812d19e071a4a0cd62603f919f26a0c535fa5abcd6"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -155,9 +155,11 @@ A car being put together in a factory.
 
 <!-- page 90 (pdf 11) -->
 
+this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
+
 Malls, like the one above, sell expensive and branded goods.
 
-Sustainable Development Goal (SDG) www.in.undp.org this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 91 (pdf 12) -->
 

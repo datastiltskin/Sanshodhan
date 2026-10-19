@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch07.pdf"
 source_sha256: "fb53b0a446c17e269953d0a89978af47ff32672bea79ca0721d5a5af6343c1a5"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "6e0ec4b7c2634fa39af89c2eee369d3da102fbb2cd4682c9745e1c1025294224"
+body_fingerprint: "9c8296bbbd98a897ea808bdb50e9dadea3e4b20d002eabe437f11fbe8e54cc82"
 ---
 
 <!-- page 91 (pdf 1) -->
@@ -93,7 +93,7 @@ Different castes of petty pedlars also travelled from village to village. They m
 
 As the economy and the needs of society grew, people with new skills were required. Smaller castes, or jatis, emerged within varnas. For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of jatis. Specialised artisans – smiths, carpenters and masons – were also recognised as separate jatis by the Brahmanas. Jatis, rather than varna, became the basis for organising society.
 
-Deliberations on Deliberations on jati jati Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries. They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others. Some of these, too, had been tribes earlier. Many of these clans came to be regarded as Rajputs. They gradually replaced the older rulers, especially in agricultural areas. Here a developed society was emerging, and rulers used their wealth to create powerful states.
+Deliberations on jati
 
 > [note] A twelfth-century inscription from Uyyakondan Udaiyar, in Tiruchirapalli taluka (in present-day Tamil Nadu), describes the deliberations in a sabha (Chapter 2) of Brahmanas.
 
@@ -102,6 +102,8 @@ Deliberations on Deliberations on jati jati Among the Kshatriyas, new Rajput cla
 > [caption] Fig. 4 Bronze crocodile, Kutiya Kond tribe, Orissa.
 
 <!-- page 97 (pdf 7) -->
+
+Among the Kshatriyas, new Rajput clans became powerful by the eleventh and twelfth centuries. They belonged to different lineages, such as Hunas, Chandelas, Chalukyas and others. Some of these, too, had been tribes earlier. Many of these clans came to be regarded as Rajputs. They gradually replaced the older rulers, especially in agricultural areas. Here a developed society was emerging, and rulers used their wealth to create powerful states.
 
 The rise of Rajput clans to the position of rulers set an example for the tribal people to follow. Gradually, with the support of the Brahmanas, many tribes became part of the caste system. But only the leading tribal families could join the ruling class. A large majority joined the lower jatis of caste society. On the other hand, many dominant tribes of Punjab, Sind and the North-West Frontier had adopted Islam quite early. They continued to reject the caste system. The unequal social order, prescribed by orthodox Hinduism, was not widely accepted in these areas.
 

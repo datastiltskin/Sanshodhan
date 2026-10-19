@@ -8,23 +8,25 @@
   "chapters_added": 0,
   "body": {
    "deleted": 39,
-   "inserted": 9,
-   "modified": 65,
+   "inserted": 10,
+   "modified": 53,
    "moved": 2,
    "typographic": 0,
-   "restreamed": 148,
+   "restreamed": 149,
+   "resplit": 1,
    "unreadable": 0,
    "punctuation": 0
   },
   "other_streams": {
-   "deleted": 41,
-   "inserted": 106,
-   "modified": 45,
+   "deleted": 36,
+   "inserted": 107,
+   "modified": 39,
    "moved": 13,
    "typographic": 0,
-   "restreamed": 68,
+   "restreamed": 70,
+   "resplit": 4,
    "unreadable": 0,
-   "punctuation": 3
+   "punctuation": 4
   },
   "suspect_pages": 0
  },
@@ -53,6 +55,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -151,6 +154,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1914,6 +1918,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -1940,6 +1945,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3219,6 +3225,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3370,6 +3377,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3383,6 +3391,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -3873,6 +3882,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4031,6 +4041,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4044,6 +4055,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4547,6 +4559,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -4628,11 +4641,12 @@
     "body": {
      "counts": {
       "deleted": 0,
-      "inserted": 2,
-      "modified": 1,
+      "inserted": 0,
+      "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5130,49 +5144,16 @@
        "new_pos": 40
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "body",
-       "similarity": 0.604,
+       "similarity": 1.0,
        "old": "1. that one religious community does not dominate another; 2. that some members do not dominate other members of the same religious community; 3. that the State does not enforce any particular religion nor take away the religious freedom of individuals.",
-       "new": "3. that the State does not enforce any particular religion nor take away the religious freedom of individuals.",
+       "new": "1. that one religious community does not dominate another; 2. that some members do not dominate other members of the same religious community; 3. that the State does not enforce any particular religion nor take away the religious freedom of individuals.",
        "old_page": 21,
        "new_page": 21,
-       "words": [
-        [
-         "-",
-         "1. that one religious community does not dominate another; 2. that some members do not dominate other members of the same religious community;"
-        ],
-        [
-         "=",
-         "3. that the State does not enforce any particular religion nor take away the religious freedom of individuals."
-        ]
-       ],
+       "words": [],
        "old_pos": 43,
-       "new_pos": 45
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "1. that one religious community does not dominate another;",
-       "old_page": null,
-       "new_page": 21,
-       "words": [],
-       "old_pos": null,
        "new_pos": 43
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "2. that some members do not dominate other members of the same religious community;",
-       "old_page": null,
-       "new_page": 21,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 44
       },
       {
        "type": "equal",
@@ -5724,6 +5705,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5737,6 +5719,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6117,8 +6100,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one one religion?",
-       "new": "Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one one religion?",
+       "old": "Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one religion?",
+       "new": "Re-read the three objectives of a secular State and write two sentences on why it is important that government schools do not promote any one religion?",
        "old_page": 23,
        "new_page": 23,
        "words": [],
@@ -6207,6 +6190,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6233,6 +6217,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6246,6 +6231,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6536,6 +6522,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6610,6 +6597,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6623,6 +6611,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6730,6 +6719,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -6840,6 +6830,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -7520,8 +7511,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "National Parties Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3 Grand Total 543 Once elected, these candidates become Members of Parliament or MPs.",
-       "new": "National Parties Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3 Grand Total 543 Once elected, these candidates become Members of Parliament or MPs.",
+       "old": "National Parties",
+       "new": "National Parties",
        "old_page": 35,
        "new_page": 35,
        "words": [],
@@ -7532,8 +7523,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These MPs together make up the Parliament.",
-       "new": "These MPs together make up the Parliament.",
+       "old": "Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3",
+       "new": "Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3",
        "old_page": 35,
        "new_page": 35,
        "words": [],
@@ -7544,8 +7535,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:",
-       "new": "Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:",
+       "old": "Grand Total 543",
+       "new": "Grand Total 543",
        "old_page": 35,
        "new_page": 35,
        "words": [],
@@ -7556,8 +7547,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A.",
-       "new": "A.",
+       "old": "Once elected, these candidates become Members of Parliament or MPs.",
+       "new": "Once elected, these candidates become Members of Parliament or MPs.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7568,8 +7559,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "To Select the National Government",
-       "new": "To Select the National Government",
+       "old": "These MPs together make up the Parliament.",
+       "new": "These MPs together make up the Parliament.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7580,8 +7571,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha.",
-       "new": "Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha.",
+       "old": "Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:",
+       "new": "Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7592,8 +7583,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party.",
-       "new": "After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party.",
+       "old": "A.",
+       "new": "A.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7604,8 +7595,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "For a political party to form the government, they must have a majority of elected MPs.",
-       "new": "For a political party to form the government, they must have a majority of elected MPs.",
+       "old": "To Select the National Government",
+       "new": "To Select the National Government",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7616,8 +7607,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more.",
-       "new": "Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more.",
+       "old": "Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha.",
+       "new": "Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7628,8 +7619,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed.",
-       "new": "The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed.",
+       "old": "After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party.",
+       "new": "After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7640,8 +7631,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The largest amongst these parties is called the Opposition party.",
-       "new": "The largest amongst these parties is called the Opposition party.",
+       "old": "For a political party to form the government, they must have a majority of elected MPs.",
+       "new": "For a political party to form the government, they must have a majority of elected MPs.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7652,8 +7643,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "One of the most important functions of the Lok Sabha is to select the executive.",
-       "new": "One of the most important functions of the Lok Sabha is to select the executive.",
+       "old": "Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more.",
+       "new": "Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7664,8 +7655,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The executive, as you read in Chapter 1, is a group of persons who work together to implement the laws made by the Parliament.",
-       "new": "The executive, as you read in Chapter 1, is a group of persons who work together to implement the laws made by the Parliament.",
+       "old": "The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed.",
+       "new": "The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7676,8 +7667,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This executive is often what we have in mind when we use the term government.",
-       "new": "This executive is often what we have in mind when we use the term government.",
+       "old": "The largest amongst these parties is called the Opposition party.",
+       "new": "The largest amongst these parties is called the Opposition party.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7688,8 +7679,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Prime Minister of India is the leader of the ruling party in the Lok Sabha.",
-       "new": "The Prime Minister of India is the leader of the ruling party in the Lok Sabha.",
+       "old": "One of the most important functions of the Lok Sabha is to select the executive.",
+       "new": "One of the most important functions of the Lok Sabha is to select the executive.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7700,8 +7691,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "From the MPs who belong to her party, the Prime Minister selects ministers to work with her to implement decisions.",
-       "new": "From the MPs who belong to her party, the Prime Minister selects ministers to work with her to implement decisions.",
+       "old": "The executive, as you read in Chapter 1, is a group of persons who work together to implement the laws made by the Parliament.",
+       "new": "The executive, as you read in Chapter 1, is a group of persons who work together to implement the laws made by the Parliament.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7712,8 +7703,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "These ministers then take charge of different areas of government functioning like health, education, finance etc.",
-       "new": "These ministers then take charge of different areas of government functioning like health, education, finance etc.",
+       "old": "This executive is often what we have in mind when we use the term government.",
+       "new": "This executive is often what we have in mind when we use the term government.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7724,8 +7715,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Often times in the recent past it has been difficult for a single political party to get the majority that is required to form the government.",
-       "new": "Often times in the recent past it has been difficult for a single political party to get the majority that is required to form the government.",
+       "old": "The Prime Minister of India is the leader of the ruling party in the Lok Sabha.",
+       "new": "The Prime Minister of India is the leader of the ruling party in the Lok Sabha.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7736,8 +7727,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They then join together with different political parties who are interested in similar concerns to form what is known as a coalition government.",
-       "new": "They then join together with different political parties who are interested in similar concerns to form what is known as a coalition government.",
+       "old": "From the MPs who belong to her party, the Prime Minister selects ministers to work with her to implement decisions.",
+       "new": "From the MPs who belong to her party, the Prime Minister selects ministers to work with her to implement decisions.",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -7748,10 +7739,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Rajya Sabha functions primarily as the representative of the states of India in the Parliament.",
-       "new": "The Rajya Sabha functions primarily as the representative of the states of India in the Parliament.",
-       "old_page": 37,
-       "new_page": 37,
+       "old": "These ministers then take charge of different areas of government functioning like health, education, finance etc.",
+       "new": "These ministers then take charge of different areas of government functioning like health, education, finance etc.",
+       "old_page": 36,
+       "new_page": 36,
        "words": [],
        "old_pos": 75,
        "new_pos": 75
@@ -7760,10 +7751,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Rajya Sabha can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to become a law.",
-       "new": "The Rajya Sabha can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to become a law.",
-       "old_page": 37,
-       "new_page": 37,
+       "old": "Often times in the recent past it has been difficult for a single political party to get the majority that is required to form the government.",
+       "new": "Often times in the recent past it has been difficult for a single political party to get the majority that is required to form the government.",
+       "old_page": 36,
+       "new_page": 36,
        "words": [],
        "old_pos": 76,
        "new_pos": 76
@@ -7772,10 +7763,10 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "It, therefore, has an important role of reviewing and altering (if alterations are needed) the laws initiated by the Lok Sabha.",
-       "new": "It, therefore, has an important role of reviewing and altering (if alterations are needed) the laws initiated by the Lok Sabha.",
-       "old_page": 37,
-       "new_page": 37,
+       "old": "They then join together with different political parties who are interested in similar concerns to form what is known as a coalition government.",
+       "new": "They then join together with different political parties who are interested in similar concerns to form what is known as a coalition government.",
+       "old_page": 36,
+       "new_page": 36,
        "words": [],
        "old_pos": 77,
        "new_pos": 77
@@ -7784,8 +7775,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of various states.",
-       "new": "The members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of various states.",
+       "old": "The Rajya Sabha functions primarily as the representative of the states of India in the Parliament.",
+       "new": "The Rajya Sabha functions primarily as the representative of the states of India in the Parliament.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7796,8 +7787,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "There are 233 elected members plus 12 members nominated by the President.",
-       "new": "There are 233 elected members plus 12 members nominated by the President.",
+       "old": "The Rajya Sabha can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to become a law.",
+       "new": "The Rajya Sabha can also initiate legislation and a bill is required to pass through the Rajya Sabha in order to become a law.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7808,8 +7799,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "B.",
-       "new": "B.",
+       "old": "It, therefore, has an important role of reviewing and altering (if alterations are needed) the laws initiated by the Lok Sabha.",
+       "new": "It, therefore, has an important role of reviewing and altering (if alterations are needed) the laws initiated by the Lok Sabha.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7820,8 +7811,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "To Control, Guide and Inform the Government The Parliament, while in session, begins with a question hour.",
-       "new": "To Control, Guide and Inform the Government The Parliament, while in session, begins with a question hour.",
+       "old": "The members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of various states.",
+       "new": "The members of the Rajya Sabha are elected by the elected members of the Legislative Assemblies of various states.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7832,8 +7823,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The question hour is an important mechanism through which MPs can elicit information about the working of the government.",
-       "new": "The question hour is an important mechanism through which MPs can elicit information about the working of the government.",
+       "old": "There are 233 elected members plus 12 members nominated by the President.",
+       "new": "There are 233 elected members plus 12 members nominated by the President.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7844,8 +7835,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "This is a very important way through which the Parliament controls the executive.",
-       "new": "This is a very important way through which the Parliament controls the executive.",
+       "old": "B.",
+       "new": "B.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7856,8 +7847,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs.",
-       "new": "By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs.",
+       "old": "To Control, Guide and Inform the Government The Parliament, while in session, begins with a question hour.",
+       "new": "To Control, Guide and Inform the Government The Parliament, while in session, begins with a question hour.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7868,8 +7859,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "Asking questions of the government is a crucial task for every MP.",
-       "new": "Asking questions of the government is a crucial task for every MP.",
+       "old": "The question hour is an important mechanism through which MPs can elicit information about the working of the government.",
+       "new": "The question hour is an important mechanism through which MPs can elicit information about the working of the government.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7880,8 +7871,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The Opposition parties play a critical role in the healthy functioning of a democracy.",
-       "new": "The Opposition parties play a critical role in the healthy functioning of a democracy.",
+       "old": "This is a very important way through which the Parliament controls the executive.",
+       "new": "This is a very important way through which the Parliament controls the executive.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
@@ -7892,13 +7883,49 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.",
-       "new": "They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.",
+       "old": "By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs.",
+       "new": "By asking questions the government is alerted to its shortcomings, and also comes to know the opinion of the people through their representatives in the Parliament, i.e. the MPs.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
        "old_pos": 87,
        "new_pos": 87
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Asking questions of the government is a crucial task for every MP.",
+       "new": "Asking questions of the government is a crucial task for every MP.",
+       "old_page": 37,
+       "new_page": 37,
+       "words": [],
+       "old_pos": 88,
+       "new_pos": 88
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Opposition parties play a critical role in the healthy functioning of a democracy.",
+       "new": "The Opposition parties play a critical role in the healthy functioning of a democracy.",
+       "old_page": 37,
+       "new_page": 37,
+       "words": [],
+       "old_pos": 89,
+       "new_pos": 89
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.",
+       "new": "They highlight drawbacks in various policies and programmes of the government and mobilise popular support for their own policies.",
+       "old_page": 37,
+       "new_page": 37,
+       "words": [],
+       "old_pos": 90,
+       "new_pos": 90
       },
       {
        "type": "modified",
@@ -7922,8 +7949,8 @@
          "Parliament."
         ]
        ],
-       "old_pos": 88,
-       "new_pos": 88
+       "old_pos": 91,
+       "new_pos": 91
       },
       {
        "type": "inserted",
@@ -7935,7 +7962,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": null,
-       "new_pos": 89
+       "new_pos": 92
       },
       {
        "type": "inserted",
@@ -7947,7 +7974,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": null,
-       "new_pos": 90
+       "new_pos": 93
       },
       {
        "type": "inserted",
@@ -7959,7 +7986,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": null,
-       "new_pos": 91
+       "new_pos": 94
       },
       {
        "type": "inserted",
@@ -7971,7 +7998,7 @@
        "new_page": 38,
        "words": [],
        "old_pos": null,
-       "new_pos": 92
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -7982,8 +8009,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 89,
-       "new_pos": 93
+       "old_pos": 92,
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -7994,8 +8021,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 90,
-       "new_pos": 94
+       "old_pos": 93,
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -8006,8 +8033,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 91,
-       "new_pos": 95
+       "old_pos": 94,
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -8018,8 +8045,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 92,
-       "new_pos": 96
+       "old_pos": 95,
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -8030,8 +8057,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 93,
-       "new_pos": 97
+       "old_pos": 96,
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -8042,8 +8069,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 94,
-       "new_pos": 98
+       "old_pos": 97,
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -8054,8 +8081,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 95,
-       "new_pos": 99
+       "old_pos": 98,
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -8066,8 +8093,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 96,
-       "new_pos": 100
+       "old_pos": 99,
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -8078,8 +8105,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 97,
-       "new_pos": 101
+       "old_pos": 100,
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -8090,8 +8117,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 98,
-       "new_pos": 102
+       "old_pos": 101,
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -8102,8 +8129,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 99,
-       "new_pos": 103
+       "old_pos": 102,
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -8114,8 +8141,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 100,
-       "new_pos": 104
+       "old_pos": 103,
+       "new_pos": 107
       },
       {
        "type": "equal",
@@ -8126,8 +8153,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 101,
-       "new_pos": 105
+       "old_pos": 104,
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -8138,8 +8165,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 102,
-       "new_pos": 106
+       "old_pos": 105,
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -8150,8 +8177,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 103,
-       "new_pos": 107
+       "old_pos": 106,
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -8162,8 +8189,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 104,
-       "new_pos": 108
+       "old_pos": 107,
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -8174,8 +8201,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 105,
-       "new_pos": 109
+       "old_pos": 108,
+       "new_pos": 112
       },
       {
        "type": "modified",
@@ -8203,8 +8230,8 @@
          "per cent."
         ]
        ],
-       "old_pos": 108,
-       "new_pos": 112
+       "old_pos": 111,
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -8215,8 +8242,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 106,
-       "new_pos": 110
+       "old_pos": 109,
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -8227,8 +8254,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 107,
-       "new_pos": 111
+       "old_pos": 110,
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -8239,8 +8266,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 109,
-       "new_pos": 113
+       "old_pos": 112,
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -8251,8 +8278,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 110,
-       "new_pos": 114
+       "old_pos": 113,
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -8263,8 +8290,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 111,
-       "new_pos": 115
+       "old_pos": 114,
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -8275,8 +8302,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 112,
-       "new_pos": 116
+       "old_pos": 115,
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -8287,8 +8314,8 @@
        "old_page": 40,
        "new_page": 40,
        "words": [],
-       "old_pos": 113,
-       "new_pos": 117
+       "old_pos": 116,
+       "new_pos": 120
       }
      ]
     },
@@ -8300,6 +8327,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8308,11 +8336,12 @@
     "caption": {
      "counts": {
       "deleted": 5,
-      "inserted": 1,
-      "modified": 2,
+      "inserted": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 4,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -8486,37 +8515,16 @@
        "new_pos": 13
       },
       {
-       "type": "modified",
+       "type": "resplit",
        "stream": "caption",
-       "similarity": 0.779,
+       "similarity": 1.0,
        "old": "Use the table alongside to answer the questions below: Who will form the government?",
-       "new": "Use the table alongside to answer the questions below:",
+       "new": "Use the table alongside to answer the questions below: Who will form the government?",
        "old_page": 35,
        "new_page": 35,
-       "words": [
-        [
-         "=",
-         "Use the table alongside to answer the questions below:"
-        ],
-        [
-         "-",
-         "Who will form the government?"
-        ]
-       ],
+       "words": [],
        "old_pos": 15,
        "new_pos": 15
-      },
-      {
-       "type": "inserted",
-       "stream": "caption",
-       "similarity": null,
-       "old": null,
-       "new": "Who will form the government?",
-       "old_page": null,
-       "new_page": 35,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 16
       },
       {
        "type": "equal",
@@ -8738,8 +8746,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "National Parties Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9 Grand Total 543 Source: www.eci.nic.in The above table gives you the results of the 15th Lok Sabha elections held in 2009.",
-       "new": "National Parties Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9 Grand Total 543 Source: www.eci.nic.in The above table gives you the results of the 15th Lok Sabha elections held in 2009.",
+       "old": "National Parties",
+       "new": "National Parties",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -8750,8 +8758,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha.",
-       "new": "In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha.",
+       "old": "Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9",
+       "new": "Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -8762,8 +8770,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.",
-       "new": "It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.",
+       "old": "Grand Total 543",
+       "new": "Grand Total 543",
        "old_page": 36,
        "new_page": 36,
        "words": [],
@@ -8774,13 +8782,61 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
+       "old": "Source: www.eci.nic.in",
+       "new": "Source: www.eci.nic.in",
+       "old_page": 36,
+       "new_page": 36,
+       "words": [],
+       "old_pos": 36,
+       "new_pos": 37
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "The above table gives you the results of the 15th Lok Sabha elections held in 2009.",
+       "new": "The above table gives you the results of the 15th Lok Sabha elections held in 2009.",
+       "old_page": 36,
+       "new_page": 36,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 38
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha.",
+       "new": "In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha.",
+       "old_page": 36,
+       "new_page": 36,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.",
+       "new": "It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.",
+       "old_page": 36,
+       "new_page": 36,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
        "old": "These two buildings of the Central Secretariat, the South Block and North Block were built during the 1930s.",
        "new": "These two buildings of the Central Secretariat, the South Block and North Block were built during the 1930s.",
        "old_page": 37,
        "new_page": 37,
        "words": [],
-       "old_pos": 36,
-       "new_pos": 37
+       "old_pos": 40,
+       "new_pos": 41
       },
       {
        "type": "equal",
@@ -8791,8 +8847,8 @@
        "old_page": 37,
        "new_page": 37,
        "words": [],
-       "old_pos": 37,
-       "new_pos": 38
+       "old_pos": 41,
+       "new_pos": 42
       },
       {
        "type": "equal",
@@ -8803,8 +8859,8 @@
        "old_page": 37,
        "new_page": 37,
        "words": [],
-       "old_pos": 38,
-       "new_pos": 39
+       "old_pos": 42,
+       "new_pos": 43
       },
       {
        "type": "equal",
@@ -8815,8 +8871,8 @@
        "old_page": 37,
        "new_page": 37,
        "words": [],
-       "old_pos": 39,
-       "new_pos": 40
+       "old_pos": 43,
+       "new_pos": 44
       },
       {
        "type": "deleted",
@@ -8827,7 +8883,7 @@
        "old_page": 38,
        "new_page": null,
        "words": [],
-       "old_pos": 41,
+       "old_pos": 45,
        "new_pos": null
       },
       {
@@ -8839,7 +8895,7 @@
        "old_page": 38,
        "new_page": null,
        "words": [],
-       "old_pos": 42,
+       "old_pos": 46,
        "new_pos": null
       },
       {
@@ -8851,7 +8907,7 @@
        "old_page": 38,
        "new_page": null,
        "words": [],
-       "old_pos": 43,
+       "old_pos": 47,
        "new_pos": null
       },
       {
@@ -8863,7 +8919,7 @@
        "old_page": 38,
        "new_page": null,
        "words": [],
-       "old_pos": 44,
+       "old_pos": 48,
        "new_pos": null
       },
       {
@@ -8875,7 +8931,7 @@
        "old_page": 38,
        "new_page": null,
        "words": [],
-       "old_pos": 46,
+       "old_pos": 50,
        "new_pos": null
       },
       {
@@ -8887,8 +8943,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 47,
-       "new_pos": 41
+       "old_pos": 51,
+       "new_pos": 45
       },
       {
        "type": "modified",
@@ -8916,8 +8972,8 @@
          "years has: decreased/increased/been stable after initial increase?"
         ]
        ],
-       "old_pos": 51,
-       "new_pos": 43
+       "old_pos": 55,
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -8928,8 +8984,8 @@
        "old_page": 39,
        "new_page": 39,
        "words": [],
-       "old_pos": 50,
-       "new_pos": 42
+       "old_pos": 54,
+       "new_pos": 46
       },
       {
        "type": "restreamed",
@@ -8940,7 +8996,7 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 40,
+       "old_pos": 44,
        "new_pos": 1
       },
       {
@@ -8952,8 +9008,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 45,
-       "new_pos": 4
+       "old_pos": 49,
+       "new_pos": 7
       },
       {
        "type": "restreamed",
@@ -8964,8 +9020,8 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 48,
-       "new_pos": 6
+       "old_pos": 52,
+       "new_pos": 9
       },
       {
        "type": "restreamed",
@@ -8976,21 +9032,22 @@
        "old_page": 38,
        "new_page": 38,
        "words": [],
-       "old_pos": 49,
-       "new_pos": 7
+       "old_pos": 53,
+       "new_pos": 10
       }
      ]
     },
     "table": {
      "counts": {
       "deleted": 3,
-      "inserted": 1,
-      "modified": 2,
+      "inserted": 4,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
-      "punctuation": 0
+      "punctuation": 1
      },
      "hunks": [
       {
@@ -9044,16 +9101,81 @@
       {
        "type": "modified",
        "stream": "table",
-       "similarity": 0.579,
-       "old": "Will the Minister of WOMEN AND CHILD DEVELOPMENT be pleased to state:",
-       "new": "Unstarred Question No: 48 Answered On: 15.12.2017 Converge of Schemes for Children Manoj Rajoria Will the Minister of Women and Child Development be pleased to state:-",
+       "similarity": 0.81,
+       "old": "THE MINISTER OF STATE OF THE MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+       "new": "Minister of State in the Ministry of Women and Child Development (Dr. Virendra Kumar)",
        "old_page": 38,
        "new_page": 38,
        "words": [
         [
-         "+",
-         "Unstarred Question No: 48 Answered On: 15.12.2017 Converge of Schemes for Children Manoj Rajoria"
+         "-",
+         "THE MINISTER OF STATE OF THE MINISTRY OF WOMEN AND CHILD DEVELOPMENT"
         ],
+        [
+         "+",
+         "Minister of State in the Ministry of Women and Child Development (Dr. Virendra Kumar)"
+        ]
+       ],
+       "old_pos": 4,
+       "new_pos": 8
+      },
+      {
+       "type": "inserted",
+       "stream": "table",
+       "similarity": null,
+       "old": null,
+       "new": "(a) whether the Government proposes to converge various schemes and policies for children in the country; (b) if so, the details thereof; and; (c) if not, the reasons therefor?",
+       "old_page": null,
+       "new_page": 38,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 6
+      },
+      {
+       "type": "inserted",
+       "stream": "table",
+       "similarity": null,
+       "old": null,
+       "new": "Converge of Schemes for Children",
+       "old_page": null,
+       "new_page": 38,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 3
+      },
+      {
+       "type": "inserted",
+       "stream": "table",
+       "similarity": null,
+       "old": null,
+       "new": "Manoj Rajoria",
+       "old_page": null,
+       "new_page": 38,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 4
+      },
+      {
+       "type": "inserted",
+       "stream": "table",
+       "similarity": null,
+       "old": null,
+       "new": "Unstarred Question No: 48 Answered On: 15.12.2017",
+       "old_page": null,
+       "new_page": 38,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 2
+      },
+      {
+       "type": "punctuation",
+       "stream": "table",
+       "similarity": 0.986,
+       "old": "Will the Minister of WOMEN AND CHILD DEVELOPMENT be pleased to state:",
+       "new": "Will the Minister of Women and Child Development be pleased to state:-",
+       "old_page": 38,
+       "new_page": 38,
+       "words": [
         [
          "=",
          "Will the Minister of"
@@ -9080,40 +9202,7 @@
         ]
        ],
        "old_pos": 1,
-       "new_pos": 2
-      },
-      {
-       "type": "modified",
-       "stream": "table",
-       "similarity": 0.81,
-       "old": "THE MINISTER OF STATE OF THE MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
-       "new": "Minister of State in the Ministry of Women and Child Development (Dr. Virendra Kumar)",
-       "old_page": 38,
-       "new_page": 38,
-       "words": [
-        [
-         "-",
-         "THE MINISTER OF STATE OF THE MINISTRY OF WOMEN AND CHILD DEVELOPMENT"
-        ],
-        [
-         "+",
-         "Minister of State in the Ministry of Women and Child Development (Dr. Virendra Kumar)"
-        ]
-       ],
-       "old_pos": 4,
        "new_pos": 5
-      },
-      {
-       "type": "inserted",
-       "stream": "table",
-       "similarity": null,
-       "old": null,
-       "new": "(a) whether the Government proposes to converge various schemes and policies for children in the country; (b) if so, the details thereof; and; (c) if not, the reasons therefor?",
-       "old_page": null,
-       "new_page": 38,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 3
       },
       {
        "type": "equal",
@@ -9125,7 +9214,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 12,
-       "new_pos": 14
+       "new_pos": 17
       },
       {
        "type": "equal",
@@ -9137,7 +9226,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 13,
-       "new_pos": 15
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -9149,7 +9238,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 14,
-       "new_pos": 16
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -9161,7 +9250,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 15,
-       "new_pos": 17
+       "new_pos": 20
       },
       {
        "type": "equal",
@@ -9173,7 +9262,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 7,
-       "new_pos": 9
+       "new_pos": 12
       },
       {
        "type": "equal",
@@ -9185,7 +9274,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 8,
-       "new_pos": 10
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -9197,7 +9286,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 9,
-       "new_pos": 11
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -9209,7 +9298,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 10,
-       "new_pos": 12
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -9221,7 +9310,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 11,
-       "new_pos": 13
+       "new_pos": 16
       },
       {
        "type": "equal",
@@ -9233,7 +9322,7 @@
        "new_page": 39,
        "words": [],
        "old_pos": 6,
-       "new_pos": 8
+       "new_pos": 11
       }
      ]
     },
@@ -9245,6 +9334,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9258,6 +9348,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9464,6 +9555,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9550,6 +9642,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9563,6 +9656,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -9888,7 +9982,7 @@
      {
       "page": 36,
       "new_page": 36,
-      "sentences": 22,
+      "sentences": 29,
       "score": 1.0,
       "suspect": false
      },
@@ -9956,6 +10050,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10030,6 +10125,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10922,6 +11018,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -10935,6 +11032,7 @@
       "moved": 1,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -11879,8 +11977,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "In your Class VII book, you read of how Rosa Parks, an African-American woman, refused to give up her seat on a bus to a white man on 1 December 1955.",
-       "new": "In your Class VII book, you read of how Rosa Parks, an African-American woman, refused to give up her seat on a bus to a white man on 1 December 1955.",
+       "old": "In your Class VII book, you read of how Rosa Parks, an African-American woman, refused to give up her seat on a bus to a white man on 1",
+       "new": "In your Class VII book, you read of how Rosa Parks, an African-American woman, refused to give up her seat on a bus to a white man on 1",
        "old_page": 49,
        "new_page": 49,
        "words": [],
@@ -11891,8 +11989,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "She was protesting the law on segregation that divided up all public spaces, including the streets, between the whites and the African-Americans.",
-       "new": "She was protesting the law on segregation that divided up all public spaces, including the streets, between the whites and the African-Americans.",
+       "old": "December 1955.",
+       "new": "December 1955.",
        "old_page": 49,
        "new_page": 49,
        "words": [],
@@ -11903,8 +12001,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Her refusal was a key event that marked the start of the Civil Rights Movement, which led to the Civil Rights Act in 1964, which prohibited discrimination on the basis of race, religion or national origin in the U.S.A.",
-       "new": "Her refusal was a key event that marked the start of the Civil Rights Movement, which led to the Civil Rights Act in 1964, which prohibited discrimination on the basis of race, religion or national origin in the U.S.A.",
+       "old": "She was protesting the law on segregation that divided up all public spaces, including the streets, between the whites and the African-Americans.",
+       "new": "She was protesting the law on segregation that divided up all public spaces, including the streets, between the whites and the African-Americans.",
        "old_page": 49,
        "new_page": 49,
        "words": [],
@@ -11915,13 +12013,25 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
+       "old": "Her refusal was a key event that marked the start of the Civil Rights Movement, which led to the Civil Rights Act in 1964, which prohibited discrimination on the basis of race, religion or national origin in the U.S.A.",
+       "new": "Her refusal was a key event that marked the start of the Civil Rights Movement, which led to the Civil Rights Act in 1964, which prohibited discrimination on the basis of race, religion or national origin in the U.S.A.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 80,
+       "new_pos": 81
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
        "old": "Read the newspapers/watch news on TV for a week and find out if there are any unpopular laws that people in India or around the world are currently protesting.",
        "new": "Read the newspapers/watch news on TV for a week and find out if there are any unpopular laws that people in India or around the world are currently protesting.",
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 80,
-       "new_pos": 81
+       "old_pos": 81,
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -11932,8 +12042,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 81,
-       "new_pos": 82
+       "old_pos": 82,
+       "new_pos": 83
       }
      ]
     },
@@ -11945,6 +12055,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12031,6 +12142,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12044,6 +12156,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12130,6 +12243,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12264,6 +12378,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12277,6 +12392,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12337,7 +12453,7 @@
      {
       "page": 49,
       "new_page": 49,
-      "sentences": 21,
+      "sentences": 22,
       "score": 1.0,
       "suspect": false
      },
@@ -12373,7 +12489,7 @@
     "title": "Judiciary",
     "file": "texts/social-political-life-3/2019-05-04/05-judiciary.md"
    },
-   "similarity": 0.954,
+   "similarity": 0.972,
    "status": "matched",
    "streams": {
     "heading": {
@@ -12384,6 +12500,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12514,10 +12631,11 @@
      "counts": {
       "deleted": 11,
       "inserted": 0,
-      "modified": 9,
+      "modified": 8,
       "moved": 0,
       "typographic": 0,
       "restreamed": 12,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -12643,48 +12761,6 @@
        "new_pos": 9
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.965,
-       "old": "Judicial Review: Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution.",
-       "new": "Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution.",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [
-        [
-         "-",
-         "Judicial Review:"
-        ],
-        [
-         "=",
-         "Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution."
-        ]
-       ],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.955,
-       "old": "Dispute Resolution: Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.",
-       "new": "Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [
-        [
-         "-",
-         "Dispute Resolution:"
-        ],
-        [
-         "=",
-         "Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments."
-        ]
-       ],
-       "old_pos": 13,
-       "new_pos": 13
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -12719,6 +12795,30 @@
        "words": [],
        "old_pos": 12,
        "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.",
+       "new": "Dispute Resolution: The judicial system provides a mechanism for resolving disputes between citizens, between citizens and the government, between two state governments and between the centre and state governments.",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution.",
+       "new": "Judicial Review: As the final interpreter of the Constitution, the judiciary also has the power to strike down particular laws passed by the Parliament if it believes that these are a violation of the basic structure of the Constitution.",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -13950,12 +14050,12 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3 B High Courts 984 635 349 C District and 19,421 15,039 ?",
+       "old": "C District and 19,421 15,039?",
        "new": null,
        "old_page": 63,
        "new_page": null,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 134,
        "new_pos": null
       },
       {
@@ -13967,29 +14067,54 @@
        "old_page": 63,
        "new_page": null,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 135,
        "new_pos": null
       },
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.732,
+       "similarity": 0.899,
        "old": "However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens.",
-       "new": "No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3 B High Courts 1,079 645 434 C District and 22,644 17,509 5,135 Subordinate Courts However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens.",
+       "new": "C District and 22,644 17,509 5,135 Subordinate Courts However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens.",
        "old_page": 63,
        "new_page": 63,
        "words": [
         [
          "+",
-         "No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3 B High Courts 1,079 645 434 C District and 22,644 17,509 5,135 Subordinate Courts"
+         "C District and 22,644 17,509 5,135 Subordinate Courts"
         ],
         [
          "=",
          "However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens."
         ]
        ],
-       "old_pos": 135,
-       "new_pos": 108
+       "old_pos": 137,
+       "new_pos": 110
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.808,
+       "old": "B High Courts 984 635 349",
+       "new": "B High Courts 1,079 645 434",
+       "old_page": 63,
+       "new_page": 63,
+       "words": [
+        [
+         "=",
+         "B High Courts"
+        ],
+        [
+         "-",
+         "984 635 349"
+        ],
+        [
+         "+",
+         "1,079 645 434"
+        ]
+       ],
+       "old_pos": 133,
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -14019,13 +14144,25 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3",
+       "new": "No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 31 28 3",
+       "old_page": 63,
+       "new_page": 63,
+       "words": [],
+       "old_pos": 132,
+       "new_pos": 108
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "The members of the Constituent Assembly had quite correctly envisioned a system of courts with an independent judiciary as a key feature of our democracy.",
        "new": "The members of the Constituent Assembly had quite correctly envisioned a system of courts with an independent judiciary as a key feature of our democracy.",
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 136,
-       "new_pos": 109
+       "old_pos": 138,
+       "new_pos": 111
       },
       {
        "type": "restreamed",
@@ -14230,7 +14367,7 @@
          "30 September 2018)"
         ]
        ],
-       "old_pos": 134,
+       "old_pos": 136,
        "new_pos": 8
       },
       {
@@ -14289,6 +14426,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14315,18 +14453,19 @@
        "new_page": 63,
        "words": [],
        "old_pos": 1,
-       "new_pos": 46
+       "new_pos": 47
       }
      ]
     },
     "caption": {
      "counts": {
-      "deleted": 5,
+      "deleted": 4,
       "inserted": 5,
       "modified": 6,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -14792,27 +14931,27 @@
        "new_pos": 37
       },
       {
-       "type": "deleted",
-       "stream": "caption",
-       "similarity": null,
-       "old": "Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545",
-       "new": null,
-       "old_page": 62,
-       "new_page": null,
-       "words": [],
-       "old_pos": 29,
-       "new_pos": null
-      },
-      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545 Find out about the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.",
+       "new": "Find out about the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.",
        "old_page": null,
        "new_page": 62,
        "words": [],
        "old_pos": null,
+       "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545",
+       "new": "Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545",
+       "old_page": 62,
+       "new_page": 62,
+       "words": [],
+       "old_pos": 29,
        "new_pos": 38
       },
       {
@@ -14854,7 +14993,7 @@
         ]
        ],
        "old_pos": 31,
-       "new_pos": 40
+       "new_pos": 41
       },
       {
        "type": "modified",
@@ -14887,7 +15026,7 @@
         ]
        ],
        "old_pos": 33,
-       "new_pos": 42
+       "new_pos": 43
       },
       {
        "type": "inserted",
@@ -14899,7 +15038,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": null,
-       "new_pos": 44
+       "new_pos": 45
       },
       {
        "type": "equal",
@@ -14911,7 +15050,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 30,
-       "new_pos": 39
+       "new_pos": 40
       },
       {
        "type": "equal",
@@ -14923,7 +15062,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 32,
-       "new_pos": 41
+       "new_pos": 42
       },
       {
        "type": "equal",
@@ -14935,7 +15074,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 34,
-       "new_pos": 43
+       "new_pos": 44
       },
       {
        "type": "equal",
@@ -14947,7 +15086,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 35,
-       "new_pos": 45
+       "new_pos": 46
       }
      ]
     },
@@ -14959,6 +15098,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15009,6 +15149,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15022,6 +15163,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15288,6 +15430,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15374,6 +15517,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15387,6 +15531,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15703,14 +15848,14 @@
       "page": 62,
       "new_page": 62,
       "sentences": 18,
-      "score": 0.94,
+      "score": 1.0,
       "suspect": false
      },
      {
       "page": 63,
       "new_page": 63,
-      "sentences": 18,
-      "score": 0.72,
+      "sentences": 20,
+      "score": 0.75,
       "suspect": false
      },
      {
@@ -15745,7 +15890,7 @@
     "title": "Understanding Our Criminal Justice System",
     "file": "texts/social-political-life-3/2019-05-04/06-understanding-our-criminal-justice-system.md"
    },
-   "similarity": 0.833,
+   "similarity": 0.929,
    "status": "matched",
    "streams": {
     "heading": {
@@ -15756,6 +15901,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -15871,10 +16017,11 @@
      "counts": {
       "deleted": 17,
       "inserted": 1,
-      "modified": 19,
+      "modified": 11,
       "moved": 0,
       "typographic": 0,
       "restreamed": 49,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -16026,8 +16173,8 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.878,
-       "old": "From the above incident, you can see that the four key players in the criminal justice system are the police police police, the Public Prosecutor Public Prosecutor, the defence lawyer and the judge judge judge.",
+       "similarity": 0.994,
+       "old": "From the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge.",
        "new": "PoFrom the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge.",
        "old_page": 70,
        "new_page": 70,
@@ -16042,31 +16189,7 @@
         ],
         [
          "=",
-         "the above incident, you can see that the four key players in the criminal justice system are the"
-        ],
-        [
-         "-",
-         "police police"
-        ],
-        [
-         "=",
-         "police, the"
-        ],
-        [
-         "-",
-         "Public Prosecutor"
-        ],
-        [
-         "=",
-         "Public Prosecutor, the defence lawyer and the"
-        ],
-        [
-         "-",
-         "judge judge"
-        ],
-        [
-         "=",
-         "judge."
+         "the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge."
         ]
        ],
        "old_pos": 61,
@@ -16838,77 +16961,19 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.823,
-       "old": "The trial was held in an open court open court open court, in public view.",
-       "new": "The trial was held in an open court, in public view.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "The trial was held in an open"
-        ],
-        [
-         "-",
-         "court open court open"
-        ],
-        [
-         "=",
-         "court, in public view."
-        ]
-       ],
-       "old_pos": 132,
-       "new_pos": 72
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.86,
-       "old": "The trial was held in the presence of the accused accused accused.",
-       "new": "The trial was held in the presence of the accused.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "The trial was held in the presence of the"
-        ],
-        [
-         "-",
-         "accused accused"
-        ],
-        [
-         "=",
-         "accused."
-        ]
-       ],
-       "old_pos": 134,
-       "new_pos": 74
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.845,
-       "old": "Shanti’s lawyer, Advocate Roy was given an opportunity to opportunity to cross-examine all the prosecution rosecution rosecution witnesses.",
+       "similarity": 0.948,
+       "old": "Shanti’s lawyer, Advocate Roy was given an opportunity to cross-examine all the prosecution rosecution witnesses.",
        "new": "Shanti’s lawyer, Advocate Roy was given an opportunity to cross-examine all the prosecution witnesses.",
        "old_page": 74,
        "new_page": 74,
        "words": [
         [
          "=",
-         "Shanti’s lawyer, Advocate Roy was given an opportunity to"
+         "Shanti’s lawyer, Advocate Roy was given an opportunity to cross-examine all the prosecution"
         ],
         [
          "-",
-         "opportunity to"
-        ],
-        [
-         "=",
-         "cross-examine all the prosecution"
-        ],
-        [
-         "-",
-         "rosecution rosecution"
+         "rosecution"
         ],
         [
          "=",
@@ -16917,156 +16982,6 @@
        ],
        "old_pos": 136,
        "new_pos": 76
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.596,
-       "old": "Shanti was defended by a lawyer defended by a lawyer defended by a lawyer.",
-       "new": "Shanti was defended by a lawyer.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "Shanti was defended by a"
-        ],
-        [
-         "-",
-         "lawyer defended by a lawyer defended by a"
-        ],
-        [
-         "=",
-         "lawyer."
-        ]
-       ],
-       "old_pos": 135,
-       "new_pos": 75
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.858,
-       "old": "It was the responsibility of the prosecution to prove beyond reasonable doubt to prove beyond reasonable doubt that Shanti was guilty.",
-       "new": "It was the responsibility of the prosecution to prove beyond reasonable doubt that Shanti was guilty.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "It was the responsibility of the prosecution to prove beyond reasonable doubt"
-        ],
-        [
-         "-",
-         "to prove beyond reasonable doubt"
-        ],
-        [
-         "=",
-         "that Shanti was guilty."
-        ]
-       ],
-       "old_pos": 140,
-       "new_pos": 79
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.777,
-       "old": "Although the police filed a case of theft against Shanti, the judge assumed her to be innocent assumed her to be innocent assumed her to be innocent.",
-       "new": "Although the police filed a case of theft against Shanti, the judge assumed her to be innocent.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "Although the police filed a case of theft against Shanti, the judge assumed her to be"
-        ],
-        [
-         "-",
-         "innocent assumed her to be innocent assumed her to be"
-        ],
-        [
-         "=",
-         "innocent."
-        ]
-       ],
-       "old_pos": 139,
-       "new_pos": 78
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.903,
-       "old": "It is significant that the judge decided the matter only on the basis of the evidence basis of the evidence before the court.",
-       "new": "It is significant that the judge decided the matter only on the basis of the evidence before the court.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "It is significant that the judge decided the matter only on the basis of the evidence"
-        ],
-        [
-         "-",
-         "basis of the evidence"
-        ],
-        [
-         "=",
-         "before the court."
-        ]
-       ],
-       "old_pos": 142,
-       "new_pos": 81
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.965,
-       "old": "Instead, the judge remained impartial impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free.",
-       "new": "Instead, the judge remained impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "Instead, the judge remained"
-        ],
-        [
-         "-",
-         "impartial"
-        ],
-        [
-         "=",
-         "impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free."
-        ]
-       ],
-       "old_pos": 144,
-       "new_pos": 83
-      },
-      {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.939,
-       "old": "In Shanti’s case, justice was finally done to her because she was given a fair trial fair trial.",
-       "new": "In Shanti’s case, justice was finally done to her because she was given a fair trial.",
-       "old_page": 74,
-       "new_page": 74,
-       "words": [
-        [
-         "=",
-         "In Shanti’s case, justice was finally done to her because she was given a fair"
-        ],
-        [
-         "-",
-         "trial fair"
-        ],
-        [
-         "=",
-         "trial."
-        ]
-       ],
-       "old_pos": 145,
-       "new_pos": 84
       },
       {
        "type": "equal",
@@ -17180,6 +17095,18 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "The trial was held in an open court, in public view.",
+       "new": "The trial was held in an open court, in public view.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 132,
+       "new_pos": 72
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "Her brother, Sushil could attend the court hearings.",
        "new": "Her brother, Sushil could attend the court hearings.",
        "old_page": 74,
@@ -17187,6 +17114,30 @@
        "words": [],
        "old_pos": 133,
        "new_pos": 73
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The trial was held in the presence of the accused.",
+       "new": "The trial was held in the presence of the accused.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 134,
+       "new_pos": 74
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Shanti was defended by a lawyer.",
+       "new": "Shanti was defended by a lawyer.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 135,
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -17204,6 +17155,30 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "Although the police filed a case of theft against Shanti, the judge assumed her to be innocent.",
+       "new": "Although the police filed a case of theft against Shanti, the judge assumed her to be innocent.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 139,
+       "new_pos": 78
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It was the responsibility of the prosecution to prove beyond reasonable doubt that Shanti was guilty.",
+       "new": "It was the responsibility of the prosecution to prove beyond reasonable doubt that Shanti was guilty.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 140,
+       "new_pos": 79
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "In this case the prosecution failed to do so.",
        "new": "In this case the prosecution failed to do so.",
        "old_page": 74,
@@ -17216,6 +17191,18 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "It is significant that the judge decided the matter only on the basis of the evidence before the court.",
+       "new": "It is significant that the judge decided the matter only on the basis of the evidence before the court.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 142,
+       "new_pos": 81
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "The judge did not jump to the conclusion that Shanti was the thief just because she was a poor maidservant.",
        "new": "The judge did not jump to the conclusion that Shanti was the thief just because she was a poor maidservant.",
        "old_page": 74,
@@ -17223,6 +17210,30 @@
        "words": [],
        "old_pos": 143,
        "new_pos": 82
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Instead, the judge remained impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free.",
+       "new": "Instead, the judge remained impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 144,
+       "new_pos": 83
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In Shanti’s case, justice was finally done to her because she was given a fair trial.",
+       "new": "In Shanti’s case, justice was finally done to her because she was given a fair trial.",
+       "old_page": 74,
+       "new_page": 74,
+       "words": [],
+       "old_pos": 145,
+       "new_pos": 84
       },
       {
        "type": "deleted",
@@ -18060,6 +18071,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -18073,6 +18085,7 @@
       "moved": 8,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19023,6 +19036,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19085,6 +19099,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19093,57 +19108,16 @@
     "exercises": {
      "counts": {
       "deleted": 0,
-      "inserted": 2,
-      "modified": 3,
+      "inserted": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.683,
-       "old": "1. Police 2. Public Prosecutor 3. Defence lawyer 4. Judge The column on the right provides a list of functions.",
-       "new": "1. Police 2. Public Prosecutor 3. Defence lawyer 4. Judge",
-       "old_page": 76,
-       "new_page": 76,
-       "words": [
-        [
-         "=",
-         "1. Police 2. Public Prosecutor 3. Defence lawyer 4. Judge"
-        ],
-        [
-         "-",
-         "The column on the right provides a list of functions."
-        ]
-       ],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.875,
-       "old": "Police hear the witnesses record the statements of witnesses Public Prosecutor cross examine the witnesses take photographs of burnt homes Defence Lawyer record the evidence arrest the Fiesta fans Judge writes the judgment argue the case for the victims decide for how many years the accused will be put in jail examine the witnesses in court pass the judgment get the assaulted women medically examined conduct a fair trial meet the accused persons Now take the same situation but ask one student who is a supporter of the Fiesta Club to perform all the functions listed above.",
-       "new": "Police hear the witnesses record the statements of witnesses Public Prosecutor cross examine the witnesses take photographs of burnt homes Defence Lawyer record the evidence arrest the Fiesta fans Judge writes the judgment argue the case for the victims decide for how many years the accused will be put in jail examine the witnesses in court pass the judgment get the assaulted women medically examined conduct a fair trial meet the accused persons",
-       "old_page": 76,
-       "new_page": 76,
-       "words": [
-        [
-         "=",
-         "Police hear the witnesses record the statements of witnesses Public Prosecutor cross examine the witnesses take photographs of burnt homes Defence Lawyer record the evidence arrest the Fiesta fans Judge writes the judgment argue the case for the victims decide for how many years the accused will be put in jail examine the witnesses in court pass the judgment get the assaulted women medically examined conduct a fair trial meet the accused persons"
-        ],
-        [
-         "-",
-         "Now take the same situation but ask one student who is a supporter of the Fiesta Club to perform all the functions listed above."
-        ]
-       ],
-       "old_pos": 10,
-       "new_pos": 11
-      },
       {
        "type": "modified",
        "stream": "exercises",
@@ -19170,28 +19144,28 @@
        "new_pos": 0
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "Now take the same situation but ask one student who is a supporter of the Fiesta Club to perform all the functions listed above.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "1. Police 2. Public Prosecutor 3. Defence lawyer 4. Judge The column on the right provides a list of functions.",
+       "new": "1. Police 2. Public Prosecutor 3. Defence lawyer 4. Judge The column on the right provides a list of functions.",
+       "old_page": 76,
        "new_page": 76,
        "words": [],
-       "old_pos": null,
-       "new_pos": 12
+       "old_pos": 5,
+       "new_pos": 5
       },
       {
-       "type": "inserted",
+       "type": "resplit",
        "stream": "exercises",
-       "similarity": null,
-       "old": null,
-       "new": "The column on the right provides a list of functions.",
-       "old_page": null,
+       "similarity": 1.0,
+       "old": "Police hear the witnesses record the statements of witnesses Public Prosecutor cross examine the witnesses take photographs of burnt homes Defence Lawyer record the evidence arrest the Fiesta fans Judge writes the judgment argue the case for the victims decide for how many years the accused will be put in jail examine the witnesses in court pass the judgment get the assaulted women medically examined conduct a fair trial meet the accused persons Now take the same situation but ask one student who is a supporter of the Fiesta Club to perform all the functions listed above.",
+       "new": "Police hear the witnesses record the statements of witnesses Public Prosecutor cross examine the witnesses take photographs of burnt homes Defence Lawyer record the evidence arrest the Fiesta fans Judge writes the judgment argue the case for the victims decide for how many years the accused will be put in jail examine the witnesses in court pass the judgment get the assaulted women medically examined conduct a fair trial meet the accused persons Now take the same situation but ask one student who is a supporter of the Fiesta Club to perform all the functions listed above.",
+       "old_page": 76,
        "new_page": 76,
        "words": [],
-       "old_pos": null,
-       "new_pos": 6
+       "old_pos": 10,
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -19335,6 +19309,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19445,6 +19420,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19458,6 +19434,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19568,17 +19545,18 @@
     "title": "Understanding Marginalisation",
     "file": "texts/social-political-life-3/2019-05-04/07-understanding-marginalisation.md"
    },
-   "similarity": 0.912,
+   "similarity": 0.899,
    "status": "matched",
    "streams": {
     "heading": {
      "counts": {
-      "deleted": 6,
+      "deleted": 4,
       "inserted": 0,
-      "modified": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 2,
+      "restreamed": 3,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -19719,36 +19697,12 @@
        "type": "deleted",
        "stream": "heading",
        "similarity": null,
-       "old": "All Hindus Muslims Christians Sikhs Buddhists Jains",
-       "new": null,
-       "old_page": 89,
-       "new_page": null,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "heading",
-       "similarity": null,
        "old": "65% 65% 59% 80% 70% 73% 94%",
        "new": null,
        "old_page": 89,
        "new_page": null,
        "words": [],
        "old_pos": 13,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "heading",
-       "similarity": null,
-       "old": "Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)",
-       "new": null,
-       "old_page": 89,
-       "new_page": null,
-       "words": [],
-       "old_pos": 14,
        "new_pos": null
       },
       {
@@ -19803,24 +19757,58 @@
        "type": "restreamed",
        "stream": "heading>body",
        "similarity": 1.0,
+       "old": "Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)",
+       "new": "Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 106
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
        "old": "13.5 3 4 1.8 3.3 10.8 2.2",
        "new": "13.5 3 4 1.8 3.3 10.8 2.2",
        "old_page": 89,
        "new_page": 89,
        "words": [],
        "old_pos": 15,
-       "new_pos": 102
+       "new_pos": 107
+      },
+      {
+       "type": "modified",
+       "stream": "heading>body",
+       "similarity": 0.829,
+       "old": "All Hindus Muslims Christians Sikhs Buddhists Jains",
+       "new": "All Hindus Muslims Christians Sikhs Buddhists Jains 74 63 57 74 67 71 86",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [
+        [
+         "=",
+         "All Hindus Muslims Christians Sikhs Buddhists Jains"
+        ],
+        [
+         "+",
+         "74 63 57 74 67 71 86"
+        ]
+       ],
+       "old_pos": 12,
+       "new_pos": 105
       }
      ]
     },
     "body": {
      "counts": {
       "deleted": 10,
-      "inserted": 1,
+      "inserted": 4,
       "modified": 15,
       "moved": 0,
       "typographic": 0,
       "restreamed": 41,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -21245,12 +21233,48 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "Religious Community Pucca House Electricity Tap Water Hindu 65.4 75.2 43.7 Muslim 63.8 67.5 35.8 Christian 69.3 86.2 48.0 Sikh 91.3 96.0 49.3 All Hindus Muslims Christians Sikhs Buddhists Jains 74 63 57 74 67 71 86 Population IAS IPS IFS Central Public State PSU Banks & RBI Sector Unit (PSU)",
+       "new": "Religious Community Pucca House Electricity Tap Water Hindu 65.4 75.2 43.7",
        "old_page": null,
        "new_page": 88,
        "words": [],
        "old_pos": null,
        "new_pos": 101
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Muslim 63.8 67.5 35.8",
+       "old_page": null,
+       "new_page": 88,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 102
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Christian 69.3 86.2 48.0",
+       "old_page": null,
+       "new_page": 88,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 103
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Sikh 91.3 96.0 49.3",
+       "old_page": null,
+       "new_page": 88,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -21394,7 +21418,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 152,
-       "new_pos": 103
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -21406,7 +21430,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 153,
-       "new_pos": 104
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -21418,7 +21442,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 154,
-       "new_pos": 105
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -21430,7 +21454,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 155,
-       "new_pos": 106
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -21442,7 +21466,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 156,
-       "new_pos": 107
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -21454,7 +21478,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 157,
-       "new_pos": 108
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -21466,7 +21490,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 158,
-       "new_pos": 109
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -21478,7 +21502,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 160,
-       "new_pos": 110
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -21490,7 +21514,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 161,
-       "new_pos": 111
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -21502,7 +21526,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 162,
-       "new_pos": 112
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -21514,7 +21538,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 163,
-       "new_pos": 113
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -21526,7 +21550,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 164,
-       "new_pos": 114
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -21538,7 +21562,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 165,
-       "new_pos": 115
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -21550,7 +21574,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 166,
-       "new_pos": 116
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -21562,7 +21586,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 167,
-       "new_pos": 117
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -21574,7 +21598,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 168,
-       "new_pos": 118
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -21586,7 +21610,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 169,
-       "new_pos": 119
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -21598,7 +21622,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 170,
-       "new_pos": 120
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -21610,7 +21634,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 171,
-       "new_pos": 121
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -21622,7 +21646,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 172,
-       "new_pos": 122
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -21634,7 +21658,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 173,
-       "new_pos": 123
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -21646,7 +21670,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 174,
-       "new_pos": 124
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -21658,7 +21682,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 175,
-       "new_pos": 125
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -21670,7 +21694,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 176,
-       "new_pos": 126
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -21682,7 +21706,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 177,
-       "new_pos": 127
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -21694,7 +21718,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 178,
-       "new_pos": 128
+       "new_pos": 133
       },
       {
        "type": "equal",
@@ -21706,7 +21730,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 179,
-       "new_pos": 129
+       "new_pos": 134
       },
       {
        "type": "equal",
@@ -21718,7 +21742,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 182,
-       "new_pos": 130
+       "new_pos": 135
       },
       {
        "type": "equal",
@@ -21730,7 +21754,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 183,
-       "new_pos": 131
+       "new_pos": 136
       },
       {
        "type": "equal",
@@ -21742,7 +21766,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 184,
-       "new_pos": 132
+       "new_pos": 137
       },
       {
        "type": "equal",
@@ -21754,7 +21778,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 185,
-       "new_pos": 133
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -21766,7 +21790,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 186,
-       "new_pos": 134
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -21778,7 +21802,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 187,
-       "new_pos": 135
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -21790,7 +21814,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 188,
-       "new_pos": 136
+       "new_pos": 141
       },
       {
        "type": "equal",
@@ -21802,7 +21826,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 189,
-       "new_pos": 137
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -21814,7 +21838,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 190,
-       "new_pos": 138
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -21826,7 +21850,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 191,
-       "new_pos": 139
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -21838,7 +21862,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 192,
-       "new_pos": 140
+       "new_pos": 145
       },
       {
        "type": "equal",
@@ -21850,7 +21874,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 193,
-       "new_pos": 141
+       "new_pos": 146
       },
       {
        "type": "restreamed",
@@ -22450,6 +22474,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -22459,10 +22484,11 @@
      "counts": {
       "deleted": 0,
       "inserted": 12,
-      "modified": 6,
+      "modified": 5,
       "moved": 4,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23114,37 +23140,12 @@
       {
        "type": "modified",
        "stream": "caption",
-       "similarity": 0.97,
-       "old": "Source: Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006",
-       "new": "Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006",
-       "old_page": 89,
-       "new_page": 89,
-       "words": [
-        [
-         "-",
-         "Source:"
-        ],
-        [
-         "=",
-         "Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006"
-        ]
-       ],
-       "old_pos": 34,
-       "new_pos": 87
-      },
-      {
-       "type": "modified",
-       "stream": "caption",
-       "similarity": 0.844,
-       "old": "Source: Source: Census of India 2001",
+       "similarity": 0.964,
+       "old": "Source: Census of India 2001",
        "new": "Source: Census of India 2011",
        "old_page": 89,
        "new_page": 89,
        "words": [
-        [
-         "-",
-         "Source:"
-        ],
         [
          "=",
          "Source: Census of India"
@@ -23160,6 +23161,18 @@
        ],
        "old_pos": 33,
        "new_pos": 86
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006",
+       "new": "Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -23255,6 +23268,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23383,6 +23397,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23396,6 +23411,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23590,6 +23606,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23772,6 +23789,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -23785,6 +23803,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24180,7 +24199,7 @@
       "page": 89,
       "new_page": 89,
       "sentences": 29,
-      "score": 0.79,
+      "score": 0.86,
       "suspect": false
      },
      {
@@ -24229,17 +24248,18 @@
     "title": "Confronting Marginalisation",
     "file": "texts/social-political-life-3/2019-05-04/08-confronting-marginalisation.md"
    },
-   "similarity": 0.613,
+   "similarity": 0.622,
    "status": "matched",
    "streams": {
     "heading": {
      "counts": {
-      "deleted": 2,
+      "deleted": 1,
       "inserted": 0,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 0,
+      "restreamed": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24305,18 +24325,6 @@
        "new_pos": 3
       },
       {
-       "type": "deleted",
-       "stream": "heading",
-       "similarity": null,
-       "old": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
-       "new": null,
-       "old_page": 99,
-       "new_page": null,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": null
-      },
-      {
        "type": "equal",
        "stream": "heading",
        "similarity": 1.0,
@@ -24363,6 +24371,18 @@
        "words": [],
        "old_pos": 9,
        "new_pos": 7
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
+       "old": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+       "new": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989",
+       "old_page": 99,
+       "new_page": 99,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 78
       }
      ]
     },
@@ -24370,10 +24390,11 @@
      "counts": {
       "deleted": 1,
       "inserted": 1,
-      "modified": 5,
+      "modified": 3,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 46,
+      "restreamed": 47,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -24669,27 +24690,6 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.794,
-       "old": "Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.",
-       "new": "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989 Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.",
-       "old_page": 99,
-       "new_page": 99,
-       "words": [
-        [
-         "+",
-         "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act, 1989"
-        ],
-        [
-         "=",
-         "Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village."
-        ]
-       ],
-       "old_pos": 58,
-       "new_pos": 78
-      },
-      {
-       "type": "modified",
-       "stream": "body",
        "similarity": 0.558,
        "old": "Why do you think the Dalit families were afraid of angering the powerful castes?",
        "new": "Those from Rathnam’s own caste were fearful of angering the powerful.",
@@ -24844,13 +24844,25 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.",
+       "new": "Rathnam sought the support of law, filing his complaint under the above Act to protest against the domination and violence of the powerful castes in his village.",
+       "old_page": 99,
+       "new_page": 99,
+       "words": [],
+       "old_pos": 58,
+       "new_pos": 79
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "This Act was framed in 1989 in response to demands made by Dalits and others that the government must take seriously the ill treatment and humiliation Dalits and tribal groups face in an everyday sense.",
        "new": "This Act was framed in 1989 in response to demands made by Dalits and others that the government must take seriously the ill treatment and humiliation Dalits and tribal groups face in an everyday sense.",
        "old_page": 99,
        "new_page": 99,
        "words": [],
        "old_pos": 59,
-       "new_pos": 79
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -24862,7 +24874,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 60,
-       "new_pos": 80
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -24874,7 +24886,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 61,
-       "new_pos": 81
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -24886,7 +24898,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 62,
-       "new_pos": 82
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -24898,7 +24910,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 63,
-       "new_pos": 83
+       "new_pos": 84
       },
       {
        "type": "modified",
@@ -24939,7 +24951,7 @@
         ]
        ],
        "old_pos": 86,
-       "new_pos": 97
+       "new_pos": 98
       },
       {
        "type": "modified",
@@ -24968,7 +24980,7 @@
         ]
        ],
        "old_pos": 90,
-       "new_pos": 101
+       "new_pos": 102
       },
       {
        "type": "inserted",
@@ -24980,7 +24992,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": null,
-       "new_pos": 113
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -24992,7 +25004,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 83,
-       "new_pos": 94
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -25004,7 +25016,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 84,
-       "new_pos": 95
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -25016,7 +25028,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 85,
-       "new_pos": 96
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -25028,7 +25040,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 87,
-       "new_pos": 98
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -25040,7 +25052,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 88,
-       "new_pos": 99
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -25052,7 +25064,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 89,
-       "new_pos": 100
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -25064,7 +25076,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 91,
-       "new_pos": 102
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -25076,7 +25088,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 92,
-       "new_pos": 103
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -25088,7 +25100,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 93,
-       "new_pos": 104
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -25100,7 +25112,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 94,
-       "new_pos": 105
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -25112,7 +25124,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 95,
-       "new_pos": 106
+       "new_pos": 107
       },
       {
        "type": "equal",
@@ -25124,7 +25136,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 96,
-       "new_pos": 107
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -25136,7 +25148,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 97,
-       "new_pos": 108
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -25148,7 +25160,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 98,
-       "new_pos": 109
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -25160,7 +25172,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 99,
-       "new_pos": 110
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -25172,7 +25184,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 100,
-       "new_pos": 111
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -25184,7 +25196,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 101,
-       "new_pos": 112
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -25196,7 +25208,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 102,
-       "new_pos": 114
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -25208,7 +25220,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 103,
-       "new_pos": 115
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -25220,7 +25232,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 104,
-       "new_pos": 116
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -25232,7 +25244,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 105,
-       "new_pos": 117
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -25244,7 +25256,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 106,
-       "new_pos": 118
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -25256,7 +25268,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 107,
-       "new_pos": 119
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -25268,7 +25280,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 108,
-       "new_pos": 120
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -25280,7 +25292,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 109,
-       "new_pos": 121
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -25292,7 +25304,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 110,
-       "new_pos": 122
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -25304,7 +25316,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 111,
-       "new_pos": 123
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -25316,7 +25328,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 112,
-       "new_pos": 124
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -25328,7 +25340,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 113,
-       "new_pos": 125
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -25340,7 +25352,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 114,
-       "new_pos": 126
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -25352,7 +25364,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 115,
-       "new_pos": 127
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -25364,7 +25376,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 116,
-       "new_pos": 128
+       "new_pos": 129
       },
       {
        "type": "restreamed",
@@ -25502,13 +25514,25 @@
        "type": "restreamed",
        "stream": "body>caption",
        "similarity": 1.0,
+       "old": "Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other.",
+       "new": "Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other.",
+       "old_page": 96,
+       "new_page": 96,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 14
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>caption",
+       "similarity": 1.0,
        "old": "She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.",
        "new": "She is possibly also trying to say that pollution, a key tool of the caste system to separate or deny people access to spaces, work, knowledge and dignity, occurs not through the nature of work done, but ‘from within’- from your thoughts, values and beliefs.",
        "old_page": 96,
        "new_page": 96,
        "words": [],
        "old_pos": 23,
-       "new_pos": 14
+       "new_pos": 15
       },
       {
        "type": "restreamed",
@@ -25520,7 +25544,7 @@
        "new_page": 97,
        "words": [],
        "old_pos": 33,
-       "new_pos": 15
+       "new_pos": 16
       },
       {
        "type": "restreamed",
@@ -25556,7 +25580,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 40,
-       "new_pos": 16
+       "new_pos": 17
       },
       {
        "type": "restreamed",
@@ -25568,7 +25592,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 41,
-       "new_pos": 17
+       "new_pos": 18
       },
       {
        "type": "restreamed",
@@ -25580,7 +25604,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 42,
-       "new_pos": 18
+       "new_pos": 19
       },
       {
        "type": "restreamed",
@@ -25592,7 +25616,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 43,
-       "new_pos": 19
+       "new_pos": 20
       },
       {
        "type": "restreamed",
@@ -25604,7 +25628,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 44,
-       "new_pos": 20
+       "new_pos": 21
       },
       {
        "type": "restreamed",
@@ -25616,7 +25640,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 45,
-       "new_pos": 21
+       "new_pos": 22
       },
       {
        "type": "restreamed",
@@ -25628,7 +25652,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 46,
-       "new_pos": 22
+       "new_pos": 23
       },
       {
        "type": "restreamed",
@@ -25640,7 +25664,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 47,
-       "new_pos": 23
+       "new_pos": 24
       },
       {
        "type": "restreamed",
@@ -25652,7 +25676,7 @@
        "new_page": 98,
        "words": [],
        "old_pos": 48,
-       "new_pos": 24
+       "new_pos": 25
       },
       {
        "type": "restreamed",
@@ -25664,7 +25688,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": 64,
-       "new_pos": 25
+       "new_pos": 26
       },
       {
        "type": "restreamed",
@@ -25676,7 +25700,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 66,
-       "new_pos": 27
+       "new_pos": 28
       },
       {
        "type": "restreamed",
@@ -25688,7 +25712,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 67,
-       "new_pos": 28
+       "new_pos": 29
       },
       {
        "type": "restreamed",
@@ -25700,7 +25724,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 68,
-       "new_pos": 29
+       "new_pos": 30
       },
       {
        "type": "restreamed",
@@ -25712,7 +25736,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 69,
-       "new_pos": 30
+       "new_pos": 31
       },
       {
        "type": "restreamed",
@@ -25724,7 +25748,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 70,
-       "new_pos": 31
+       "new_pos": 32
       },
       {
        "type": "restreamed",
@@ -25736,7 +25760,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 71,
-       "new_pos": 32
+       "new_pos": 33
       },
       {
        "type": "restreamed",
@@ -25748,7 +25772,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 72,
-       "new_pos": 33
+       "new_pos": 34
       },
       {
        "type": "restreamed",
@@ -25760,7 +25784,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 73,
-       "new_pos": 34
+       "new_pos": 35
       },
       {
        "type": "restreamed",
@@ -25772,7 +25796,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 74,
-       "new_pos": 35
+       "new_pos": 36
       },
       {
        "type": "restreamed",
@@ -25784,7 +25808,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 75,
-       "new_pos": 36
+       "new_pos": 37
       },
       {
        "type": "restreamed",
@@ -25796,7 +25820,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 76,
-       "new_pos": 37
+       "new_pos": 38
       },
       {
        "type": "restreamed",
@@ -25808,7 +25832,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 77,
-       "new_pos": 38
+       "new_pos": 39
       },
       {
        "type": "restreamed",
@@ -25820,7 +25844,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 78,
-       "new_pos": 39
+       "new_pos": 40
       },
       {
        "type": "restreamed",
@@ -25832,7 +25856,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 79,
-       "new_pos": 40
+       "new_pos": 41
       },
       {
        "type": "restreamed",
@@ -25844,7 +25868,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 80,
-       "new_pos": 41
+       "new_pos": 42
       },
       {
        "type": "restreamed",
@@ -25856,7 +25880,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 81,
-       "new_pos": 42
+       "new_pos": 43
       },
       {
        "type": "restreamed",
@@ -25880,7 +25904,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 117,
-       "new_pos": 45
+       "new_pos": 46
       },
       {
        "type": "restreamed",
@@ -25892,7 +25916,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 118,
-       "new_pos": 46
+       "new_pos": 47
       },
       {
        "type": "restreamed",
@@ -25904,7 +25928,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 119,
-       "new_pos": 47
+       "new_pos": 48
       },
       {
        "type": "restreamed",
@@ -25916,28 +25940,7 @@
        "new_page": 102,
        "words": [],
        "old_pos": 120,
-       "new_pos": 48
-      },
-      {
-       "type": "modified",
-       "stream": "body>caption",
-       "similarity": 0.799,
-       "old": "Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other.",
-       "new": "Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99 Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other.",
-       "old_page": 96,
-       "new_page": 96,
-       "words": [
-        [
-         "+",
-         "Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99"
-        ],
-        [
-         "=",
-         "Soyrabai is questioning the idea of purity and arguing that since every human is born in the same manner, there is nothing that makes one body less or more pure than the other."
-        ]
-       ],
-       "old_pos": 22,
-       "new_pos": 13
+       "new_pos": 49
       }
      ]
     },
@@ -25949,6 +25952,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 59,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26527,7 +26531,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 46,
-       "new_pos": 84
+       "new_pos": 85
       },
       {
        "type": "restreamed",
@@ -26539,7 +26543,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 47,
-       "new_pos": 85
+       "new_pos": 86
       },
       {
        "type": "restreamed",
@@ -26551,7 +26555,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 48,
-       "new_pos": 86
+       "new_pos": 87
       },
       {
        "type": "restreamed",
@@ -26563,7 +26567,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 49,
-       "new_pos": 87
+       "new_pos": 88
       },
       {
        "type": "restreamed",
@@ -26575,7 +26579,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 50,
-       "new_pos": 88
+       "new_pos": 89
       },
       {
        "type": "restreamed",
@@ -26587,7 +26591,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 51,
-       "new_pos": 89
+       "new_pos": 90
       },
       {
        "type": "restreamed",
@@ -26599,7 +26603,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 52,
-       "new_pos": 90
+       "new_pos": 91
       },
       {
        "type": "restreamed",
@@ -26611,7 +26615,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 53,
-       "new_pos": 91
+       "new_pos": 92
       },
       {
        "type": "restreamed",
@@ -26623,7 +26627,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 54,
-       "new_pos": 92
+       "new_pos": 93
       },
       {
        "type": "restreamed",
@@ -26635,7 +26639,7 @@
        "new_page": 100,
        "words": [],
        "old_pos": 55,
-       "new_pos": 93
+       "new_pos": 94
       },
       {
        "type": "restreamed",
@@ -26722,28 +26726,17 @@
     },
     "caption": {
      "counts": {
-      "deleted": 1,
+      "deleted": 0,
       "inserted": 3,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "deleted",
-       "stream": "caption",
-       "similarity": null,
-       "old": "Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99",
-       "new": null,
-       "old_page": 96,
-       "new_page": null,
-       "words": [],
-       "old_pos": 0,
-       "new_pos": null
-      },
       {
        "type": "inserted",
        "stream": "caption",
@@ -26769,6 +26762,18 @@
        "new_pos": 10
       },
       {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99",
+       "new": "Quoted in Uma Chakravarti, Gendering Caste: Through a Feminist Lens, Stree, 2003, p. 99",
+       "old_page": 96,
+       "new_page": 96,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 13
+      },
+      {
        "type": "inserted",
        "stream": "caption",
        "similarity": null,
@@ -26778,7 +26783,7 @@
        "new_page": 99,
        "words": [],
        "old_pos": null,
-       "new_pos": 26
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -26790,7 +26795,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 1,
-       "new_pos": 43
+       "new_pos": 44
       },
       {
        "type": "equal",
@@ -26802,7 +26807,7 @@
        "new_page": 101,
        "words": [],
        "old_pos": 2,
-       "new_pos": 44
+       "new_pos": 45
       }
      ]
     },
@@ -26814,6 +26819,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26840,6 +26846,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -26853,6 +26860,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27035,6 +27043,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27181,6 +27190,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27194,6 +27204,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27220,7 +27231,7 @@
       "page": 96,
       "new_page": 96,
       "sentences": 30,
-      "score": 0.9,
+      "score": 0.93,
       "suspect": false
      },
      {
@@ -27241,7 +27252,7 @@
       "page": 99,
       "new_page": 99,
       "sentences": 18,
-      "score": 0.94,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -27301,6 +27312,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -27459,6 +27471,7 @@
       "moved": 2,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29403,6 +29416,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -29429,6 +29443,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30686,6 +30701,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30845,6 +30861,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -30858,6 +30875,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31209,6 +31227,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31331,6 +31350,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31344,6 +31364,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31703,6 +31724,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -31825,6 +31847,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33480,6 +33503,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -33493,6 +33517,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -34316,6 +34341,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -34474,6 +34500,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -34487,6 +34514,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -34898,6 +34926,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -35267,11 +35296,12 @@
     "references": {
      "counts": {
       "deleted": 2,
-      "inserted": 5,
-      "modified": 5,
+      "inserted": 6,
+      "modified": 3,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 1,
       "unreadable": 0,
       "punctuation": 3
      },
@@ -35299,31 +35329,6 @@
        "words": [],
        "old_pos": 32,
        "new_pos": null
-      },
-      {
-       "type": "modified",
-       "stream": "references",
-       "similarity": 0.883,
-       "old": "Bhopal Gas Tragedy http://www.studentsforbhopal.org/WhatHappened.htm.",
-       "new": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K.",
-       "old_page": 134,
-       "new_page": 134,
-       "words": [
-        [
-         "=",
-         "Bhopal Gas"
-        ],
-        [
-         "-",
-         "Tragedy http://www.studentsforbhopal.org/WhatHappened.htm."
-        ],
-        [
-         "+",
-         "Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K."
-        ]
-       ],
-       "old_pos": 28,
-       "new_pos": 33
       },
       {
        "type": "modified",
@@ -35421,39 +35426,6 @@
        "new_pos": 1
       },
       {
-       "type": "modified",
-       "stream": "references",
-       "similarity": 0.591,
-       "old": "Accessed on C.K.",
-       "new": "(Accessed on 24 October 2017)",
-       "old_page": 134,
-       "new_page": 134,
-       "words": [
-        [
-         "-",
-         "Accessed"
-        ],
-        [
-         "+",
-         "(Accessed"
-        ],
-        [
-         "=",
-         "on"
-        ],
-        [
-         "-",
-         "C.K."
-        ],
-        [
-         "+",
-         "24 October 2017)"
-        ]
-       ],
-       "old_pos": 29,
-       "new_pos": 6
-      },
-      {
        "type": "inserted",
        "stream": "references",
        "similarity": null,
@@ -35512,6 +35484,18 @@
        "words": [],
        "old_pos": null,
        "new_pos": 30
+      },
+      {
+       "type": "inserted",
+       "stream": "references",
+       "similarity": null,
+       "old": null,
+       "new": "(Accessed on 24 October 2017)",
+       "old_page": null,
+       "new_page": 134,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 6
       },
       {
        "type": "punctuation",
@@ -35607,6 +35591,18 @@
        ],
        "old_pos": 30,
        "new_pos": 34
+      },
+      {
+       "type": "resplit",
+       "stream": "references",
+       "similarity": 1.0,
+       "old": "Bhopal Gas Tragedy http://www.studentsforbhopal.org/WhatHappened.htm. Accessed on C.K.",
+       "new": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K.",
+       "old_page": 134,
+       "new_page": 134,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": 33
       },
       {
        "type": "equal",
@@ -35906,6 +35902,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -36015,7 +36012,7 @@
      {
       "page": 134,
       "new_page": 134,
-      "sentences": 35,
+      "sentences": 34,
       "score": 0.94,
       "suspect": false
      }

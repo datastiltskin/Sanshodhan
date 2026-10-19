@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch04.pdf"
 source_sha256: "8d2b1ce6db9ef0842669e532c7651da02b091126ea4b665f97c50070bb6f3403"
 pdf_pages: 12
 printed_pages: "42-53"
-body_fingerprint: "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9950"
+body_fingerprint: "5ba0f4a51e93445b89e0181c90687d4f46fb64a41f2893fc16fbffe8e8ec0376"
 ---
 
 <!-- page 42 (pdf 1) -->
@@ -128,7 +128,7 @@ In most societies, including our own, the roles men and women play or the work t
 
 Valuing housework
 
-Harmeet’s family did not think that the work Jaspreet did within the house was real work. This feeling is not unique to their families. Across the world, the main responsibility for housework and care-giving care-giving tasks, like looking after the family, especially children, the elderly and sick members, lies with women. Yet, as we have seen, the work that women do within the home is not recognised as work. It is also assumed that this is something that comes naturally to women. It, therefore, does not have to be paid for. And society devalues this work.
+Harmeet’s family did not think that the work Jaspreet did within the house was real work. This feeling is not unique to their families. Across the world, the main responsibility for housework and care-giving tasks, like looking after the family, especially children, the elderly and sick members, lies with women. Yet, as we have seen, the work that women do within the home is not recognised as work. It is also assumed that this is something that comes naturally to women. It, therefore, does not have to be paid for. And society devalues this work.
 
 > [caption] But, what about the kids’ lunch boxes?
 
@@ -162,7 +162,7 @@ Below is some data from a special study done by the Central Statistical Organiza
 
 State Women Paid Women Unpaid Women Men Paid Men Unpaid Men (Work hours (Housework (Total) (Work hours (Housework (Total) per week) hours per week) per week) hours per week)
 
-Haryana 23 30 ? 38 2 ? Tamil Nadu 19 35 ? 40 4 ?
+Haryana 23 30? 38 2? Tamil Nadu 19 35? 40 4?
 
 > [note] What are the total number of work hours spent by women in Haryana
 

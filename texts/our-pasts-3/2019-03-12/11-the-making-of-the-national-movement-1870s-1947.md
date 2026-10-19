@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch05.pdf"
 source_sha256: "385c71f82a236e525ff31c59cc927ecdde85d20c362d3e76474b9b830b975a48"
 pdf_pages: 19
 printed_pages: "141-159"
-body_fingerprint: "2e8bf116c912c5e09052578acbf66cf294814d8a5e9f02a59886c7d3e22fc24d"
+body_fingerprint: "e2b340698dfc38ac44936207ed430229f0c33da2c436b8bd1e0780cedb009474"
 ---
 
 <!-- page 141 (pdf 1) -->
@@ -144,7 +144,9 @@ It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As yo
 
 Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
-> [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895 In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
+> [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895
+
+> [caption] In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
 
 <!-- page 148 (pdf 8) -->
 
@@ -172,7 +174,9 @@ The Khilafat issue was one such cause. In 1920 the British imposed a harsh treat
 
 The Non-Cooperation Movement gained momentum through 1921-22. Thousands of students left government-controlled schools and colleges. Many lawyers such as Motilal Nehru, C.R. Das, C. Rajagopalachari and Asaf Ali gave up their practices. British titles were surrendered and legislatures boycotted. People lit public bonfires of foreign cloth. The imports of foreign cloth fell drastically between 1920 and 1922. But all this was merely the tip of the iceberg. Large parts of the country were on the brink of a formidable revolt.
 
-People’s initiatives In many cases people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
+### People’s initiatives
+
+In many cases people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
 
 In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against the high land revenue demand of the British. In coastal Andhra and interior Tamil Nadu, liquor shops were picketed. In the Guntur district of Andhra Pradesh, tribals and poor peasants staged a number of “forest satyagrahas”, sometimes sending their cattle into forests without paying grazing fee. They were protesting because the colonial state
 
@@ -216,7 +220,9 @@ The following is an extract from a CID report on the kisan movement in Allahabad
 
 The currency which Mr. Gandhi’s name has acquired even in the remotest villages is astonishing. No one seems to know quite who or what he is, but it is an accepted fact that what he says is so, and what he orders must be done. He is a Mahatma or sadhu, a Pundit, a Brahmin who lives at Allahabad, even a deota … the real power of his name is to be traced back to the idea that it was he who got bedakhli [illegal eviction] stopped in Pratapgarh … as a general rule, Gandhi is not thought of as being antagonistic to Government, but only to the zamindars … We are for Gandhiji and the Sarkar.
 
-The happenings of 1922-1929 Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922 a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
+### The happenings of 1922-1929
+
+Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922 a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
 
 Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that the Congress must undertake constructive work in the rural areas. Other leaders such as Chitta Ranjan Das and Motilal Nehru argued that the party should fight elections to the councils and enter them in order to influence government policies. Through sincere social work in villages in the mid-1920s, the Gandhians were able to extend their support base. This proved to be very useful in launching the Civil Disobedience movement in 1930.
 
@@ -310,7 +316,9 @@ From the late 1930s, the League began viewing the Muslims as a separate “natio
 
 <!-- page 156 (pdf 16) -->
 
-> [caption] Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942 Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
+> [caption] Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
+
+> [caption] Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
 
 An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 

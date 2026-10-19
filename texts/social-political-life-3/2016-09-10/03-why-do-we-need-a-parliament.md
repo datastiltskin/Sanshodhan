@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch03.pdf"
 source_sha256: "68a933e37f5d1fb9ba9e4cf3ff54cbdfd4fc9e553bcda37922cd1bd5fcaacdef"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "0bb7bee1acaac32db3d284796e0f9b6b427984d01a1e457760dddde9a392ff4e"
+body_fingerprint: "a2e56c5eb26a476ed3981b5fefd0a68a43dd0a37549a429b2ad0bfc1c77a4ba3"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -104,7 +104,11 @@ With the help of the table below, let us understand this further.
 
 Political Party No. of MPs
 
-National Parties Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3 Grand Total 543 Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
+National Parties
+
+Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI) 1 Communist Party of India (Marxist) (CPM) 9 Indian National Congress (INC) 44 Nationalist Congress Party (NCP) 6 State Parties (Regional Parties) Aam Aadmi Party (AAP) 4 All India Anna Dravida Munnetra Kazhagam 37 All India Trinamool Congress 34 All India United Democratic Front 3 Biju Janata Dal (BJD) 20 Indian National Lok Dal (INLD) 2 Indian Union Muslim League (IUML) 2 Jammu and Kashmir Peoples Democratic Party 3 Janata Dal (Secular) 2 Janata Dal (United) 2 Jharkhand Mukti Morcha (JMM) 2 Lok Jan Shakti Party 6 Rashtriya Janata Dal (RJD) 4 Samajwadi Party (SP) 5 Shiromani Akali Dal 4 Shiv Sena 18 Telangana Rashtra Samithi (TRS) 11 Telugu Desam (TDP) 16 Other Regional Parties 7 Registered Unrecognised Parties 16 Independents 3
+
+Grand Total 543
 
 > [caption] Source: http://.eci.nic.in
 
@@ -122,6 +126,8 @@ National Parties Bharatiya Janata Party (BJP) 282 Communist Party of India (CPI)
 
 <!-- page 36 (pdf 9) -->
 
+Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
+
 A. To Select the National Government
 
 Parliament of India consists of the President, the Rajya Sabha and the Lok Sabha. After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party. For a political party to form the government, they must have a majority of elected MPs. Since there are 543 elected (plus 2 Anglo-Indian nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more. The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed. The largest amongst these parties is called the Opposition party.
@@ -138,7 +144,15 @@ Often times in the recent past it has been difficult for a single political part
 
 > [caption] Political Party No. of MPs
 
-> [caption] National Parties Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9 Grand Total 543 Source: www.eci.nic.in The above table gives you the results of the 15th Lok Sabha elections held in 2009. In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha. It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.
+> [caption] National Parties
+
+> [caption] Bahujan Samaj Party (BSP) 21 Bharatiya Janata Party (BJP) 116 Communist Party of India (CPI) 4 Communist Party of India (Marxist) 16 (CPM) Indian National Congress (INC) 206 Nationalist Congress Party (NCP) 9 Rashtriya Janata Dal (RJD) 4 State Parties (Regional Parties) All India Anna DMK (AIADMK) 9 All India Forward Bloc 2 All India Trinamool Congress 19 Biju Janata Dal (BJD) 14 Dravida Munnetra Kazhagam (DMK) 18 Jammu & Kashmir National Conference 3 Janata Dal (Secular) 3 Janata Dal (United) 20 Jharkhand Mukti Morcha 2 Muslim League Kerala State Committee 2 Revolutionary Socialist Party 2 Samajwadi Party (SP) 23 Shiromani Akali Dal 4 Shiv Sena 11 Telangana Rashtra Samithi (TRS) 2 Telugu Desam (TDP) 6 Other Regional Parties 6 Registered Unrecognised Parties 12 Independents 9
+
+> [caption] Grand Total 543
+
+> [caption] Source: www.eci.nic.in
+
+> [caption] The above table gives you the results of the 15th Lok Sabha elections held in 2009. In these elections, the INC got a large number of seats but still not enough to emerge as the majority party in the Lok Sabha. It, thus, had to form a coalition, the United Progressive Alliance (UPA), with other political parties who were its allies.
 
 <!-- page 37 (pdf 10) -->
 

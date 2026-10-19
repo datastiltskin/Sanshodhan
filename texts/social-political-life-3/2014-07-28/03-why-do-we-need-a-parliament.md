@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-3/2014-07-28/ch03.pdf"
 source_sha256: "a9052c8dc7c548c6edd82e70cccdd88df9849fc3035a3538d215555e797fe1b3"
 pdf_pages: 14
 printed_pages: "28-41"
-body_fingerprint: "eb32d5799141392532921a3532dc41aae0f9b48b5877630fc998866684c3e8e8"
+body_fingerprint: "7c34c8b6526d021f6529815d33c0907ab1fb58240bdb732783f4faf897bc2ef7"
 ---
 
 <!-- page 28 (pdf 1) -->
@@ -109,7 +109,41 @@ Bharatiya Janta Party (BJP) 2
 
 Communist Party of India (CPI) 6
 
-Communist Party of India (Marxist) (CPM) 22 Indian Congress Socialist (ICS) 4 Indian National Congress (INC) 404 Janata Party (JNP) 10 Lok Dal (LKD) 3 State Parties All India Anna DMK (AIADMK) 12 Dravida Munnetra Kazhagam (DMK) 2 All India Forward Block (FBL) 2 Indian Congress (J) (ICJ) 1 Jammu & Kashmir Conference (JKN) 3 Kerala Congress (J) (KCJ) 2 Muslim League (MUL) 2 Peasants and Workers Party of India (PWP) 1 Revolutionary Socialist Party (RSP) 3 Telugu Desam Party (TDP) 30 Independents 5 Grand Total 514 Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
+Communist Party of India (Marxist) (CPM) 22
+
+Indian Congress Socialist (ICS) 4
+
+Indian National Congress (INC) 404
+
+Janata Party (JNP) 10
+
+Lok Dal (LKD) 3
+
+State Parties
+
+All India Anna DMK (AIADMK) 12
+
+Dravida Munnetra Kazhagam (DMK) 2
+
+All India Forward Block (FBL) 2
+
+Indian Congress (J) (ICJ) 1
+
+Jammu & Kashmir Conference (JKN) 3
+
+Kerala Congress (J) (KCJ) 2
+
+Muslim League (MUL) 2
+
+Peasants and Workers Party of India (PWP) 1
+
+Revolutionary Socialist Party (RSP) 3
+
+Telugu Desam Party (TDP) 30
+
+Independents 5
+
+Grand Total 514
 
 > [caption] Note: The Lok Sabha elections were not held in Assam and Punjab during 1984.
 
@@ -135,6 +169,8 @@ Communist Party of India (Marxist) (CPM) 22 Indian Congress Socialist (ICS) 4 In
 
 <!-- page 36 (pdf 9) -->
 
+Once elected, these candidates become Members of Parliament or MPs. These MPs together make up the Parliament. Once elections to the Parliament have taken place, the Parliament needs to perform the following functions:
+
 A. To Select the National Government
 
 The Parliament in India consists of the President, the Rajya Sabha and the Lok Sabha. After the Lok Sabha elections, a list is prepared showing how many MPs belong to each political party. For a political party to form the government, they must have a majority of elected MPs. Since there are 543 elected (plus 2 nominated) members in Lok Sabha, to have a majority a party should have at least half the number i.e. 272 members or more. The Opposition in Parliament is formed by all the political parties that oppose the majority party/coalition formed. The largest amongst these parties is called the Opposition party.
@@ -151,7 +187,11 @@ Often times in the recent past it has been difficult for a single political part
 
 > [caption] Political Party No. of MPs elected
 
-> [caption] National Parties Bharatiya Janata Party (BJP) 182 Bahujan Samaj Party (BSP) 14 Communist Party of India
+> [caption] National Parties Bharatiya Janata Party (BJP) 182
+
+> [caption] Bahujan Samaj Party (BSP) 14
+
+> [caption] Communist Party of India
 
 > [caption] [Marxist] (CPM) 33
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch09.pdf"
 source_sha256: "f6797108c98eb63048e708cc7091aa9fe4e42507f38e628c8e07f7ee2d41ab51"
 pdf_pages: 19
 printed_pages: "109-127"
-body_fingerprint: "cc7a25b5c95685c525d7af850330821fe37badb2699ef917666750ab7fbd20f1"
+body_fingerprint: "c436107c66d32a1e4552019da856dc8cfe43252c72286b2d70628f29bb1fd647"
 ---
 
 <!-- page 109 (pdf 1) -->
@@ -37,7 +37,7 @@ In the previous chapters we have looked at:
 
 ¢ The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
 
-> [caption] Fig. 1 Fig. 1 – Police teargas demonstrators during the Quit India movement
+> [caption] Fig. 1 – Police teargas demonstrators during the Quit India movement
 
 <!-- page 110 (pdf 2) -->
 
@@ -75,7 +75,7 @@ It has often been said that the Congress in the first twenty years was “modera
 
 The demand for Indianisation of the administration was part of a movement against racisim, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
 
-> [table] Fig. 2 Fig. 2 – Dadabhai Naoroji
+> [table] Fig. 2 – Dadabhai Naoroji
 
 > [table] Naoroji’s book Poverty and Un-British Rule in India offered a scathing criticism of the economic impact of British rule.
 
@@ -109,11 +109,11 @@ In 1905 Viceroy Curzon partitioned Bengal. At that time Bengal was the biggest p
 
 The partition of Bengal infuriated people all over India. All sections of the Congress – the Moderates and the Radicals, as they may be called – opposed it. Large public meetings and demonstrations were organised and novel methods of mass protest developed. The struggle that unfolded came to be known as the Swadeshi movement, strongest in Bengal but with echoes elsewhere too – in deltaic Andhra for instance, it was known as the Vandemataram Movement.
 
-> [caption] Fig. 4 Fig. 4 – Thousands joined the demonstrations during the Swadeshi movement Fig. 3 Fig. 3 – Balgangadhar Tilak Notice the name of the newspaper that lies on the table. Kesari, a Marathi newspaper edited by Tilak, became one of the strongest critics of British rule.
+> [caption] Fig. 4 – Thousands joined the demonstrations during the Swadeshi movement Fig. 3 – Balgangadhar Tilak Notice the name of the newspaper that lies on the table. Kesari, a Marathi newspaper edited by Tilak, became one of the strongest critics of British rule.
 
 <!-- page 114 (pdf 6) -->
 
-> [caption] Fig. 5 Fig. 5 – Lala Lajpat Rai
+> [caption] Fig. 5 – Lala Lajpat Rai
 
 > [table] A nationalist from Punjab, he was one of the leading members of the Radical group which was critical of the politics of petitions. He was also an active member of the Arya Samaj.
 
@@ -143,11 +143,13 @@ It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As yo
 
 Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
-> [caption] Fig. 6 Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895 In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
+> [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895
+
+> [caption] In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
 
 <!-- page 116 (pdf 8) -->
 
-> [caption] Fig. 7 Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
+> [caption] Fig. 7 – The walled compound in which General Dyer opened fire on a gathering of people
 
 > [table] The people are pointing to the bullet marks on the wall.
 
@@ -171,7 +173,9 @@ The Khilafat issue was one such cause. In 1920 the British imposed a harsh treat
 
 The Non-Cooperation Movement gained momentum through 1921-22. Thousands of students left government-controlled schools and colleges. Many lawyers such as Motilal Nehru, C.R. Das, C. Rajagopalachari and Asaf Ali gave up their practices. British titles were surrendered and legislatures boycotted. People lit public bonfires of foreign cloth. The imports of foreign cloth fell drastically between 1920 and 1922. But all this was merely the tip of the iceberg. Large parts of the country were on the brink of a formidable revolt.
 
-People’s initiatives In many cases people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
+### People’s initiatives
+
+In many cases people resisted British rule non-violently. In others, different classes and groups, interpreting Gandhiji’s call in their own manner, protested in ways that were not in accordance with his ideas. In either case, people linked their movements to local grievances. Let us look at a few examples.
 
 In Kheda, Gujarat, Patidar peasants organised non-violent campaigns against the high land revenue demand of the British. In coastal Andhra and interior Tamil Nadu, liquor shops were picketed. In the Guntur district of Andhra Pradesh, tribals and poor peasants staged a number of “forest satyagrahas”, sometimes sending their cattle into forests without paying grazing fee. They were protesting because the colonial state
 
@@ -189,7 +193,7 @@ Non-violence comes to us through doing good continually without the slightest ex
 
 > [table] 12 March 1938
 
-Picket – People protesting outside a building or shop to prevent others from entering Mahants Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent Fig. 8 Fig. 8 – A popular representation of Mahatma Gandhi In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent Fig. 8 – A popular representation of Mahatma Gandhi In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 <!-- page 118 (pdf 10) -->
 
@@ -215,7 +219,9 @@ The following is an extract from a CID report on the kisan movement in Allahabad
 
 The currency which Mr. Gandhi’s name has acquired even in the remotest villages is astonishing. No one seems to know quite who or what he is, but it is an accepted fact that what he says is so, and what he orders must be done. He is a Mahatma or sadhu, a Pundit, a Brahmin who lives at Allahabad, even a deota … the real power of his name is to be traced back to the idea that it was he who got bedakhli [illegal eviction] stopped in Pratapgarh … as a general rule, Gandhi is not thought of as being antagonistic to Government, but only to the zamindars … We are for Gandhiji and the Sarkar.
 
-The happenings of 1922-1929 Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922 a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
+### The happenings of 1922-1929
+
+Mahatma Gandhi, as you know, was against violent movements. He abruptly called off the Non-Cooperation Movement when in February 1922 a crowd of peasants set fire to a police station in Chauri Chaura. Twenty-two policemen were killed on that day. The peasants were provoked because the police had fired on their peaceful demonstration.
 
 Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that the Congress must undertake constructive work in the rural areas. Other leaders such as Chitta Ranjan Das and Motilal Nehru argued that the party should fight elections to the councils and enter them in order to influence government policies. Through sincere social work in villages in the mid-1920s, the Gandhians were able to extend their support base. This proved to be very useful in launching the Civil Disobedience movement in 1930.
 
@@ -223,13 +229,13 @@ Two important developments of the mid-1920s were the formation of the Rashtriya 
 
 Activity Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
 
-> [caption] Fig. 9 Fig. 9 – Chitta Ranjan Das
+> [caption] Fig. 9 – Chitta Ranjan Das
 
 > [table] A major figure in the freedom movement, Das was a lawyer from East Bengal. He was especially active in the Non-Cooperation Movement.
 
 <!-- page 120 (pdf 12) -->
 
-Fig. 10 Fig. 10 – Demonstrators oppose the Simon Commission In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
+Fig. 10 – Demonstrators oppose the Simon Commission In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
 
 The decade closed with the Congress resolving to fight for Purna Swaraj (complete independence) in 1929 under the presidentship of Jawaharlal Nehru. Consequently, “Independence Day” was observed on 26 January 1930 all over the country.
 
@@ -241,7 +247,7 @@ On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legisla
 
 Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931. Bhagat Singh’s age at that time was only 23.
 
-> [caption] Fig. 11 Fig. 11 – Bhagat Singh
+> [caption] Fig. 11 – Bhagat Singh
 
 <!-- page 121 (pdf 13) -->
 
@@ -251,7 +257,7 @@ Purna Swaraj would never come on its own. It had to be fought for. In 1930, Gand
 
 Gandhiji and his followers marched for over 240 miles from Sabarmati to the coastal town of Dandi where they broke the government law by gathering natural salt found on the seashore, and boiling sea water to produce salt.
 
-> [caption] Fig. 12 Fig. 12 – Mahatma Gandhi breaking the salt law by picking up a lump of natural salt, Dandi, 6 April 1930
+> [caption] Fig. 12 – Mahatma Gandhi breaking the salt law by picking up a lump of natural salt, Dandi, 6 April 1930
 
 Women in the freedom struggle: Ambabai from Karnataka Provincial autonomy Capacity of the provinces to make relatively independent decisions while remaining within a federation Peasants, tribals and women participated in large numbers. A business federation published a pamphlet on the salt issue. The government tried to crush the movement through brutal action against peaceful satyagrahis. Thousands were sent to jail.
 
@@ -265,7 +271,7 @@ Women in the freedom struggle: Ambabai from Karnataka Provincial autonomy Capaci
 
 <!-- page 122 (pdf 14) -->
 
-> [caption] Fig. 13 Fig. 13 – Sarojini Naidu with Mahatma Gandhi, Paris, 1931
+> [caption] Fig. 13 – Sarojini Naidu with Mahatma Gandhi, Paris, 1931
 
 > [table] Active in the national movement since the early 1920s, Naidu was a significant leader of the Dandi March. She was the first Indian woman to become President of the Indian National Congress (1925).
 
@@ -299,25 +305,27 @@ Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Indepen
 
 From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
-> [caption] Fig. 14 Fig. 14 – Quit India movement, August 1942 Demonstrators clashed with the police everywhere. Many thousands were arrested, over a thousand killed, many more were injured.
+> [caption] Fig. 14 – Quit India movement, August 1942 Demonstrators clashed with the police everywhere. Many thousands were arrested, over a thousand killed, many more were injured.
 
 > [note] Bose and the INA
 
-> [caption] Fig. 15 Fig. 15 – Subhas Chandra Bose
+> [caption] Fig. 15 – Subhas Chandra Bose
 
 > [note] A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”. In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA). To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed. The INA members were imprisoned and tried. People across the country, from all walks of life, participated in the movement against the INA trials.
 
 <!-- page 124 (pdf 16) -->
 
-> [caption] Fig. 16 Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942 Fig. 19 Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
+> [caption] Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
+
+> [caption] Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
 
 An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 
-> [caption] Fig. 17 Fig. 17 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
+> [caption] Fig. 17 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
 A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
 
-Fig. 18 Fig. 18 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945- 47 Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
+Fig. 18 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945- 47 Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
 
 <!-- page 125 (pdf 17) -->
 
@@ -327,17 +335,17 @@ The Congress’s failure to mobilise the Muslim masses in the 1930s allowed the 
 
 Elections to the provinces were again held in 1946. The Congress did well in the “General” constituencies but the League’s success in the seats reserved for Muslims was spectacular. It persisted with its demand for “Pakistan”. In March 1946 the British cabinet sent a three-member mission to Delhi to examine this demand and to suggest a suitable political framework for a free India. This mission suggested that India should remain united and constitute itself as a loose confederation with some autonomy for Muslim-majority areas. But it could not get the Congress and the Muslim League to agree to specific details of the proposal. Partition now became more or less inevitable.
 
-Fig. 20 Fig. 20 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946 Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
+Fig. 20 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946 Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
 
 “General”constituencies Election districts with no reservations for any religious or other community Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
-> [caption] Fig. 21 Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947
+> [caption] Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947
 
 <!-- page 126 (pdf 18) -->
 
 After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947 violence spread to different parts of northern India. Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
 
-> [caption] Fig. 22 Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
+> [caption] Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 
 ELSEWHERE
 

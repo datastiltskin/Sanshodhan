@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch07.pdf"
 source_sha256: "a246f69934987d2468c5fba42ba76a5161cee011f5f75ef1529370be2f398bb2"
 pdf_pages: 15
 printed_pages: "78-92"
-body_fingerprint: "0886165efccfcf21ede69a073bc8b5f2d0b38031f92a5b46a5c88d24d09c4460"
+body_fingerprint: "ab8bbb1fbde0ccb0c4f5f37333070fc007c234cfd3f009e7db7e03fda0a48598"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -21,7 +21,9 @@ Have you ever thought of how children lived about two hundred years ago? Nowaday
 
 Two hundred years ago things were very different. Most children were married off at an early age. Both Hindu and Muslim men could marry more than one wife. In some parts of the country, widows were praised if they chose death by burning themselves on the funeral pyre of their husbands. Women who died in this manner, whether willingly or otherwise, were called “sati”, meaning virtuous women. Women’s rights to property were also restricted. Besides, most women had virtually no access to education. In many parts of the country people believed that if a woman was educated, she would become a widow.
 
-> [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813 This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
+> [caption] Fig. 1 – Sati, painted by Balthazar Solvyn, 1813
+
+> [caption] This was one of the many pictures of sati painted by the European artists who came to India. The practice of sati was seen as evidence of the barbarism of the East.
 
 <!-- page 79 (pdf 2) -->
 
@@ -43,7 +45,9 @@ Can you think of the ways in which social customs and practices were discussed i
 
 Rammohun Roy was keen to spread the knowledge of Western education in the country and bring about greater freedom and equality for women. He wrote about the way women were forced to bear the burden of domestic work, confined to the home and the kitchen, and not allowed to move out and become educated.
 
-Changing the lives of widows Rammohun Roy was particularly moved by the problems widows faced in their lives. He began a campaign against the practice of sati.
+### Changing the lives of widows
+
+Rammohun Roy was particularly moved by the problems widows faced in their lives. He began a campaign against the practice of sati.
 
 Rammohun Roy was well versed in Sanskrit, Persian and several other Indian and Europeon languages. He tried to show through his writings that the practice of widow burning had no sanction in ancient texts. By the early nineteenth century, as you have read in Chapter 6, many British officials had also begun to criticise Indian traditions and customs. They were therefore, more than willing to listen to Rammohun who was reputed to be a learned man. In 1829, sati was banned.
 
@@ -83,7 +87,9 @@ This argument was taking place more than 175 years ago. Write down the different
 
 <!-- page 82 (pdf 5) -->
 
-Girls begin going to school Many of the reformers felt that education for girls was necessary in order to improve the condition of women.
+### Girls begin going to school
+
+Many of the reformers felt that education for girls was necessary in order to improve the condition of women.
 
 Vidyasagar in Calcutta and many other reformers in Bombay set up schools for girls. When the first schools were opened in the mid-nineteenth century, many people were afraid of them. They feared that schools would take girls away from home, prevent them from doing their domestic duties. Moreover, girls had to travel through public places in order to reach school. Many people felt that this would have a corrupting influence on them. They felt that girls should stay away from public spaces. Therefore, throughout the nineteenth century, most educated women were taught at home by liberal fathers or husbands. Sometimes women taught themselves. Do you remember what you read about Rashsundari Debi in your book Social and Political Life last year? She was one of those who secretly learned to read and write in the flickering light of candles at night.
 
@@ -95,7 +101,9 @@ Women write about women From the early twentieth century, Muslim women like the 
 
 > [caption] Fig. 5 Ishwarchandra Vidyasagar
 
-> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875 When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
+> [caption] Fig. 6 – Students of Hindu Mahila Vidyalaya, 1875
+
+> [caption] When girls’ schools were first set up in the nineteenth century, it was generally believed that the curriculum for girls ought to be less taxing than that for boys. The Hindu Mahila Vidyalaya was one of the first institutions to provide girls with the kind of learning that was usual for boys at the time.
 
 <!-- page 83 (pdf 6) -->
 
@@ -167,7 +175,9 @@ Activity
 
 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
 
-Demands for equality and justice Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
+### Demands for equality and justice
+
+Gradually, by the second half of the nineteenth century, people from within the Non-Brahman castes began organising movements against caste discrimination, and demanded social equality and justice.
 
 The Satnami movement in Central India was founded by Ghasidas who worked among the leatherworkers and organised a movement to improve their social status. In eastern Bengal, Haridas Thakur’s Matua sect worked among Chandala cultivators. Haridas questioned Brahmanical texts that supported the caste system. In what is present-day Kerala, a guru from Ezhava caste, Shri Narayana Guru, proclaimed the ideals of unity for his people. He argued against treating people unequally on the basis of caste differences. According to him, all humankind belonged to the same caste. One of his famous statements was: “oru jati, oru matam, oru daivam manushyanu” (one caste, one religion, one god for humankind).
 
@@ -217,7 +227,9 @@ Ambedkar led three such movements for temple entry between 1927 and 1935. His ai
 
 <!-- page 89 (pdf 12) -->
 
-The Non-Brahman movement In the early twentieth century, the non-Brahman movement started. The initiative came from those non-Brahman castes that had acquired access to education, wealth and influence. They argued that Brahmans were heirs of Aryan invaders from the north who had conquered southern lands from the original inhabitants of the region – the indigenous Dravidian races. They also challenged Brahmanical claims to power.
+### The Non-Brahman movement
+
+In the early twentieth century, the non-Brahman movement started. The initiative came from those non-Brahman castes that had acquired access to education, wealth and influence. They argued that Brahmans were heirs of Aryan invaders from the north who had conquered southern lands from the original inhabitants of the region – the indigenous Dravidian races. They also challenged Brahmanical claims to power.
 
 E.V. Ramaswamy Naicker, or Periyar, as he was called, came from a middle-class family. Interestingly, he had been an ascetic in his early life and had studied Sanskrit scriptures carefully. Later, he became a member of the Congress, only to leave it in disgust when he found that at a feast organised by nationalists, seating arrangements followed caste distinctions – that is, the lower castes were made to sit at a distance from the upper castes. Convinced that untouchables had to fight for their dignity, Periyar founded the Self Respect Movement. He argued that untouchables were the true upholders of an original Tamil and Dravidian culture which had been subjugated by Brahmans. He felt that all religious authorities saw social divisions and inequality as God-given. Untouchables had to free themselves, therefore, from all religions in order to achieve social equality.
 
@@ -247,27 +259,39 @@ Why does caste remain such a controversial issue today? What do you think was th
 
 Organising for reform
 
-> [note] Derozio and Young Bengal Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
+> [note] The Brahmo Samaj
 
-> [note] Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world. After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”. Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale. But his mission was not simply to talk of religion. He was extremely pained at the poverty and the misery of his country men. He firmly believed that any reform could become successful only by uplifting the condition of the masses. Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation. By sending out this call, he made a signal contribution to the nascent nationalism of India. His sense of nationalism was, however, not narrow in its conception. He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing. Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage. In this exhortation, he became truly ‘the symbol of a new spirit and a source of strength for the future’.
+> [note] Derozio and Young Bengal
 
-> [note] The Prarthana Samaj Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
+> [note] Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
 
-> [note] The Veda Samaj Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
+> [note] The Ramakrishna Mission and Swami Vivekananda Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world. After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”. Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale. But his mission was not simply to talk of religion. He was extremely pained at the poverty and the misery of his country men. He firmly believed that any reform could become successful only by uplifting the condition of the masses. Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation. By sending out this call, he made a signal contribution to the nascent nationalism of India. His sense of nationalism was, however, not narrow in its conception. He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing. Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage. In this exhortation, he became truly ‘the symbol of a new spirit and a source of strength for the future’.
 
-> [note] The Brahmo Samaj The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
+> [note] Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
+
+> [note] Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
+
+> [note] The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
 > [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj Fig. 17 Henry Derozio
 
-> [note] The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
+> [note] Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
 
 > [caption] Fig. 18 Swami Vivekananda
 
+> [note] The Prarthana Samaj
+
+> [note] The Veda Samaj
+
 <!-- page 91 (pdf 14) -->
 
-> [note] The Aligarh Movement The Mohammedan Anglo‐Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+> [note] The Aligarh Movement
 
-> [note] The Singh Sabha Movement Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non‐Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+> [note] The Mohammedan Anglo‐Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+
+> [note] The Singh Sabha Movement
+
+> [note] Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non‐Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
 
 <!-- section: exercises -->
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2016-09-10/ch06.pdf"
 source_sha256: "f40d119fa8dde555c3565f3d8722e37b81a9594ad635a98f2599d865fa93bf03"
 pdf_pages: 12
 printed_pages: "66-77"
-body_fingerprint: "f22a020ada1c6a2510188331362641c2422f54d32a892a6100d143dd32eca44f"
+body_fingerprint: "64cd5978e1773f301fb32bc7a13f8cf0a9b8db9e1edbbb3297fdc72b98785d0c"
 ---
 
 <!-- page 66 (pdf 1) -->
@@ -122,7 +122,7 @@ The judge hears the testimony of all the witnesses. After the testimony of Inspe
 
 > [caption] Here is the chain that has been identified by Mrs Shinde as hers. We busted a gang of boys who had stolen the chain. These boys have admitted that they stole the chain.
 
-From the above incident, you can see that the four key players in the criminal justice system are the police police police, the Public Prosecutor Public Prosecutor, the defence lawyer and the judge judge judge. You have seen the roles each of them played in the above case. Now let us try and understand their roles more generally.
+From the above incident, you can see that the four key players in the criminal justice system are the police, the Public Prosecutor, the defence lawyer and the judge. You have seen the roles each of them played in the above case. Now let us try and understand their roles more generally.
 
 ## What is the Role of the Police in Investigating a Crime?
 
@@ -176,11 +176,11 @@ Let us for a moment imagine what might have happened if the judge decided to try
 
 statements of witnesses to Shanti? What if he held the trial in a secret location where neither Shanti nor Sushil were present? What if he did not give Shanti’s lawyer, Advocate Roy enough time to question the witnesses of the prosecution such as Mrs Shinde and instead had already decided that Shanti was guilty? If this had happened, then it would be a case of an unfair trial. This is because for a trial to be fair, several different procedures have to be observed. Article 21 of the Constitution that guarantees the Right to Life states that a person’s life or liberty can be taken away only by following a reasonable and just legal procedure. A fair trial ensures that Article 21 of the Constitution is upheld. Let us now return to Shanti’s case as described in the storyboard and identify the essential elements of a fair trial:
 
-Firstly, Shanti was given a copy of the chargesheet and all other evidence that the prosecution presented against her. Shanti was charged with the offence of theft that was defined as a crime in the law. The trial was held in an open court open court open court, in public view. Her brother, Sushil could attend the court hearings. The trial was held in the presence of the accused accused accused. Shanti was defended by a lawyer defended by a lawyer defended by a lawyer. Shanti’s lawyer, Advocate Roy was given an opportunity to opportunity to cross-examine all the prosecution rosecution rosecution witnesses. Advocate Roy was given an itnesses. Advocate Roy was given an opportunity to present witnesses in Shanti’s defence.
+Firstly, Shanti was given a copy of the chargesheet and all other evidence that the prosecution presented against her. Shanti was charged with the offence of theft that was defined as a crime in the law. The trial was held in an open court, in public view. Her brother, Sushil could attend the court hearings. The trial was held in the presence of the accused. Shanti was defended by a lawyer. Shanti’s lawyer, Advocate Roy was given an opportunity to cross-examine all the prosecution rosecution witnesses. Advocate Roy was given an itnesses. Advocate Roy was given an opportunity to present witnesses in Shanti’s defence.
 
-Although the police filed a case of theft against Shanti, the judge assumed her to be innocent assumed her to be innocent assumed her to be innocent. It was the responsibility of the prosecution to prove beyond reasonable doubt to prove beyond reasonable doubt that Shanti was guilty. In this case the prosecution failed to do so.
+Although the police filed a case of theft against Shanti, the judge assumed her to be innocent. It was the responsibility of the prosecution to prove beyond reasonable doubt that Shanti was guilty. In this case the prosecution failed to do so.
 
-It is significant that the judge decided the matter only on the basis of the evidence basis of the evidence before the court. The judge did not jump to the conclusion that Shanti was the thief just because she was a poor maidservant. Instead, the judge remained impartial impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free. In Shanti’s case, justice was finally done to her because she was given a fair trial fair trial.
+It is significant that the judge decided the matter only on the basis of the evidence before the court. The judge did not jump to the conclusion that Shanti was the thief just because she was a poor maidservant. Instead, the judge remained impartial and since the evidence showed that some young men and not Shanti was the thief, he set Shanti free. In Shanti’s case, justice was finally done to her because she was given a fair trial.
 
 > [caption] Here are my case papers. I have been falsely accused of stealing my employer’s gold chain.
 

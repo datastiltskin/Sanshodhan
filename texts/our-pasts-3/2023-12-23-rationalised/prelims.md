@@ -22,7 +22,9 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/prelims.pdf"
 
 > [caption] ALL RIGHTS RESERVED
 
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017
+
+> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
@@ -30,7 +32,19 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/prelims.pdf"
 
 > [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] Reprinted October 2019, March 2021, October 2021, November 2021 OFFICES OF THE PUBLICATION Second Revised Edition July 2022 Ashada 1944 Division, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Reprinted November 2022 Agrahayana 1944 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+> [caption] Reprinted October 2019, March 2021, October 2021, November 2021
+
+> [caption] OFFICES OF THE PUBLICATION
+
+> [caption] Second Revised Edition July 2022 Ashada 1944
+
+> [caption] Division, NCERT
+
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+> [caption] Reprinted November 2022 Agrahayana 1944
+
+> [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
 
 > [table] PD 370T BS
 
@@ -38,13 +52,15 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/prelims.pdf"
 
 > [table] © National Council of Educational Research and Training, 2008, 2019, 2022
 
-> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] ` 65.00
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Production : Arun Chitkara Officer Chief Business : Vipin Dewan Manager Chief Editor (In charge) : Bijnan Sutar Assistant Production : Deepak Jaiswal Officer
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Production: Arun Chitkara Officer Chief Business: Vipin Dewan Manager Chief Editor (In charge) : Bijnan Sutar Assistant Production: Deepak Jaiswal Officer
 
 > [caption] Printed on 80 GSM paper with NCERT watermark
 

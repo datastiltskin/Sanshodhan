@@ -162,7 +162,9 @@ In the early years of his reign, Shah Jahan’s capital was at Agra, a city wher
 
 Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles – like his eldest son Dara Shukoh – were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
-> [note] Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
+> [note] Pietra dura
+
+> [note] Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
 
 > [caption] Fig. 13 The Taj Mahal at Agra, completed in 1643.
 

@@ -31,9 +31,17 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-prelims.pdf"
 
 > [caption] qThe correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangalore 560 085 Phone : 080-26725740 Navjivan Trust Building P.O. Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Head, Publication : Ashok Srivastava Division Chief Production : Kalyan Banerjee Officer Chief Business : Gautam Ganguly Manager Chief Editor : Naresh Yadav (Contractual Service)
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangalore 560 085 Phone : 080-26725740
 
-> [caption] Production Assistant : Sunil Kumar
+> [caption] Navjivan Trust Building P.O. Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+> [caption] Head, Publication: Ashok Srivastava Division Chief Production: Kalyan Banerjee Officer Chief Business: Gautam Ganguly Manager Chief Editor: Naresh Yadav (Contractual Service)
+
+> [caption] Production Assistant: Sunil Kumar
 
 > [caption] Cover and Layout
 
@@ -45,9 +53,13 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-prelims.pdf"
 
 > [caption] First Edition January 2008 Magha 1929
 
-> [caption] Reprinted January 2009 Magha 1930 January 2010 Magha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 February 2013 Magha 1934 January 2014 Pausa 1935 PD 460T MJ
+> [caption] Reprinted January 2009 Magha 1930 January 2010 Magha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 February 2013 Magha 1934 January 2014 Pausa 1935
 
-> [caption] © National Council of Educational Research and Training, 2008 OFFICES OF THE PUBLICATION DIVISION, NCERT
+> [caption] PD 460T MJ
+
+> [caption] © National Council of Educational Research and Training, 2008
+
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT
 
 > [caption] ` 50.00
 

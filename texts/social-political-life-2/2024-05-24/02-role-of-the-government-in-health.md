@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch02.pdf"
 source_sha256: "2a1c6f49007feb460c4583b3fbd0eba17a4d4edc4b81abb7dfa7254cc60d4b34"
 pdf_pages: 14
 printed_pages: "10-23"
-body_fingerprint: "3038936ef139eeb08d7be6b7df32e66c26222b34f94fdb1dc85c660a756a25e8"
+body_fingerprint: "3f6f0e500d07f119c0f3e8267c6ed665ddb8f13daca5fa9f6ff7fbbe858d3a0f"
 ocr_pages:
   - 5
 overrides:
@@ -226,9 +226,11 @@ In rural areas, a jeep is often used to serve as a mobile clinic for patients.
 
 This pregnant lady has to travel many kilometres to see a qualified doctor.
 
-Sustainable Development Goal (SDG) www.in.undp.org The above map of India shows the state of Kerala in pink.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 22 (pdf 13) -->
+
+The above map of India shows the state of Kerala in pink.
 
 Page 97 of this book has a map of India. Using your pencil outline the state of Kerala on this map.
 
@@ -246,7 +248,7 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 > [table] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
 
-Sustainable Development Goal (SDG) www.in.undp.org
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- section: exercises -->
 

@@ -26,7 +26,13 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/prelims.pdf"
 
 > [caption] ISBN 81-7450-724-8
 
-> [caption] First Edition April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] First Edition
+
+> [caption] April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935
+
+> [caption] ALL RIGHTS RESERVED
+
+> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
@@ -40,17 +46,29 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/prelims.pdf"
 
 > [caption] Research and Training, 2007
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangalore 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangalore 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [caption] ` 50.00
 
 > [caption] Publication Team
 
-> [caption] Head, Publication : Ashok Srivastava Division Chief Production : Shiv Kumar Officer Chief Business : Gautam Ganguly Manager Chief Editor : Naresh Yadav (Contractual Service)
+> [caption] Head, Publication: Ashok Srivastava Division Chief Production: Shiv Kumar Officer Chief Business: Gautam Ganguly Manager Chief Editor: Naresh Yadav (Contractual Service)
 
-> [caption] Production Officer : Arun Chitkara
+> [caption] Production Officer: Arun Chitkara
 
-> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at The Central Press (P) Ltd., 123/443, Factory Area, Fazal Ganj, Kanpur 208 012 Arrt Creations Cartography Cartographic Designs Agency
+> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at The Central Press (P) Ltd., 123/443, Factory Area, Fazal Ganj, Kanpur 208 012
+
+> [caption] Arrt Creations
+
+> [caption] Cartography
+
+> [caption] Cartographic Designs Agency
 
 <!-- pdf page 5 -->
 
@@ -68,9 +86,11 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 Director National Council of Educational
 
-Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE ACKNOWLEDGEMENTS This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
+Research and Training New Delhi 20 November 2006
 
 <!-- pdf page 7 -->
+
+TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -95,6 +115,10 @@ Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE 
 > [caption] MEMBER-COORDINATOR
 
 <!-- pdf page 8 -->
+
+ACKNOWLEDGEMENTS
+
+This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
 Professors J.S. Grewal, member of the NCERT Monitoring Committee and Muzaffar Alam of the University of Chicago commented on several chapters and very generously responded to all our queries. Professor Ebba Koch of the University of Vienna was kind enough to give us permission to use many of her photographs and illustrations. We are indebted to Dr. Meera Khare of PGDAV College, Delhi University, for her promptness in responding to our questions and providing us help with information and visuals.
 

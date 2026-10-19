@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch01.pdf"
 source_sha256: "9a098b768a04af04bc5508ea377d2a235f5f4768da0112cf1ce01a422ac584a7"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "4c1a1ab85ccc85e48e0961ae1dd35482244bff0e06f83183e73ee80ab86b08cf"
+body_fingerprint: "446faeabe3949842eebb545c32e0f6ca23b95d0a7ac37213bf8a84c2bcd00bfb"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -30,7 +30,9 @@ Look carefully at Fig.1 and write a paragraph explaining how this image projects
 
 Activity
 
-> [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
+> [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782
+
+> [caption] Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
 
@@ -84,7 +86,9 @@ You will, however, find that all classes and groups did not experience these cha
 
 What sources do historians use in writing about the last 250 years of Indian history?
 
-Administration produces records One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
+### Administration produces records
+
+One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
 
 The British also felt that all important documents and letters needed to be carefully preserved. So they set up record rooms attached to all administrative institutions. The village tahsildar’s office, the collectorate, the commissioner’s office, the provincial secretariats, the lawcourts – all had their record rooms. Specialised institutions like archives and museums were also established to preserve important records.
 
@@ -116,11 +120,15 @@ Vizagapatnam: The positionis completely under control and no violence has occurr
 
 <!-- page 6 (pdf 6) -->
 
-Surveys become important The practice of surveying also became common under the colonial administration. The British believed that a country had to be properly known before it could be effectively administered.
+### Surveys become important
+
+The practice of surveying also became common under the colonial administration. The British believed that a country had to be properly known before it could be effectively administered.
 
 By the early nineteenth century, detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+### What official records do not tell
+
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 

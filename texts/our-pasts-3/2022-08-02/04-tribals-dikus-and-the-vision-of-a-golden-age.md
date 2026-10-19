@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch04.pdf"
 source_sha256: "0280086fcfdd37355c62ae58bf25bfa436859dab99a69822fe260ccc2d88619c"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "9cdb671ab57de9cde8c8e9d978068b8a0253489740ff575ed6dfbd289ac051e9"
+body_fingerprint: "983dbf80027c22520dd861f15e7525c7aeda85caed5a4a261f2949b4284f2047"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -25,7 +25,7 @@ What problems did Birsa set out to resolve? Who were the outsiders being referre
 
 You have read about tribal societies last year. Most tribes had customs and rituals that were very different from those laid down by Brahmans. These societies also did not have the sharp social divisions that were characteristic of caste societies. All those who belonged to the same tribe thought of themselves as sharing common ties of kinship. However, this did not mean that there were no social and economic differences within tribes.
 
-> [caption] Fig. 1 Fig. 1 – Women of the Dongria Kandha tribe in Orissa wade through the river on the way to the market
+> [caption] Fig. 1 – Women of the Dongria Kandha tribe in Orissa wade through the river on the way to the market
 
 <!-- page 40 (pdf 2) -->
 
@@ -37,7 +37,9 @@ Fallow – A field left uncultivated for a while so that the soil recovers ferti
 
 By the nineteenth century, tribal people in different parts of India were involved in a variety of activities.
 
-Some were jhum cultivators Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
+### Some were jhum cultivators
+
+Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
 
 ### Some were hunters and gatherers
 
@@ -49,7 +51,9 @@ From where did these forest people get their supplies of rice and other grains? 
 
 Tribal groups often needed to buy and sell in order to be able to get the goods that were not produced within the locality. This led to their dependence on traders and moneylenders. Traders came around with things for sale, and sold the goods at high prices. Moneylenders gave loans with which the tribals met their cash needs, adding to what they earned. But the interest charged on the loans was usually very high. So for the tribals, market and commerce often meant debt and poverty. They therefore came to see the moneylender and trader as evil outsiders and the cause of their misery.
 
-Some herded animals Many tribal groups lived by herding and rearing animals. They were pastoralists who moved with their herds of cattle or sheep according to the seasons. When the grass in one place was exhausted, they moved to another area. The Van Gujjars of the Punjab hills and the Labadis of Andhra Pradesh were cattle herders, the Gaddis of Kulu were shepherds, and the Bakarwals of Kashmir reared goats. You will read more about them in your history book next year.
+### Some herded animals
+
+Many tribal groups lived by herding and rearing animals. They were pastoralists who moved with their herds of cattle or sheep according to the seasons. When the grass in one place was exhausted, they moved to another area. The Van Gujjars of the Punjab hills and the Labadis of Andhra Pradesh were cattle herders, the Gaddis of Kulu were shepherds, and the Bakarwals of Kashmir reared goats. You will read more about them in your history book next year.
 
 > [caption] Fig. 3 – Location of some tribal groups in India
 

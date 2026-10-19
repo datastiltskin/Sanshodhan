@@ -20,9 +20,17 @@ cla 3rfar PAA SR TART fap sy f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [table] ` 65.00
 
-> [caption] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8 First Edition April 2007  Vaisakha 1929 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8
 
-> [caption] Reprinted November 2007, January 2009, December 2009, November 2010, January 2012, March 2012, October 2013, December 2014, December 2015, December 2016, December 2017, January 2019, August 2019, March 2021, July 2021 and November 2021 This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+> [caption] First Edition April 2007  Vaisakha 1929
+
+> [caption] ALL RIGHTS RESERVED
+
+> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+
+> [caption] Reprinted November 2007, January 2009, December 2009, November 2010, January 2012, March 2012, October 2013, December 2014, December 2015, December 2016, December 2017, January 2019, August 2019, March 2021, July 2021 and November 2021
+
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
@@ -30,13 +38,33 @@ cla 3rfar PAA SR TART fap sy f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] DIVISION, NCERT
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Revised Edition May 2022 Jyestha 1944 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+> [caption] Revised Edition May 2022 Jyestha 1944
+
+> [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
 
 > [caption] © National Council of Educational
 
 > [caption] Research and Training, 2007, 2022
 
-> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Publication Team Head, Publication : Anup Kumar Rajput Division Chief Production : Arun Chitkara Officer Chief Business : Vipin Dewan Manager Chief Editor (In charge) : Bijnan Sutar Assistant Editor : Shashi Chadha Printed on 80 GSM paper with NCERT watermark Production Assistant : Rajesh Pippal Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Arun Packers & Printers, C-36 Lawrence Road Industrial Area, Delhi 110 035 Cover and Layout Arrt Creations Cartography Cartographic Designs Agency
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+
+> [caption] Publication Team
+
+> [caption] Head, Publication: Anup Kumar Rajput Division Chief Production: Arun Chitkara Officer Chief Business: Vipin Dewan Manager Chief Editor (In charge) : Bijnan Sutar Assistant Editor: Shashi Chadha Printed on 80 GSM paper with NCERT watermark Production Assistant: Rajesh Pippal Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Arun Packers & Printers, C-36 Lawrence Road Industrial Area, Delhi 110 035
+
+> [caption] Cover and Layout
+
+> [caption] Arrt Creations
+
+> [caption] Cartography
+
+> [caption] Cartographic Designs Agency
 
 <!-- pdf page 3 -->
 
@@ -82,7 +110,9 @@ This present edition, is a reformatted version after carrying out the changes gi
 
 > [caption] Chairperson, Advisory Committee for Textbooks in Social Science
 
-> [table] for the Secondary Stage Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata
+for the Secondary Stage
+
+> [table] Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata
 
 > [caption] Chief Advisor
 

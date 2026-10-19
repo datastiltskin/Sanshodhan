@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch01.pdf"
 source_sha256: "a137f2285a08cfb1f89ea1e39709f5ba8c4b90a9b8ec076f238c42d6485b638e"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "1f7b3b0187d8faeb5f07897edddfd594e28a84d8378fcee011a281dc093f2df5"
+body_fingerprint: "cd9e203a60a1ac28487229cd13fed0e773256604dbb64c01e4cd678ccaec1391"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -27,7 +27,7 @@ Living in the world we do not always ask historical questions about what we see 
 
 Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.  Activity All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
 
-> [caption] Fig. 1 Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
+> [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
 
@@ -85,7 +85,9 @@ You will, however, find that all classes and groups did not experience these cha
 
 What sources do historians use in writing about the last 250 years of Indian history?
 
-Administration produces records One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
+### Administration produces records
+
+One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
 
 The British also felt that all important documents and letters needed to be carefully preserved. So they set up record rooms attached to all administrative institutions. The village tahsildar’s office, the collectorate, the commissioner’s office, the provincial secretariats, the lawcourts – all had their record rooms. Specialised institutions like archives and museums were also established to preserve important records.
 
@@ -111,7 +113,9 @@ Vizagapatnam: The position is completely under control and no violence has occur
 
 > [table] Director of Intelligence, HQ.
 
-> [table] India Command, Situation Report No. 7. File No. 5/21/46 Home (Political), Government of India
+> [table] India Command, Situation Report No. 7. File No. 5/21/46
+
+> [table] Home (Political), Government of India
 
 <!-- page 6 (pdf 6) -->
 
@@ -121,7 +125,9 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+### What official records do not tell
+
+From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 

@@ -204,7 +204,7 @@ II. Literacy Rate by Religion, 2001
 
 ### 65% 65% 59% 80% 70% 73% 94%
 
-> [caption] Source: Source: Census of India 2001
+> [caption] Source: Census of India 2001
 
 Which religious group has the lowest literacy rate?
 
@@ -214,7 +214,7 @@ III. Public Employment of Muslims (percentages)
 
 ### 13.5 3 4 1.8 3.3 10.8 2.2
 
-> [caption] Source: Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006
+> [caption] Source: Social, Economic and Educational Status of the Muslim Community of India, Prime Minister’s High Level Committee Report 2006
 
 What do these figures convey?
 

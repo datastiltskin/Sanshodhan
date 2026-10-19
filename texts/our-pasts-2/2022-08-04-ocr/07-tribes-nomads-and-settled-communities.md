@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch07.pdf"
 source_sha256: "cb4897f596e8529bd0211e4f3e3cad0168bcade38eacc34e50b85cecced0aba0"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "a27936539c556c79e679758c5fe632656bbe149a0a78c3bc0e37a6dd29ab337b"
+body_fingerprint: "8b76ad31f501764f916b75231c8e81c086720a70e9450d1a6bf758e2c359e7a7"
 ocr: true
 ocr_confidence: 93.3
 ---
@@ -41,7 +41,7 @@ But the caste-based and tribal societies also depended on each other for their d
 
 Contemporary historians and travellers give very scanty information about tribes. A few exceptions apart, tribal people did not keep written records. But they preserved rich customs and oral traditions. These were passed down to each new generation. Present-day historians have started using such oral traditions to write tribal histories.
 
-Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble (mansabdar) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful p-oN ~ ) KHOKHARS z= JANJUHAS s ~ } ah f 2] PB Sed e ~ —— / i J \ { ¢ ke AHOMS Som : . MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \ > \, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \ . BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe : ? KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \ he VL \ g iP e ¥ po j De ly Tho’ \ ‘ é: = / = ) or rt 45 A \\ gysnohens 5 "3 7 ee \% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \ MARAVARS. °F Ss . \ f j \ . ; Fe es A 3 a INDIAN . OGEAN % i)
+Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble (mansabdar) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful p-oN ~ ) KHOKHARS z= JANJUHAS s ~ } ah f 2] PB Sed e ~ —— / i J \ { ¢ ke AHOMS Som : . MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \ > \, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \. BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe: ? KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \ he VL \ g iP e ¥ po j De ly Tho’ \ ‘ é: = / = ) or rt 45 A \\ gysnohens 5 "3 7 ee \% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \ MARAVARS. °F Ss. \ f j \ .; Fe es A 3 a INDIAN . OGEAN % i)
 
 > [note] On a physical map of the subcontinent, identify the areas in which tribal people may have lived.
 
@@ -155,7 +155,9 @@ Garha Katanga was a rich state. It earned much wealth by trapping and exporting 
 
 The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high-quality gunpowder and cannons.
 
-However, the Ahoms faced many invasions from the an of eastern south-west. In 1662, the India. Mughals under Mir Jumla attacked the Ahom kingdom. 4 Despite their brave defence, the Ahoms were defeated. But direct Mughal control over the region could not last long.
+However, the Ahoms faced many invasions from the an of eastern south-west. In 1662, the India. Mughals under Mir Jumla attacked the Ahom kingdom. 4
+
+Despite their brave defence, the Ahoms were defeated. But direct Mughal control over the region could not last long.
 
 The Ahom state depended upon forced labour. Those forced to work for the state were called paiks. A census of the population was taken. Each village had to send a number of paiks by rotation. People from heavily populated areas were shifted to less populated places. Ahom clans were thus broken up. By the first half of the seventeenth century the administration became quite centralised.
 

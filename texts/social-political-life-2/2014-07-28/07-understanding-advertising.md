@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch07.pdf"
 source_sha256: "aee6a76a2cb549469943ef1fdd12f1122d9c9595328fbd2429777d6090937565"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda369468121b2"
+body_fingerprint: "1ab6ed7af7701bb078965d6f0a39729dfbf2104ef97941c2de3a13e64f5c6b81"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -21,7 +21,7 @@ body_fingerprint: "06bed832b16ffd54210ee2a911375ff41db9f85968bbdec0effda36946812
 
 <!-- page 81 (pdf 2) -->
 
-Advertisements draw our attention to various products products and describe them positively so that we become interested in buying them. In this chapter, we will focus on the two advertisements that you see above to understand what advertising does and how it works.
+Advertisements draw our attention to various products and describe them positively so that we become interested in buying them. In this chapter, we will focus on the two advertisements that you see above to understand what advertising does and how it works.
 
 > [note] Look at the two advertisements above and fill the table.
 
@@ -39,7 +39,7 @@ Would you want to buy these products after seeing the advertisement?
 
 Building brands and brand values
 
-Have you ever heard of the word brand brand brand? Advertising is all about building brands. At a very basic level, ‘branding’ means stamping a product with a particular name or sign. This is done in order to differentiate it from other products in the market.
+Have you ever heard of the word brand? Advertising is all about building brands. At a very basic level, ‘branding’ means stamping a product with a particular name or sign. This is done in order to differentiate it from other products in the market.
 
 > [note] Do you think there is a problem in using the image of the mother as the only person who takes care of the child in the Care Soap advertisement?
 

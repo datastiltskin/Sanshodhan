@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch07.pdf"
 source_sha256: "8854c13897b7de009980dead3952a5c627d9b01c62d57d2d68e0051f7fe69cac"
 pdf_pages: 15
 printed_pages: "79-93"
-body_fingerprint: "8e7cde04be87977b9efa1ca5cca1e6dd18ddeaf9a376f0da834f0894cae66b64"
+body_fingerprint: "68f824c313b7c715f0623f85567a21955f4557e7cfd59072f672850ca0f85e66"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -68,9 +68,9 @@ Did women find a place within these stories? Sometimes women are depicted as fol
 
 ## Beyond Regional Frontiers: The Story of Kathak
 
-If heroic traditions can be found in different regions in different forms, the same is true of dance. Let us look at the history of one dance form, Kathak now associated with several parts of north India. The term kathalk is derived from katha, , a word used in Sanskrit and other languages for story. The kathalcs were originally a caste of story-tellers in temples of north India, who embellished their performances with gestures and songs. Kathak began evolving into a distinct mode of dance in the fifteenth and sixteenth centuries with the spread of the bhakti movement. The legends of Radha-Krishna were enacted in folk plays called r "ASA lila , which combined folk dance with the basic gestures of the kathalk story-tellers.
+If heroic traditions can be found in different regions in different forms, the same is true of dance. Let us look at the history of one dance form, Kathak now associated with several parts of north India. The term kathak is derived from katha,, a word used in Sanskrit and other languages for story. The kathaks were originally a caste of story-tellers in temples of north India, who embellished their performances with gestures and songs. Kathak began evolving into a distinct mode of dance in the fifteenth and sixteenth centuries with the spread of the bhakti movement. The legends of Radha-Krishna were enacted in folk plays called r "ASIA lila , which combined folk dance with the basic gestures of the kathak story-tellers.
 
-Under the Mughal emperors and their nobles, Kathak was performed in the court, where it acquired its present features and developed into a form of dance with a distinctive style. Subsequently, it developed in two : one in the courts of Rajasthan traditions or ; gharanas: (Jaipur) and the other in Lucknow Under the patronage of Wajid Ali Shah, the last Nawab of Awadh, it grew into a major art form. By the third quarter of the nineteenth century, it was firmly entrenched as a dance form not only in these two regions, but in the adjoining areas of present-day Punjab, Haryana, Jammu and Kashmir, Bihar and Madhya Pradesh. Emphasis was laid on intricate and rapid footwork, elaborate costumes, as well as on the enactment of stories.
+Under the Mughal emperors and their nobles, Kathak was performed in the court, where it acquired its present features and developed into a form of dance with a distinctive style. Subsequently, it developed in two: one in the courts of Rajasthan traditions or ; gharanas: (Jaipur) and the other in Lucknow Under the patronage of Wajid Ali Shah, the last Nawab of Awadh, it grew into a major art form. By the third quarter of the nineteenth century, it was firmly entrenched as a dance form not only in these two regions, but in the adjoining areas of present-day Punjab, Haryana, Jammu and Kashmir, Bihar and Madhya Pradesh. Emphasis was laid on intricate and rapid footwork, elaborate costumes, as well as on the enactment of stories.
 
 > [note] Find out whether there are traditions of heroes/heroines in your town or village. What are the qualities associated with them? In what ways are these similar to or different from the heroic ideals of the Rajputs?
 
@@ -96,9 +96,11 @@ Manipuri (Manipur)
 
 Find out more about any one of these dance forms.
 
-> [note] CLASSICAL H istorically, the term refers to the great works of art and literature, which had been produced in ancient Greece during the oth and Ath centuries BCE. This was also the period when Greece witnessed the rise of Athens to a pre-eminent position that culminated in the spectacular conquests of Alexander in the near and Middle East up to the frontiers of India.
+> [note] CLASSICAL H pictorially, the term refers to the great works of art and literature, which had been produced ancient Greece during the both and path centuries BCE. This was also the period when Greece witnessed the rise of Athens to a pure cement position that culminated in the spectacular conquests Alexander in the near and Middle East up to the frontiers of India.
 
-> [caption] Source-History for Schools (Trilingual), 2017, NCERT
+> [caption] Source
+
+> [caption] History for Schools (Trilingual), 2017, INERT
 
 <!-- page 85 (pdf 7) -->
 
@@ -138,7 +140,7 @@ From the eighth century, Bengal became the centre of a regional kingdom under th
 
 <!-- page 88 (pdf 10) -->
 
-While Persian was the language of administration, Bengali developed as a regional language. by the fifteenth century the Bengali group In fact, of dialects came to be united by a common literary language based on the spoken language of the western part of the region, now known as West Bengal. Thus, although Bengali is derived from Sanskrit, it passed through several stages of evolution. Also, a wide range of non-Sanskrit words, derived from a variety of sources including tribal languages, Persian, and European languages, have become a part of modern Bengali.
+While Persian was the language of administration, Bengali developed as a regional language. by the fifteenth century the Bengali group fact, of dialects came to be united by a common literary language based on the spoken language of the western part of the region, now known as West Bengal. Thus, although Bengali is derived from Sanskrit, it passed through several stages of evolution. Also, a wide range of non-Sanskrit words, derived from a variety of sources including tribal languages, Persian, and European languages, have become a part of modern Bengali.
 
 Early Bengali literature may be divided into two categories – one indebted to Sanskrit and the other independent of it. The first includes translations of the Sanskrit epics, the Mangalakavyas (literally auspicious poems, dealing with local deities) and bhakti literature, such as the biographies of Chaitanyadeva, the leader of the Vaishnava bhakti movement (Chapter 6).
 
@@ -162,17 +164,17 @@ From the sixteenth century, people began to migrate in large numbers from the le
 
 This coincided with the establishment of Mughal control over Bengal with their capital in the heart of the eastern delta at Dhaka. Officials and functionaries received land and often set up mosques that served as centres for religious transformation in these areas.
 
-The early settlers sought some order and assurance in the unstable conditions of the new settlements. These were provided by community leaders, who also functioned as teachers and adjudicators and were sometimes ascribed with supernatural powers. People referred to them with affection and respect as pus .
+The early settlers sought some order and assurance in the unstable conditions of the new settlements. These were provided by community leaders, who also functioned as teachers and adjudicators and were sometimes ascribed with supernatural powers. People referred to them with affection and respect as us .
 
 This term included saints or Sufis and other religious personalities, daring colonisers and deified soldiers, various Hindu and Buddhist deities and even animistic spirits. The cult of pirs became very popular and their shrines can be found everywhere in Bengal.
 
-Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapter 2) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed ( (dochala) ) or four-roofed ( (chauchala) ) structure of the thatched huts. This led to the evolution of the typical Bengali style in temple architecture.
+Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapter 2) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed ( (dochala)) or four-roofed ( (chauchala)) structure of the thatched huts. This led to the evolution of the typical Bengali style in temple architecture.
 
 > [note] Why do you think the second category of texts was not written down?
 
-> [note] Pir A Persian word meaning a spiritual guide.
+> [note] Pir A Persian word meaning spiritual guide.
 
-> [note] Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
+> [note] Animism Attributed of living soul to plates, inanimate subjects, and natural phenomena.
 
 <!-- page 90 (pdf 12) -->
 
@@ -230,7 +232,7 @@ Miniature Kerala
 
 > [note] KEYWORDS classical miniature
 
-> [caption] pwr
+> [caption] power
 
 > [note] dialect
 

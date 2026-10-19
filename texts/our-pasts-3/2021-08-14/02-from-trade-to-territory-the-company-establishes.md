@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch02.pdf"
 source_sha256: "905db6e502561844da376a2ad52282c96aab71f9eed6d033e0ba3ac294af1e3c"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "f6424b881f3867c4293b2317078e28f3713a0b2b2a68c4a980a8b01e417e7077"
+body_fingerprint: "23283293f3ea3168f51378c9e3a70fc92600c5c2a7de8b2536fb5fe72280e1f2"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -21,7 +21,7 @@ Aurangzeb was the last of the powerful Mughal rulers. He established control ove
 
 By the second half of the eighteenth century, however, a new power was emerging on the political horizon – the British. Did you know that the British originally came as a small trading company and were reluctant to acquire territories? How then did they come to be masters of a vast empire? In this chapter you will see how this came about.
 
-> [caption] Fig. 1 Fig. 1 – Bahadur Shah Zafar and his sons being arrested by Captain Hodson After Aurangzeb there was no powerful Mughal ruler, but Mughal emperors continued to be symbolically important. In fact, when a massive rebellion against British rule broke out in 1857, Bahadur Shah Zafar, the Mughal emperor at the time, was seen as the natural leader. Once the revolt was put down by the company, Bahadur Shah Zafar was forced to leave the kingdom, and his sons were shot in cold blood.
+> [caption] Fig. 1 – Bahadur Shah Zafar and his sons being arrested by Captain Hodson After Aurangzeb there was no powerful Mughal ruler, but Mughal emperors continued to be symbolically important. In fact, when a massive rebellion against British rule broke out in 1857, Bahadur Shah Zafar, the Mughal emperor at the time, was seen as the natural leader. Once the revolt was put down by the company, Bahadur Shah Zafar was forced to leave the kingdom, and his sons were shot in cold blood.
 
 <!-- page 10 (pdf 2) -->
 
@@ -39,7 +39,9 @@ The problem was that all the companies were interested in buying the same things
 
 This effort to fortify settlements and carry on profitable trade also led to intense conflict with local rulers. The company therefore found it difficult to separate trade from politics. Let us see how this happened.
 
-East India Company begins trade in Bengal The first English factory was set up on the banks of the river Hugli in 1651. This was the base from which the Company’s traders, known at that time as “factors”, operated. The factory had a warehouse where goods for export were stored, and it had offices where Company officials sat. As trade expanded, the Company persuaded merchants and traders to come and settle near the factory. By 1696 it began building a fort around the settlement. Two years later it bribed Mughal officials into giving the Company zamindari rights over three villages. One of these was Kalikata, which later grew into the city of Calcutta or Kolkata as it is known today. It also persuaded the Mughal emperor Aurangzeb to issue a farman granting the Company the right to trade duty free.
+### East India Company begins trade in Bengal
+
+The first English factory was set up on the banks of the river Hugli in 1651. This was the base from which the Company’s traders, known at that time as “factors”, operated. The factory had a warehouse where goods for export were stored, and it had offices where Company officials sat. As trade expanded, the Company persuaded merchants and traders to come and settle near the factory. By 1696 it began building a fort around the settlement. Two years later it bribed Mughal officials into giving the Company zamindari rights over three villages. One of these was Kalikata, which later grew into the city of Calcutta or Kolkata as it is known today. It also persuaded the Mughal emperor Aurangzeb to issue a farman granting the Company the right to trade duty free.
 
 The Company tried continuously to press for more concessions and manipulate existing privileges. Aurangzeb’s farman, for instance, had granted only the Company the right to trade duty free. But officials of the Company, who were carrying on private trade on the side, were expected to pay duty. This they refused to pay, causing an enormous loss of revenue for Bengal. How could the Nawab of Bengal, Murshid Quli Khan, not protest?
 
@@ -107,7 +109,9 @@ What could the Company do? When Mir Jafar protested, the Company deposed him and
 
 Finally, in 1765 the Mughal emperor appointed the Company as the Diwan of the provinces of Bengal. The Diwani allowed the Company to use the vast revenue resources of Bengal. This solved a major problem that the Company had earlier faced. From the early eighteenth century its trade with India had expanded. But it had to buy most of the goods in India with gold and silver imported from Britain. This was because at this time Britain had no goods to sell in India. The outflow of gold from Britain slowed after the Battle of Plassey, and entirely stopped after the assumption of Diwani. Now revenues from India could finance Company expenses. These revenues could be used to purchase cotton and silk textiles in India, maintain Company troops, and meet the cost of building the Company fort and offices at Calcutta.
 
-Company officials become “nabobs” What did it mean to be nawabs? It meant of course that the Company acquired more power and authority. But it also meant something else. Each company servant began to have visions of living like nawabs.
+### Company officials become “nabobs”
+
+What did it mean to be nawabs? It meant of course that the Company acquired more power and authority. But it also meant something else. Each company servant began to have visions of living like nawabs.
 
 <!-- page 15 (pdf 7) -->
 
@@ -157,7 +161,9 @@ Subservience – Submissiveness
 
 > [table] James Mill (1832)
 
-Tipu Sultan – The “Tiger of Mysore” The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
+### Tipu Sultan – The “Tiger of Mysore”
+
+The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
 
 Mysore had grown in strength under the leadership of powerful rulers like Haidar Ali (ruled from 1761 to 1782) and his famous son Tipu Sultan (ruled from 1782 to 1799). Mysore controlled the profitable trade of the Malabar coast where the Company purchased pepper and cardamom. In 1785 Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company. He also established a close Fig. 8 – Tipu Sultan relationship with the French in India, and modernised his army with their help.
 
@@ -193,7 +199,9 @@ From the late eighteenth century the Company also sought to curb and eventually 
 
 The Marathas were subdued in a series of wars. In the first war that ended in 1782 with the Treaty of Salbai, there was no clear victor. The Second Anglo-Maratha War (1803-05) was fought on different fronts, resulting in the British gaining Orissa and the territories north of the Yamuna river including Agra and Delhi. Finally, the Third Anglo-Maratha War of 1817-19 crushed Maratha power. The Peshwa was removed and sent away to Bithur near Kanpur with a pension. The Company now had complete control over the territories south of the Vindhyas.
 
-The claim to paramountcy It is clear from the above that from the early nineteenth century the Company pursued an aggressive policy of territorial expansion. Under Lord Hastings (Governor-General from 1813 to 1823) a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states. In order to protect its interests it was justified in annexing or threatening to annex any Indian kingdom. This view continued to guide later British policies as well.
+### The claim to paramountcy
+
+It is clear from the above that from the early nineteenth century the Company pursued an aggressive policy of territorial expansion. Under Lord Hastings (Governor-General from 1813 to 1823) a new policy of “paramountcy” was initiated. Now the Company claimed that its authority was paramount or supreme, hence its power was greater than that of Indian states. In order to protect its interests it was justified in annexing or threatening to annex any Indian kingdom. This view continued to guide later British policies as well.
 
 This process, however, did not go unchallenged. For example, when the British tried to annex the small state of Kitoor (in Karnataka today), Rani Channamma took to arms and led an anti-British resistance movement. She was arrested in 1824 and died in prison in 1829. But Rayanna, a poor chowkidar of Sangoli in Kitoor, carried on the resistance. With popular support he destroyed many British camps and records. He was caught and hanged by the British in 1830. You will read more about several cases of resistance later in the book.
 
@@ -201,7 +209,9 @@ This process, however, did not go unchallenged. For example, when the British tr
 
 In the late 1830s the East India Company became worried about Russia. It imagined that Russia might expand across Asia and enter India from the north-west. Driven by this fear, the British now wanted to secure their control over the north-west. They fought a prolonged war with Afghanistan between 1838 and 1842 and established indirect Company rule there. Sind was taken over in 1843. Next in line was Punjab. But the presence of Maharaja Ranjit Singh held back the Company. After his death in 1839, two prolonged wars were fought with the Sikh kingdom. Ultimately, in 1849, Punjab was annexed.
 
-The Doctrine of Lapse The final wave of annexations occurred under Lord Dalhousie who was the Governor-General from 1848 to 1856. He devised a policy that came to be known as the Doctrine of Lapse. The doctrine declared that if an Indian ruler died without a male heir his kingdom would “lapse”, that is, become part of Company territory. One kingdom after another was annexed simply by applying this doctrine: Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853) and Jhansi (1854).
+### The Doctrine of Lapse
+
+The final wave of annexations occurred under Lord Dalhousie who was the Governor-General from 1848 to 1856. He devised a policy that came to be known as the Doctrine of Lapse. The doctrine declared that if an Indian ruler died without a male heir his kingdom would “lapse”, that is, become part of Company territory. One kingdom after another was annexed simply by applying this doctrine: Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853) and Jhansi (1854).
 
 Finally, in 1856, the Company also took over Awadh. This time the British had an added argument – they said they were “obliged by duty” to take over Awadh in order to free the people from the “misgovernment” of the Nawab! Enraged by the humiliating way in which the Nawab was deposed, the people of Awadh joined the great revolt that broke out in 1857.
 
@@ -217,7 +227,9 @@ Imagine that you are a nawab’s nephew and have been brought up thinking that y
 
 > [table] Look at these maps along with a present-day political map of India. In each of these maps, try and identify the different parts of India that were not under British rule.
 
-> [caption] Fig. 14 a – India, 1797 Fig. 14 b – India, 1840 Fig. 14 c – India, 1857
+> [caption] Fig. 14 a – India, 1797 Fig. 14 b – India, 1840
+
+> [caption] Fig. 14 c – India, 1857
 
 <!-- page 21 (pdf 13) -->
 
@@ -269,7 +281,9 @@ Thus the East India Company was transformed from a trading company to a territor
 
 By 1857 the Company came to exercise direct rule over about 63 per cent of the territory and 78 per cent of the population of the Indian subcontinent. Combined with its indirect influence on the remaining territory and population of the country, the East India Company had virtually the whole of India under its control.
 
-> [caption] Fig. 16 – A sawar of Bengal in the service of the Company, painted by an unknown Indian artist, 1780 After the battles with the Marathas and the Mysore rulers, the Company realised the importance of strengthening its cavalry force.
+> [caption] Fig. 16 – A sawar of Bengal in the service of the Company, painted by an unknown Indian artist, 1780
+
+> [caption] After the battles with the Marathas and the Mysore rulers, the Company realised the importance of strengthening its cavalry force.
 
 <!-- page 24 (pdf 16) -->
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch05.pdf"
 source_sha256: "75a3a1a840fe8ccf93fa2b52ab77c6c392c055854e394bccc4da12d94a5e2ba2"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "eb292a83a5563de9b4a47764747aa77826f9a843345dc39465ed40387beded87"
+body_fingerprint: "ca7f4f511a3ccd24e861610ad5900476e6c3671a78f38531fbb0da6059e64062"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -22,7 +22,9 @@ body_fingerprint: "eb292a83a5563de9b4a47764747aa77826f9a843345dc39465ed40387bede
 
 In the previous chapters you looked at the policies of the East India Company and the effect they had on different people. Kings, queens, peasants, landlords, tribals, soldiers were all affected in different ways. You have also seen how people resist policies and actions that harm their interests or go against their sentiments.
 
-Nawabs lose their power Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
+### Nawabs lose their power
+
+Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
 
 Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Peshwa Baji Rao II, pleaded that he be given his father’s pension when the latter died. However, the Company, confident of its superiority and military powers, turned down these pleas.
 
@@ -128,7 +130,9 @@ The Mughal dynasty had ruled over a very large part of the country. Most smaller
 
 The British had not expected this to happen. They thought the disturbance caused by the issue of the cartridges would die down. But Bahadur Shah Zafar’s decision to bless the rebellion changed the entire situation dramatically. Often when people see an alternative possibility they feel inspired and enthused. It gives them the courage, hope and confidence to act.
 
-The rebellion spreads After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
+### The rebellion spreads
+
+After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
 
 Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and fought the British along with Tantia Tope, the general of Nana Saheb. In the Mandla region of Madhya Pradesh, Rani Avantibai Lodhi of Ramgarh raised and led an army of four thousand against the British who had taken over the administration of her state.
 
@@ -214,9 +218,11 @@ Soon after taking over Khurda, the British followed a policy of resuming service
 
 The hereditary Military Commander of the deposed king, Jagabandhu Bidyadhar Mahapatra Bhramarabar Rai or Buxi Jagabandhu as he was popularly known, was one among the dispossessed land-holders. He had in effect become a beggar, and for nearly two years survived on voluntary contributions from the people of Khurda before deciding to fight for their grievances as well as his own. Over the years, what had added to these grievances were (a) the introduction of sicca rupee (silver currency) in the region, (b) the insistence on payment of revenue in the new currency, (c) an unprecedented rise in the prices of food-stuff and salt, which had become far-fetched following the introduction of salt monopoly because of which the traditional salt makers of Odisha were deprived of making salt, and (d) the auction of local estates in Calcutta, which brought in absentee landlords from Bengal to Odisha. Besides, the insensitive and corrupt police system also made the situation worse for the armed uprising to take a sinister shape.
 
-The uprising was set off on 29 March 1817 as the Paiks attacked the police station and other government establishments at Banpur killing more than a hundred men and took away a large amount of government money. Soon its ripples spread in different directions with Khurda becoming its epicenter. The zamindars and ryots alike joined the Paiks with enthusiasm. Those who did not, were taken to task. A ‘no-rent campaign’ was also started. The British tried to dislodge the Paiks from their entrenched position but failed. On 14 April 1817, Buxi Jagabandhu, leading five to ten thousand Paiks and men of the Kandh tribe seized Puri and declared the hesitant king, Mukunda Dev II as their ruler. The priests of the Jagannath Temple also extended the Paiks their full support.
+The uprising was set off on 29 March 1817 as the Paiks attacked the police station and other government establishments at Banpur killing more than a hundred men and took away a large amount of government money. Soon its ripples spread in different directions with Khurda becoming its epicenter. The zamindars and ryots alike joined the Paiks with enthusiasm. Those who did not, were taken to task. A ‘no-rent campaign’ was also started. The British tried to dislodge the Paiks from their entrenched position but failed. On 14
 
 <!-- page 63 (pdf 13) -->
+
+April 1817, Buxi Jagabandhu, leading five to ten thousand Paiks and men of the Kandh tribe seized Puri and declared the hesitant king, Mukunda Dev II as their ruler. The priests of the Jagannath Temple also extended the Paiks their full support.
 
 Seeing the situation going out of hand, the British clamped Martial Law. The King was quickly captured and sent to prison in Cuttack with his son. The Buxi with his close associate, Krushna Chandra Bhramarabar Rai, tried to cut off all communications between Cuttack and Khurda as the uprising spread to the southern and the north-western parts of Odisha. Consequently, the British sent Major-General Martindell to clear off the area from the clutches of the Paiks while at the same time announcing rewards for the arrest of Buxi jagabandhu and his associates. In the ensuing operation hundreds of Paiks were killed, many fled to deep jungles and some returned home under a scheme of amnesty. Thus by May 1817 the uprising was mostly contained.
 

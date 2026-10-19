@@ -242,7 +242,9 @@ The ₹ sign was adopted by the Government of India in 2010. It was designed by 
 
 <!-- page 241 (pdf 13) -->
 
-> [caption] Coinage today Coin with symbol marking India’s 75 years of independence in 2021 Fig. 11.14
+> [caption] Coinage today Coin with symbol marking India’s 75 years of independence in 2021
+
+> [caption] Fig. 11.14
 
 ### LET’S EXPLORE
 

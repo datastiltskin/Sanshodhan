@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch01.pdf"
 source_sha256: "10360a07571025fb0729e2abad737d4500b626ccdfb5a38f0549a73cfa00bd77"
 pdf_pages: 8
 printed_pages: "2-9"
-body_fingerprint: "5b586d1b5aea7df976232c80640de1396928d905a61aa65edf4dcd4178ee64c1"
+body_fingerprint: "c8219fc4a13d1017df263f4ffeb4eceec784418657f9b46d47f81f2099b65974"
 ocr_pages:
   - 4
 ---
@@ -56,7 +56,7 @@ One of the steps taken by the government includes the midday meal scheme. This r
 
 ## fig ZEROHUNGER
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org
 

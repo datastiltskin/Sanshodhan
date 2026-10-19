@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch05.pdf"
 source_sha256: "0842e632b9171320ee8bba13e8521afce360ce1d1017978ec996629f9ddc9edb"
 pdf_pages: 12
 printed_pages: "49-60"
-body_fingerprint: "20d480b80e1d9116b65ccf905b2a01edeb92d70fbcd541c3de26f3c2542643c0"
+body_fingerprint: "e704985c6576c52ecc93c50111a7661d713ea2eaa8ca25a92f233ee2ebb7a86d"
 ---
 
 <!-- page 49 (pdf 1) -->
@@ -22,7 +22,7 @@ body_fingerprint: "20d480b80e1d9116b65ccf905b2a01edeb92d70fbcd541c3de26f3c254264
 
 ou saw in Chapters 2, 3 and 4 how kingdoms rose and fell. Even as this was happening, new arts, and villages. Over the centuries important political, social and economic developments had taken place. But social change was not the same everywhere, because different kinds of societies evolved differently. It is important to understand how and why this happened.
 
-In large parts of the subcontinent, society was already divided according to the rules of ‘varna. . These rules, as prescribed by the Brahmanas, were accepted by the rulers of large kingdoms. The difference between the high and low, and between the rich and poor, increased. Under the Delhi Sultans and the Mughals, this hierarchy between social classes grew further.
+In large parts of the subcontinent, society was already divided according to the rules of ‘varna.. These rules, as prescribed by the Brahmanas, were accepted by the rulers of large kingdoms. The difference between the high and low, and between the rich and poor, increased. Under the Delhi Sultans and the Mughals, this hierarchy between social classes grew further.
 
 ## Beyond Big Cities: Tribal Societies
 
@@ -38,13 +38,13 @@ Many large tribes thrived in different parts of the subcontinent. They usually l
 
 clashed with the more powerful caste-based societies. In various ways, the tribes retained their freedom and preserved their separate culture.
 
-But the caste-based and tribal societies also depended on each other for their diverse needs. This of conflict and dependence, relationship, eradually caused both societies to change.
+But the caste-based and tribal societies also depended on each other for their diverse needs. This of conflict and dependence, relationship, gradually caused both societies to change.
 
 ## Who were Tribal People?
 
 Contemporary historians and travellers give very scanty information about tribes. A few exceptions apart, tribal people did not keep written records. But they preserved rich customs and oral traditions. These were passed down to each new generation. Present-day historians have started using such oral traditions to write tribal histories.
 
-Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble ( (mansabdar) ) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful tribe in the north-west. They were divided into many smaller clans under different chiefs. In the western Himalaya lived the shepherd tribe of Gaddis. The distant north-eastern part of the subcontinent too was entirely dominated by tribes – the Nagas, Ahoms and many others.
+Tribal people were found in almost every region of the subcontinent. The area and influence of a tribe varied at different points of time. Some powerful tribes controlled large territories. In Punjab, the Khokhar tribe was very influential during the thirteenth and fourteenth centuries. Later, the Gakkhars became more important. Their chief, Kamal Khan Gakkhar, was made a noble ( (mansabdar)) by Emperor Akbar. In Multan and Sind, the Langahs and Arghuns dominated extensive regions before they were subdued by the Mughals. The Balochis were another large and powerful tribe in the north-west. They were divided into many smaller clans under different chiefs. In the western Himalaya lived the shepherd tribe of Gaddis. The distant north-eastern part of the subcontinent too was entirely dominated by tribes – the Nagas, Ahoms and many others.
 
 > [note] On a physical map of the subcontinent, identify the areas in which tribal people may have lived.
 
@@ -54,7 +54,7 @@ In many areas of present-day Bihar and Jharkhand, Chero chiefdoms had emerged by
 
 > [caption] Map 1 Location of some of the major Indian tribes.
 
-> [note] Clan A clan ts a group of. Jamilies or househo lds claiming descent from a common ‘ancestor. Tribal organisation iS often based on kinship or clan loyalties.
+> [note] Clan A clan ts a group of. families or households claiming descent from a common ‘ancestor. Tribal organisation often based on kinship or clan loyalties.
 
 <!-- page 52 (pdf 4) -->
 
@@ -80,11 +80,11 @@ The Banjaras were the most important trader-nomads. Their caravan was called tan
 
 Peter Mundy, an English trader who came to India during the early seventeenth century, has described the Banjaras:
 
-In the morning we met a tanda of Banjaras with 14,000 oxen. They were all laden with grains such as wheat and rice ... These Banjaras carry their household – wives and children – along with them. One tanda consists of many families. Their way of life is similar to that of carriers who continuously travel from place to place. They own their oxen. They are sometimes hired by merchants, but most commonly they are themselves merchants. They buy grain where it is cheaply available and carry it to places where it is dearer. From there, they again reload their oxen with anything that can be prof ofitably Ly sold ld mn other pla Ina tanda fa there may laces be as many as 6 or 7 hundr hey do fred persons lo not travel more than 6 or 7 miles a day – that, too, in the cool weather. After unloading their oxen, they turn them free to graze as there is enough land here, and no one there to forbid them.
+In the morning we met a tanda of Banjaras with 14,000 oxen. They were all laden with grains such as wheat and rice ... These Banjaras carry their household – wives and children – along with them. One tanda consists of many families. Their way of life is similar to that of carriers who continuously travel from place to place. They own their oxen. They are sometimes hired by merchants, but most commonly they are themselves merchants. They buy grain where it is cheaply available and carry it to places where it is dearer. From there, they again reload their oxen with anything that can be roof profitably sold ld mn other pala In tanda fa there may places be as many as 6 or 7 hundred they do red persons lo not travel more than 6 or 7 miles a day – that, too, in the cool weather. After unloading their oxen, they turn them free to graze as there is enough land here, and no one there to forbid them.
 
 Find out how grain is transported from villages to cities at present. In what ways is this similar to or different from the ways in which the Banjaras functioned?
 
-> [note] Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who roam from one pasture to another with their Jlocks and herds. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel Jrom place to plate practising théir different occupations. Both nomads and itinerant groups often visit the same places every year.
+> [note] Nomads and itinerant groups Nomads are wandering people. Many of them are pastoralists who rama from one pastures to another with their Jlocks and herders. Similarly, itinerant groups, such as craftspersons, pedlars and entertainers travel room place to plates praising théir different occupations. Both nomads and itinerant groups often visit the same places every year.
 
 <!-- page 54 (pdf 6) -->
 
@@ -94,7 +94,7 @@ Different castes of petty pedlars also travelled from village to village. They m
 
 ## Changing Society: New Castes and Hierarchies
 
-As the economy and the needs of society grew, people with new skills were required. Smaller castes, or Jatis , emerged within VaTTlas. . For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of Jatts . Specialised artisans – smiths, carpenters and masons – were also recognised as separate Jatts by the Brahmanas. Jatis, , rather than varna, , became the basis for organising society.
+As the economy and the needs of society grew, people with new skills were required. Smaller castes, or Jatis , emerged within VaTTlas.. For example, new castes appeared amongst the Brahmanas. On the other hand, many tribes and social groups were taken into caste-based society and given the status of Jats . Specialised artisans – smiths, carpenters and masons – were also recognised as separate Jats by the Brahmanas. Jatis,, rather than varna,, became the basis for organising society.
 
 ### Deliberations on jati
 
@@ -116,19 +116,19 @@ The emergence of states is closely related to social change amongst tribal peopl
 
 The Gonds
 
-The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”. They practised shifting cultivation. The large Gond tribe was further divided into many smaller clans. Each clan had its own raja or rat. . About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs. The Akbar Nama, , a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.
+The Gonds lived in a vast forested region called Gondwana – or “country inhabited by Gonds”. They practised shifting cultivation. The large Gond tribe was further divided into many smaller clans. Each clan had its own raja or at.. About the time that the power of the Delhi Sultans was declining, a few large Gond kingdoms were beginning to dominate the smaller Gond chiefs. The Akbar Nama,, a history of Akbar’s reign, mentions the Gond kingdom of Garha Katanga that had 70,000 villages.
 
-The administrative system of these kingdoms was becoming centralised. The kingdom was divided into garhs . Each garh was controlled by a particular Gond clan. This was further divided into units of 84 villages called chaurast. . The chauras i was subdivided into barhots which were made up of 12 villages each.
+The administrative system of these kingdoms was becoming centralised. The kingdom was divided into garhs . Each garh was controlled by a particular Gond clan. This was further divided into units of 84 villages called chaurasi.. The chaurasi was subdivided into barhots which were made up of 12 villages each.
 
 > [caption] Fig. 5 A Gond woman.
 
-> [note] Shifting cultivation Trees and bushes ina Jorest area are first cut and burnt. The crop is sown in the ashes. When this land loses its Jertility, another plot of land is cleared and planted in the same way.
+> [note] Shifting cultivation streets and bushes in forest area are first cult and but. The crop is shown in the cases. When this land loss its Jertility, another plot of land is cleared and planned in the same way.
 
 <!-- page 56 (pdf 8) -->
 
 The emergence of large states changed the nature of Gond society. Their basically equal society gradually got divided into unequal social classes. Brahmanas received land grants from the Gond rajas and became more influential. The Gond chiefs now wished to be recognised as Rajputs. So, Aman Das, the Gond raja of Garha Katanga, assumed the title of Sangram Shah. His son, Dalpat, married princess Durgawati, the daughter of Salbahan, the Chandel Rajput raja of Mahoba.
 
-Dalpat, however, died early. Rani Durgawati was very cap able, and started ruling on behalf of her five-Bir Narain. Under year-old son, her, the kingdom became even more extensive. In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga. A strong resistance was put up by Rani Durgawati. She was defeated and preferred to die rather than surrender. Her son, too, died fighting soon after.
+Dalpat, however, died early. Rani Durgawati was very capable, and started ruling on behalf of her five Bir Narain. Under year-old son, her, the kingdom became even more extensive. In 1565, the Mughal forces under Asaf Khan attacked Garha Katanga. A strong resistance was put up by Rani Durgawati. She was defeated and preferred to die rather than surrender. Her son, too, died fighting soon after.
 
 Garha Katanga was a rich state. It earned much wealth by trapping and exporting wild elephants to other kingdoms. When the Mughals defeated the Gonds, they captured a huge booty of precious coins and elephants. They annexed part of the kingdom and granted the rest to Chandra Shah, an uncle of Bir Narain. Despite the fall of Garha Katanga, the Gond kingdoms survived for some time. However, they became much weaker and later struggled unsuccessfully against the stronger Bundelas and Marathas.
 
@@ -140,15 +140,15 @@ Garha Katanga was a rich state. It earned much wealth by trapping and exporting 
 
 The Ahoms
 
-The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high-quality gunpowder and cannons.
+The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century. They created a new state by suppressing the older political system of the bhuiyans (landlords). During the sixteenth century, they annexed the kingdoms of the Chhutiyas (1523) and of Koch-Hajo (1581) and subjugated many other tribes. The Ahoms built a large state, and for this they used firearms as early as the 1530s. By the 1660s they could even make high quality gunpowder and cannons.
 
 However, the Ahoms faced many invasions from the south-west. In 1662, the Mughals under Mir Jumla attacked the Ahom kingdom. Despite their brave defence, the Ahoms were defeated. But direct Mughal control over the region could not last long.
 
-The Ahom state depended upon forced labour. Those forced to work for the state were called paiks. . A census of the population was taken. Each village had to send a number of pailks by rotation. People from heavily populated areas were shifted to less populated places. Ahom clans were thus broken up. By the first halt of the seventeenth century the administration became quite centralised.
+The Ahom state depended upon forced labour. Those forced to work for the state were called paiks.. A census of the population was taken. Each village had to send a number of paiks by rotation. People from heavily populated areas were shifted to less populated places. Ahom clans were thus broken up. By the first half of the seventeenth century the administration became quite centralised.
 
 > [note] Lachit Barphukan and the defeat of the Mughals in Assam
 
-> [caption] Lachit Barphukan, the Ahom his war skills and’excellent use battle. Source: Janasanyog Assam, Directorate of I nformation Public Relations, Government of Assam, Dispur, Guwahati.
+> [caption] Lachit Barphukan, the Ahom his war skills and’excellent use battle. Source: Janasanyog Assam, Decorated of I information Public Relations, Government of Assam, Dispur, Gujarati.
 
 > [caption] Map 3 Tribes of eastern India.
 
@@ -156,15 +156,15 @@ The Ahom state depended upon forced labour. Those forced to work for the state w
 
 Almost all adult males served in the army during war. At other times, they were engaged in building dams, irrigation systems and other public works. The Ahoms also introduced new methods of rice cultivation.
 
-Ahom society was divided into clans or Kchels. . There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms. A khel often controlled several villages. The peasant was given land by his village community. Even the king could not take it away without the community’s consent.
+Ahom society was divided into clans or Khels.. There were very few castes of artisans, so artisans in the Ahom areas came from the adjoining kingdoms. A khel often controlled several villages. The peasant was given land by his village community. Even the king could not take it away without the community’s consent.
 
 Originally, the Ahoms worshipped their own tribal gods. During the first half of the seventeenth century, however, the influence of Brahmanas increased. Temples and Brahmanas were granted land by the king. In the reign of Sib Singh (1714 –1744), Hinduism became the predominant religion. But the Ahom kings did not completely give up their traditional beliefs after adopting Hinduism.
 
-Ahom society was very sophisticated. Poets and scholars were given land grants. Theatre was encouraged. Important works of Sanskrit were translated into the local language. Historical Chronicles, known as buranyjis, were also written. -firstin the Ahom language and then in Assamese.
+Ahom society was very sophisticated. Poets and scholars were given land grants. Theatre was encouraged. Important works of Sanskrit were translated into the local language. Historical Chronicles, known as buranjis, were also written. -first the Ahom language and then in Assamese.
 
 ## Conclusion
 
-Considerable social change took place in the subcontinent during the period we have been examining. Varna- -based society and tribal people constantly interacted with each other. This interaction caused both kinds of societies to adapt and change. There were many different tribes and they took up diverse livelihoods. Over a period of time, many of them merged with caste-based society. Others, however, rejected both the caste system and orthodox Hinduism. Some tribes established extensive states with well-organised systems of administration. They thus became politically powerful. This brought them into conflict with larger and more complex kingdoms and empire Imagine You are a member of a nomadic community that shifts residence every three months. How would this change your life?
+Considerable social change took place in the subcontinent during the period we have been examining. Varna -based society and tribal people constantly interacted with each other. This interaction caused both kinds of societies to adapt and change. There were many different tribes and they took up diverse livelihoods. Over a period of time, many of them merged with caste-based society. Others, however, rejected both the caste system and orthodox Hinduism. Some tribes established extensive states with well-organised systems of administration. They thus became politically powerful. This brought them into conflict with larger and more complex kingdoms and empire Imagine You are a member of a nomadic community that shifts residence every three months. How would this change your life?
 
 > [caption] Fig. 7 Ear ornaments, Koboi Naga tribe, Manipur.
 
@@ -202,7 +202,7 @@ tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state paik
 
 (b) There were no tribal communities in the north-western part of the subcontinent.
 
-(c) The -chaurastii in Gond states contained several cities.
+(c) The -chaurasi in Gond states contained several cities.
 
 <!-- section: glossary -->
 
@@ -210,7 +210,7 @@ tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state paik
 
 > [caption] varna
 
-> [caption] Jatt tanda garh chaurasi barhot bhuiyans paik khel
+> [caption] Jati tanda garh chaurasi barhot bhuiyans paik khel
 
 > [note] buranji census
 

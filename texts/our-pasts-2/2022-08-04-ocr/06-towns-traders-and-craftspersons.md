@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch06.pdf"
 source_sha256: "f74076df40ed6da1f739a3b3f7d2744a7663cbbfd710572ac623b65552a7357c"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "a85a6e48e88177efb6f3388de50b46d597d6d4775aa1f18d1f81924e8cc89220"
+body_fingerprint: "e12ae7e8cd650c09ad4efff9737c13ce0e34a45360855260cc4a83199250cf5f"
 ocr: true
 ocr_confidence: 94.1
 ---
@@ -21,7 +21,7 @@ ocr_confidence: 94.1
 
 What would a traveller visiting a medieval town expect to find? This would depend on what kind of a town it was —- a temple town, an administrative centre, a commercial town or a port town to name just some possibilities. In fact, many towns combined several functions — they were administrative centres, temple towns, as well as centres of commercial activities and craft production.
 
-s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS ; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL . nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram , Svamimalai 3 ) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS Administrative Centres You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
+s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL. nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram, Svamimalai 3) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS Administrative Centres You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
 
 > [caption] 0760CHO6
 
@@ -115,7 +115,7 @@ Crafts in Towns
 
 The craftspersons of Bidar were so famed for their inlay work in copper and silver that it came to be called Bidri. The Panchalas or Vishwakarma community, consisting of goldsmiths, bronzesmiths, blacksmiths, masons and carpenters, were essential to the building of temples. They also played an important role in the construction of palaces, big buildings, tanks and reservoirs. Similarly, weavers such as the Saliyar or Kaikkolars emerged as prosperous communities, making donations to temples. Some aspects of cloth making like cotton cleaning, spinning and dyeing became specialised and independent crafts.
 
-> [note] WV Fig. 5 ‘ A seventeenth- £) i century candlestand; ? A. brass with black >
+> [note] WV Fig. 5 ‘ A seventeenth- £) i century candlestand;? A. brass with black >
 
 <!-- page 82 (pdf 8) -->
 

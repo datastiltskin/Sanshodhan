@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch02.pdf"
 source_sha256: "9560000e3600c662612a493e7c8562e828ed9b7586dc58f6f768e5f4e3ee0cfa"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "11ba6b407bd84b0adcb1cce1314df0b70a8ebba2709f8ef2bee9ebbac8738cdc"
+body_fingerprint: "8134d6ccec17e923cd8a2322fd66af72b8a964b931d542799e4753024a6670ab"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -73,7 +73,7 @@ In order to prevent and treat illnesses we need appropriate healthcare facilitie
 
 <!-- page 21 (pdf 6) -->
 
-India has a large number of doctors, clinics and hospitals. The country also has considerable experience and knowledge in running a public public healthcare system. This is a system of hospitals and health centres run by the government. It has the ability to look after the health of a large section of its population scattered over hundreds of thousands of villages. We will go into more detail on this later. Moreover, there has been a phenomenal advancement in medical sciences whereby many new technologies and treatment procedures are available in the country.
+India has a large number of doctors, clinics and hospitals. The country also has considerable experience and knowledge in running a public healthcare system. This is a system of hospitals and health centres run by the government. It has the ability to look after the health of a large section of its population scattered over hundreds of thousands of villages. We will go into more detail on this later. Moreover, there has been a phenomenal advancement in medical sciences whereby many new technologies and treatment procedures are available in the country.
 
 However, the second column points out how poor the health situation in our country is. With all the above positive developments we are not able to provide proper healthcare facilities to people. This is the paradox – something that is contrary to what we would expect. Our country has the money, knowledge and people with experience but cannot make the necessary healthcare available to all. In this chapter, we will look at some of the reasons for this.
 

@@ -7,9 +7,10 @@ snapshots:
 chapter: 2
 title: "Role of the Government in Health"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch02.pdf"
+source_sha256: "facb124caa3c15670dfcf44fdb27cc0112211853a299ef968d0e7310c12929d9"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "b6f3f68c779f78d39ea3adbd01f665559fc4cc5050255726115474e33902f76e"
+body_fingerprint: "cf4168d9bae1eeeb3216f2f4b218e77759ea02eea9287bdda12fc67580aa3f10"
 ocr: true
 ocr_confidence: 95.2
 ---
@@ -216,7 +217,7 @@ This pregnant lady has to travel many kilometres to see a qualified doctor.
 
 ## GOODIHEALTH® © AND WELL-BEING
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org
 
@@ -274,6 +275,6 @@ Ethics: Moral principles that influence a person’s behaviour
 
 > [note] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
 
-> [note] Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 > [note] www.in.undp.org

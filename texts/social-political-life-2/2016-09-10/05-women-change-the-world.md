@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch05.pdf"
 source_sha256: "1b15aa935a0ac3fcffb328326ab41c9acfd18d912b5f8979a12cfcf0f2e47bbd"
 pdf_pages: 14
 printed_pages: "54-67"
-body_fingerprint: "38ba49ae3985eed267a2b8aca12acb854df6ffd4e03a3a8736113ca639b3bfa9"
+body_fingerprint: "0b80a91d2b31d41e6a3fda8ac5047779955b00b9bdc13c60f17dcdd0c10c8b55"
 ---
 
 <!-- page 54 (pdf 1) -->
@@ -82,7 +82,7 @@ Pilot 27 3
 
 Fewer opportunities and rigid expectations A lot of the children in Rosie Ma’am’s class drew women as nurses and men as army officers. The reason they did this is because they feel that outside the home too, women are good at only certain jobs. For example, many people believe that women make better nurses because they are more patient and gentle. This is linked to women’s roles within the family. Similarly, it is believed that science requires a technical mind and girls and women are not capable of dealing with technical things.
 
-Because so many people believe in these stereotypes stereotypes, many girls do not get the same support that boys do to study and train to become doctors and engineers. In most families, once girls finish school, they are encouraged by their families to see marriage as their main aim in life.
+Because so many people believe in these stereotypes, many girls do not get the same support that boys do to study and train to become doctors and engineers. In most families, once girls finish school, they are encouraged by their families to see marriage as their main aim in life.
 
 Breaking stereotypes
 
@@ -158,9 +158,17 @@ Today, both boys and girls attend school in large numbers. Yet, as we will see, 
 
 Here is a table that shows the percentage of girls and boys who leave schools from different social groups. Scheduled Caste (SC) is the official term for Dalit, and Scheduled Tribe (ST) is the official term for Adivasi.
 
-School level All boys SC boys ST boys All girls SC girls ST girls Total Primary (Classes 1-5) 34 37 49 29 36 49 31 Elementary (Classes 6-8) 52 57 69 53 62 71 52 Secondary (Classes 9-10) 61 71 78 65 76 81 63 Source: Select Education Survey, GOI 2003-2004 You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’. This means that girls who are from Dalit and Adivasi backgrounds are less likely to remain in school. The 2001 census also found that Muslim girls are less likely, than Dalit and Adivasi girls, to complete primary school. While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.
+School level All boys SC boys ST boys All girls SC girls ST girls Total Primary (Classes 1-5) 34 37 49 29 36 49 31
+
+Elementary (Classes 6-8) 52 57 69 53 62 71 52
+
+Secondary (Classes 9-10) 61 71 78 65 76 81 63
+
+Source: Select Education Survey, GOI 2003-2004
 
 > [note] What percentage of children leave school at the elementary level?
+
+You have probably noticed in the above table that SC and ST girls leave school at a rate that is higher than the category ‘All Girls’. This means that girls who are from Dalit and Adivasi backgrounds are less likely to remain in school. The 2001 census also found that Muslim girls are less likely, than Dalit and Adivasi girls, to complete primary school. While a Muslim girl is likely to stay in school for around three years, girls from other communities spend around four years in school.
 
 > [note] At which level of education do you see the highest percentage of children leaving?
 
@@ -200,7 +208,7 @@ Campaigning
 
 Campaigns to fight discrimination and violence against women are an important part of the women’s movement. Campaigns have also led to new laws being passed. A law was passed in 2006 to give women who face physical and mental violence within their homes, also called domestic violence, some legal protection.
 
-Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual sexual harassment harassment at the workplace and within educational institutions.
+Similarly, efforts made by the women’s movement led the Supreme Court to formulate guidelines in 1997 to protect women against sexual harassment at the workplace and within educational institutions.
 
 In the 1980s, for example, women’s groups across the country spoke out against ‘dowry deaths’ — cases of young brides being murdered by their in-laws or husbands, greedy for more dowry. Women’s groups spoke out against the failure to bring these cases to justice. They did so by coming on to the streets, approaching the courts, and by sharing information. Eventually, this became a public issue in the newspapers and society, and the dowry laws were changed to punish families who seek dowry.
 

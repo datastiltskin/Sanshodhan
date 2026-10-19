@@ -7,9 +7,10 @@ snapshots:
 chapter: 1
 title: "On Equality"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch01.pdf"
+source_sha256: "1437856c5f5e069787c4889b15dac1053d1772120a932f50a06da7a692bc053b"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "85130db9f9f8be426edc6992ca75b2604a8680235c17544e545f8ffb7afc393c"
+body_fingerprint: "b46b00ca501638bff082e9c6f216f0a08d5b298e42f3cca01dc793f5dc62742d"
 ocr: true
 ocr_confidence: 88.2
 ---
@@ -120,7 +121,7 @@ Omprakash Valmiki (1950-2013) is a famous Dalit writer. In his autobiography, Jo
 
 ## from BET / Abroad from IT
 
-## SCc/ ; Caste no bar, ee cUse. Send BHP (must)
+## SCc/; Caste no bar, ee cUse. Send BHP (must)
 
 > [note] PROF Qlfd B'ful tall girl 4 Gupta Boy 28/6' CA Working MNC TXS USA $§$ 80k.
 
@@ -160,7 +161,7 @@ The Indian Constitution recognises every person as equal. This means that every 
 
 <!-- page 10 (pdf 9) -->
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
 

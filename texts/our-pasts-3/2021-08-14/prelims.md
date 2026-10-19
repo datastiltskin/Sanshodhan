@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/prelims.pdf"
 
 ## for Class VIII
 
-Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at VIBA Press (P.) Ltd., C- 66/3, Okhla Industrial Area Phase-II, New Delhi- 110 020 The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
+Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at VIBA Press (P.) Ltd., C- 66/3, Okhla Industrial Area Phase-II, New Delhi- 110 020
 
 <!-- pdf page 2 -->
 
@@ -24,11 +24,15 @@ Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI Publ
 
 > [caption] ALL RIGHTS RESERVED
 
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017
+
+> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
-> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942 The correct price of this publication is the price printed on this page, A ny revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942
+
+> [caption] The correct price of this publication is the price printed on this page, A ny revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT
 
@@ -36,21 +40,29 @@ Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI Publ
 
 > [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
 
-> [caption] © National Council of Educational Research and Training, 2008, 2019 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] © National Council of Educational Research and Training, 2008, 2019 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] ` 65.00
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Vipin Dewan Manager (In charge)
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Vipin Dewan Manager (In charge)
 
-> [table] Assistant Production : Deepak Jaiswal Officer
+> [table] Assistant Production: Deepak Jaiswal Officer
 
 > [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Arrt Creations Cartography Cartographic Designs Agency
 
 <!-- pdf page 3 -->
 
 ### FOREWORD
+
+The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
 
@@ -62,13 +74,21 @@ NCERT appreciates the hard work done by the textbook development committee respo
 
 Director National Council of Educational
 
-Research and Training New Delhi 30 November 2007 Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
+Research and Training New Delhi 30 November 2007
 
 <!-- pdf page 5 -->
 
 ### TEXTBOOK DEVELOPMENT COMMITTEE
 
-> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE CHIEF ADVISOR MEMBERS MEMBER-COORDINATOR
+> [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE
+
+Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
+
+> [caption] CHIEF ADVISOR
+
+> [caption] MEMBERS
+
+> [caption] MEMBER-COORDINATOR
 
 <!-- pdf page 6 -->
 

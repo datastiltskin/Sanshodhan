@@ -22,11 +22,15 @@ sta rfar COU
 
 <!-- pdf page 4 -->
 
-0764 – Social and Political Life–II Textbook for Class VII ISBN 81-7450-672-1 First Edition February 2007 Phalguna 1928 Reprinted February 2008, March 2009, January 2010, December 2010, January 2012, November 2012, November 2013, December 2014, January 2016, January 2017, December 2017, January 2019, January 2020, March 2021, August 2021 and November 2021 Revised Edition November 2022 Kartika 1944 Reprinted March 2024 Chaitra 1946 PD 575T SU
+0764 – Social and Political Life–II Textbook for Class VII ISBN 81-7450-672-1
+
+First Edition February 2007 Phalguna 1928
 
 > [caption] ALL RIGHTS RESERVED
 
 > [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+
+Reprinted February 2008, March 2009, January 2010, December 2010, January 2012, November 2012, November 2013, December 2014, January 2016, January 2017, December 2017, January 2019, January 2020, March 2021, August 2021 and November 2021
 
 > [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
@@ -36,7 +40,19 @@ sta rfar COU
 
 > [caption] DIVISION, NCERT
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
+
+Revised Edition November 2022 Kartika 1944
+
+> [caption] 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740
+
+Reprinted March 2024 Chaitra 1946
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+PD 575T SU
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
 
 © National Council of Educational
 
@@ -46,19 +62,23 @@ Research and Training, 2007, 2022
 
 Publication Team
 
-Head, Publication : Anup Kumar Rajput Division
+Head, Publication: Anup Kumar Rajput Division
 
 ` 65.00
 
-Chief Editor : Shveta Uppal
+Chief Editor: Shveta Uppal
 
-Chief Production : Arun Chitkara Officer
+Chief Production: Arun Chitkara Officer
 
-Chief Business : Amitabh Kumar Manager (In charge)
+Chief Business: Amitabh Kumar Manager (In charge)
 
-Assistant Editor : Shashi Chadha
+Assistant Editor: Shashi Chadha
 
-Printed on 80 GSM paper with NCERT watermark Assistant Production : Rajesh Pippal Officer Published at the Publication Division by the Secretary, National Council o f E d u c a t i o n a l R e s e a r c h a n d T r a i n i n g , S r i A u r o b i n d o M a r g , New Delhi 110 016 and printed at Arun Packers & Printers, C-36 Lawrence Road Industrial Area, Delhi 110 035 Cover Fatma Nasir Layout Orijit Sen with Splash Communications Illustrations Orijit Sen
+Printed on 80 GSM paper with NCERT watermark Assistant Production : Rajesh Pippal Officer Published at the Publication Division by the Secretary, National Council o f E d u c a t i o n a l R e s e a r c h a n d T r a i n i n g , S r i A u r o b i n d o M a r g , New Delhi 110 016 and printed at Arun Packers & Printers, C-36 Lawrence Road Industrial Area, Delhi 110 035
+
+Cover Fatma Nasir
+
+Layout Orijit Sen with Splash Communications Illustrations Orijit Sen
 
 <!-- pdf page 5 -->
 

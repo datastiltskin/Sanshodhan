@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch08.pdf"
 source_sha256: "48b34591e223542e72a3f32d6a2fd4ca784cff6378a8626ebd878939c9df3a71"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "462fe009b2ea15467909a6d48e1642d29a3513412aab41a04ef6ec7a40000ef4"
+body_fingerprint: "8741ca4e9220bb47c8ee68a62a4254fa25bd21ae661ac36a3a877baa0a538476"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -75,7 +75,7 @@ We noted earlier the connection between the Tamil bhakti movement and temple wor
 
 <!-- page 108 (pdf 5) -->
 
-Virashaiva Virashaiva vachanas vachanas
+Virashaiva vachanas
 
 > [note] These are vachanas or sayings attributed to Basavanna:
 

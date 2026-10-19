@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch09.pdf"
 source_sha256: "cd2bfdf6e4394ea8eb6525cc9b15696344a6db3714c43bf947d374e683f2ff97"
 pdf_pages: 10
 printed_pages: "104-113"
-body_fingerprint: "20ee861602b1938a22f2e2a2e114c29129e71814a64a5e6a9a22221eddce380d"
+body_fingerprint: "f1b5ed4abb4422c1fc942cbb36258d5f4cb645171fe21850d5363a187ca47126"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -32,11 +32,11 @@ Cultivation of cotton requires high levels of inputs such as fertilisers and pes
 
 At the trader’s yard, two of his men weigh the bags of cotton. At a price of Rs 1,500 per quintal, the cotton fetches Rs 6,000. The trader deducts Rs 3,000 for repayment of loan and interest and pays Swapna Rs 3,000.
 
-Swapna: Swapna: Rs 3,000 only!
+Swapna: Rs 3,000 only!
 
-Trader: Trader: Cotton is selling cheap. There is a lot of cotton in the market.
+Trader: Cotton is selling cheap. There is a lot of cotton in the market.
 
-Swapna: Swapna: I have toiled so hard for four months to grow this cotton. You can see how fine and clean the cotton is this time. I had hoped to get a much better price.
+Swapna: I have toiled so hard for four months to grow this cotton. You can see how fine and clean the cotton is this time. I had hoped to get a much better price.
 
 > [caption] Did Swapna get a fair price on the cotton?
 
@@ -58,9 +58,9 @@ Swapna: Swapna: I have toiled so hard for four months to grow this cotton. You c
 
 <!-- page 106 (pdf 3) -->
 
-Trader: Trader: Amma, I am giving you a good price. Other traders are not even paying this much. You can check at the Kurnool market, if you do not believe me.
+Trader: Amma, I am giving you a good price. Other traders are not even paying this much. You can check at the Kurnool market, if you do not believe me.
 
-Swapna: Swapna: Don’t be angry. How can I doubt you? I had only hoped that we would earn enough from the cotton crop to last us a few months.
+Swapna: Don’t be angry. How can I doubt you? I had only hoped that we would earn enough from the cotton crop to last us a few months.
 
 Though Swapna knows that cotton will sell for at least Rs 1,800 per quintal, she doesn’t argue further. The trader is a powerful man in the village and the farmers have to depend on him for loans not only for cultivation, but also to meet other exigencies such as illnesses, children’s school fees. Also, there are times in the year when there is no work and no income for the farmers, so borrowing money is the only means of survival.
 
@@ -80,7 +80,7 @@ On market days, you would also find weavers bringing cloth that has been made on
 
 3
 
-Putting-out syste Putting-out system– weavers producing weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
+Putting-out syste Putting-out system– weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
 However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of 1.This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
 
@@ -104,7 +104,7 @@ Weavers invest all their savings or borrow money at high interest rates to buy l
 
 > [note] You might have heard of cooperatives in your area. It could be in milk, provisions, paddy, etc. Find out for whose benefit they
 
-The arrangement between the merchant and the weavers is an example of putting-out system, putting-out system, whereby the merchant supplies the raw material and receives the finished product. It is prevalent in the weaving industry in most regions of India.
+The arrangement between the merchant and the weavers is an example of putting-out system, whereby the merchant supplies the raw material and receives the finished product. It is prevalent in the weaving industry in most regions of India.
 
 > [note] were set up?
 
@@ -134,9 +134,17 @@ The Impex garment factory has 70 workers. Most of them are women. Most of these 
 
 Payment to workers (per month)
 
-Tailoring .......................................................Rs 3,000 Ironing ..........................................................Rs 1.50 (per piece)
+Tailoring .......................................................Rs 3,000
 
-Checking ......................................................Rs 2,000 Thread cutting and buttoning .............................................Rs 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around Rs 1,200.
+Ironing ..........................................................Rs 1.50 (per piece)
+
+Checking ......................................................Rs 2,000
+
+Thread cutting and buttoning .............................................Rs 1,500
+
+The shirt in the United States
+
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around Rs 1,200.
 
 Use the diagram shown in the margin to fill in the blanks below.
 

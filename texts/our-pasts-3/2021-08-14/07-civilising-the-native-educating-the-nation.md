@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch07.pdf"
 source_sha256: "80c2022b9e949f14fcf7b33582c56bcc6de0e793b3ffdaec6a2174a61072aee6"
 pdf_pages: 13
 printed_pages: "81-93"
-body_fingerprint: "6a365bbf3987cafa7453b12fa48d4cc10564b9d290e0dfd9ada95dd71db28a05"
+body_fingerprint: "3ad2ba5a8cabda03a0bb4444a4de09007ecc6c82bdbcc3bb4d072470687d7313"
 ---
 
 <!-- page 81 (pdf 1) -->
@@ -31,7 +31,7 @@ In 1783, a person named William Jones arrived in Calcutta. He had an appointment
 
 <!-- page 82 (pdf 2) -->
 
-> [caption] Fig. 2 Fig. 2 – Henry Thomas Colebrooke
+> [caption] Fig. 2 – Henry Thomas Colebrooke
 
 > [table] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
 
@@ -47,7 +47,7 @@ With this object in view a madrasa was set up in Calcutta in 1781 to promote the
 
 <!-- page 83 (pdf 3) -->
 
-> [caption] Fig. 3 Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
+> [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
 
 This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
@@ -63,7 +63,7 @@ By the 1830s the attack on the Orientalists became sharper. One of the most outs
 
 <!-- page 84 (pdf 4) -->
 
-> [caption] Fig. 4 Fig. 4 – Thomas Babington Macaulay in his study
+> [caption] Fig. 4 – Thomas Babington Macaulay in his study
 
 > [table] Source 1
 
@@ -97,7 +97,7 @@ Following the 1854 Despatch, several measures were introduced by the British. Ed
 
 Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions. 
 
-> [caption] Fig. 5 Fig. 5 – Bombay University in the nineteenth century
+> [caption] Fig. 5 – Bombay University in the nineteenth century
 
 > [table] Source 2
 
@@ -117,11 +117,11 @@ Until 1813, the East India Company was opposed to missionary activities in India
 
 Over the nineteenth century, missionary schools were set up all over India. After 1857, however, the British government in India was reluctant to directly support missionary education. There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.
 
-> [caption] Fig. 7 Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+> [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
 
 The demand for moral education
 
-> [caption] Fig. 6 Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
+> [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
 
 <!-- page 87 (pdf 7) -->
 
@@ -129,7 +129,9 @@ The demand for moral education
 
 Do you have any idea of how children were taught in pre-British times? Have you ever wondered whether they went to schools? And if there were schools, what happened to these under British rule?
 
-The report of William Adam In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
+### The report of William Adam
+
+In the 1830s, William Adam, a Scottish missionary, toured the districts of Bengal and Bihar. He had been asked by the Company to report on the progress of education in vernacular schools. The report Adam produced is interesting.
 
 Adam found that there were over 1 lakh pathshalas in Bengal and Bihar. These were small institutions with no more than 20 students each. But the total number of children being taught in these pathshalas was considerable – over 20 lakh. These institutions were set up by wealthy people, or the local community. At times they were started by a teacher (guru).
 
@@ -137,7 +139,7 @@ The system of education was flexible. Few things that you associate with schools
 
 Adam discovered that this flexible system was suited to local needs. For instance, classes were not held during harvest time when rural children often worked in the fields. The pathshala started once again when the crops had been cut and stored. This meant that even children of peasant families could study.
 
-> [caption] Fig. 8 Fig. 8 – A village pathshala
+> [caption] Fig. 8 – A village pathshala
 
 > [caption] This is a painting by a Dutch painter, Francois Solvyn, who came to India in the late eighteenth century. He tried to depict the everyday life of people in his paintings.
 
@@ -145,7 +147,7 @@ Adam discovered that this flexible system was suited to local needs. For instanc
 
 Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
 
-> [caption] Fig. 9 Fig. 9 – Sri Aurobindo Ghose
+> [caption] Fig. 9 – Sri Aurobindo Ghose
 
 In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
 
@@ -167,13 +169,15 @@ British officials were not the only people thinking about education in India. Fr
 
 Let us look at what they had to say.
 
-“English education has enslaved us” Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
+### “English education has enslaved us”
+
+Mahatma Gandhi argued that colonial education created a sense of inferiority in the minds of Indians. It made them see Western civilisation as superior, and destroyed the pride they had in their own culture. There was poison in this education, said Mahatma Gandhi, it was sinful, it enslaved Indians, it cast an evil spell on them. Charmed by the West, appreciating everything that came from the West, Indians educated in these institutions began admiring British rule. Mahatma Gandhi wanted an education that could help Indians recover their sense of dignity and self-respect. During the national movement he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved.
 
 Mahatma Gandhi strongly felt that Indian languages ought to be the medium of teaching. Education in English crippled Indians, distanced them from their own social surroundings, and made them “strangers in their own lands”. Speaking a foreign tongue, despising local culture, the English educated did not know how to relate to the masses.
 
 Western education, Mahatma Gandhi said, focused on reading and writing rather than oral knowledge; it valued textbooks rather than lived experience and practical knowledge. He argued that education ought to develop a person’s mind and soul. Literacy – or simply learning to read and write – by itself did not count as education. People had to work with their hands, learn a craft, and know how different things operated. This would develop their mind and their capacity to understand.
 
-> [caption] Fig. 10 Fig. 10 – Mahatma Gandhi along with Kasturba Gandhi sitting with Rabindranath Tagore and a group of girls at Santiniketan, 1940
+> [caption] Fig. 10 – Mahatma Gandhi along with Kasturba Gandhi sitting with Rabindranath Tagore and a group of girls at Santiniketan, 1940
 
 <!-- page 90 (pdf 10) -->
 
@@ -197,7 +201,7 @@ Rabindranath Tagore started the institution in 1901. As a child, Tagore hated go
 
 The experience of his schooldays in Calcutta shaped Tagore’s ideas of education. On growing up, he wanted to set up a school where the child was happy, where she could be free and creative, where she was able to explore her own thoughts and desires. Tagore felt that childhood ought to be a time of self-learning, outside the rigid and restricting discipline of the schooling system set up by the British. Teachers had to be imaginative, understand the child, and help the child develop her curiosity. According to Tagore, the existing schools killed the natural desire of the child to be creative, her sense of wonder.
 
-> [caption] Fig. 11 Fig. 11 – A class in progress in Santiniketan in the 1930s Notice the surroundings – the trees and the open spaces.
+> [caption] Fig. 11 – A class in progress in Santiniketan in the 1930s Notice the surroundings – the trees and the open spaces.
 
 <!-- page 91 (pdf 11) -->
 
@@ -207,7 +211,7 @@ In many senses Tagore and Mahatma Gandhi thought about education in similar ways
 
 Many individuals and thinkers were thus thinking about the way a national educational system could be fashioned. Some wanted changes within the system set up by the British, and felt that the system could be extended so as to include wider sections of people. Others urged that alternative systems be created so that people were educated into a culture that was truly national. Who was to define what was truly national? The debate about what this “national education” ought to be continued till after independence.
 
-> [caption] Fig. 12 Fig. 12 – Children playing in a missionary school in Coimbatore, early twentieth century By the mid-nineteenth century, schools for girls were being set up by Christian missionaries and Indian reform organisations.
+> [caption] Fig. 12 – Children playing in a missionary school in Coimbatore, early twentieth century By the mid-nineteenth century, schools for girls were being set up by Christian missionaries and Indian reform organisations.
 
 <!-- page 92 (pdf 12) -->
 

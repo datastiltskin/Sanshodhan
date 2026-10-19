@@ -40,15 +40,21 @@ Published at the Publication Division by the Secretary, National Council of Educ
 
 > [caption] q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Bibash Kumar Das Manager
+> [table] Head, Publication: Anup Kumar Rajput Division Chief Editor: Shveta Uppal Chief Production: Arun Chitkara Officer Chief Business: Bibash Kumar Das Manager
 
-> [caption] Editor : Bijnan Sutar
+> [caption] Editor: Bijnan Sutar
 
-> [table] Production Assistant : Sunil Kumar
+> [table] Production Assistant: Sunil Kumar
 
 > [caption] Cover and Layout Storyboards CMAC Dipankar Bhattacharya
 
@@ -174,14 +180,22 @@ Photo Essay: Last year’s book had a photo essay on the women’s movement. Thi
 
 ### Unit One: The Indian Constitution and Secularism 2
 
-Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18 Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42 Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66 Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94 Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
+Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and The Making of Laws 28
 
+Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42
+
 ### Unit Three: The Judiciary 52
+
+Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66
 
 ### Unit Four: Social Justice and The Marginalised 78
 
+Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94
+
 ### Unit Five: Economic Presence of the Government 104
+
+Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
 
 ### References 134

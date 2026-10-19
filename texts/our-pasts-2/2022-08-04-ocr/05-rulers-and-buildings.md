@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch05.pdf"
 source_sha256: "d158405003d146f48a84edc2a19617711ca6e139032cab246c75e29402bf3448"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "cac82739f7deffd446806d930c8d094649440e790d99565a83f120161ba24732"
+body_fingerprint: "8b9e64cd3de98205b898ffbb73f5b6c537611b676ca78f4a73b65ea36219c676"
 ocr: true
 ocr_confidence: 94.9
 ---
@@ -71,7 +71,7 @@ Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst t
 
 <!-- page 63 (pdf 4) -->
 
-Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”. _A “true” arch. The “keystone” at : the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.
+Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”. _A “true” arch. The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.
 
 (2) Limestone cement was increasingly used in construction. This was very high-quality cement, which, when mixed with stone chips hardened into concrete. This made construction of large structures easier and faster. Take a look at the construction site in Figure 6.
 

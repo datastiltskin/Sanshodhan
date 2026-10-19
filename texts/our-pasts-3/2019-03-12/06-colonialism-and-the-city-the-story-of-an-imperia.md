@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch06.pdf"
 source_sha256: "a655e345eacdcce5582249ca34f32c2fbc5d1defa2dea7606f82e875f0c519d9"
 pdf_pages: 14
 printed_pages: "65-78"
-body_fingerprint: "7daa70cd78c86e4c90deaf0239ee110f1201acb5fc3947a0d232833895175c4c"
+body_fingerprint: "8ada8c2c30d578718ef4d5dba3d341a75aa3bfde392e367cff0a159c30f1b2c6"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -66,7 +66,7 @@ Idgah – An open prayer place of Muslims primarily meant for id prayers Delhi d
 
 By 1739, Delhi had been sacked by Nadir Shah and plundered many times. Expressing the sorrow of those who witnessed the decline of the city, the eighteenth-century Urdu poet Mir Taqi Mir, said:
 
-Dilli jo ek shahr tha alam mein intikhab, ... Ham rahne wale hain usi ujre dayar ke (I belong to the same ruined territory of Delhi, which was once a supreme city in the world)
+Dilli jo ek shahr tha alam mein intikhab,... Ham rahne wale hain usi ujre dayar ke (I belong to the same ruined territory of Delhi, which was once a supreme city in the world)
 
 streets of Delhi aren’t mere streets; they are like the album of a painter.”
 
@@ -78,7 +78,9 @@ Yet, even this was no ideal city, and its delights were enjoyed only by some. Th
 
 In 1803, the British gained control of Delhi after defeating the Marathas. Since the capital of British India was Calcutta, the Mughal emperor was allowed to continue living in the palace complex in the Red Fort. The modern city as we know it today developed only after 1911 when Delhi became the capital of British India.
 
-Demolishing a past Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in the “black” areas, while the British lived in well-laid-out “white” areas. In Delhi, especially in the first half of the nineteenth century, the British lived along with the wealthier Indians in the Walled City. The British learned to enjoy Urdu/Persian culture and poetry and participated in local festivals.
+### Demolishing a past
+
+Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in the “black” areas, while the British lived in well-laid-out “white” areas. In Delhi, especially in the first half of the nineteenth century, the British lived along with the wealthier Indians in the Walled City. The British learned to enjoy Urdu/Persian culture and poetry and participated in local festivals.
 
 <!-- page 69 (pdf 5) -->
 
@@ -120,7 +122,9 @@ In the 1870s, the western walls of Shahjahanabad were broken to establish the ra
 
 <!-- page 71 (pdf 7) -->
 
-Planning a new capital The British were fully aware of the symbolic importance of Delhi. After the Revolt of 1857, many spectacular events were held there. In 1877, Viceroy Lytton organised a Durbar to acknowledge Queen Victoria as the Empress of India. Remember that Calcutta was still the capital of British India, but the grand Durbar was being held in Delhi. Why was this so? During the Revolt, the British had realised that the Mughal emperor was still important to the people and they saw him as their leader. It was therefore important to celebrate British power with pomp and show in the city the Mughal emperors had earlier ruled, and the place which had turned into a rebel stronghold in 1857.
+### Planning a new capital
+
+The British were fully aware of the symbolic importance of Delhi. After the Revolt of 1857, many spectacular events were held there. In 1877, Viceroy Lytton organised a Durbar to acknowledge Queen Victoria as the Empress of India. Remember that Calcutta was still the capital of British India, but the grand Durbar was being held in Delhi. Why was this so? During the Revolt, the British had realised that the Mughal emperor was still important to the people and they saw him as their leader. It was therefore important to celebrate British power with pomp and show in the city the Mughal emperors had earlier ruled, and the place which had turned into a rebel stronghold in 1857.
 
 In 1911, when King George V was crowned in England, a Durbar was held in Delhi to celebrate the occasion. The decision to shift the capital of India from Calcutta to Delhi was announced at this Durbar.
 
@@ -154,7 +158,9 @@ The New Capital must be the sculptural monument of the good government and unity
 
 <!-- page 73 (pdf 9) -->
 
-Life in the time of Partition The Partition of India in 1947 led to a massive transfer of populations on both sides of the new border. As a result, the population of Delhi swelled, the kinds of jobs people did changed, and the culture of the city became different.
+### Life in the time of Partition
+
+The Partition of India in 1947 led to a massive transfer of populations on both sides of the new border. As a result, the population of Delhi swelled, the kinds of jobs people did changed, and the culture of the city became different.
 
 Days after Indian Independence and Partition, fierce rioting began. Thousands of people in Delhi were killed and their homes looted and burned. As streams of Muslims left Delhi for Pakistan, their place was taken by equally large numbers of Sikh and Hindu refugees from Pakistan. Refugees roamed the streets of Shahjahanabad, searching for empty homes to occupy. At times they forced Muslims to leave or sell their properties. Over two-thirds of the Delhi Muslims migrated, almost 44,000 homes were abandoned. Terrorised Muslims lived in makeshift camps till they could leave for Pakistan.
 

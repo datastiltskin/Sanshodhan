@@ -102,13 +102,17 @@ Indian history is full of empires. They rose, expanded, lasted for a while, decl
 
 > [table] 01
 
-> [table] Maintains an army to keep the tributary states under control, le 2 an or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02 Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
+> [table] Maintains an army to keep the tributary states under control, le 2 an or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02
+
+> [table] Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
 
 Emperor exerts central authority over the empire's tributary territories and kings Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 > [table] and order, etc.
 
-> [table] trade and people’s welfare a sae Encourages art, literature, religions, 05 03 Makes laws, issues currencies, weights and measures, regulates trade ja Controls and regulates access schools of thought, 04 centres of learning to resources (mines, forest and agricultural produce, manpower)
+> [table] trade and people’s welfare a sae Encourages art, literature, religions, 05 03
+
+> [table] Makes laws, issues currencies, weights and measures, regulates trade ja Controls and regulates access schools of thought, 04 centres of learning to resources (mines, forest and agricultural produce, manpower)
 
 <!-- page 89 (pdf 7) -->
 

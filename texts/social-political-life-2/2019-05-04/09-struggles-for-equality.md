@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch09.pdf"
 source_sha256: "51ba279bb3e22f458d65b3c168cef4806059ca7070a15f4c902783f51585e56f"
 pdf_pages: 11
 printed_pages: "102-112"
-body_fingerprint: "68f9bcf5b12216e6f00a960d8c41c20d303a02c1e1d4eb985717c5c44dc7c1fd"
+body_fingerprint: "31af1c45d42e7b53000ab5ab26db0ea7f6332b07e7ba60579d7439179c1037d6"
 ---
 
 <!-- page 102 (pdf 1) -->
@@ -27,17 +27,21 @@ But this feeling of equality that the ballot box provides, because the vote of o
 
 Similarly, the man who sells juice does not have the resources to compete with all of the major companies who sell branded drinks through expensive advertising. Swapna does not have sufficient resources to grow cotton and, so, has to take a loan from the trader to grow her crop. This forces her to sell her cotton at a lower price. Melani, like the millions of domestic workers across the country, is forced to endure the insults and hardship of working as a domestic help because she has no resources to set up something on her own. Poverty and the lack of resources continue to be a key reason why so many people’s lives in India are highly unequal.
 
-On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do Sustainable Development Goal (SDG) www.in.undp.org In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
+On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
 
 > [table] What do you think is meant by the expression ‘power over the ballot box’? Discuss.
+
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 104 (pdf 3) -->
 
 According to the 2011 Census data women form 48.5 per cent of the population, Muslims form 14.2 per cent of the population, SCs form 16.6 per cent and STs 8.6 per cent.
 
-Sustainable Development Goal (SDG) www.in.undp.org is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 > [table] Can you think of one person in your family, community, village, town or city whom you respect because of their fight for equality and justice?
+
+is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 Often, poverty and lack of dignity and respect for certain communities and groups come together in such powerful ways that it is difficult to identify where one aspect of inequality ends and the other begins. As you have read, Dalit, Adivasi and Muslim girls drop out of school in large numbers. This is a combined outcome of poverty, social discrimination and the lack of good quality school facilities for these communities.
 

@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch04.pdf"
 source_sha256: "5927298f842f159d766b7cae4202bde2a1e08041df30b5a36c5ea5873cec092f"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "586de0b8f099326b1030c8ae2b196d9616539ccbc986fc49bcf2378ab7761bf8"
+body_fingerprint: "bf30f492ac4d68b11bb8c3cae9f587b23aa6c6fcd43b42114ad2fa2fbf93a740"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -70,7 +70,9 @@ AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be 
 
 Jahangir 1605-1627 Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.
 
-Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.
+> [table] Shah Jahan 1627-1658
+
+Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.
 
 > [table] Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled
 

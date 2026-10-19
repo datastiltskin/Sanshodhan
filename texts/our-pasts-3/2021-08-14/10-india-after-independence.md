@@ -21,7 +21,7 @@ body_fingerprint: "0c9241bd3beb41f18e64cd95f9052af01ed69db1a3c51f5a2812022c40aff
 
 When India became independent in August 1947, it faced a series of very great challenges. As a result of Partition, 8 million refugees had come into the country from what was now Pakistan. These people had to be found homes and jobs. Then there was the problem of the princely states, almost 500 of them, each ruled by a maharaja or a nawab, each of whom had to be persuaded to join the new nation. The problems of the refugees and of the princely states had to be addressed immediately. In the longer term, the new nation had to adopt a political system that would best serve the hopes and expectations of its population.
 
-> [caption] Fig. 1 Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
+> [caption] Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
 
 Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
 
@@ -49,7 +49,7 @@ Besides Muslims, India also had large populations of Sikhs and Christians, as we
 
 A third feature of the Constitution was that it offered special privileges for the poorest and most disadvantaged Indians. The practice of untouchability, described as a “slur and a blot” on the “fair name of India”, was abolished. Hindu temples, previously open to only the higher castes, were thrown open to all, including the former untouchables. After a long debate, the Constituent Assembly also recommended that a certain percentage of seats in legislatures as well as jobs in government be reserved for members of the lowest castes. It had been argued by some that Untouchable or as they were now known, Harijan, candidates did not have good enough grades to get into the prestigious Indian Administrative Service. But, as one member of the Constituent Assembly, H.J. Khandekar, argued, it was the upper castes who were responsible for the Harijans “being unfit today”. Addressing his more privileged colleagues, Khandekar said:
 
-> [caption] Fig. 2 Fig. 2 – Jawaharlal Nehru introducing the resolution that outlined the objectives of the Constitution
+> [caption] Fig. 2 – Jawaharlal Nehru introducing the resolution that outlined the objectives of the Constitution
 
 <!-- page 131 (pdf 4) -->
 
@@ -71,7 +71,7 @@ Activity Imagine a conversation between a father and son in a Muslim family. Aft
 
 <!-- page 132 (pdf 5) -->
 
-> [caption] Fig. 3 Fig. 3 – Dr B.R. Ambedkar
+> [caption] Fig. 3 – Dr B.R. Ambedkar
 
 Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
@@ -95,7 +95,7 @@ Both Prime Minister Nehru and Deputy Prime Minister Vallabhbhai Patel were again
 
 > [note] Linguistic – Relating to language
 
-> [caption] Fig. 4 Fig. 4 – Potti Sriramulu, the Gandhian leader who died fasting for a separate state for Telugu speakers
+> [caption] Fig. 4 – Potti Sriramulu, the Gandhian leader who died fasting for a separate state for Telugu speakers
 
 <!-- page 134 (pdf 7) -->
 
@@ -107,11 +107,15 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 ### States
 
-> [caption] Fig. 5 Fig. 5 (a) (a) Indian Provinces and Princely States before 14 August 1947 Princely States British India
+> [caption] Fig. 5 (a) Indian Provinces and Princely States before 14 August 1947
+
+> [caption] Princely States
+
+> [caption] British India
 
 <!-- page 135 (pdf 8) -->
 
-> [caption] Fig. 5 Fig. 5 (b) – Indian States before 1 November 1956
+> [caption] Fig. 5 (b) – Indian States before 1 November 1956
 
 Activity
 
@@ -125,11 +129,11 @@ Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear i
 
 <!-- page 136 (pdf 9) -->
 
-> [caption] Fig. 6 Fig. 6 – The bridge on the Mahanadi river constructed to control the flow of water Bridges and dams became the symbol of development in independent India.
+> [caption] Fig. 6 – The bridge on the Mahanadi river constructed to control the flow of water Bridges and dams became the symbol of development in independent India.
 
 State – Concerned with the government. (Note that used in this sense, the word does not refer to the different states which are found in a country.)
 
-> [caption] Fig. 7 Fig. 7 – Work going on at the Gandhi Sagar bandh
+> [caption] Fig. 7 – Work going on at the Gandhi Sagar bandh
 
 > [table] This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
 
@@ -155,15 +159,15 @@ Activity
 
 Discuss in your class whether Mira Behn was right in her view that science and machinery would create problems for human beings. You may like to think about examples of the effects of industrial pollution and de-forestation on the world today.
 
-> [caption] Fig. 8 Fig. 8– Jawaharlal Nehru at the Bhilai Steel Plant The Bhilai steel plant was set up with the help of the former Soviet Union in 1959. Located in the backward rural area of Chhattisgarh, it came to be seen as an important sign of the development of modern India after Independence.
+> [caption] Fig. 8 – Jawaharlal Nehru at the Bhilai Steel Plant The Bhilai steel plant was set up with the help of the former Soviet Union in 1959. Located in the backward rural area of Chhattisgarh, it came to be seen as an important sign of the development of modern India after Independence.
 
 <!-- page 138 (pdf 11) -->
 
-> [caption] Fig. 9 Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations
+> [caption] Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations
 
 > [table] Krishna Menon led the Indian delegation to the UN between 1952 and 1962 and argued for a policy of non-alignment.
 
-> [caption] Fig. 10 Fig. 10 – Leaders of Asian and African countries meet at Bandung, Indonesia 1955
+> [caption] Fig. 10 – Leaders of Asian and African countries meet at Bandung, Indonesia 1955
 
 > [table] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
 
@@ -185,7 +189,7 @@ On the other hand, deep divisions persist. Despite constitutional guarantees, th
 
 The Constitution recognises equality before the law, but in real life some Indians are more equal than others. Judged by the standards it set itself at Independence, the Republic of India has not been a great success. But it has not been a failure either.
 
-> [caption] Fig. 11 Fig. 11 – Dharavi in Bombay is one of the world’s largest slums Notice the high-rise buildings in the background.
+> [caption] Fig. 11 – Dharavi in Bombay is one of the world’s largest slums Notice the high-rise buildings in the background.
 
 <!-- page 140 (pdf 13) -->
 
@@ -197,7 +201,7 @@ In 1956, the year the states of India were reorganised on the basis of language,
 
 For several decades now, a civil war has raged in Sri Lanka, whose roots lie in the imposition of the Sinhala language on the Tamil-speaking minority. And another South Asian country, Pakistan, was divided into two when the Bengali speakers of the east felt that their language was being suppressed. By contrast, India has managed to survive as a single nation, in part because the many regional languages were given freedom to flourish. Had Hindi been imposed on South India, in the way that Urdu was imposed on East Pakistan or Sinhala on northern Sri Lanka, India too might have seen civil war and fragmentation. Contrary to the fears of Jawahalal Nehru and Sardar Patel, linguistic states have not threatened the unity of India. Rather, they have deepened this unity. Once the fear of one’s language being suppressed has gone, the different linguistic groups have been content to live as part of the larger nation called India.
 
-> [caption] Fig. 12 Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
+> [caption] Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
 
 <!-- section: exercises -->
 

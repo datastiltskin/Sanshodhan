@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch01.pdf"
 source_sha256: "ab8424cf182be51c45571239102ccc71bae13066b98f5338f4e5138a169b8564"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "fb5b2415adb5baf92e0fc07f34444ab9fd5a8bc917e09dfa1bbf0a985fd730d0"
+body_fingerprint: "8a5ae8ec4df981e86e83689ffc6374e3137cd2521fd5fadd68efe4290f4a5d76"
 ocr: true
 ocr_confidence: 93.0
 ---
@@ -31,7 +31,7 @@ A THOUSAND YEARS ake a look at Maps 1 and 2. Map 1 was made in 1154 ce by the Ar
 
 <!-- page 2 (pdf 2) -->
 
-> [caption] i Lf wie Royats = __ DE Morrie. Me ap aoe psn Sa he Geant Ve a , rites . FRor4. x 5 re A oN / (Oa tc ; eS Saas a. Nag Far nen Tradl Mn 3 WAND) me ts. 484 Hh Borate! «didnt Sem gy Mite 8S ack pce A fk Ym Bete ‘aed he Minn oer Nets
+> [caption] i Lf wie Royats = __ DE Morrie. Me ap aoe psn Sa he Geant Ve a, rites . FRor4. x 5 re A oN / (Oa tc ; eS Saas a. Nag Far nen Tradl Mn 3 WAND) me ts. 484 Hh Borate! «didnt Sem gy Mite 8S ack pce A fk Ym Bete ‘aed he Minn oer Nets
 
 Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
 
@@ -189,7 +189,7 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 (a) We do not find inscriptions for the period after KEYWORDS 700. (b) The Marathas asserted their political importance
 
-. during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural ; settlements. region
+. during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural; settlements. region
 
 (d) Sultan Ghiyasuddin Balban controlled Assam,
 

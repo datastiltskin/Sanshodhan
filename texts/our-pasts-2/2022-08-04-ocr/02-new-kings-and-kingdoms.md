@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch02.pdf"
 source_sha256: "08fd7867d06e6381e60c67529437a10cfdf6c5d934c6f534b860312f55df929b"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "4468b5b8e9b1ff20346e64d401ccb7302e70c12e13ff8e25325eae7136d4b9f3"
+body_fingerprint: "e6e100e8763717e60dc4e1e3cb3d9b7fd3294443cedeeeaf8447d7ed16d6b554"
 ocr: true
 ocr_confidence: 93.5
 ---
@@ -103,7 +103,7 @@ Kings often rewarded Brahmanas by grants of land. These were recorded on copper 
 
 What was given with the land
 
-This is part of the Tamil section of aland grant given by the Cholas: We have demarcated the boundaries of the land by making earthen embankments, as well as by planting thorny bushes. This is what the land contains: fruit-bearing trees, water, land, gardens and orchards, trees, wells, open spaces, pasture-land, a village, anthills, platforms, canals, ditches, rivers, silt-laden land, tanks, granaries, fish ponds, bee hives, and deep lakes. He who receives the land can collect taxes from it. He can collect the taxes imposed by judicial officers as fines, the tax, on betel-leaves, that on woven cloth, as well as on vehicles. He can build large rooms, with upper stories made of baked bricks, he can get large and small wells dug, he can plant trees and thorny bushes, if necessary, he can get canals constructed for irrigation. He should ensure that water is not wasted, and that embankments are built. ?) List all the possible sources of irrigation mentioned @ Unusual for the twelfth century was a long Sanskrit poem containing the history of kings who ruled over Kashmir. It was composed by an author named Kalhana. He used a variety of sources, including inscriptions, documents, eyewitness accounts and earlier histories, to write his account. Unlike the writers of prashastis, he was often critical about rulers and their policies.
+This is part of the Tamil section of aland grant given by the Cholas: We have demarcated the boundaries of the land by making earthen embankments, as well as by planting thorny bushes. This is what the land contains: fruit-bearing trees, water, land, gardens and orchards, trees, wells, open spaces, pasture-land, a village, anthills, platforms, canals, ditches, rivers, silt-laden land, tanks, granaries, fish ponds, bee hives, and deep lakes. He who receives the land can collect taxes from it. He can collect the taxes imposed by judicial officers as fines, the tax, on betel-leaves, that on woven cloth, as well as on vehicles. He can build large rooms, with upper stories made of baked bricks, he can get large and small wells dug, he can plant trees and thorny bushes, if necessary, he can get canals constructed for irrigation. He should ensure that water is not wasted, and that embankments are built.?) List all the possible sources of irrigation mentioned @ Unusual for the twelfth century was a long Sanskrit poem containing the history of kings who ruled over Kashmir. It was composed by an author named Kalhana. He used a variety of sources, including inscriptions, documents, eyewitness accounts and earlier histories, to write his account. Unlike the writers of prashastis, he was often critical about rulers and their policies.
 
 > [table] in the inscription, and discuss how these might have been used.
 

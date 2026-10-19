@@ -7,9 +7,10 @@ snapshots:
 chapter: 4
 title: "Growing up as Boys and Girls"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch04.pdf"
+source_sha256: "a6b6d4919c2f7674c8cd413581f7d015ede5f286f5205c032905b0be3e8b14cd"
 pdf_pages: 10
 printed_pages: "44-53"
-body_fingerprint: "a8dc26f1dbd15cdccd87968719af803af27bb1855452b333b1705ab8d686b482"
+body_fingerprint: "19c8bb00a515e1e244d5efec1a6f913e88b2122793b2b688e83469b6c3f4866d"
 ocr: true
 ocr_confidence: 94.6
 ---
@@ -136,7 +137,7 @@ This naturally has an impact on whether Children at an Anganwadi centre in a gir
 
 whether women can work outside the house and what kind of jobs and careers they can have. The government has set up anganwadis or child-care centres in several villages in the country. The government has passed laws that make it mandatory for organisations that have more than 30 women employees to provide créche facilities. The provision of créches helps many women to take up employment outside the home. It also makes it possible for more girls to attend schools.
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org
 

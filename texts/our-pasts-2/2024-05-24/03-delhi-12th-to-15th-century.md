@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch03.pdf"
 source_sha256: "897fb315a6f8489538ede02ee1bd3bf2a9ef472f3726971e132970e4ab611e40"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "6bc65f2999adaa6b58f64be22eca9fb4e4af098fe0bde8ec9c371f23d55e4dec"
+body_fingerprint: "8e4e8c9ebad26454fafd749adc3684017742600703a36e6bcaadcdcf04c6cbc0"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -40,9 +40,11 @@ Chauhans 1165 1192 Prithviraj Chauhan
 
 EARLY TURKISH RULERS
 
-Qutbuddin Aybak 1206 –1210 Shamsuddin Itutmish Raziyya Ghiyasuddin Balban KHALJI DYNASTY Jalaluddin Khalji TUGHLUQ DYNASTY Ghiyasuddin Tughlugq Muhammad Tughlug Firuz Shah Tughlug SAYYID DYNASTY Khizr Khan 1414 –1421 LODI DYNASTY Bahlul Lodi
+Qutbuddin Aybak 1206 –1210 Shamsuddin Iltutmish Raziyya Ghiyasuddin Balban KHALJI DYNASTY Jalaluddin Khalji TUGHLUQ DYNASTY Ghiyasuddin Tughluq Muhammad Tughluq Firuz Shah Tughluq SAYYID DYNASTY Khizr Khan 1414 –1421
 
 > [caption] Alauddin Khalji
+
+LODI DYNASTY Bahlul Lodi
 
 <!-- page 32 (pdf 3) -->
 
@@ -90,9 +92,9 @@ Since they were totally dependent upon their master, the Sultan could trust and 
 
 The Sultans were advised:
 
-A slave, whom one has brought up and promoted, must be looked after for it needs a whole lifetime and good luck to find a worthy and exp fave. Wise men have said Aperienced sla
+A slave, whom one has brought up and promoted, must be looked after for it needs a whole lifetime and good luck to find a worthy and exp fame. Wished men have said Aperienced slab
 
-## that a worthy and exp perienced sla lave ts better than a son
+## that a worthy and exp persistence slab slave ts better than a son
 
 Can you think of any reason why a slave would be better than a son?
 
@@ -100,7 +102,7 @@ The Khaljis and Tughluqs continued to use bandagan and also raised people of hum
 
 Slaves and clients were loyal to their masters and patrons, but not to their heirs. Sultans had their own servants. As a result the accession of a new monarch often saw conflict between the old and the new nobility.
 
-The patronage of these humble people by the Delhi Sultans also shocked many elites and the authors of Persian tawarikh criticised the Delhi Sultans for appointing the ‘low and base-born’ to high offices.
+The patronage of these humble people by the Delhi Sultans also shocked many elites and the authors of Persian tawarikh criticised the Delhi Sultans for appointing the ‘low and base-born to high offices.
 
 ### Officials of Sultan Muhammad Tughluq
 
@@ -112,7 +114,7 @@ Why do you think Barani criticised the Sultan?
 
 <!-- page 35 (pdf 6) -->
 
-Like the earlier Sultans, the Khalji and Tughluq monarchs appointed military commanders as governors of territories of varying sizes. These lands and their holder was called iqtadar were called iqta or mudqtt. . The duty of the muq tis was to lead military . campaigns and maintain law and order in their iqtas. In exchange for their military services, the muqtis collected the revenues of their assignments as salary. They also paid their soldiers from these revenues. Control over muqtis was most effective if their office was not inheritable and if they were assigned iqtas for a short period of time before being shifted. These harsh conditions of service were rigorously imposed during the reigns of Alauddin Khalji and Muhammad Tughluq. Accountants were appointed by the state to . check the amount of revenue collected by the mudqtts. Care was taken that the MUq ti collected only the taxes prescribed by the state and that he kept the required number of soldiers.
+Like the earlier Sultans, the Khalji and Tughluq monarchs appointed military commanders as governors of territories of varying sizes. These lands and their holder was called iqtadar were called iqta or mudqtt.. The duty of the muqtis was to lead military. campaigns and maintain law and order in their iqtas. In exchange for their military services, the muqtis collected the revenues of their assignments as salary. They also paid their soldiers from these revenues. Control over muqtis was most effective if their office was not inheritable and if they were assigned iqtas for a short period of time before being shifted. These harsh conditions of service were rigorously imposed during the reigns of Alauddin Khalji and Muhammad Tughluq. Accountants were appointed by the state to. check the amount of revenue collected by the muqtis. Care was taken that the muqti collected only the taxes prescribed by the state and that he kept the required number of soldiers.
 
 As the Delhi Sultans brought the hinterland of the cities under their control, they forced the landed chieftains – the samanta: aristocrats – and rich landlords to accept their authority. Under Alauddin Khalji the state brought the assessment and collection of land revenue under its own control. The rights of the local chieftains to levy taxes were cancelled and they were also forced to pay taxes. The Sultan’s administrators measured the land and kept careful accounts. Some of the old chieftains and landlords served the Sultanate as revenue collectors and assessors. There were three types of taxes: (1) on cultivation called kharaj and amounting to about 50 per cent of the peasant’s produce, (2) on cattle and (3) on houses.
 
@@ -124,17 +126,17 @@ provinces like Bengal from Delhi and soon after annexing southern India, the ent
 
 > [note] 1. Khums 2. Zakat 3. Jizyah
 
-> [note] 1. Khums was Consisted of one-fifth of war booty and one-fifth on mines and treasure trove.
+> [note] 1. Khums was Consisted of one-fifth of war booty and one-fifth on mines and pressure trove.
 
-> [note] 2. Zakat was one of the religious duties enjoined upon all muslims under which they had to give 40th part of their annual savings to the needy and the travellers. It is often suggested that the practice of paying zakat was started by the Prop het himself and it had been made obligatory for all muslims, who had financial means, to do so. Thus essentially zakat was not a tax to be levied by the rulers. However, during the sultanate period Firoz Shah Tughlaq collected zakat as a regular tax and kept a separate account
+> [note] 2. Zakat was one of the religious duties joined upon all muslims under which they had to give 40th part of their annual sayings to the need and the travellers. It is often suggested that the practice of playing zat was started by the crop he himself and it had been made obligatory for all muslims, who had financial means, to do so. Thus essential zat was not a tax to be levied by the rulers. However, during the sultanate period Firuz Shah Tughluq collected zat as a regular tax and kept a separate account
 
 <!-- page 36 (pdf 7) -->
 
 ### Chieftains and their fortifications
 
-Ibn Battuta, a fourteenth-century traveller from Morocco, Africa, explained that chieftains sometimes tified themselv lves in mountains, in rocky, Ry, uneven and rugged fortif lt as in bamboo groves. In Indi fia the bamboo is pla laces as well not holk low; it is big. Its several parts are so intertwined that even fire cannot y fect them, and they are on the whole le very he chief ieftains bi live in these fo forests which serve them strong. Th as ramparts, inside le which are their cattle le and their crops. for them within, that is, rain water There is als lso water fo tued except lects there. Hence they cannot be subdu which colle ful armies, who entering these fo forests, cut do fown the by powerf
+Ibn Battuta, a fourteenth-century traveller from Morocco, Africa, explained that chieftains sometimes deified themselves lives in mounting, in rocky, Ry, even and rugged fort lt as in bamboo groves. In hindi fia the bamboo is pala places as well not holy low; it is big. Its several parts are so interacted that even fierce cannot y felt them, and they are on the whole every chief chieftains bi live in these fo forests which serve them strong as ramparts, inside le which are their cattle le and their crops. for them within, that is, rain water There is also also water fo turned except let’s there. Hence they cannot be subdued which collect full armies, who towering these fo forests, cult do own the by power
 
-## bamboos with speciall ly prepared instruments.
+## bamboo with specially ly prepare instruments.
 
 Describe the ways in which the chieftains arranged for their defence.
 
@@ -142,13 +144,13 @@ The Mongols under Genghis Khan invaded Transoxiana in north-east Iran in 1219 an
 
 ## The Sultanate in the Fifteenth and Sixteenth Centuries
 
-Take a look at Table 1 again. You will notice that after the Tughluqs, the Sayyid and Lodi dynasties ruled from Delhi and Agra until 1526. By then, J aunpur, Bengal, Malwa, Gujarat, Rajasthan and the entire south India had independent rulers who established flourishing states and prosperous capitals. This was also the period which saw the emergence of new ruling groups like the Afghans and the Rajputs. Some of the states established in this period were small but powerful and extremely well administered. Sher Shah Sur (1540. 1545) started his career as the manager of a small territory for his uncle in Bihar and eventually challenged and defeated the Mughal emperor Humayun , (1 530 Sher Shah captured Delhi and established his own dynasty. Although the Sur dynasty ruled for only fifteen years
+Take a look at Table 1 again. You will notice that after the Tughluqs, the Sayyid and Lodi dynasties ruled from Delhi and Agra until 1526. By then, J jaunpur, Bengal, Malwa, Gujarat, Rajasthan and the entire south India had independent rulers who established flourishing states and prosperous capitals. This was also the period which saw the emergence of new ruling groups like the Afghans and the Rajputs. Some of the states established in this period were small but powerful and extremely well administered. Sher Shah Sur (1540. 1545) started his career as the manager of a small territory for his uncle in Bihar and eventually challenged and defeated the Mughal emperor Humayun , (1 530 Sher Shah captured Delhi and established his own dynasty. Although the Sur dynasty ruled for only fifteen years
 
-> [note] for it although there were instances of even influential people evading this tax. On imports and exports particularly the muslim traders were obliged to paya two and half percent zakat
+> [note] for it although there were instances of even influential people evading this tax. On ports and ports particularly the muslim traders were obliged to pay two and half percent zat
 
 > [note] (alms tax) both under the Delhi Sultans and the Mughals.
 
-> [note] 3. Jizyah was a tax paid by the non-Muslims who had been given the status of zimmis or protected people by the state. In the Sultanate period initially it was collected along with the land tax (kKharay). But Firuz Shah Tughlaq collected. jizya asa separate tax.
+> [note] 3. Jizyah was a tax paid by the non-Muslims who had been given the status of zimmis or protected people by the state. In the Sultanate period initially it was collected along with the land tax (kharaj). But Firuz Shah Tughlaq collected. jizya asia separate tax.
 
 > [note] Source: U.N. Day,
 
@@ -190,7 +192,7 @@ Mongols gender
 
 6. What is meant by the “internal” and “external” frontiers of the Sultanate
 
-7. What were the steps taken to ensure that muqtts performed their duties? Why do you think they may have wanted to defy the orders of the Sultans Do you think the authors of tawarikh: would provide information about the lives of ordinary men and women?
+7. What were the steps taken to ensure that muqtis performed their duties? Why do you think they may have wanted to defy the orders of the Sultans Do you think the authors of tawarikh: would provide information about the lives of ordinary men and women?
 
 ### Let’s discuss
 

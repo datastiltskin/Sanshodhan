@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch06.pdf"
 source_sha256: "168c69dd424b55b930bef29fc8cc1d6ffc00f430cc705dee39a87293de513f15"
 pdf_pages: 15
 printed_pages: "64-78"
-body_fingerprint: "ccc0edf72b71a5224ae3047202e63275ec85a4887a53d5aa2e1fabedeec80ed7"
+body_fingerprint: "2e56689aa9d8d39dcec125f86f4b22c4f54502a85d62bcd4bc7285d9e5bd2853"
 ---
 
 <!-- page 64 (pdf 1) -->
@@ -43,7 +43,9 @@ Urbanisation – The process by which more and more people begin to reside in to
 
 <!-- page 66 (pdf 3) -->
 
-> [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858 You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
+> [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858
+
+> [caption] You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
 
 The most splendid capital of all was built by Shah Jahan. Shahjahanabad was begun in 1639 and consisted of a fort-palace complex and the city adjoining it. Lal Qila or the Red Fort, made of red sandstone, contained the palace complex. To its west lay the Walled City with 14 gates. The main streets of Chandni Chowk and Faiz Bazaar were broad enough for royal processions to pass. A canal ran down the centre of Chandni Chowk.
 
@@ -61,9 +63,13 @@ Yet, even this was no ideal city, and its delights were enjoyed only by some. Th
 
 In 1803, the British gained control of Delhi after defeating the Marathas. Since the capital of British India was Calcutta, the Mughal emperor was allowed to continue living in the palace complex in the Red Fort. The modern city as we know it today developed only after 1911 when Delhi became the capital of British India.
 
-Demolishing a past Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in
+### Demolishing a past
 
-> [caption] Fig. 4 – The eastern gate of the Jama Masjid in Delhi, by Thomas Daniell, 1795 This is also the first mosque in India with minarets and full domes.
+Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in
+
+> [caption] Fig. 4 – The eastern gate of the Jama Masjid in Delhi, by Thomas Daniell, 1795
+
+> [caption] This is also the first mosque in India with minarets and full domes.
 
 > [table] Source 1
 
@@ -71,7 +77,7 @@ Demolishing a past Before 1857, developments in Delhi were somewhat different fr
 
 By 1739, Delhi had been sacked by Nadir Shah and plundered many times. Expressing the sorrow of those who witnessed the decline of the city, the eighteenth-century Urdu poet Mir Taqi Mir, said:
 
-Dilli jo ek shahr tha alam mein intikhab, ... Ham rahne wale hain usi ujre dayar ke (I belong to the same ruined territory of Delhi, which was once a supreme city in the world)
+Dilli jo ek shahr tha alam mein intikhab,... Ham rahne wale hain usi ujre dayar ke (I belong to the same ruined territory of Delhi, which was once a supreme city in the world)
 
 <!-- page 68 (pdf 5) -->
 
@@ -105,7 +111,9 @@ The British wanted Delhi to forget its Mughal past. The area around the Fort was
 
 In the 1870s, the western walls of Shahjahanabad were broken to establish the railway and to allow the city to expand beyond the walls. The British now began living in the sprawling Civil Lines area that came up in the north, away from the Indians in the Walled City. The Delhi College was turned into a school, and shut down in 1877.
 
-> [caption] Fig. 7 – Looking out from Jama Masjid, photograph by Felice Beato, 1858-59 Notice the buildings all around the Masjid. They were cleared after the Revolt of 1857.
+> [caption] Fig. 7 – Looking out from Jama Masjid, photograph by Felice Beato, 1858-59
+
+> [caption] Notice the buildings all around the Masjid. They were cleared after the Revolt of 1857.
 
 > [caption] Fig. 8 – View from the Jama Masjid after the surrounding buildings were demolished
 
@@ -113,13 +121,17 @@ Activity Compare the view in Fig. 8 with that in Fig. 7. Write a paragraph on wh
 
 <!-- page 70 (pdf 7) -->
 
-Planning a new capital The British were fully aware of the symbolic importance of Delhi. After the Revolt of 1857, many spectacular events were held there. In 1877, Viceroy Lytton organised a Durbar to acknowledge Queen Victoria as the Empress of India. Remember that Calcutta was still the capital of British India, but the grand Durbar was being held in Delhi. Why was this so? During the Revolt, the British had realised that the Mughal emperor was still important to the people and they saw him as their leader. It was therefore important to celebrate British power with pomp and show in the city the Mughal emperors had earlier ruled, and the place which had turned into a rebel stronghold in 1857.
+### Planning a new capital
+
+The British were fully aware of the symbolic importance of Delhi. After the Revolt of 1857, many spectacular events were held there. In 1877, Viceroy Lytton organised a Durbar to acknowledge Queen Victoria as the Empress of India. Remember that Calcutta was still the capital of British India, but the grand Durbar was being held in Delhi. Why was this so? During the Revolt, the British had realised that the Mughal emperor was still important to the people and they saw him as their leader. It was therefore important to celebrate British power with pomp and show in the city the Mughal emperors had earlier ruled, and the place which had turned into a rebel stronghold in 1857.
 
 In 1911, when King George V was crowned in England, a Durbar was held in Delhi to celebrate the occasion. The decision to shift the capital of India from Calcutta to Delhi was announced at this Durbar.
 
 New Delhi was constructed as a 10-square-mile city on Raisina Hill, south of the existing city. Two architects, Edward Lutyens and Herbert Baker, were called on to design New Delhi and its buildings. The government complex in New Delhi consisted of a two-mile avenue, Kingsway (now Rajpath), that led to the Viceroy’s Palace (now Rashtrapati Bhavan), with the Secretariat buildings on either sides of the avenue. The features of these government buildings were borrowed from different periods of India’s imperial history, but the overall look was Classical Greece (fifth century BCE). For instance, the central dome of the Viceroy’s Palace was copied from the Buddhist stupa at Sanchi, and the red sandstone and carved screens or jalis were borrowed from Mughal architecture. But the new buildings had to assert British importance: that is why the architect made sure that the Viceroy’s Palace was higher than Shah Jahan’s Jama Masjid!
 
-> [caption] Fig. 9 – The Coronation Durbar of King George V, 12 December, 1911 Over 100,000 Indian princes and British officers and soldiers gathered at the Durbar.
+> [caption] Fig. 9 – The Coronation Durbar of King George V, 12 December, 1911
+
+> [caption] Over 100,000 Indian princes and British officers and soldiers gathered at the Durbar.
 
 > [caption] Fig. 10 – The Viceregal Palace (Rashtrapati Bhavan) atop Raisina Hill
 
@@ -179,7 +191,9 @@ Amir – A nobleman
 
 > [caption] Fig. 14 – A colonial bungalow in New Delhi
 
-The decline of havelis The Mughal aristocracy in the seventeenth and eighteenth centuries lived in grand mansions called havelis. A map of the mid-nineteenth century showed at least a hundred such havelis, which were large walled compounds with mansions, courtyards and fountains.
+### The decline of havelis
+
+The Mughal aristocracy in the seventeenth and eighteenth centuries lived in grand mansions called havelis. A map of the mid-nineteenth century showed at least a hundred such havelis, which were large walled compounds with mansions, courtyards and fountains.
 
 A haveli housed many families. On entering the haveli through a beautiful gateway, you reached an open courtyard, surrounded by public rooms meant for visitors and business, used exclusively by males. The inner courtyard with its pavilions and rooms was meant for the women of the household. Rooms in the havelis had multiple uses, and very little by way of furniture.
 

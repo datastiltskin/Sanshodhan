@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch03.pdf"
 source_sha256: "63fe5ab4abfa65607215934e458614df4ad70d941902d787a3bf8c58b9839f4d"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "66916573dae5e83562c05c267beb557f0627425b3be38a86f739eedc9f2e240d"
+body_fingerprint: "c12385e8b79a935da93475f1319e1511d9bd91dca266f6541c1460e255f1b40e"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -23,7 +23,7 @@ On 12 August 1765, the Mughal emperor appointed the East India Company as the Di
 
 As Diwan, the Company became the chief financial administrator of the territory under its control. Now it had to think of administering the land and organising its revenue resources. This had to be done in a way that could yield enough revenue to meet the growing expenses of the company. A trading company had also to ensure that it could buy the products it needed and sell what it wanted.
 
-> [caption] Fig. 1 Fig. 1 – Robert Clive accepting the Diwani of Bengal, Bihar and Orissa from the Mughal ruler in 1765
+> [caption] Fig. 1 – Robert Clive accepting the Diwani of Bengal, Bihar and Orissa from the Mughal ruler in 1765
 
 <!-- page 27 (pdf 2) -->
 
@@ -31,7 +31,9 @@ Over the years the Company also learnt that it had to move with some caution. Be
 
 How was this to be done? In this chapter we will see how the Company came to colonise the countryside, organise revenue resources, redefine the rights of people, and produce the crops it wanted.
 
-Revenue for the Company The Company had become the Diwan, but it still saw itself primarily as a trader. It wanted a large revenue income but was unwilling to set up any regular system of assessment and collection. The effort was to increase the revenue as much as it could and buy fine cotton and silk cloth as cheaply as possible. Within five years the value of goods bought by the Company in Bengal doubled. Before 1865, the Company had purchased goods in India by importing gold and silver from Britain. Now the revenue collected in Bengal could finance the purchase of goods for export.
+### Revenue for the Company
+
+The Company had become the Diwan, but it still saw itself primarily as a trader. It wanted a large revenue income but was unwilling to set up any regular system of assessment and collection. The effort was to increase the revenue as much as it could and buy fine cotton and silk cloth as cheaply as possible. Within five years the value of goods bought by the Company in Bengal doubled. Before 1865, the Company had purchased goods in India by importing gold and silver from Britain. Now the revenue collected in Bengal could finance the purchase of goods for export.
 
 Soon it was clear that the Bengal economy was facing a deep crisis. Artisans were deserting villages since they were being forced to sell their goods to the Company at low prices. Peasants were unable to pay the dues that were being demanded from them. Artisanal production was in decline, and agricultural cultivation showed signs of collapse. Then in 1770 a terrible famine killed ten million people in Bengal. About one-third of the population was wiped out.
 
@@ -59,7 +61,9 @@ If the economy was in ruins, could the Company be certain of its revenue income?
 
 How was this to be done? After two decades of debate on the question, the Company finally introduced the Permanent Settlement in 1793. By the terms of the settlement, the rajas and taluqdars were recognised as zamindars. They were asked to collect rent from the peasants and pay revenue to the Company. The amount to be paid was fixed permanently, that is, it was not to be increased ever in future. It was felt that this would ensure a regular flow of revenue into the Company’s coffers and at the same time encourage the zamindars to invest in improving the land. Since the revenue demand of the state would not be increased, the zamindar would benefit from increased production from the land.
 
-The problem The Permanent Settlement, however, created problems. Company officials soon discovered that the zamindars were in fact not investing in the improvement of land. The revenue that had been fixed was so high that the zamindars found it difficult to pay. Anyone who failed to pay the revenue lost his zamindari. Numerous zamindaris were sold off at auctions organised by the Company.
+### The problem
+
+The Permanent Settlement, however, created problems. Company officials soon discovered that the zamindars were in fact not investing in the improvement of land. The revenue that had been fixed was so high that the zamindars found it difficult to pay. Anyone who failed to pay the revenue lost his zamindari. Numerous zamindaris were sold off at auctions organised by the Company.
 
 By the first decade of the nineteenth century the situation changed. The prices in the market rose and cultivation slowly expanded. This meant an increase in the income of the zamindars but no gain for the Company since it could not increase a revenue demand that had been fixed permanently Even then the zamindars did not have an interest in improving the land. Some had lost their lands in the earlier years of the settlement; others now saw the possibility of earning without the trouble and risk of investment. As long as the zamindars could give out the land to tenants and get rent, they were not interested in improving the land.
 
@@ -71,7 +75,9 @@ Why do you think Colebrook is concerned with the conditions of the under-ryots i
 
 On the other hand, in the villages, the cultivator found the system extremely oppressive. The rent he paid to the zamindar was high and his right on the land was insecure. To pay the rent he had to often take a loan from the moneylender, and when he failed to pay the rent he was evicted from the land he had cultivated for generations.
 
-A new system is devised By the early nineteenth century many of the Company officials were convinced that the system of revenue had to be changed again. How could revenues be fixed permanently at a time when the Company needed more money to meet its expenses of administration and trade?
+### A new system is devised
+
+By the early nineteenth century many of the Company officials were convinced that the system of revenue had to be changed again. How could revenues be fixed permanently at a time when the Company needed more money to meet its expenses of administration and trade?
 
 In the North Western Provinces of the Bengal Presidency (most of this area is now in Uttar Pradesh), an Englishman called Holt Mackenzie devised the new system which came into effect in 1822. He felt that the village was an important social institution in north Indian society and needed to be preserved. Under his directions, collectors went from village to village, inspecting the land, measuring the fields, and recording the customs and rights of different groups. The estimated revenue of each plot within a village was added up to calculate the revenue that each village (mahal) had to pay. This demand was to be revised periodically, not permanently fixed. The charge of collecting the revenue and paying it to the Company was given to the village headman, rather than the zamindar. This system came to be known as the mahalwari settlement.
 
@@ -143,7 +149,9 @@ From the last decades of the eighteenth century indigo cultivation in Bengal exp
 
 How was indigo cultivated? There were two main systems of indigo cultivation – nij and ryoti. Within the system of nij cultivation, the planter produced indigo in lands that he directly controlled. He either bought the land or rented it from other zamindars and produced indigo by directly employing hired labourers.
 
-The problem with nij cultivation The planters found it difficult to expand the area under nij cultivation. Indigo could be cultivated only on fertile lands, and these were all already densely populated. Only small plots scattered over the landscape could be acquired. Planters needed large areas in compact blocks to cultivate indigo in plantations. Where could they get such land from? They attempted to lease in the land around the indigo factory, and evict the peasants from the area. But this always led to conflicts and tension.
+### The problem with nij cultivation
+
+The planters found it difficult to expand the area under nij cultivation. Indigo could be cultivated only on fertile lands, and these were all already densely populated. Only small plots scattered over the landscape could be acquired. Planters needed large areas in compact blocks to cultivate indigo in plantations. Where could they get such land from? They attempted to lease in the land around the indigo factory, and evict the peasants from the area. But this always led to conflicts and tension.
 
 Nor was labour easy to mobilise. A large plantation required a vast number of hands to operate. And labour was needed precisely at a time when peasants were usually busy with their rice cultivation.
 
@@ -157,13 +165,15 @@ Till the late nineteenth century, planters were therefore reluctant to expand th
 
 ### Indigo on the land of ryots
 
-Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop. Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860 How was indigo produced?
+Under the ryoti system, the planters forced the ryots to sign a contract, an agreement (satta). At times they pressurised the village headmen to sign the contract on behalf of the ryots. Those who signed the contract got cash advances from the planters at low rates of interest to produce indigo. But the loan committed the ryot to cultivating indigo on at least 25 per cent of the area under his holding. The planter provided the seed and the drill, while the cultivators prepared the soil, sowed the seed and looked after the crop. Fig. 8 – Workers harvesting indigo in early-nineteenth-century Bengal. From Colesworthy Grant, Rural Life in Bengal, 1860
 
 > [table] In India the indigo plant was cut mostly by men.
 
 > [caption] Fig. 9 – The Indigo plant being brought from the fields to the factory
 
 <!-- page 34 (pdf 9) -->
+
+How was indigo produced?
 
 > [caption] Vat
 

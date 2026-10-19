@@ -7,9 +7,10 @@ snapshots:
 chapter: 9
 title: "Struggles for Equality"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch09.pdf"
+source_sha256: "a9c51d4c27af33d18bead542e8a2f9954340f93c9633f6905c14c24966d6cde9"
 pdf_pages: 11
 printed_pages: "102-112"
-body_fingerprint: "735931a14e1bf84cecbb51f44625134580b8939b5f08399fb685d9157445b148"
+body_fingerprint: "3073a107e16595597c17ef8eac33226c775d891f2ca61fd05967949f5d901d0f"
 ocr: true
 ocr_confidence: 92.8
 ---
@@ -40,7 +41,7 @@ On the other hand, the Ansaris were discriminated against not because they did n
 
 > [caption] EAd poverty In’all its forms everywhere
 
-> [note] Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 > [note] www.in.undp.org
 
@@ -48,7 +49,7 @@ On the other hand, the Ansaris were discriminated against not because they did n
 
 According to the 2011 Census data women form 48.5 per cent of the population, Muslims form 14.2 per cent of the population, SCs form 16.6 per cent and STs 8.6 per cent.
 
-Sustainable Development Goal (SDG)
+> [caption] Sustainable Development Goal (SDG)
 
 www.in.undp.org
 
@@ -146,7 +147,7 @@ Can you make up a social advertisement on equality? You can do this in small gro
 
 @ World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/
 
-@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org 6a" ¥ INDIA POLITICAL Pa ee oa " RAKHAND CHINA | % osm anh (TIBET) is ¥ hs 7 a 4 BEU: 2 ~ SIKKIM Gangtok th mos . ia OS Rona oe ESH “™ ep BHUTAN 3 “@ 4S Lucknow: sap, v Se oe ie eee gal 2a ys Tara Whee wm reed caneet ssa eo (Daman & Dju) aNp MAHARASH \ : AM Sarg 1 é ——— Go. J REFEREN . orem Internatipnal boundary f tenner State boundary ; 3 ( cen ge is SS Sele ’ : . ‘ Dethi +5 on & Se f = 200 00 = © ~ Pee PL a ts 0 CEA N - oS L
+@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org 6a" ¥ INDIA POLITICAL Pa ee oa " RAKHAND CHINA | % osm anh (TIBET) is ¥ hs 7 a 4 BEU: 2 ~ SIKKIM Gangtok th mos. ia OS Rona oe ESH “™ ep BHUTAN 3 “@ 4S Lucknow: sap, v Se oe ie eee gal 2a ys Tara Whee wm reed caneet ssa eo (Daman & Dju) aNp MAHARASH \: AM Sarg 1 é ——— Go. J REFEREN . orem Internatipnal boundary f tenner State boundary; 3 ( cen ge is SS Sele ’ : . ‘ Dethi +5 on & Se f = 200 00 = © ~ Pee PL a ts 0 CEA N - oS L
 
 > [table] @ Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
 
@@ -182,6 +183,8 @@ Final round of competitions and prize distribution ceremony to be held in Januar
 
 ## over 850 Schools will be participating yy SHANTI SEWA® NYAYA wt bd ¥
 
-Follow us on: yh) https:/twitter.com/dtptrattic — F) https://www.tacebook.com/dtptrattic 24 Hours Traffic Helpline : 011-25844444, 1095 Have you participated in any event related to school road safety?
+Follow us on: yh) https:/twitter.com/dtptrattic — F) https://www.tacebook.com/dtptrattic 24 Hours Traffic Helpline : 011-25844444, 1095
+
+Have you participated in any event related to school road safety?
 
 For materials about road safety education, log on to http: //delhitrafficpolice.nic.in Ministry of Road Transport and Highways, http://morth-roadsafety.nic.in For short films on road safety, log on to http://transport.telangana.gov.in

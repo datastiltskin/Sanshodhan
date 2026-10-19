@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch04.pdf"
 source_sha256: "74d508985e8f9e7dc0357085d2e7862d7c4cb97a2ec91f72cb74cf6417682cba"
 pdf_pages: 12
 printed_pages: "36-47"
-body_fingerprint: "4d78e0dcbf29ef4daea0c937548a2ed9a4b50b41045e4931eb747f397d328cac"
+body_fingerprint: "99f3fb489fb6ce13779619b4c5cb39c3d8a50ad12115431e2dc33bb44a126471"
 ---
 
 <!-- page 36 (pdf 13 of ch03.pdf) -->
@@ -164,7 +164,7 @@ Below is some data from a special study done by the Central Statistical Organiza
 
 State Women Paid Women Unpaid Women Men Paid Men Unpaid Men (Work hours (Housework (Total) (Work hours (Housework (Total) per week) hours per week) per week) hours per week)
 
-Haryana 23 30 ? 38 2 ? Tamil Nadu 19 35 ? 40 4 ?
+Haryana 23 30? 38 2? Tamil Nadu 19 35? 40 4?
 
 Women’s work and equality
 
@@ -182,7 +182,9 @@ Many women like Shonali’s mother in the story and the women in Tamil Nadu and 
 
 Children at an Anganwadi centre in a village in Madhya Pradesh.
 
-Sustainable Development Goal (SDG) www.in.undp.org This naturally has an impact on whether girls can attend school. It determines whether women can work outside the house and what kind of jobs and careers they can have. The government has set up anganwadis or child-care centres in several villages in the country. The government has passed laws that make it mandatory for organisations that have more than 30 women employees to provide crèche facilities. The provision of crèches helps many women to take up employment outside the home. It also makes it possible for more girls to attend schools.
+This naturally has an impact on whether girls can attend school. It determines whether women can work outside the house and what kind of jobs and careers they can have. The government has set up anganwadis or child-care centres in several villages in the country. The government has passed laws that make it mandatory for organisations that have more than 30 women employees to provide crèche facilities. The provision of crèches helps many women to take up employment outside the home. It also makes it possible for more girls to attend schools.
+
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 46 (pdf 9) -->
 

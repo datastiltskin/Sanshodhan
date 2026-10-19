@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch03.pdf"
 source_sha256: "66535c11d933fdb720e2bece42dbd2b047c0bad2512e29a4d26bbe9167c52496"
 pdf_pages: 12
 printed_pages: "30-41"
-body_fingerprint: "83de001f93e9befcde362f303dd29a9d060df552d4d8e4f001ae4607af3f8ed9"
+body_fingerprint: "e4890e9e0740ffb3c334679a45da9f1997ad896677602701164e9a6ff304f72c"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -47,7 +47,7 @@ body_fingerprint: "83de001f93e9befcde362f303dd29a9d060df552d4d8e4f001ae4607af3f8
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [table] What a loud voice he has...he must be a leader or something... ...and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
+> [table] What a loud voice he has...he must be a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take Ha ha – they seem more angry Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
 
 > [table] about what he the Opposition!
 
@@ -77,13 +77,27 @@ Using a pencil outline the following on the map on inside back cover (cover thre
 
 government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
-Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
+Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 
-How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority majority majority. The political party that has the majority is called the ruling party and all other members are called the opposition opposition opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies.
+How do people who are MLAs become ministers or chief minister? A political party whose MLAs have won more than half the number of constituencies in a state can be said to be in a majority. The political party that has the majority is called the ruling party and all other members are called the opposition. For example, the Legislative Assembly of the state of Himachal Pradesh has 68 MLA constituencies.
 
 <!-- page 33 (pdf 4) -->
 
-Results of the Assembly Elections in H.P. in 2003 Political party Number of MLAs elected Indian National Congress (INC) ..................................................... 43 Bharatiya Janata Party (BJP) ............................................................. 16 Other political parties ....................................................................... 03 Independents (who don’t belong to any party)........................... 06 Total ................................................................................ 68 Candidates from various political parties won the 2003 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Indian National Congress with 43 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, Bharatiya Janata Party was the major opposition party, since it had the largest number of MLAs after the Indian National Congress. Among the opposition were other parties, including those who had been elected as independent candidates.
+Results of the Assembly Elections in H.P. in 2003
+
+Political party Number of MLAs elected
+
+Indian National Congress (INC) ..................................................... 43
+
+Bharatiya Janata Party (BJP) ............................................................. 16
+
+Other political parties ....................................................................... 03
+
+Independents (who don’t belong to any party)........................... 06
+
+Total ................................................................................ 68
+
+Candidates from various political parties won the 2003 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Indian National Congress with 43 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, Bharatiya Janata Party was the major opposition party, since it had the largest number of MLAs after the Indian National Congress. Among the opposition were other parties, including those who had been elected as independent candidates.
 
 After the elections, the MLAs belonging to the ruling party will elect their leader who will become the chief minister. In this case, the Congress Party MLAs chose Shri Virbhadra Singh as their leader and he became the chief minister. The chief minister then selects other people as ministers. After the elections, it is the Governor of the state who appoints the chief minister and other ministers.
 
@@ -105,19 +119,19 @@ This Assembly was going to have a debate on a current problem. During this time,
 
 The chief minister and other ministers have to take decisions and run the government. We usually hear about them or see them in the news channels or in the papers. However, whatever decisions are being taken have to be approved by the members of the legislative assembly. In a democracy, these members can ask questions, debate an important issue, decide where money should be spent, etc. They have the main authority.
 
-MLA 1: MLA 1: In my constituency of Akhandagaon, during the last three weeks, there were 15 deaths because of diarrhoea. I think it is a shame that this government has not been able to check the situation of a simple problem like diarrhoea while proclaiming itself to be a champion of technology. I would call the attention of the minister in charge of health to take immediate measures to control the situation.
+MLA 1: In my constituency of Akhandagaon, during the last three weeks, there were 15 deaths because of diarrhoea. I think it is a shame that this government has not been able to check the situation of a simple problem like diarrhoea while proclaiming itself to be a champion of technology. I would call the attention of the minister in charge of health to take immediate measures to control the situation.
 
-MLA 2: MLA 2: My question is why are government hospitals in such a bad situation? Why is the government not appointing proper doctors and other medical staff in the district? I would also like to know how the government plans to deal with this situation which is affecting a large number of people and is also spreading. This is an epidemic.
+MLA 2: My question is why are government hospitals in such a bad situation? Why is the government not appointing proper doctors and other medical staff in the district? I would also like to know how the government plans to deal with this situation which is affecting a large number of people and is also spreading. This is an epidemic.
 
 <!-- page 35 (pdf 6) -->
 
-MLA 3: MLA 3: My constituency of Tolpatti too has a serious shortage of water. Women travel up to 3 or 4 kilometres to collect water. How many tankers have been put into service to supply water? How many wells and ponds have been cleaned and disinfected?
+MLA 3: My constituency of Tolpatti too has a serious shortage of water. Women travel up to 3 or 4 kilometres to collect water. How many tankers have been put into service to supply water? How many wells and ponds have been cleaned and disinfected?
 
-MLA 4: MLA 4: I think my colleagues are exaggerating the problem. The government has taken steps to control the situation. Water tankers have been put into service. ORS packets are being distributed. The government is doing everything possible to help people.
+MLA 4: I think my colleagues are exaggerating the problem. The government has taken steps to control the situation. Water tankers have been put into service. ORS packets are being distributed. The government is doing everything possible to help people.
 
-MLA 5: MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
+MLA 5: We have very poor facilities in our hospitals. There are hospitals that do not have a doctor and no medical staff has been appointed for the last few years. In another hospital, the doctor has gone on a long leave. This is a shame. I think the situation is going from bad to worse. How are we going to ensure that ORS packets reach all families in the affected areas?
 
-MLA 6: MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2 In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
+MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2
 
 > [note] 5
 
@@ -126,6 +140,8 @@ MLA 6: MLA 6: The opposition members are unnecessarily blaming the government. T
 > [note] 3 4
 
 <!-- page 36 (pdf 7) -->
+
+In the earlier section you have read about a debate in the Legislative Assembly. The members were debating the action taken or not taken by the government. This is because the MLAs are together responsible for the work of the government. In common usage the word ‘government’ refers to government departments and various ministers who head them. The overall head is the chief minister. More correctly, this is called the executive part of the government. All the MLAs who gather together (assemble) in the legislative assembly are called the Legislature. They are the ones who authorise and supervise their work. As we saw in the earlier section, it is from among them that the head of the executive, or the chief minister is formed.
 
 Working of the government
 

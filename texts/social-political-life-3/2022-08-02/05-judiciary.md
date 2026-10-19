@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-3/2022-08-02/ch05.pdf"
 source_sha256: "5d744375ac205d8a54ebc88f410ab2e9d49ab9cc635ca9c6142da6d97aa2c877"
 pdf_pages: 14
 printed_pages: "52-65"
-body_fingerprint: "0008ced7fb62919bba9bbb9abaab13fb45faff0acabf3d6a742d41747e788b46"
+body_fingerprint: "3db30bf6c4c7a405fa15ed61a165471c4ae24299620d31d184db83913bf48b91"
 ---
 
 <!-- page 52 (pdf 1) -->
@@ -170,7 +170,9 @@ The sweep of the Right to Life, conferred by Article 21 is wide and far reaching
 
 That the eviction of a person from a pavement or slum will inevitably lead to the deprivation of his means of livelihood, is a proposition which does not have to be established in each individual case …. In the present case that facts constituting empirical evidence justify the conclusion that the petitioners live in slums and on pavements because they have small jobs to nurse in the city and for them there is nowhere else to live. They choose a pavement or a slum in the vicinity of their place of work and to loose the pavement or the slum is to loose the job. The conclusion therefore is that the eviction of the petitioners will lead to deprivation of their livelihood and consequently to the deprivation of life.
 
-> [caption] Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545 Find out about the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.
+> [caption] Olga Tellis vs Bombay Municipal Corporation (1985) 3 SCC 545
+
+> [caption] Find out about the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014.
 
 <!-- page 63 (pdf 12) -->
 
@@ -178,7 +180,11 @@ Another issue that affects the common person’s access to justice is the inordi
 
 > [table] Number of Judges in India
 
-No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 34 34 0 B High Courts 1,079 655 424 C District and 22,644 17,509 5,135 Subordinate Courts However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens. The members of the Constituent Assembly had quite correctly envisioned a system of courts with an independent judiciary as a key feature of our democracy.
+No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme Court 34 34 0
+
+B High Courts 1,079 655 424
+
+C District and 22,644 17,509 5,135 Subordinate Courts However, inspite of this there is no denying that the judiciary has played a crucial role in democratic India, serving as a check on the powers of the executive and the legislature as well as in protecting the Fundamental Rights of citizens. The members of the Constituent Assembly had quite correctly envisioned a system of courts with an independent judiciary as a key feature of our democracy.
 
 > [table] * Data in A and B (as on 1 November 2019)
 

@@ -26,29 +26,35 @@ source_pdf: "pdfs/social-political-life-3/2022-08-02/prelims.pdf"
 
 > [caption] qThe correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
-> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
+> [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
+
+> [caption] Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
 
 > [table] PD 600T RSP
 
-> [caption] © National Council of Educational Research and Training, 2008 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] © National Council of Educational Research and Training, 2008
+
+> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
 
 > [table] ` 65.00
 
 > [table] Publication Team
 
-> [table] Head, Publication : Anup Kumar Rajput Division
+> [table] Head, Publication: Anup Kumar Rajput Division
 
 > [caption] Cover Photo Sheeba Chachi
 
-> [table] Chief Editor : Shveta Uppal
+> [table] Chief Editor: Shveta Uppal
 
-> [table] Chief Production : Arun Chitkara Officer
+> [table] Chief Production: Arun Chitkara Officer
 
-> [table] Chief Business : Vipin Dewan Manager
+> [table] Chief Business: Vipin Dewan Manager
 
-> [caption] Printed on 80 GSM paper with NCERT watermark Editor : Bijnan Sutar
+> [caption] Printed on 80 GSM paper with NCERT watermark Editor: Bijnan Sutar
 
-> [table] Production Officer : A. M. Vinod Kumar
+> [table] Production Officer: A. M. Vinod Kumar
 
 Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Educational Stores, S-5, Bulandshahar Road, Industrial Area Site-I (Near RTO Office) Ghaziabad (U.P.)
 
@@ -178,14 +184,22 @@ Photo Essay: Last year’s book had a photo essay on the women’s movement. Thi
 
 ### Unit One: The Indian Constitution and Secularism 2
 
-Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18 Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42 Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66 Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94 Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
+Chapter 1: The Indian Constitution 4 Chapter 2: Understanding Secularism 18
 
 ### Unit Two: Parliament and The Making of Laws 28
 
+Chapter 3: Why do we need a Parliament? 30 Chapter 4: Understanding Laws 42
+
 ### Unit Three: The Judiciary 52
+
+Chapter 5: Judiciary 54 Chapter 6: Understanding Our Criminal Justice System 66
 
 ### Unit Four: Social Justice and The Marginalised 78
 
+Chapter 7: Understanding Marginalisation 80 Chapter 8: Confronting Marginalisation 94
+
 ### Unit Five: Economic Presence of the Government 104
+
+Chapter 9: Public Facilities 106 Chapter 10: Law and Social Justice 120
 
 ### References 134

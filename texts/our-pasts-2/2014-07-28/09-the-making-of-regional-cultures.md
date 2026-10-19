@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch09.pdf"
 source_sha256: "4573e6b8c05b0d90ce1bc7936f81f2ecf9fc24a4b46cfa32e0f0105d203d7838"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "b1876226dabdc168e206469fe92900610de4cd3734ce104705c83cf29327d443"
+body_fingerprint: "1b4e076f9cbafd4237ed887e91201e2425f37bcc6dda3b916ebe9758e4bdaf70"
 ---
 
 <!-- page 122 (pdf 1) -->
@@ -63,7 +63,7 @@ Did women find a place within these stories? Sometimes, they figure as the “ca
 
 <!-- page 126 (pdf 5) -->
 
-## Beyond Regional Frontiers: The Story of The Story of Kathak Kathak
+## Beyond Regional Frontiers: The Story of Kathak
 
 If heroic traditions can be found in different regions in different forms, the same is true of dance. Let us look at the history of one dance form, Kathak, now associated with several parts of north India. The term kathak is derived from katha, a word used in Sanskrit and other languages for story. The kathaks were originally a caste of story-tellers in temples of north India, who embellished their performances with gestures and songs. Kathak began evolving into a distinct mode of dance in the fifteenth and sixteenth centuries with the spread of the bhakti movement. The legends of Radha-Krishna were enacted in folk plays called rasa lila, which combined folk dance with the basic gestures of the kathak story-tellers.
 
@@ -143,7 +143,7 @@ Maynamati, Gopichandra and Dharma Thakur
 
 The texts belonging to the first category are easier to date, as several manuscripts have been found indicating that they were composed between the late fifteenth and mid-eighteenth centuries. Those belonging to the second category circulated orally and cannot be precisely dated. They were particularly popular in eastern Bengal, where the influence of Brahmanas was relatively weak.
 
-## Pirs Pirs and Temples and Temples
+## Pirs and Temples
 
 From the sixteenth century, people began to migrate in large numbers from the less fertile western Bengal to the forested and marshy areas of south-eastern Bengal. As they moved eastwards, they cleared forests and brought the land under rice cultivation. Gradually, local communities of fisherfolk and shifting cultivators, often tribals, merged with the new communities of peasants.
 

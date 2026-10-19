@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch08.pdf"
 source_sha256: "f885b99802017fcca6f6407289e44812be2dc0b9c12eacf78bddbbcae97f009c"
 pdf_pages: 13
 printed_pages: "86-98"
-body_fingerprint: "9b4c4ab389b7550442b888b3e6e8741d08734bff1d57db27818cfd5cd133d4bd"
+body_fingerprint: "0258b2bb7915eeaf625bb97b99a7e9f0b3f974509e9820151ce412f5b6615618"
 ---
 
 <!-- page 86 (pdf 11) -->
@@ -129,9 +129,17 @@ The Impex garment factory has 70 workers. Most of them are women. Most of these 
 
 Payment to workers (per month)
 
-Tailoring .......................................................` 3,000 Ironing..........................................................` 1.50 (per piece)
+Tailoring .......................................................` 3,000
 
-Checking .....................................................` 2,000 Thread cutting and buttoning.............................................` 1,500 The shirt in the United States A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
+Ironing..........................................................` 1.50 (per piece)
+
+Checking .....................................................` 2,000
+
+Thread cutting and buttoning.............................................` 1,500
+
+The shirt in the United States
+
+A number of shirts are on display at a large clothes shop in the United States, and are priced at $26. That is, each shirt sells for $26 or around ` 1,800.
 
 Use the diagram shown in the margin to fill in the blanks below.
 
@@ -165,7 +173,7 @@ Market and equality
 
 The foreign businessperson made huge profits in the market. Compared to this, the garment exporter made only moderate profits. On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs. Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work. But they did not get a fair price in the market for what they produced. The merchants or traders are somewhere in between. Compared to the weavers, they have earned more but it is still much less than the exporter. Thus, not everyone gains equally in the market. Democracy is also about getting a fair wage in the market. Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?
 
-On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful Did you know that the readymade clothes that you buy require the work of so many different persons?
+On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.
 
 > [caption] Compare the earnings per shirt of the worker in the garment factory, the garment exporter and the businessperson in the market abroad. What do you find?
 
@@ -191,7 +199,9 @@ On one hand, the market offers people opportunities for work and to be able to s
 
 <!-- page 94 (pdf 19) -->
 
-Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly.
+Did you know that the readymade clothes that you buy require the work of so many different persons?
+
+> [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 95 (pdf 20) -->
 

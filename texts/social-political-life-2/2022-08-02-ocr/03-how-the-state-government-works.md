@@ -7,9 +7,10 @@ snapshots:
 chapter: 3
 title: "How the State Government Works"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch03.pdf"
+source_sha256: "94e9145c90b4efb2f40b2f2c8406d20c91596fdca8f8232cd32f60489215f7bd"
 pdf_pages: 14
 printed_pages: "30-43"
-body_fingerprint: "38de19ac71c5c6e5285ba9ab80639ef354db1118535028571c22bdd6152d8232"
+body_fingerprint: "83c01ef353c80d9cd36b2a5191b2bf92a49382c7a4455e28237cfd468a717463"
 ocr: true
 ocr_confidence: 86.9
 ---
@@ -30,9 +31,11 @@ WHOSE RESPONSIBILITY?
 
 Last year, we discussed the fact that government works at three levels - local, state and national - and looked at the work of local government in some detail. In this chapter, we examine the work of the government at the state level. How does this take “People at the district HQ Patalpuram receive water vv place ina democ racy? supply once in three days. The District Hospital here is
 
-. flowing with patients —a large number of whom _2%5 What is the role of a o «a4 Member of the Legislative Assembly (MLA) and Ministers? How do people express their views or demand action from government? We look at these questions through the example of health.
+. flowing with patients —a large number of whom _2%5 What is the role of a o «a4
 
 > [table] are children with acute diarrhoea...” eS |
+
+Member of the Legislative Assembly (MLA) and Ministers? How do people express their views or demand action from government? We look at these questions through the example of health.
 
 <!-- page 31 (pdf 2) -->
 
@@ -74,7 +77,7 @@ Members of the Legislative Assembly (MLAs) are elected by the people. They then 
 
 Can you explain the following terms-majority, ruling party, opposition with reference to your The state of Himachal Pradesh is coloured in purplein theabove thumbnail map of India.
 
-> [caption] state. iw sy — We “ | LITICAL \ =~ | | ean mmBen » 2 : — . Phe . a Be ol : he Be 1 all = ones t =| MIZORAM | Aah —_ , MauaRasar on ie | c ; Poel r Ne A ——. — ¥ a Le . = =" ; Se ; ‘oT - c 2 © 4 i é Gahiee ty en >. oc ; | fe enw oer am “
+> [caption] state. iw sy — We “ | LITICAL \ =~ | | ean mmBen » 2 : —. Phe . a Be ol : he Be 1 all = ones t =| MIZORAM | Aah —_, MauaRasar on ie | c ; Poel r Ne A ——. — ¥ a Le . = ="; Se; ‘oT - c 2 © 4 i é Gahiee ty en >. oc ; | fe enw oer am “
 
 Using a pencil outline the following on the map given on page 111: (i) the state that you live in; (ii) the state of Himachal Pradesh.
 
@@ -90,7 +93,17 @@ How do people who are MLAs become ministers or chief minister? A political party
 
 <!-- page 33 (pdf 4) -->
 
-Results of the Assembly Elections in Himachal Pradesh in 2017 Political party Number of MLAs elected Bharatiya Janata Party (BJP) 44 Indian National Congress (INC) 21 Communist Party of India (Marxist) l Independents (who don’t belong to any party) .........-sececeeseeees 2 Total 68 For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
+Results of the Assembly Elections in Himachal Pradesh in 2017
+
+Political party Number of MLAs elected Bharatiya Janata Party (BJP) 44 Indian National Congress (INC) 21
+
+Communist Party of India (Marxist) l
+
+Independents (who don’t belong to any party) .........-sececeeseeees 2
+
+Total 68
+
+For more details, visit http://hpvidhansabha.nic.in Candidates from various political parties won the 2017 assembly elections and became MLAs. Since the total number of MLAs in the Legislative Assembly is 68, a political party would have needed to have more than 34 MLAs in order to gain a majority. The Bharatiya Janata Party (BJP) with 44 MLAs had the majority and it became the ruling party. All other MLAs became the opposition. In this case, the Indian National Congress (INC) was the major opposition party, since it had the largest number of MLAs after the BJP. Among the opposition were other parties, including those who had been elected as independent candidates.
 
 After the elections, the MLAs belonging to the ruling party will elect their leader who will become the chief minister. In this case, the BJP MLAs chose Shri Jairam Thakur as their leader and he became the chief minister. The chief minister then selects other people as ministers. After the elections, it is the Governor of the state who appoints the chief minister and other ministers.
 

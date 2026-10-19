@@ -7,9 +7,10 @@ snapshots:
 chapter: 7
 title: "Markets Around Us"
 source_pdf: "pdfs/social-political-life-2/2022-08-02/ch07.pdf"
+source_sha256: "5c74a461e99b02054c7f437b02e67fa425463f11c0832a246c02380fe9fbc6af"
 pdf_pages: 10
 printed_pages: "82-91"
-body_fingerprint: "3d42723e6a9f8298dc4251d462d888ceef2e67be9c730d823b89baffe6a67b36"
+body_fingerprint: "a70b83ac6a3d643842681a7c24b3ef46b2846927768aa69ba5a17ddc4203b50d"
 ocr: true
 ocr_confidence: 92.3
 ---
@@ -90,7 +91,7 @@ The people in between the producer and the final consumer are the traders. The w
 
 We can understand this with the help of the following examples — Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
-> [caption] nk ul a snop ind out an ample IS WV cessat f a pond LF Pui 7 5 ¢ , ) S » Azadpur f -s { . Daryaganj & ag y fey’ Keshopur 2 f ( ) a ‘y {~< ? ons _ rn
+> [caption] nk ul a snop ind out an ample IS WV cessat f a pond LF Pui 7 5 ¢,) S » Azadpur f -s { . Daryaganj & ag y fey’ Keshopur 2 f () a ‘y {~<? ons _ rn
 
 > [note] The above map of Delhi shows four of the
 
@@ -126,9 +127,7 @@ Malls, like the one above, sell expensive this chain that what is produced in on
 
 ## om RESPONSIBLE CONSUMPTION © § PRODUCTION
 
-> [caption] Ensure sustainable consumption and production patterns
-
-Sustainable Development Goal (SDG)
+> [caption] Ensure sustainable consumption and production patterns Sustainable Development Goal (SDG)
 
 www.in.undp.org
 

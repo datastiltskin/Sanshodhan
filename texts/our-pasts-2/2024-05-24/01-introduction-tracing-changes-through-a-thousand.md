@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch01.pdf"
 source_sha256: "88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "5b074c415d85dc271cde9604452f2eba6e3e6409727b1cb13e76e2ca651dc815"
+body_fingerprint: "ff276cda0f80c1b6f049c7a07305ce553dc8a95d138dcfe3adeb149e6a4fb4d8"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -38,7 +38,7 @@ Equally important is the fact that the science of cartography differed in the tw
 
 If the context in which information is produced changes with time, what about language and meanings? Historical records exist in a variety of languages which have changed considerably over the years. Medieval Persian, for example, is different from modern Persian. The difference is not just with regard to grammar and vocabulary; the meanings of words also change over time.
 
-Take the term “Hindustan”, for example. Today we understand it as “India”, the modern nation-state . When the term was used in the thirteenth century by a chronicler who wrote in Persian, Minhaj 1 Siraj, he meant the areas of Punjab, Haryana and the lands between the Ganga and Yamuna. He used the term in a political sense for lands that were a part of the dominions of the Delhi Sultan. The areas included in this term shifted with the extent of the Sultanate but the term never included south India. By contrast, in the early sixteenth century, Babur used Hindustan to describe the geography, the fauna and the culture of the inhabitants of the subcontinent. As we will see later in the chapter, this was somewhat similar to the way the fourteenth-century poet Amir Khusrau used the word “Hind”. While the idea of a geographical and cultural entity like “India” did exist, the term “Hindustan” did not carry the political and national meanings which we associate with it today.
+Take the term “Hindustan”, for example. Today we understand it as “India”, the modern nation-state . When the term was used in the thirteenth century by a chronicler who wrote in Persian, Minhaj-i-Siraj, he meant the areas of Punjab, Haryana and the lands between the Ganga and Yamuna. He used the term in a political sense for lands that were a part of the dominions of the Delhi Sultan. The areas included in this term shifted with the extent of the Sultanate but the term never included south India. By contrast, in the early sixteenth century, Babur used Hindustan to describe the geography, the fauna and the culture of the inhabitants of the subcontinent. As we will see later in the chapter, this was somewhat similar to the way the fourteenth-century poet Amir Khusrau used the word “Hind”. While the idea of a geographical and cultural entity like “India” did exist, the term “Hindustan” did not carry the political and national meanings which we associate with it today.
 
 Historians today have to be careful about the terms they use because they meant different things in the past. Take, for example, a simple term like “foreigner”. It is used today to mean someone who is not an Indian.
 
@@ -46,11 +46,11 @@ Historians today have to be careful about the terms they use because they meant 
 
 <!-- page 4 (pdf 4) -->
 
-In the medieval period, a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of that society or culture. (In Hindi the term pardes i might be used to describe such a person and in Persian, ajnabi .) A city-dweller, therefore, might have regarded a forest-dweller as a “foreigner”, but two peasants living in the same village were not foreigners to each other, even though they may have had different religious or caste backgrounds.
+In the medieval period, a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of that society or culture. (In Hindi the term pardesi might be used to describe such a person and in Persian, ajnabi .) A city-dweller, therefore, might have regarded a forest-dweller as a “foreigner”, but two peasants living in the same village were not foreigners to each other, even though they may have had different religious or caste backgrounds.
 
 ## Historians and their Sources
 
-Historians use different types of sources to learn about the past depending upon the period of their study fi or and the nature of their investigation. Last year, example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
+Historians use different types of sources to learn about the past depending upon the period of their study for and the nature of their investigation. Last year, example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
 
 You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period, paper gradually became cheaper and more Compare the following:
 
@@ -66,11 +66,11 @@ When was paper more expensive and easily available – in the thirteenth or the 
 
 widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
 
-There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a Sometimes you cannot read your simple EXYIcise.
+There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a Sometimes you cannot read your simple exercise.
 
 friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes – a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result, historians have to read different manuscript versions of the same text to guess what the author had originally written.
 
-> [note] Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old off fficial records and transactions.
+> [note] Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old off official records and transactions.
 
 > [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
 
@@ -82,7 +82,7 @@ On occasion authors revised their chronicles at different times. The fourteenth-
 
 The study of the thousand years between 700 and 1750 is a huge challenge to historians largely because of the scale and variety of developments that occurred over the period. At different moments in this period, new technologies made their appearance – like the Persian wheel in irrigation, the spinning wheel in weaving, and firearms in combat. New foods and beverages arrived in the subcontinent – potatoes, corn, chillies, tea and coffee. Remember that all these innovations – new technologies and crops – came along with people, who brought other ideas with them as well. As a result, this was a period of economic, political, social and cultural changes. You will learn about some of these changes in Chapter 5.
 
-> [caption] Fig. 2 Different kinds of handwriting could make the reading of Persian and Arabic dy Ufficult. The nastaliq style (on the left) is cursive and easy to read, the shikaste (on the right) is denser and more diffi ifficult.
+> [caption] Fig. 2 Different kinds of handwriting could make the reading of Persian and Arabic dy difficult. The nastaliq style (on the left) is cursive and easy to read, the shikaste (on the right) is denser and more diffi difficult.
 
 <!-- page 7 (pdf 7) -->
 
@@ -94,7 +94,7 @@ This was also a period of great mobility. Groups of people travelled long distan
 
 The term included not just rulers and chieftains but also soldiers and commanders who served in the armies of different monarchs all over the subcontinent. A chivalric code of conduct – extreme valour and a great sense of loyalty – were the qualities attributed to Rajputs by their poets and bards. Other groups of people such as the Marathas, Sikhs, Ahoms Jats, and Kayasthas (a caste of scribes and secretaries) also used the opportunities of the age to become politically important.
 
-Throughout this period there was a gradual clearing of forests and the extension of agriculture, a change faster and more complete in some areas than in others. Changes in their habitat forced many forest-dwellers to migrate. Others started tilling the land and became peasants. These new peasant groups gradually began to be influenced by regional markets, chieftains, priests, monasteries and temples. They became a part of large, complex societies, and were required to pay taxes and offer goods and services to local lords. As a result, significant economic and social differences emerged amongst peasants. others also Some possessed more productive land, kept cattle, and some combined artisanal work with agricultural activity during the lean season. As society became more differentiated, people were grouped into Jatis or sub-castes and ranked on the basis of their backgrounds and their occupations. Ranks were not fixed permanently, and varied according to the power, influence and resources controlled by members of the . Jatt. The status of the same Jatt could vary from area to area.
+Throughout this period there was a gradual clearing of forests and the extension of agriculture, a change faster and more complete in some areas than in others. Changes in their habitat forced many forest-dwellers to migrate. Others started tilling the land and became peasants. These new peasant groups gradually began to be influenced by regional markets, chieftains, priests, monasteries and temples. They became a part of large, complex societies, and were required to pay taxes and offer goods and services to local lords. As a result, significant economic and social differences emerged amongst peasants. others also Some possessed more productive land, kept cattle, and some combined artisanal work with agricultural activity during the lean season. As society became more differentiated, people were grouped into Jatis or sub-castes and ranked on the basis of their backgrounds and their occupations. Ranks were not fixed permanently, and varied according to the power, influence and resources controlled by members of the . Jati. The status of the same Jati could vary from area to area.
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
 
@@ -102,15 +102,17 @@ Jatis framed their own rules and regulations to manage the conduct of their memb
 
 > [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
-> [note] OUR PASTS
+> [note] OUR PASS
 
 <!-- page 9 (pdf 9) -->
 
-Region and Empire Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss anskrit prashasti encompassed many regions.
+## Region and Empire
 
-(see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287)
+## Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss sanskrit prashasti encompassed many regions.
 
-explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and ‘apparently fled before his armies. Historians Gujarat-regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
+(see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287)
+
+explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and ‘apparently fled before his armies. Historians Gujarat regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
 
 > [caption] Map 3 Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source Masalik -al-Absar fi Mamalik al-Amsar of Shihabuddin Umari.
 
@@ -146,13 +148,13 @@ One of the major developments of this period was the emergence of the idea of bh
 
 > [note] Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas?
 
-> [note] Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
+> [note] Patron influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
 
 <!-- page 12 (pdf 12) -->
 
 This was also the period when new religions appeared in the subcontinent. Merchants and migrants first brought the teachings of the holy Quran to India in the seventh century. Muslims regard the Quran as their holy book and accept the sovereignty of the one God, Allah, whose love, mercy and bounty embrace all those who believe in Him, without regard to social background.
 
-Many rulers were patrons of Islam and the ulama learned theologians and jurists. And like Hinduism, Islam was interpreted in a variety of ways by its followers. There were the Shia Muslims who believed that the Prophet Muhammad’s son-in-law, Ali, was the legitimate leader of the Muslim community, and the Sunni Muslims who accepted the authority of the early leaders (Khalifas) of the community, and the succeeding Khalifas. There were other important differences between the various schools of law (Hanafi Shafi’: mainly in India), and in theology and and mystic traditions.
+Many rulers were patrons of Islam and the ulama learned theologians and jurists. And like Hinduism, Islam was interpreted in a variety of ways by its followers. There were the Shia Muslims who believed that the Prophet Muhammad’s son-in-law, Ali, was the legitimate leader of the Muslim community, and the Sunni Muslims who accepted the authority of the early leaders (Khalifas) of the community, and the succeeding Khalifas. There were other important differences between the various schools of law (Hanafi Shafi’i: mainly in India), and in theology and and mystic traditions.
 
 ## Thinking about Time and Historical Periods
 
@@ -162,9 +164,7 @@ In the middle of the nineteenth century, British historians divided the history 
 
 <!-- page 13 (pdf 13) -->
 
-Few historians follow this periodisation today. Most look to economic and social factors to characterise the major elements of different moments of the past. The histories you read last year included a wide range of early societies – hunter-gatherers, early farmers, people living in towns and villages, and early empires and kingdoms. The histories you will be studying this You will find out year are often described as “medieval’
-
-more about the spread of peasant societies, the rise of regional and imperial state formations – sometimes at the cost of pastoral and forest people – the development of Hinduism and Islam as major religions and the arrival of European trading companies.
+Few historians follow this periodisation today. Most look to economic and social factors to characterise the major elements of different moments of the past. The histories you read last year included a wide range of early societies – hunter-gatherers, early farmers, people living in towns and villages, and early empires and kingdoms. The histories you will be studying this You will find out year are often described as “medieval more about the spread of peasant societies, the rise of regional and imperial state formations – sometimes at the cost of pastoral and forest people – the development of Hinduism and Islam as major religions and the arrival of European trading companies.
 
 These thousand years of Indian history witnessed considerable change. After all, the sixteenth and eighteenth centuries were quite different from the eighth or the eleventh. Therefore, describing the entire period as one historical unit is not without its problems. Moreover, the “medieval” period is often contrasted with the “modern” period. “Modernity” carries with it a sense of material progress and intellectual advancement. This seems to suggest that the medieval period was lacking in any change whatsoever. But of course we know this was not the case.
 
@@ -206,7 +206,7 @@ List some of the technological changes associated with this period.
 
 > [note] KEYWORDS manuscript
 
-> [note] Jatt region periodisation
+> [note] Jati region periodisation
 
 <!-- page 15 (pdf 15) -->
 

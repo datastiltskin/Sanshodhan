@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch02.pdf"
 source_sha256: "24a01092286211039ab75f0105d11bcb0479880235968fc3aad0eb5a2c543ff6"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "e62d67f66049e8b96fec09fa98f049db3fd4782e4ad481d558ba1d071ab862cf"
+body_fingerprint: "31e7a7f24b1dada08800994d154039c7373edcd552138a23fe5cc8a9dda63750"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -99,7 +99,7 @@ For centuries, rulers belonging to the Gurjara-Pratihara, Rashtrakuta and Pala d
 
 As we will see (pp. 62-66), rulers also tried to demonstrate their power and resources by building large temples. So, when they attacked one another’s kingdoms, they often chose to target temples, which were sometimes extremely rich. You will read more about this in Chapter 5.
 
-One of the best known of such rulers is Sultan Sultan Mahmud of Ghazni, Afghanistan. He ruled from 997 to 1030, and extended control over parts of Central Asia, Iran and the north-western part of the subcontinent. He raided the subcontinent almost every year – his targets were wealthy temples, including that of Somnath, Gujarat.
+One of the best known of such rulers is Sultan Mahmud of Ghazni, Afghanistan. He ruled from 997 to 1030, and extended control over parts of Central Asia, Iran and the north-western part of the subcontinent. He raided the subcontinent almost every year – his targets were wealthy temples, including that of Somnath, Gujarat.
 
 Much of the wealth Mahmud carried away was used to create a splendid capital city at Ghazni. He was interested in finding out more about the people he conquered, and entrusted a scholar named al-Biruni to write an account of the subcontinent. This Arabic work, known as the Kitab-al Hind, remains an important source for historians. He consulted Sanskrit scholars to prepare this account.
 
@@ -107,7 +107,7 @@ Other kings who engaged in warfare include the Chahamanas, later known as the Ch
 
 > [note] Look at Map 1 and suggest reasons why these rulers wanted to control Kanauj and the Ganga valley.
 
-> [note] Sultan Sultan is an Arabic term meaning ruler.
+> [note] Sultan is an Arabic term meaning ruler.
 
 > [note] Look at Map 1 again and discuss why the Chahamanas may have wanted to expand their territories.
 
