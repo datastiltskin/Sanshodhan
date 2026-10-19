@@ -107,9 +107,10 @@ OVERRIDES_DIR = PDF_DIR.parent / "overrides"
 
 def load_overrides(book_id: str) -> list[dict]:
     """Hand corrections to extracted text, from overrides/<book>.yaml. Each entry has
-    `snapshot` (a label, or "*" for any), `chapter` (a number, or "*"), `find`, `replace`,
-    and a `note` saying why. They are applied after extraction and before fingerprinting,
-    so a corrected text still groups with the snapshots that share it."""
+    `snapshot` (a label, or "*" for any), `chapter` (a number, "prelims", or "*"), `find`,
+    `replace`, and a `note` saying why, plus `part` for a book in parts, whose chapter
+    numbers repeat. They are applied after extraction and before fingerprinting, so a
+    corrected text still groups with the snapshots that share it."""
     path = OVERRIDES_DIR / f"{book_id}.yaml"
     if not path.exists():
         return []
@@ -120,19 +121,23 @@ def load_overrides(book_id: str) -> list[dict]:
                 raise ValueError(f"{path}: entry {i + 1} has no '{k}'")
         e.setdefault("snapshot", "*")
         e.setdefault("chapter", "*")
+        e.setdefault("part", "*")
     return entries
 
 
-def apply_overrides(markdown: str, snapshot: str, chapter: int | None, overrides: list[dict]) -> tuple[str, list[str], list[str]]:
+def apply_overrides(markdown: str, snapshot: str, chapter: int | None, overrides: list[dict], part: int | None = None) -> tuple[str, list[str], list[str]]:
     """(corrected markdown, notes of the overrides applied, notes of those that did not match).
     An entry addressed to a specific snapshot and chapter is expected to match; a wildcard
-    entry is applied wherever its text occurs and is never reported as missed."""
+    entry is applied wherever its text occurs and is never reported as missed. `part` is the
+    part a chapter file belongs to, so an entry with `part` reaches only that part."""
     applied: list[str] = []
     missed: list[str] = []
     for e in overrides:
         if e["snapshot"] != "*" and e["snapshot"] != snapshot:
             continue
-        if e["chapter"] != "*" and int(e["chapter"]) != chapter:
+        if e["chapter"] != "*" and str(e["chapter"]) != str(chapter):  # a number, or "prelims"
+            continue
+        if e.get("part", "*") != "*" and part is not None and int(e["part"]) != part:
             continue
         if e["find"] in markdown:
             markdown = markdown.replace(e["find"], e["replace"])
@@ -145,6 +150,33 @@ def apply_overrides(markdown: str, snapshot: str, chapter: int | None, overrides
 def files_signature(snapshot: Path) -> tuple:
     """(name, sha256) of every PDF in a snapshot folder, to spot folders with identical files."""
     return tuple((p.name, hashlib.sha256(p.read_bytes()).hexdigest()) for p in sorted(snapshot.glob("*.pdf")))
+
+
+def append_references(markdown: str, refs_markdown: str, source_name: str) -> str:
+    """Add a separately shipped references page to the end of a chapter's text.
+
+    The 2007 civics zips carry the references as `<code>rf.pdf`; later printings bind the
+    same page into the last chapter. Its page markers are made to name the file they came
+    from, so the page images are still found, and its title becomes a level-2 heading."""
+    out = []
+    for line in refs_markdown.splitlines():
+        line = re.sub(r"^<!-- page (\d+) \(pdf (\d+)\) -->$", rf"<!-- page \1 (pdf \2 of {source_name}) -->", line)
+        line = re.sub(r"^<!-- pdf page (\d+) -->$", rf"<!-- pdf page \1 of {source_name} -->", line)
+        if line.startswith("# "):
+            line = "#" + line
+        out.append(line)
+    return markdown.rstrip("\n") + "\n\n" + "\n".join(out).strip("\n") + "\n"
+
+
+def chapters_match(a: str, b: str, min_overlap: float = 0.98) -> bool:
+    """Do two chapter texts carry the same body sentences, give or take one or two?"""
+    from .textparse import split_sentences
+
+    sa = {s for para in body_text(a).splitlines() for s in split_sentences(para)}
+    sb = {s for para in body_text(b).splitlines() for s in split_sentences(para)}
+    if not sa or not sb:
+        return sa == sb
+    return len(sa & sb) / max(len(sa), len(sb)) >= min_overlap
 
 
 def snapshot_dirs(book: Book) -> list[Path]:
@@ -185,14 +217,18 @@ _WORD = re.compile(r"[a-z’'-]+")
 
 
 def _corpus(extracted: dict[str, dict]) -> tuple[set[str], set[tuple[str, str]]]:
-    """Words and word pairs used by the born-digital editions of a book."""
+    """Words and word pairs used by the born-digital editions of a book, boxes and captions
+    included (a word that occurs only in a margin box is still a word the book uses)."""
     vocab: set[str] = set()
     bigrams: set[tuple[str, str]] = set()
     for info in extracted.values():
         for ch in info["chapters"]:
             if ch.get("ocr"):
                 continue
-            for para in body_text(ch["markdown"]).splitlines():
+            for para in ch["markdown"].splitlines():
+                if para.startswith("<!--") or para.startswith("---"):
+                    continue
+                para = re.sub(r"^> \[\w+\] |^#+ ", "", para)
                 words = _WORD.findall(para.lower())
                 vocab.update(words)
                 bigrams.update(zip(words, words[1:]))
@@ -278,6 +314,12 @@ def process_book(book: Book, *, log=print) -> Path:
             units.extend((part, file_number, pdf, result) for result in results)
         if carry:
             log(f"  {carry[0].source}: {len(carry)} trailing unit-opener pages with no following chapter, dropped")
+        for refs in sorted(snap.glob("*references.pdf")) + sorted(p for p in snap.glob("*rf.pdf") if "references" not in p.name):
+            if units and has_text_layer(refs):
+                refs_md = extract_chapter_file(refs)[0][0][0]  # first chapter of the file, its Markdown
+                part, file_number, pdf, (md, meta) = units[-1]
+                units[-1] = (part, file_number, pdf, (append_references(md, refs_md, refs.name), meta))
+                log(f"  {refs.name} appended to the last chapter as its references page")
         if not units:
             for whole in sorted(snap.glob("*whole-book.pdf")):
                 m = re.match(r"^(?:part(\d)-)?whole-book\.pdf$", whole.name)
@@ -308,12 +350,12 @@ def process_book(book: Book, *, log=print) -> Path:
                 log(f"  {pdf.name}: chapter {number} already taken from another file, skipped")
                 continue
             md = annotate_sections(md)
-            md, applied, missed = apply_overrides(md, label, number, overrides)
+            md, applied, missed = apply_overrides(md, label, number, overrides, part=part)
             for note in applied:
                 log(f"  chapter {number}: override applied ({note})")
             for note in missed:
                 log(f"  chapter {number}: OVERRIDE NOT FOUND ({note})")
-                overrides_missed.append({"snapshot": label, "chapter": number, "note": note})
+                overrides_missed.append({"snapshot": label, "chapter": number, "part": part, "note": note})
             chapters.append(
                 {
                     "part": part,
@@ -374,19 +416,21 @@ def process_book(book: Book, *, log=print) -> Path:
 
     # A partial snapshot (a few per-chapter captures) belongs to the full edition whose
     # chapters it matches one for one. It then adds its label as evidence and no texts.
+    # "Matches" allows a sentence or two to differ: the same page in two encodings of one
+    # printing can classify a box as a note in one file and as body text in the other.
     full_count = max(len(info["chapters"]) for info in extracted.values())
     folded: dict[str, str] = {}  # partial label -> full label
     for label, info in extracted.items():
         if len(info["chapters"]) >= full_count:
             continue
-        mine = {(c["part"], c["number"]): c["fingerprint"] for c in info["chapters"]}
+        mine = {(c["part"], c["number"]): c for c in info["chapters"]}
         for other, oinfo in extracted.items():
             if other == label or len(oinfo["chapters"]) < full_count:
                 continue
-            theirs = {(c["part"], c["number"]): c["fingerprint"] for c in oinfo["chapters"]}
-            if all(theirs.get(k) == v for k, v in mine.items()):
+            theirs = {(c["part"], c["number"]): c for c in oinfo["chapters"]}
+            if all(k in theirs and chapters_match(v["markdown"], theirs[k]["markdown"]) for k, v in mine.items()):
                 folded[label] = other
-                log(f"  {label}: all {len(mine)} chapters identical to {other}, folded in")
+                log(f"  {label}: all {len(mine)} chapters match {other}, folded in")
                 break
 
     # Group by fingerprint. The earliest snapshot names the edition.
@@ -449,9 +493,16 @@ def process_book(book: Book, *, log=print) -> Path:
             pre_pdf = next(iter(sorted((PDF_DIR / book.id / first).glob(f"{'part%d-' % part if part else ''}prelims.pdf"))), None)
             if pre_pdf:
                 md, _ = extract_chapter(pre_pdf)
+                # Overrides reach the prelims too, addressed with chapter "prelims".
+                md, pre_applied, pre_missed = apply_overrides(md, first, "prelims", overrides, part=part)
+                for note in pre_applied:
+                    log(f"  prelims: override applied ({note})")
+                for note in pre_missed:
+                    log(f"  prelims: OVERRIDE NOT FOUND ({note})")
+                    overrides_missed.append({"snapshot": first, "chapter": "prelims", "part": part, "note": note})
                 pname = f"{'part%d-' % part if part else ''}prelims.md"
                 (out_dir / pname).write_text(
-                    _front_matter({"book": book.id, "edition": eid, "part": part, "source_pdf": str(pre_pdf.relative_to(PDF_DIR.parent))}) + md,
+                    _front_matter({"book": book.id, "edition": eid, "part": part, "source_pdf": str(pre_pdf.relative_to(PDF_DIR.parent)), "overrides": pre_applied or None}) + md,
                     encoding="utf-8",
                 )
         editions.append(
@@ -483,4 +534,13 @@ def process_book(book: Book, *, log=print) -> Path:
     with path.open("w") as fh:
         json.dump({"book": book.id, "title": book.title, "editions": editions, "skipped_snapshots": skipped, "overrides_missed": overrides_missed}, fh, indent=2, ensure_ascii=False)
         fh.write("\n")
+    # A snapshot that folded into another edition this time leaves no edition behind; its
+    # text folder from an earlier run must not linger as if it were one.
+    kept = {e["id"] for e in editions}
+    for stale in sorted((TEXTS_DIR / book.id).iterdir()):
+        if stale.is_dir() and stale.name not in kept:
+            for f in stale.glob("*.md"):
+                f.unlink()
+            stale.rmdir()
+            log(f"  removed stale texts folder {stale.name}")
     return path

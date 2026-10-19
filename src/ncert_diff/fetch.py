@@ -174,6 +174,8 @@ def readable_member_name(member: str, code: str, part: int | None) -> str | None
         return f"{prefix}prelims.pdf"
     if re.fullmatch(rf"{re.escape(code)}dd\.pdf", base, re.IGNORECASE):
         return f"{prefix}whole-book.pdf"  # some zips hold the book as one PDF instead of chapters
+    if re.fullmatch(rf"{re.escape(code)}rf\.pdf", base, re.IGNORECASE):
+        return f"{prefix}references.pdf"  # a references page shipped as its own file (2007 civics zips)
     if base.lower().endswith(".pdf"):
         return f"{prefix}{base.lower()}"
     return None

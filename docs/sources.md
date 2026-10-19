@@ -97,9 +97,12 @@ What the downloaded zips turned out to contain:
   title page and a Teacher's Note, and in 2016 and 2019 the first chapter file also carries
   the contents page. Chapter titles sit beside a "Chapter N" label rather than a numeral.
 - Social and Political Life II 2014-07-28: the 2007 first-edition files (ten chapters, plus a
-  one-page `gess3rf.pdf` of references). The 2016-09-10 zip has the same files except
-  chapters 2, 3 and 10, which were re-set in January 2015, and chapter 10 grew a references
-  page. The rungtaias.org copies are byte-for-byte the 2016 zip's files.
+  one-page `gess3rf.pdf` of references, which the extractor appends to chapter 10 because
+  the later printings bind that page into the chapter). The 2016-09-10 zip has the same
+  files except chapters 2, 3 and 10, which were re-set in January 2015: chapter 10 grew the
+  references page, and the re-set chapter 2 file lacks printed pages 16 and 17 (the Unit Two
+  opener and teacher's note), a gap in the source, not a change in the book. The
+  rungtaias.org copies are byte-for-byte the 2016 zip's files.
 - Social and Political Life II 2019-05-04: nine chapters. "Understanding Advertising"
   (chapter 7) was dropped for the 2019-20 session and the later chapters renumbered. The
   first chapter file carries the contents page.
