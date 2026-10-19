@@ -17,10 +17,24 @@
   var index = null;
   var current = null; // {key, slug, data}
 
-  // ---- settings (remembered per browser) ----
-  var settings = { layout: "split", images: "side", onlyChanged: false, minor: false, fade: 50 };
+  // ---- settings: remembered per browser, and carried in the URL so a view can be shared ----
+  // ?layout=split|unified &images=side|onion|hidden &changed=1 &minor=1 &fade=0..100
+  var defaults = { layout: "split", images: "side", onlyChanged: false, minor: false, fade: 50 };
+  var settings = {};
+  for (var d in defaults) settings[d] = defaults[d];
   try { var saved = JSON.parse(localStorage.getItem("ncert-diff:compare") || "{}"); for (var k in saved) settings[k] = saved[k]; } catch (e) {}
-  function saveSettings() { try { localStorage.setItem("ncert-diff:compare", JSON.stringify(settings)); } catch (e) {} }
+  (function fromUrl() {
+    var p = new URLSearchParams(location.search);
+    if (["split", "unified"].indexOf(p.get("layout")) >= 0) settings.layout = p.get("layout");
+    if (["side", "onion", "hidden"].indexOf(p.get("images")) >= 0) settings.images = p.get("images");
+    if (p.has("changed")) settings.onlyChanged = p.get("changed") === "1";
+    if (p.has("minor")) settings.minor = p.get("minor") === "1";
+    if (p.has("fade") && !isNaN(+p.get("fade"))) settings.fade = Math.max(0, Math.min(100, +p.get("fade")));
+  })();
+  function saveSettings() {
+    try { localStorage.setItem("ncert-diff:compare", JSON.stringify(settings)); } catch (e) {}
+    setParams(selFrom.value, selTo.value, selChapter.value);
+  }
   function applySettings() {
     rowsEl.className = "cmp-rows layout-" + settings.layout + " images-" + settings.images + (settings.minor ? "" : " minor-off");
     document.body.classList.toggle("onion", settings.images === "onion");
@@ -41,13 +55,22 @@
     saveSettings();
     applySettings();
   });
-  fade.addEventListener("input", function () { settings.fade = +fade.value; rowsEl.style.setProperty("--fade", settings.fade / 100); saveSettings(); });
+  fade.addEventListener("input", function () { settings.fade = +fade.value; rowsEl.style.setProperty("--fade", settings.fade / 100); });
+  fade.addEventListener("change", saveSettings);
 
   // ---- URL state ----
   function params() { return new URLSearchParams(location.search); }
   function setParams(from, to, chapter) {
     var p = new URLSearchParams();
-    p.set("from", from); p.set("to", to); if (chapter) p.set("chapter", chapter);
+    if (from) p.set("from", from);
+    if (to) p.set("to", to);
+    if (chapter) p.set("chapter", chapter);
+    // Settings only appear in the URL when they differ from the defaults, so plain links stay short.
+    if (settings.layout !== defaults.layout) p.set("layout", settings.layout);
+    if (settings.images !== defaults.images) p.set("images", settings.images);
+    if (settings.onlyChanged) p.set("changed", "1");
+    if (settings.minor) p.set("minor", "1");
+    if (settings.images === "onion" && settings.fade !== defaults.fade) p.set("fade", String(settings.fade));
     history.replaceState(null, "", location.pathname + "?" + p.toString());
   }
 

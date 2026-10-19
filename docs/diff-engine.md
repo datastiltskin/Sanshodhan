@@ -55,7 +55,9 @@ a page that was cut or inserted stands alone in its row. The old page's text car
 removals and the old half of each rewording, the new page's text the additions and the new
 half, and a unified rendering puts the removals inline in the new text. Settings (side by
 side or unified text, side by side or onion-skin images, only changed pages, minor
-differences) are remembered in the browser.
+differences) are remembered in the browser and carried in the address: `layout=split|unified`,
+`images=side|onion|hidden`, `changed=1`, `minor=1`, and `fade=0..100` for the onion skin,
+alongside `from`, `to`, and `chapter`.
 
 ## Pages to check
 
