@@ -29,6 +29,11 @@ DPI = 300
 TESSERACT = shutil.which("tesseract")
 LINE_HEIGHT_TO_SIZE = 0.8  # a text line's box spans ascender to descender, about 1.25 em
 MIN_SHORT_CONFIDENCE = 70.0
+# Lettering on a map or a drawing reads as a paragraph of fragments with a mean word confidence
+# in the 20s to 40s ("i Lf wie Royats = __ DE Morrie"). Across both scanned printings every
+# block below 50 is such lettering, and the weakest real text (a map legend, a comic bubble)
+# sits above 54.
+MIN_BLOCK_CONFIDENCE = 50.0
 SLUG = re.compile(r"^\d{4}\s*CH\s*\d{2}$", re.IGNORECASE)  # "0760CH04" print slugs
 
 
@@ -88,6 +93,8 @@ def blocks_from_tsv(tsv: str, scale: float) -> tuple[list[Block], float]:
         # Short, unsure fragments are picture noise read as text ("; i Eatiteed ik 2").
         if len(text) < 25 and mean_conf < MIN_SHORT_CONFIDENCE:
             continue
+        if mean_conf < MIN_BLOCK_CONFIDENCE:
+            continue  # lettering on a map or a drawing
         if SLUG.fullmatch(text):
             continue
         size = round(statistics.median(heights) * LINE_HEIGHT_TO_SIZE, 1)
@@ -131,7 +138,7 @@ def clean_outlined(raw: str) -> str:
     """Tesseract's reading of an outlined word or line, with the symbols it hallucinates on
     italics and macrons removed ("pardes i |" -> "pardes i")."""
     word = _OUTLINED_JUNK.sub("", raw).strip().lstrip("•·- ").strip()  # bullets and rules drawn beside the word
-    word = re.sub(r"\s+", " ", word)
+    word = re.sub(r"\s+", " ", word).replace("ı", "i").replace("İ", "I")  # a dotless i is the slant of an italic i ("Sırı")
     # Two letters or digits make a word or a date ("(1526-1530),", "1494"); a lone question
     # mark or exclamation mark ends a sentence the text layer left without one.
     if sum(ch.isalnum() for ch in word) >= 2 or word in ("?", "!", "?)", "!)"):

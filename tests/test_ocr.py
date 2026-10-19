@@ -86,3 +86,21 @@ def test_strict_snap_only_fixes_one_letter_slips():
     assert snap("But unlike mugtis, most") == "But unlike muqtis, most"
     assert snap("who roam from one pasture to another with their flocks") == "who roam from one pasture to another with their flocks"
     assert snap("who roan from one pasturr") == "who roam from one pasture"  # one letter off a known word of the same length
+
+
+
+def test_clean_outlined_maps_a_dotless_i_to_i():
+    from ncert_diff.ocr import clean_outlined
+    assert clean_outlined("Sırı") == "Siri"
+
+
+def test_low_confidence_lettering_on_a_map_is_dropped():
+    from ncert_diff.ocr import blocks_from_tsv
+    header = "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext"
+    def para(block, words, conf, top):
+        return [f"5\t1\t{block}\t1\t1\t{i + 1}\t{100 + 60 * i}\t{top}\t50\t20\t{conf}\t{w}" for i, w in enumerate(words)]
+    junk = para(1, "i Lf wie Royats = __ DE Morrie. Me ap aoe psn Sa he Geant Ve a rites".split(), 28, 100)
+    real = para(2, "The two maps are quite different even though they are of the same area.".split(), 91, 400)
+    blocks, conf = blocks_from_tsv("\n".join([header, *junk, *real]), 72.0 / 300)
+    assert [b.text for b in blocks] == ["The two maps are quite different even though they are of the same area."]
+    assert conf > 90
