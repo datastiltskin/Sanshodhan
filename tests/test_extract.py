@@ -573,3 +573,322 @@ def test_keywords_column_set_as_a_sentence_per_line_is_one_note():
     assert texts["KEYWORDS"] == "keyword"
     assert texts["Go through the chapter and make your own list of six keywords. For each of these, write a sentence indicating why you chose the word."] == "note"
     assert len(blocks) == 3
+
+
+def _raw_block(text, bbox, size=11.0, font="Bookman-Light", flags=0):
+    span = {"text": text, "size": size, "font": font, "flags": flags, "bbox": bbox}
+    return {"type": 0, "bbox": bbox, "lines": [{"dir": (1.0, 0.0), "bbox": bbox, "spans": [span]}]}
+
+
+def test_activity_box_in_the_margin_does_not_split_the_column_sentence():
+    # Pages 3 and 4 of the 2019 Our Pasts III chapter 1: the Activity box sits at body size
+    # beside the paragraph that ends "dominated" at the foot of page 3 and goes on "social
+    # life." on page 4.
+    p3 = {"blocks": [
+        _raw_block("When we write history, or a story, we divide it into chapters. Why do we do this? It is to give each chapter some coherence.", (91, 276, 397, 432)),
+        _raw_block("Mill thought that all Asian societies were at a lower level of civilisation than Europe. Religious intolerance, caste taboos and superstitious practices dominated", (91, 664, 397, 728)),
+        _raw_block("Activity", (436, 567, 477, 581), font="TT633T00"),
+        _raw_block("Interview your mother or another member of your family to find out about their life.", (425, 586, 546, 718), font="TT615T00"),
+    ]}
+    p4 = {"blocks": [
+        _raw_block("social life. British rule, Mill felt, could civilise India. To do this, it was necessary to introduce European manners.", (233, 98, 539, 202)),
+        _raw_block("In this idea of history, British rule represented all the forces of progress and civilisation.", (233, 207, 539, 300)),
+    ]}
+    pages = []
+    for n, d in enumerate((p3, p4)):
+        blocks = extract.blocks_from_dict(d)
+        extract.classify(blocks, 630.0, 842.0, 11.0)
+        pages.append(extract.Page(n, 3 + n, blocks))
+    md = extract.to_markdown(pages, 630.0)
+    assert "dominated social life. British rule" in md
+    assert "\nInterview your mother or another member of your family to find out about their life.\n" in md
+    assert md.index("### Activity") > md.index("dominated social life")
+
+
+def test_glossary_column_and_source_box_title_do_not_end_the_column_paragraph():
+    # Pages 67 and 68 of the 2019 Our Pasts III chapter 6: four glossary entries at body size
+    # in the margin column beside a paragraph that runs over the page, and a Source box with
+    # its own title read before the column on page 68.
+    p67 = {"blocks": [
+        _raw_block("Colonialism and the City", (91, 90, 397, 110), size=20.0, font="TT633T00"),
+        _raw_block("Set amidst densely packed mohallas and several dozen bazaars, the Jama Masjid was among the largest and grandest mosques in India.", (91, 610, 397, 660)),
+        _raw_block("Delhi during Shah Jahan’s time was also an important centre of Sufi culture. No wonder the poet Mir Taqi Mir said, “The", (91, 666, 397, 729)),
+        _raw_block("Dargah – The tomb of a Sufi saint", (420, 509, 554, 534)),
+        _raw_block("Khanqah – A sufi lodge, often used as a rest house for travellers", (420, 541, 557, 644)),
+        _raw_block("Idgah – An open prayer place of Muslims primarily meant for id prayers", (420, 651, 559, 689)),
+        _raw_block("Cul-de-sac – Street with a dead end", (420, 697, 555, 721)),
+    ]}
+    p68 = {"blocks": [
+        _raw_block("“Dilli jo ek shahr tha alam mein intikhab...”", (73, 434, 212, 469), size=16.0, font="TT62BT00"),
+        _raw_block("By 1739, Delhi had been sacked by Nadir Shah and plundered many times. Expressing the sorrow of those who witnessed it, Mir said:", (79, 483, 206, 587), font="TT63CT00"),
+        _raw_block("streets of Delhi aren’t mere streets; they are like the album of a painter.”", (359, 99, 538, 137)),
+        _raw_block("Yet, even this was no ideal city, and its delights were enjoyed only by some. There were sharp divisions between rich and poor.", (359, 142, 538, 298)),
+        _raw_block("The Making of New Delhi", (233, 541, 441, 558), size=17.0, font="TT633T00"),
+        _raw_block("In 1803, the British gained control of Delhi after defeating the Marathas. Since the capital of British India was Calcutta, the emperor stayed.", (233, 566, 538, 656)),
+        _raw_block("Before 1857, developments in Delhi were somewhat different from those in other colonial cities.", (233, 685, 538, 735)),
+    ]}
+    pages = []
+    for n, d in enumerate((p67, p68)):
+        blocks = extract.blocks_from_dict(d)
+        extract.classify(blocks, 630.0, 842.0, 11.0)
+        pages.append(extract.Page(n, 67 + n, blocks))
+    md = extract.to_markdown(pages, 630.0)
+    assert "Mir Taqi Mir said, “The streets of Delhi aren’t mere streets" in md
+    for entry in ("Dargah – The tomb of a Sufi saint", "Idgah – An open prayer place of Muslims primarily meant for id prayers", "Cul-de-sac – Street with a dead end"):
+        assert f"\n{entry}\n" in md
+    assert "\n## “Dilli jo ek shahr tha alam mein intikhab...”\n" in md
+
+
+def test_big_questions_title_set_in_two_overlapping_blocks_is_one_heading():
+    # Page 27 of Exploring Society part 1 chapter 2: "The Big" (12 pt, with a 23 pt "Big")
+    # overlaps "Questions" (18 pt) set below and to the right of it.
+    textpage = {"blocks": [
+        _raw_block("Understanding the Weather", (64, 78, 303, 158), size=30.0, font="NotoSerif-SemiBold", flags=16),
+        _raw_block("A change in the weather is sufficient to create the world and oneself anew, a long line of verse.", (99, 187, 418, 223), size=12.0, font="NotoSerif-Italic"),
+        {"type": 0, "bbox": (64, 597, 130, 630), "lines": [{"dir": (1.0, 0.0), "bbox": (64, 597, 130, 630), "spans": [
+            {"text": "The ", "size": 12.0, "font": "NotoSerif-Bold", "flags": 16, "bbox": (64, 610, 88, 627)},
+            {"text": "Big", "size": 23.0, "font": "NotoSerif-Bold", "flags": 16, "bbox": (88, 597, 125, 630)},
+            {"text": " ", "size": 12.0, "font": "NotoSerif-Bold", "flags": 16, "bbox": (125, 610, 130, 627)},
+        ]}]},
+        _raw_block("Questions", (82, 619, 174, 645), size=18.0, font="NotoSerif-Bold", flags=16),
+        _raw_block("1. How can we measure and monitor the weather around us?", (223, 596, 445, 633), size=13.0, font="NotoSerif-Italic"),
+    ]}
+    blocks = extract.blocks_from_dict(textpage)
+    extract.classify(blocks, 592.8, 842.0, 12.0)
+    md = extract.to_markdown([extract.Page(0, 27, blocks)], 592.8)
+    assert "## The Big Questions" in md
+    assert "\nThe Big\n" not in md and "## Questions\n" not in md
+
+
+def test_map_axis_ticks_are_dropped_and_cut_from_the_caption_they_landed_on():
+    # Page 119 of Exploring Society part 1 chapter 6: the outlined ticks at the map's bottom
+    # edge are read back onto the caption line beside them, and the "60E" left of it stays a
+    # block of its own.
+    blocks = [
+        extract.Block(106, 564, 463, 592, "NotoSerif-Medium", 10.0, False, True, "70E 80E 90E Fig. 6.2. Prominent dynasties of India during the age of reorganisation", 10.0),
+        extract.Block(77, 564, 98, 571, "OUTLINED", 5.9, False, False, "60E", 5.9),
+        extract.Block(77, 48, 98, 55, "OUTLINED", 5.9, False, False, "70°E 75°E", 5.9),
+        extract.Block(73, 100, 520, 300, "NotoSerif-Regular", 12.0, False, False, BODY, 12.0),
+    ]
+    extract.classify(blocks, 592.8, 842.0, 12.0)
+    assert blocks[0].text == "Fig. 6.2. Prominent dynasties of India during the age of reorganisation"
+    assert blocks[0].role == "caption"
+    assert blocks[1].role == blocks[2].role == "decoration"
+
+
+def test_side_by_side_captions_keep_their_own_second_lines():
+    # Page 10 of Exploring Society part 1 chapter 1: two rows of photos with a caption under
+    # each, the second lines set as blocks of their own, and the first lines of Fig. 1.13
+    # and Fig. 1.14 in one PyMuPDF line.
+    def cap(text, bbox):
+        return _raw_block(text, bbox, size=10.0, font="NotoSerif-MediumItalic", flags=2)
+    pair = {"type": 0, "bbox": (93, 394, 504, 408), "lines": [
+        {"dir": (1.0, 0.0), "bbox": (93, 394, 291, 408), "spans": [{"text": "Fig. 1.13. Multi-cropping in Uttar Pradesh", "size": 10.0, "font": "NotoSerif-MediumItalic", "flags": 2, "bbox": (93, 394, 291, 408)}]},
+        {"dir": (1.0, 0.0), "bbox": (330, 394, 504, 408), "spans": [{"text": "Fig. 1.14. Rural women working in a ", "size": 10.0, "font": "NotoSerif-MediumItalic", "flags": 2, "bbox": (330, 394, 504, 408)}]},
+    ]}
+    textpage = {"blocks": [
+        cap("Fig. 1.11. Modern agricultural practices ", (97, 212, 291, 227)),
+        cap("Fig. 1.12. Aerial view of Delhi with the ", (326, 212, 508, 227)),
+        cap("in the plains", (162, 224, 221, 239)),
+        cap("river Yamuna on top right", (353, 224, 478, 239)),
+        pair,
+        cap("paddy field in West Bengal", (353, 406, 486, 420)),
+        _raw_block(BODY, (161, 429, 532, 531), size=12.0, font="NotoSerif-Regular"),
+    ]}
+    blocks = extract.blocks_from_dict(textpage)
+    extract.classify(blocks, 592.8, 842.0, 12.0)
+    captions = sorted(b.text for b in blocks if b.role == "caption")
+    assert captions == [
+        "Fig. 1.11. Modern agricultural practices in the plains",
+        "Fig. 1.12. Aerial view of Delhi with the river Yamuna on top right",
+        "Fig. 1.13. Multi-cropping in Uttar Pradesh",
+        "Fig. 1.14. Rural women working in a paddy field in West Bengal",
+    ]
+
+
+def test_caption_line_in_the_captions_face_goes_on_with_it_but_a_description_does_not():
+    # Page 11 of Exploring Society part 1 chapter 1 ("... in Bandhavgarh" over "National
+    # Park, Madhya Pradesh", the second line overlapping the first), and page 3 of the 2014
+    # Our Pasts III chapter 1, where the description is a paragraph of its own under the
+    # caption title, in the same face, after a gap.
+    blocks = [
+        extract.Block(330, 300, 520, 330, "NotoSerif-MediumItalic", 10.0, False, True, "Fig. 1.17. The Northern plains grey langur sits on a wooden beam in Bandhavgarh", 10.0),
+        extract.Block(380, 327, 500, 341, "NotoSerif-MediumItalic", 10.0, False, True, "National Park, Madhya Pradesh", 10.0),
+        extract.Block(404, 502, 552, 532, "Bookman-LightItalic", 9.0, False, True, "Fig. 3 – Warren Hastings became the first Governor-General of India in 1773", 9.0),
+        extract.Block(404, 537, 552, 589, "Bookman-LightItalic", 9.0, False, True, "While history books narrated the deeds of Governor-Generals, biographies glorified them.", 9.0),
+    ]
+    for b in blocks:
+        b.role = "caption"
+    extract._stack_caption_lines(blocks)
+    assert [b.text for b in blocks] == [
+        "Fig. 1.17. The Northern plains grey langur sits on a wooden beam in Bandhavgarh National Park, Madhya Pradesh",
+        "Fig. 3 – Warren Hastings became the first Governor-General of India in 1773",
+        "While history books narrated the deeds of Governor-Generals, biographies glorified them.",
+    ]
+
+
+def test_spaces_the_page_does_not_show_are_dropped():
+    # Exploring Society part 1: "The g overnment" (ch10 p223, a space with no advance),
+    # "Kaṇṇ agi" (ch6 p131, the second "ṇ" zero wide and the space as wide as the letter),
+    # "cold s torage" (ch12 p257, a thin space). "story of Kaṇṇagi" keeps its word spaces,
+    # which a kern pulls the next letter into.
+    # Sizes are 10 pt, as in the caption.
+    def line(chars):
+        return {"spans": [{"size": 10.0, "chars": [{"c": c, "bbox": (x0, 0, x1, 10)} for c, x0, x1 in chars]}]}
+    cases = [
+        ([("e", 100.9, 107.32), (" ", 107.38, 110.5), ("g", 116.75, 123.2), (" ", 123.26, 126.38), ("o", 123.26, 130.19), ("v", 130.25, 137.19)], "e gov"),
+        ([("n", 372.39, 378.58), ("̣", 378.58, 378.58), ("n", 378.58, 378.58), ("̣", 378.58, 378.58), (" ", 378.58, 384.77), ("a", 384.77, 390.8)], "ṇṇa"),
+        ([("d", 266.65, 273.66), (" ", 273.72, 276.48), ("s", 277.52, 282.94), (" ", 283.0, 285.4), ("t", 285.4, 289.0)], "d st"),
+        ([("y", 120.53, 127.31), (" ", 127.37, 130.49), ("o", 128.79, 135.72), ("f", 135.78, 140.21), (" ", 140.27, 143.39), ("K", 141.7, 150.1)], "y of K"),
+        # "broke off and" (ch5 p108): the ligature leaves the second "f" zero wide, and the
+        # space after it is an ordinary one.
+        ([("o", 484.22, 491.14), ("f", 491.2, 499.7), ("f", 499.7, 499.7), (" ", 499.76, 502.88), ("a", 506.61, 513.37)], "off a"),
+    ]
+    for chars, expected in cases:
+        ln = line(chars)
+        extract._text_from_chars(ln)
+        assert ln["spans"][0]["text"] == expected
+
+
+def test_photo_badge_numbers_are_not_paragraphs():
+    # Page 7 of Exploring Society part 1 chapter 1: the badges 1 to 7 on the photo collage
+    # sit in the body column at body size.
+    blocks = [
+        extract.Block(64, 100, 520, 300, "NotoSerif-Regular", 12.0, False, False, BODY, 12.0),
+        extract.Block(120, 320, 128, 334, "NotoSans-Bold", 12.0, False, False, "1", 12.0),
+        extract.Block(300, 320, 330, 334, "NotoSans-Bold", 12.0, False, False, "4 5", 12.0),
+        extract.Block(64, 400, 520, 500, "NotoSerif-Regular", 12.0, False, False, "2. " + BODY, 12.0),
+    ]
+    extract.classify(blocks, 592.8, 842.0, 12.0)
+    assert [b.role for b in blocks] == ["body", "decoration", "decoration", "body"]
+
+
+def test_a_figure_label_or_a_note_label_starts_a_new_aside():
+    # Exploring Society: photo-grid captions carry no closing punctuation (part 1 p10), and a
+    # margin note's bold label follows a caption that ends in a handle (part 2 p158).
+    lines = [
+        "> [caption] Fig. 1.11. Modern agricultural practices in the plains", "",
+        "> [caption] Fig. 1.12. Aerial view of Delhi with the river Yamuna on top right", "",
+        "> [caption] Fig. 6.15. The official X account to reach out to Indian Railways @RailwaySeva", "",
+        "> [caption] Transparency:", "",
+    ]
+    out = [ln for ln in extract._merge_split_asides(lines) if ln]
+    assert out == [
+        "> [caption] Fig. 1.11. Modern agricultural practices in the plains",
+        "> [caption] Fig. 1.12. Aerial view of Delhi with the river Yamuna on top right",
+        "> [caption] Fig. 6.15. The official X account to reach out to Indian Railways @RailwaySeva",
+        "> [caption] Transparency:",
+    ]
+
+
+def test_centred_speech_bubble_lines_are_one_block():
+    # Page 47 of the 2019 Social and Political Life II chapter 4: two bubbles side by side,
+    # each cut into blocks of a line or two, centred on its own axis.
+    def bubble(text, bbox):
+        return extract.Block(*bbox, "TT351T00", 10.0, False, False, text, 10.0)
+    blocks = [
+        bubble("Ma, we are going on a school excursion. Rosie Ma’am", (90, 112, 213, 133)),
+        bubble("needs volunteers. Can’t you", (96, 133, 207, 143)),
+        bubble("take a holiday from office", (101, 145, 202, 155)),
+        bubble("and volunteer?", (122, 156, 181, 166)),
+        bubble("Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m.", (356, 79, 436, 122)),
+        bubble("everyday doing all", (360, 123, 432, 133)),
+        bubble("the housework!", (364, 134, 428, 144)),
+        bubble("How would I know? I’m on strike, remember? Besides, Mangala has also", (178, 738, 268, 770)),
+        bubble("taken leave today.", (191, 771, 254, 781)),
+    ]
+    for b in blocks:
+        b.role = "table"
+    blocks[-1].role = "footer"  # it sits in the footer band
+    extract._stack_centred_lines(blocks)
+    assert sorted(b.text for b in blocks) == [
+        "How would I know? I’m on strike, remember? Besides, Mangala has also taken leave today.",
+        "Ma, we are going on a school excursion. Rosie Ma’am needs volunteers. Can’t you take a holiday from office and volunteer?",
+        "Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m. everyday doing all the housework!",
+    ]
+
+
+def test_wide_box_title_set_smaller_beside_the_column_is_a_margin_box():
+    # Pages 57 and 58 of the 2024 Our Pasts II chapter 5: the box title beside the column is
+    # wider than a narrow margin, but a point smaller than the body, and must not run into the
+    # first paragraph of page 58.
+    def blk(text, bbox, size, font="CIDFont+F3"):
+        return extract.Block(*bbox, font, size, False, False, text, size)
+    p57 = [
+        blk("The Ahoms migrated to the Brahmaputra valley from present-day Myanmar in the thirteenth century.", (72, 246, 325, 428), 12.9),
+        blk("The Ahom state depended upon forced labour. As a result, the administration became quite centralised.", (72, 567, 325, 703), 12.9),
+        blk("Lachit Barphukan and the defeat of the Mughals in Assam", (344, 82, 538, 110), 11.9, "CIDFont+F5"),
+    ]
+    p58 = [
+        blk("Discuss why the Mughals were interested in the land of the Gonds.", (76, 351, 178, 407), 11.9, "CIDFont+F7"),
+        blk("Almost all adult males served in the army during war. At other times, they built dams.", (206, 77, 545, 137), 12.9),
+        blk("Ahom society was divided into clans or khels. There were very few castes of artisans.", (206, 146, 546, 237), 12.9),
+    ]
+    pages = []
+    for n, blocks in enumerate((p57, p58)):
+        extract.classify(blocks, 612.0, 792.0, 12.9)
+        pages.append(extract.Page(n, 57 + n, blocks))
+    md = extract.to_markdown(pages, 612.0)
+    assert "\nLachit Barphukan and the defeat of the Mughals in Assam\n" in md
+    assert "\nAlmost all adult males served" in md
+
+
+def test_centred_poem_lines_and_lettered_questions_stay_apart():
+    # Page 96 of Social and Political Life III chapter 8 (a centred poem) and the lettered
+    # questions of chapter 10 page 121.
+    def blk(text, bbox):
+        b = extract.Block(*bbox, "Bookman", 10.0, False, True, text, 10.0)
+        b.role = "note"
+        return b
+    blocks = [
+        blk("The body is polluted from within,", (200, 100, 360, 112)),
+        blk("Be sure of it says the Mahari Chokha", (190, 112, 370, 124)),
+        blk("a) What is the minimum wage for a construction worker?", (100, 300, 420, 312)),
+        blk("b) Do you think it is adequate, low or high?", (120, 312, 400, 324)),
+    ]
+    extract._stack_centred_lines(blocks)
+    for b in blocks:
+        b.role = "caption"
+    extract._stack_caption_lines(blocks)
+    assert len(blocks) == 4
+
+
+def test_text_running_off_the_page_edge_is_dropped():
+    # Page 66 of the 2007 Our Pasts II chapter 5 (the 2014 snapshot): the ends of the facing
+    # page's caption lines reach this page past its left edge.
+    blocks = [
+        extract.Block(-7, 531, 26, 554, "BookmanPlain", 10.0, False, False, "hmir, 634.", 10.0),
+        extract.Block(73, 100, 500, 300, "BookmanPlain", 13.0, False, False, BODY, 13.0),
+    ]
+    extract.classify(blocks, 595.0, 842.0, 13.0)
+    assert [b.role for b in blocks] == ["decoration", "body"]
+
+
+def test_bar_chart_values_are_kept():
+    # Page 89 of the 2019 Social and Political Life III chapter 7: the values over the bars.
+    blocks = [
+        extract.Block(64, 100, 520, 300, "Bookman", 12.0, False, False, BODY, 12.0),
+        extract.Block(100, 320, 400, 334, "Bookman", 12.0, False, False, "74 63 57 74 67 71 86", 12.0),
+    ]
+    extract.classify(blocks, 592.8, 842.0, 12.0)
+    assert blocks[1].role != "decoration"
+
+
+def test_flush_left_wrapped_lines_of_two_exercise_columns_do_not_interleave():
+    # Page 47 of the 2024 Social and Political Life II chapter 4: question 2 on the left and
+    # statement d. of question 1 on the right, each wrapping into a block of its own.
+    def blk(text, bbox, font):
+        b = extract.Block(*bbox, font, 9.6, False, False, text, 9.6)
+        b.role = "table"
+        return b
+    blocks = [
+        blk("‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks", (82, 238, 358, 263), "CIDFont+F2"),
+        blk("d. The work that women do is less", (376, 264, 545, 275), "CIDFont+F1"),
+        blk("undertaken by women in your home.", (82, 267, 252, 277), "CIDFont+F2"),
+        blk("valued than that of men.", (376, 279, 497, 289), "CIDFont+F1"),
+    ]
+    extract._stack_centred_lines(blocks)
+    assert sorted(b.text for b in blocks) == [
+        "d. The work that women do is less valued than that of men.",
+        "‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks undertaken by women in your home.",
+    ]

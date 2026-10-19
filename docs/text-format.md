@@ -47,8 +47,46 @@ mapping back to the printed page.
 - Text set smaller than the body that turns up while a body paragraph is still open (a box
   set into the column, a side question) is written after that paragraph, which goes on past
   it. A paragraph set straight under a caption in the caption's size is part of the caption.
+- A box in the margin set at body size (the Our Pasts III Activity boxes, glossary entries and
+  Source boxes) is told from the text column by where it sits: alone beside the column, or in
+  a column of its own much narrower than the text column. On a page read with OCR only this
+  geometry counts, since the sizes there are estimates. It is written after the column
+  paragraph it sits beside, which goes on past it ("... could civilise India. To do" /
+  "this, it was necessary ..." across the page turn). Its blocks join only where the next one
+  plainly continues the last (a lower-case start), so each glossary entry stays a line of its
+  own, and a box title there ("Language of the wise?") does not end the column paragraph.
+- The Exploring Society "The Big Questions" title is set as two overlapping blocks, "The Big"
+  over a larger "Questions". The two are one heading, so "Questions" alone never opens the
+  exercises section.
+- A line of nothing but small numbers, none above 20 (the badges 1 to 7 on a photo collage,
+  the steps of a flow chart, the axis of a bar chart), is a label in a picture and is dropped.
+  Larger values over a chart's bars are its data and stay.
+- Spaces that the page does not show are dropped inside a word: a space with no advance at all
+  ("The g overnment"), a space carrying the width of a letter the text layer made zero wide
+  ("Kaṇṇ agi", "Pāṭ aliputra"), and a thin space between two letters ("cold s torage"). The
+  space after a ligature ("off and") is an ordinary one and stays.
 - The chapter title is a level-1 heading. Section headings are level 2, activity headings
   ("Let's recall", "Let's discuss") and box headings level 3.
+
+## Captions
+
+- A caption's second line, set as a block of its own, joins the caption straight above it
+  when it starts in lower case, follows a comma or a bare "Fig. 1.23.", or overlaps a "Fig."
+  caption in the same face that has no closing punctuation ("... in Bandhavgarh" / "National
+  Park, Madhya Pradesh"). This keeps side-by-side captions apart. A description set under a
+  caption title after a gap is a caption of its own.
+- The first lines of two side-by-side captions that PyMuPDF puts on one line ("Fig. 1.13. ..."
+  and, after a wide gap, "Fig. 1.14. ...") are split at the gap.
+- A caption that starts "Fig." and a margin note's label ("Transparency:") start a new tagged
+  block, whatever the block before them ends with.
+- The lines of a centred speech bubble in the civics comics, cut into a block per line or two,
+  are one block when the next line starts in lower case, so bubbles side by side no longer
+  interleave. A poem's centred lines each start with a capital and stay apart. The same holds
+  for a wrapped line set flush left under an unfinished line, so two columns of exercises read
+  in page order do not interleave ("... the household tasks" / "undertaken by women in your
+  home." beside "d. The work that women do is less" / "valued than that of men.").
+- Map axis ticks ("60E", "70°E") are dropped, and ticks read onto the front of a caption line
+  ("70E 80E 90E Fig. 6.2. ...") are cut from it.
 
 ## Page markers
 
@@ -149,6 +187,11 @@ compare body only, or everything:
 | `[source]` | quoted primary sources set in Monotype Corsiva |
 | `[table]` | table cells (Bookman 11 pt in the body column), one row per block |
 
+A sliver of text set smaller than the body that runs off the edge of the page is dropped: the
+2007 files carry the ends of the facing page's caption lines ("har baghs", "hmir, 634.") in the
+outer tenth of this one, where nothing legible is printed. A caption that only loses its first
+letters to the edge is kept.
+
 Dropped entirely: running footers (page number, book or chapter name, "Rationalised 2023-24"),
 the rotated "©NCERT not to be republished" watermark in older files, and the chapter number
 glyph. InDesign slug lines mostly sit outside the page crop box and never reach the text
@@ -169,7 +212,9 @@ become the same blocks the normal path classifies. Font sizes are estimated from
 heights, so roles are rougher: captions sometimes land as `[table]`, and paragraph breaks
 follow tesseract's segmentation rather than the typesetter's. Such editions carry `-ocr` in
 their id, `ocr: true` and an `ocr_confidence` in the front matter, and the raw tesseract
-output is cached under `pdfs/<book>/<snapshot>/ocr/`. Treat word-level differences against an
+output is cached under `pdfs/<book>/<snapshot>/ocr/`. A paragraph whose words tesseract read
+with a mean confidence under 50 is lettering on a map or a drawing ("i Lf wie Royats = __ DE
+Morrie") and is dropped, as is a short fragment under 70. Treat word-level differences against an
 OCR edition with suspicion until they are checked against the page image.
 
 ## Known limits

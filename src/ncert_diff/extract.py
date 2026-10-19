@@ -44,6 +44,11 @@ ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE
 CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
 SDG_LABEL = re.compile(r"^Sustainable Development Goal", re.IGNORECASE)  # the UN goal badge printed in the margin since 2019
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)|Activity|Imagine|Elsewhere", re.IGNORECASE)  # box labels
+# Map axis ticks ("60E", "70°E", "10N"): the 2025 Exploring Society maps draw them as outlines,
+# and a tick read back can land on the caption line printed level with the map's bottom edge.
+AXIS_TICKS = re.compile(r"(?:\d{1,3}\s?°?\s?[NESW]\s*)+")
+LEADING_TICKS = re.compile(r"^(?:\d{1,3}\s?°?\s?[NESW]\s+)+(?=Fig\.\s)")
+NUMBER_LABELS = re.compile(r"\d{1,2}(?: \d{1,2})*")
 FOOTER_BAND = 0.86  # fraction of page height below which small text is a footer
 HEADER_BAND = 0.06
 SLUG_BAND = 0.975  # below this, under the print-run label, nothing is part of the printed page
@@ -252,11 +257,44 @@ def _text_from_chars(line: dict) -> None:
                 if sp["bbox"][0] - a["bbox"][2] <= 0.5 and b["bbox"][0] - sp["bbox"][2] <= 0.5:
                     drop.add(tokens[t][1] + 1)
         k = m + 1
+    drop |= _phantom_spaces(chars, [sp.get("size", 0.0) for sp in line["spans"] for _ in sp["chars"]])
     pos = 0
     for sp in line["spans"]:
         n = len(sp["chars"])
         sp["text"] = "".join(c["c"] for idx, c in enumerate(sp.pop("chars"), start=pos) if idx not in drop)
         pos += n
+
+
+def _letterlike(ch: str) -> bool:
+    return ch.isalpha() or unicodedata.category(ch).startswith("M")
+
+
+def _phantom_spaces(chars: list[dict], sizes: list[float] | None = None) -> set[int]:
+    """Indices of space characters inside a word that the page does not show.
+
+    The 2025 Exploring Society files have three kinds. A space with no advance at all, the
+    next letter starting where the space starts ("The g overnment", "C onstitution"). A
+    space that carries the advance of the letter before it, which the text layer gives no
+    width ("Kaṇṇ agi", "Pāṭ aliputra", where the last "ṇ" or "ṭ" is zero wide and the space
+    is as wide as the letter). And a thin space between two letters ("cold s torage",
+    "Dis tributors"). A real word space always leaves a gap, so the next letter starts past
+    the space's left edge. A ligature also leaves a zero-wide letter ("off" is "of" and an
+    empty "f"), but the space after it is an ordinary one, so the stand-in is told by its
+    width: wider than a word space ever is, with the next letter abutting it."""
+    out: set[int] = set()
+    for i in range(1, len(chars) - 1):
+        sp, prev, nxt = chars[i], chars[i - 1], chars[i + 1]
+        if not sp["c"].isspace() or not _letterlike(prev["c"]) or not nxt["c"].isalpha():
+            continue
+        size = sizes[i] if sizes else 0.0
+        width = sp["bbox"][2] - sp["bbox"][0]
+        if sp["c"] in "\u2009\u200a":
+            out.add(i)
+        elif sp["c"] == " " and nxt["bbox"][0] - sp["bbox"][0] <= 0.1:
+            out.add(i)  # no advance at all
+        elif sp["c"] == " " and prev["bbox"][2] - prev["bbox"][0] <= 0.05 and size and width >= 0.4 * size and abs(nxt["bbox"][0] - sp["bbox"][2]) <= 0.1:
+            out.add(i)  # the advance of the zero-wide letter before it
+    return out
 
 
 def shifted_quote_fonts(doc: pymupdf.Document) -> dict[str, dict]:
@@ -469,9 +507,38 @@ def _split_side_lines(raw: dict) -> list[dict]:
     return [dict(raw, lines=rest, bbox=box(rest)), dict(raw, lines=side, bbox=box(side))]
 
 
+def _split_caption_pair(raw: dict) -> list[dict]:
+    """Split a one-line block holding the first lines of two captions set side by side
+    ("Fig. 1.13. Multi-cropping in Uttar Pradesh" and, after a wide gap, "Fig. 1.14. Rural
+    women working in a" in Exploring Society). PyMuPDF puts them in one line, and the two
+    captions then read as one."""
+    lines = [ln for ln in raw.get("lines", []) if any(sp["text"].strip() for sp in ln["spans"])]
+    if not lines:
+        return [raw]
+    # The two captions can come as one line or as two lines on one baseline.
+    centre = lambda ln: (ln["bbox"][1] + ln["bbox"][3]) / 2  # noqa: E731
+    if any(abs(centre(ln) - centre(lines[0])) > 2 for ln in lines):
+        return [raw]
+    every = sorted((sp for ln in lines for sp in ln["spans"]), key=lambda sp: sp["bbox"][0])
+    spans = [sp for sp in every if sp["text"].strip()]
+    for k in range(1, len(spans)):
+        gap = spans[k]["bbox"][0] - spans[k - 1]["bbox"][2]
+        if re.match(r"^Fig\.\s", spans[k]["text"].strip()) and gap >= 1.5 * spans[k]["size"]:
+            parts = []
+            # Space spans are kept, or the words they separate run together.
+            cut = spans[k]["bbox"][0]
+            left = [sp for sp in every if sp["bbox"][0] < cut]
+            right = [sp for sp in every if sp["bbox"][0] >= cut]
+            for group in (left, right):
+                box = tuple(pymupdf.Rect(group[0]["bbox"]) | pymupdf.Rect(group[-1]["bbox"]))
+                parts.append(dict(raw, bbox=box, lines=[dict(lines[0], bbox=box, spans=group)]))
+            return parts
+    return [raw]
+
+
 def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) -> list[Block]:
     out: list[Block] = []
-    for raw in [part for raw in textpage["blocks"] if raw["type"] == 0 for part in _split_side_lines(raw)]:
+    for raw in [half for raw in textpage["blocks"] if raw["type"] == 0 for part in _split_side_lines(raw) for half in _split_caption_pair(part)]:
         lines = [ln for ln in raw["lines"] if tuple(round(v, 1) for v in ln["dir"]) == HORIZONTAL]
         if not lines:
             continue
@@ -767,6 +834,16 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         col_left, col_right = 0.0, width
 
     for b in blocks:
+        if AXIS_TICKS.fullmatch(b.text.strip()):
+            b.role = "decoration"  # a map's axis tick, not text of the book
+            continue
+        if ((b.x0 < -0.5 and b.x1 < 0.12 * width) or (b.x1 > width + 0.5 and b.x0 > 0.88 * width)) and b.size <= body_size - 1:
+            # Text running off the page in a sliver at its edge: the 2007 files print the
+            # facing page's caption so that only its last letters reach this one ("har baghs",
+            # "hmir, 634."). A caption that only loses its first letters to the edge stays.
+            b.role = "decoration"
+            continue
+        b.text = LEADING_TICKS.sub("", b.text)
         in_column = col_left <= b.centre_x <= col_right
         side_font = any(f in b.font for f in SIDE_FONTS)
         delta = body_size - b.size  # positive when smaller than body text
@@ -850,9 +927,40 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
     _keyword_list(blocks)
     _join_wrapped_items(blocks)
     _extend_captions(blocks, body_size)
+    _stack_caption_lines(blocks)
+    _stack_centred_lines(blocks)
     _short_headings(blocks, body_size)
     _join_split_titles(blocks)
+    _join_stacked_titles(blocks)
+    for b in blocks:
+        # A line of nothing but one- or two-digit numbers among the body text is a picture's
+        # label, not a paragraph: the numbered badges on a photo collage ("1" to "7" in
+        # Exploring Society), the steps of a flow chart, the axis of a bar chart.
+        # Values of 20 and more are a chart's data ("74 63 57" over the bars), which stays.
+        if b.role in ("body", "note") and NUMBER_LABELS.fullmatch(b.text.strip()) and b.y1 - b.y0 < 2.2 * max(b.size, 1.0) and all(int(n) <= 20 for n in b.text.split()):
+            b.role = "decoration"
     return printed
+
+
+def _join_stacked_titles(blocks: list[Block]) -> None:
+    """A box title set as two overlapping blocks in two sizes, "The Big" (12 pt with a 23 pt
+    "Big") over "Questions" (18 pt) in Exploring Society, is one heading. Apart, the first
+    words pass as a paragraph and "Questions" alone reads as the exercises heading."""
+    for h in blocks:
+        if h.role != "h2":
+            continue
+        for b in blocks:
+            if b is h or not b.bold or b.role in ("footer", "h2", "decoration") or len(b.text.split()) > 3 or re.search(r"[.?!:;,]$", b.text):
+                continue
+            # The first block starts above the heading, its box reaches down into the
+            # heading's, and the heading starts inside its width.
+            if b.y0 < h.y0 < b.y1 and b.x0 <= h.x0 < b.x1:
+                # The heading keeps its own top, so it is still read after a question that
+                # starts level with "The Big" and wraps past it.
+                h.text = f"{b.text} {h.text}"
+                h.x0 = min(h.x0, b.x0)
+                b.role = "decoration"  # written as part of the heading
+                break
 
 
 def _join_split_titles(blocks: list[Block]) -> None:
@@ -885,6 +993,89 @@ def _short_headings(blocks: list[Block], body_size: float) -> None:
             # Eleventh Century", 2016 Our Pasts II), which otherwise runs into the question
             # box or paragraph that follows it.
             b.role = "h3"
+
+
+def _lower_start(text: str) -> bool:
+    """Does this block start the way a wrapped line goes on, in lower case? A letter with a
+    bracket or a full stop is a list marker ("b) Do you think", "b. to defend the country"),
+    and so is a lone letter before a capital (the Wingdings bullet "q" of the imprint page
+    read as a letter, "q The correct price"). Neither is a continuation."""
+    return text[:1].islower() and not re.match(r"^[a-z][).]\s|^[a-z]\s+[A-Z]", text)
+
+
+def _stack_caption_lines(blocks: list[Block]) -> None:
+    """The second line of a caption that PyMuPDF set as a block of its own ("in the plains"
+    under "Fig. 1.11. Modern agricultural practices", beside "river Yamuna on top right"
+    under "Fig. 1.12. ...") belongs to the caption straight above it. Left to the reading
+    order, it follows whichever caption ends nearest, which for side-by-side captions is the
+    neighbour. Only a line that starts in lower case, or follows a caption ending in a comma,
+    is joined, or one in the caption's own face that the caption runs into: a description
+    set under a caption title, in another face, is a caption of its own."""
+    for b in sorted([b for b in blocks if b.role == "caption"], key=lambda b: b.y0):
+        if b not in blocks or b.text.startswith("Fig"):
+            continue
+        above = [
+            c for c in blocks
+            if c is not b and c.role == "caption" and abs(c.size - b.size) <= 1.0
+            and -0.5 * b.size <= b.y0 - c.y1 <= 0.8 * b.size and c.x0 - 2 <= b.centre_x <= c.x1 + 2
+        ]
+        if len(above) != 1:
+            continue
+        c = above[0]
+        # A line in the caption's own face that the caption runs into (no closing
+        # punctuation) goes on with it too ("... in Bandhavgarh" / "National Park, Madhya
+        # Pradesh"). A description under a caption title is set in another face.
+        # The next line of one caption overlaps it (line boxes are taller than the leading),
+        # a separate paragraph under it leaves a gap.
+        runs_on = c.text.startswith("Fig") and b.font == c.font and b.italic == c.italic and not clean.ends_sentence(c.text) and b.y0 <= c.y1
+        bare_label = bool(re.fullmatch(r"Fig\.\s*[\d.]+", c.text.strip()))  # "Fig. 1.23." over its text
+        after_comma = c.text.startswith("Fig") and c.text.rstrip().endswith(",")  # a poem's line ends in a comma too
+        if not (_lower_start(b.text) or after_comma or runs_on or bare_label):
+            continue
+        c.text = clean.merge_paragraphs(c.text, b.text)
+        c.x0, c.x1, c.y1 = min(c.x0, b.x0), max(c.x1, b.x1), max(c.y1, b.y1)
+        blocks.remove(b)
+
+
+def _stack_centred_lines(blocks: list[Block]) -> None:
+    """Lines of one small block that PyMuPDF cut apart. A speech bubble of the civics comics is set centred, and PyMuPDF cuts it into a block
+    per line or two ("Ma, we are going on a school excursion. Rosie Ma’am" / "needs
+    volunteers. Can’t you" / "take a holiday from office" / "and volunteer?"). Read in page
+    order, the lines of bubbles side by side interleave. Blocks in one small face, centred on
+    the same axis (or flush left on the same edge) and set at line spacing, are one block
+    when the next one starts in lower case."""
+    changed = True
+    while changed:
+        changed = False
+        for c in sorted(blocks, key=lambda b: b.y0):
+            if c.role not in ("table", "caption", "note"):
+                continue
+            below = [
+                b for b in blocks
+                # The last line of a bubble at the foot of the page can sit in the footer band
+                # ("taken leave today."), but no footer starts in lower case.
+                if b is not c and b.role in (c.role, "footer") and b.font == c.font and abs(b.size - c.size) < 0.5
+                and not b.text.startswith("Fig")
+                and ((-1 <= b.y0 - c.y1 <= 0.3 * c.size and abs(b.centre_x - c.centre_x) <= 3)
+                     # A wrapped line set flush left under its block, in a page of two columns
+                     # that reading order would otherwise interleave ("... based on the household
+                     # tasks" / "undertaken by women in your home." beside "d. The work that
+                     # women do is less" / "valued than that of men.").
+                     # A line that closes ("rabi season (winter crops)") is a label of its own.
+                     or (-1 <= b.y0 - c.y1 <= 0.5 * c.size and abs(b.x0 - c.x0) <= 3 and c.role != "footer" and not clean.ends_sentence(c.text)))
+            ]
+            if len(below) != 1:
+                continue
+            b = below[0]
+            # Only a lower-case start runs on: the centred lines of a poem each start with a
+            # capital, and "b) Do you think ..." is the next item of a list.
+            if not _lower_start(b.text):
+                continue
+            c.text = clean.merge_paragraphs(c.text, b.text)
+            c.x0, c.x1, c.y1 = min(c.x0, b.x0), max(c.x1, b.x1), max(c.y1, b.y1)
+            blocks.remove(b)
+            changed = True
+            break
 
 
 def _extend_captions(blocks: list[Block], body_size: float) -> None:
@@ -1099,6 +1290,37 @@ def _reading_order(blocks: list[Block], width: float) -> list[Block]:
     return ordered
 
 
+def _margin_blocks(blocks: list[Block], width: float, use_size: bool = True) -> set[int]:
+    """ids of the body-size blocks that sit in the margin rather than in a text column.
+
+    The Our Pasts III margin boxes (an Activity box, a column of glossary entries) are set at
+    body size, so they classify as body text. A box like that is either alone beside the
+    column (outside every column) or one of a few blocks forming a column of its own, much
+    narrower than the text column. Read as body text, it runs into the sentence the column
+    paragraph is still in ("... British rule, Mill felt, could civilise India. To do" then
+    "Interview your mother ..."), so it is written as a box instead."""
+    body = [b for b in blocks if b.role in ("body", "table", "h2", "h3", "dropcap", "chapter-number")]
+    cols = _columns(body, width)
+    widest = max(right - left for left, right in cols)
+    # The size of the text in the widest column. A box beside it can be as wide as a narrow
+    # column but is set a point smaller ("Lachit Barphukan and the defeat of the Mughals in
+    # Assam" in the 2024 Our Pasts II), which a second column of body text is not.
+    main = [b for b in body if b.role == "body" and any(left <= b.centre_x <= right and right - left == widest for left, right in cols)]
+    sizes = Counter(round(b.size, 1) for b in main for _ in range(len(b.text)))
+    col_size = sizes.most_common(1)[0][0] if sizes else None
+    out: set[int] = set()
+    for b in blocks:
+        if b.role not in ("body", "h2"):
+            continue
+        smaller = use_size and b.role == "body" and col_size is not None and col_size - b.size >= 0.5
+        if b.x1 - b.x0 > 0.6 * widest and not smaller:
+            continue
+        col = next(((left, right) for left, right in cols if left <= b.centre_x <= right), None)
+        if col is None or col[1] - col[0] < 0.7 * widest:
+            out.add(id(b))
+    return out
+
+
 def title_page_position(pages: list[Page]) -> int:
     """Position in `pages` of the page that opens the chapter.
 
@@ -1194,11 +1416,18 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
     deferred: list[str] = []  # side blocks and page markers met while a paragraph was pending
     pending_dropcap: Block | None = None
     pending_size, pending_font = 0.0, ""  # font size and font of the pending paragraph
+    pending_box: str | None = None  # a margin box paragraph, kept apart from the column's paragraph
     first_heading_done = False  # the chapter title gets "#", wherever in the file it falls
 
     def emit(*items: str) -> None:
         target = deferred if pending_body is not None else lines
         target.extend(items)
+
+    def close_box() -> None:
+        nonlocal pending_box
+        if pending_box is not None:
+            text, pending_box = pending_box, None
+            emit(text, "")
 
     def flush() -> None:
         nonlocal pending_body
@@ -1214,9 +1443,29 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
         marker = f"<!-- page {page.printed_number} (pdf {where}) -->" if page.printed_number else f"<!-- pdf page {where} -->"
         emit(marker, "")
         pending_dropcap = None  # a drop cap opens a paragraph on its own page
+        # On a page read with OCR the sizes are guesses, so only the geometry counts there.
+        margin = _margin_blocks(page.blocks, width, use_size=not page.ocr)
         for b in _reading_order(page.blocks, width):
             if b.role in ("footer", "decoration"):
                 continue
+            if id(b) in margin and b.role == "h2" and first_heading_done:
+                # A box title in the margin ("Language of" / "the wise?" over a Source box)
+                # does not end the column paragraph beside it.
+                close_box()
+                emit(f"## {b.text}", "")
+                continue
+            if id(b) in margin and b.role == "body":
+                # A margin box at body size: its blocks join each other, but it is written
+                # after the column paragraph it sits beside, which goes on past it. Only a
+                # plain continuation joins: glossary entries carry no closing punctuation,
+                # and each one is a block of its own.
+                if pending_box is not None and clean.continues(pending_box, b.text) and (_lower_start(b.text) or b.text[:1] in ",;" or pending_box.endswith("-")):
+                    pending_box = clean.merge_paragraphs(pending_box, b.text)
+                else:
+                    close_box()
+                    pending_box = b.text
+                continue
+            close_box()
             if b.role == "chapter-number":
                 _, embedded_title = split_number_and_title(b.text)
                 if embedded_title and not first_heading_done:
@@ -1267,6 +1516,7 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
             # Captions, notes, sources, tables: kept in place, without ending the paragraph.
             if clean.has_content(b.text):
                 emit(f"> [{b.role}] {b.text}", "")
+        close_box()
     flush()
     lines = _merge_split_asides(lines)
     lines = [ln for i, ln in enumerate(lines) if ln != "" or (i > 0 and lines[i - 1] != "")]
@@ -1301,7 +1551,12 @@ def _merge_split_asides(lines: list[str]) -> list[str]:
             while k >= 0 and out[k] == "":
                 k -= 1
             pm = _ASIDE.match(out[k]) if k >= 0 else None
-            if pm and pm.group(1) == m.group(1) and clean.continues(pm.group(2), m.group(2)):
+            # A "Fig." label starts a caption of its own, whatever the one before ends with
+            # (the captions of a photo grid carry no closing punctuation).
+            # So does a margin note's label ("Transparency:"), which is set in bold above its text.
+            new_figure = m.group(1) == "caption" and re.match(r"^Fig\.\s", m.group(2))
+            label = re.fullmatch(r"[A-Z][\w’' -]{0,40}:", m.group(2).strip())
+            if pm and pm.group(1) == m.group(1) and not new_figure and not label and clean.continues(pm.group(2), m.group(2)):
                 out[k] = f"> [{m.group(1)}] {clean.merge_paragraphs(pm.group(2), m.group(2))}"
                 continue
         out.append(line)
