@@ -65,6 +65,31 @@ def editions(book: str = typer.Argument(None)):
 
 
 @app.command()
+def diff(
+    book: str = typer.Argument(None, help="Book id. Default: all."),
+    from_edition: str = typer.Option(None, "--from", help="Edition id to compare from."),
+    to_edition: str = typer.Option(None, "--to", help="Edition id to compare to."),
+):
+    """Compare editions and write diffs/<book>/<from>__<to>.json plus an HTML view."""
+    from .diff import diff_editions, edition_pairs, write_diff
+    from .report import write_index, write_report
+
+    for b in _select(book):
+        pairs = [(from_edition, to_edition)] if from_edition and to_edition else edition_pairs(b.id)
+        for a, c in pairs:
+            result = diff_editions(b.id, a, c)
+            write_diff(result)
+            write_report(result)
+            s = result["summary"]
+            typer.echo(
+                f"{b.id}: {a} -> {c}: chapters -{s['chapters_dropped']} +{s['chapters_added']}; body sentences "
+                f"deleted {s['body']['deleted']}, inserted {s['body']['inserted']}, modified {s['body']['modified']}, "
+                f"punctuation-only {s['body']['punctuation']}, moved {s['body']['moved']}, restreamed {s['body']['restreamed']}, typographic {s['body']['typographic']}"
+            )
+    typer.echo(f"index at {write_index().relative_to(PDF_DIR.parent)}")
+
+
+@app.command()
 def status(book: str = typer.Argument(None)):
     """Show what is on disk for each snapshot."""
     import pymupdf
