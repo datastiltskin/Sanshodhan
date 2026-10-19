@@ -11,20 +11,24 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch01.pdf"
 source_sha256: "51b9badbc4b9fd4da0148f05b1d87e813326c23b9a711866724da753446a8aa1"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "c312097c78f1c14775f51a6451a12c98f1199d2fc984e154236b6ecf5f4bb0e0"
+body_fingerprint: "fc5ce5ac4d151ae4fff12cd0a7c804c06194bd4625304e778a409e5267ba42f3"
 ---
 
 <!-- page 79 (pdf 1) -->
 
+# Weavers, Iron Smelters and Factory Owners
+
 > [caption] Fig. 1 – Trading ships on the port of Surat in the seventeenth century
 
-> [table] Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
+Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
 
 This chapter tells the story of the crafts and industries of India during British rule by focusing on two industries, namely, textiles and iron and steel. Both these industries were crucial for the industrial revolution in the modern world. Mechanised production of cotton textiles made Britain the foremost industrial nation in the nineteenth century. And when its iron and steel industry started growing from the 1850s, Britain came to be known as the “workshop of the world”.
 
 The industrialisation of Britain had a close connection with the conquest and colonisation of India. You have seen (Chapter 2) how the English East India Company’s interest in trade led to occupation of territory, and how the pattern of trade changed over the decades. In the late eighteenth century the Company was buying goods in India and exporting them to England and Europe, making profit through this sale. With the growth of industrial production, British industrialists began to see India as a vast market for their industrial products, and over time manufactured goods from Britain began flooding India. How did this affect Indian crafts and industries? This is the question we will explore in this chapter.
 
 <!-- page 80 (pdf 2) -->
+
+## Indian Textiles and the World Market
 
 Let us first look at textile production.
 
@@ -72,6 +76,8 @@ Competition with Indian textiles also led to a search for technological innovati
 
 However, Indian textiles continued to dominate world trade till the end of the eighteenth century. European trading companies – the Dutch, the French and the English – made enormous profits out of this flourishing trade. These companies purchased cotton and silk textiles in India by importing silver. But as you know (Chapter 2), when the English East India Company gained political power in Bengal, it no longer had to import precious metal to buy Indian goods. Instead, they collected revenues from peasants and zamindars in India, and used this revenue to buy Indian textiles.
 
+Activity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
+
 Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
 
 > [caption] Fig. 7 – A sea view of the Dutch settlement in Cochin, seventeenth century
@@ -84,11 +90,11 @@ Where were the major centres of weaving in the late eighteenth century?
 
 > [caption] Fig. 8 – Weaving centres: 1500-1750
 
-> [table] If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
+If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
 
 > [table] Dacca in Eastern Bengal (now Bangladesh) was the foremost textile centre in the eighteenth century. It was famous for its mulmul and jamdani weaving.
 
-> [table] If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
+If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
 
 <!-- page 85 (pdf 7) -->
 
@@ -98,19 +104,51 @@ Weavers often belonged to communities that specialised in weaving. Their skills 
 
 The first stage of production was spinning – a work done mostly by women. The charkha and the takli were household spinning instruments. The thread was spun on the charkha and rolled on the takli. When the spinning was over the thread was woven into cloth by the weaver. In most communities weaving was a task done by men. For coloured textiles, the thread was dyed by the dyer, known as rangrez. For printed cloth the weavers needed the help of specialist block printers known as chhipigars. Handloom weaving and the occupations associated with it provided livelihood for millions of Indians.
 
-The decline of Indian textiles The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
-
-By the beginning of the nineteenth century, English-made cotton textiles successfully ousted Indian goods from their traditional markets in Africa, America and Europe. Thousands of weavers in India were now thrown out of employment. Bengal weavers were the worst hit. English and European companies stopped buying Indian goods and their agents no longer gave out Aurang – A Persian term for a warehouse – a place where goods are collected before being sold; also refers to a workshop advances to weavers to secure supplies. Distressed weavers wrote petitions to the government to help them.
-
 > [caption] Fig. 9 – A tanti weaver of Bengal, painted by the Belgian painter Solvyns in the 1790s
 
 > [table] The tanti weaver here is at work in the pit loom. Do you know what a pit loom is?
 
+The decline of Indian textiles The development of cotton industries in Britain affected textile producers in India in several ways. First: Indian textiles now had to compete with British textiles in the European and American markets. Second: exporting textiles to England also became increasingly difficult since very high duties were imposed on Indian textiles imported into Britain.
+
+Aurang – A Persian term for a warehouse – a place where goods are collected before being sold; also refers to a workshop By the beginning of the nineteenth century, English-made cotton textiles successfully ousted Indian goods from their traditional markets in Africa, America and Europe. Thousands of weavers in India were now thrown out of employment. Bengal weavers were the worst hit. English and European companies stopped buying Indian goods and their agents no longer gave out
+
+> [table] Source 1
+
+## “We must starve for food”
+
+In 1823 the Company government in India received a petition from 12,000 weavers stating:
+
+Our ancestors and we used to receive advances from the Company and maintain ourselves and our respective families by weaving Company’s superior assortments. Owing to our misfortune, the aurangs have been abolished ever since because of which we and our families are distressed for want of the means of livelihood. We are weavers and do not know any other business. We must starve for food, if the Board of Trade do not cast a look of kindness towards us and give orders for clothes.
+
+> [table] Proceedings of the Board of Trade, 3 February 1824
+
 <!-- page 86 (pdf 8) -->
+
+> [table] Source 2
+
+## “Please publish this in your paper”
+
+One widowed spinner wrote in 1828 to a Bengali newspaper, Samachar Darpan, detailing her plight:
+
+To the Editor, Samachar,
+
+I am a spinner. After having suffered a great deal, I am writing this letter. Please publish this in your paper ... When my age was … 22, I became a widow with three daughters. My husband left nothing at the time of his death … I sold my jewellery for his shraddha ceremony. When we were on the verge of starvation God showed me a way by which we could save ourselves. I began to spin on takli and charkha ...
+
+The weavers used to visit our houses and buy the charkha yarn at three tolas per rupee. Whatever amount I wanted as advance from the weavers, I could get for the asking. This saved us from cares about food and cloth. In a few years’ time I got together … Rs. 28. With this I married one daughter. And in the same way all three daughters ...
+
+Now for 3 years, we two women, mother-in-law and me, are in want of food. The weavers do not call at the house for buying yarn. Not only this, if the yarn is sent to market it is still not sold even at one-fourth the old prices.
+
+I do not know how it happened. I asked many about it. They say that Bilati 2 yarn is being imported on a large scale. The weavers buy that yarn and weave … People cannot use the cloth out of this yarn even for two months; it rots away.
+
+> [table] A representation from a suffering spinner
+
+advances to weavers to secure supplies. Distressed weavers wrote petitions to the government to help them.
 
 But worse was still to come. By the 1830s British cotton cloth flooded Indian markets. In fact, by the 1880s two-thirds of all the cotton clothes worn by Indians were made of cloth produced in Britain. This affected not only specialist weavers but also spinners. Thousands of rural women who made a living by spinning cotton thread were rendered jobless.
 
 Handloom weaving did not completely die in India. This was because some types of cloths could not be supplied by machines. How could machines produce saris with intricate borders or cloths with traditional woven patterns? These had a wide demand not only amongst the rich but also amongst the middle classes. Nor did the textile manufacturers in Britain produce the very coarse cloths used by the poor people in India.
+
+Activity Read Sources 1 and 2. What reasons do the petition writers give for their condition of starvation?
 
 <!-- page 87 (pdf 9) -->
 
@@ -124,15 +162,15 @@ Cotton mills come up The first cotton mill in India was set up as a spinning mil
 
 <!-- page 88 (pdf 10) -->
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
 
-> [table] Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
 Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
 
 In the first few decades of its existence, the textile factory industry in India faced many problems. It found it difficult to compete with the cheap textiles imported from Britain. In most countries, governments supported industrialisation by imposing heavy duties on imports. This eliminated competition and protected infant industries. The colonial government in India usually refused such protection to local industries. The first major spurt in the development of cotton factory production in India, therefore, was during the First World War when textile imports from Britain declined and Indian factories were called upon to produce cloth for military supplies.
 
-  We begin the story of Indian steel and iron metallurgy by recounting the famous story of Tipu Sultan who ruled Mysore till 1799, fought four wars with the British and died fighting with his sword in his hand. Tipu’s legendary swords are now part of valuable collections in museums in England. But do you know why the sword was so special? The sword had an incredibly hard and sharp edge that could easily rip through the opponent’s armour. This quality of the sword came from a special type of high carbon steel called Wootz which was produced all over south India. Wootz steel when made into swords produced a very sharp edge with a flowing water pattern. This pattern came from very small carbon crystals embedded in the iron.
+The sword of Tipu Sultan and Wootz steel We begin the story of Indian steel and iron metallurgy by recounting the famous story of Tipu Sultan who ruled Mysore till 1799, fought four wars with the British and died fighting with his sword in his hand. Tipu’s legendary swords are now part of valuable collections in museums in England. But do you know why the sword was so special? The sword had an incredibly hard and sharp edge that could easily rip through the opponent’s armour. This quality of the sword came from a special type of high carbon steel called Wootz which was produced all over south India. Wootz steel when made into swords produced a very sharp edge with a flowing water pattern. This pattern came from very small carbon crystals embedded in the iron.
 
 Francis Buchanan who toured through Mysore in 1800, a year after Tipu Sultan’s death, has left us an account of the technique by which Wootz steel was produced in many hundreds of smelting furnaces in Mysore. In these furnaces, iron was mixed with charcoal and put inside small clay pots. Through an intricate control of temperatures the smelters produced steel ingots that were used for sword making not just in India but in West and Central Asia too. Wootz is an anglicised version of the Kannada word ukku, Telugu hukku and Tamil and Malayalam urukku – meaning steel.
 
@@ -144,7 +182,9 @@ Indian Wootz steel fascinated European scientists. Michael Faraday, the legendar
 
 Production of Wootz steel required a highly specialised technique of refining iron. But iron smelting in India was extremely common till the end of the nineteenth century. In Bihar and Central India, in particular, every district had smelters that used local deposits of ore to produce iron which was widely used for the manufacture of implements and tools of daily use. The furnaces were most often built of clay and sun-dried bricks. The smelting was done by men while women worked the bellows, pumping air that kept the charcoal burning.
 
-Bellows – A device or equipment that can pump air By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
+Activity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
+
+Bellows – A device or equipment that can pump air Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
 
 > [caption] Fig. 12 – Iron smelters of Palamau, Bihar
 
@@ -152,9 +192,19 @@ Bellows – A device or equipment that can pump air By the late nineteenth centu
 
 > [caption] Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
 
-> [table] Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
+> [table] Source 3
+
+By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
+
+## A widespread
+
+## industry
 
 One reason was the new forest laws that you have read about (Chapter 4). When the colonial government prevented people from entering the reserved forests, how could the iron smelters find wood for charcoal? Where could they get iron ore? Defying forest laws, they often entered the forests secretly and collected wood, but they could not sustain their occupation on this basis for long. Many gave up their craft and looked for other means of livelihood.
+
+According to a report of the Geological Survey of India:
+
+Iron smelting was at one time a widespread industry in India and there is hardly a district away from the great alluvial tracts of the Indus, Ganges and Brahmaputra, in which slag heaps are not found. For the primitive iron smelter finds no difficulty in obtaining sufficient supplies of ore from deposits that no European ironmaster would regard as worth his serious consideration.
 
 In some areas the government did grant access to the forest. But the iron smelters had to pay a very high tax to the forest department for every furnace they used. This reduced their income.
 
@@ -186,6 +236,20 @@ In the case of iron and steel, as in the case of cotton textiles, industrial exp
 
 <!-- page 93 (pdf 15) -->
 
+ELSEWHERE
+
+Early years of industrialisation in Japan The history of industrialisation of Japan in the late nineteenth century presents a contrast to that of India. The colonial state in India, keen to expand the market for British goods, was unwilling to support Indian industrialists. In Japan, the state encouraged the growth of industries.
+
+The Meiji regime, which assumed power in Japan in 1868, believed that Japan needed to industrialise in order to resist Western domination. So it initiated a series of measures to help industrialisation. Postal services, telegraph, railways, steam powered shipping were developed. The most advanced technology from the West was imported and adapted to the needs of Japan. Foreign experts were brought to train Japanese professionals. Industrialists were provided with generous loans for investment by banks set up the government. Large industries were first started by the government and then sold off at cheap rates to business families.
+
+In India colonial domination created barriers to industrialisation. In Japan the fear of foreign conquest spurred industrialisation. But this also meant that the Japanese industrial development from the beginning was linked to military needs.
+
+## Let’s imagine
+
+## Let’s recall
+
+Imagine you are a textile weaver in late-nineteenth-century India. Textiles produced in Indian factories are flooding the market. How would you have adjusted to the situation?
+
 1. What kinds of cloth had a large market in Europe?
 
 2. What is jamdani ?
@@ -193,8 +257,6 @@ In the case of iron and steel, as in the case of cotton textiles, industrial exp
 3. What is bandanna?
 
 4. Who are the Agaria?
-
-Imagine you are a textile weaver in late-nineteenth-century India. Textiles produced in Indian factories are flooding the market. How would you have adjusted to the situation?
 
 <!-- page 94 (pdf 16) -->
 
@@ -205,6 +267,8 @@ Imagine you are a textile weaver in late-nineteenth-century India. Textiles prod
 (b) Tipu’s sword was made of_________ steel.
 
 (c) India’s textile exports declined in the _________ century.
+
+## Let’s discuss
 
 6. How do the names of different textiles tell us about their histories?
 
@@ -217,6 +281,8 @@ Imagine you are a textile weaver in late-nineteenth-century India. Textiles prod
 10. What problems did the Indian textile industry face in the early years of its development?
 
 11. What helped TISCO expand steel production during the First World War?
+
+## Let’s do
 
 12. Find out about the history of any craft around the area you live. You may wish to know about the community of craftsmen, the changes in the techniques they use and the markets they supply. How have these changed in the past 50 years?
 

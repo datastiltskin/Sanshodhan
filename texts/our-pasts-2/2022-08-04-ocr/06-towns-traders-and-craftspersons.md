@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch06.pdf"
 source_sha256: "f74076df40ed6da1f739a3b3f7d2744a7663cbbfd710572ac623b65552a7357c"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "f74b553461ba7a66d5d21113373eafa035dae018845f32ec351b588cf0ac5e84"
+body_fingerprint: "a85a6e48e88177efb6f3388de50b46d597d6d4775aa1f18d1f81924e8cc89220"
 ocr: true
 ocr_confidence: 94.1
 ---
@@ -21,7 +21,7 @@ ocr_confidence: 94.1
 
 What would a traveller visiting a medieval town expect to find? This would depend on what kind of a town it was —- a temple town, an administrative centre, a commercial town or a port town to name just some possibilities. In fact, many towns combined several functions — they were administrative centres, temple towns, as well as centres of commercial activities and craft production.
 
-> [table] s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS ; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL . nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram , Svamimalai 3 ) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS
+s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS ; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL . nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram , Svamimalai 3 ) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS Administrative Centres You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
 
 > [caption] 0760CHO6
 
@@ -30,10 +30,6 @@ What would a traveller visiting a medieval town expect to find? This would depen
 > [caption] Some important centres of trade and artisanal production in central and south India.
 
 <!-- page 76 (pdf 2) -->
-
-Administrative Centres
-
-You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
 
 The perennial river Kaveri flows near this beautiful town. One hears the bells of the Rajarajeshvara temple built by King Rajaraja Chola. The towns people are all praise for its architect Kunjaramallan Rajaraja Perunthachchan who has proudly carved his name on the temple wall. Inside is a massive Shiva linga.
 
@@ -229,7 +225,7 @@ Vasco da Gama and Christopher Columbus
 
 > [table] In the fifteenth century European sailors undertook unprecedented explorations of sea routes. They were driven by the desire to find ways of reaching the Indian subcontinent and obtaining spices.
 
-> [table] Vasco da Gama, a Portuguese sailor, sailed down the African Coast, went round the Cape of Good Hope and crossed over to the Indian Ocean . His first journey took more than a year; he reached Calicut in 1498, and returned to Lisbon, the capital of Portugal, the following year. He lost two of his four ships, and of the 170 men at the start of the journey, only 54 survived. In spite of the obvious hazards, the routes that were opened up proved to be extremely profitable - and he was followed by English, Dutch and French sailors.
+Vasco da Gama, a Portuguese sailor, sailed down the African Coast, went round the Cape of Good Hope and crossed over to the Indian Ocean . His first journey took more than a year; he reached Calicut in 1498, and returned to Lisbon, the capital of Portugal, the following year. He lost two of his four ships, and of the 170 men at the start of the journey, only 54 survived. In spite of the obvious hazards, the routes that were opened up proved to be extremely profitable - and he was followed by English, Dutch and French sailors.
 
 > [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area. c Fig. 9 Vasco da Gama.
 

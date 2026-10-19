@@ -18,7 +18,7 @@ import pymupdf
 from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
 from . import ocr
-from .extract import body_text, extract_chapter, extract_whole_book, has_text_layer
+from .extract import LABEL_HEADING, body_text, extract_chapter, extract_whole_book, has_text_layer
 from .fetch import load_manifest
 from .sources import Book
 
@@ -52,17 +52,24 @@ def _date_key(month_year: str) -> tuple[int, int]:
     return int(m.group(2)), MONTHS.split("|").index(m.group(1))
 
 
-def contents_titles(pdf_path: Path) -> dict[int, str]:
-    """Chapter number -> title from a prelims contents page ('7. Weavers, Iron ... 79')."""
+def contents_titles(pdf_path: Path, max_pages: int | None = None) -> dict[int, str]:
+    """Chapter number -> title from a contents page ('7. Weavers, Iron ... 79', 'Chapter 3: Why do we need a Parliament? 30')."""
     out: dict[int, str] = {}
     with pymupdf.open(pdf_path) as doc:
-        text = "\n".join(page.get_text() for page in doc)
-    lines = [normalise_text(ln) for ln in text.splitlines()]
+        text = "\n".join(page.get_text() for page in doc.pages(0, min(doc.page_count, max_pages or doc.page_count)))
+    lines = [normalise_text(ln) for ln in re.sub(r"\s+(?=Chapter\s+\d)", "\n", text).splitlines()]
     for i, ln in enumerate(lines):
-        m = re.match(r"^(\d{1,2})\.\s+(.+?)(?:\s+\d{1,3})?$", ln)
+        m = re.match(r"^(?:Chapter\s+)?(\d{1,2})[.:]\s+(.+?)(?:\s+\d{1,3})?$", ln)
         if m and 1 <= int(m.group(1)) <= 20 and len(m.group(2)) > 3 and not m.group(2)[0].islower():
             out.setdefault(int(m.group(1)), m.group(2))
     return out
+
+
+def usable_title(title: str | None) -> str | None:
+    """A detected title that is really a unit or chapter label is no title at all."""
+    if not title or not any(ch.isalpha() for ch in title) or LABEL_HEADING.match(title.strip()):
+        return None
+    return title
 
 
 def parse_prelims(pdf_path: Path) -> Prelims:
@@ -193,6 +200,8 @@ def process_book(book: Book, *, log=print) -> Path:
         toc: dict[int, str] = {}
         for pre in sorted(snap.glob("*prelims.pdf")):
             toc.update(contents_titles(pre))
+        if files:
+            toc = {**contents_titles(files[0][2], max_pages=3), **toc}
         for part, file_number, pdf in files:
             if pdf in image_only:
                 units.append((part, file_number, pdf, ocr.extract_chapter_ocr(pdf)))
@@ -220,8 +229,8 @@ def process_book(book: Book, *, log=print) -> Path:
             if number is None:
                 log(f"  {pdf.name}: no chapter number found, skipped")
                 continue
-            if not meta["title"] or not any(ch.isalpha() for ch in meta["title"]):
-                meta["title"] = toc.get(number)  # headings in fonts without a Unicode map come out blank
+            if not usable_title(meta["title"]):
+                meta["title"] = toc.get(number)  # label-only, blank, or unmapped-font headings fall back to the contents page
             chapters.append(
                 {
                     "part": part,

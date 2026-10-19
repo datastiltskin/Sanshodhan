@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch02.pdf"
 source_sha256: "8d2b47d010536ffc78b51b7aeb55ff0984c8e32e6f900df967d04263428b03e9"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "1e9f7f978da3058d703b8ecd214e44c9fbcc63e25c87a2b1a004dd2945e2fe1b"
+body_fingerprint: "f6424b881f3867c4293b2317078e28f3713a0b2b2a68c4a980a8b01e417e7077"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -167,7 +167,7 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 > [caption] Fig. 10 – Tipu’s toy tiger
 
-> [table] This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
+This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
 
 > [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793 The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
@@ -231,7 +231,7 @@ Mufti – A jurist of the Muslim community responsible for expounding the law th
 
 > [caption] Fig. 15 – The trial of Warren Hastings, painted by R.G. Pollard, 1789
 
-> [table] When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
 
 <!-- page 22 (pdf 14) -->
 

@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/prelims.pdf"
 
 ## for Class VIII
 
-Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
+Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Berry Art Press, A-9, Mayapuri Industrial Area, Phase-I, New Delhi -110 064 The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 <!-- page 23 (pdf 2) -->
 
@@ -43,8 +43,6 @@ Saas SNe TART sla erfer fetaror fap sry IONAL RESEARCH AND EDUCAT ONAL COUNCI Th
 > [caption] Printed on 80 GSM paper with NCERT watermark
 
 > [table] Production Officer : A. M. Vinod Kumar
-
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Berry Art Press, A-9, Mayapuri Industrial Area, Phase-I, New Delhi -110 064
 
 > [caption] Cover and Layout
 

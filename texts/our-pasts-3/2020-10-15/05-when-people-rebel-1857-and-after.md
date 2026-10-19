@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch05.pdf"
 source_sha256: "de8ae9c59915023d2210a334c1280276b1843d70d86064be23536a559d86218e"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "e4e7736b9500431aa13f7a87e1b452cf62f1db31afcad37237ba5d736105def0"
+body_fingerprint: "eb292a83a5563de9b4a47764747aa77826f9a843345dc39465ed40387beded87"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -243,7 +243,7 @@ Imagine you are a British officer in Awadh during the rebellion. What would you 
 
 > [caption] Fig. 17 – Ruins of the Residency in Lucknow
 
-> [table] In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
+In June 1857, the rebel forces began the siege of the Residency. A large number of British women, men and children had taken shelter in the buildings there. The rebels surrounded the compound and bombarded the building with shells. Hit by a shell, Henry Lawrence, the Chief Commissioner of Awadh, died in one of the rooms that you see in the picture. Notice how buildings carry the marks of past events.
 
 ## Let’s recall
 

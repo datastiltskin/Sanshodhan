@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf"
 source_sha256: "43d8115e9b568aa69ae9c319ae37a78bd6e8f271f68b1f48519ba27604f78786"
 pdf_pages: 18
 printed_pages: "27-44"
-body_fingerprint: "433f9a0ce672c2c5ba85108afc95c3430042bf650a4da3c03125800af9204679"
+body_fingerprint: "7bcfdd054f62af0042c5a67a1b43244b1730fe2acbfa011b4adf60298fcd864a"
 ---
 
 <!-- page 27 (pdf 1) -->
@@ -60,7 +60,7 @@ What are some of the words in your local language that you use to describe the w
 
 The elements of weather are:
 
- Temperature: How hot or cold the atmosphere is.  Precipitation: Any form of water, such as rain, snow, sleet or hail, that falls from the sky.  Atmospheric Pressure: The weight of the air above us, felt on the Earth’s surface.  Wind: The movement of air, including its speed and direction.  Humidity: The amount of water vapour in the air.
+Temperature: How hot or cold the atmosphere is. Precipitation: Any form of water, such as rain, snow, sleet or hail, that falls from the sky. Atmospheric Pressure: The weight of the air above us, felt on the Earth’s surface. Wind: The movement of air, including its speed and direction. Humidity: The amount of water vapour in the air.
 
 ### THINK ABOUT IT
 
@@ -124,19 +124,19 @@ There are several types of thermometers. Some simply measure the ambient tempera
 
 Indeed, temperature recordings can be used to collect some useful statistics, including:
 
- Range of temperature or the maximum temperature minus the minimum temperature during a particular period of time (usually 24 hours).  Mean daily temperature or the maximum temperature plus the minimum temperature of the day divided by two.
+Range of temperature or the maximum temperature minus the minimum temperature during a particular period of time (usually 24 hours). Mean daily temperature or the maximum temperature plus the minimum temperature of the day divided by two.
 
 ### DON’T MISS OUT
 
-Æ The India Meteorological Department was set up in 1875. Its motto is ādityāt jāyate vriṣhti, which means, “From the sun arises rain.” The phrase comes from the ancient text Manusmṛiti, and the complete sentence reads, “From the sun arises rain, from rain comes food, and from food, living beings originate.”
+The India Meteorological Department was set up in 1875. Its motto is ādityāt jāyate vriṣhti, which means, “From the sun arises rain.” The phrase comes from the ancient text Manusmṛiti, and the complete sentence reads, “From the sun arises rain, from rain comes food, and from food, living beings originate.”
 
-Æ Can you think of a reason why rain arises from the sun?
+Can you think of a reason why rain arises from the sun?
 
 > [caption] Fig. 2.5
 
 ### LET’S EXPLORE
 
-Æ Here’s a chart of the temperatures of a city in Madhya Pradesh. What is the maximum temperature recorded in the week shown here? What is the minimum? Calculate the range.
+Here’s a chart of the temperatures of a city in Madhya Pradesh. What is the maximum temperature recorded in the week shown here? What is the minimum? Calculate the range.
 
 > [caption] Ambient:
 
@@ -170,7 +170,7 @@ Date
 
 06.03.2025 29 15
 
-Æ Remember the conversation between Krishnan and Amir? If Krishnan said it was 20°C in Chennai and he was feeling a little cold, he and Amir would have a measure they could understand. What do you think Amir’s reaction to Krishnan’s statement might be?
+Remember the conversation between Krishnan and Amir? If Krishnan said it was 20°C in Chennai and he was feeling a little cold, he and Amir would have a measure they could understand. What do you think Amir’s reaction to Krishnan’s statement might be?
 
 ## b) Precipitation
 
@@ -280,9 +280,9 @@ Before we move forward, we need to remember our Science lesson from Grade 6 abou
 
 ### LET’S REMEMBER
 
-Æ When water evaporates, it causes a cooling effect.
+When water evaporates, it causes a cooling effect.
 
-Æ If the amount of water in the air is already high (more humidity), water evaporates slowly. That is typically the case on a rainy day.
+If the amount of water in the air is already high (more humidity), water evaporates slowly. That is typically the case on a rainy day.
 
 Humidity of the air is measured as relative humidity: air that would contain absolutely no water vapour (which is impossible in natural conditions) is rated at 0%, while air saturated with water vapour will have a humidity of 100%. In practice, dry weather has a relative humidity range between 20% and 40%, while humid weather usually falls between 60% and 80% relative humidity.
 
@@ -368,27 +368,27 @@ Look carefully at the map of India above. This map was issued by the India Meteo
 
 ### LET’S EXPLORE
 
-Æ What do you observe happening on that day? What are the various weather conditions that the IMD is alerting people to?
+What do you observe happening on that day? What are the various weather conditions that the IMD is alerting people to?
 
-Æ Which states have warning signs?
+Which states have warning signs?
 
-Æ Which parts of India are likely to be free from severe weather?
+Which parts of India are likely to be free from severe weather?
 
-Æ Which states are likely to face heat wave conditions?
+Which states are likely to face heat wave conditions?
 
-Æ What are the causes for warning in Tripura and Lakshadweep?
+What are the causes for warning in Tripura and Lakshadweep?
 
 ## Before we move on ...
 
-Æ Temperature, humidity, precipitation, wind and atmospheric pressure together define the weather at a particular place.
+Temperature, humidity, precipitation, wind and atmospheric pressure together define the weather at a particular place.
 
-Æ The condition of these elements is measured using special instruments. Data collected from these help us to monitor and predict the weather.
+The condition of these elements is measured using special instruments. Data collected from these help us to monitor and predict the weather.
 
 <!-- page 42 (pdf 16) -->
 
-Æ In different times or situations, one of the elements is dominant — for example, rainfall in July, the temperature in May and December, atmospheric pressure when a cyclone is moving, and wind when a loo (strong, hot and dusty winds that blow in north India in summers) is blowing, or forest fires are spreading.
+In different times or situations, one of the elements is dominant — for example, rainfall in July, the temperature in May and December, atmospheric pressure when a cyclone is moving, and wind when a loo (strong, hot and dusty winds that blow in north India in summers) is blowing, or forest fires are spreading.
 
-Æ Weather is closely linked to climate. We will discuss this in the next chapter.
+Weather is closely linked to climate. We will discuss this in the next chapter.
 
 ## Questions and activities
 

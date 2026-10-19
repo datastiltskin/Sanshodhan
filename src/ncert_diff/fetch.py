@@ -216,7 +216,12 @@ def fetch_snapshot(book: Book, snap: Snapshot, *, log=print) -> list[FileRecord]
         except NotFound:
             log("  zip is a 404, falling back to per-chapter files")
             return _fetch_chapters(book, snap, directory, code, prefix, record, log)
-        members = unzip_book(zip_path, code, snap.part, log=log)
+        try:
+            members = unzip_book(zip_path, code, snap.part, log=log)
+        except zipfile.BadZipFile as exc:
+            # Archived as published: some NCERT zips are truncated or not zips at all.
+            log(f"  {zip_path.name} is not a readable zip ({exc}); kept for the record, nothing extracted")
+            members = []
         record(zip_path, snap.url, members)
         for member in members:
             # A member's provenance is the zip it came out of: the archived copy when there is one.

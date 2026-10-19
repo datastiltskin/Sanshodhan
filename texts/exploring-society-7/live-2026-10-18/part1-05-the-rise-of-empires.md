@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf"
 source_sha256: "f28e28634f62926ca8f00338cc3951e390ece3cd8557e6c871c043bbe3ea739d"
 pdf_pages: 34
 printed_pages: "83-116"
-body_fingerprint: "c19e7f51d9e880597b797bad088663061e6d2c8159b6373f712ed097446eb412"
+body_fingerprint: "33440579df30ff1f3bd9e7c2d5bbd7579caa922f8fd4ae6da42deabb6785dc04"
 ---
 
 <!-- page 83 (pdf 1) -->
@@ -102,7 +102,7 @@ Indian history is full of empires. They rose, expanded, lasted for a while, decl
 
 > [table] Maintains an army to keep the tributary states under control, le 2 an or protect it from outside aggression Designs and maintains an administration, with expand the empire 06 02 Maintains communication networks (roads, river and sea navigation) and officials to manage the territories, collect other infrastructure taxes, maintain law for administration,
 
-Emperor exerts central authority over the empire's tributary territories and kings Æ Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
+Emperor exerts central authority over the empire's tributary territories and kings Empires extended over vast areas and had diverse people with differing languages, customs and cultures. How do you think the emperors made sure that they lived in harmony? Discuss in groups and share your thoughts with the class.
 
 > [table] and order, etc.
 
@@ -112,13 +112,13 @@ Emperor exerts central authority over the empire's tributary territories and kin
 
 ### LET’S EXPLORE
 
-Æ Looking at the many challenges involved in managing an empire, why should a king be so keen to expand his kingdom into an empire and become an emperor? Here are a few possible answers; see if you can think of a few more:
+Looking at the many challenges involved in managing an empire, why should a king be so keen to expand his kingdom into an empire and become an emperor? Here are a few possible answers; see if you can think of a few more:
 
- An ambition to ‘rule the entire world’, a metaphor for controlling large territories and ensuring that they would be remembered for posterity;
+An ambition to ‘rule the entire world’, a metaphor for controlling large territories and ensuring that they would be remembered for posterity;
 
- A wish to bring large areas under control and gain access to their resources to build economic and military strength;
+A wish to bring large areas under control and gain access to their resources to build economic and military strength;
 
- A desire for great wealth for himself and for the empire.
+A desire for great wealth for himself and for the empire.
 
 In return for tribute and loyalty, emperors generally allowed regional kings or chiefs to continue to govern their areas.
 
@@ -206,9 +206,9 @@ Guilds spread over large parts of India and endured for centuries. Even after th
 
 ### LET’S EXPLORE
 
-Æ Observe the map of the trade routes. Identify geographical features that helped the traders travel across the Subcontinent.
+Observe the map of the trade routes. Identify geographical features that helped the traders travel across the Subcontinent.
 
-Æ What modes of transport on those roads do you think were available at the time?
+What modes of transport on those roads do you think were available at the time?
 
 ## The Rise of Magadha
 
@@ -226,9 +226,9 @@ Magadha was located in the resource-rich Ganga plains, with fertile land, abunda
 
 ### LET’S EXPLORE
 
-Æ Take a close look at the panel given above. How many types of weapons can you identify? What different uses of iron can you make out?
+Take a close look at the panel given above. How many types of weapons can you identify? What different uses of iron can you make out?
 
-Æ In the left part of the panel, a parasol (chhattra) is kept over the casket containing the Buddha’s relics. Why do you think this was done?
+In the left part of the panel, a parasol (chhattra) is kept over the casket containing the Buddha’s relics. Why do you think this was done?
 
 <!-- page 95 (pdf 13) -->
 
@@ -442,9 +442,9 @@ According to Kauṭilya, the saptānga together must create a settled, well-prot
 
 ### THINK ABOUT IT
 
- Kauṭilya says, “A king shall increase his power by promoting the welfare of his people, for power comes from the countryside which is the source of all economic activity. [The king] shall show special favours to those in the countryside who do things which benefit the people, such as building embankments or road bridges, beautifying villages, or helping to protect them.”
+Kauṭilya says, “A king shall increase his power by promoting the welfare of his people, for power comes from the countryside which is the source of all economic activity. [The king] shall show special favours to those in the countryside who do things which benefit the people, such as building embankments or road bridges, beautifying villages, or helping to protect them.”
 
- Why do you think it was important to take special care of the countryside? (Hint: Think back to what you have learnt at the beginning of this chapter)
+Why do you think it was important to take special care of the countryside? (Hint: Think back to what you have learnt at the beginning of this chapter)
 
 Kauṭilya’s central philosophy of governance is in tune with Indian values: “In the happiness of his subjects lies the king’s happiness; in their welfare his welfare. He shall not consider as good only that which pleases him but treat as beneficial to him whatever pleases his subjects.” In other words, however powerful a king may be, he must give first place to the people’s interests.
 
@@ -636,15 +636,15 @@ Empires are, therefore, something of a paradox. On the one hand, they can bring 
 
 ## Before we move on …
 
-Æ An empire is a large territory made up of many smaller kingdoms or territories. Emperors expanded their kingdoms mostly to gain fame, amass power, including military power, and control resources and economic life.
+An empire is a large territory made up of many smaller kingdoms or territories. Emperors expanded their kingdoms mostly to gain fame, amass power, including military power, and control resources and economic life.
 
-Æ The first empires of India emerged in regions blessed with abundant natural resources, rivers for irrigation and transport, and the production of a variety of goods for trade.
+The first empires of India emerged in regions blessed with abundant natural resources, rivers for irrigation and transport, and the production of a variety of goods for trade.
 
-Æ Alexander’s campaign in northwest India had a limited political impact but opened the door for Indo-Greek cultural contacts.
+Alexander’s campaign in northwest India had a limited political impact but opened the door for Indo-Greek cultural contacts.
 
-Æ The Mauryas created a vast empire with a legacy that lasted centuries. Their legacy includes strengthening trade routes and economic systems, extensive use of coins for trade, well-designed urban settlements, and an elaborate system of administration. They also promoted art and architecture.
+The Mauryas created a vast empire with a legacy that lasted centuries. Their legacy includes strengthening trade routes and economic systems, extensive use of coins for trade, well-designed urban settlements, and an elaborate system of administration. They also promoted art and architecture.
 
-Æ Aśhoka was keen to advertise his achievements and project the image of a benevolent ruler who encouraged his subjects to follow dharma.
+Aśhoka was keen to advertise his achievements and project the image of a benevolent ruler who encouraged his subjects to follow dharma.
 
 ## Questions and activities
 

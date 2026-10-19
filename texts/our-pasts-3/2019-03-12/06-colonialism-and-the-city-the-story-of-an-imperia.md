@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch06.pdf"
 source_sha256: "a655e345eacdcce5582249ca34f32c2fbc5d1defa2dea7606f82e875f0c519d9"
 pdf_pages: 14
 printed_pages: "65-78"
-body_fingerprint: "a8f7230ab853cb1ee6c21885e61cb447f8afb35b07fc5a9fa1adda635ee2e7de"
+body_fingerprint: "7daa70cd78c86e4c90deaf0239ee110f1201acb5fc3947a0d232833895175c4c"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -38,13 +38,13 @@ Urbanisation – The process by which more and more people begin to reside in to
 
 The historic imperial city of Delhi became a dusty provincial town in the nineteenth century before it was rebuilt as the capital of British India after 1912. Let us look at the story of Delhi to see what happened to it under colonial rule.
 
-How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most important are the capital cities built between the twelfth and seventeenth centuries.
+How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
 
 <!-- page 67 (pdf 3) -->
 
 > [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858
 
-> [table] You can see the Red Fort on the left. Notice the walls that surround the city. Through the centre runs the main road of Chandni Chowk. Note also the river Jamuna is flowing near the Red Fort. Today it has shifted course. The place where the boat is about to embank is now known as Daryaganj (darya means river, ganj means market)
+important are the capital cities built between the twelfth and seventeenth centuries.
 
 The most splendid capital of all was built by Shah Jahan. Shahjahanabad was begun in 1639 and consisted of a fort-palace complex and the city adjoining it. Lal Qila or the Red Fort, made of red sandstone, contained the palace complex. To its west lay the Walled City with 14 gates. The main streets of Chandni Chowk and Faiz Bazaar were broad enough for royal processions to pass. A canal ran down the centre of Chandni Chowk.
 

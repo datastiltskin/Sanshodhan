@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch07.pdf"
 source_sha256: "80c2022b9e949f14fcf7b33582c56bcc6de0e793b3ffdaec6a2174a61072aee6"
 pdf_pages: 13
 printed_pages: "81-93"
-body_fingerprint: "ec67081cb98a152f20a0dd0013d384fd6dd1dc56cf5568a01bcbbb50d48bd59a"
+body_fingerprint: "6a365bbf3987cafa7453b12fa48d4cc10564b9d290e0dfd9ada95dd71db28a05"
 ---
 
 <!-- page 81 (pdf 1) -->
@@ -49,7 +49,7 @@ With this object in view a madrasa was set up in Calcutta in 1781 to promote the
 
 > [caption] Fig. 3 Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
 
-> [table] This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
+This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
 Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
@@ -147,7 +147,7 @@ Activity 1. Imagine you were born in a poor family in the 1850s. How would you h
 
 > [caption] Fig. 9 Fig. 9 – Sri Aurobindo Ghose
 
-> [table] In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
+In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
 
 ### New routines, new rules
 

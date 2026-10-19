@@ -27,6 +27,10 @@ HORIZONTAL = (1.0, 0.0)
 CHAPTER_NUMBER = re.compile(r"^(\d{1,2})\b|\b(\d{1,2})$")
 SESSION_LABEL = re.compile(r"(Reprint|Rationalised)?\s*20\d\d-\d\d")  # "2018-19" print-run footers
 UNREADABLE = "[unreadable]"  # text set in a font without a Unicode map comes out as blanks
+# Headings that label a unit or chapter rather than name it. Not titles, not evidence of a chapter opener.
+LABEL_HEADING = re.compile(r"^(unit\s+\w+|chapter\s*\d*|contents|notes|teacher[’']s note)[\s:.-]*$", re.IGNORECASE)
+ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE)
+CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)", re.IGNORECASE)
 FOOTER_BAND = 0.86  # fraction of page height below which small text is a footer
 HEADER_BAND = 0.06
@@ -217,6 +221,11 @@ def blocks_from_dict(textpage: dict) -> list[Block]:
         flags: Counter = Counter()
         texts: list[str] = []
         max_size = 0.0
+        for ln in lines:
+            # Icon fonts carry activity glyphs ("Q" in Webdings is a question-mark bubble), not words.
+            ln["spans"] = [sp for sp in ln["spans"] if not ICON_FONT.search(sp["font"])]
+            for sp in ln["spans"]:
+                sp["text"] = decode_symbol_font(sp["text"])
         for spans in _dedupe_shadow_spans(lines):
             joined = _join_spans(spans)
             if not joined.strip() and any(len(sp["text"]) >= 3 and sp["bbox"][2] - sp["bbox"][0] > 20 for sp in spans):
@@ -244,6 +253,20 @@ def blocks_from_dict(textpage: dict) -> list[Block]:
     return out
 
 
+def decode_symbol_font(text: str) -> str:
+    """Some files (the 2022-23 Social and Political Life III) map body text to the private-use
+    range U+F020 to U+F0FF, one code per Windows-1252 byte. Translate it back."""
+    if not any("\uf020" <= ch <= "\uf0ff" for ch in text):
+        return text
+    out = []
+    for ch in text:
+        if "\uf020" <= ch <= "\uf0ff":
+            out.append(bytes([ord(ch) - 0xF000]).decode("cp1252", "replace"))
+        else:
+            out.append(ch)
+    return "".join(out)
+
+
 def _join_spans(spans: list[dict]) -> str:
     """Concatenate span texts, adding a space where a huge glyph abuts normal text ("2" + "NEW")."""
     out = ""
@@ -260,13 +283,22 @@ def _join_spans(spans: list[dict]) -> str:
 
 
 def font_profile(pages_blocks: list[list[Block]]) -> float:
-    """The body text size of a document: the commonest size (by characters) among plain blocks."""
+    """The body text size of a document.
+
+    Among plain prose blocks, the largest size that carries at least a quarter of the
+    characters. "Largest" rather than "commonest" because a long teacher's note or glossary
+    set a point or two smaller can outweigh the body text in a short chapter, and the body
+    text is never the smaller of two prose sizes."""
     sizes: Counter = Counter()
     for blocks in pages_blocks:
         for b in blocks:
             if not b.bold and 9.0 <= b.size <= 14.5 and len(b.text) > 60:
                 sizes[b.size] += len(b.text)
-    return sizes.most_common(1)[0][0] if sizes else DEFAULT_BODY_SIZE
+    if not sizes:
+        return DEFAULT_BODY_SIZE
+    total = sum(sizes.values())
+    big = [size for size, n in sizes.items() if n >= 0.25 * total]
+    return max(big) if big else sizes.most_common(1)[0][0]
 
 
 SIDE_FONTS = ("Lucida", "Courier")  # fonts the books reserve for side notes and activity boxes
@@ -301,10 +333,12 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         if b.size >= 2 * body_size and len(b.text) <= 2 and not b.text.isdigit():
             b.role = "dropcap"
             continue
-        if b.max_size >= 2 * body_size and CHAPTER_NUMBER.search(b.text) and b.y0 < TITLE_BAND * height:
+        if (b.max_size >= 2 * body_size and CHAPTER_NUMBER.search(b.text) and b.y0 < TITLE_BAND * height) or (
+            CHAPTER_LABEL.match(b.text) and b.size >= body_size + 2 and b.y0 < TITLE_BAND * height
+        ):
             b.role = "chapter-number"
             continue
-        if b.size >= body_size + 2.5:
+        if b.size >= body_size + 2.5 and len(b.text) <= 160:
             letters = sum(ch.isalpha() for ch in b.text)
             if letters >= 2:
                 b.role = "h2"
@@ -313,8 +347,8 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
             else:
                 b.role = "decoration"
             continue
-        if b.bold and b.size >= body_size + 0.8:
-            b.role = "h3"
+        if b.bold and b.size >= body_size + 0.8 and len(b.text) <= 120:
+            b.role = "h3"  # headings are short; some fonts report every weight as bold
             continue
         if "Corsiva" in b.font:
             b.role = "source"
@@ -331,8 +365,8 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         if side_font and delta > -0.6:
             b.role = "note"
             continue
-        if delta <= 1.4:
-            b.role = "body"  # body text, or the slightly smaller exercise questions
+        if delta <= 1.4 or len(b.text) > 200:
+            b.role = "body"  # body text, smaller exercise questions, or a long note set smaller
             continue
         b.role = "table"
     return printed
@@ -370,7 +404,7 @@ def has_text_layer(pdf_path: Path, min_chars_per_page: int = 200) -> bool:
 
 def read_pages(pdf_path: Path) -> list[Page]:
     pages, _ = _read_all_pages(pdf_path)
-    return pages[title_page_position(pages):]
+    return pages[first_kept_page(pages):]
 
 
 def split_into_chapters(pages: list[Page]) -> list[list[Page]]:
@@ -439,8 +473,28 @@ def title_page_position(pages: list[Page]) -> int:
     return 0
 
 
+def first_kept_page(pages: list[Page]) -> int:
+    """Leading pages to skip: a stray last page of the previous chapter (only body text and
+    activity headings), or a contents page bound into the first chapter file. A unit opener
+    or a teacher's note before the chapter title is part of the chapter and is kept."""
+    opener = title_page_position(pages)
+    keep_from = opener
+    for pos in range(opener - 1, -1, -1):
+        p = pages[pos]
+        heads = [b for b in p.blocks if b.role == "h2"]
+        if heads and re.match(r"^contents$", heads[0].text.strip(), re.IGNORECASE):
+            break  # a contents page: it and anything before it belong to the prelims
+        if not heads:
+            break  # body text only: the previous chapter's tail
+        keep_from = pos
+    return keep_from
+
+
 def split_number_and_title(text: str) -> tuple[str | None, str | None]:
-    """'4' -> ('4', None). '2 NEW KINGS' -> ('2', 'NEW KINGS'). 'TOWNS 6' -> ('6', 'TOWNS')."""
+    """'4' -> ('4', None). '2 NEW KINGS' -> ('2', 'NEW KINGS'). 'TOWNS 6' -> ('6', 'TOWNS'). 'Chapter 4' -> ('4', None)."""
+    m = CHAPTER_LABEL.match(text.strip())
+    if m:
+        return m.group(1), None
     m = re.match(r"^(\d{1,2})\s*(.*)$", text)
     if m:
         return m.group(1), (m.group(2).strip() or None)
@@ -462,7 +516,7 @@ def chapter_title(pages: list[Page]) -> tuple[str | None, str | None]:
             number, title = split_number_and_title(b.text)
             break
     if title is None:
-        heads = sorted((b for b in page.blocks if b.role == "h2"), key=lambda b: b.y0)
+        heads = sorted((b for b in page.blocks if b.role == "h2" and not LABEL_HEADING.match(b.text.strip())), key=lambda b: b.y0)
         if heads:
             title = heads[0].text
             m = re.match(r"^(\d{1,2})\s+(.*)$", title)
@@ -493,6 +547,7 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
     pending_body: str | None = None  # body paragraph that may continue past side blocks or a page break
     deferred: list[str] = []  # side blocks and page markers met while a paragraph was pending
     pending_dropcap: str | None = None
+    first_heading_done = False  # the chapter title gets "#", wherever in the file it falls
 
     def emit(*items: str) -> None:
         target = deferred if pending_body is not None else lines
@@ -514,7 +569,6 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
             else f"<!-- pdf page {page.index + 1} -->"
         )
         emit(marker, "")
-        first_heading_done = page.index != pages[0].index
         for b in _reading_order(page.blocks, width):
             if b.role in ("footer", "decoration"):
                 continue
@@ -541,8 +595,11 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
                 continue
             if b.role == "h2":
                 flush()
-                level = "#" if not first_heading_done else "##"
-                first_heading_done = True
+                if first_heading_done or LABEL_HEADING.match(b.text.strip()):
+                    level = "##"
+                else:
+                    level = "#"
+                    first_heading_done = True
                 lines.extend((f"{level} {b.text}", ""))
                 continue
             if b.role == "h3":
@@ -588,7 +645,7 @@ def _merge_split_asides(lines: list[str]) -> list[str]:
 def extract_chapter(pdf_path: Path) -> tuple[str, dict]:
     """Markdown body and metadata for one chapter PDF."""
     pages, width = _read_all_pages(pdf_path)
-    return _render(pages[title_page_position(pages):], width)
+    return _render(pages[first_kept_page(pages):], width)
 
 
 def extract_whole_book(pdf_path: Path) -> list[tuple[str, dict]]:

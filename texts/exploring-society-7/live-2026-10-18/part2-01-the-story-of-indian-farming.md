@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch01.pdf"
 source_sha256: "6960d2e231f67d3c6e189c3c30cf25ec1958c31a6a248424d7ac0b0c565a550e"
 pdf_pages: 28
 printed_pages: "1-28"
-body_fingerprint: "851b4d74cea617f4252100f751b829f415be3dfd10c931f51d298a9b52e62618"
+body_fingerprint: "4927cecc4207cf4617d514ff04740ad268785400f7f471ca5df9950beec858a0"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -116,19 +116,19 @@ This was a sharp observation of India’s climatic diversity. In Part 1 of this 
 
 The types of climates in India are:
 
-Æ Alpine – the Himalayas
+Alpine – the Himalayas
 
-Æ Temperate – the lower Himalayas
+Temperate – the lower Himalayas
 
-Æ Subtropical – the northern plains
+Subtropical – the northern plains
 
-Æ Arid – the Thar Desert
+Arid – the Thar Desert
 
-Æ Tropical wet – western coastal strip
+Tropical wet – western coastal strip
 
-Æ Semi-arid – central Deccan Plateau
+Semi-arid – central Deccan Plateau
 
-Æ Tropical – eastern India and the southern peninsula Each of these areas receives different quantities of sunshine and rainfall, experiences variations in the temperatures across the seasons, and is affected differently by the monsoons.
+Tropical – eastern India and the southern peninsula Each of these areas receives different quantities of sunshine and rainfall, experiences variations in the temperatures across the seasons, and is affected differently by the monsoons.
 
 India is divided into 15 agroclimatic zones. In simple terms, climate factors, different types of soil and terrain, and types of vegetation are combined to create these categories. This categorisation helps the government and other agencies identify and plan appropriate actions to improve agricultural production — what, when, and how to grow different crops. A few examples of agroclimatic zones are the Upper Gangetic Plain Region, Southern Plateau and Hills Region, and Western Dry Region.
 
@@ -218,11 +218,11 @@ India has a diverse range of soil types, each with its distinct properties. Anci
 
 ### LET’S EXPLORE
 
-Æ Try to name at least two states in each of the zones mentioned above.
+Try to name at least two states in each of the zones mentioned above.
 
-Æ Which type of soil is predominantly found in your state or union territory?
+Which type of soil is predominantly found in your state or union territory?
 
-Æ Soils tell us stories about places — what might have happened over thousands of years during which the soils were being formed. Take a few samples of soil from your neighbourhood. Look carefully at them. (Examine the soil using a magnifying glass or microscope if you have access to either.) What do the samples consist of? What might be the origins of the soil? Are there signs of human activity that you notice? What might happen to the soil over time on account of this?
+Soils tell us stories about places — what might have happened over thousands of years during which the soils were being formed. Take a few samples of soil from your neighbourhood. Look carefully at them. (Examine the soil using a magnifying glass or microscope if you have access to either.) What do the samples consist of? What might be the origins of the soil? Are there signs of human activity that you notice? What might happen to the soil over time on account of this?
 
 ## Soil-crop linkages
 
@@ -230,9 +230,9 @@ In addition to the agroclimatic conditions that we briefly saw above, crops are 
 
 ### LET’S EXPLORE
 
-Æ Take up a small group project. Identify the types of vegetables, fruits, and trees that grow in the different soil types.
+Take up a small group project. Identify the types of vegetables, fruits, and trees that grow in the different soil types.
 
-Æ Create a family food flowchart that connects your favourite dishes to the different crops they are prepared from and the corresponding soil types in which they are cultivated.
+Create a family food flowchart that connects your favourite dishes to the different crops they are prepared from and the corresponding soil types in which they are cultivated.
 
 <!-- page 12 (pdf 12) -->
 
@@ -274,13 +274,13 @@ In addition to the agroclimatic conditions that we briefly saw above, crops are 
 
 Healthy soil is crucial for a good harvest. Soil is a complex ecosystem with organisms like bacteria, fungi, earthworms, and insects. It has minerals, organic matter (humus), water, and air. The organisms break down the organic material and improve the health of the soil enabling it to sustain healthy plants. To maintain its health and fertility, farmers use various soil conservation techniques.
 
- Traditional methods: Our ancestors employed numerous ingenious techniques to protect the soil. Crop rotation is one such method, where different types of crops are grown in the same field in different seasons to prevent the soil from losing specific nutrients. Equally important was multiple cropping where multiple crops were grown in the same field. This reduced the risk of pests and also ensured at least one crop. The crops were chosen in such a way that there would be periodic harvests from the same field. Another practice is contour ploughing, which involves ploughing along the natural curves of a hill slope to avoid soil erosion from rainwater. Farmers also used organic fertilisers, such as cow dung, to replenish the soil’s nutrients.
+Traditional methods: Our ancestors employed numerous ingenious techniques to protect the soil. Crop rotation is one such method, where different types of crops are grown in the same field in different seasons to prevent the soil from losing specific nutrients. Equally important was multiple cropping where multiple crops were grown in the same field. This reduced the risk of pests and also ensured at least one crop. The crops were chosen in such a way that there would be periodic harvests from the same field. Another practice is contour ploughing, which involves ploughing along the natural curves of a hill slope to avoid soil erosion from rainwater. Farmers also used organic fertilisers, such as cow dung, to replenish the soil’s nutrients.
 
 ### DON’T MISS OUT
 
 Did you know that panchagavya is a fermented mixture of five cow products: dung, urine, milk, curd, and ghee? Recent studies have shown that it acts as a biofertiliser, enhancing crop growth and productivity while increasing their resistance to diseases.
 
- Contemporary approaches: Today, modern techniques such as terracing are used in hilly areas to create flat steps for farming, which slows down water runoff and reduces soil erosion. Afforestation, or planting trees, is another method that helps to prevent soil erosion. Some traditional methods like mulching, ploughing back crop residue, are still practised by farmers today. Very precise application of fertilisers enables their efficient use and also maintains soil health.
+Contemporary approaches: Today, modern techniques such as terracing are used in hilly areas to create flat steps for farming, which slows down water runoff and reduces soil erosion. Afforestation, or planting trees, is another method that helps to prevent soil erosion. Some traditional methods like mulching, ploughing back crop residue, are still practised by farmers today. Very precise application of fertilisers enables their efficient use and also maintains soil health.
 
 > [caption] Soil conservation:
 
@@ -318,7 +318,7 @@ Some traditional irrigation systems include phad systems, and bamboo drip irriga
 
 > [caption] Fig. 1.14. Bamboo irrigation system used in
 
- Phad systems are community-based irrigation systems, particularly found in the state of Maharashtra. These systems use small canals to divert river water to fields.  Bamboo drip irrigation is practised in parts of northeastern India. Here, farmers traditionally use bamboo pipes to channel water from springs to their fields.
+Phad systems are community-based irrigation systems, particularly found in the state of Maharashtra. These systems use small canals to divert river water to fields. Bamboo drip irrigation is practised in parts of northeastern India. Here, farmers traditionally use bamboo pipes to channel water from springs to their fields.
 
 > [caption] northeast India
 
@@ -328,7 +328,7 @@ In Part 1 of this textbook, you became familiar with Kallanai, the grand anicut,
 
 Over time, irrigation has evolved from simple systems to more advanced ones. Modern irrigation techniques include drip and sprinkler irrigation.
 
- Drip irrigation, also known as trickle irrigation, delivers water slowly and directly to the plant’s roots through a network of tubes and emitters.
+Drip irrigation, also known as trickle irrigation, delivers water slowly and directly to the plant’s roots through a network of tubes and emitters.
 
 <!-- page 18 (pdf 18) -->
 
@@ -338,7 +338,7 @@ Imagine a network of small pipes with tiny holes placed near the base of your pl
 
 > [caption] Fig. 1.15. Drip irrigation to reach water efficiently to plants
 
- Sprinkler irrigation sprays water into the air, which falls over the crops like artificial rain.
+Sprinkler irrigation sprays water into the air, which falls over the crops like artificial rain.
 
 These modern methods help in using water more efficiently. This is very necessary as in many parts of India, groundwater reserves are fast decreasing. The evolution of irrigation has had a significant impact on India’s agricultural landscape, enabling farming even in areas with low rainfall. It has helped to increase crop yields and ensure a more stable food supply for the country.
 
@@ -382,17 +382,17 @@ ICAR has documented almost 5000 traditional practices and tested over a hundred 
 
 Traditional farming systems are usually aligned with natural cycles, such as the ṛitu chakra (cycle of seasons), and often rely on family involvement and domestic animals. Examples include kulāgar and gokṛiṣhi.
 
- Kulāgar: This term comes from the Konkani words ‘kula’ meaning ‘family’ and ‘āgar’ meaning ‘storehouse’. It is a traditional homestead farming system where families cultivate a variety of crops, including food crops, cash crops, fruits, vegetables, spices, and medicinal plants, around their homes by designing a structured irrigated system. This practice is common in the Konkan Plains (Goa) of India.
+Kulāgar: This term comes from the Konkani words ‘kula’ meaning ‘family’ and ‘āgar’ meaning ‘storehouse’. It is a traditional homestead farming system where families cultivate a variety of crops, including food crops, cash crops, fruits, vegetables, spices, and medicinal plants, around their homes by designing a structured irrigated system. This practice is common in the Konkan Plains (Goa) of India.
 
 <!-- page 21 (pdf 21) -->
 
- Gokṛiṣhi: This is a holistic method in which cows provide manure, which is used as organic fertiliser, and bullocks are used to plough the fields.
+Gokṛiṣhi: This is a holistic method in which cows provide manure, which is used as organic fertiliser, and bullocks are used to plough the fields.
 
 ## Contemporary agriculture
 
 Contemporary agriculture is characterised by modern farming methods that use technology, machinery, and new farming techniques. A significant turning point was the Green Revolution in the 1960s and 1970s. This movement introduced:
 
- high-yielding varieties (HYV) of seeds,  increased irrigation,  chemical fertilisers and pesticides, and  mechanised equipment, among others.
+high-yielding varieties (HYV) of seeds, increased irrigation, chemical fertilisers and pesticides, and mechanised equipment, among others.
 
 This revolution led to a significant increase in food grain production, particularly of wheat and rice, and India achieved self-sufficiency in food. Modern farms started using tractors, harvesters, and other machinery to make work faster and easier. Since then, agriculture has emerged as the ‘backbone of the Indian economy’.
 
@@ -478,21 +478,21 @@ Such challenges and a few more have often led farmers to take loans in times of 
 
 ## Before we move on …
 
-Æ Indian agriculture blends traditional and modern methods, involving crops, livestock, forestry, and more.
+Indian agriculture blends traditional and modern methods, involving crops, livestock, forestry, and more.
 
-Æ Agriculture in India is connected with its diverse climates and the monsoons, with three cropping seasons: kharif, rabi, and zaid.
+Agriculture in India is connected with its diverse climates and the monsoons, with three cropping seasons: kharif, rabi, and zaid.
 
-Æ Six major soil types influence which crops are grown. Soil health is key to flourishing and sustainable farming.
+Six major soil types influence which crops are grown. Soil health is key to flourishing and sustainable farming.
 
 <!-- page 27 (pdf 27) -->
 
-Æ Seeds are passed down traditionally or bought as high-yield varieties from companies. This sometimes creates dependence on companies for seeds.
+Seeds are passed down traditionally or bought as high-yield varieties from companies. This sometimes creates dependence on companies for seeds.
 
-Æ Sustainable farming combines modern technology with eco-friendly practices, such as efficient irrigation.
+Sustainable farming combines modern technology with eco-friendly practices, such as efficient irrigation.
 
-Æ Farmers face challenges like small landholdings, climate change, non-affordability of modern equipment, and market challenges.
+Farmers face challenges like small landholdings, climate change, non-affordability of modern equipment, and market challenges.
 
-Æ The government helps through access to information, research and training, as well as different types of financial support.
+The government helps through access to information, research and training, as well as different types of financial support.
 
 ## Questions and activities
 

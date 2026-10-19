@@ -7,7 +7,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-prelims.pdf"
 
 <!-- pdf page 1 -->
 
-# Contents
+## Contents
 
 Foreword iii
 

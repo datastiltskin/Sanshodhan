@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch04.pdf"
 source_sha256: "dd093909165e906dccd974513391c6d3c833d032ee5b18cf612637968f36a7aa"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "c1c849b549c27de9a55a1c0b91476c610850c782af8812c037b69b2181c98d02"
+body_fingerprint: "7863b950f88d6c8b3eb9542db85e4728ab6736e58bdf4158caf918f471f60391"
 ocr: true
 ocr_confidence: 93.1
 ---
@@ -27,15 +27,15 @@ Ruling as large a territory as the Indian subcontinent with such a diversity of 
 
 ## Who were the Mughals?
 
-The Mughals were descendants of two great lineages of rulers. From their mother’s side they were descendants of Genghis Khan (died 1227), the Mongol ruler who ruled over parts of China and Central Asia. From their father’s side they were the successors of Timur (died 1404), the ruler of Iran, Iraq and modern-day Turkey. However, the Mughals did not like to be called Mughal or Mongol. This was because Genghis Khan’s memory was associated with the massacre of innumerable people. It was also linked with the Uzbegs, their Mongol competitors. On the other hand, the Mughals were proud of their Timurid ancestry, not least of all because their great ancestor had captured Delhi in 1398.
+The Mughals were descendants of two great lineages of rulers. From their mother’s side they were descendants of Genghis Khan (died 1227), the Mongol ruler who ruled over parts of China and Central Asia. From their father’s side they were the successors of Timur (died 1404), the ruler of Iran, Iraq and modern-day Turkey. However, the Mughals did not like to be called Mughal or Mongol. This was because Genghis Khan’s memory was associated with the massacre of innumerable people. It was also linked with the Uzbegs, their Mongol competitors. On the other hand, the Mughals were A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
 
 > [table] Fig. 2
-
-> [table] A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
 
 > [note] Do you think this painting suggests that the Mughals claimed kingship as a birthright?
 
 <!-- page 47 (pdf 3) -->
+
+proud of their Timurid ancestry, not least of all because their great ancestor had captured Delhi in 1398.
 
 They celebrated their genealogy pictorially, each ruler getting a picture made of Timur and himself. Take a look at Figure 2, which is somewhat like a “group photograph”.
 
@@ -69,15 +69,11 @@ Major campaigns and events
 
 > [caption] HUMAYUN 1530-1540, 1555-1556
 
-> [table] * (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his: brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. ‘
+* (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his: brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. ‘ AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa. These campaigns were complicated by the
 
 > [table] _ (2) In Iran Humayun received help from the Safavid Shah. 4 § He recaptured Delhi in 1555 but died the next year after ye an accident in this building.
 
-AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent
-
-> [table] Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa. These campaigns were complicated by the
-
-> [table] + 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 - expansion of Akbar’s empire. Campaigns - were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Anmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince paling, the future Emperor Jahangir.
++ 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 - expansion of Akbar’s empire. Campaigns - were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Anmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince paling, the future Emperor Jahangir.
 
 <!-- page 49 (pdf 5) -->
 
@@ -87,11 +83,9 @@ AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be 
 
 Military campaigns started by Akbar continued.
 
-The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E
+The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.
 
 > [caption] Shah Jahan 1627-1658
-
-> [table] Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.
 
 > [table] Aurangzeb 1658-1707
 
@@ -115,7 +109,7 @@ The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successfu
 
 <!-- page 50 (pdf 6) -->
 
-## Kabul = a | Saar Ses Om (| \RASHIIIR © Qandahar /Lahore oy ie ee x PUNJAB) 10 a L re Panipat (a ) a I Delhi ( te See \ imer Fate! kh, 2, ~~ _ — >) sino - a BAN aK, a, "amy { LJ Chairs Rantha ta ~ ~ OT Batter ahaa | awa ‘4 BENG rh y 0g Oe GONDWANA fol p SN ee , a? aia / BERAR [{ _J.0r'ssi \ me ( ae ~. ao } ARABIAN > ae ae ai of BAY OF SEA “2d BENGAI ea ages
+Kabul = a | Saar Ses Om (| \RASHIIIR © Qandahar /Lahore oy ie ee x PUNJAB) 10 a L re Panipat (a ) a I Delhi ( te See \ imer Fate! kh, 2, ~~ _ — >) sino - a BAN aK, a, "amy { LJ Chairs Rantha ta ~ ~ OT Batter ahaa | awa ‘4 BENG rh y 0g Oe GONDWANA fol p SN ee , a? aia / BERAR [{ _J.0r'ssi \ me ( ae ~. ao } ARABIAN > ae ae ai of BAY OF SEA “2d BENGAI ea ages
 
 ## Mughal Traditions of Succession
 
@@ -241,7 +235,7 @@ Kings and queens
 
 > [table] There were several great monarchs - all near-contemporaries - in different parts of the world in the sixteenth century.
 
-> [table] These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
+These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
 
 Find out more about Akbar’s other contemporaries - the ruler of Imagine You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 

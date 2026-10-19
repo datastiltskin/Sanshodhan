@@ -16,55 +16,31 @@ cla Siar PAA SR TART fap sry f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 <!-- page 25 (pdf 2) -->
 
-> [table] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8
+> [caption] PD 600T SU
 
-> [caption] First Edition April 2007  Vaisakha 1929
+> [table] ` 65.00
 
-> [caption] ALL RIGHTS RESERVED
+> [caption] 0760 – Our Pasts — II Textbook for Class VII ISBN 81-7450-724-8 First Edition April 2007  Vaisakha 1929 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption]  No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] Reprinted November 2007, January 2009, December 2009, November 2010, January 2012, March 2012, October 2013, December 2014, December 2015, December 2016, December 2017, January 2019, August 2019, March 2021, July 2021 and November 2021 This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
-> [caption] Reprinted November 2007, January 2009, December 2009, November 2010, January 2012, March 2012, October 2013, December 2014, December 2015, December 2016, December 2017, January 2019, August 2019, March 2021, July 2021 and November 2021
-
-> [caption]  This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
-
-> [caption]  The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION
 
 > [caption] DIVISION, NCERT
 
-> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Revised Edition May 2022 Jyestha 1944 Reprinted March 2024 Chaitra 1946 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
-
-> [table] PD 600T SU
-
-> [caption] CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
+> [caption] NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Revised Edition May 2022 Jyestha 1944 Reprinted March 2024 Chaitra 1946 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446 CWC Campus Opp. Dhankal Bus Stop Panihati Kolkata 700 114 Phone : 033-25530454
 
 > [caption] © National Council of Educational
 
 > [caption] Research and Training, 2007, 2022
 
-> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869
+> [caption] CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Publication Team Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Amitabh Kumar Manager (In charge)
 
-> [table] Publication Team
+> [caption] Assistant Editor : Shashi Chadha
 
-> [table] Head, Publication : Anup Kumar Rajput Division
-
-> [table] ` 65.00
-
-> [table] Chief Editor : Shveta Uppal
-
-> [table] Chief Production : Arun Chitkara Officer
-
-> [table] Chief Business : Amitabh Kumar Manager (In charge)
-
-> [table] Assistant Editor : Shashi Chadha
-
-> [table] Assistant Production : Rajesh Pippal Officer
-
-> [caption] Printed on 80 GSM paper with NCERT watermark
-
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Rohan Pragya Printing & Packing Pvt. Ltd., H-76, Site-V, UPSIDC, Kasna, Greater Noida, G.B. Nagar (U.P.)
+> [caption] Assistant Production : Rajesh Pippal Officer Printed on 80 GSM paper with NCERT watermark Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Rohan Pragya Printing & Packing Pvt. Ltd., H-76, Site-V, UPSIDC, Kasna, Greater Noida, G.B. Nagar (U.P.)
 
 > [caption] Cover and Layout
 
@@ -118,21 +94,29 @@ This present edition, is a reformatted version after carrying out the changes gi
 
 > [caption] Chairperson, Advisory Committee for Textbooks in Social Science
 
-for the Secondary Stage Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Kunal Chakrabarti, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sunil Kumar, Reader, Department of History, Delhi University, Delhi Anil Sethi, Former Professor, DESS, NCERT, New Delhi Bhairavi Prasad Sahu, Professor and Head, Department of History, Delhi University, Delhi Chetan Singh, Professor, Department of History, Himachal Pradesh University, Shimla, H.P.
+> [table] for the Secondary Stage Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata
 
 > [caption] Chief Advisor
 
+> [table] Neeladri Bhattacharya, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
+
 > [caption] Advisor
+
+> [table] Kunal Chakrabarti, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sunil Kumar, Reader, Department of History, Delhi University, Delhi
 
 > [caption] Team Members
 
-C. N. Subramaniam, Director, Eklavya, Kothi Bazar, Hoshangabad, Madhya Pradesh Farhat Hasan, Reader, Department of History, Aligarh Muslim University, Aligarh, U.P.
+> [table] Anil Sethi, Former Professor, DESS, NCERT, New Delhi Bhairavi Prasad Sahu, Professor and Head, Department of History, Delhi University, Delhi Chetan Singh, Professor, Department of History, Himachal Pradesh University, Shimla, H.P.
 
-Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerala Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Reetu Singh, Lecturer, DESS, NCERT, New Delhi This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
+> [table] C. N. Subramaniam, Director, Eklavya, Kothi Bazar, Hoshangabad, Madhya Pradesh Farhat Hasan, Reader, Department of History, Aligarh Muslim University, Aligarh, U.P.
+
+> [table] Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerala Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
 
 <!-- page 25 (pdf 8) -->
 
 ### acknowledgements
+
+This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
 Professors J.S. Grewal, member of the NCERT Monitoring Committee and Muzaffar Alam of the University of Chicago commented on several chapters and very generously responded to all our queries. Professor Ebba Koch of the University of Vienna was kind enough to give us permission to use many of her photographs and illustrations. We are indebted to Dr. Meera Khare of PGDAV College, Delhi University, for her promptness in responding to our questions and providing us help with information and visuals.
 
@@ -194,21 +178,21 @@ Additional Information
 
 Definition Box Some chapters contain definitions.
 
-Many chapters contain boxes with interesting, additional information.
+> [note] Many chapters contain boxes with interesting, additional information.
 
-## Source Box 
+## Source Box
 
-Many chapters contain a portion from a source, clues from which historians write history. Read these carefully, and discuss the questions they contain.
+> [note] Many chapters contain a portion from a source, clues from which historians write history. Read these carefully, and discuss the questions they contain.
 
-Many of our sources are visual. Each illustration has a story to tell.
+> [note] Many of our sources are visual. Each illustration has a story to tell.
 
-In each chapter there are intext questions and activities that are highlighted. Spend some time discussing these as you go along.
+> [note] In each chapter there are intext questions and activities that are highlighted. Spend some time discussing these as you go along.
 
 You will also find maps. Look at these and try to locate the places mentioned in the lessons.
 
 <!-- page 25 (pdf 13) -->
 
-### Imagine 
+### Imagine
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 

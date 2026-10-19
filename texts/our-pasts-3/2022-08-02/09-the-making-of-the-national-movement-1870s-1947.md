@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch09.pdf"
 source_sha256: "f6797108c98eb63048e708cc7091aa9fe4e42507f38e628c8e07f7ee2d41ab51"
 pdf_pages: 19
 printed_pages: "109-127"
-body_fingerprint: "1446826c4e945bed8d363eb14ea9ab8110f1a0df2f0e6a220fe1b9f730daaac0"
+body_fingerprint: "cc7a25b5c95685c525d7af850330821fe37badb2699ef917666750ab7fbd20f1"
 ---
 
 <!-- page 109 (pdf 1) -->
@@ -189,11 +189,11 @@ Non-violence comes to us through doing good continually without the slightest ex
 
 > [table] 12 March 1938
 
-Picket – People protesting outside a building or shop to prevent others from entering Mahants Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent Fig. 8 Fig. 8 – A popular representation of Mahatma Gandhi In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 <!-- page 118 (pdf 10) -->
 
-> [table] Fig. 8 Fig. 8 – A popular representation of Mahatma Gandhi In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
 
 In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
 
@@ -229,7 +229,7 @@ Activity Read Source 4. According to this report, how did people view Mahatma Ga
 
 <!-- page 120 (pdf 12) -->
 
-> [table] Fig. 10 Fig. 10 – Demonstrators oppose the Simon Commission In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
+Fig. 10 Fig. 10 – Demonstrators oppose the Simon Commission In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
 
 The decade closed with the Congress resolving to fight for Purna Swaraj (complete independence) in 1929 under the presidentship of Jawaharlal Nehru. Consequently, “Independence Day” was observed on 26 January 1930 all over the country.
 
@@ -297,7 +297,7 @@ The first response of the British was severe repression. By the end of 1943 over
 
 Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Independent States” for Muslims in the north-western and eastern areas of the country. The resolution did not mention partition or Pakistan. Why did the League ask for an autonomous arrangement for the Muslims of the subcontinent?
 
-From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More importantly, the provincial elections of 1937 seemed to have convinced the League that Muslims were a minority, and they would always have to play second fiddle in any democratic structure. It feared that Muslims may even go unrepresented. The Congress’s rejection of the League’s desire to form a joint Congress-League government in the United Provinces in 1937 also annoyed the League.
+From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
 > [caption] Fig. 14 Fig. 14 – Quit India movement, August 1942 Demonstrators clashed with the police everywhere. Many thousands were arrested, over a thousand killed, many more were injured.
 
@@ -309,35 +309,33 @@ From the late 1930s, the League began viewing the Muslims as a separate “natio
 
 <!-- page 124 (pdf 16) -->
 
-> [caption] Fig. 16 Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
+> [caption] Fig. 16 Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942 Fig. 19 Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
 
-> [table] Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
-
-> [caption] Fig. 19 Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
-
-> [table] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
+An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 
 > [caption] Fig. 17 Fig. 17 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
-> [table] A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
+A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
 
-> [table] Fig. 18 Fig. 18 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945- 47 Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
+Fig. 18 Fig. 18 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945- 47 Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
 
 <!-- page 125 (pdf 17) -->
+
+importantly, the provincial elections of 1937 seemed to have convinced the League that Muslims were a minority, and they would always have to play second fiddle in any democratic structure. It feared that Muslims may even go unrepresented. The Congress’s rejection of the League’s desire to form a joint Congress-League government in the United Provinces in 1937 also annoyed the League.
 
 The Congress’s failure to mobilise the Muslim masses in the 1930s allowed the League to widen its social support. It sought to enlarge its support in the early 1940s when most Congress leaders were in jail. At the end of the war in 1945, the British opened negotiations between the Congress, the League and themselves for the independence of India. The talks failed because the League saw itself as the sole spokesperson of India’s Muslims. The Congress could not accept this claim since a large number of Muslims still supported it.
 
 Elections to the provinces were again held in 1946. The Congress did well in the “General” constituencies but the League’s success in the seats reserved for Muslims was spectacular. It persisted with its demand for “Pakistan”. In March 1946 the British cabinet sent a three-member mission to Delhi to examine this demand and to suggest a suitable political framework for a free India. This mission suggested that India should remain united and constitute itself as a loose confederation with some autonomy for Muslim-majority areas. But it could not get the Congress and the Muslim League to agree to specific details of the proposal. Partition now became more or less inevitable.
 
-> [table] Fig. 20 Fig. 20 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946 Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
+Fig. 20 Fig. 20 – Jawaharlal Nehru listens to Mahatma Gandhi before the Bombay session of the Congress, July 1946 Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
 
-“General”constituencies Election districts with no reservations for any religious or other community After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947 violence spread to different parts of northern India. Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
+“General”constituencies Election districts with no reservations for any religious or other community Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
 > [caption] Fig. 21 Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947
 
-> [table] Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
-
 <!-- page 126 (pdf 18) -->
+
+After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947 violence spread to different parts of northern India. Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
 
 > [caption] Fig. 22 Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 

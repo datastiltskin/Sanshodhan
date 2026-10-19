@@ -11,10 +11,14 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch03.pdf"
 source_sha256: "3ad8c8b0f79987a34c52e1e2639dd5d9f2539c0dc121f7b84c59a6cf6e822c22"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "5ad6e5f8eabf19e5b392c70c131fc7259486b3bf6fcfe0791f29dba6fffd24d2"
+body_fingerprint: "fdd3b1f1418d1ff0af14dbca450b8b7015bba26d09933d2d138a5027f5aeed1d"
 ---
 
 <!-- page 26 (pdf 1) -->
+
+# Ruling the Countryside
+
+## The Company Becomes the Diwan
 
 On 12 August 1765, the Mughal emperor appointed the East India Company as the Diwan of Bengal. The actual event most probably took place in Robert Clive’s tent, with a few Englishmen and Indians as witnesses. But in the painting above, the event is shown as a majestic occasion, taking place in a grand setting. The painter was commissioned by Clive to record the memorable events in Clive’s life. The grant of Diwani clearly was one such event in British imagination.
 
@@ -36,6 +40,20 @@ Soon it was clear that the Bengal economy was facing a deep crisis. Artisans wer
 
 <!-- page 28 (pdf 3) -->
 
+> [caption] Fig. 3 – Charles Cornwallis
+
+> [table] Cornwallis was the Governor-General of India when the Permanent Settlement was introduced.
+
+> [table] Source 1
+
+## Colebrook on
+
+## Bengal ryots
+
+In many villages of Bengal, some of the powerful ryots did not cultivate, but instead gave out their lands to others (the under-tenants), taking from them very high rents. In 1806, H. T. Colebrook described the conditions of these under-tenants in Bengal:
+
+The under-tenants, depressed by an excessive rent in kind, and by usurious returns for the cattle, seed, and subsistence, advanced to them, can never extricate themselves from debt. In so abject a state, they cannot labour in spirit, while they earn a scanty subsistence without hope of bettering their situation.
+
 ### The need to improve agriculture
 
 If the economy was in ruins, could the Company be certain of its revenue income? Most Company officials began to feel that investment in land had to be encouraged and agriculture had to be improved.
@@ -46,9 +64,9 @@ The problem The Permanent Settlement, however, created problems. Company officia
 
 By the first decade of the nineteenth century the situation changed. The prices in the market rose and cultivation slowly expanded. This meant an increase in the income of the zamindars but no gain for the Company since it could not increase a revenue demand that had been fixed permanently Even then the zamindars did not have an interest in improving the land. Some had lost their lands in the earlier years of the settlement; others now saw the possibility of earning without the trouble and risk of investment. As long as the zamindars could give out the land to tenants and get rent, they were not interested in improving the land.
 
-> [caption] Fig. 3 – Charles Cornwallis
+Activity †
 
-> [caption] Cornwallis was the Governor-General of India when the Permanent Settlement was introduced.
+Why do you think Colebrook is concerned with the conditions of the under-ryots in Bengal? Read the preceding pages and suggest possible reasons.
 
 <!-- page 29 (pdf 4) -->
 
@@ -68,11 +86,19 @@ Read and Munro felt that in the south there were no traditional zamindars. The s
 
 <!-- page 30 (pdf 5) -->
 
+Activity †
+
+Imagine that you are a Company representative sending a report back to England about the conditions in rural areas under Company rule. What would you write?
+
+> [caption] Fig. 5 – A kalamkari print, twentieth-century India
+
 should act as paternal father figures protecting the ryots under their charge.
 
 ### All was not well
 
 Within a few years after the new systems were imposed it was clear that all was not well with them. Driven by the desire to increase the income from land, revenue officials fixed too high a revenue demand. Peasants were unable to pay, ryots fled the countryside, and villages became deserted in many regions. Optimistic officials had imagined that the new systems would transform the peasants into rich enterprising farmers. But this did not happen.
+
+## Crops for Europe
 
 The British also realised that the countryside could not only yield revenue, it could also grow the crops that Europe required. By the late eighteenth century the Company was trying its best to expand the cultivation of opium and indigo. In the century and a half that followed, the British persuaded or forced cultivators in various parts of India to produce other crops: jute in Bengal, tea in Assam, sugarcane in the United Provinces (now Uttar Pradesh), wheat in Punjab, cotton in Maharashtra and Punjab, rice in Madras.
 
@@ -82,7 +108,7 @@ How was this done? The British used a variety of methods to expand the cultivati
 
 Figs. 5 and 6 are two images of cotton prints. The image on the left (Fig. 5) shows a kalamkari print created by weavers of Andhra Pradesh in India. On the right is a floral cotton print designed and produced by William Morris, a famous poet and artist of nineteenth-century Britain. There is one thing common in the two prints: both use a rich blue colour – commonly called indigo. Do you know how this colour was produced?
 
-> [caption] Fig. 6 – A Morris cotton print, late-nineteenth-century England Fig. 5 – A kalamkari print, twentieth-century India
+> [caption] Fig. 6 – A Morris cotton print, late-nineteenth-century England
 
 <!-- page 31 (pdf 6) -->
 
@@ -110,7 +136,7 @@ Plantation – A large farm operated by a planter employing various forms of for
 
 > [caption] Fig. 7 – The Slave Revolt in St Domingue, August 1791, painting by January Scuhodolski
 
-> [table] In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
+In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
 
 Slave – A person who is owned by someone else – the slave owner. A slave has no freedom and is compelled to work for the master.
 
@@ -140,6 +166,8 @@ Under the ryoti system, the planters forced the ryots to sign a contract, an agr
 
 <!-- page 34 (pdf 9) -->
 
+> [caption] Vat
+
 > [caption] Fig. 11 – Women usually carried the indigo plant to the vats.
 
 > [caption] Fig. 12 – The Vat-Beater
@@ -148,15 +176,19 @@ Under the ryoti system, the planters forced the ryots to sign a contract, an agr
 
 Vat – A fermenting or storage vessel
 
+> [caption] Fermenting
+
+> [caption] Vat Beater
+
 > [caption] Fig. 10 – An indigo factory located near indigo fields, painting by William Simpson, 1863
 
-> [table] The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
+The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
 
-> [table] In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
+In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
+
+> [table] to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
 
 > [caption] Fig. 13 – The indigo is ready for sale
-
-> [table] Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
 
 <!-- page 35 (pdf 10) -->
 
@@ -164,31 +196,79 @@ When the crop was delivered to the planter after the harvest, a new loan was giv
 
 There were other problems too. The planters usually insisted that indigo be cultivated on the best soils in which peasants preferred to cultivate rice. Indigo, moreover, had deep roots and it exhausted the soil rapidly. After an indigo harvest the land could not be sown with rice.
 
+## The “Blue Rebellion” and After
+
 In March 1859 thousands of ryots in Bengal refused to grow indigo. As the rebellion spread, ryots refused to pay rents to the planters, and attacked indigo factories armed with swords and spears, bows and arrows. Women turned up to fight with pots, pans and kitchen implements. Those who worked for the planters were socially boycotted, and the gomasthas – agents of planters – who came to collect rent were beaten up. Ryots swore they would no longer take advances to sow indigo nor be bullied by the planters’ lathiyals – the lathi-wielding strongmen maintained by the planters.
 
 Why did the indigo peasants decide that they would no longer remain silent? What gave them the power to rebel? Clearly, the indigo system was intensely oppressive. But those who are oppressed do not always rise up in rebellion. They do so only at times.
 
 In 1859, the indigo ryots felt that they had the support of the local zamindars and village headmen in their rebellion against the planters. In many villages, headmen who had been forced to sign indigo contracts, mobilised the indigo peasants and fought pitched battles with the lathiyals. In other places even the zamindars went around villages urging the ryots to resist the planters. These zamindars were unhappy with the increasing power of the planters and angry at being forced by the planters to give them land on long leases.
 
-The indigo peasants also imagined that the British government would support them in their struggle against the planters. After the Revolt of 1857 the British government was particularly worried about the possibility of another popular rebellion. When the news spread of a simmering revolt in the indigo districts, the Lieutenant Governor toured the region in the winter of 1859. The ryots saw the tour as a sign of government sympathy for their plight. When in Barasat, the magistrate Ashley Eden issued a notice stating that ryots would not be compelled to accept indigo contracts, word went around that Queen Victoria had declared that indigo need not be sown. Eden was trying to placate the peasants and control an explosive situation, but his action was read as support for the rebellion.
+The indigo peasants also imagined that the British government would support them in their struggle against the planters. After the Revolt of 1857 the British government was particularly worried about the possibility of another popular rebellion. When the news spread of a simmering revolt in the indigo districts,
+
+> [table] Source 2
+
+## A song from an indigo-producing
+
+## village
+
+In moments of struggle people often sing songs to inspire each other and to build a sense of collective unity. Such songs give us a glimpse of their feelings. During the indigo rebellion many such songs could be heard in the villages of lower Bengal. Here is one such song:
+
+The long lathis wielded by the planter of Mollahati / now lie in a cluster The babus of Kolkata have sailed down / to see the great fight This time the raiyats are all ready, / they will no longer be beaten in silence They will no longer give up their life / without fighting the lathiyals.
 
 <!-- page 36 (pdf 11) -->
+
+Activity †
+
+Imagine you are a witness giving evidence before the Indigo Commission. W.S. Seton Karr asks you “On what condition will ryots grow indigo?” What will your answer be?
+
+the Lieutenant Governor toured the region in the winter of 1859. The ryots saw the tour as a sign of government sympathy for their plight. When in Barasat, the magistrate Ashley Eden issued a notice stating that ryots would not be compelled to accept indigo contracts, word went around that Queen Victoria had declared that indigo need not be sown. Eden was trying to placate the peasants and control an explosive situation, but his action was read as support for the rebellion.
 
 As the rebellion spread, intellectuals from Calcutta rushed to the indigo districts. They wrote of the misery of the ryots, the tyranny of the planters, and the horrors of the indigo system.
 
 Worried by the rebellion, the government brought in the military to protect the planters from assault, and set up the Indigo Commission to enquire into the system of indigo production. The Commission held the planters guilty, and criticised them for the coercive methods they used with indigo cultivators. It declared that indigo production was not profitable for ryots. The Commission asked the ryots to fulfil their existing contracts but also told them that they could refuse to produce indigo in future.
 
+> [table] Source 3
+
+## “I would rather beg than sow indigo”
+
+Hadji Mulla, an indigo cultivator of Chandpore, Thana Hardi, was interviewed by the members of the Indigo Commission on Tuesday, 5 June 1860. This is what he said in answer to some of the questions:
+
+W.S. Seton Karr, President of the Indigo Commission: Are you now willing to sow indigo; and if not on what fresh terms would you be willing to do it?
+
+Hadji Mulla: I am not willing to sow, and I don’t know that any fresh terms would satisfy me.
+
+Mr Sale: Would you not be willing to sow at a rupee a bundle?
+
+Hadji Mulla: No I would not; rather than sow indigo I will go to another country; I would rather beg than sow indigo.
+
+> [table] Indigo Commission Report, Vol. II, Minutes of Evidence, p. 67
+
 <!-- page 37 (pdf 12) -->
 
 After the revolt, indigo production collapsed in Bengal. But the planters now shifted their operation to Bihar. With the discovery of synthetic dyes in the late nineteenth century their business was severely affected, but yet they managed to expand production. When Mahatma Gandhi returned from South Africa, a peasant from Bihar persuaded him to visit Champaran and see the plight of the indigo cultivators there. Mahatma Gandhi’s visit in 1917 marked the beginning of the Champaran movement against the indigo planters.
 
+ELSEWHERE
+
+Indigo making in the West Indies
+
+In the early eighteenth century, a French missionary, Jean Baptiste Labat, travelled to the Caribbean islands, and wrote extensively about the region. Published in one of his books, this image shows all the stages of indigo production in the French slave plantations of the region.
+
+You can see the slave workers putting the indigo plant into the settler vat on the left. Another worker is churning the liquid with a mechanical churner in a vat (second from right). Two workers are carrying the indigo pulp hung up in bags to be dried. In the foreground two others are mixing the indigo pulp to be put into moulds. The planter is at the centre of the picture standing on the high ground supervising the slave workers.
+
 > [caption] Fig. 14 – Making indigo in a Caribbean slave plantation
+
+## Let’s recall
 
 1. Match the following:
 
 ryot village mahal peasant nij cultivation on ryot’s lands ryoti cultivation on planter’s own land
 
 <!-- page 38 (pdf 13) -->
+
+## Let’s imagine
+
+Imagine a conversation between a planter and a peasant who is being forced to grow indigo. What reasons would the planter give to persuade the peasant? What problems would the peasant point out? Enact their conversation.
 
 2. Fill in the blanks:
 
@@ -200,6 +280,8 @@ ryot village mahal peasant nij cultivation on ryot’s lands ryoti cultivation o
 
 (d) The Champaran movement was against
 
+## Let’s discuss
+
 3. Describe the main features of the Permanent Settlement.
 
 4. How was the mahalwari system different from the Permanent Settlement?
@@ -210,8 +292,8 @@ ryot village mahal peasant nij cultivation on ryot’s lands ryoti cultivation o
 
 7. What were the circumstances which led to the eventual collapse of indigo production in Bengal?
 
+## Let’s do
+
 8. Find out more about the Champaran movement and Mahatma Gandhi’s role in it.
 
 9. Look into the history of either tea or coffee plantations in India. See how the life of workers in these plantations was similar to or different from that of workers in indigo plantations.
-
-Imagine a conversation between a planter and a peasant who is being forced to grow indigo. What reasons would the planter give to persuade the peasant? What problems would the peasant point out? Enact their conversation.

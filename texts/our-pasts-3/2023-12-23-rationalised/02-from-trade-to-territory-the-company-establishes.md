@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch02.pdf"
 source_sha256: "95184a90157f48ee5e7b20b7a684a837d69d645736d57ae79c650209957caeec"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "f485a8ad8b15b0a58adaa6ce6de9ab0a6b14116834290804228b27af13bb1bc3"
+body_fingerprint: "a6e73f95830b91332b133fafef6f450f001860f0eeed17ad1701c2d97a72f8af"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -127,7 +127,7 @@ At his hearing in front of a Committee in Parliament, Clive declared that he had
 
 Consider the situation in which the victory at Plassey had placed me! A great prince was dependent on my pleasure; an opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels! Mr Chairman, at this moment I stand astonished at my moderation.
 
-Activity 
+Activity
 
 Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
@@ -163,7 +163,7 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 > [caption] Fig. 10 – Tipu’s toy tiger
 
-> [table] This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned, the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
+This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned, the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
 
 > [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793 The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
@@ -225,7 +225,7 @@ Mufti – A jurist of the Muslim community responsible for expounding the law th
 
 > [caption] Fig. 15 – The trial of Warren Hastings, painted by R.G. Pollard, 1789
 
-> [table] When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
 
 <!-- page 22 (pdf 14) -->
 

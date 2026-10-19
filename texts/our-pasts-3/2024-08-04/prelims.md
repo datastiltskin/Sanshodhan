@@ -22,15 +22,13 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/prelims.pdf"
 
 > [caption] ALL RIGHTS RESERVED
 
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption]  No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
-
-> [caption]  This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
 > [caption] Revised Edition January 2019 Pausha 1940
 
-> [caption]  The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] Reprinted October 2019, March 2021, October 2021, November 2021 OFFICES OF THE PUBLICATION Second Revised Edition July 2022 Ashada 1944 Division, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 Reprinted November 2022 Agrahayana 1944 March 2024 Chaitra 1946 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bangaluru 560 085 Phone : 080-26725740 Navjivan Trust Building P.O.Navjivan Ahmedabad 380 014 Phone : 079-27541446
 
@@ -52,7 +50,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/prelims.pdf"
 
 > [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Arrt Creations
 
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, Shri Ram Printers, D-177 & 178, Sector-63, Opposite Sagar Tara Motors, Noida 201 301 (UP)
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, Shri Ram Printers, D-177 & 178, Sector-63, Opposite Sagar Tara Motors, Noida 201 301 (UP)
 
 > [caption] Cartography Cartographic Designs Agency
 
@@ -122,9 +120,9 @@ For Extended Learning
 
 You may access the following chapters through QR Code.
 
- Colonialism and the City
+Colonialism and the City
 
- The Changing World of Visual Arts. These chapters were printed in the previous textbooks, the same are being provided in digital mode for extended learning.
+The Changing World of Visual Arts. These chapters were printed in the previous textbooks, the same are being provided in digital mode for extended learning.
 
 <!-- page 25 (pdf 9) -->
 

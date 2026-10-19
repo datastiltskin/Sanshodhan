@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf"
 source_sha256: "324ece32b4c7beb55c679d18df111309d7fad68aac178f9d66d49ada091b3b86"
 pdf_pages: 26
 printed_pages: "1-26"
-body_fingerprint: "a907e0f1a2880eb8c24bba24328f23080052cc854296132399eb44b60b484a74"
+body_fingerprint: "31cba774b3ec634d8f863ccb07dc9dab35a2efe6741cef741eb6f6d2da2434b5"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -50,9 +50,9 @@ The Himalayan Mountain range stands as a natural barrier in the north, while the
 
 ### LET’S EXPLORE
 
-Æ Do you recall your lesson on latitudes and longitudes? Look at the map. Can you read, approximately, the latitude and longitude where India lies?
+Do you recall your lesson on latitudes and longitudes? Look at the map. Can you read, approximately, the latitude and longitude where India lies?
 
-Æ Identify the above features on India’s physical map.
+Identify the above features on India’s physical map.
 
 Let us now journey together from the Himalayas to the islands in the Indian Ocean, and onward to the east of India. The diverse colours on the map already give us a sense of the geographical diversity. Familiarise yourself with the legend on the map. The different colours indicate the altitudes.
 
@@ -96,7 +96,7 @@ The word ‘Himalaya’ is a combination of two Sanskrit words — hima, mea
 
 The Himalayas are broadly categorised into three main ranges:
 
- The Himadri (the Greater Himalayas) are the highest and most rugged part of the range, home to towering peaks like Mount Everest and Kanchenjunga. This region remains snow-covered throughout the year. Life here is tough, and there are not many human settlements.  The Himachal (the Lower Himalayas) lie south of the Greater Himalayas and have a more moderate climate, allowing rich biodiversity and human habitation. Popular hill stations, such as Nainital (Uttarakhand), Darjeeling (West Bengal), Shimla (Himachal Pradesh), and Mussoorie (Uttarakhand), are located in this region.  The Shivalik Hills (the Outer Himalayas) form the outermost and lowest range, consisting of rolling hills and dense forests. These foothills are rich in wildlife, serving as a transition zone between the Himalayas and the Gangetic Plains (also called the Northern Plains).
+The Himadri (the Greater Himalayas) are the highest and most rugged part of the range, home to towering peaks like Mount Everest and Kanchenjunga. This region remains snow-covered throughout the year. Life here is tough, and there are not many human settlements. The Himachal (the Lower Himalayas) lie south of the Greater Himalayas and have a more moderate climate, allowing rich biodiversity and human habitation. Popular hill stations, such as Nainital (Uttarakhand), Darjeeling (West Bengal), Shimla (Himachal Pradesh), and Mussoorie (Uttarakhand), are located in this region. The Shivalik Hills (the Outer Himalayas) form the outermost and lowest range, consisting of rolling hills and dense forests. These foothills are rich in wildlife, serving as a transition zone between the Himalayas and the Gangetic Plains (also called the Northern Plains).
 
 ### LET’S EXPLORE
 
@@ -290,9 +290,9 @@ India’s coastline is dotted with beautiful beaches, rocky cliffs, and lush gre
 
 ### LET’S EXPLORE
 
-Æ Look at the physical map of India in your school atlas or wall map and find the names of five rivers that flow into the Bay of Bengal. Find out India’s coastal states and discuss the difference between the western and eastern coastal plains.
+Look at the physical map of India in your school atlas or wall map and find the names of five rivers that flow into the Bay of Bengal. Find out India’s coastal states and discuss the difference between the western and eastern coastal plains.
 
-Æ Do you know what it is called when these rivers split into multiple streams near the coast? Discuss with your teacher in class to find out!
+Do you know what it is called when these rivers split into multiple streams near the coast? Discuss with your teacher in class to find out!
 
 ## The West Coast of India
 
@@ -376,13 +376,13 @@ Mawlynnong Village, situated in the East Khasi Hills of Meghalaya, is renowned a
 
 ## Before we move on …
 
-Æ India gives its name to the subcontinent it is a part of.
+India gives its name to the subcontinent it is a part of.
 
-Æ It has many diverse geographical features, ranging from the snowy Himalayas to the heat of the Thar Desert. The plains are watered by a large number of rivers. There is also a peninsular plateau with the Arabian Sea on the west and the Bay of Bengal in the east.
+It has many diverse geographical features, ranging from the snowy Himalayas to the heat of the Thar Desert. The plains are watered by a large number of rivers. There is also a peninsular plateau with the Arabian Sea on the west and the Bay of Bengal in the east.
 
-Æ These diverse geographic features have created a variety of conditions with respect to soil, flora, fauna, life and economic opportunities, and honed a rich culture.
+These diverse geographic features have created a variety of conditions with respect to soil, flora, fauna, life and economic opportunities, and honed a rich culture.
 
-Æ These geographical features have played an important role in shaping our civilisation.
+These geographical features have played an important role in shaping our civilisation.
 
 ## Questions and activities
 

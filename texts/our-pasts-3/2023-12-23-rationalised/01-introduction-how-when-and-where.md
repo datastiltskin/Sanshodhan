@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch01.pdf"
 source_sha256: "060fb1ae6fcdf3030243a45cfb387f9f96752ba69b6a2fae8e2e9b38a9515761"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "6cb42d44074176c3439dd9a6a73643238f20b1632a1f73bee94f7b710d764cc1"
+body_fingerprint: "802293c0d674059d3be542532a88c7a41f027fdd6bc83c9d4da56d8d56f54e90"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -25,11 +25,15 @@ History is certainly about changes that occur over time. It is about finding out
 
 Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall, you may wonder – when did people begin to drink tea or coffee? Looking out of the window of a train you may ask yourself – when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.
 
-Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.  Activity All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
+Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception.
+
+Activity
 
 > [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
+
+All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
 
 Why, then, do we continue to associate history with a string of dates? This association has a reason. There was a time when history was an account of battles and big events. It was about rulers and their policies. Historians wrote about the year a king was crowned, the year he married, the year he had a child, the year he fought a particular war, the year he died, and the year the next ruler succeeded to the throne. For events such as these, specific dates can be determined, and in histories such as these, debates about dates continue to be important.
 
@@ -89,7 +93,7 @@ In the early years of the nineteenth century, these documents were carefully cop
 
 > [caption] Fig. 4 – The National Archives of India came up in the 1920s
 
-> [table] When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
 
 > [table] Source 1
 
@@ -115,7 +119,7 @@ Surveys become important The practice of surveying also became common under the 
 
 By the early nineteenth century, detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
@@ -129,7 +133,7 @@ What official records do not tell From this vast corpus of records we can get to
 
 > [caption] Fig. 7 – The rebels of 1857
 
-> [table] Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations, the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 For that we need to look elsewhere. When we begin to search for these other sources, we find them in plenty, though they are more difficult to get than official records. We have diaries of people, accounts of pilgrims and travellers, autobiographies of important personalities, and popular booklets that were sold in the local bazaars. As printing spread, newspapers were published and issues were debated in public. Leaders and reformers wrote to spread their ideas, poets and novelists wrote to express their feelings.
 
@@ -153,7 +157,7 @@ As the news spread to the other police stations, the men there also refused to t
 
 > [table] 22 March, 1946
 
-Activity 
+Activity
 
 Look at Sources 1 and 2. Do you find any differences in the nature of reporting? Explain what you observed.
 

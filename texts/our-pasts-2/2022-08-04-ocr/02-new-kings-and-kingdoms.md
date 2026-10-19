@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch02.pdf"
 source_sha256: "08fd7867d06e6381e60c67529437a10cfdf6c5d934c6f534b860312f55df929b"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "7c71fdacc8df9513886aa69659d50c9550f2105665fa06d43257def67bc8de8e"
+body_fingerprint: "4468b5b8e9b1ff20346e64d401ccb7302e70c12e13ff8e25325eae7136d4b9f3"
 ocr: true
 ocr_confidence: 93.5
 ---
@@ -37,7 +37,7 @@ M any new dynasties emerged after the seventh century. Map 1 shows the major rul
 
 <!-- page 17 (pdf 2) -->
 
-## The Emergence of New Dynasties
+# The Emergence of New Dynasties
 
 By the seventh century there were big landlords or warrior chiefs in different regions of the subcontinent. Existing kings often acknowledged them as their subordinates or samantas. They were expected to bring gifts for their kings or overlords, be present at their courts and provide them with military support. As samantas gained power and wealth, they declared themselves to be maha-samanta, maha-mandaleshvara (the great lord of a “circle” or region) and so on. Sometimes they asserted their independence from their overlords.
 
@@ -249,9 +249,9 @@ Why do you think temple inscriptions ignore these activities?
 
 China under the Tang dynasty
 
-> [table] In China, an empire was established under the Tang dynasty, which remained in power for about 300 years (from the seventh to the tenth centuries). Its capital, Xi'an, was one of the largest cities in the world, visited by Turks, Iranians, Indians, Japanese and Koreans.
+In China, an empire was established under the Tang dynasty, which remained in power for about 300 years (from the seventh to the tenth centuries). Its capital, Xi'an, was one of the largest cities in the world, visited by Turks, Iranians, Indians, Japanese and Koreans.
 
-> [table] The Tang empire was administered by a bureaucracy recruited through an examination, which was open to all who wished to appear for it. This system of selecting officials remained in place, with some changes, till 1911.
+The Tang empire was administered by a bureaucracy recruited through an examination, which was open to all who wished to appear for it. This system of selecting officials remained in place, with some changes, till 1911.
 
 > [table] In what ways was this system different from those prevalent °/ inthe Indian subcontinent?
 

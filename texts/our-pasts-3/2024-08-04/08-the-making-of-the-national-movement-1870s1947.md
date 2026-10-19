@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch08.pdf"
 source_sha256: "59ee8e69ea74cbb4ee04277d8e759e5e180f3aaf0921f013bd441b304868f970"
 pdf_pages: 20
 printed_pages: "93-112"
-body_fingerprint: "81ca0222b1a542a2d24f4075b569834c6773c45664aafb333a1ed7e718625423"
+body_fingerprint: "91c75e4cd400080792a701d594c40d22f9802c3569e7470641b59d32137d85e6"
 ---
 
 <!-- page 93 (pdf 1) -->
@@ -22,23 +22,7 @@ body_fingerprint: "81ca0222b1a542a2d24f4075b569834c6773c45664aafb333a1ed7e718625
 
 In the previous chapters, we have looked at:
 
- The British conquest of territories, and takeover of kingdoms
-
- Introduction of new laws and administrative institutions
-
- Changes in the lives of peasants and tribals
-
- Educational changes in the nineteenth century
-
- Debates regarding the condition of women
-
- Challenges to the caste system
-
- Social and religious reform
-
- The revolt of 1857 and its aftermath
-
- The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
+The British conquest of territories, and takeover of kingdoms Introduction of new laws and administrative institutions Changes in the lives of peasants and tribals Educational changes in the nineteenth century Debates regarding the condition of women Challenges to the caste system Social and religious reform The revolt of 1857 and its aftermath The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
 
 <!-- page 94 (pdf 2) -->
 
@@ -182,13 +166,13 @@ Non-violence comes to us through doing good continually without the slightest ex
 
 > [caption] 12 March 1938
 
-Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 <!-- page 102 (pdf 10) -->
 
 > [caption] Fig. 8 – A popular representation of Mahatma Gandhi
 
-> [table] In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image, he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
 
 In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
 
@@ -224,7 +208,7 @@ Read Source 4. According to this report, how did people view Mahatma Gandhi? Why
 
 <!-- page 104 (pdf 12) -->
 
-> [table] In 1927, the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived, it was met with demonstrations with banners saying “Simon Go Back”.
+In 1927, the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived, it was met with demonstrations with banners saying “Simon Go Back”.
 
 The decade closed with the Congress resolving to fight for Purna Swaraj (complete independence) in 1929 under the presidentship of Jawaharlal Nehru. Consequently, “Independence Day” was observed on 26 January 1930 all over the country.
 
@@ -304,15 +288,15 @@ Towards Independence and Partition Meanwhile, in 1940 the Muslim League had move
 
 > [caption] Fig. 17 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
 
-> [table] Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
+Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
 > [caption] Fig. 20 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
 
-> [table] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
+An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 
 > [caption] Fig. 18 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
-> [table] A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
+A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
 
 > [caption] Fig. 19 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945–47
 
@@ -330,9 +314,7 @@ After the failure of the Cabinet Mission, the Muslim League decided on mass agit
 
 Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien
 
-“General”constituencies Election districts with no reservations for any religious or other community
-
-> [table] Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
+“General”constituencies Election districts with no reservations for any religious or other community Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947 Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
 > [caption] Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 

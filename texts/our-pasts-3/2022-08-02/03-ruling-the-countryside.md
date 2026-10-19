@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch03.pdf"
 source_sha256: "5f141b98a81b6246359808ee81c8cf7b92f2b9093be83f4bfe876c50238704ef"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "258128d4e4ebf9f33dcec003fc8b73f95a3a1548b963385d3e9c12c1149a1c8d"
+body_fingerprint: "95e5944b27d4b4e2ba148ade837cf9e62a2931f058250fb88a050050dfe4c1ab"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -135,7 +135,7 @@ Plantation – A large farm operated by a planter employing various forms of for
 
 > [caption] Fig. 7 – The Slave Revolt in St Domingue, August 1791, painting by January Scuhodolski
 
-> [table] In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
+In the eighteenth century, French planters produced indigo and sugar in the French colony of St Domingue in the Caribbean islands. The African slaves who worked on the plantations rose in rebellion in 1791, burning the plantations and killing their rich planters. In 1792 France abolished slavery in the French colonies. These events led to the collapse of the indigo plantations on the Caribbean islands.
 
 Slave – A person who is owned by someone else – the slave owner. A slave has no freedom and is compelled to work for the master.
 
@@ -181,13 +181,13 @@ Vat – A fermenting or storage vessel
 
 > [caption] Fig. 10 – An indigo factory located near indigo fields, painting by William Simpson, 1863
 
-> [table] The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
+The indigo villages were usually around indigo factories owned by planters. After harvest, the indigo plant was taken to the vats in the indigo factory. Three or four vats were needed to manufacture the dye. Each vat had a separate function. The leaves stripped off the indigo plant were first soaked in warm water in a vat (known as the fermenting or steeper vat) for several hours. When the plants fermented, the liquid began to boil and bubble. Now the rotten leaves were taken out and the liquid drained into another vat that was placed just below the first vat.
 
-> [table] In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
+In the second vat (known as the beater vat) the solution was continuously stirred and beaten with paddles. When the liquid gradually turned green and then blue, lime water was added to the vat. Gradually the indigo separated out in flakes, a muddy sediment settled at the bottom of the vat and a clear liquid rose Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
+
+> [table] to the surface. The liquid was drained off and the sediment – the indigo pulp – transferred to another vat (known as the settling vat), and then pressed and dried for sale.
 
 > [caption] Fig. 13 – The indigo is ready for sale
-
-> [table] Here you can see the last stage of the production – workers stamping and cutting the indigo pulp that has been pressed and moulded. In the background you can see a worker carrying away the blocks for drying.
 
 <!-- page 35 (pdf 10) -->
 

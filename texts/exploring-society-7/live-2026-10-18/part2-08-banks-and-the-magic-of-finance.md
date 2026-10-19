@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf"
 source_sha256: "ed08c46a27f2f3f2a8a944fdcd967c144b6ff69db8fb24e4f8e0c50ceb6ee4de"
 pdf_pages: 20
 printed_pages: "193-212"
-body_fingerprint: "34f7a98e0060ff22bad3a2fb1dcf5a7ec24f3a11a88c5e8431fb17ea0ba87a35"
+body_fingerprint: "f2c9424e9282e385b8d35a113ff33ef9c83584e95a268cb606c362551236a34e"
 ---
 
 <!-- page 193 (pdf 1) -->
@@ -62,9 +62,9 @@ This picture is from a bank. What do you think the people are doing? Ask your fa
 
 ### THINK ABOUT IT
 
-Æ Why does Navdeep think that saving at the bank is better than keeping cash at home?
+Why does Navdeep think that saving at the bank is better than keeping cash at home?
 
-Æ Can Navdeep and Rima lend to each other directly without the bank? What could happen in that case? Discuss.
+Can Navdeep and Rima lend to each other directly without the bank? What could happen in that case? Discuss.
 
 ## What are banks and what do they do?
 
@@ -122,9 +122,9 @@ The Magic of Compounding – The story of a King and a Sage A king from Ambalapp
 
 ### THINK ABOUT IT
 
-Æ How does one track so many transactions of deposits and withdrawals? The bank provides a diary-like document called a passbook that keeps a record of all the receipts and payment transactions. This can be updated regularly at the bank.
+How does one track so many transactions of deposits and withdrawals? The bank provides a diary-like document called a passbook that keeps a record of all the receipts and payment transactions. This can be updated regularly at the bank.
 
-Æ Look at the passbook in Fig. 8.7. Observe all the particulars under outflow of cash (debit) for the expenses and inflow of cash for (credit) income. Why is keeping records of financial transactions important? Discuss in the class.
+Look at the passbook in Fig. 8.7. Observe all the particulars under outflow of cash (debit) for the expenses and inflow of cash for (credit) income. Why is keeping records of financial transactions important? Discuss in the class.
 
 > [caption] Debit: Taking money out of an account
 
@@ -206,19 +206,17 @@ RBI was established in 1935 and performed some of the functions of a central ban
 
 <!-- page 202 (pdf 10) -->
 
-RBI sets rules and regulations regarding —
-
- Printing and distributing Indian currency like banknotes  Fixing of the benchmark interest rates Interestingly, the entrance of the RBI office in Delhi is flanked by the statues of a yakṣha and yakṣiṇi. According to Hindu mythology, yakṣhas belong to a class of demigods who act as the guards of treasures for Kubera, the God of Wealth. RBI could be compared to Kubera, with its sole right of issuing currency and by being a banker to banks!
+RBI sets rules and regulations regarding — Printing and distributing Indian currency like banknotes Fixing of the benchmark interest rates Interestingly, the entrance of the RBI office in Delhi is flanked by the statues of a yakṣha and yakṣiṇi. According to Hindu mythology, yakṣhas belong to a class of demigods who act as the guards of treasures for Kubera, the God of Wealth. RBI could be compared to Kubera, with its sole right of issuing currency and by being a banker to banks!
 
 > [caption] Fig. 8.10. Entrance of RBI office in Delhi
 
 ### THINK ABOUT IT
 
-Æ In ancient India, temples acted like banks. Although they did not accept public deposits like modern banks, they lent money to artisans, merchants, and the local government for building infrastructure. Contracts between the temples and the concerned party were etched on copper plates. These have survived to give us a glimpse of how they functioned.
+In ancient India, temples acted like banks. Although they did not accept public deposits like modern banks, they lent money to artisans, merchants, and the local government for building infrastructure. Contracts between the temples and the concerned party were etched on copper plates. These have survived to give us a glimpse of how they functioned.
 
 > [caption] Fig. 8.11. Copper plates with inscriptions, Pandya Kingdom.
 
-Æ One such example is an inscription from Kodumbalur in Tamil Nadu, dating back to the 13th century, which refers to communities that borrowed money from the Tirumudukunramudaiya-Nayanar temple with an agreement to pay interest.
+One such example is an inscription from Kodumbalur in Tamil Nadu, dating back to the 13th century, which refers to communities that borrowed money from the Tirumudukunramudaiya-Nayanar temple with an agreement to pay interest.
 
 > [caption] Benchmark interest rate: The base interest rate that the RBI fixes for lending money to commercial banks.
 
@@ -412,9 +410,9 @@ In case of fraud, report via helpline 1930 or the National Cybercrime Reporting 
 
 ## Before we move on ...
 
-Æ Financial infrastructure comprises financial institutions like banks, payment systems, the stock market and so on. These help with the flow of money among people, businesses, and the government by enabling smooth financial transactions.
+Financial infrastructure comprises financial institutions like banks, payment systems, the stock market and so on. These help with the flow of money among people, businesses, and the government by enabling smooth financial transactions.
 
-Æ It also promotes savings, credit and investment that boosts economic activity, and ultimately contributes to the nation’s prosperity.
+It also promotes savings, credit and investment that boosts economic activity, and ultimately contributes to the nation’s prosperity.
 
 > [caption] OTP: It stands for
 
@@ -440,11 +438,11 @@ In case of fraud, report via helpline 1930 or the National Cybercrime Reporting 
 
 8. How can we balance the convenience of digital payments with the risk of cyber fraud?
 
-9. Ask your family members or neighbours about— Æ how they save money?
+9. Ask your family members or neighbours about— how they save money?
 
-Æ whether they use UPI, ATM or cheques, the kinds of transactions they perform through UPI; do they find UPI better than using cash or not, and why.
+whether they use UPI, ATM or cheques, the kinds of transactions they perform through UPI; do they find UPI better than using cash or not, and why.
 
-Æ if they or their acquaintance have experienced digital fraud, for instance, through a fake call or message asking for bank details. What did they do when they realised it was a scam, and what did they learn from that experience?
+if they or their acquaintance have experienced digital fraud, for instance, through a fake call or message asking for bank details. What did they do when they realised it was a scam, and what did they learn from that experience?
 
 Summarise your findings in a table or short report. Share one surprising insight with your class.
 
@@ -452,11 +450,11 @@ Summarise your findings in a table or short report. Share one surprising insight
 
 10. Create a Financial Safety Poster.
 
-Æ Design a poster with dos and don’ts of digital banking safety (for example, not sharing OTPs, reporting frauds).
+Design a poster with dos and don’ts of digital banking safety (for example, not sharing OTPs, reporting frauds).
 
-Æ Include emergency numbers or websites like https:// cybercrime.gov.in or 1930 helpline.
+Include emergency numbers or websites like https:// cybercrime.gov.in or 1930 helpline.
 
-Æ Hang the posters in school corridors or the library.
+Hang the posters in school corridors or the library.
 
 11. Cheques are often used to pay utility bills. Ask your parents to allow you to fill out the cheques for a few monthly payments.
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch04.pdf"
 source_sha256: "a860464406de1cc06e73228ea73e59b32d7e050118d4d86f21089e6043b83f6e"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "984eb9add8e5b9960abadc050956c1ca634a9ff36661f7f2b910c4e6e8c9d299"
+body_fingerprint: "470e2b9bde602578e43e9766e421cf9f46b267ec825e1b32ec1da4f3a8d12aca"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -66,7 +66,7 @@ The cycle described above took place in the first year. In the second year there
 
 > [caption] Adapted from Verrier Elwin, Baiga (1939) and Elwin’s unpublished ‘Notes on the Khonds’ (Verrier Elwin Papers, Nehru Memorial Museum and Library)
 
- Activity
+Activity
 
 Look carefully at the tasks that Baiga men and women did. Do you see any pattern? What were the differences in the types of work that they were expected to perform?
 
@@ -142,7 +142,7 @@ Through the nineteenth and twentieth centuries, tribal groups in different parts
 
 > [caption] Fig. 10 – Coal miners of Bihar, 1948
 
-> [table] In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
+In the 1920s, about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s, over 2,000 workers died every year in the coal mines in India.
 
 Activity
 

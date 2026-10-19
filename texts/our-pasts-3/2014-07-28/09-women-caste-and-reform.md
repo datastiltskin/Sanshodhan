@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch03.pdf"
 source_sha256: "4bb904dfc52ef62e640a40b74626dfb2ae222195d4e72cdfe8d6cfb893e3a76c"
 pdf_pages: 15
 printed_pages: "108-122"
-body_fingerprint: "49c814767042fca8c4437ea35b40204b9c50f72a33ce2ff6509b32d4045dae88"
+body_fingerprint: "5cfade1226103e0579888daa5e054a1aec8b3acb3efa72108adc8da0c0fdf5b5"
 ---
 
 <!-- page 108 (pdf 2) -->
@@ -53,7 +53,7 @@ The strategy adopted by Rammohun was used by later reformers as well. Whenever t
 
 > [caption] Fig. 3 – Hook swinging festival
 
-> [table] In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
+In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
 > [caption] Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 

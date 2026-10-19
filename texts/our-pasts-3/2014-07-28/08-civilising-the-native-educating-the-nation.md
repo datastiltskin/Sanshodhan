@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch02.pdf"
 source_sha256: "98a61eaa644ea21518471512cc6761853f75c0923bec62e5ea16e0ac129df081"
 pdf_pages: 13
 printed_pages: "95-107"
-body_fingerprint: "1b77b091d4315947bd8540eaa423b32aa9bcf7e2fd85d7c2801ee90d185790ca"
+body_fingerprint: "c83aa72fb29d57db45fd57d60e027c8e75c50a4830e44d8edadf4f0a26708990"
 ---
 
 <!-- page 95 (pdf 1) -->
@@ -49,7 +49,7 @@ With this object in view a madrasa was set up in Calcutta in 1781 to promote the
 
 > [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
 
-> [table] This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
+This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
 Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
@@ -91,7 +91,7 @@ Wood’s Despatch also argued that European learning would improve the moral cha
 
 Following the 1854 Despatch, several measures were introduced by the British. Education departments of the government were set up to extend control over all matters regarding education. Steps were taken to establish a system of university education. In 1857, while the sepoys rose in revolt in Meerut and Delhi, universities were being established in Calcutta, Madras and Bombay. Attempts were also made to bring about changes within the system of school education.
 
-Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions. h
+Activity Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions.
 
 > [caption] Fig. 5 – Bombay University in the nineteenth century
 
@@ -137,8 +137,6 @@ Adam discovered that this flexible system was suited to local needs. For instanc
 
 <!-- page 102 (pdf 8) -->
 
-hActivity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
-
 New routines, new rules Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854 the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
 
 How was this to be done? What measures did the Company undertake? It appointed a number of government pandits, each in charge of looking after four to five schools. The task of the pandit was to visit the pathshalas and try and improve the standard of teaching. Each guru was asked to submit periodic reports and take classes according to a regular timetable. Teaching was now to be based on textbooks and learning was to be tested through a system of annual examination. Students were asked to pay a regular fee, attend regular classes, sit on fixed seats, and obey the new rules of discipline.
@@ -149,9 +147,11 @@ The new rules and routines had another consequence. In the earlier system childr
 
 ## The Agenda for a National Education
 
-British officials were not the only people thinking about education in India. From the early nineteenth century many thinkers from different parts of India began to talk of the need for a wider spread of education. Impressed with the developments in Europe, some Indians felt that Western education would help modernise India. They urged the British to open more schools, colleges and universities, and spend more money on education. You will read about some of these efforts in Chapter 9. There were other Indians, however, who reacted against Western education. Mahatma Gandhi and Rabindranath Tagore were two such individuals.
+British officials were not the only people thinking about education in India. From the early nineteenth century many thinkers from different parts of India began to talk of the need for a wider spread of education. Impressed with the developments in Europe, some Indians felt that Western education would help modernise India. They urged the British to open more schools, colleges and universities, and spend more money on education. You will read about some of these efforts in Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
 
 <!-- page 103 (pdf 9) -->
+
+Chapter 9. There were other Indians, however, who reacted against Western education. Mahatma Gandhi and Rabindranath Tagore were two such individuals.
 
 Let us look at what they had to say.
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch06.pdf"
 source_sha256: "c78925f200070bb78d56e0ac599cbc659226bca8d4f7861c4e6366e43813fc85"
 pdf_pages: 26
 printed_pages: "143-168"
-body_fingerprint: "79725879db0d54923539f5d7f98248efec7e823841eaa134e54f83685008fc3e"
+body_fingerprint: "291c1ef08f5bd9bec64d3db57e9b6855f8e91fbd212fac41a7a83f86fdfc9df1"
 ---
 
 <!-- page 143 (pdf 1) -->
@@ -68,19 +68,19 @@ A state has four important parts:
 
 We often hear the words ‘state’ and ‘government’ used as if they mean the same thing. But they are not truly the same, even though they are closely related.
 
-> [table] Roshini didi, today we had a class on the difference between a state and a government. I am a bit confused. Since you are studying Political Science in college, can you tell me why it is important to have a permanent population for a place to become a state? Can a state not be a place where people can just go, visit, and come back?
+Roshini didi, today we had a class on the difference between a state and a government. I am a bit confused. Since you are studying Political Science in college, can you tell me why it is important to have a permanent population for a place to become a state? Can a state not be a place where people can just go, visit, and come back?
 
-> [table] First, without people, meaning a population, there can be no state. Second, if people just go visit and then move on then they are like tourists, with no identification with the place nor anything that is common and shared — they don’t live together. But when people identify with a place or a territory, and usually live there, then they form a permanent population. Such a group of people — the permanent population — then develops its own culture and society, which also identifies with that geographically defined territory — the place where they live.
+First, without people, meaning a population, there can be no state. Second, if people just go visit and then move on then they are like tourists, with no identification with the place nor anything that is common and shared — they don’t live together. But when people identify with a place or a territory, and usually live there, then they form a permanent population. Such a group of people — the permanent population — then develops its own culture and society, which also identifies with that geographically defined territory — the place where they live.
 
 > [table] What exactly is a geographically defined
 
-> [table] It is a place, a geographical area, that has clear boundaries. The boundaries are not necessarily geographical features but sort of lines that are agreed upon by the neighbouring states that separate these states.
+It is a place, a geographical area, that has clear boundaries. The boundaries are not necessarily geographical features but sort of lines that are agreed upon by the neighbouring states that separate these states.
 
-> [table] territory? So, population and territory as a part of the state are clear. That also then explains why the government is a part of the state, but it is not the state. Because people live together, they need laws to be made and implemented for the state to function, which is what the government does.
+territory? So, population and territory as a part of the state are clear. That also then explains why the government is a part of the state, but it is not the state. Because people live together, they need laws to be made and implemented for the state to function, which is what the government does.
 
 > [table] What does sovereignty mean, and why is it essential for a state?
 
-> [table] Sovereignty means that the state has complete control over its own matters and is able to make and implement laws in accordance with its own needs. No other state or external body can interfere in the internal affairs of that state. This is why sovereignty is an essential feature of a state.
+Sovereignty means that the state has complete control over its own matters and is able to make and implement laws in accordance with its own needs. No other state or external body can interfere in the internal affairs of that state. This is why sovereignty is an essential feature of a state.
 
 <!-- page 146 (pdf 4) -->
 
@@ -92,13 +92,7 @@ In India, the word ‘state’ can refer to the Indian State or to our subnation
 
 ## What is a Government?
 
-The government is a group of people or a system that runs the country. It includes leaders, ministers, and officials who,
-
- make laws,
-
- enforce laws,
-
- resolve disputes.
+The government is a group of people or a system that runs the country. It includes leaders, ministers, and officials who, make laws, enforce laws, resolve disputes.
 
 The government is just one part of the state. It can change after elections, but the state remains the same. Think of the state as a school, and the government as the principal and teachers. Teachers may come and go, but the school remains.
 
@@ -110,11 +104,9 @@ In real life, we often say “the state did this” or “the government decided
 
 > [caption] Parliament of India
 
-So, while the words are different in meaning, people often mix them up because —
+So, while the words are different in meaning, people often mix them up because — the government runs the daily work of the state;
 
- the government runs the daily work of the state;
-
- we usually interact with the government, not the whole state.
+we usually interact with the government, not the whole state.
 
 <!-- page 147 (pdf 5) -->
 
@@ -230,13 +222,11 @@ The permanent executive includes government officers who are not elected but are
 
 Unlike politicians, these officers are not removed or replaced after every election. They work in the background to keep the government running smoothly, no matter which party is in power. Their job is to offer expert advice, implement policies, and manage public services.
 
-Some key functions of the bureaucracy are —
+Some key functions of the bureaucracy are — Implementing laws, policies, and schemes: Bureaucrats ensure that laws and government programs and schemes passed by the political executive are appropriately implemented across the country.
 
- Implementing laws, policies, and schemes: Bureaucrats ensure that laws and government programs and schemes passed by the political executive are appropriately implemented across the country.
+Creating a link between citizens and the government: Through various departments and field offices, bureaucrats interact with the public, deliver services such as public schools, roads, and hospitals, and address grievances.
 
- Creating a link between citizens and the government: Through various departments and field offices, bureaucrats interact with the public, deliver services such as public schools, roads, and hospitals, and address grievances.
-
- Record-keeping and governance: They keep records of government work, decisions, and procedures.
+Record-keeping and governance: They keep records of government work, decisions, and procedures.
 
 > [note] lA
 
@@ -328,13 +318,13 @@ The judiciary is the part of the government that makes sure everyone follows the
 
 ## What does the judiciary do?
 
- Protects and defends the laws: It makes sure that the laws are followed properly.
+Protects and defends the laws: It makes sure that the laws are followed properly.
 
- Interprets the laws: It explains what a law means when the wording is complex or when people disagree on its meaning.
+Interprets the laws: It explains what a law means when the wording is complex or when people disagree on its meaning.
 
- Protects the rights and liberty of citizens: It protects the rights and freedoms given by the Constitution. If fundamental rights are violated, we can go to court to address the violations.
+Protects the rights and liberty of citizens: It protects the rights and freedoms given by the Constitution. If fundamental rights are violated, we can go to court to address the violations.
 
- Safeguards the Constitution through judicial review: It acts as a referee when the government or others break the law.
+Safeguards the Constitution through judicial review: It acts as a referee when the government or others break the law.
 
 ## Why is the judiciary important?
 
@@ -456,29 +446,29 @@ It has been more than 75 years since India became a republic. During this time, 
 
 Have a class discussion on the following:
 
-Æ List five major achievements of our country in improving the lives of ordinary people in your village, town or city. Which level of government made this possible and how?
+List five major achievements of our country in improving the lives of ordinary people in your village, town or city. Which level of government made this possible and how?
 
-Æ List five problems that ordinary people face frequently. At which level of government should these be addressed and how?
+List five problems that ordinary people face frequently. At which level of government should these be addressed and how?
 
 ## Before we move on ...
 
-Æ The state and the government are different, but sometimes the terms are used interchangeably. The state is a larger concept that includes the citizens of a country, the territory of the country. It is sovereign, i.e., it has the independence to make its laws without any outside control. It has a government that makes and implements laws to run the country.
+The state and the government are different, but sometimes the terms are used interchangeably. The state is a larger concept that includes the citizens of a country, the territory of the country. It is sovereign, i.e., it has the independence to make its laws without any outside control. It has a government that makes and implements laws to run the country.
 
-Æ A republic is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. In a republic, the powers of the head of state are limited through a constitution or laws.
+A republic is a form of government where the head of state is elected (directly or indirectly) by the people, rather than being a king or queen who inherits power. In a republic, the powers of the head of state are limited through a constitution or laws.
 
-Æ The three pillars or organs of the government are the legislature, the executive, and the judiciary.
+The three pillars or organs of the government are the legislature, the executive, and the judiciary.
 
 <!-- page 166 (pdf 24) -->
 
-Æ In India, there are also three levels of government — union (central), state, and local.
+In India, there are also three levels of government — union (central), state, and local.
 
-Æ The Constitution of India forms the fundamental and basic framework for the structure of our government. It ensures that there are ‘checks and balances’ among the three organs of the government. It also ensures that the three levels of government work together for the people without excessive centralisation.
+The Constitution of India forms the fundamental and basic framework for the structure of our government. It ensures that there are ‘checks and balances’ among the three organs of the government. It also ensures that the three levels of government work together for the people without excessive centralisation.
 
-Æ The media plays an important role in democracy — it keeps the citizens informed and provides a platform for discussion and debate.
+The media plays an important role in democracy — it keeps the citizens informed and provides a platform for discussion and debate.
 
-Æ Civil society organisations (NGOs) play a critical role in raising issues, and also working with government to solve them.
+Civil society organisations (NGOs) play a critical role in raising issues, and also working with government to solve them.
 
-Æ The permanent executive consisting of civil servants or bureaucrats implement laws and policies devised by the government.
+The permanent executive consisting of civil servants or bureaucrats implement laws and policies devised by the government.
 
 ## Questions and activities
 
@@ -488,21 +478,21 @@ Have a class discussion on the following:
 
 3. Imagine you are part of your school’s student council. The council works like a mini-parliament — it has members elected by students, debates issues and makes decisions. In this context, do you think it would be better if only the council president makes all the decisions or if power is to be shared among all members?
 
-Æ Should the student council have the power to make rules about the food you eat, or the language you speak?
+Should the student council have the power to make rules about the food you eat, or the language you speak?
 
-Æ What can go wrong if the student council is the most powerful body in your school and no one questions its decisions?
+What can go wrong if the student council is the most powerful body in your school and no one questions its decisions?
 
 <!-- page 167 (pdf 25) -->
 
 4. Think about these real-life situations in relation to India’s democracy:
 
-Æ Should the Parliament be the most powerful institution in the country? Why or why not?
+Should the Parliament be the most powerful institution in the country? Why or why not?
 
-Æ Should the Parliament have the power to make any law it wants, even if it affects your rights?
+Should the Parliament have the power to make any law it wants, even if it affects your rights?
 
-Æ What could go wrong if lawmaking has no limits? Can it lead to unfair or unjust laws?
+What could go wrong if lawmaking has no limits? Can it lead to unfair or unjust laws?
 
-Æ Who is more powerful in India, the Parliament or the Supreme Court? Give your reasons.
+Who is more powerful in India, the Parliament or the Supreme Court? Give your reasons.
 
 5. Ask your parents / guardians how they engaged with the government over the past year. Make a list and classify the items based on the level of government they had to work with. What challenges did they face?
 

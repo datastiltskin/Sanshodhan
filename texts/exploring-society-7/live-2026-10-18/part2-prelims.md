@@ -31,11 +31,9 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 
 > [caption] Printed on 80 GSM paper with NCERT watermark
 
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B. R. Printers, C-46/2, Lawrance Road, Industrial Area, Delhi 110 035
+Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at B. R. Printers, C-46/2, Lawrance Road, Industrial Area, Delhi 110 035
 
-> [caption] ISBN 978-93-5729-141-5 0782 – Exploring Society: India and Beyond Social Science Textbook for Grade 7 Part 2 ALL RIGHTS RESERVED
-
-> [caption]  No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.  This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.  The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] ISBN 978-93-5729-141-5 0782 – Exploring Society: India and Beyond Social Science Textbook for Grade 7 Part 2 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher. This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published. The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION
 
@@ -93,7 +91,7 @@ We have approached the creation of this book with the same love and care as the 
 
 As usual, in this textbook, every part of it — text, side boxes, images or maps — can be subject to evaluation and assessment. There are however four exceptions:
 
- The quotation or quotations on the first pages of chapters. Some are straightforward, others offer deep thought. Do not worry if you do not understand them at the first reading; they are meant to stimulate you or inspire you.  Wherever we have mentioned in the text, “You need not remember this”.  The diacritical signs on some Sanskrit words — do look at ‘Your journey through this book’ in the next few pages to understand what we mean.  The Glossary (at the end of the textbook).
+The quotation or quotations on the first pages of chapters. Some are straightforward, others offer deep thought. Do not worry if you do not understand them at the first reading; they are meant to stimulate you or inspire you. Wherever we have mentioned in the text, “You need not remember this”. The diacritical signs on some Sanskrit words — do look at ‘Your journey through this book’ in the next few pages to understand what we mean. The Glossary (at the end of the textbook).
 
 No evaluation should bear on these four aspects.
 
@@ -105,13 +103,13 @@ Since this textbook is in English, we use the Roman alphabet. But we will also e
 
 Here is how they work:
 
- A short dash (called ‘macron’) over a vowel makes it long. For instance, dāna is pronounced ‘daana’; līlā is pronounced ‘leelaa’; sūtra is sootra.
+A short dash (called ‘macron’) over a vowel makes it long. For instance, dāna is pronounced ‘daana’; līlā is pronounced ‘leelaa’; sūtra is sootra.
 
- śh and ṣh are pronounced more or less as ‘sh’ in ‘shall’ (there is a slight difference, since they correspond to श and ष in the Devanagari script, but you can ignore it in practice). So śhāstra is pronounced ‘shaastra’; kṣhīra is ‘ksheera’.
+śh and ṣh are pronounced more or less as ‘sh’ in ‘shall’ (there is a slight difference, since they correspond to श and ष in the Devanagari script, but you can ignore it in practice). So śhāstra is pronounced ‘shaastra’; kṣhīra is ‘ksheera’.
 
- Consonants with a dot below them (ḍ, ṭ and ṇ mainly) are ‘hard’, i.e. pronounced by hitting the tongue on the palate; without a dot, they are soft, with the tongue on the teeth. (As a rough comparison, in the preceding English word ‘teeth’, the first ‘t’ is hard, while the final ‘th’ is soft.) Examples of hard consonants: Āryabhaṭa, gaṇa, paṭhana (studying), pīṭha, goṣṭhī (association, assembly), dhanāḍhya (rich), aṇu (atom).
+Consonants with a dot below them (ḍ, ṭ and ṇ mainly) are ‘hard’, i.e. pronounced by hitting the tongue on the palate; without a dot, they are soft, with the tongue on the teeth. (As a rough comparison, in the preceding English word ‘teeth’, the first ‘t’ is hard, while the final ‘th’ is soft.) Examples of hard consonants: Āryabhaṭa, gaṇa, paṭhana (studying), pīṭha, goṣṭhī (association, assembly), dhanāḍhya (rich), aṇu (atom).
 
- Finally, ṛ is the Devanagari letter ऋ. We choose to write it as ṛi, although in some parts of India it is also pronounced as ṛu. So we write ‘Ṛig Veda’, for instance.
+Finally, ṛ is the Devanagari letter ऋ. We choose to write it as ṛi, although in some parts of India it is also pronounced as ṛu. So we write ‘Ṛig Veda’, for instance.
 
 For those who wish to know the precise correspondence between the Devanagari alphabet and the Roman script in our system, the tables of short and long vowels are as follows:
 

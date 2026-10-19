@@ -71,3 +71,8 @@ def test_markdown_merges_dropcap_and_titles(page_2007, page_2023):
 def test_body_text_strips_markers_and_asides():
     md = "<!-- page 1 (pdf 1) -->\n\n# Title\n\nA paragraph.\n\n> [caption] Fig. 1\n"
     assert extract.body_text(md) == "# Title\nA paragraph."
+
+
+def test_decode_symbol_font():
+    assert extract.decode_symbol_font("\uf048\uf069\uf073\uf074\uf06f\uf072\uf079\uf020\uf048\uf069\uf074\uf06c\uf065\uf072\uf092\uf073") == "History Hitler’s"
+    assert extract.decode_symbol_font("plain text") == "plain text"

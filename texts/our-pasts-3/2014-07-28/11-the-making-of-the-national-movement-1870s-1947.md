@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch05.pdf"
 source_sha256: "fdd92995781d3f9c5afc0e9aaa8f0fbac10abcc16aaa2f7475c4028ea86ccd90"
 pdf_pages: 19
 printed_pages: "141-159"
-body_fingerprint: "f2d9f950db9e302dea0d924414a74e9ac78ad9edcb5c380bea4459e4244da983"
+body_fingerprint: "ad0a4bb5fedb3519433c1381a15b4b66f67a7418ded0b37d816c810ab15fa974"
 ---
 
 <!-- page 141 (pdf 1) -->
@@ -23,23 +23,7 @@ body_fingerprint: "f2d9f950db9e302dea0d924414a74e9ac78ad9edcb5c380bea4459e4244da
 
 In the previous chapters we have looked at:
 
- The British conquest of territories, and takeover of kingdoms
-
- Introduction of new laws and administrative institutions
-
- Changes in the lives of peasants and tribals
-
- Educational changes in the nineteenth century
-
- Debates regarding the condition of women
-
- Challenges to the caste system
-
- Social and religious reform
-
- The revolt of 1857 and its aftermath
-
- The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
+The British conquest of territories, and takeover of kingdoms Introduction of new laws and administrative institutions Changes in the lives of peasants and tribals Educational changes in the nineteenth century Debates regarding the condition of women Challenges to the caste system Social and religious reform The revolt of 1857 and its aftermath The decline of crafts and growth of industries On the basis of what you have read about these issues, do you think Indians were discontented with British rule? If so, how were different groups and classes dissatisfied?
 
 <!-- page 142 (pdf 2) -->
 
@@ -75,7 +59,7 @@ this Congress is composed of the representatives, not of any one class or commun
 
 It has often been said that the Congress in the first twenty years was “moderate” in its objectives and methods. During this period it demanded a greater voice for Indians in the government and in administration. It wanted the Legislative Councils to be made more representative, given more power, and introduced in provinces where none existed. It demanded that Indians be placed in high positions in the government. For this purpose it called for civil service examinations to be held in India as well, not just in London.
 
-The demand for Indianisation of the administration was part of a movement against racisim, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings hActivity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
+The demand for Indianisation of the administration was part of a movement against racisim, since most important jobs at the time were monopolised by white Publicist – Someone who publicises an idea by circulating information, writing reports, speaking at meetings Activity From the beginning the Congress sought to speak for, and in the name of, all the Indian people. Why did it choose to do so?
 
 > [table] Fig. 2 – Dadabhai Naoroji
 
@@ -93,7 +77,7 @@ This is what a Moderate leader, Dinshaw Wacha, wrote to Naoroji in 1887:
 
 Pherozeshah is nowadays too busy with his personal work … They are already rich enough … Mr. Telang too remains busy. I wonder how if all remain busy in the pursuit of gold can the progress of the country be advanced?
 
-hActivity What problems regarding the early Congress does this comment highlight?
+Activity What problems regarding the early Congress does this comment highlight?
 
 officials, and the British generally assumed that Indians could not be given positions of responsibility. Since British officers were sending a major part of their large salaries home, Indianisation, it was hoped, would also reduce the drain of wealth to England. Other demands included the separation of the judiciary from the executive, the repeal of the Arms Act and the freedom of speech and expression.
 
@@ -117,7 +101,7 @@ The partition of Bengal infuriated people all over India. All sections of the Co
 
 > [table] A nationalist from Punjab, he was one of the leading members of the Radical group which was critical of the politics of petitions. He was also an active member of the Arya Samaj.
 
-Revolutionary violence The use of violence to make a radical change within society Council – An appointed or elected body of people with an administrative, advisory or representative function hActivity Find out which countries fought the First World War.
+Revolutionary violence The use of violence to make a radical change within society Council – An appointed or elected body of people with an administrative, advisory or representative function Activity Find out which countries fought the First World War.
 
 The Swadeshi movement sought to oppose British rule and encourage the ideas of self-help, swadeshi enterprise, national education, and use of Indian languages. To fight for swaraj, the radicals advocated mass mobilisation and boycott of British institutions and goods. Some individuals also began to suggest that “revolutionary violence” would be necessary to overthrow British rule.
 
@@ -141,7 +125,7 @@ Furthermore, in 1917 there was a revolution in Russia. News about peasants’ an
 
 It is in these circumstances that Mahatma Gandhi emerged as a mass leader. As you may know, Gandhiji, aged 46, arrived in India in 1915 from South Africa. Having led Indians in that country in non-violent marches against racist restrictions, he was already a respected leader, known internationally. His South African campaigns had brought him in contact with various types of Indians: Hindus, Muslims, Parsis and Christians; Gujaratis, Tamils and north Indians; and upper-class merchants, lawyers and workers.
 
-Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest hActivity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
+Mahatma Gandhi spent his first year in India travelling throughout the country, understanding the people, their needs and the overall situation. His earliest Activity Find out about the Jallianwala Bagh massacre. What is Jallianwala Bagh? What atrocities were committed there? How were they committed?
 
 > [caption] Fig. 6 – Founders of the Natal Congress, Durban, South Africa, 1895 In 1895, along with other Indians, Mahatma Gandhi established the Natal Congress to fight against racial discrimination. Can you identify Gandhiji? He is standing at the centre in the row at the back, wearing a coat and tie.
 
@@ -187,13 +171,13 @@ Non-violence comes to us through doing good continually without the slightest ex
 
 > [caption] 12 March 1938
 
-Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
+Picket – People protesting outside a building or shop to prevent others from entering Mahants – Religious functionaries of Sikh gurdwaras Illegal eviction – Forcible and unlawful throwing out of tenants from the land they rent In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
 
 <!-- page 150 (pdf 10) -->
 
 > [caption] Fig. 8 – A popular representation of Mahatma Gandhi
 
-> [table] In popular images too Mahatma Gandhi is often shown as a divine being occupying a place within the pantheon of Indian gods. In this image he is driving Krishna’s chariot, guiding other nationalist leaders in the battle against the British.
+had restricted their use of forest resources in various ways. They believed that Gandhiji would get their taxes reduced and have the forest regulations abolished. In many forest villages, peasants proclaimed swaraj and believed that “Gandhi Raj” was about to be established.
 
 In Sind (now in Pakistan), Muslim traders and peasants were very enthusiastic about the Khilafat call. In Bengal too, the Khilafat-Non-Cooperation alliance gave enormous communal unity and strength to the national movement.
 
@@ -221,7 +205,7 @@ Once the Non-Cooperation movement was over, Gandhiji’s followers stressed that
 
 Two important developments of the mid-1920s were the formation of the Rashtriya Swayamsevak Sangh (RSS), a Hindu organisation, and the Communist Party of India. These parties have held very different ideas about the kind of country India should be. Find out about their ideas with the help of your teacher. The revolutionary nationalist Bhagat Singh too was active in this period.
 
-hActivity Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
+Activity Read Source 4. According to this report, how did people view Mahatma Gandhi? Why do you think they felt that he was opposed to zamindars but not to the government? Why do you think they were in favour of Gandhiji?
 
 > [caption] Fig. 9 – Chitta Ranjan Das
 
@@ -229,7 +213,7 @@ hActivity Read Source 4. According to this report, how did people view Mahatma G
 
 <!-- page 152 (pdf 12) -->
 
-> [table] In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
+In 1927 the British government in England decided to send a commission headed by Lord Simon to decide India’s political future. The Commission had no Indian representative. The decison created an outrage in India. All political groups decided to boycott the Commission. When the Commission arrived it was met with demonstrations with banners saying “Simon Go Back”.
 
 The decade closed with the Congress resolving to fight for Purna Swaraj (complete independence) in 1929 under the presidentship of Jawaharlal Nehru. Consequently, “Independence Day” was observed on 26 January 1930 all over the country.
 
@@ -293,7 +277,7 @@ The first response of the British was severe repression. By the end of 1943 over
 
 Towards Independence and Partition Meanwhile, in 1940 the Muslim League had moved a resolution demanding “Independent States” for Muslims in the north-western and eastern areas of the country. The resolution did not mention partition or Pakistan. Why did the League ask for an autonomous arrangement for the Muslims of the subcontinent?
 
-From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More importantly, the provincial elections of 1937 seemed to have convinced the League that Muslims were a minority, and they would always have to play second fiddle in any democratic structure. It feared that Muslims may even go unrepresented. The Congress’s rejection of the League’s desire to form a joint Congress-League government in the United Provinces in 1937 also annoyed the League.
+From the late 1930s, the League began viewing the Muslims as a separate “nation” from the Hindus. In developing this notion it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s. More Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
 
 > [caption] Fig. 14 – Quit India movement, August 1942 Demonstrators clashed with the police everywhere. Many thousands were arrested, over a thousand killed, many more were injured.
 
@@ -305,23 +289,21 @@ From the late 1930s, the League began viewing the Muslims as a separate “natio
 
 <!-- page 156 (pdf 16) -->
 
-> [caption] Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942
+> [caption] Fig. 16 – Maulana Azad with other members at the Congress Working Committee, Sevagram, 1942 Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
 
-> [table] Azad was born in Mecca to a Bengali father and an Arab mother. Well-versed in many languages, Azad was a scholar of Islam and an exponent of the notion of wahadat-i-deen, the essential oneness of all religions. An active participant in Gandhian movements and a staunch advocate of Hindu-Muslim unity, he was opposed to Jinnah’s two-nation theory.
-
-> [caption] Fig. 19 – Mohammad Ali Jinnah with Mahatma Gandhi, Bombay, September 1944
-
-> [table] An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
+An ambassador of Hindu-Muslim unity until 1920, Jinnah played an important role in the making of the Lucknow Pact. He reorganised the Muslim League after 1934, and became the major spokesperson for the demand for Pakistan.
 
 > [caption] Fig. 17 – Chakravarti Rajagopalachari speaking to Gandhiji before the Gandhi-Jinnah talks, 1944
 
-> [table] A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
+A veteran nationalist and leader of the Salt Satyagraha in the south, C. Rajagopalachari, popularly known as Rajaji, served as member of the Interim Government of 1946 and as free India’s first Indian Governor-General.
 
 > [caption] Fig. 18 – Sardar Vallabhbhai Patel played an important role in the negotiations for independence during 1945-47
 
 > [table] Patel hailed from an impoverished peasant-proprietor family of Nadiad, Gujarat. A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.
 
 <!-- page 157 (pdf 17) -->
+
+importantly, the provincial elections of 1937 seemed to have convinced the League that Muslims were a minority, and they would always have to play second fiddle in any democratic structure. It feared that Muslims may even go unrepresented. The Congress’s rejection of the League’s desire to form a joint Congress-League government in the United Provinces in 1937 also annoyed the League.
 
 The Congress’s failure to mobilise the Muslim masses in the 1930s allowed the League to widen its social support. It sought to enlarge its support in the early 1940s when most Congress leaders were in jail. At the end of the war in 1945, the British opened negotiations between the Congress, the League and themselves for the independence of India. The talks failed because the League saw itself as the sole spokesperson of India’s Muslims. The Congress could not accept this claim since a large number of Muslims still supported it.
 
@@ -331,13 +313,13 @@ Elections to the provinces were again held in 1946. The Congress did well in the
 
 > [table] Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity.
 
-“General”constituencies Election districts with no reservations for any religious or other community After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947 violence spread to different parts of northern India. Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
+“General”constituencies Election districts with no reservations for any religious or other community Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
 
 > [caption] Fig. 21 – Khan Abdul Ghaffar Khan, the Pashtun leader from the North West Frontier Province, with his colleagues at a peace march through Bihar, March 1947
 
-> [table] Also known as Badshah Khan, he was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of his province. Badshah Khan was strongly opposed to the Partition of India. He criticised his Congress colleagues for agreeing to the 1947 division.
-
 <!-- page 158 (pdf 18) -->
+
+After the failure of the Cabinet Mission, the Muslim League decided on mass agitation for winning its Pakistan demand. It announced 16 August 1946 as “Direct Action Day”. On this day riots broke out in Calcutta, lasting several days and resulting in the death of thousands of people. By March 1947 violence spread to different parts of northern India. Many hundred thousand people were killed and numerous women had to face untold brutalities during the Partition. Millions of people were forced to flee their homes. Torn asunder from their homelands, they were reduced to being refugees in alien lands. Partition also meant that India changed, many of its cities changed, and a new country – Pakistan – was born. So, the joy of our country’s independence from British rule came mixed with the pain and violence of Partition.
 
 > [caption] Fig. 22 – Refugees from riot-torn Punjab gather in New Delhi, in search of shelter and food
 

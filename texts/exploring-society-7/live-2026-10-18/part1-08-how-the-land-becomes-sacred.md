@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf"
 source_sha256: "a02af4869100ab44192797965c9243892c81d851952dc69ec3d9758bed2c7da1"
 pdf_pages: 18
 printed_pages: "167-184"
-body_fingerprint: "291582cb2f3e34f4a4c99a35bfbb3d68f5c5de4ed053a34e7e303a1aebfe5b89"
+body_fingerprint: "1481c9892bd364be7f18723a087155be35785344584629a128ab617a2955c57a"
 ---
 
 <!-- page 167 (pdf 1) -->
@@ -82,9 +82,9 @@ Here’s an excerpt from the writings of Dharampal, a historian and thinker:
 
 ### LET’S EXPLORE
 
-Æ Read the excerpt. What are your observations? Locate the route the group must have taken from Rameswaram to Haridwar. Why do you think the group was going straight to Haridwar instead of stopping at Delhi?
+Read the excerpt. What are your observations? Locate the route the group must have taken from Rameswaram to Haridwar. Why do you think the group was going straight to Haridwar instead of stopping at Delhi?
 
-Æ In ancient times, when people were travelling from Madurai in Tamil Nadu to Varanasi in Uttar Pradesh, what languages would they come across? How would they communicate with people in those places? Where would they stay? What food would they eat?
+In ancient times, when people were travelling from Madurai in Tamil Nadu to Varanasi in Uttar Pradesh, what languages would they come across? How would they communicate with people in those places? Where would they stay? What food would they eat?
 
 In the Jain tradition, the tīrthas are associated with places where the Tīrthankaras attained liberation or where significant events of their lives occurred. Trees, ponds, hills and mountains that the Tīrthankaras visited or meditated at are also considered sacred. Examples of such places include Mount Abu, Girnar and the Śhatruñjaya hill in Saurashtra (Gujarat).
 
@@ -108,7 +108,7 @@ This tradition comes from the perception of a divine presence in all of Nature. 
 
 Here are a few more examples of such traditions:
 
- The Niyam Dongar hill in the Niyamgiri Range of Odisha is sacred to the Dongria Khond tribe. They believe that the hill is the abode of Niyam Raja, the supreme deity who provides everything they need for sustenance. Cutting trees here is prohibited and considered a sign of disrespect to the deity.  In the early 2000s, the Government of Sikkim identified several sacred mountains, caves, lakes, rocks and hot springs that were to be protected against all forms of damage.  In the Nilgiris of Tamil Nadu, the Todas, a tribal community, regard many mountain peaks as sacred and associate them with their gods. To them, this sense of sacredness extends to many plants (which often become part of their rituals), Shola forests, wetlands, and even specific stones and individual trees.
+The Niyam Dongar hill in the Niyamgiri Range of Odisha is sacred to the Dongria Khond tribe. They believe that the hill is the abode of Niyam Raja, the supreme deity who provides everything they need for sustenance. Cutting trees here is prohibited and considered a sign of disrespect to the deity. In the early 2000s, the Government of Sikkim identified several sacred mountains, caves, lakes, rocks and hot springs that were to be protected against all forms of damage. In the Nilgiris of Tamil Nadu, the Todas, a tribal community, regard many mountain peaks as sacred and associate them with their gods. To them, this sense of sacredness extends to many plants (which often become part of their rituals), Shola forests, wetlands, and even specific stones and individual trees.
 
 <!-- page 173 (pdf 7) -->
 
@@ -156,9 +156,9 @@ Those rivers have been lifelines for the Indian civilisation. Their sources, tri
 
 ### DON’T MISS OUT
 
- Prayagraj hosts the Kumbh Mela every six years. Prayag is located at the confluence of three rivers — Ganga, Yamuna and the invisible Sarasvati. A few years ago, UNESCO listed the Kumbh Mela as an ‘intangible heritage of the world’.
+Prayagraj hosts the Kumbh Mela every six years. Prayag is located at the confluence of three rivers — Ganga, Yamuna and the invisible Sarasvati. A few years ago, UNESCO listed the Kumbh Mela as an ‘intangible heritage of the world’.
 
- An estimated 660 million people participated in the Kumbh Mela of 2025. What proportion of the population of India is this?
+An estimated 660 million people participated in the Kumbh Mela of 2025. What proportion of the population of India is this?
 
 Kumbh Mela
 
@@ -270,13 +270,13 @@ Sacred geography continues to be relevant today. When there is a conflict in our
 
 ## Before we move on …
 
-Æ All religions in India have their sacred places dotted over the landscape. In Buddhism, Jainism and Sikhism, such places are usually associated with some of the great figures in these belief systems.
+All religions in India have their sacred places dotted over the landscape. In Buddhism, Jainism and Sikhism, such places are usually associated with some of the great figures in these belief systems.
 
-Æ Hinduism has dense networks of pilgrimage sites, covering the entire geography of India. The practice of pilgrimage is interwoven with the lives of people, as it serves the individual development and spiritual growth, but also the socio-economic purposes of trade expansion and pan-Indian cultural integration.
+Hinduism has dense networks of pilgrimage sites, covering the entire geography of India. The practice of pilgrimage is interwoven with the lives of people, as it serves the individual development and spiritual growth, but also the socio-economic purposes of trade expansion and pan-Indian cultural integration.
 
-Æ In many Hindu, tribal and folk traditions, the very land is perceived as sacred.
+In many Hindu, tribal and folk traditions, the very land is perceived as sacred.
 
-Æ Our sacred places are being polluted owing to widespread neglect and a lack of concern. It is our duty to protect our national heritage, as our Constitution also reminds us.
+Our sacred places are being polluted owing to widespread neglect and a lack of concern. It is our duty to protect our national heritage, as our Constitution also reminds us.
 
 ## Questions and activities
 

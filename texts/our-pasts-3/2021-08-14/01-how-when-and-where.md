@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch01.pdf"
 source_sha256: "2607ec24b860449d07788f9f0cddfb90205cd57a777189a0afde24670497853d"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "8188400700c4a328fa79287b0c7d87210a6c66c2f3c815f2642f40741da2ed37"
+body_fingerprint: "1f7b3b0187d8faeb5f07897edddfd594e28a84d8378fcee011a281dc093f2df5"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -95,7 +95,7 @@ In the early years of the nineteenth century these documents were carefully copi
 
 > [caption] Fig. 4 – The National Archives of India came up in the 1920s
 
-> [table] When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
 
 > [table] Source 1
 
@@ -121,7 +121,7 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
@@ -135,7 +135,7 @@ What official records do not tell From this vast corpus of records we can get to
 
 > [caption] Fig. 7 – The rebels of 1857
 
-> [table] Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 For that we need to look elsewhere. When we begin to search for these other sources we find them in plenty, though they are more difficult to get than official records. We have diaries of people, accounts of pilgrims and travellers, autobiographies of important personalities, and popular booklets that were sold in the local bazaars. As printing spread, newspapers were published and issues were debated in public. Leaders and reformers wrote to spread their ideas, poets and novelists wrote to express their feelings.
 

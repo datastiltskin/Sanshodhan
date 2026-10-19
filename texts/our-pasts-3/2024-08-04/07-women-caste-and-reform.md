@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch07.pdf"
 source_sha256: "3cade768aa6ad102f39b7c705c86596b9e1eaf556939a22432d45e661847837b"
 pdf_pages: 15
 printed_pages: "78-92"
-body_fingerprint: "57cd7a89da14599313c45cdd7397ba3f5c749dd0b0a0b28d08f6cb4c3c0dcb49"
+body_fingerprint: "458655d5169bfa4afa45c9426449e994a9b59ef42d0ae424218c67f329e7c632"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -36,7 +36,7 @@ From the early nineteenth century, we find debates and discussions about social 
 
 These debates were often initiated by Indian reformers and reform groups. One such reformer was Raja Rammohun Roy (1772–1833). He founded a reform association known as the Brahmo Sabha (later known as the Brahmo Samaj) in Calcutta. People such as Rammohun Roy are described as reformers because they felt that changes were necessary in society, and unjust practices needed to be done away with. They thought that the best way to ensure such changes was by persuading people to give up old practices and adopt a new way of life.
 
- Activity
+Activity
 
 Can you think of the ways in which social customs and practices were discussed in the pre-printing age when books, newspapers and pamphlets were not readily available?
 
@@ -52,7 +52,7 @@ The strategy adopted by Rammohun was used by later reformers as well. Whenever t
 
 > [caption] Fig. 3 – Hook swinging festival
 
-> [table] In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
+In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
 > [caption] Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 
@@ -74,7 +74,7 @@ By the second half of the nineteenth century, the movement in favour of widow re
 
 Yet, the number of widows who actually remarried remained low. Those who married were not easily accepted in society and conservative groups continued to oppose the new law.
 
- Activity
+Activity
 
 This argument was taking place more than 175 years ago. Write down the different arguments you may have heard around you on the worth of women. In what ways have the views changed?
 

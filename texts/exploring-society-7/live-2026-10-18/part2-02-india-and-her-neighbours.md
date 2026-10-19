@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf"
 source_sha256: "653ae8cb238af256d7a495c8fae6db54de39ea7295db7aad60dadbb07444dc2c"
 pdf_pages: 32
 printed_pages: "29-60"
-body_fingerprint: "bbc2df56bc94abe58e4d0d23e397e10410bc5b1d6d791e4a8a44f745948acdb6"
+body_fingerprint: "9e51c2ab0543c002ece1582f4eaaa8d27c36b5cc4e8b71a828e00067daac5e62"
 ---
 
 <!-- page 29 (pdf 1) -->
@@ -250,11 +250,11 @@ The relationship between India and Bhutan is marked by mutual respect, strategic
 
 Three main schools of Buddhism grew in ancient India and migrated to many of her neighbours:
 
-Æ Theravāda, or the ‘School of the Elders’, took shape around the 3rd century BCE. It is considered closest to the Buddha’s original teachings and today has followers mainly in Sri Lanka and in Southeast Asia, especially Thailand and Myanmar.
+Theravāda, or the ‘School of the Elders’, took shape around the 3rd century BCE. It is considered closest to the Buddha’s original teachings and today has followers mainly in Sri Lanka and in Southeast Asia, especially Thailand and Myanmar.
 
-Æ Mahāyāna or the ‘Great Vehicle’ came into being around the 1st century BCE, incorporating new ideas and practices, such as a belief that the Buddha had a divine nature and could guide people in many forms. This school travelled to several countries, including China, Japan and Korea, where several sub-schools (including Zen Buddhism) emerged on the way.
+Mahāyāna or the ‘Great Vehicle’ came into being around the 1st century BCE, incorporating new ideas and practices, such as a belief that the Buddha had a divine nature and could guide people in many forms. This school travelled to several countries, including China, Japan and Korea, where several sub-schools (including Zen Buddhism) emerged on the way.
 
-Æ Vajrayāna, or the ‘Diamond Vehicle’, also generally known as ‘Tantric Buddhism’, arose around the 6th century CE as an extension of Mahāyāna. It emphasised special techniques and secret teachings such as the use of mantras, mandalas (sacred diagrams), and visualisations of the Buddha and the bodhisattvas. Tibetan Buddhism derived from this school around the 7th century CE.
+Vajrayāna, or the ‘Diamond Vehicle’, also generally known as ‘Tantric Buddhism’, arose around the 6th century CE as an extension of Mahāyāna. It emphasised special techniques and secret teachings such as the use of mantras, mandalas (sacred diagrams), and visualisations of the Buddha and the bodhisattvas. Tibetan Buddhism derived from this school around the 7th century CE.
 
 Even today, these three schools of Buddhism are still followed in some parts of India, especially in the Himalayan states.
 
@@ -568,13 +568,13 @@ Moreover, Oman is India’s closest defence partner in the Gulf, being the first
 
 ## Before we move on …
 
-Æ India and her neighbours share centuries of cultural, spiritual, religious and commercial exchanges. India’s schools of thought and belief, arts, literature and architecture left a visible cultural imprint across countries of Southeast Asia.
+India and her neighbours share centuries of cultural, spiritual, religious and commercial exchanges. India’s schools of thought and belief, arts, literature and architecture left a visible cultural imprint across countries of Southeast Asia.
 
-Æ Ancient trade routes like the Uttarāpatha, Dakṣhiṇāpatha, the Silk Route, and spice routes connected India with Central Asia, Southeast Asia, and the Arabian Peninsula, resulting in trade and cultural exchanges with all those regions.
+Ancient trade routes like the Uttarāpatha, Dakṣhiṇāpatha, the Silk Route, and spice routes connected India with Central Asia, Southeast Asia, and the Arabian Peninsula, resulting in trade and cultural exchanges with all those regions.
 
-Æ India spread her traditions peacefully through trade, pilgrimage, and culture.
+India spread her traditions peacefully through trade, pilgrimage, and culture.
 
-Æ Today, regional connectivity projects aim to revive these historical links. Besides, Indian films, music, and television often contribute to sustained bonds, in addition to shared strategic and trade interests.
+Today, regional connectivity projects aim to revive these historical links. Besides, Indian films, music, and television often contribute to sustained bonds, in addition to shared strategic and trade interests.
 
 <!-- page 60 (pdf 32) -->
 
@@ -596,10 +596,10 @@ Moreover, Oman is India’s closest defence partner in the Gulf, being the first
 
 8. On blank maps:
 
-Æ Label India’s neighbours.
+Label India’s neighbours.
 
-Æ Draw arrows showing cultural flows (e.g., food, festivals, languages) between India and her neighbours.
+Draw arrows showing cultural flows (e.g., food, festivals, languages) between India and her neighbours.
 
-Æ Imagine and redraw new “borders of friendship” that connect neighbours through rivers, trade routes, or cultural zones.
+Imagine and redraw new “borders of friendship” that connect neighbours through rivers, trade routes, or cultural zones.
 
-Æ Collect pictures of the flags of the countries listed in this chapter and write your observations.
+Collect pictures of the flags of the countries listed in this chapter and write your observations.

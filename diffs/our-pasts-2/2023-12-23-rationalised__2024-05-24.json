@@ -138,7 +138,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 6,
-       "new_pos": 6
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -150,7 +150,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 7,
-       "new_pos": 7
+       "new_pos": 6
       },
       {
        "type": "equal",
@@ -162,7 +162,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 8,
-       "new_pos": 8
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -174,7 +174,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 9,
-       "new_pos": 9
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -186,7 +186,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 10,
-       "new_pos": 10
+       "new_pos": 9
       },
       {
        "type": "equal",
@@ -198,7 +198,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 11,
-       "new_pos": 11
+       "new_pos": 10
       },
       {
        "type": "equal",
@@ -210,7 +210,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 12,
-       "new_pos": 12
+       "new_pos": 11
       }
      ]
     },
@@ -1518,7 +1518,7 @@
         ]
        ],
        "old_pos": 88,
-       "new_pos": 97
+       "new_pos": 98
       },
       {
        "type": "modified",
@@ -1547,7 +1547,36 @@
         ]
        ],
        "old_pos": 89,
-       "new_pos": 98
+       "new_pos": 99
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.853,
+       "old": "Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions.",
+       "new": "Region and Empire Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss anskrit prashasti encompassed many regions.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [
+        [
+         "+",
+         "Region and Empire"
+        ],
+        [
+         "=",
+         "Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4)"
+        ],
+        [
+         "+",
+         "A Ss anskrit prashasti"
+        ],
+        [
+         "=",
+         "encompassed many regions."
+        ]
+       ],
+       "old_pos": 86,
+       "new_pos": 95
       },
       {
        "type": "modified",
@@ -1568,7 +1597,7 @@
         ]
        ],
        "old_pos": 87,
-       "new_pos": 96
+       "new_pos": 97
       },
       {
        "type": "inserted",
@@ -1580,7 +1609,7 @@
        "new_page": 9,
        "words": [],
        "old_pos": null,
-       "new_pos": 95
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -1592,7 +1621,7 @@
        "new_page": 9,
        "words": [],
        "old_pos": 90,
-       "new_pos": 99
+       "new_pos": 100
       },
       {
        "type": "deleted",
@@ -1633,7 +1662,7 @@
         ]
        ],
        "old_pos": 93,
-       "new_pos": 109
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -1645,7 +1674,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 91,
-       "new_pos": 107
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -1657,7 +1686,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 92,
-       "new_pos": 108
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -1669,7 +1698,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 95,
-       "new_pos": 110
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -1681,7 +1710,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 96,
-       "new_pos": 111
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -1693,7 +1722,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 97,
-       "new_pos": 112
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -1705,7 +1734,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 98,
-       "new_pos": 113
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -1717,7 +1746,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 99,
-       "new_pos": 114
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -1729,7 +1758,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 100,
-       "new_pos": 115
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -1741,7 +1770,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 101,
-       "new_pos": 116
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -1753,7 +1782,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 102,
-       "new_pos": 117
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -1765,7 +1794,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 103,
-       "new_pos": 118
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -1777,7 +1806,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 104,
-       "new_pos": 119
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -1789,7 +1818,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 105,
-       "new_pos": 120
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -1801,7 +1830,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 106,
-       "new_pos": 121
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -1813,7 +1842,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 107,
-       "new_pos": 122
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -1825,7 +1854,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 108,
-       "new_pos": 123
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -1837,7 +1866,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 109,
-       "new_pos": 124
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -1849,7 +1878,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 110,
-       "new_pos": 125
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -1861,7 +1890,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 111,
-       "new_pos": 126
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -1873,7 +1902,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 112,
-       "new_pos": 127
+       "new_pos": 128
       },
       {
        "type": "modified",
@@ -1910,7 +1939,7 @@
         ]
        ],
        "old_pos": 119,
-       "new_pos": 134
+       "new_pos": 135
       },
       {
        "type": "punctuation",
@@ -1935,7 +1964,7 @@
         ]
        ],
        "old_pos": 116,
-       "new_pos": 131
+       "new_pos": 132
       },
       {
        "type": "punctuation",
@@ -1960,7 +1989,7 @@
         ]
        ],
        "old_pos": 124,
-       "new_pos": 139
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -1972,7 +2001,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 113,
-       "new_pos": 128
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -1984,7 +2013,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 114,
-       "new_pos": 129
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -1996,7 +2025,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 115,
-       "new_pos": 130
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -2008,7 +2037,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 117,
-       "new_pos": 132
+       "new_pos": 133
       },
       {
        "type": "equal",
@@ -2020,7 +2049,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 118,
-       "new_pos": 133
+       "new_pos": 134
       },
       {
        "type": "equal",
@@ -2032,7 +2061,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 120,
-       "new_pos": 135
+       "new_pos": 136
       },
       {
        "type": "equal",
@@ -2044,7 +2073,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 121,
-       "new_pos": 136
+       "new_pos": 137
       },
       {
        "type": "equal",
@@ -2056,7 +2085,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 122,
-       "new_pos": 137
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -2068,7 +2097,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 123,
-       "new_pos": 138
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -2080,7 +2109,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 125,
-       "new_pos": 140
+       "new_pos": 141
       },
       {
        "type": "modified",
@@ -2101,7 +2130,7 @@
         ]
        ],
        "old_pos": 130,
-       "new_pos": 145
+       "new_pos": 146
       },
       {
        "type": "modified",
@@ -2134,7 +2163,7 @@
         ]
        ],
        "old_pos": 129,
-       "new_pos": 144
+       "new_pos": 145
       },
       {
        "type": "modified",
@@ -2155,7 +2184,7 @@
         ]
        ],
        "old_pos": 141,
-       "new_pos": 156
+       "new_pos": 157
       },
       {
        "type": "modified",
@@ -2180,7 +2209,7 @@
         ]
        ],
        "old_pos": 140,
-       "new_pos": 155
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -2192,7 +2221,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 126,
-       "new_pos": 141
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -2204,7 +2233,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 127,
-       "new_pos": 142
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -2216,7 +2245,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 128,
-       "new_pos": 143
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -2228,7 +2257,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 131,
-       "new_pos": 146
+       "new_pos": 147
       },
       {
        "type": "equal",
@@ -2240,7 +2269,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 132,
-       "new_pos": 147
+       "new_pos": 148
       },
       {
        "type": "equal",
@@ -2252,7 +2281,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 133,
-       "new_pos": 148
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -2264,7 +2293,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 134,
-       "new_pos": 149
+       "new_pos": 150
       },
       {
        "type": "equal",
@@ -2276,7 +2305,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 135,
-       "new_pos": 150
+       "new_pos": 151
       },
       {
        "type": "equal",
@@ -2288,7 +2317,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 136,
-       "new_pos": 151
+       "new_pos": 152
       },
       {
        "type": "equal",
@@ -2300,7 +2329,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 137,
-       "new_pos": 152
+       "new_pos": 153
       },
       {
        "type": "equal",
@@ -2312,7 +2341,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 138,
-       "new_pos": 153
+       "new_pos": 154
       },
       {
        "type": "equal",
@@ -2324,7 +2353,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 139,
-       "new_pos": 154
+       "new_pos": 155
       },
       {
        "type": "deleted",
@@ -2373,7 +2402,7 @@
         ]
        ],
        "old_pos": 148,
-       "new_pos": 161
+       "new_pos": 162
       },
       {
        "type": "modified",
@@ -2394,7 +2423,7 @@
         ]
        ],
        "old_pos": 151,
-       "new_pos": 164
+       "new_pos": 165
       },
       {
        "type": "modified",
@@ -2415,7 +2444,7 @@
         ]
        ],
        "old_pos": 156,
-       "new_pos": 168
+       "new_pos": 169
       },
       {
        "type": "equal",
@@ -2427,7 +2456,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 142,
-       "new_pos": 157
+       "new_pos": 158
       },
       {
        "type": "equal",
@@ -2439,7 +2468,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 143,
-       "new_pos": 158
+       "new_pos": 159
       },
       {
        "type": "equal",
@@ -2451,7 +2480,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 144,
-       "new_pos": 159
+       "new_pos": 160
       },
       {
        "type": "equal",
@@ -2463,7 +2492,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 145,
-       "new_pos": 160
+       "new_pos": 161
       },
       {
        "type": "equal",
@@ -2475,7 +2504,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 149,
-       "new_pos": 162
+       "new_pos": 163
       },
       {
        "type": "equal",
@@ -2487,7 +2516,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 150,
-       "new_pos": 163
+       "new_pos": 164
       },
       {
        "type": "equal",
@@ -2499,7 +2528,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 152,
-       "new_pos": 165
+       "new_pos": 166
       },
       {
        "type": "equal",
@@ -2511,7 +2540,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 153,
-       "new_pos": 166
+       "new_pos": 167
       },
       {
        "type": "equal",
@@ -2523,7 +2552,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 154,
-       "new_pos": 167
+       "new_pos": 168
       },
       {
        "type": "deleted",
@@ -2572,7 +2601,7 @@
         ]
        ],
        "old_pos": 163,
-       "new_pos": 175
+       "new_pos": 176
       },
       {
        "type": "equal",
@@ -2584,7 +2613,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 157,
-       "new_pos": 169
+       "new_pos": 170
       },
       {
        "type": "equal",
@@ -2596,7 +2625,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 158,
-       "new_pos": 170
+       "new_pos": 171
       },
       {
        "type": "equal",
@@ -2608,7 +2637,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 159,
-       "new_pos": 171
+       "new_pos": 172
       },
       {
        "type": "equal",
@@ -2620,7 +2649,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 160,
-       "new_pos": 172
+       "new_pos": 173
       },
       {
        "type": "equal",
@@ -2632,7 +2661,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 161,
-       "new_pos": 173
+       "new_pos": 174
       },
       {
        "type": "equal",
@@ -2644,7 +2673,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 162,
-       "new_pos": 174
+       "new_pos": 175
       },
       {
        "type": "equal",
@@ -2656,7 +2685,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 167,
-       "new_pos": 176
+       "new_pos": 177
       },
       {
        "type": "equal",
@@ -2668,7 +2697,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 168,
-       "new_pos": 177
+       "new_pos": 178
       },
       {
        "type": "equal",
@@ -2680,7 +2709,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 169,
-       "new_pos": 178
+       "new_pos": 179
       },
       {
        "type": "equal",
@@ -2692,7 +2721,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 170,
-       "new_pos": 179
+       "new_pos": 180
       },
       {
        "type": "equal",
@@ -2704,7 +2733,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 171,
-       "new_pos": 180
+       "new_pos": 181
       },
       {
        "type": "equal",
@@ -2716,7 +2745,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 172,
-       "new_pos": 181
+       "new_pos": 182
       },
       {
        "type": "equal",
@@ -2728,7 +2757,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 173,
-       "new_pos": 182
+       "new_pos": 183
       },
       {
        "type": "equal",
@@ -2740,7 +2769,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 174,
-       "new_pos": 183
+       "new_pos": 184
       },
       {
        "type": "equal",
@@ -2752,7 +2781,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 175,
-       "new_pos": 184
+       "new_pos": 185
       },
       {
        "type": "equal",
@@ -2764,7 +2793,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 176,
-       "new_pos": 185
+       "new_pos": 186
       },
       {
        "type": "equal",
@@ -2776,7 +2805,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 177,
-       "new_pos": 186
+       "new_pos": 187
       },
       {
        "type": "equal",
@@ -2788,7 +2817,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 178,
-       "new_pos": 187
+       "new_pos": 188
       },
       {
        "type": "equal",
@@ -2800,7 +2829,7 @@
        "new_page": 15,
        "words": [],
        "old_pos": 179,
-       "new_pos": 188
+       "new_pos": 189
       },
       {
        "type": "restreamed",
@@ -2825,35 +2854,6 @@
        "words": [],
        "old_pos": 165,
        "new_pos": 13
-      },
-      {
-       "type": "modified",
-       "stream": "body>heading",
-       "similarity": 0.853,
-       "old": "Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions.",
-       "new": "Region and Empire Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss anskrit prashasti encompassed many regions.",
-       "old_page": 9,
-       "new_page": 9,
-       "words": [
-        [
-         "+",
-         "Region and Empire"
-        ],
-        [
-         "=",
-         "Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4)"
-        ],
-        [
-         "+",
-         "A Ss anskrit prashasti"
-        ],
-        [
-         "=",
-         "encompassed many regions."
-        ]
-       ],
-       "old_pos": 86,
-       "new_pos": 5
       }
      ]
     },
@@ -3245,7 +3245,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 17,
-       "new_pos": 101
+       "new_pos": 102
       },
       {
        "type": "restreamed",
@@ -3257,7 +3257,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 18,
-       "new_pos": 102
+       "new_pos": 103
       },
       {
        "type": "restreamed",
@@ -3269,7 +3269,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 19,
-       "new_pos": 103
+       "new_pos": 104
       },
       {
        "type": "restreamed",
@@ -3281,7 +3281,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 20,
-       "new_pos": 104
+       "new_pos": 105
       },
       {
        "type": "restreamed",
@@ -3293,7 +3293,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 21,
-       "new_pos": 105
+       "new_pos": 106
       },
       {
        "type": "restreamed",
@@ -3305,7 +3305,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 22,
-       "new_pos": 106
+       "new_pos": 107
       },
       {
        "type": "restreamed",
@@ -3554,7 +3554,7 @@
         ]
        ],
        "old_pos": 0,
-       "new_pos": 100
+       "new_pos": 101
       }
      ]
     }

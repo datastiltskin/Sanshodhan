@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf"
 source_sha256: "e6f9b0341a8d44a54b5dc123b888d147f979c15375bedff9bc68c724b8e9e36f"
 pdf_pages: 22
 printed_pages: "145-166"
-body_fingerprint: "3fba155728d12f877b46df6cbf8900496e1088edda269dfb1b7aac6f3fe03143"
+body_fingerprint: "fede5035fb5b5f47fb734d39ceb6f7ea83853f7045e40150e966a741729db1e9"
 ---
 
 <!-- page 145 (pdf 1) -->
@@ -366,11 +366,11 @@ The Gupta period was a time of remarkable progress. Its influence stretched far 
 
 ## Before we move on ...
 
-Æ The Gupta kings consolidated their power through military campaigns, land grants and matrimonial alliances to ensure stability in the empire.
+The Gupta kings consolidated their power through military campaigns, land grants and matrimonial alliances to ensure stability in the empire.
 
-Æ The period saw remarkable contributions in the fields of art, literature, science and mathematics.
+The period saw remarkable contributions in the fields of art, literature, science and mathematics.
 
-Æ Other than the Guptas, dynasties like Vākāṭakas, Pallavas, and Varmans ruled in their respective regions, making this period full of cultural and intellectual vibrancy.
+Other than the Guptas, dynasties like Vākāṭakas, Pallavas, and Varmans ruled in their respective regions, making this period full of cultural and intellectual vibrancy.
 
 ## Questions and activities
 

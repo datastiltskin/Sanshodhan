@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf"
 source_sha256: "b2aa2a75ad57586cedc58d4037a10907b1018062bd7215fc05b59e28bc546090"
 pdf_pages: 22
 printed_pages: "45-66"
-body_fingerprint: "d4747585ccc749fab82029d13f82e2b4e024309a55c1e579264bb21b40d6d3ed"
+body_fingerprint: "5d385e9d8a53a66e5bdd944ea59018206b6361d4c6931c26a6f3a6f8701c9d01"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -50,17 +50,17 @@ If we observe the world around us, we will notice that human, plant and animal l
 
 ### LET’S EXPLORE
 
-Æ Which are your favourite seasons? Write a short essay explaining your reasons.
+Which are your favourite seasons? Write a short essay explaining your reasons.
 
-Æ Discuss in groups of three or four and find out whether there are specific events connected to the seasons in your region. Collect information about them — songs, feasts with specific types of food, practices in different seasons, etc. Document these and share your discoveries with your class.
+Discuss in groups of three or four and find out whether there are specific events connected to the seasons in your region. Collect information about them — songs, feasts with specific types of food, practices in different seasons, etc. Document these and share your discoveries with your class.
 
-Æ Do you know which trees in your area change colours before the onset of winter? Are there trees that shed their leaves around this time? Why do you think this happens? Find out and document the local names of these trees.
+Do you know which trees in your area change colours before the onset of winter? Are there trees that shed their leaves around this time? Why do you think this happens? Find out and document the local names of these trees.
 
 Usually, the climate remains stable over long periods of time. However, scientists have been recording changes in the climates of the world in the recent decades. Studies show that many of these changes have been caused by human actions.
 
 Let us recapitulate:
 
- Weather is what we experience from day to day — windy, rainy, hot, dry, etc.  Seasons recur every year and the weather of a place is different in every season.  Climate is the long-term pattern in a particular region. There are many types of climates in the world. We will now survey the main types found in India.
+Weather is what we experience from day to day — windy, rainy, hot, dry, etc. Seasons recur every year and the weather of a place is different in every season. Climate is the long-term pattern in a particular region. There are many types of climates in the world. We will now survey the main types found in India.
 
 <!-- page 48 (pdf 4) -->
 
@@ -68,9 +68,9 @@ Let us recapitulate:
 
 We have often seen how India is a land of diversity. This is equally true of its climate:
 
- In the north, the Himalayan mountains have an alpine climate with cold, snowy winters and cool summers (the word ‘alpine’ comes from the Alps, a mountain range of Europe). That’s probably where you will see the thickest clothing in India!  Lower in the Himalayas, and in many hilly areas of India, the climate is often said to be temperate, as the winters are moderately cold and the summers not too hot. That is where we find many ‘hill stations’, much frequented by people seeking relief from the heat in the plains below.
+In the north, the Himalayan mountains have an alpine climate with cold, snowy winters and cool summers (the word ‘alpine’ comes from the Alps, a mountain range of Europe). That’s probably where you will see the thickest clothing in India! Lower in the Himalayas, and in many hilly areas of India, the climate is often said to be temperate, as the winters are moderately cold and the summers not too hot. That is where we find many ‘hill stations’, much frequented by people seeking relief from the heat in the plains below.
 
- In the northern plains, the climate is subtropical, with very hot summers and cold winters. This is where most of India’s wheat is grown.  In the west, the Thar Desert has an arid climate featuring extremely hot days, cool nights, and very little rainfall. People there have had to develop unique ways to collect and save water.  The western coastal strip receives heavy rainfall during monsoon months, creating a tropical wet climate, which is favourable to the growing of rice and spices.  The central Deccan Plateau has a semi-arid climate with hot summers, mild winters and moderate rainfall during the rainy season.  Eastern India and the southern peninsula experience a tropical climate with a mild winter and distinct wet and dry periods controlled by monsoon winds (more on them soon).
+In the northern plains, the climate is subtropical, with very hot summers and cold winters. This is where most of India’s wheat is grown. In the west, the Thar Desert has an arid climate featuring extremely hot days, cool nights, and very little rainfall. People there have had to develop unique ways to collect and save water. The western coastal strip receives heavy rainfall during monsoon months, creating a tropical wet climate, which is favourable to the growing of rice and spices. The central Deccan Plateau has a semi-arid climate with hot summers, mild winters and moderate rainfall during the rainy season. Eastern India and the southern peninsula experience a tropical climate with a mild winter and distinct wet and dry periods controlled by monsoon winds (more on them soon).
 
 > [caption] Fig. 3.3
 
@@ -236,11 +236,11 @@ As winter approaches, the winds reverse and blow from the land to the ocean, as 
 
 ### DON’T MISS OUT
 
-Æ Mawsynram, located in Meghalaya, receives the highest average annual rainfall in the world, about 11,000 mm (which is the same as 11 metres!).
+Mawsynram, located in Meghalaya, receives the highest average annual rainfall in the world, about 11,000 mm (which is the same as 11 metres!).
 
 > [caption] Fig. 3.10.
 
-Æ The monsoons have inspired many ragās in both Carnatic and Hindustani classical music. Meghamalhār and amruthavarshini are names of a couple of them.
+The monsoons have inspired many ragās in both Carnatic and Hindustani classical music. Meghamalhār and amruthavarshini are names of a couple of them.
 
 <!-- page 56 (pdf 12) -->
 
@@ -354,11 +354,11 @@ Forest fires are uncontrolled fires that spread rapidly across vegetation, often
 
 ### LET’S EXPLORE
 
-Æ Observe Fig. 3.15. Describe the effects they may have on people, plants, animals and economic life.
+Observe Fig. 3.15. Describe the effects they may have on people, plants, animals and economic life.
 
-Æ In groups of four or five, identify in each of the above disasters the part of natural causes and the part of human causes. Compare your conclusions.
+In groups of four or five, identify in each of the above disasters the part of natural causes and the part of human causes. Compare your conclusions.
 
-Æ Discuss in the same groups series of preventive measures that could help avoid the above disasters.
+Discuss in the same groups series of preventive measures that could help avoid the above disasters.
 
 <!-- page 63 (pdf 19) -->
 
@@ -378,13 +378,13 @@ Understanding the relationship between the causes of climate change and disaster
 
 ## Before we move on ...
 
-Æ India’s diverse climate is shaped by its geography, including mountains, deserts, and plateaus.
+India’s diverse climate is shaped by its geography, including mountains, deserts, and plateaus.
 
-Æ Weather is short-term, seasons recur on a yearly basis, and climate reflects long-term patterns over decades.
+Weather is short-term, seasons recur on a yearly basis, and climate reflects long-term patterns over decades.
 
-Æ Factors such as latitude, altitude, proximity to the sea, wind and topography determine the climate.
+Factors such as latitude, altitude, proximity to the sea, wind and topography determine the climate.
 
-Æ Monsoons are vital for agriculture, influencing crop cycles and livelihoods.
+Monsoons are vital for agriculture, influencing crop cycles and livelihoods.
 
 > [caption] Resilience: The capacity to withstand or recover quickly from difficulties.
 
@@ -396,11 +396,11 @@ Understanding the relationship between the causes of climate change and disaster
 
 <!-- page 65 (pdf 21) -->
 
-Æ Climate is connected with cultural traditions, festivals, agriculture and economic activity.
+Climate is connected with cultural traditions, festivals, agriculture and economic activity.
 
-Æ Understanding the climate helps prepare for natural disasters like floods and cyclones.
+Understanding the climate helps prepare for natural disasters like floods and cyclones.
 
-Æ Climate change leads to extremes of weather or temperature and can have severe consequences on the natural and human worlds.
+Climate change leads to extremes of weather or temperature and can have severe consequences on the natural and human worlds.
 
 ## Questions and activities
 
@@ -428,17 +428,15 @@ d) Why is Chennai warm or hot throughout the year, while Leh is cold?
 
 3. Look at a map of India given at the end of this book. Identify the climate for these cities — Leh, Chennai, Delhi, Panaji and Jaipur.
 
- Is the place near the sea, in the mountains, or in the desert?
+Is the place near the sea, in the mountains, or in the desert?
 
- How do these factors affect the climate there?
+How do these factors affect the climate there?
 
 <!-- page 66 (pdf 22) -->
 
 4. Draw the monsoon cycle in summers and winters on a map of India.
 
- Label where the winds blow in summer and winter
-
- Show the direction of winds during the monsoon
+Label where the winds blow in summer and winter Show the direction of winds during the monsoon
 
 5. Make a colourful poster showing festivals in India linked to farming and weather (e.g., Baisakhi, Onam). Add pictures or drawings of these festivals.
 

@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/prelims.pdf"
 
 ## for Class VIII
 
-Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
+Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at New Bharat Offset Printers, B-16, Sector-6, Noida - 201 301 (U.P.)
 
 > [caption] Raq
 
@@ -31,8 +31,6 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI The
 > [table] ` 65.00
 
 > [caption] Printed on 80 GSM paper with NCERT watermark
-
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at New Bharat Offset Printers, B-16, Sector-6, Noida - 201 301 (U.P.)
 
 > [table] ISBN 978-93-5292-113-3
 
@@ -57,6 +55,8 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI The
 <!-- page 21 (pdf 3) -->
 
 ### FOREWORD
+
+The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 The success of this effort depends on the steps that school principals and teachers will take to encourage children to reflect on their own learning and to pursue imaginative activities and questions. We must recognise that, given space, time and freedom, children generate new knowledge by engaging with the information passed on to them by adults. Treating the prescribed textbook as the sole basis of examination is one of the key reasons why other resources and sites of learning are ignored. Inculcating creativity and initiative is possible if we perceive and treat children as participants in learning, not as receivers of a fixed body of knowledge.
 

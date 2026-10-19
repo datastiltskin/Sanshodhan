@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf"
 source_sha256: "9eb6c456f5f0fab9fbdcc84d3c433126e118d0568b6e3bb64339b90a3a93d303"
 pdf_pages: 24
 printed_pages: "169-192"
-body_fingerprint: "35a6d1370c07db94bcd080ce28ea2be1810496f6cf0e932214047cad7e56890c"
+body_fingerprint: "bf6b64e36b577e935d19cb466d34594dcfd64ef6d72c46e740b60de8badd4e07"
 ---
 
 <!-- page 169 (pdf 1) -->
@@ -80,11 +80,11 @@ Physical infrastructure is the backbone of our nation — it makes life easier f
 
 ### THINK ABOUT IT
 
-Æ What might happen to Satish’s efforts if any part of the infrastructure is missing?
+What might happen to Satish’s efforts if any part of the infrastructure is missing?
 
-Æ What happens when a new highway is built near a village? How does it impact the lives of the people living nearby?
+What happens when a new highway is built near a village? How does it impact the lives of the people living nearby?
 
-Æ Imagine if there were no internet or phone services. How would this affect people’s ability to work or learn?
+Imagine if there were no internet or phone services. How would this affect people’s ability to work or learn?
 
 ## Transportation Infrastructure
 
@@ -212,9 +212,9 @@ Air transport is the fastest way to connect people and places within and across 
 
 ### DON’T MISS OUT
 
-Æ India has the third-highest domestic air traffic in the world, after the USA and China, and handled around 376 million passengers in 2024–25!
+India has the third-highest domestic air traffic in the world, after the USA and China, and handled around 376 million passengers in 2024–25!
 
-Æ Look at the Kempegowda International Airport in Bengaluru, Karnataka which is designed based on the concept of ‘garden city’. It is adorned with bamboo structures, plants and vibrant green spaces while also adopting the latest infrastructure to serve passengers.
+Look at the Kempegowda International Airport in Bengaluru, Karnataka which is designed based on the concept of ‘garden city’. It is adorned with bamboo structures, plants and vibrant green spaces while also adopting the latest infrastructure to serve passengers.
 
 > [caption] Fig. 7.17. Kempegowda International Airport, Bengaluru
 
@@ -542,11 +542,11 @@ Despite the challenging research conditions Indian scientists had to face at tha
 
 ### THINK ABOUT IT
 
-Æ In the 1990s, mobile calls in India cost up to ₹17 per minute, with charges even for incoming calls. Today, India has some of the world’s cheapest mobile and internet rates. How do you think this became possible?
+In the 1990s, mobile calls in India cost up to ₹17 per minute, with charges even for incoming calls. Today, India has some of the world’s cheapest mobile and internet rates. How do you think this became possible?
 
-Æ In 2025, there are 1,160 million wireless telephone subscribers and nearly 900 million internet connections in India.
+In 2025, there are 1,160 million wireless telephone subscribers and nearly 900 million internet connections in India.
 
-Æ Ask your family or people in the neighbourhood how they sent long-distance messages before mobile phones were introduced. What has been their experience of using the first telephone or mobile phone?
+Ask your family or people in the neighbourhood how they sent long-distance messages before mobile phones were introduced. What has been their experience of using the first telephone or mobile phone?
 
 > [table] 1990–2000s 1960s 1880s
 
@@ -582,17 +582,17 @@ While the government can impose penalties to deter damage to infrastructure, the
 
 ### LET’S EXPLORE
 
-Æ Create a ̒ Community Responsibility Pact ̓ on the board or as a poster. Come up with ideas on how individuals can develop a sense of responsibility towards public infrastructure.
+Create a ̒ Community Responsibility Pact ̓ on the board or as a poster. Come up with ideas on how individuals can develop a sense of responsibility towards public infrastructure.
 
-Æ Can you think of ways in which infrastructure can become more sustainable around you? For example, what changes would you make to your school to make it more eco-friendly?
+Can you think of ways in which infrastructure can become more sustainable around you? For example, what changes would you make to your school to make it more eco-friendly?
 
-Æ Write down a list of five problems you have observed and their possible solutions on a sheet and discuss in class.
+Write down a list of five problems you have observed and their possible solutions on a sheet and discuss in class.
 
 ## Before we move on …
 
-Æ Quality infrastructure is the backbone for all other economic activities taking place in a country. This enables better connectivity, employment opportunities for people and enhances ease of living.
+Quality infrastructure is the backbone for all other economic activities taking place in a country. This enables better connectivity, employment opportunities for people and enhances ease of living.
 
-Æ Over time, India has witnessed phenomenal growth in physical infrastructure, and it is the duty of every citizen to preserve and maintain it.
+Over time, India has witnessed phenomenal growth in physical infrastructure, and it is the duty of every citizen to preserve and maintain it.
 
 <!-- page 191 (pdf 23) -->
 
@@ -610,14 +610,14 @@ While the government can impose penalties to deter damage to infrastructure, the
 
 6. Prepare ‘scenario posters’ for the following situations:
 
-Æ A new factory is planned in an area. What form of infrastructure is required for its smooth operation?
+A new factory is planned in an area. What form of infrastructure is required for its smooth operation?
 
-Æ Self-cleaning roads, underground highways, and high-speed bullet trains could be part of a futuristic city! Imagine the kind of infrastructure that would be required in the future that could help ease the lives of the people and communities in your city, town or village for various day-to-day functions.
+Self-cleaning roads, underground highways, and high-speed bullet trains could be part of a futuristic city! Imagine the kind of infrastructure that would be required in the future that could help ease the lives of the people and communities in your city, town or village for various day-to-day functions.
 
-Æ Think about upgrades to the infrastructure near you, considering the terrain of your area, such as coastal, mountainous, plains, etc., and the type of natural calamities your region is prone to.
+Think about upgrades to the infrastructure near you, considering the terrain of your area, such as coastal, mountainous, plains, etc., and the type of natural calamities your region is prone to.
 
 <!-- page 192 (pdf 24) -->
 
-Æ If you could design a new railway or metro station, what would it look like and what features would you add to make it more fun and comfortable for the passengers?
+If you could design a new railway or metro station, what would it look like and what features would you add to make it more fun and comfortable for the passengers?
 
 7. Today's modern infrastructure requires consistent technological innovations. For instance, electric vehicles are increasingly being used by people as a cheaper alternative to polluting fuel like diesel or petrol. Find out about other innovations in infrastructure that can improve ease of living or mobility for communities.

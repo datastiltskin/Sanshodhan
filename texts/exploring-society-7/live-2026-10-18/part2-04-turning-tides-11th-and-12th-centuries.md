@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf"
 source_sha256: "7925b556e4351fcdb4b7a8f6ee55ae1b10d09220af6c457c4a73e861ee6215dd"
 pdf_pages: 28
 printed_pages: "97-124"
-body_fingerprint: "9adad8a29b73289b7ded34f184728d3ce016d032f24a62caf2ed11e461b9c0a6"
+body_fingerprint: "860c5d5812a792725f773744fc00394c68e8df0c1e4b68fcdeb4c18fca8673fb"
 ---
 
 <!-- page 97 (pdf 1) -->
@@ -84,9 +84,9 @@ In the 9th and 10th centuries, several kingdoms confronted each other in present
 
 Observe the sketch of the Khyber Pass (Fig. 4.3). What kind of terrain does it depict?
 
-Æ What advantages would it offer to an army trying to reach the Indus plains? But also, what dangers?
+What advantages would it offer to an army trying to reach the Indus plains? But also, what dangers?
 
-Æ Thinking of the caravans of traders that passed through the Khyber Pass for many centuries, let’s ask the same questions about the advantages as well as dangers.
+Thinking of the caravans of traders that passed through the Khyber Pass for many centuries, let’s ask the same questions about the advantages as well as dangers.
 
 > [caption] Fig. 4.3. The Khyber Pass, as painted by a British military officer in about 1847.
 
@@ -372,7 +372,7 @@ Aibak encountered much resistance in his campaigns in north India, but was able 
 
 Writing some 60 years after Bakhtiyār Khiljī’s campaign through Bihar, the historian Minhaj al-Siraj Jūzjānī, recorded in his Tabakāt-i-Nāsirī how Bakhtiyar’s forces captured a ‘fortress’ and “acquired great booty.” He adds, “The greater number of the inhabitants of that place were Brāhmans, and all those Brāhmans had their heads shaven; and they were all slain. There were a great number of books there. … It was found that the whole of that fortress and city was a college, and in [their] tongue, they call a college bihār.”
 
-Æ Remembering the meaning of vihāra and noting that Nālandā was known in ancient inscriptions as ‘Nālandā Mahāvihāra’, can you find two more clues in the above passage to identify the ‘fortress’ near the Nālandā university? (Hint: Who do you think these ‘Brāhmans’ actually were?)
+Remembering the meaning of vihāra and noting that Nālandā was known in ancient inscriptions as ‘Nālandā Mahāvihāra’, can you find two more clues in the above passage to identify the ‘fortress’ near the Nālandā university? (Hint: Who do you think these ‘Brāhmans’ actually were?)
 
 ### DON’T MISS OUT
 
@@ -418,11 +418,11 @@ These two thinker-saints had a profound impact on the culture and society of sou
 
 In Kalyāṇī, Basavaṇṇa established an Anubhava Maṇḍapa (literally, ‘pavilion of experience’), where men and women from every social, economic, religious or linguistic background, including saints and philosophers, could assemble to discuss all aspects of life, including moral values and religion.
 
-Æ Why, in your opinion, did Basava want people from all backgrounds to come together and exchange ideas?
+Why, in your opinion, did Basava want people from all backgrounds to come together and exchange ideas?
 
-Æ If something like an Anubhava Maṇḍapa existed today, what important topics do you think people ought to discuss there?
+If something like an Anubhava Maṇḍapa existed today, what important topics do you think people ought to discuss there?
 
-Æ What lessons can we draw from the Anubhava Maṇḍapa spirit to create a just and civil society today?
+What lessons can we draw from the Anubhava Maṇḍapa spirit to create a just and civil society today?
 
 ## Taking Stock
 
@@ -448,15 +448,15 @@ The lesson of the period, if there is one, is therefore resilience in the face o
 
 ## Before we move on …
 
-Æ The 11th and 12th centuries marked a turning point in Indian history (hence the chapter’s title).
+The 11th and 12th centuries marked a turning point in Indian history (hence the chapter’s title).
 
-Æ In the 11th century, Mahmūd of Ghazni, after defeating the Hindu Shāhis, conducting many raids into north India, extracting much plunder, destroying temples and taking away prisoners. He however did not seek to establish his rule in India.
+In the 11th century, Mahmūd of Ghazni, after defeating the Hindu Shāhis, conducting many raids into north India, extracting much plunder, destroying temples and taking away prisoners. He however did not seek to establish his rule in India.
 
-Æ In the 12th century, Muhammad Ghurī and his generals conquered Delhi and large parts of the Gangetic plains, all the way to Bengal, causing much destruction. Important centres of learning, in particular, were left in ruins.
+In the 12th century, Muhammad Ghurī and his generals conquered Delhi and large parts of the Gangetic plains, all the way to Bengal, causing much destruction. Important centres of learning, in particular, were left in ruins.
 
-Æ Still, large parts of northern India and all of south India remained outside the hold of the Turkic invaders. Powerful kingdoms often waged war against each other, though alliances were not uncommon.
+Still, large parts of northern India and all of south India remained outside the hold of the Turkic invaders. Powerful kingdoms often waged war against each other, though alliances were not uncommon.
 
-Æ Internal and external trade, art and literature, and monumental architecture continued to thrive, and elements of Indian culture travelled abroad, especially to Southeast Asia and China.
+Internal and external trade, art and literature, and monumental architecture continued to thrive, and elements of Indian culture travelled abroad, especially to Southeast Asia and China.
 
 ## Questions and activities
 

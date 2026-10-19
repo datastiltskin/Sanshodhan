@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf"
 source_sha256: "cef751c3bf0ce41699b520e6de027828bc7ddf077bd8f478d1120db57e74c84b"
 pdf_pages: 18
 printed_pages: "125-142"
-body_fingerprint: "258f260937cfd9bb806ca94dcbab17153bc8a0cbe7d3ddcfc0959365773df757"
+body_fingerprint: "4b514540535c303a3a6c5afe385f59d937fb3476fddaef9674be129948f33c77"
 ---
 
 <!-- page 125 (pdf 1) -->
@@ -42,9 +42,9 @@ In the chapter “Unity in Diversity, or ‘Many in the One’ ” (Grade 6 Soci
 
 ### THINK ABOUT IT
 
-Æ Imagine this scenario — A stranger knocks at your door at midnight. It is raining heavily outside, and the stranger seeks shelter for the night claiming that his car broke down while he was driving in the vicinity. Your family goes into a huddle to discuss the pros and cons of letting a stranger into the house at night. Form two groups to discuss the arguments for and against in this scenario.
+Imagine this scenario — A stranger knocks at your door at midnight. It is raining heavily outside, and the stranger seeks shelter for the night claiming that his car broke down while he was driving in the vicinity. Your family goes into a huddle to discuss the pros and cons of letting a stranger into the house at night. Form two groups to discuss the arguments for and against in this scenario.
 
-Æ Now extend this scenario to a country like India — when refugees seek shelter in India, will similar arguments apply?
+Now extend this scenario to a country like India — when refugees seek shelter in India, will similar arguments apply?
 
 ## The Story of Indian Jews
 
@@ -254,11 +254,11 @@ The idea of the fundamental unity of humankind is one of the core civilisational
 
 ## Before we move on …
 
-Æ India has been a haven for people persecuted in their respective homelands, or simply looking for a new land with new opportunities.
+India has been a haven for people persecuted in their respective homelands, or simply looking for a new land with new opportunities.
 
-Æ India’s cultural values such as vasudhaiva kutumbakam, atithi devo bhava, or sarve bhavantu sukhinah are the basis for the sense of inclusion and acceptance that have enabled even small communities to find India a secure place and maintain here their traditions over centuries.
+India’s cultural values such as vasudhaiva kutumbakam, atithi devo bhava, or sarve bhavantu sukhinah are the basis for the sense of inclusion and acceptance that have enabled even small communities to find India a secure place and maintain here their traditions over centuries.
 
-Æ These values have universal relevance at a time when there are multiple crises facing the world.
+These values have universal relevance at a time when there are multiple crises facing the world.
 
 <!-- page 142 (pdf 18) -->
 

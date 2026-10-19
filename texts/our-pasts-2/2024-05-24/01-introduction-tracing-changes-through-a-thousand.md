@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch01.pdf"
 source_sha256: "88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "33b44bfd369f6e8d9e201e39ddc02d3ad964edba195533345aee4e1462d005e9"
+body_fingerprint: "5b074c415d85dc271cde9604452f2eba6e3e6409727b1cb13e76e2ca651dc815"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -106,7 +106,7 @@ Jatis framed their own rules and regulations to manage the conduct of their memb
 
 <!-- page 9 (pdf 9) -->
 
-## Region and Empire Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss anskrit prashasti encompassed many regions.
+Region and Empire Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) A Ss anskrit prashasti encompassed many regions.
 
 (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287)
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch04.pdf"
 source_sha256: "0280086fcfdd37355c62ae58bf25bfa436859dab99a69822fe260ccc2d88619c"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "37d5861a3998e35e68777c4ab933f34439ccb876a4c26d0cd3c702cdae5880d2"
+body_fingerprint: "9cdb671ab57de9cde8c8e9d978068b8a0253489740ff575ed6dfbd289ac051e9"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -157,7 +157,7 @@ Through the nineteenth and twentieth centuries, tribal groups in different parts
 
 > [caption] Fig. 10 – Coal miners of Bihar, 1948
 
-> [table] In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
+In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
 
 Activity Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
 

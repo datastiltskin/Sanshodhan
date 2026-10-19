@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch05.pdf"
 source_sha256: "e58a1f64fe0bf0d848ee6ae4dbdbe5179bcded0b31e382ad19cdf24fba1be209"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "ecc4f834b820f0d193ec06333c0a99fff1484c2db7379aad5032df1f42d57f2d"
+body_fingerprint: "18834e4f696ec08a76d30b232694f55b8cf46a48953f2172a242365e57b73dd3"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -89,7 +89,7 @@ Though struggles between rulers and the ruled are not unusual, sometimes such st
 
 Such a situation developed in the northern parts of India in 1857. After a hundred years of conquest and administration, the English East India Company faced a massive rebellion that started in May 1857 and threatened the Company’s very presence in India. Sepoys mutinied in several places beginning from Meerut and a large number of people from different sections of society rose up in rebellion. Some regard it as the biggest armed resistance to colonialism in the nineteenth century anywhere in the world.
 
-Activity 
+Activity
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt?
 

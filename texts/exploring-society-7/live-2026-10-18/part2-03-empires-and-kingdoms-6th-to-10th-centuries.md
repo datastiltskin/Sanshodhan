@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf"
 source_sha256: "2c03eea83b15b8718697bbdb9bfa57c200e19c6db71014698de73432f0589fbc"
 pdf_pages: 36
 printed_pages: "61-96"
-body_fingerprint: "fd09fa5fa0a0af1aa89694c853b7230a265c59de0fcf674b486399af75429fdf"
+body_fingerprint: "1fec7f0e310a2cee85350e86294ea8ce674ea90a8f54aa4a26d7e304ee02aa9d"
 ---
 
 <!-- page 61 (pdf 1) -->
@@ -296,15 +296,15 @@ Through all these depictions, Kalhaṇa’s purpose was not merely to record his
 
 Form groups in your class to discuss the following questions, then compare the groups’ answers.
 
-Æ What qualities does Kalhaṇa think a historian should have?
+What qualities does Kalhaṇa think a historian should have?
 
-Æ What do these lines reveal about his method of gathering information? In what ways does it resemble or differ from the way history is currently written?
+What do these lines reveal about his method of gathering information? In what ways does it resemble or differ from the way history is currently written?
 
-Æ Kalhaṇa also writes, “That noble-minded poet is alone worthy of praise whose words, like that of a judge, remain free from love or hatred in relating the facts of the past.” What does he mean by ‘free from love or hatred’? How would meeting this condition make a historian more reliable?
+Kalhaṇa also writes, “That noble-minded poet is alone worthy of praise whose words, like that of a judge, remain free from love or hatred in relating the facts of the past.” What does he mean by ‘free from love or hatred’? How would meeting this condition make a historian more reliable?
 
 ### LET’S EXPLORE
 
-Æ According to tradition, Ādi Śhankarāchārya, the 8th-century scholar and teacher of the advaita vedānta school of philosophy, visited the hill shown in this sketch;
+According to tradition, Ādi Śhankarāchārya, the 8th-century scholar and teacher of the advaita vedānta school of philosophy, visited the hill shown in this sketch;
 
 > [caption] Fig. 3.14. A 19th-century sketch of the Shankaracharya Hill (also known as Takht-i-Sulaiman, anciently called Gopādri Hill) overlooking the Kashmir valley near Srinagar, with the Jhelum River meandering below
 
@@ -312,7 +312,7 @@ Form groups in your class to discuss the following questions, then compare the g
 
 the stone temple at the top is known as Shankaracharya temple or Jyeshteshwara temple.
 
-Æ Śhankarāchārya taught that brahman is the ultimate reality or the pure consciousness, and that the world as we perceive it is māyā or illusion. He established four maṭhas (monasteries and centres of learning) at Badrinath, Puri, Dwarka, and Sringeri. Mark the location of these cities on a map; why do you think he chose four different corners of India rather than more central locations?
+Śhankarāchārya taught that brahman is the ultimate reality or the pure consciousness, and that the world as we perceive it is māyā or illusion. He established four maṭhas (monasteries and centres of learning) at Badrinath, Puri, Dwarka, and Sringeri. Mark the location of these cities on a map; why do you think he chose four different corners of India rather than more central locations?
 
 Despite Kashmir’s mountainous geography, throughout history the kingdom remained well connected to the political and cultural developments elsewhere in India. During the period we consider here, Kashmir was a major centre for Sanskrit learning, philosophy, and the arts. A school of thought called Kashmir Śhaivism produced several great scholars, such as Abhinavagupta, whose works on philosophy, poetry, arts and aesthetics had a vast influence across India. Kashmir also served as a crucial bridge for Buddhist scholarship, with scholars, monks and texts traveling between Kashmir and other parts of northern India, Tibet and Central Asia. Kashmiri artisans, sculptors, and manuscript painters were in demand across north India and beyond. In short, the region’s intellectual and artistic exchanges linked it closely with the cultural life of the entire subcontinent.
 
@@ -410,11 +410,11 @@ The Pallavas created many temples and other structures (Fig. 3.1). At Māmallapu
 
 Note this panel’s (Fig. 3.18) highly dynamic three-dimensional composition, expressing Durga’s confident assault on the demon.
 
-Æ Can you identify some of Durga’s many weapons? And her vāhana?
+Can you identify some of Durga’s many weapons? And her vāhana?
 
-Æ What are the main differences between her attendants and the demon’s attendants?
+What are the main differences between her attendants and the demon’s attendants?
 
-Æ What does the demon’s slanted posture and general attitude indicate?
+What does the demon’s slanted posture and general attitude indicate?
 
 The Pallavas ruled over much of northern Tamil Nadu and southern Andhra Pradesh until the late 9th century, when they were finally overthrown by the Chola king Aditya I.
 
@@ -576,11 +576,11 @@ However, things changed when the governor of Iraq sent an army under the command
 
 The Chachnāma records that when King Dāhar was killed, his widowed queen put up a brave resistance, and when the situation became hopeless, she immolated herself along with other ladies. Another queen ordered her treasure to be distributed among the brave soldiers and inspired them to stand against the invaders.
 
-Æ What does this suggest about the way the indigenous people responded to invasions?
+What does this suggest about the way the indigenous people responded to invasions?
 
-Æ Why do you think the queen chose to give away her treasure?
+Why do you think the queen chose to give away her treasure?
 
-Æ What does this reveal about the role of women in warfare?
+What does this reveal about the role of women in warfare?
 
 > [caption] Idol: A worshipped image. Because orthodox sects of Judaism, Christianity and Islam condemn the worship of idols, we prefer to use the term ‘image’ or Indian words such as mūrti or vigraha.
 
@@ -648,17 +648,17 @@ At the same time, this was a period of transformation and regional consolidation
 
 ## Before we move on …
 
-Æ The decline of the Gupta empire led to the rise of powerful regional kingdoms. No single power could maintain lasting supremacy, as rival states had comparable military strength, administrative systems, and strategic approaches.
+The decline of the Gupta empire led to the rise of powerful regional kingdoms. No single power could maintain lasting supremacy, as rival states had comparable military strength, administrative systems, and strategic approaches.
 
-Æ Foreign invaders who came to India often assimilated and owned her cultural traditions. However, with the advent of Islam, the situation changed. While Arab armies achieved military successes elsewhere, they struggled for a long time before making their first significant breach into the subcontinent.
+Foreign invaders who came to India often assimilated and owned her cultural traditions. However, with the advent of Islam, the situation changed. While Arab armies achieved military successes elsewhere, they struggled for a long time before making their first significant breach into the subcontinent.
 
-Æ Regardless of their own inclination, rulers generally patronised Hinduism, Buddhism, and Jainism, promoting a vibrant cultural pluralism. The period saw the rise of the Bhakti tradition, which soon spread across India.
+Regardless of their own inclination, rulers generally patronised Hinduism, Buddhism, and Jainism, promoting a vibrant cultural pluralism. The period saw the rise of the Bhakti tradition, which soon spread across India.
 
-Æ This period saw remarkable achievements in language, literature, art, sciences and technologies.
+This period saw remarkable achievements in language, literature, art, sciences and technologies.
 
-Æ The multiplication of jātis made the society more complex, but the varṇa-jāti system remained flexible.
+The multiplication of jātis made the society more complex, but the varṇa-jāti system remained flexible.
 
-Æ Trade during this period connected local economies with distant markets, both in India and abroad, spurring urban growth, fostering cultural exchange, and integrating India into broader trade networks.
+Trade during this period connected local economies with distant markets, both in India and abroad, spurring urban growth, fostering cultural exchange, and integrating India into broader trade networks.
 
 <!-- page 96 (pdf 36) -->
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "a157f502fcccbf0a81a4584581bbc26e1e2d60d1e9ef539cfd157cd469fa7a2c"
+body_fingerprint: "7f3da2693f9ef9b659b18af34b670d2c1390fa522bbd651555648da15fd54df9"
 ---
 
 <!-- page 185 (pdf 1) -->
@@ -38,25 +38,25 @@ In Grade 6, we learned what government is and explored some of its roles.
 
 The government plays an important role in our lives. This role includes:
 
- maintaining law and order in society;
+maintaining law and order in society;
 
- ensuring peace, stability, and security for the people;
+ensuring peace, stability, and security for the people;
 
- managing relationships with other countries;
+managing relationships with other countries;
 
- taking care of national defence;
+taking care of national defence;
 
- delivering essential goods and services (education, healthcare, infrastructure);
+delivering essential goods and services (education, healthcare, infrastructure);
 
- managing the economy and economic activities;
+managing the economy and economic activities;
 
- working for the welfare and improving people’s lives.
+working for the welfare and improving people’s lives.
 
 ### LET’S EXPLORE
 
-Æ Do you remember this picture from your Grade 6 textbook?
+Do you remember this picture from your Grade 6 textbook?
 
-Æ The government also has many other roles. Try to list them.
+The government also has many other roles. Try to list them.
 
 > [caption] Fig. 9.2
 
@@ -90,11 +90,11 @@ Gurpreet: If the students of only one grade will take care of everything, then h
 
 In this exciting situation, the students finally came to three options:
 
- Everyone in the school becomes part of the committee and takes responsibility.
+Everyone in the school becomes part of the committee and takes responsibility.
 
- The Head Teacher chooses the students herself for the committee.
+The Head Teacher chooses the students herself for the committee.
 
- The students choose their representatives through voting, and the chosen representatives become the members of the committee.
+The students choose their representatives through voting, and the chosen representatives become the members of the committee.
 
 ### LET’S EXPLORE
 
@@ -234,7 +234,7 @@ The different forms of democratic government have different structures. You can 
 
 ## What do these terms mean?
 
- Executive: The executive is the organ of the government which is responsible for implementing the law. But the process of its election is different in different countries.
+Executive: The executive is the organ of the government which is responsible for implementing the law. But the process of its election is different in different countries.
 
 <!-- page 195 (pdf 11) -->
 
@@ -256,35 +256,31 @@ equal power between Upper House (Senate) and Lower House (House of Representativ
 
 independent from executive and legislature (separation of power)
 
-prime minister and the council of ministers Australia A B
+prime minister and the council of ministers Australia A B Legislature: The legislature is the body of the government which is responsible for making laws. It is known by different names in different countries. In India, it is called Parliament; in the USA, it is called Congress. In most democracies, it has two houses, the Upper House and the Lower House.
 
 > [caption] Table 9.1 Different forms of democratic government
 
- Legislature: The legislature is the body of the government which is responsible for making laws. It is known by different names in different countries. In India, it is called Parliament; in the USA, it is called Congress. In most democracies, it has two houses, the Upper House and the Lower House.
-
 <!-- page 196 (pdf 12) -->
 
- Upper House and Lower House: In most countries, the Lower House is elected by direct voting and is generally more powerful than the Upper House, which is formed either by election or nomination. These Houses are known by different names in different countries. In India, the Lower House is called the Lok Sabha, and the Upper House is called the Rajya Sabha.
+Upper House and Lower House: In most countries, the Lower House is elected by direct voting and is generally more powerful than the Upper House, which is formed either by election or nomination. These Houses are known by different names in different countries. In India, the Lower House is called the Lok Sabha, and the Upper House is called the Rajya Sabha.
 
- Separation of Power means that the three organs of the government — Legislature, Executive, and Judiciary — work independently and do not interfere in each other’s functions.
+Separation of Power means that the three organs of the government — Legislature, Executive, and Judiciary — work independently and do not interfere in each other’s functions.
 
 ### LET’S EXPLORE
 
-Æ Fill the blank columns under Country A and Country B in table 9.1 given on the previous page by taking two different countries of your choice.
+Fill the blank columns under Country A and Country B in table 9.1 given on the previous page by taking two different countries of your choice.
 
-Æ Analyse the table and discuss amongst yourselves the similarities and differences in all the examples.
+Analyse the table and discuss amongst yourselves the similarities and differences in all the examples.
 
 The exercise must have given you an understanding that different forms of democratic governments have different ways of formation, structures and functioning. Along with this, the relationships between the three organs of government also differs. But as we read in the beginning, some characteristics, like equality, freedom and universal adult franchise remain the same in all democracies.
 
 ### LET’S EXPLORE
 
-Æ After studying the above examples, list the core principles of a democratic government. Based on your understanding, do the activity given below:
+After studying the above examples, list the core principles of a democratic government. Based on your understanding, do the activity given below:
 
-Æ You have to form a Student Committee in your school. Make a plan and execute it in a democratic manner, ensuring that:
+You have to form a Student Committee in your school. Make a plan and execute it in a democratic manner, ensuring that:
 
- Functions of the committee are well defined
-
- The election process of the committee members is democratic
+Functions of the committee are well defined The election process of the committee members is democratic
 
 <!-- page 197 (pdf 13) -->
 
@@ -384,13 +380,13 @@ Other theocracies currently in existence include Afghanistan and Vatican City.
 
 A dictatorship is a form of government in which one person, or a small group possesses absolute power — they do not have any limits imposed on them by a constitution or law. The 20th century witnessed many examples of dictators who created extremely difficult circumstances for the people; we will only see two of them here.
 
- Soon after Adolf Hitler was appointed Chancellor of Germany in 1933, he passed laws that gave him full power and eliminated the opposition. He was now a dictator. Convinced of the superiority of his people, he believed that Germany should rule the world and dominate ‘inferior races’. He was responsible for the killing of at least six million Jews (this is known as the ‘Holocaust’) as well as hundreds of thousands of Roma and other groups of people. In fact, he was the cause for World War II in the years 1939–1945, which resulted in immense loss of life and property in many countries.
+Soon after Adolf Hitler was appointed Chancellor of Germany in 1933, he passed laws that gave him full power and eliminated the opposition. He was now a dictator. Convinced of the superiority of his people, he believed that Germany should rule the world and dominate ‘inferior races’. He was responsible for the killing of at least six million Jews (this is known as the ‘Holocaust’) as well as hundreds of thousands of Roma and other groups of people. In fact, he was the cause for World War II in the years 1939–1945, which resulted in immense loss of life and property in many countries.
 
 > [caption] Fig. 9.10. Caricature of Adolf Hitler
 
 <!-- page 203 (pdf 19) -->
 
- Idi Amin was a military dictator in Uganda. He was directly responsible for the merciless killing of thousands of people. Many Indians whose ancestors had migrated to Uganda a few generations before were forced to flee the country.
+Idi Amin was a military dictator in Uganda. He was directly responsible for the merciless killing of thousands of people. Many Indians whose ancestors had migrated to Uganda a few generations before were forced to flee the country.
 
 > [caption] Fig. 9.11. Caricature of Idi Amin
 
@@ -410,11 +406,11 @@ Shane lives in North Korea which has a set of defined rules for his everyday liv
 
 ### LET’S EXPLORE
 
-Æ Does Shane’s country look like a democracy?
+Does Shane’s country look like a democracy?
 
-Æ How do you think Shane’s everyday life would be?
+How do you think Shane’s everyday life would be?
 
-Æ Would you like to live in such a country? Explain why.
+Would you like to live in such a country? Explain why.
 
 ## 4. Oligarchy
 
@@ -432,9 +428,9 @@ In some places in ancient Greece, aristocratic families ruled as oligarchies. In
 
 ### LET’S EXPLORE
 
-Æ Look carefully at the picture in Fig. 9.13 on the previous page. It depicts an elected body in the USA in the late 19th century. The people shown in the cartoon are all elected members. What do you observe? What do you see at the top left-hand corner of the cartoon? Who do you think is making decisions in this elected body?
+Look carefully at the picture in Fig. 9.13 on the previous page. It depicts an elected body in the USA in the late 19th century. The people shown in the cartoon are all elected members. What do you observe? What do you see at the top left-hand corner of the cartoon? Who do you think is making decisions in this elected body?
 
-Æ Can a democracy turn into an oligarchy? What can people do to keep democracy strong?
+Can a democracy turn into an oligarchy? What can people do to keep democracy strong?
 
 ## Why Democracy Matters
 
@@ -448,13 +444,13 @@ Characteristics Democracy Dictatorship Absolute Monarchy Oligarchy Universal Adu
 
 ### LET’S EXPLORE
 
-Æ Enact democracy
+Enact democracy
 
-Æ Enact monarchy
+Enact monarchy
 
-Æ Enact dictatorship
+Enact dictatorship
 
-Æ What do you find to be the most suitable form of government?
+What do you find to be the most suitable form of government?
 
 You have read about different forms of government above and how the form of government defines the lives of its citizens. In the previous table, we could see that the representation of people’s choices and rights varies across the different forms.
 
@@ -470,15 +466,15 @@ It is important to keep in mind, however, that even democracies have their probl
 
 ## Before we move on ...
 
-Æ Government plays an important role in running a country. Different types of governments across the world have different answers to the following questions: Who decides “This is the government”? What are the parts of the government and what do they do? Who or what is the government working for? What values and ideals should the government follow?
+Government plays an important role in running a country. Different types of governments across the world have different answers to the following questions: Who decides “This is the government”? What are the parts of the government and what do they do? Who or what is the government working for? What values and ideals should the government follow?
 
-Æ The most popular form of government in the world today is democracy. Democratic governments across the world have variations, including direct democracy and representative democracy.
+The most popular form of government in the world today is democracy. Democratic governments across the world have variations, including direct democracy and representative democracy.
 
-Æ There are two types of representative democracy — presidential and parliamentary democracy. India is a parliamentary democracy.
+There are two types of representative democracy — presidential and parliamentary democracy. India is a parliamentary democracy.
 
-Æ Other types of government include monarchy, theocracy, dictatorship and oligarchy.
+Other types of government include monarchy, theocracy, dictatorship and oligarchy.
 
-Æ Democracy matters, but there are serious challenges to democracy that citizens need to remain vigilant about.
+Democracy matters, but there are serious challenges to democracy that citizens need to remain vigilant about.
 
 ## Questions and activities
 

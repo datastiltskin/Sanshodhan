@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf"
 source_sha256: "b3e45b2aa51b9948bb7bacdc953214b886992da6ed3d561a54601747edef16af"
 pdf_pages: 18
 printed_pages: "229-246"
-body_fingerprint: "e92c354c0f9b6341e509304fb077721855d7e6f59e1349d550ccb7dd62fe2760"
+body_fingerprint: "bc5ebf60b2b4df8b4f4722c85b2bc3ba9cfab87bdad541a2a1cf10b8015dcb97"
 ---
 
 <!-- page 229 (pdf 1) -->
@@ -134,7 +134,7 @@ This continues to be an important socio-cultural event even today. Bartering beg
 
 > [caption] Fig. 11.5
 
- Book exchange: Think of a fun club where you can trade your old books with friends! It’s like a treasure hunt for stories. You bring books you’ve read and pick new ones from a big collection. For example, you might swap your exciting jungle adventure book for a friend’s mystery story. It’s a cool way to discover new adventures without spending any money!  One common example is the exchange of old clothes for new utensils, a practice that has persisted over the years. In this system, a vendor visits homes, offering households new utensils or other household items in return for their used clothes or fabrics. This exchange benefits both parties—households get rid of items they no longer need, while vendors collect materials that can be resold, repurposed, or recycled.
+Book exchange: Think of a fun club where you can trade your old books with friends! It’s like a treasure hunt for stories. You bring books you’ve read and pick new ones from a big collection. For example, you might swap your exciting jungle adventure book for a friend’s mystery story. It’s a cool way to discover new adventures without spending any money! One common example is the exchange of old clothes for new utensils, a practice that has persisted over the years. In this system, a vendor visits homes, offering households new utensils or other household items in return for their used clothes or fabrics. This exchange benefits both parties—households get rid of items they no longer need, while vendors collect materials that can be resold, repurposed, or recycled.
 
 > [caption] Fig. 11.6
 
@@ -192,11 +192,11 @@ Does this word sound familiar to a word we use for money today in India?
 
 ### DON’T MISS OUT
 
- Is it not interesting that variations of the word ‘paṇa’
+Is it not interesting that variations of the word ‘paṇa’
 
 continue to be used in Tamil, Telugu, and Malayalam as paṇaṁ and in Kannada as ‘haṇa’ for money?
 
- Alloys of silver and copper were used to mint coins. The coins we use today are also alloys consisting largely of iron. They contain other materials like chromium, silicon, and carbon in precise proportions. You will learn more about alloys in your science lessons.
+Alloys of silver and copper were used to mint coins. The coins we use today are also alloys consisting largely of iron. They contain other materials like chromium, silicon, and carbon in precise proportions. You will learn more about alloys in your science lessons.
 
 In ancient times, the two sides of the coins — the head (obverse) and the tail (reverse) — had different kinds of symbols and motifs engraved on them. These included nature motifs like animals, trees and hills, and those of kings or queens, and deities.
 
@@ -270,7 +270,7 @@ Today, most of the currency notes you see look like this …
 
 Look at a 50 and a 100-rupee note. Can you identify the motifs depicting India’s cultural heritage on the reverse side of the notes? Find out more about them.
 
-Æ Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?
+Feel the surface of the notes. What special features of currency notes help visually impaired persons to identify the notes’ denominations?
 
 > [caption] Currency:
 
@@ -310,11 +310,11 @@ Apart from tangible forms of money such as coins and paper notes, money has take
 
 ### Before we move on ...
 
-Æ The barter system existed before money came into existence. A variety of commodities were used to facilitate exchange.
+The barter system existed before money came into existence. A variety of commodities were used to facilitate exchange.
 
-Æ The limitations of the barter system led to the development of money as a medium of exchange.
+The limitations of the barter system led to the development of money as a medium of exchange.
 
-Æ Forms of money evolved through time, such as shells, coins, and paper currency. This evolution continues as we create new and easier ways to make and receive payments, including the QR code that you saw in the illustration above.
+Forms of money evolved through time, such as shells, coins, and paper currency. This evolution continues as we create new and easier ways to make and receive payments, including the QR code that you saw in the illustration above.
 
 ### Questions and activities
 

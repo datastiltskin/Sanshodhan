@@ -11,16 +11,20 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch06.pdf"
 source_sha256: "292aaeb765772c3b77ec811ad1ea2c7c607daacc6e2d955f867933800c110b51"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "9efbb482c4ecea7a6916a98fe95963b2232a7294d2e2905879f21b6f7d1a51d7"
+body_fingerprint: "19f806b9546900b0a1e07f189a6841df1270ff3b9cb400e181eae814dd587f0a"
 ---
 
 <!-- page 160 (pdf 1) -->
+
+# India After Independence
+
+## A New and Divided Nation
 
 When India became independent in August 1947, it faced a series of very great challenges. As a result of Partition, 8 million refugees had come into the country from what was now Pakistan. These people had to be found homes and jobs. Then there was the problem of the princely states, almost 500 of them, each ruled by a maharaja or a nawab, each of whom had to be persuaded to join the new nation. The problems of the refugees and of the princely states had to be addressed immediately. In the longer term, the new nation had to adopt a political system that would best serve the hopes and expectations of its population.
 
 > [caption] Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
 
-> [table] Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
+Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
 
 <!-- page 161 (pdf 2) -->
 
@@ -30,11 +34,13 @@ To the problem of unity was added the problem of development. At Independence, t
 
 Unity and development had to go hand in hand. If the divisions between different sections of India were not healed, they could result in violent and costly conflicts – high castes fighting with low castes, Hindus with Muslims and so on. At the same time, if the fruits of economic development did not reach the broad masses of the population, it could create fresh divisions – for example, between the rich and the poor, between cities and the countryside, between regions of India that were prosperous and regions that lagged behind.
 
+## A Constitution is Written
+
 Between December 1946 and November 1949, some three hundred Indians had a series of meetings on the country’s political future. The meetings of this “Constituent Assembly” were held in New Delhi, but the participants came from all over India, and from different political parties. These discussions resulted in the framing of the Indian Constitution, which came into effect on 26 January 1950.
 
-One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
+One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
 
-> [note] Franchise – The right to vote
+Franchise – The right to vote the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
 
 <!-- page 162 (pdf 3) -->
 
@@ -52,7 +58,23 @@ We were suppressed for thousands of years. You engaged us in your service to ser
 
 The Constituent Assembly spent many days discussing the powers of the central government versus those of the state governments. Some members thought that the Centre’s interests should be foremost. Only a strong Centre, it was argued, “would be in a position to think and plan for the well-being of the country as a whole”. Other members felt that the provinces should have greater autonomy and freedom. A member from Mysore feared that under the present system “democracy is centred in Delhi and it is not allowed to work in the same sense and spirit in the rest of the country”. A member from Madras insisted that
 
+> [table] Source 1
+
+## We must give them
+
+## security and rights
+
+Nehru wrote in a letter to the Chief Ministers of states:
+
+... we have a Muslim minority who are so large in numbers that they cannot, even if they want, go anywhere else. That is a basic fact about which there can be no argument. Whatever the provocation from Pakistan and whatever the indignities and horrors inflicted on non-Muslims there, we have got to deal with this minority in a civilised manner. We must give them security and the rights of citizens in a democratic State.
+
+Activity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
+
 <!-- page 164 (pdf 5) -->
+
+> [caption] Fig. 3 – Dr B.R. Ambedkar
+
+Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
 “the initial responsibility for the well-being of the people of the provinces should rest with the Provincial Governments”.
 
@@ -62,11 +84,9 @@ Another major debate in the Constituent Assembly concerned language. Many member
 
 Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
-> [caption] Fig. 3 – Dr B.R. Ambedkar
-
-> [caption] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
-
 <!-- page 165 (pdf 6) -->
+
+## How were States to be Formed?
 
 Back in the 1920s, the Indian National Congress – the main party of the freedom struggle – had promised that once the country won independence, each major linguistic group would have its own province. However, after independence the Congress did not take any steps to honour this promise. For India had been divided on the basis of religion: despite the wishes and efforts of Mahatma Gandhi, freedom had come not to one nation but to two. As a result of the partition of India, more than a million people had been killed in riots between Hindus and Muslims. Could the country afford further divisions on the basis of language?
 
@@ -92,13 +112,19 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 <!-- page 167 (pdf 8) -->
 
-> [table] Erstwhile Princely States*
+> [caption] Fig. 5 (b) – Indian States before 1 November 1956
 
-> [table] Other States
+Activity
 
-> [table] *A state ceased to be a “princely state” as and when its prince agreed to merger with India or Pakistan or was defeated. But many of these states were retained as administrative units until 31 October 1956. Hence the category, “erstwhile princely states” for the period 1947-48 to 31 October 1956.
+Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear in 5 (b). Identify the new states that were formed in 1956 and later and the languages of these states.
 
-> [caption] Fig. 5 (b) – Indian States before 1 November 1956 Fig. 5 (c) – Indian States in 1975
+> [caption] Fig. 5 (c) – Indian States in 1975
+
+> [caption] Erstwhile Princely States*
+
+> [caption] Other States
+
+> [caption] *A state ceased to be a “princely state” as and when its prince agreed to merger with India or Pakistan or was defeated. But many of these states were retained as administrative units until 31 October 1956. Hence the category, “erstwhile princely states” for the period 1947-48 to 31 October 1956.
 
 <!-- page 168 (pdf 9) -->
 
@@ -110,13 +136,27 @@ State – Concerned with the government. (Note that used in this sense, the word
 
 > [table] This was the first of the four dams built on the Chambal river in Madhya Pradesh. It was completed in 1960.
 
+## Planning for Development
+
 Lifting India and Indians out of poverty, and building a modern technical and industrial base were among the major objectives of the new nation. In 1950, the government set up a Planning Commission to help design and execute suitable policies for economic development. There was a broad agreement on what was called a “mixed economy” model. Here, both the State and the private sector would play important and complementary roles in increasing production and generating jobs. What, specifically, these roles were to be – which industries should be initiated by the state and which by the market, how to achieve a balance between the different regions and states – was to be defined by the Planning Commission.
 
 In 1956, the Second Five Year Plan was formulated. This focused strongly on the development of heavy industries such as steel, and on the building of large dams. These sectors would be under the control of the State. This focus on heavy industry, and the effort at state regulation of the economy was to guide economic policy for the next few decades. This approach had many strong supporters, but also some vocal critics.
 
 <!-- page 169 (pdf 10) -->
 
+> [table] Source 2
+
+## Nehru on the Five Year Plans
+
+Prime Minister Jawaharlal Nehru was a great supporter of the planning process. He explained the ideals and purposes of planning in a series of letters he wrote to the chief ministers of the different states. In a letter of 22 December 1952, he said that:
+
+... behind the First Five Year Plan lies the conception of India’s unity and of a mighty co-operative effort of all the peoples of India … We have to remember always that it is not merely the governmental machinery that counts in all this, but even more so the enthusiasm and co-operation of the people. Our people must have the sensation of partnership in a mighty enterprise, of being fellow-travellers towards the next goal that they and we have set before us. The Plan may be, and has to be, based on the calculations of economists, statisticians and the like, but figures and statistics, very important as they are, do not give life to the scheme. That breath of life comes in other ways, and it is for us now to make this Plan, which is enshrined in cold print, something living, vital and dynamic, which captures the imagination of the people.
+
 Some felt that it had put inadequate emphasis on agriculture. Others argued that it had neglected primary education. Still others believed that it had not taken account of the environmental implications of economic policies. As Mahatma Gandhi’s follower Mira Behn wrote in 1949, by “science and machinery he [mankind] may get huge returns for a time, but ultimately will come desolation. We have got to study Nature’s balance, and develop our lives within her laws, if we are to survive as a physically healthy and morally decent species.”
+
+Activity
+
+Discuss in your class whether Mira Behn was right in her view that science and machinery would create problems for human beings. You may like to think about examples of the effects of industrial pollution and de-forestation on the world today.
 
 > [caption] Fig. 8– Jawaharlal Nehru at the Bhilai Steel Plant The Bhilai steel plant was set up with the help of the former Soviet Union in 1959. Located in the backward rural area of Chhattisgarh, it came to be seen as an important sign of the development of modern India after Independence.
 
@@ -130,7 +170,15 @@ Some felt that it had put inadequate emphasis on agriculture. Others argued that
 
 > [table] Over 29 newly independent states participated in this famous conference to discuss how Afro-Asian nations could continue to oppose colonialism and Western domination.
 
+The search for an independent foreign policy India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
+
+Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war—often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
+
+By the 1970s, a large number of countries had joined the non-aligned movement.
+
 <!-- page 171 (pdf 12) -->
+
+## The Nation, Sixty Years On
 
 On 15 August 2007, India celebrated sixty years of its existence as a free nation. How well has the country done in this time? And to what extent has it fulfilled the ideals set out in its Constitution?
 
@@ -144,7 +192,23 @@ The Constitution recognises equality before the law, but in real life some India
 
 <!-- page 172 (pdf 13) -->
 
+ELSEWHERE
+
+What happened in Sri Lanka
+
+In 1956, the year the states of India were reorganised on the basis of language, the Parliament of Sri Lanka (then Ceylon) introduced an Act recognising Sinhala as the sole official language of the country. This made Sinhala the medium of instruction in all state schools and colleges, in public examinations, and in the courts. The new Act was opposed by the Tamil-speaking minority who lived in the north of the island. “When you deny me my language,” said one Tamil MP, “you deny me everything.” “You are hoping for a divided Ceylon,” warned another, adding: “Do not fear, I assure you [that you] will have a divided Ceylon.” An Opposition member, himself Sinhala speaking, predicted that if the government did not change its mind and insisted on the Act being passed, “two torn little bleeding states might yet arise out of one little state”.
+
+For several decades now, a civil war has raged in Sri Lanka, whose roots lie in the imposition of the Sinhala language on the Tamil-speaking minority. And another South Asian country, Pakistan, was divided into two when the Bengali speakers of the east felt that their language was being suppressed. By contrast, India has managed to survive as a single nation, in part because the many regional languages were given freedom to flourish. Had Hindi been imposed on South India, in the way that Urdu was imposed on East Pakistan or Sinhala on northern Sri Lanka, India too might have seen civil war and fragmentation. Contrary to the fears of Jawahalal Nehru and Sardar Patel, linguistic states have not threatened the unity of India. Rather, they have deepened this unity. Once the fear of one’s language being suppressed has gone, the different linguistic groups have been content to live as part of the larger nation called India.
+
+> [caption] Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
+
+## Let’s recall
+
+## Let’s imagine
+
 1. Name three problems that the newly independent nation of India faced.
+
+You are witness to an argument between an adivasi and a person who is opposed to the reservation of seats and jobs. What might be the arguments you heard each of them put forward? Act out the conversation.
 
 2. What was the role of the Planning Commission?
 
@@ -155,10 +219,6 @@ The Constitution recognises equality before the law, but in real life some India
 (b) Subjects on the Concurrent List were
 
 _________ and _________.
-
-> [caption] Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
-
-You are witness to an argument between an adivasi and a person who is opposed to the reservation of seats and jobs. What might be the arguments you heard each of them put forward? Act out the conversation.
 
 <!-- page 173 (pdf 14) -->
 
@@ -176,6 +236,8 @@ You are witness to an argument between an adivasi and a person who is opposed to
 
 (d) The Second Five Year Plan focused on the development of heavy industry.
 
+## Let’s discuss
+
 5. What did Dr Ambedkar mean when he said that “In politics we will have equality, and in social and economic life we will have inequality”?
 
 6. After Independence, why was there a reluctance to divide the country on linguistic lines?
@@ -183,6 +245,8 @@ You are witness to an argument between an adivasi and a person who is opposed to
 7. Give one reason why English continued to be used in India after Independence.
 
 8. How was the economic development of India visualised in the early decades after Independence?
+
+## Let’s do
 
 9. Who was Mira Behn? Find out more about her life and her ideas.
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch08.pdf"
 source_sha256: "08f2e68c214552458d83e5e95b868aaf02d4d35a7274af4481c1c818cd8f8543"
 pdf_pages: 15
 printed_pages: "94-108"
-body_fingerprint: "27216ba939d1e9684f07b6dbb0ac71e2e86b729f588643be848d37b430f87293"
+body_fingerprint: "32eb81232703f7e67d6def2c75c93a7935167eec552235bd3c67e6cfacae7b42"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -49,7 +49,7 @@ Rammohun Roy was well versed in Sanskrit, Persian and several other Indian and E
 
 The strategy adopted by Rammohun was used by later reformers as well. Whenever they wished to challenge a practice that seemed harmful, they tried to find a verse or sentence in the ancient sacred texts that supported their point of view. They then suggested that the practice as it existed at present was against early tradition.
 
-> [table] Fig. 3 Fig. 3 – Hook swinging festival In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
+Fig. 3 Fig. 3 – Hook swinging festival In this popular festival, devotees underwent a peculiar form of suffering as part of ritual worship. With hooks pierced through their skin they swung themselves on a wheel. In the early nineteenth century, when European officials began criticising Indian customs and rituals as barbaric, this was one of the rituals that came under attack.
 
 > [caption] Fig. 2 Fig. 2 – Raja Rammohun Roy, painted by Rembrandt Peale, 1833
 

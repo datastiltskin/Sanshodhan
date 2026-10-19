@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "6c4cd9e4e35e65c45f74593ac81d2dd04bbfdc883f896d8b81a7ecc69f612f4a"
+body_fingerprint: "f066e091342cd3f5ea9ef18a456f2418885336d0821016bf80aedfa0ba8bf1f7"
 ocr: true
 ocr_confidence: 92.1
 ---
@@ -215,21 +215,21 @@ Alauddin Khalji
 
 > [table] The soldiers had to be fed. This was done through the produce collected as tax from lands between the Ganga and Yamuna. Tax was fixed at 50 per cent of the peasant’s yield.
 
-> [table] The soldiers had to be paid. Alauddin chose to pay his soldiers salaries in cash rather than igqtas. The soldiers would buy their supplies from merchants in Delhi and it was thus feared that merchants would raise their prices. To stop this, Alauddin controlled the prices of goods in Delhi. Prices were carefully surveyed by officers, and merchants who did not sell at the prescribed rates were punished.
+The soldiers had to be paid. Alauddin chose to pay his soldiers salaries in cash rather than igqtas. The soldiers would buy their supplies from merchants in Delhi and it was thus feared that merchants would raise their prices. To stop this, Alauddin controlled the prices of goods in Delhi. Prices were carefully surveyed by officers, and merchants who did not sell at the prescribed rates were punished.
 
-> [table] Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
+Alauddin’s administrative measures were quite successful and chroniclers praised his reign for its cheap prices and efficient supplies of goods in the market. He successfully withstood the threat of Mongol invasions.
 
 Muhammad Tughluq
 
-> [table] The Sultanate was attacked in the early years of Muhammad Tughluq’s reign. The Mongol army was defeated. Muhammad Tughluq was confident about the strength of his army and his resources to plan an attack on Transoxiana. He therefore raised a large standing army.
+The Sultanate was attacked in the early years of Muhammad Tughluq’s reign. The Mongol army was defeated. Muhammad Tughluq was confident about the strength of his army and his resources to plan an attack on Transoxiana. He therefore raised a large standing army.
 
-> [table] Rather than constructing a new garrison town, the oldest of the four cities of Delhi (Dehli-i Kuhna) was emptied of its residents and the soldiers garrisoned there. The residents of the old city were sent to the new capital of Daulatabad in the south.
+Rather than constructing a new garrison town, the oldest of the four cities of Delhi (Dehli-i Kuhna) was emptied of its residents and the soldiers garrisoned there. The residents of the old city were sent to the new capital of Daulatabad in the south.
 
 > [caption] Produce from the same area was collected as tax to feed the army. But to meet the expense of maintaining such a large number of soldiers the Sultan levied additional taxes. This coincided with famine in the area.
 
-> [table] Muhammad Tughluq also paid his soldiers cash salaries. But instead of controlling prices, he used a “token” currency, somewhat like present-day paper currency, but made out of cheap metals, not gold and silver. People in the fourteenth century did not trust these coins. They were very smart: they saved their gold and silver coins and paid all their taxes to the state with this token currency. This cheap currency could also be counterfeited easily.
+Muhammad Tughluq also paid his soldiers cash salaries. But instead of controlling prices, he used a “token” currency, somewhat like present-day paper currency, but made out of cheap metals, not gold and silver. People in the fourteenth century did not trust these coins. They were very smart: they saved their gold and silver coins and paid all their taxes to the state with this token currency. This cheap currency could also be counterfeited easily.
 
-> [table] Muhammad Tughluq’s administrative measures were a failure. His campaign into Kashmir was a disaster. He then gave up his plans to invade Transoxiana and disbanded his large army. Meanwhile, his administrative measures created complications. The shifting of people to Daulatabad was resented. The raising of taxes and famine in the Ganga-Yamuna belt led to widespread rebellion. And finally, the “token” currency had to be recalled.
+Muhammad Tughluq’s administrative measures were a failure. His campaign into Kashmir was a disaster. He then gave up his plans to invade Transoxiana and disbanded his large army. Meanwhile, his administrative measures created complications. The shifting of people to Daulatabad was resented. The raising of taxes and famine in the Ganga-Yamuna belt led to widespread rebellion. And finally, the “token” currency had to be recalled.
 
 <!-- page 42 (pdf 13) -->
 
@@ -241,11 +241,13 @@ Some of the states established in this period were small but powerful and extrem
 
 <!-- page 43 (pdf 14) -->
 
-The “Three Orders”, the “Peace of God”, Knights and the Crusades Imagine You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
+The “Three Orders”, the “Peace of God”, Knights and the Crusades The idea of the “Three Orders” was first formulated in France in the early eleventh century. It divided society into three classes: those who prayed, those who fought, and those who tilled the land. This division of society into “Three Orders” was supported by the Church to consolidate its dominant role in society. This helped the emergence of a new warrior group called Knights.
 
-> [table] The idea of the “Three Orders” was first formulated in France in the early eleventh century. It divided society into three classes: those who prayed, those who fought, and those who tilled the land. This division of society into “Three Orders” was supported by the Church to consolidate its dominant role in society. This helped the emergence of a new warrior group called Knights.
+The Church patronised this group and used them to propagate their idea of “Peace of God”. The attempt was to direct warriors away from conflict amongst themselves and send them instead on a campaign against the Muslims who had captured the city of Jerusalem. This led to a series of campaigns called the Crusades. These campaigns in the service of God and the Church completely altered the status of Knights. Originally, these Knights did not belong to the class of nobles. But by the end of the eleventh century in France, and a century later in Germany, the humble origins of these warriors were forgotten. By the twelfth century, nobles also wanted to be known as Knights.
 
-> [table] The Church patronised this group and used them to propagate their idea of “Peace of God”. The attempt was to direct warriors away from conflict amongst themselves and send them instead on a campaign against the Muslims who had captured the city of Jerusalem. This led to a series of campaigns called the Crusades. These campaigns in the service of God and the Church completely altered the status of Knights. Originally, these Knights did not belong to the class of nobles. But by the end of the eleventh century in France, and a century later in Germany, the humble origins of these warriors were forgotten. By the twelfth century, nobles also wanted to be known as Knights.
+Imagine
+
+You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 
 ### Let’s recall
 

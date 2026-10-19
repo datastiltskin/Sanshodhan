@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch07.pdf"
 source_sha256: "cb4897f596e8529bd0211e4f3e3cad0168bcade38eacc34e50b85cecced0aba0"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "2f13aba2d0b820e1d96fbd1ce4bcb8902f8ce1aa4de25e784952f02220936f41"
+body_fingerprint: "a27936539c556c79e679758c5fe632656bbe149a0a78c3bc0e37a6dd29ab337b"
 ocr: true
 ocr_confidence: 93.3
 ---
@@ -27,7 +27,7 @@ In large parts of the subcontinent, society was already divided according to the
 
 Beyond Big Cities: Tribal Societies
 
-> [table] There were, however, other kinds of societies as well. Many societies in the subcontinent did not follow the social rules and rituals prescribed by the Brahmanas. Nor were they divided into numerous unequal classes. Such societies are often called tribes.
+There were, however, other kinds of societies as well. Many societies in the subcontinent did not follow the social rules and rituals prescribed by the Brahmanas. Nor were they divided into numerous unequal classes. Such societies are often called tribes.
 
 <!-- page 92 (pdf 2) -->
 
@@ -73,7 +73,7 @@ _* Nomadic pastoralists moved over long distances with their animals. They lived
 
 > [table] Fig.3
 
-> [table] A chain of mobile traders connected India to the outside world. Here you see nuts being gathered and loaded on the backs of camels. Central Asian traders brought such goods to India and the Banjaras and other traders carried these to local markets.
+A chain of mobile traders connected India to the outside world. Here you see nuts being gathered and loaded on the backs of camels. Central Asian traders brought such goods to India and the Banjaras and other traders carried these to local markets.
 
 <!-- page 95 (pdf 5) -->
 
@@ -181,7 +181,7 @@ Considerable social change took place in the subcontinent during the period we h
 
 The Mongols
 
-> [table] Find Mongolia in your atlas. The best-known pastoral and hunter-gatherer tribe in history were the Mongols. They inhabited the grasslands (steppes) of Central Asia and the forested areas further north. By 1206 Genghis Khan had united the Mongol and Turkish tribes into a powerful military force. At the time of his death (1227) he was the ruler of extensive territories. His successors created a vast empire. At different points of time, it included parts of Russia, Eastern Europe and also China and much of West Asia. The Mongols had well-organised military and administrative systems. These were based on the support of different ethnic and religious groups.
+Find Mongolia in your atlas. The best-known pastoral and hunter-gatherer tribe in history were the Mongols. They inhabited the grasslands (steppes) of Central Asia and the forested areas further north. By 1206 Genghis Khan had united the Mongol and Turkish tribes into a powerful military force. At the time of his death (1227) he was the ruler of extensive territories. His successors created a vast empire. At different points of time, it included parts of Russia, Eastern Europe and also China and much of West Asia. The Mongols had well-organised military and administrative systems. These were based on the support of different ethnic and religious groups.
 
 Imagine community that shifts residence every three months. How would this change your life?
 

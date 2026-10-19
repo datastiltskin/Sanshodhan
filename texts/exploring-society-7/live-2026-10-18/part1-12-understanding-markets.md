@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf"
 source_sha256: "9fb8476d1480fcd2844b84d1cbd26c690c1ffaea0fc64c5d523d0973323e7687"
 pdf_pages: 26
 printed_pages: "247-272"
-body_fingerprint: "9a541a8e20feabe69f7effde45ced275bef82a1324b1e73e1329ae93ca7ce791"
+body_fingerprint: "7424df52c30292f3d250927e520a1cd85458f2bbbd5497fd0323d6deaa3c253a"
 ---
 
 <!-- page 247 (pdf 1) -->
@@ -60,9 +60,9 @@ The famous Portuguese traveller, Domingos Paes, called Hampi “the best-provide
 
 ### LET’S EXPLORE
 
-Æ Can you imagine what this bazaar must have looked like during its peak?
+Can you imagine what this bazaar must have looked like during its peak?
 
-Æ Do you know of any old markets from your state? How would they be similar or different from today’s markets? Discuss with elders in the family and community.
+Do you know of any old markets from your state? How would they be similar or different from today’s markets? Discuss with elders in the family and community.
 
 Let’s learn more about markets and how they function!
 
@@ -140,9 +140,9 @@ One can buy goods ranging from books, clothes, furniture, and grocery items to e
 
 ### THINK ABOUT IT
 
- What do you think are the pros and cons of online and physical shopping respectively? Explore this question from the point of view of both, sellers and buyers.
+What do you think are the pros and cons of online and physical shopping respectively? Explore this question from the point of view of both, sellers and buyers.
 
- Some services require in-person contact like tailoring and cannot be provided online. Can you suggest other services where physical markets are needed?
+Some services require in-person contact like tailoring and cannot be provided online. Can you suggest other services where physical markets are needed?
 
 There are other types of markets that do not transact goods and services. One of them is the share or stock market.
 
@@ -366,9 +366,9 @@ The finished product from the fabric is traded by the manufacturing units in the
 
 ### DON’T MISS OUT
 
-Æ Apart from textiles, Surat is home to the largest diamond industry in the world. Approximately 1.5 million artisans are involved in activities like cutting and polishing diamonds on a gigantic scale. Trade flourished here from the 16th century onwards. The city’s location on the west coast led to the setting up of ports and road networks that continue to be important today. Communities of expert artisans and skilled persons have lived here for centuries; their skills have been passed on over generations making it a flourishing city.
+Apart from textiles, Surat is home to the largest diamond industry in the world. Approximately 1.5 million artisans are involved in activities like cutting and polishing diamonds on a gigantic scale. Trade flourished here from the 16th century onwards. The city’s location on the west coast led to the setting up of ports and road networks that continue to be important today. Communities of expert artisans and skilled persons have lived here for centuries; their skills have been passed on over generations making it a flourishing city.
 
-Æ Can you spot the port, highway and railway network on the map in Fig. 12.24? How do you think they helped make Surat a trading hub?
+Can you spot the port, highway and railway network on the map in Fig. 12.24? How do you think they helped make Surat a trading hub?
 
 <!-- page 263 (pdf 17) -->
 
@@ -434,9 +434,9 @@ However, the government needs to carefully implement such price limits. If the p
 
 ### LET’S EXPLORE
 
-Æ Onions are an important part of the cuisine in most parts of India. In some seasons, the supply of onions comes down in the market. What do you think happens to the price of onions when this happens?
+Onions are an important part of the cuisine in most parts of India. In some seasons, the supply of onions comes down in the market. What do you think happens to the price of onions when this happens?
 
-Æ What will happen if the people supplying onions do not bring the required quantities to the market? What do you think the government should do in this situation?
+What will happen if the people supplying onions do not bring the required quantities to the market? What do you think the government should do in this situation?
 
 ## Ensuring quality and safety standards
 
@@ -462,9 +462,9 @@ Producers make and sell goods and services to be able to make a profit. However,
 
 ### THINK ABOUT IT
 
- What are the other areas where you can see the government being involved in the markets?
+What are the other areas where you can see the government being involved in the markets?
 
- Are there areas where government intervention needs to be reduced? Discuss with family or relatives.
+Are there areas where government intervention needs to be reduced? Discuss with family or relatives.
 
 ## How can consumers assess the quality of products and services?
 
@@ -508,7 +508,7 @@ Government agencies provide such certifications that help buyers to assess produ
 
 Let’s see what each of these labels mean:
 
- Just like FSSAI, there is Indian Standards Institution (ISI) Mark issued by the Bureau of India Standards (BIS). This symbol is generally present on electrical appliances, construction materials, automotive tires, paper, etc. This ensures quality and that the product is safe to use.  Similarly, AGMARK (Ag for agriculture) is the certification mark for agricultural products like vegetables, fruits, cereals, pulses, spices, honey, etc.  Electronics items like TVs, laptops, air conditioners, etc. have BEE STAR rating. BEE stands for Bureau of Energy Efficiency. These ratings are printed on the product package as stars. Higher stars indicate that the appliance uses less energy and electricity. This is good for consumers as the electricity bill would be lesser and good for the environment as well.
+Just like FSSAI, there is Indian Standards Institution (ISI) Mark issued by the Bureau of India Standards (BIS). This symbol is generally present on electrical appliances, construction materials, automotive tires, paper, etc. This ensures quality and that the product is safe to use. Similarly, AGMARK (Ag for agriculture) is the certification mark for agricultural products like vegetables, fruits, cereals, pulses, spices, honey, etc. Electronics items like TVs, laptops, air conditioners, etc. have BEE STAR rating. BEE stands for Bureau of Energy Efficiency. These ratings are printed on the product package as stars. Higher stars indicate that the appliance uses less energy and electricity. This is good for consumers as the electricity bill would be lesser and good for the environment as well.
 
 ### LET’S EXPLORE
 
@@ -524,13 +524,13 @@ Online reviews and feedback from other consumers about products and services hel
 
 ## Before we move on...
 
-Æ Markets facilitate exchange between buyers and sellers at a mutually agreed price which is determined by the demand from buyers and supply by sellers.
+Markets facilitate exchange between buyers and sellers at a mutually agreed price which is determined by the demand from buyers and supply by sellers.
 
-Æ Markets have a chain of participants like manufacturers, wholesalers, distributors and retailers that enables supply of goods to the final consumers.
+Markets have a chain of participants like manufacturers, wholesalers, distributors and retailers that enables supply of goods to the final consumers.
 
-Æ Markets are also places for interaction as they bring people together and enable exchange of ideas and traditions.
+Markets are also places for interaction as they bring people together and enable exchange of ideas and traditions.
 
-Æ The government plays a regulatory role in the markets to promote quality standards for products and services and fair practices in the market. However, consumers can also assess the quality of products and services through certification marks on the products from government agencies and through online reviews.
+The government plays a regulatory role in the markets to promote quality standards for products and services and fair practices in the market. However, consumers can also assess the quality of products and services through certification marks on the products from government agencies and through online reviews.
 
 <!-- page 271 (pdf 25) -->
 

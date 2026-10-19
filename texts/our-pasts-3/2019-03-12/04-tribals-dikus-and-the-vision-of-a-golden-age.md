@@ -11,26 +11,32 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch04.pdf"
 source_sha256: "b76d7848f569c9ef5328ec5c0783115a29c2bf99f2812793b17f68a8099339a0"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "ca6ad4c3714210812cfabd854ddcb9242cfdee168a8659cfa67aa80bc3995b17"
+body_fingerprint: "132a72381ef2dcc2155bca055a8bb2925c41ab5f81052b9fe11912b9c73ee131"
 ---
 
 <!-- page 39 (pdf 1) -->
+
+# Tribals, Dikus and the Vision of a Golden Age
 
 In 1895, a man named Birsa was seen roaming the forests and villages of Chottanagpur in Jharkhand. People said he had miraculous powers – he could cure all diseases and multiply grain. Birsa himself declared that God had appointed him to save his people from trouble, free them from the slavery of dikus (outsiders). Soon thousands began following Birsa, believing that he was bhagwan (God) and had come to solve all their problems.
 
 Birsa was born in a family of Mundas – a tribal group that lived in Chottanagpur. But his followers included other tribals of the region – Santhals and Oraons. All of them in different ways were unhappy with the changes they were experiencing and the problems they were facing under British rule. Their familiar ways of life seemed to be disappearing, their livelihoods were under threat, and their religion appeared to be in danger.
 
+> [caption] Fig. 1 – Women of the Dongria Kandha tribe in Orissa wade through the river on the way to the market
+
 What problems did Birsa set out to resolve? Who were the outsiders being referred to as dikus, and how did they enslave the people of the region? What was happening to the tribal people under the British? How did their lives change? These are some of the questions you will read about in this chapter.
 
 You have read about tribal societies last year. Most tribes had customs and rituals that were very different from those laid down by Brahmans. These societies also did not have the sharp social divisions that were characteristic of caste societies. All those who belonged to the same tribe thought of themselves as sharing common ties of kinship. However, this did not mean that there were no social and economic differences within tribes.
 
-> [caption] Fig. 1 – Women of the Dongria Kandha tribe in Orissa wade through the river on the way to the market
-
 <!-- page 40 (pdf 2) -->
 
-Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that is eaten or used to make alcohol By the nineteenth century, tribal people in different parts of India were involved in a variety of activities.
+Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that is eaten or used to make alcohol
 
 > [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
+
+## How Did Tribal Groups Live?
+
+By the nineteenth century, tribal people in different parts of India were involved in a variety of activities.
 
 Some were jhum cultivators Some of them practised jhum cultivation, that is, shifting cultivation. This was done on small patches of land, mostly in forests. The cultivators cut the treetops to allow sunlight to reach the ground, and burnt the vegetation on the land to clear it for cultivation. They spread the ash from the firing, which contained potash, to fertilise the soil. They used the axe to cut trees and the hoe to scratch the soil in order to prepare it for cultivation. They broadcast the seeds, that is, scattered the seeds on the field instead of ploughing the land and sowing the seeds. Once the crop was ready and harvested, they moved to another field. A field that had been cultivated once was left fallow for several years, Shifting cultivators were found in the hilly and forested tracts of north-east and central India. The lives of these tribal people depended on free movement within forests and on being able to use the land and forests for growing their crops. That is the only way they could practise shifting cultivation.
 
@@ -50,6 +56,22 @@ Some herded animals Many tribal groups lived by herding and rearing animals. The
 
 <!-- page 42 (pdf 4) -->
 
+> [caption] Source 1
+
+## A time to hunt, a time to sow, a time to move to a new field
+
+Have you ever noticed that people living in different types of societies do not share the same notion of work and time? The lives of the shifting cultivators and hunters in different regions were regulated by a calendar and division of tasks for men and women.
+
+Verrier Elwin, a British anthropologist who lived among the Baigas and Khonds of central India for many years in the 1930s and 1940s, gives us a picture of what this calendar and division of tasks was like. He writes:
+
+In Chait women went to clearings to ... cut stalks that were already reaped; men cut large trees and go for their ritual hunt. The hunt began at full moon from the east. Traps of bamboo were used for hunting. The women gathered fruits like sago, tamarind and mushroom. Baiga women can only gather roots or kanda and mahua seeds. Of all the adivasis in Central India, the Baigas were known as the best hunters … In Baisakh the firing of the forest took place, the women gathered unburnt wood to burn. Men continued to hunt, but nearer their villages. In Jeth sowing took place and hunting still went on. From Asadh to Bhadon the men worked in the fields. In Kuar the first fruits of beans were ripened and in Kartik kutki became ripe. In Aghan every crop was ready and in Pus winnowing took place. Pus was also the time for dances and marriages. In Magh shifts were made to new bewars and hunting-gathering was the main subsistence activity.
+
+The cycle described above took place in the first year. In the second year there was more time for hunting as only a few crops had to be sown and harvested. But since there was enough food the men lived in the bewars. It was only in the third year that the diet had to be supplemented with the forest products.
+
+> [table] Adapted from Verrier Elwin, Baiga (1939) and Elwin’s unpublished ‘Notes on the Khonds’ (Verrier Elwin Papers, Nehru Memorial Museum and Library)
+
+Activity Look carefully at the tasks that Baiga men and women did. Do you see any pattern? What were the differences in the types of work that they were expected to perform?
+
 > [caption] Fig. 4 – A Santhal girl carrying firewood, Bihar, 1946
 
 > [table] Children go with their mothers to the forest to gather forest produce.
@@ -61,6 +83,8 @@ Some herded animals Many tribal groups lived by herding and rearing animals. The
 Even before the nineteenth century, many from within the tribal groups had begun settling down, and cultivating their fields in one place year after year, instead of moving from place to place. They began to use the plough, and gradually got rights over the land they lived on. In many cases, like the Mundas of Chottanagpur, the land belonged to the clan as a whole. All members of the clan were regarded as descendants of the original settlers, who had first cleared the land. Therefore, all of them had rights on the land. Very often some people within the clan acquired more power than others, some became chiefs and others followers. Powerful men often rented out their land instead of cultivating it themselves.
 
 British officials saw settled tribal groups like the Gonds and Santhals as more civilised than hunter-gatherers or shifting cultivators. Those who lived in the forests were considered to be wild and savage: they needed to be settled and civilised.
+
+## How Did Colonial Rule Affect Tribal Lives?
 
 The lives of tribal groups changed during British rule. Let us see what these changes were.
 
@@ -92,9 +116,17 @@ The life of tribal groups, as you have seen, was directly connected to the fores
 
 But once the British stopped the tribal people from living inside forests, they faced a problem. From where would the Forest Department get its labour to cut trees for railway sleepers and to transport logs?
 
-Colonial officials came up with a solution. They decided that they would give jhum cultivators small patches of land in the forests and allow them to cultivate these on the condition that those who lived in the villages would have to provide labour to the Forest Department and look after the forests. So in many regions the Forest Department established forest villages to ensure a regular supply of cheap labour.
+Sleeper – The horizontal planks of wood on which railway lines are laid Colonial officials came up with a solution. They decided that they would give jhum cultivators small patches of land in the forests and allow them to cultivate these on the condition that those who lived in the villages would have to provide labour to the Forest Department and look after the forests. So in many regions the Forest Department established forest villages to ensure a regular supply of cheap labour.
 
-Sleeper – The horizontal planks of wood on which railway lines are laid Many tribal groups reacted against the colonial forest laws. They disobeyed the new rules, continued with practices that were declared illegal, and at times rose in open rebellion. Such was the revolt of Songram Sangma in 1906 in Assam, and the forest satyagraha of the 1930s in the Central Provinces.
+> [table] Source 2
+
+## “In this land of the English how hard it is to live”
+
+In the1930s Verrier Elwin visited the land of the Baigas – a tribal group in central India. He wanted to know about them – their customs and practices, their art and folklore. He recorded many songs that lamented the hard time the Baigas were having under British rule.
+
+In this land of the English how hard it is to live How hard it is to live In the village sits the landlord In the gate sits the Kotwar In the garden sits the Patwari In the field sits the government In this land of the English how hard it is to live To pay cattle tax we have to sell cow To pay forest tax we have to sell buffalo To pay land tax we have to sell bullock How are we to get our food? In this land of the English Many tribal groups reacted against the colonial forest laws. They disobeyed the new rules, continued with practices that were declared illegal, and at times rose in open rebellion. Such was the revolt of Songram Sangma in 1906 in Assam, and the forest satyagraha of the 1930s in the Central Provinces.
+
+> [table] Quoted in Verrier Elwin and Shamrao Hivale, Songs of the Maikal, p. 316.
 
 <!-- page 46 (pdf 8) -->
 
@@ -120,13 +152,33 @@ The growers were paid Rs 3 to Rs 4 for a thousand cocoons. These were then expor
 
 The plight of the tribals who had to go far away from their homes in search of work was even worse. From the late nineteenth century, tea plantations started coming up and mining became an important industry. Tribals were recruited in large numbers to work the tea plantations of Assam and the coal mines of Jharkhand. They were recruited through contractors who paid them miserably low wages, and prevented them from returning home.
 
+## A Closer Look
+
 Through the nineteenth and twentieth centuries, tribal groups in different parts of the country rebelled against the changes in laws, the restrictions on their practices, the new taxes they had to pay, and the exploitation by traders and moneylenders. The Kols rebelled in 1831-32, Santhals rose in revolt in 1855, the Bastar Rebellion in central India broke out in 1910 and the Warli Revolt in Maharashtra in 1940. The movement that Birsa led was one such movement.
 
 > [caption] Fig. 10 – Coal miners of Bihar, 1948
 
-> [caption] In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
+In the 1920s about 50 per cent of the miners in the Jharia and Raniganj coal mines of Bihar were tribals. Work deep down in the dark and suffocating mines was not only back-breaking and dangerous, it was often literally killing. In the 1920s over 2,000 workers died every year in the coal mines in India.
+
+Activity Find out whether the conditions of work in the mines have changed now. Check how many people die in mines every year, and what are the reasons for their death.
 
 <!-- page 48 (pdf 10) -->
+
+> [table] Source 3
+
+## ‘Blood trickles from
+
+## my shoulders’
+
+The songs the Mundas sang bemoaned their misery.
+
+Alas! under [the drudgery of] forced labour Blood trickles from my shoulders Day and night the emissary from the zamindars, Annoys and irritates me, day and night I groan Alas! This is my condition I do not have a home, where shall I get happiness Alas!
+
+> [table] K.S. Singh, Birsa Munda and
+
+> [table] His Movement, p.12.
+
+Vaishnav – Worshippers of Vishnu
 
 ### Birsa Munda
 
@@ -140,8 +192,6 @@ In 1895 Birsa urged his followers to recover their glorious past. He talked of a
 
 What worried British officials most was the political aim of the Birsa movement, for it wanted to drive out missionaries, moneylenders, Hindu landlords, and the government and set up a Munda Raj with Birsa at its head. The movement identified all these forces as the cause of the misery the Mundas were suffering.
 
-> [note] Vaishnav – Worshippers of Vishnu
-
 <!-- page 49 (pdf 11) -->
 
 The land policies of the British were destroying their traditional land system, Hindu landlords and moneylenders were taking over their land, and missionaries were criticising their traditional culture.
@@ -151,6 +201,8 @@ As the movement spread the British officials decided to act. They arrested Birsa
 When Birsa was released in 1897 he began touring the villages to gather support. He used traditional symbols and language to rouse people, urging them to destroy “Ravana” (dikus and the Europeans) and establish a kingdom under his leadership. Birsa’s followers began targeting the symbols of diku and European power. They attacked police stations and churches, and raided the property of moneylenders and zamindars. They raised the white flag as a symbol of Birsa Raj.
 
 In 1900 Birsa died of cholera and the movement faded out. However, the movement was significant in at least two ways. First – it forced the colonial government to introduce laws so that the land of the tribals could not be easily taken over by dikus. Second – it showed once again that the tribal people had the capacity to protest against injustice and express their anger against colonial rule. They did this in their own specific way, inventing their own rituals and symbols of struggle.
+
+## Let’s recall
 
 1. Fill in the blanks:
 
@@ -162,7 +214,23 @@ In 1900 Birsa died of cholera and the movement faded out. However, the movement 
 
 (d) Tribals went to work in the ____________ of Assam and the ____________ in Bihar.
 
+> [note] ELSEWHERE
+
+> [note] Why do we need cash!
+
+> [caption] There are many reasons why tribal and other social groups often do not wish to produce for the market. This tribal song from Papua New Guinea gives us a glimpse of how the tribals there viewed the market.
+
+> [caption] We say cash, Is unsatisfactory trash; It won’t keep off rain And it gives me pain So why should I work my guts From coconut trees For these government mutts;
+
+> [caption] Cash cropping is all very well If you’ve got something to sell But tell me sir why, If there’s nothing to buy; Should I bother?
+
+> [caption] Adapted from a song quoted in Cohn, Clarke and Haswell, eds, The Economy of Subsistence Agriculture, (1970).
+
 <!-- page 50 (pdf 12) -->
+
+## Let’s imagine
+
+Imagine you are a jhum cultivator living in a forest village in the nineteenth century. You have just been told that the land you were born on no longer belongs to you. In a meeting with British officials you try to explain the kinds of problems you face. What would you say?
 
 2. State whether true or false:
 
@@ -174,6 +242,8 @@ In 1900 Birsa died of cholera and the movement faded out. However, the movement 
 
 (d) The British wanted to preserve the tribal way of life.
 
+## Let’s discuss
+
 3. What problems did shifting cultivators face under British rule?
 
 4. How did the powers of tribal chiefs change under colonial rule?
@@ -182,8 +252,8 @@ In 1900 Birsa died of cholera and the movement faded out. However, the movement 
 
 6. What was Birsa’s vision of a golden age? Why do you think such a vision appealed to the people of the region?
 
+## Let’s do
+
 7. Find out from your parents, friends or teachers, the names of some heroes of other tribal revolts in the twentieth century. Write their story in your own words.
 
 8. Choose any tribal group living in India today. Find out about their customs and way of life, and how their lives have changed in the last 50 years.
-
-Imagine you are a jhum cultivator living in a forest village in the nineteenth century. You have just been told that the land you were born on no longer belongs to you. In a meeting with British officials you try to explain the kinds of problems you face. What would you say?

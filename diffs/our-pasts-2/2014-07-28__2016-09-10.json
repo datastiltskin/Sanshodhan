@@ -7,9 +7,9 @@
   "chapters_dropped": 0,
   "chapters_added": 0,
   "body": {
-   "deleted": 6,
-   "inserted": 6,
-   "modified": 59,
+   "deleted": 7,
+   "inserted": 16,
+   "modified": 65,
    "moved": 0,
    "typographic": 6,
    "restreamed": 4,
@@ -18,13 +18,13 @@
   },
   "other_streams": {
    "deleted": 32,
-   "inserted": 21,
-   "modified": 38,
+   "inserted": 20,
+   "modified": 35,
    "moved": 0,
    "typographic": 13,
    "restreamed": 33,
    "unreadable": 0,
-   "punctuation": 1
+   "punctuation": 0
   }
  },
  "chapters": [
@@ -9687,7 +9687,7 @@
     "title": "THE MUGHAL EMPIRE",
     "file": "texts/our-pasts-2/2016-09-10/04-the-mughal-empire.md"
    },
-   "similarity": 0.848,
+   "similarity": 0.849,
    "status": "matched",
    "streams": {
     "heading": {
@@ -9941,7 +9941,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 10,
-       "new_pos": 71
+       "new_pos": 112
       },
       {
        "type": "restreamed",
@@ -9953,15 +9953,15 @@
        "new_page": 55,
        "words": [],
        "old_pos": 13,
-       "new_pos": 102
+       "new_pos": 143
       }
      ]
     },
     "body": {
      "counts": {
-      "deleted": 5,
-      "inserted": 1,
-      "modified": 17,
+      "deleted": 6,
+      "inserted": 11,
+      "modified": 23,
       "moved": 0,
       "typographic": 1,
       "restreamed": 0,
@@ -10313,6 +10313,600 @@
        "new_pos": 23
       },
       {
+       "type": "deleted",
+       "stream": "body",
+       "similarity": null,
+       "old": "1528 – defeated the Rajputs at Chanderi.",
+       "new": null,
+       "old_page": 48,
+       "new_page": null,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": null
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.873,
+       "old": "HUMAYUN HUMAYUN 1530-1540, 1555-1556 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
+       "new": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [
+        [
+         "=",
+         "HUMAYUN"
+        ],
+        [
+         "-",
+         "HUMAYUN 1530-1540, 1555-1556"
+        ],
+        [
+         "=",
+         "1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father."
+        ]
+       ],
+       "old_pos": 28,
+       "new_pos": 27
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.742,
+       "old": "Established control over Agra and Delhi before his death.",
+       "new": "1528 – defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [
+        [
+         "+",
+         "1528 – defeated the Rajputs at Chanderi;"
+        ],
+        [
+         "=",
+         "Established control over Agra and Delhi before his death."
+        ]
+       ],
+       "old_pos": 27,
+       "new_pos": 26
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.748,
+       "old": "He recaptured Delhi in 1555 but died in an accident the following year.",
+       "new": "He recaptured Delhi in 1555 but died the next year after an accident in this building.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [
+        [
+         "=",
+         "He recaptured Delhi in 1555 but died"
+        ],
+        [
+         "-",
+         "in"
+        ],
+        [
+         "+",
+         "the next year after"
+        ],
+        [
+         "=",
+         "an accident"
+        ],
+        [
+         "-",
+         "the following year."
+        ],
+        [
+         "+",
+         "in this building."
+        ]
+       ],
+       "old_pos": 33,
+       "new_pos": 32
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.794,
+       "old": "Campaigns in the north-west.",
+       "new": "Campaigns were launched in the north-west.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [
+        [
+         "=",
+         "Campaigns"
+        ],
+        [
+         "+",
+         "were launched"
+        ],
+        [
+         "=",
+         "in the north-west."
+        ]
+       ],
+       "old_pos": 42,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat.",
+       "new": "1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua.",
+       "new": "1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "His brothers were each given a province.",
+       "new": "His brothers were each given a province.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 29,
+       "new_pos": 28
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors.",
+       "new": "The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 30,
+       "new_pos": 29
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran.",
+       "new": "Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 31,
+       "new_pos": 30
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(2) In Iran Humayun received help from the Safavid Shah.",
+       "new": "(2) In Iran Humayun received help from the Safavid Shah.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 32,
+       "new_pos": 31
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "AKBAR 1556-1605 Akbar was 13 years old when he became emperor.",
+       "new": "AKBAR 1556-1605 Akbar was 13 years old when he became emperor.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 33
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "His reign can be divided into three periods.",
+       "new": "His reign can be divided into three periods.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 35,
+       "new_pos": 34
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff.",
+       "new": "(1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 36,
+       "new_pos": 35
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
+       "new": "Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 36
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor.",
+       "new": "In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 37
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa.",
+       "new": "(2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 38
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim.",
+       "new": "These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(3) 1585-1605 – expansion of Akbar’s empire.",
+       "new": "(3) 1585-1605 – expansion of Akbar’s empire.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim.",
+       "new": "Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 42
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed.",
+       "new": "Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 44,
+       "new_pos": 43
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.",
+       "new": "In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 45,
+       "new_pos": 44
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.975,
+       "old": "against Aurangzeb and received support from the Marathas and Deccan Sultanate.",
+       "new": "against Aurangzeb and received support from the Marathas and the Deccan Sultanate.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [
+        [
+         "=",
+         "against Aurangzeb and received support from the Marathas and"
+        ],
+        [
+         "+",
+         "the"
+        ],
+        [
+         "=",
+         "Deccan Sultanate."
+        ]
+       ],
+       "old_pos": 59,
+       "new_pos": 58
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.979,
+       "old": "Bijapur was annexed in 1685 and Golcunda in 1687.",
+       "new": "Bijapur was annexed in 1685 and Golconda in 1687.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [
+        [
+         "=",
+         "Bijapur was annexed in 1685 and"
+        ],
+        [
+         "-",
+         "Golcunda"
+        ],
+        [
+         "+",
+         "Golconda"
+        ],
+        [
+         "=",
+         "in 1687."
+        ]
+       ],
+       "old_pos": 62,
+       "new_pos": 61
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Jahangir 1605-1627 Military campaigns started by Akbar continued.",
+       "new": "Jahangir 1605-1627 Military campaigns started by Akbar continued.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 46,
+       "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service.",
+       "new": "The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 47,
+       "new_pos": 46
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed.",
+       "new": "Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 48,
+       "new_pos": 47
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign.",
+       "new": "Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 49,
+       "new_pos": 48
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.",
+       "new": "The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 50,
+       "new_pos": 49
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "new": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 51,
+       "new_pos": 50
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Afghan noble Khan Jahan Lodi rebelled and was defeated.",
+       "new": "The Afghan noble Khan Jahan Lodi rebelled and was defeated.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 52,
+       "new_pos": 51
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized.",
+       "new": "Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 53,
+       "new_pos": 52
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids.",
+       "new": "In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 54,
+       "new_pos": 53
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace.",
+       "new": "In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 55,
+       "new_pos": 54
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons.",
+       "new": "In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 56,
+       "new_pos": 55
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed.",
+       "new": "Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 57,
+       "new_pos": 56
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Shah Jahan was imprisoned for the rest of his life in Agra.",
+       "new": "Shah Jahan was imprisoned for the rest of his life in Agra.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 58,
+       "new_pos": 57
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "He finally fled to Safavid Iran.",
+       "new": "He finally fled to Safavid Iran.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 60,
+       "new_pos": 59
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates.",
+       "new": "(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 61,
+       "new_pos": 60
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare.",
+       "new": "From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 63,
+       "new_pos": 62
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas.",
+       "new": "Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 64,
+       "new_pos": 63
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "His death was followed by a succession conflict amongst his sons.",
+       "new": "His death was followed by a succession conflict amongst his sons.",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
+       "old_pos": 65,
+       "new_pos": 64
+      },
+      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -10321,8 +10915,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 24,
-       "new_pos": 24
+       "old_pos": 66,
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -10333,8 +10927,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 25,
-       "new_pos": 25
+       "old_pos": 67,
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -10345,8 +10939,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 26,
-       "new_pos": 26
+       "old_pos": 68,
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -10357,8 +10951,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 27,
-       "new_pos": 27
+       "old_pos": 69,
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -10369,8 +10963,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 28
+       "old_pos": 70,
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -10381,8 +10975,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 29,
-       "new_pos": 29
+       "old_pos": 71,
+       "new_pos": 70
       },
       {
        "type": "equal",
@@ -10393,8 +10987,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 30,
-       "new_pos": 30
+       "old_pos": 72,
+       "new_pos": 71
       },
       {
        "type": "equal",
@@ -10405,8 +10999,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 31,
-       "new_pos": 31
+       "old_pos": 73,
+       "new_pos": 72
       },
       {
        "type": "equal",
@@ -10417,8 +11011,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 32,
-       "new_pos": 32
+       "old_pos": 74,
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -10429,8 +11023,8 @@
        "old_page": 50,
        "new_page": 50,
        "words": [],
-       "old_pos": 33,
-       "new_pos": 33
+       "old_pos": 75,
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -10441,8 +11035,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 34,
-       "new_pos": 34
+       "old_pos": 76,
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -10453,8 +11047,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 35,
-       "new_pos": 35
+       "old_pos": 77,
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -10465,8 +11059,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 36,
-       "new_pos": 36
+       "old_pos": 78,
+       "new_pos": 77
       },
       {
        "type": "equal",
@@ -10477,8 +11071,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 37,
-       "new_pos": 37
+       "old_pos": 79,
+       "new_pos": 78
       },
       {
        "type": "equal",
@@ -10489,8 +11083,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 38,
-       "new_pos": 38
+       "old_pos": 80,
+       "new_pos": 79
       },
       {
        "type": "equal",
@@ -10501,8 +11095,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 39,
-       "new_pos": 39
+       "old_pos": 81,
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -10513,8 +11107,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 40,
-       "new_pos": 40
+       "old_pos": 82,
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -10525,8 +11119,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 41,
-       "new_pos": 41
+       "old_pos": 83,
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -10537,8 +11131,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 42,
-       "new_pos": 42
+       "old_pos": 84,
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -10549,8 +11143,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 43,
-       "new_pos": 43
+       "old_pos": 85,
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -10561,8 +11155,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 44,
-       "new_pos": 44
+       "old_pos": 86,
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -10573,8 +11167,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 45,
-       "new_pos": 45
+       "old_pos": 87,
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -10585,8 +11179,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 46,
-       "new_pos": 46
+       "old_pos": 88,
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -10597,8 +11191,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 47,
-       "new_pos": 47
+       "old_pos": 89,
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -10609,8 +11203,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 48,
-       "new_pos": 48
+       "old_pos": 90,
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -10621,8 +11215,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 49,
-       "new_pos": 49
+       "old_pos": 91,
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -10633,8 +11227,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 50,
-       "new_pos": 50
+       "old_pos": 92,
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -10645,8 +11239,8 @@
        "old_page": 51,
        "new_page": 51,
        "words": [],
-       "old_pos": 51,
-       "new_pos": 51
+       "old_pos": 93,
+       "new_pos": 92
       },
       {
        "type": "modified",
@@ -10670,8 +11264,8 @@
          "mansabdar."
         ]
        ],
-       "old_pos": 52,
-       "new_pos": 52
+       "old_pos": 94,
+       "new_pos": 93
       },
       {
        "type": "modified",
@@ -10699,8 +11293,8 @@
          "period, 1570-1580."
         ]
        ],
-       "old_pos": 61,
-       "new_pos": 61
+       "old_pos": 103,
+       "new_pos": 102
       },
       {
        "type": "punctuation",
@@ -10728,8 +11322,8 @@
          "which meant a long wait before they received a jagir."
         ]
        ],
-       "old_pos": 54,
-       "new_pos": 54
+       "old_pos": 96,
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -10740,8 +11334,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 53,
-       "new_pos": 53
+       "old_pos": 95,
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -10752,8 +11346,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 55,
-       "new_pos": 55
+       "old_pos": 97,
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -10764,8 +11358,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 56,
-       "new_pos": 56
+       "old_pos": 98,
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -10776,8 +11370,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 57,
-       "new_pos": 57
+       "old_pos": 99,
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -10788,8 +11382,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 58,
-       "new_pos": 58
+       "old_pos": 100,
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -10800,8 +11394,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 59,
-       "new_pos": 59
+       "old_pos": 101,
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -10812,8 +11406,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 60,
-       "new_pos": 60
+       "old_pos": 102,
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -10824,8 +11418,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 62,
-       "new_pos": 62
+       "old_pos": 104,
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -10836,8 +11430,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 63,
-       "new_pos": 63
+       "old_pos": 105,
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -10848,8 +11442,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 64,
-       "new_pos": 64
+       "old_pos": 106,
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -10860,8 +11454,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 65,
-       "new_pos": 65
+       "old_pos": 107,
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -10872,8 +11466,8 @@
        "old_page": 52,
        "new_page": 52,
        "words": [],
-       "old_pos": 66,
-       "new_pos": 66
+       "old_pos": 108,
+       "new_pos": 107
       },
       {
        "type": "punctuation",
@@ -10901,8 +11495,8 @@
          "the Akbar Nama, in particular in its last volume, the Ain-i Akbari."
         ]
        ],
-       "old_pos": 71,
-       "new_pos": 79
+       "old_pos": 113,
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -10913,8 +11507,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 67,
-       "new_pos": 67
+       "old_pos": 109,
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -10925,8 +11519,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 68,
-       "new_pos": 68
+       "old_pos": 110,
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -10937,8 +11531,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 69,
-       "new_pos": 69
+       "old_pos": 111,
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -10949,8 +11543,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 70,
-       "new_pos": 70
+       "old_pos": 112,
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -10961,8 +11555,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 72,
-       "new_pos": 80
+       "old_pos": 114,
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -10973,8 +11567,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 73,
-       "new_pos": 81
+       "old_pos": 115,
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -10985,8 +11579,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 74,
-       "new_pos": 82
+       "old_pos": 116,
+       "new_pos": 123
       },
       {
        "type": "modified",
@@ -11026,8 +11620,8 @@
          "bigots."
         ]
        ],
-       "old_pos": 81,
-       "new_pos": 95
+       "old_pos": 123,
+       "new_pos": 136
       },
       {
        "type": "modified",
@@ -11047,8 +11641,8 @@
          "“universal peace”."
         ]
        ],
-       "old_pos": 83,
-       "new_pos": 97
+       "old_pos": 125,
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -11059,8 +11653,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 75,
-       "new_pos": 89
+       "old_pos": 117,
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -11071,8 +11665,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 76,
-       "new_pos": 90
+       "old_pos": 118,
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -11083,8 +11677,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 77,
-       "new_pos": 91
+       "old_pos": 119,
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -11095,8 +11689,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 78,
-       "new_pos": 92
+       "old_pos": 120,
+       "new_pos": 133
       },
       {
        "type": "equal",
@@ -11107,8 +11701,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 79,
-       "new_pos": 93
+       "old_pos": 121,
+       "new_pos": 134
       },
       {
        "type": "equal",
@@ -11119,8 +11713,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 80,
-       "new_pos": 94
+       "old_pos": 122,
+       "new_pos": 135
       },
       {
        "type": "equal",
@@ -11131,8 +11725,8 @@
        "old_page": 54,
        "new_page": 54,
        "words": [],
-       "old_pos": 82,
-       "new_pos": 96
+       "old_pos": 124,
+       "new_pos": 137
       },
       {
        "type": "deleted",
@@ -11143,7 +11737,7 @@
        "old_page": 55,
        "new_page": null,
        "words": [],
-       "old_pos": 84,
+       "old_pos": 126,
        "new_pos": null
       },
       {
@@ -11155,8 +11749,8 @@
        "old_page": 55,
        "new_page": 54,
        "words": [],
-       "old_pos": 85,
-       "new_pos": 98
+       "old_pos": 127,
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -11167,8 +11761,8 @@
        "old_page": 55,
        "new_page": 54,
        "words": [],
-       "old_pos": 86,
-       "new_pos": 99
+       "old_pos": 128,
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -11179,8 +11773,8 @@
        "old_page": 55,
        "new_page": 54,
        "words": [],
-       "old_pos": 87,
-       "new_pos": 100
+       "old_pos": 129,
+       "new_pos": 141
       },
       {
        "type": "equal",
@@ -11191,8 +11785,8 @@
        "old_page": 55,
        "new_page": 54,
        "words": [],
-       "old_pos": 88,
-       "new_pos": 101
+       "old_pos": 130,
+       "new_pos": 142
       },
       {
        "type": "modified",
@@ -11220,8 +11814,8 @@
          "mansabdars were only 445 in number out of a total of 8,000."
         ]
        ],
-       "old_pos": 93,
-       "new_pos": 111
+       "old_pos": 135,
+       "new_pos": 152
       },
       {
        "type": "equal",
@@ -11232,8 +11826,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 89,
-       "new_pos": 107
+       "old_pos": 131,
+       "new_pos": 148
       },
       {
        "type": "equal",
@@ -11244,8 +11838,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 90,
-       "new_pos": 108
+       "old_pos": 132,
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -11256,8 +11850,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 91,
-       "new_pos": 109
+       "old_pos": 133,
+       "new_pos": 150
       },
       {
        "type": "equal",
@@ -11268,8 +11862,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 92,
-       "new_pos": 110
+       "old_pos": 134,
+       "new_pos": 151
       },
       {
        "type": "equal",
@@ -11280,8 +11874,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 94,
-       "new_pos": 112
+       "old_pos": 136,
+       "new_pos": 153
       },
       {
        "type": "equal",
@@ -11292,8 +11886,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 95,
-       "new_pos": 113
+       "old_pos": 137,
+       "new_pos": 154
       },
       {
        "type": "equal",
@@ -11304,8 +11898,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 96,
-       "new_pos": 114
+       "old_pos": 138,
+       "new_pos": 155
       },
       {
        "type": "equal",
@@ -11316,8 +11910,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 97,
-       "new_pos": 115
+       "old_pos": 139,
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -11328,8 +11922,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 98,
-       "new_pos": 116
+       "old_pos": 140,
+       "new_pos": 157
       },
       {
        "type": "equal",
@@ -11340,8 +11934,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 99,
-       "new_pos": 117
+       "old_pos": 141,
+       "new_pos": 158
       },
       {
        "type": "equal",
@@ -11352,8 +11946,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 100,
-       "new_pos": 118
+       "old_pos": 142,
+       "new_pos": 159
       },
       {
        "type": "equal",
@@ -11364,8 +11958,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 101,
-       "new_pos": 119
+       "old_pos": 143,
+       "new_pos": 160
       },
       {
        "type": "equal",
@@ -11376,8 +11970,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 102,
-       "new_pos": 120
+       "old_pos": 144,
+       "new_pos": 161
       },
       {
        "type": "equal",
@@ -11388,8 +11982,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 103,
-       "new_pos": 121
+       "old_pos": 145,
+       "new_pos": 162
       },
       {
        "type": "equal",
@@ -11400,8 +11994,8 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 104,
-       "new_pos": 122
+       "old_pos": 146,
+       "new_pos": 163
       },
       {
        "type": "deleted",
@@ -11412,7 +12006,7 @@
        "old_page": 57,
        "new_page": null,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 147,
        "new_pos": null
       },
       {
@@ -11424,7 +12018,7 @@
        "old_page": 57,
        "new_page": null,
        "words": [],
-       "old_pos": 114,
+       "old_pos": 156,
        "new_pos": null
       },
       {
@@ -11436,7 +12030,7 @@
        "old_page": 57,
        "new_page": null,
        "words": [],
-       "old_pos": 115,
+       "old_pos": 157,
        "new_pos": null
       },
       {
@@ -11465,8 +12059,8 @@
          "rulers)."
         ]
        ],
-       "old_pos": 107,
-       "new_pos": 126
+       "old_pos": 149,
+       "new_pos": 178
       },
       {
        "type": "modified",
@@ -11490,8 +12084,8 @@
          "have inherited a kingdom."
         ]
        ],
-       "old_pos": 108,
-       "new_pos": 125
+       "old_pos": 150,
+       "new_pos": 177
       },
       {
        "type": "modified",
@@ -11515,8 +12109,8 @@
          "following:"
         ]
        ],
-       "old_pos": 111,
-       "new_pos": 129
+       "old_pos": 153,
+       "new_pos": 181
       },
       {
        "type": "modified",
@@ -11536,8 +12130,8 @@
          "Mongol governor"
         ]
        ],
-       "old_pos": 112,
-       "new_pos": 130
+       "old_pos": 154,
+       "new_pos": 182
       },
       {
        "type": "inserted",
@@ -11549,7 +12143,127 @@
        "new_page": 57,
        "words": [],
        "old_pos": null,
-       "new_pos": 123
+       "new_pos": 164
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 165
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 166
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "His armies also seized Baghdad and Iraq.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 167
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Much of north Africa, all the way into Morocco, acknowledged Ottoman authority.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 168
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Suleyman also reconstructed the Ottoman navy.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 169
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Its domination over the eastern Mediterranean brought the navy into competition with Spain.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 170
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "In the Arabian Sea it challenged the Portuguese.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 171
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 172
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 173
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.",
+       "old_page": null,
+       "new_page": 57,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 174
       },
       {
        "type": "equal",
@@ -11560,8 +12274,8 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 106,
-       "new_pos": 124
+       "old_pos": 148,
+       "new_pos": 176
       },
       {
        "type": "equal",
@@ -11572,8 +12286,8 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 109,
-       "new_pos": 127
+       "old_pos": 151,
+       "new_pos": 179
       },
       {
        "type": "equal",
@@ -11584,8 +12298,8 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 110,
-       "new_pos": 128
+       "old_pos": 152,
+       "new_pos": 180
       },
       {
        "type": "equal",
@@ -11596,8 +12310,8 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 113,
-       "new_pos": 131
+       "old_pos": 155,
+       "new_pos": 183
       },
       {
        "type": "deleted",
@@ -11608,7 +12322,7 @@
        "old_page": 58,
        "new_page": null,
        "words": [],
-       "old_pos": 116,
+       "old_pos": 158,
        "new_pos": null
       },
       {
@@ -11629,8 +12343,8 @@
          "Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar"
         ]
        ],
-       "old_pos": 117,
-       "new_pos": 132
+       "old_pos": 159,
+       "new_pos": 184
       },
       {
        "type": "modified",
@@ -11658,8 +12372,8 @@
          "and _________________."
         ]
        ],
-       "old_pos": 121,
-       "new_pos": 136
+       "old_pos": 163,
+       "new_pos": 188
       },
       {
        "type": "modified",
@@ -11683,8 +12397,8 @@
          "was ____________."
         ]
        ],
-       "old_pos": 120,
-       "new_pos": 135
+       "old_pos": 162,
+       "new_pos": 187
       },
       {
        "type": "modified",
@@ -11712,8 +12426,8 @@
          "so that he could govern a society composed of many religions, cultures and castes."
         ]
        ],
-       "old_pos": 123,
-       "new_pos": 138
+       "old_pos": 165,
+       "new_pos": 190
       },
       {
        "type": "modified",
@@ -11741,8 +12455,8 @@
          "descent?"
         ]
        ],
-       "old_pos": 133,
-       "new_pos": 148
+       "old_pos": 175,
+       "new_pos": 200
       },
       {
        "type": "typographic",
@@ -11753,8 +12467,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 119,
-       "new_pos": 134
+       "old_pos": 161,
+       "new_pos": 186
       },
       {
        "type": "equal",
@@ -11765,8 +12479,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 118,
-       "new_pos": 133
+       "old_pos": 160,
+       "new_pos": 185
       },
       {
        "type": "equal",
@@ -11777,8 +12491,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 122,
-       "new_pos": 137
+       "old_pos": 164,
+       "new_pos": 189
       },
       {
        "type": "equal",
@@ -11789,8 +12503,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 124,
-       "new_pos": 139
+       "old_pos": 166,
+       "new_pos": 191
       },
       {
        "type": "equal",
@@ -11801,8 +12515,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 125,
-       "new_pos": 140
+       "old_pos": 167,
+       "new_pos": 192
       },
       {
        "type": "equal",
@@ -11813,8 +12527,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 126,
-       "new_pos": 141
+       "old_pos": 168,
+       "new_pos": 193
       },
       {
        "type": "equal",
@@ -11825,8 +12539,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 127,
-       "new_pos": 142
+       "old_pos": 169,
+       "new_pos": 194
       },
       {
        "type": "equal",
@@ -11837,8 +12551,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 128,
-       "new_pos": 143
+       "old_pos": 170,
+       "new_pos": 195
       },
       {
        "type": "equal",
@@ -11849,8 +12563,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 129,
-       "new_pos": 144
+       "old_pos": 171,
+       "new_pos": 196
       },
       {
        "type": "equal",
@@ -11861,8 +12575,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 130,
-       "new_pos": 145
+       "old_pos": 172,
+       "new_pos": 197
       },
       {
        "type": "equal",
@@ -11873,8 +12587,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 131,
-       "new_pos": 146
+       "old_pos": 173,
+       "new_pos": 198
       },
       {
        "type": "equal",
@@ -11885,8 +12599,8 @@
        "old_page": 58,
        "new_page": 58,
        "words": [],
-       "old_pos": 132,
-       "new_pos": 147
+       "old_pos": 174,
+       "new_pos": 199
       },
       {
        "type": "modified",
@@ -11914,8 +12628,8 @@
          "in which you live."
         ]
        ],
-       "old_pos": 147,
-       "new_pos": 162
+       "old_pos": 189,
+       "new_pos": 214
       },
       {
        "type": "equal",
@@ -11926,8 +12640,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 134,
-       "new_pos": 149
+       "old_pos": 176,
+       "new_pos": 201
       },
       {
        "type": "equal",
@@ -11938,8 +12652,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 135,
-       "new_pos": 150
+       "old_pos": 177,
+       "new_pos": 202
       },
       {
        "type": "equal",
@@ -11950,8 +12664,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 136,
-       "new_pos": 151
+       "old_pos": 178,
+       "new_pos": 203
       },
       {
        "type": "equal",
@@ -11962,8 +12676,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 137,
-       "new_pos": 152
+       "old_pos": 179,
+       "new_pos": 204
       },
       {
        "type": "equal",
@@ -11974,8 +12688,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 138,
-       "new_pos": 153
+       "old_pos": 180,
+       "new_pos": 205
       },
       {
        "type": "equal",
@@ -11986,8 +12700,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 139,
-       "new_pos": 154
+       "old_pos": 181,
+       "new_pos": 206
       },
       {
        "type": "equal",
@@ -11998,8 +12712,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 140,
-       "new_pos": 155
+       "old_pos": 182,
+       "new_pos": 207
       },
       {
        "type": "equal",
@@ -12010,8 +12724,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 141,
-       "new_pos": 156
+       "old_pos": 183,
+       "new_pos": 208
       },
       {
        "type": "equal",
@@ -12022,8 +12736,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 142,
-       "new_pos": 157
+       "old_pos": 184,
+       "new_pos": 209
       },
       {
        "type": "equal",
@@ -12034,8 +12748,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 143,
-       "new_pos": 158
+       "old_pos": 185,
+       "new_pos": 210
       },
       {
        "type": "equal",
@@ -12046,8 +12760,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 144,
-       "new_pos": 159
+       "old_pos": 186,
+       "new_pos": 211
       },
       {
        "type": "equal",
@@ -12058,8 +12772,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 145,
-       "new_pos": 160
+       "old_pos": 187,
+       "new_pos": 212
       },
       {
        "type": "equal",
@@ -12070,8 +12784,8 @@
        "old_page": 59,
        "new_page": 59,
        "words": [],
-       "old_pos": 146,
-       "new_pos": 161
+       "old_pos": 188,
+       "new_pos": 213
       }
      ]
     },
@@ -12302,7 +13016,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 5,
-       "new_pos": 72
+       "new_pos": 113
       },
       {
        "type": "restreamed",
@@ -12314,7 +13028,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 7,
-       "new_pos": 74
+       "new_pos": 115
       },
       {
        "type": "restreamed",
@@ -12326,7 +13040,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 8,
-       "new_pos": 75
+       "new_pos": 116
       },
       {
        "type": "restreamed",
@@ -12338,7 +13052,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 10,
-       "new_pos": 77
+       "new_pos": 118
       },
       {
        "type": "restreamed",
@@ -12350,7 +13064,7 @@
        "new_page": 53,
        "words": [],
        "old_pos": 11,
-       "new_pos": 78
+       "new_pos": 119
       },
       {
        "type": "restreamed",
@@ -12362,7 +13076,7 @@
        "new_page": 54,
        "words": [],
        "old_pos": 13,
-       "new_pos": 84
+       "new_pos": 125
       },
       {
        "type": "restreamed",
@@ -12374,7 +13088,7 @@
        "new_page": 54,
        "words": [],
        "old_pos": 14,
-       "new_pos": 85
+       "new_pos": 126
       },
       {
        "type": "restreamed",
@@ -12386,7 +13100,7 @@
        "new_page": 54,
        "words": [],
        "old_pos": 15,
-       "new_pos": 86
+       "new_pos": 127
       },
       {
        "type": "restreamed",
@@ -12398,7 +13112,7 @@
        "new_page": 54,
        "words": [],
        "old_pos": 16,
-       "new_pos": 87
+       "new_pos": 128
       },
       {
        "type": "restreamed",
@@ -12410,7 +13124,7 @@
        "new_page": 54,
        "words": [],
        "old_pos": 17,
-       "new_pos": 88
+       "new_pos": 129
       },
       {
        "type": "restreamed",
@@ -12422,7 +13136,7 @@
        "new_page": 55,
        "words": [],
        "old_pos": 19,
-       "new_pos": 103
+       "new_pos": 144
       },
       {
        "type": "modified",
@@ -12451,7 +13165,7 @@
         ]
        ],
        "old_pos": 21,
-       "new_pos": 7
+       "new_pos": 2
       },
       {
        "type": "modified",
@@ -12476,7 +13190,7 @@
         ]
        ],
        "old_pos": 9,
-       "new_pos": 76
+       "new_pos": 117
       },
       {
        "type": "modified",
@@ -12517,11 +13231,11 @@
         ]
        ],
        "old_pos": 6,
-       "new_pos": 73
+       "new_pos": 114
       },
       {
        "type": "modified",
-       "stream": "note>table",
+       "stream": "note>body",
        "similarity": 0.855,
        "old": "Find out more about Akbar’s other contemporaries – the ruler of Ottoman Turkey, Sultan Suleyman, also known as “al-Qanuni” or the lawgiver (1520-1566); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the terrible” (1530-1584).",
        "new": "Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); ; and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).",
@@ -12566,7 +13280,7 @@
         ]
        ],
        "old_pos": 30,
-       "new_pos": 9
+       "new_pos": 175
       },
       {
        "type": "modified",
@@ -12591,7 +13305,7 @@
         ]
        ],
        "old_pos": 12,
-       "new_pos": 83
+       "new_pos": 124
       }
      ]
     },
@@ -12892,85 +13606,15 @@
     "table": {
      "counts": {
       "deleted": 0,
-      "inserted": 1,
-      "modified": 4,
+      "inserted": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
       "unreadable": 0,
-      "punctuation": 1
+      "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "modified",
-       "stream": "table",
-       "similarity": 0.994,
-       "old": "AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be divided into three periods. (1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa. These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 – expansion of Akbar’s empire. Campaigns in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.",
-       "new": "AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be divided into three periods. (1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa. These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 – expansion of Akbar’s empire. Campaigns were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "=",
-         "AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be divided into three periods. (1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa. These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 – expansion of Akbar’s empire. Campaigns"
-        ],
-        [
-         "+",
-         "were launched"
-        ],
-        [
-         "=",
-         "in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir."
-        ]
-       ],
-       "old_pos": 3,
-       "new_pos": 3
-      },
-      {
-       "type": "modified",
-       "stream": "table",
-       "similarity": 0.929,
-       "old": "HUMAYUN HUMAYUN 1530-1540, 1555-1556 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died in an accident the following year.",
-       "new": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died the next year after an accident in this building.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "=",
-         "HUMAYUN"
-        ],
-        [
-         "-",
-         "HUMAYUN 1530-1540, 1555-1556"
-        ],
-        [
-         "=",
-         "1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died"
-        ],
-        [
-         "-",
-         "in"
-        ],
-        [
-         "+",
-         "the next year after"
-        ],
-        [
-         "=",
-         "an accident"
-        ],
-        [
-         "-",
-         "the following year."
-        ],
-        [
-         "+",
-         "in this building."
-        ]
-       ],
-       "old_pos": 2,
-       "new_pos": 2
-      },
       {
        "type": "modified",
        "stream": "table",
@@ -12997,106 +13641,16 @@
        "new_pos": 0
       },
       {
-       "type": "punctuation",
+       "type": "equal",
        "stream": "table",
-       "similarity": 0.995,
-       "old": "1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat. 1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua. 1528 – defeated the Rajputs at Chanderi. Established control over Agra and Delhi before his death.",
-       "new": "1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat. 1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua. 1528 – defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [
-        [
-         "=",
-         "1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat. 1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua. 1528 – defeated the Rajputs at"
-        ],
-        [
-         "-",
-         "Chanderi."
-        ],
-        [
-         "+",
-         "Chanderi;"
-        ],
-        [
-         "=",
-         "Established control over Agra and Delhi before his death."
-        ]
-       ],
+       "similarity": 1.0,
+       "old": "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled",
+       "new": "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled",
+       "old_page": 49,
+       "new_page": 49,
+       "words": [],
        "old_pos": 1,
        "new_pos": 1
-      },
-      {
-       "type": "modified",
-       "stream": "table",
-       "similarity": 0.997,
-       "old": "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the Marathas and Deccan Sultanate. He finally fled to Safavid Iran. (2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golcunda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons.",
-       "new": "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the Marathas and the Deccan Sultanate. He finally fled to Safavid Iran. (2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons.",
-       "old_page": 49,
-       "new_page": 49,
-       "words": [
-        [
-         "=",
-         "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the Marathas and"
-        ],
-        [
-         "+",
-         "the"
-        ],
-        [
-         "=",
-         "Deccan Sultanate. He finally fled to Safavid Iran. (2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and"
-        ],
-        [
-         "-",
-         "Golcunda"
-        ],
-        [
-         "+",
-         "Golconda"
-        ],
-        [
-         "=",
-         "in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons."
-        ]
-       ],
-       "old_pos": 6,
-       "new_pos": 6
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "Jahangir 1605-1627 Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.",
-       "new": "Jahangir 1605-1627 Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.",
-       "old_page": 49,
-       "new_page": 49,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.",
-       "new": "Shah Jahan 1627-1658 Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.",
-       "old_page": 49,
-       "new_page": 49,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "inserted",
-       "stream": "table",
-       "similarity": null,
-       "old": null,
-       "new": "These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.",
-       "old_page": null,
-       "new_page": 57,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 8
       }
      ]
     },
@@ -13122,7 +13676,7 @@
        "new_page": 55,
        "words": [],
        "old_pos": 1,
-       "new_pos": 105
+       "new_pos": 146
       },
       {
        "type": "modified",
@@ -13155,7 +13709,7 @@
         ]
        ],
        "old_pos": 0,
-       "new_pos": 104
+       "new_pos": 145
       },
       {
        "type": "modified",
@@ -13192,7 +13746,7 @@
         ]
        ],
        "old_pos": 2,
-       "new_pos": 106
+       "new_pos": 147
       }
      ]
     }

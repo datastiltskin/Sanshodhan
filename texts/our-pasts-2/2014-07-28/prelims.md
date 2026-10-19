@@ -6,7 +6,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/prelims.pdf"
 
 <!-- pdf page 1 -->
 
-# Contents
+## Contents
 
 Foreword v In this book xii
 

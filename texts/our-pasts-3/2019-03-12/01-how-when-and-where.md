@@ -11,10 +11,14 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch01.pdf"
 source_sha256: "46a81ac9db9b48736a3bd3f1104bb5d1c57878df43197b91ea4af4da502956ab"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "0671ea491d60da509eeb05dc14edc665a6f75b223acb61681c5c76983dcfe143"
+body_fingerprint: "7939c493e9a8dbc82dd590b9a6389f8edc73cf5e43eeb2e1568521b9fe07b91d"
 ---
 
 <!-- page 1 (pdf 1) -->
+
+# How, When and Where
+
+## How Important are Dates?
 
 There was a time when historians were fascinated with dates. There were heated debates about the dates on which rulers were crowned or battles were fought. In the common-sense notion, history was synonymous with dates. You may have heard people say, “I find history boring because it is all about memorising dates.” Is such a conception true?
 
@@ -22,11 +26,11 @@ History is certainly about changes that occur over time. It is about finding out
 
 Living in the world we do not always ask historical questions about what we see around us. We take things for granted, as if what we see has always been in the world we inhabit. But most of us have our moments of wonder, when we are curious, and we ask questions that actually are historical. Watching someone sip a cup of tea at a roadside tea stall you may wonder – when did people begin to drink tea or coffee? Looking out of the window of a train you may ask yourself – when were railways built and how did people travel long distances before the age of railways? Reading the newspaper in the morning you may be curious to know how people got to hear about things before newspapers began to be printed.
 
+Look carefully at Fig.1 and write a paragraph explaining how this image projects an imperial perception. † Activity All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
+
 > [caption] Fig. 1 – Brahmans offering the Shastras to Britannia, frontispiece to the first map produced by James Rennel, 1782 Rennel was asked by Robert Clive to produce maps of Hindustan. An enthusiastic supporter of British conquest of India, Rennel saw preparation of maps as essential to the process of domination. The picture here tries to suggest that Indians willingly gave over their ancient texts to Britannia – the symbol of British power – as if asking her to become the protector of Indian culture.
 
 <!-- page 2 (pdf 2) -->
-
-All such historical questions refer us back to notions of time. But time does not have to be always precisely dated in terms of a particular year or a month. Sometimes it is actually incorrect to fix precise dates to processes that happen over a period of time. People in India did not begin drinking tea one fine day; they developed a taste for it over time. There can be no one clear date for a process such as this. Similarly, we cannot fix one single date on which British rule was established, or the national movement started, or changes took place within the economy and society. All these things happened over a stretch of time. We can only refer to a span of time, an approximate period over which particular changes became visible.
 
 Why, then, do we continue to associate history with a string of dates? This association has a reason. There was a time when history was an account of battles and big events. It was about rulers and their policies. Historians wrote about the year a king was crowned, the year he married, the year he had a child, the year he fought a particular war, the year he died, and the year the next ruler succeeded to the throne. For events such as these, specific dates can be determined, and in histories such as these, debates about dates continue to be important.
 
@@ -52,11 +56,15 @@ In 1817, James Mill, a Scottish economist and political philosopher, published a
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated Activity Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
 
-> [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773 While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
+> [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773
+
+> [table] While history books narrated the deeds of Governor-Generals, biographies glorified them as persons, and paintings projected them as powerful figures.
 
 <!-- page 4 (pdf 4) -->
+
+social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
 
 In this idea of history, British rule represented all the forces of progress and civilisation. The period before British rule was one of darkness. Can such a conception be accepted today?
 
@@ -74,6 +82,8 @@ You will, however, find that all classes and groups did not experience these cha
 
 <!-- page 5 (pdf 5) -->
 
+## How do We Know?
+
 What sources do historians use in writing about the last 250 years of Indian history?
 
 Administration produces records One important source is the official records of the British administration. The British believed that the act of writing was important. Every instruction, plan, policy decision, agreement, investigation had to be clearly written up. Once this was done, things could be properly studied and debated. This conviction produced an administrative culture of memos, notings and reports.
@@ -86,7 +96,23 @@ In the early years of the nineteenth century these documents were carefully copi
 
 > [caption] Fig. 4 – The National Archives of India came up in the 1920s
 
-> [table] When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+When New Delhi was built, the National Museum and the National Archives were both located close to the Viceregal Palace. This location reflects the importance these institutions had in British imagination.
+
+> [table] Source 1
+
+## Reports to the Home Department
+
+In 1946 the colonial government in India was trying to put down a mutiny that broke out on the ships of the Royal Indian Navy. Here is a sample of the kind of reports the Home Department got from the different dockyards:
+
+Bombay: Arrangements have been made for the Army to take over ships and establishment. Royal Navy ships are remaining outside the harbour.
+
+Karachi: 301 mutineers are under arrest and a few more strongly suspected are to be arrested … All establishments … are under military guard.
+
+Vizagapatnam: The position is completely under control and no violence has occurred. Military guards have been placed on ships and establishments. No further trouble is expected except that a few men may refuse to work.
+
+> [table] Director of Intelligence, HQ.
+
+> [table] India Command, Situation Report No. 7. File No. 5/21/46 Home (Political), Government of India
 
 <!-- page 6 (pdf 6) -->
 
@@ -96,7 +122,7 @@ The practice of surveying also became common under the colonial administration. 
 
 By the early nineteenth century detailed surveys were being carried out to map the entire country. In the villages, revenue surveys were conducted. The effort was to know the topography, the soil quality, the flora, the fauna, the local histories, and the cropping pattern – all the facts seen as necessary to know about to administer the region. From the end of the nineteenth century, Census operations were held every ten years. These prepared detailed records of the number of people in all the provinces of India, noting information on castes, religions and occupation. There were many other surveys – botanical surveys, zoological surveys, archaeological surveys, anthropological surveys, forest surveys.
 
-What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
+What official records do not tell From this vast corpus of records we can get to know a lot, but we must remember that these are official records. They tell us what the officials thought, what Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
 
 > [caption] Fig. 6 – Mapping and survey operations in progress in Bengal, a drawing by James Prinsep, 1832
 
@@ -110,7 +136,7 @@ What official records do not tell From this vast corpus of records we can get to
 
 > [caption] Fig. 7 – The rebels of 1857
 
-> [table] Images need to be carefully studied for they project the viewpoint of those who create them. This image can be found in several illustrated books produced by the British after the 1857 rebellion. The caption at the bottom says: “Mutinous sepoys share the loot”. In British representations the rebels appear as greedy, vicious and brutal. You will read about the rebellion in Chapter 5.
+they were interested in, and what they wished to preserve for posterity. These records do not always help us understand what other people in the country felt, and what lay behind their actions.
 
 For that we need to look elsewhere. When we begin to search for these other sources we find them in plenty, though they are more difficult to get than official records. We have diaries of people, accounts of pilgrims and travellers, autobiographies of important personalities, and popular booklets that were sold in the local bazaars. As printing spread, newspapers were published and issues were debated in public. Leaders and reformers wrote to spread their ideas, poets and novelists wrote to express their feelings.
 
@@ -118,7 +144,33 @@ All these sources, however, were produced by those who were literate. From these
 
 Yet this can be done, if we make a little bit of effort. When you read this book you will see how this can be done.
 
+> [table] Source 2
+
+## “Not fit for human
+
+## consumption”
+
+Newspapers provide accounts of the movements in different parts of the country. Here is a report of a police strike in 1946.
+
+More than 2000 policemen in Delhi refused to take their food on Thursday morning as a protest against their low salaries and the bad quality of food supplied to them from the Police Lines kitchen.
+
+As the news spread to the other police stations, the men there also refused to take food … One of the strikers said: “The food supplied to us from the Police Lines kitchen is not fit for human consumption. Even cattle would not eat the chappattis and dal which we have to eat.”
+
+> [table] Hindustan Times,
+
+> [table] 22 March, 1946
+
+Activity †
+
+Look at Sources 1 and 2. Do you find any differences in the nature of reporting? Explain what you observe.
+
 <!-- page 8 (pdf 8) -->
+
+## Let’s imagine
+
+Imagine that you are a historian wanting to find out about how agriculture changed in a remote tribal area after independence. List the different ways in which you would find information on this.
+
+## Let’s recall
 
 1. State whether true or false:
 
@@ -128,12 +180,14 @@ Yet this can be done, if we make a little bit of effort. When you read this book
 
 (c) The British thought surveys were important for effective administration.
 
+## Let’s discuss
+
 2. What is the problem with the periodisation of Indian history that James Mill offers?
 
 3. Why did the British preserve official documents?
 
 4. How will the information historians get from old newspapers be different from that found in police reports?
 
-5. Can you think of examples of surveys in your world today? Think about how toy companies get information about what young people enjoy playing with or how the government finds out about the number of young people in school. What can a historian derive from such surveys?
+## Let’s do
 
-Imagine that you are a historian wanting to find out about how agriculture changed in a remote tribal area after independence. List the different ways in which you would find information on this.
+5. Can you think of examples of surveys in your world today? Think about how toy companies get information about what young people enjoy playing with or how the government finds out about the number of young people in school. What can a historian derive from such surveys?

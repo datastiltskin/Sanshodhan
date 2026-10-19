@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch04.pdf"
 source_sha256: "769b2d16eb21dc4df684ac0776fa5b89a880d08e5bd74a902624131333924e07"
 pdf_pages: 16
 printed_pages: "67-82"
-body_fingerprint: "7dc3e704fa6595f50a9b4795820a746daf29f2dc6b07e7c202c6bc14fc5b6339"
+body_fingerprint: "e98c72bc778aa81399fe93b98e6b4e023001165058f63c3ac9b7688d733358d7"
 ---
 
 <!-- page 67 (pdf 1) -->
@@ -58,9 +58,9 @@ Notice how many of the mahājanapadas are concentrated in the Ganga plains. Ther
 
 ### LET’S EXPLORE
 
-Æ The most powerful of these new states were Magadha, Kosala, Vatsa and Avanti. Looking at the map, can you identify their capitals? Also, how many can you match with Indian cities of today?
+The most powerful of these new states were Magadha, Kosala, Vatsa and Avanti. Looking at the map, can you identify their capitals? Also, how many can you match with Indian cities of today?
 
-Æ Compare this map with the map of the regions mentioned in the Mahābhārata (see Fig. 5.4 in the chapter ‘India, That Is Bharat’ in Grade 6) and list the names common to both maps. What do you think this implies?
+Compare this map with the map of the regions mentioned in the Mahābhārata (see Fig. 5.4 in the chapter ‘India, That Is Bharat’ in Grade 6) and list the names common to both maps. What do you think this implies?
 
 The map (Fig. 4.3) shows the mahājanapadas’ capitals. Most were fairly large well-fortified cities, with a moat running outside the fortifications as further defence. Often, the gateways through the rampart walls would be deliberately kept narrow, so guards may control the movement of people and goods entering or leaving the city. It is fascinating to note that most of those ancient capitals continue to be living cities today — ‘modern’ cities that are often 2,500 years old!
 
@@ -182,9 +182,9 @@ We saw earlier how human societies grew more complex with the rise of civilisati
 
 ### LET’S EXPLORE
 
-Æ Why should a complex society divide itself into such groups? Think about several possible factors why this happens.
+Why should a complex society divide itself into such groups? Think about several possible factors why this happens.
 
-Æ List other such professions you expect in a complex society of the 1st millennium BCE.
+List other such professions you expect in a complex society of the 1st millennium BCE.
 
 In an ideal society, all those groups would complement each other and work in harmony. But most of the time, these divisions also lead to inequalities: some groups acquire more wealth, power or influence than others. In other words, while equality is an ideal that human societies have often aspired to, very few, if any, have ever achieved it.
 
@@ -250,11 +250,11 @@ About the same time, the mahājanapadas ceased to exist, leaving the place to fr
 
 ### Before we move on …
 
-Æ From the end of the 2nd millennium BCE, janapadas rose in parts of north and central India; they were smaller states with a rājā at the head taking counsel from an assembly of elders.
+From the end of the 2nd millennium BCE, janapadas rose in parts of north and central India; they were smaller states with a rājā at the head taking counsel from an assembly of elders.
 
-Æ The 16 mahājanapadas were the first organised states of the 1st millennium BCE; they witnessed the Second Urbanisation of India, which spread in all directions from the Ganga region, all the way to south India. By 300 BCE or so, the mahājanapadas ceased to exist.
+The 16 mahājanapadas were the first organised states of the 1st millennium BCE; they witnessed the Second Urbanisation of India, which spread in all directions from the Ganga region, all the way to south India. By 300 BCE or so, the mahājanapadas ceased to exist.
 
-Æ In the same period, a vast network of roads connected north and south, east and west, and eventually all regions of the Subcontinent. People, goods, ideas and teachings travelled along all those roads.
+In the same period, a vast network of roads connected north and south, east and west, and eventually all regions of the Subcontinent. People, goods, ideas and teachings travelled along all those roads.
 
 ### Questions and activities
 

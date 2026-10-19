@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch01.pdf"
 source_sha256: "ab8424cf182be51c45571239102ccc71bae13066b98f5338f4e5138a169b8564"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "28efa59b8eeba3dc9aed281312b97c12c2764975a22cbb338db17ca24fd76dc3"
+body_fingerprint: "fb5b2415adb5baf92e0fc07f34444ab9fd5a8bc917e09dfa1bbf0a985fd730d0"
 ocr: true
 ocr_confidence: 93.0
 ---
@@ -63,7 +63,7 @@ You will notice some continuity in the sources used by historians for the study 
 
 (2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.
 
-## ?) When was paper more expensive and easily available °/ - inthe thirteenth or the fourteenth century?
+# ?) When was paper more expensive and easily available °/ - inthe thirteenth or the fourteenth century?
 
 <!-- page 5 (pdf 5) -->
 

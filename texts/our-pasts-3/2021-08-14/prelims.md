@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/prelims.pdf"
 
 ## for Class VIII
 
-Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
+Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at VIBA Press (P.) Ltd., C- 66/3, Okhla Industrial Area Phase-II, New Delhi- 110 020 The National Curriculum Framework, 2005, recommends that children’s life at school must be linked to their life outside the school. This principle marks a departure from the legacy of bookish learning which continues to shape our system and causes a gap between the school, home and community. The syllabi and textbooks developed on the basis of NCF signify an attempt to implement this basic idea. They also attempt to discourage rote learning and the maintenance of sharp boundaries between different subject areas. We hope these measures will take us significantly further in the direction of a child-centred system of education outlined in the National Policy on Education (1986).
 
 <!-- page 22 (pdf 2) -->
 
@@ -24,15 +24,11 @@ Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI The 
 
 > [caption] ALL RIGHTS RESERVED
 
-> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
-> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
-
-> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942
-
-> [caption] The correct price of this publication is the price printed on this page, A ny revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] Revised Edition January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942 The correct price of this publication is the price printed on this page, A ny revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT
 
@@ -50,15 +46,7 @@ Saas SNe TART cla 3rfer fsTaror fap sy IONAL RESEARCH AND EDUCA ONAL COUNCI The 
 
 > [table] Assistant Production : Deepak Jaiswal Officer
 
-> [caption] Printed on 80 GSM paper with NCERT watermark
-
-> [table] Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at VIBA Press (P.) Ltd., C- 66/3, Okhla Industrial Area Phase-II, New Delhi- 110 020
-
-> [caption] Cover and Layout
-
-> [caption] Arrt Creations
-
-> [caption] Cartography Cartographic Designs Agency
+> [caption] Printed on 80 GSM paper with NCERT watermark Cover and Layout Arrt Creations Cartography Cartographic Designs Agency
 
 <!-- page 22 (pdf 3) -->
 

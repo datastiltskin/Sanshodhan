@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf"
 source_sha256: "b6a9adf1dcaed3c505075bb7e1a5ed759c49fe74b940928a7d0038851c2fad6f"
 pdf_pages: 28
 printed_pages: "117-144"
-body_fingerprint: "ca1e89ec6ddff0a3a5b7cb7054e09834adc0ce2c0e0b933f6a4f6dc3cd71ae8f"
+body_fingerprint: "557fdd00e97b0681d7e0caa191e1b00e8da4becfc7907fa57f0a997bbadf1b6d"
 ---
 
 <!-- page 117 (pdf 1) -->
@@ -366,7 +366,7 @@ Observe the coins carefully. Who, besides the emperor, appears on the coin?
 
 On the first coin, Kāṇiṣhka is shown holding a spear, titled ‘King of Kings’, while the other side features Buddha with the inscription BOΔΔO (Buddha) in Greek script. On the second coin, an emperor appears on one side, and Śhiva with the bull Nandi on the other. Let’s reflect on the following:
 
- Why would a powerful ruler feature Buddha and Śhiva on his coins? What does it say about his values and priorities?  Can you find modern examples of such symbolic currency?
+Why would a powerful ruler feature Buddha and Śhiva on his coins? What does it say about his values and priorities? Can you find modern examples of such symbolic currency?
 
 The Kuṣhāṇas held control over significant sections of the Silk Route (on the next page), and during their reign, trade grew, connecting India with other parts of Asia and the West.
 
@@ -502,15 +502,15 @@ Recognising these connections encourages us to view this ‘Tapestry of the Past
 
 ## Before we move on …
 
-Æ The period after the disintegration of the Maurya empire was characterised by the emergence of many big and small kingdoms across the Subcontinent.
+The period after the disintegration of the Maurya empire was characterised by the emergence of many big and small kingdoms across the Subcontinent.
 
-Æ The internal conflicts were coupled with foreign invasions, which together led to a period of reorganisation of political powers.
+The internal conflicts were coupled with foreign invasions, which together led to a period of reorganisation of political powers.
 
 <!-- page 143 (pdf 27) -->
 
-Æ This period witnessed a dialogue of various cultures that absorbed each other’s influence to create new styles of art, architecture, coinage, etc., with ultimately a dominance of Indian themes and flourishing Sanskrit literature.
+This period witnessed a dialogue of various cultures that absorbed each other’s influence to create new styles of art, architecture, coinage, etc., with ultimately a dominance of Indian themes and flourishing Sanskrit literature.
 
-Æ This time was also marked by remarkable developments in trade activities, both internal and external.
+This time was also marked by remarkable developments in trade activities, both internal and external.
 
 ## Questions and activities
 

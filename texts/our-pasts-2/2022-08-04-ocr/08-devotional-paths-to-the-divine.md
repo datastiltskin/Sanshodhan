@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch08.pdf"
 source_sha256: "5a5fc926e36406e6cd72e7fbf95488faf649ba4e91400ade5d154116f897a78b"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "3bd3121394ca91ffbe12c1f4731ffd62769a685d999583aacc535d49146d29ad"
+body_fingerprint: "9bb8c7301a8c6e2b676a6627065ae273d6195e1642c1ad8e89cac76e5f4ab1a7"
 ocr: true
 ocr_confidence: 93.2
 ---
@@ -275,9 +275,7 @@ The changing historical situation during the sixteenth and seventeenth centuries
 
 Martin Luther and the Reformation
 
-> [table] The sixteenth century was a time of religious ferment in Europe as well. One of the most important leaders of the changes that took place within Christianity was Martin Luther (1483-1546). Luther felt that several practices in the Roman Catholic Church went against the teachings of the Bible. He encouraged the use of the language of ordinary people rather than Latin, and translated
-
-Key ga ag Se 7 qt the Bible into German. Luther was | ae ie \" strongly opposed to the practice etc || f of “indulgences” or making
+The sixteenth century was a time of religious ferment in Europe as well. One of the most important leaders of the changes that took place within Christianity was Martin Luther (1483-1546). Luther felt that several practices in the Roman Catholic Church went against the teachings of the Bible. He encouraged the use of the language of ordinary people rather than Latin, and translated Key ga ag Se 7 qt the Bible into German. Luther was | ae ie \" strongly opposed to the practice etc || f of “indulgences” or making
 
 ## Cy ASS) | Wm donations to the Church so as to
 

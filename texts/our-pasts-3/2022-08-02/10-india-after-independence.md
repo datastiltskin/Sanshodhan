@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch10.pdf"
 source_sha256: "4a8a620fc73fef97bd06fb991f043feb252ff56749f5f106d185f6d9e9bb8b7e"
 pdf_pages: 15
 printed_pages: "128-142"
-body_fingerprint: "0a210b6a6ddfae3f8fd760f3ad39ccdb3b6f10ae87701bd20ce382ab2244caba"
+body_fingerprint: "0c9241bd3beb41f18e64cd95f9052af01ed69db1a3c51f5a2812022c40affb8d"
 ---
 
 <!-- page 128 (pdf 1) -->
@@ -23,7 +23,7 @@ When India became independent in August 1947, it faced a series of very great ch
 
 > [caption] Fig. 1 Fig. 1 – Mahatma Gandhi's ashes being immersed in Allahabad, February 1948
 
-> [table] Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
+Less than six months after independence the nation was in mourning. On 30 January 1948, Mahatma Gandhi was assassinated by a fanatic, Nathuram Godse, because he disagreed with Gandhiji’s conviction that Hindus and Muslims should live together in harmony. That evening, a stunned nation heard Jawaharlal Nehru’s moving statement over All India Radio: “Friends and comrades, the light has gone out of our lives and there is darkness everywhere … our beloved leader … the Father of the Nation is no more.”
 
 <!-- page 129 (pdf 2) -->
 
@@ -73,9 +73,7 @@ Activity Imagine a conversation between a father and son in a Muslim family. Aft
 
 > [caption] Fig. 3 Fig. 3 – Dr B.R. Ambedkar
 
-> [table] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
-
-Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
+Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
 “the initial responsibility for the well-being of the people of the provinces should rest with the Provincial Governments”.
 

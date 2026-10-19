@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf"
 source_sha256: "95b0b011965ec53f99a3e70b58e3c53b1473d9bcb7a47d8befd2454bcfae117b"
 pdf_pages: 20
 printed_pages: "209-228"
-body_fingerprint: "4a0d88a976b63af2d3629f00062c4095c8e4ed38585b27c70671e081422b4b93"
+body_fingerprint: "ce9f821acdd9251abbb6aa6230781d85b3ae4a0d26a633a9819a3c3314aca2d7"
 ---
 
 <!-- page 209 (pdf 1) -->
@@ -58,13 +58,13 @@ The Constitution of India is the document that many of the important officials o
 
 A simple answer is that it is a document that spells out a nation’s basic principles and laws. It lays out:
 
- the framework of the three organs of the government (legislature, executive, and judiciary) and their roles and responsibilities;
+the framework of the three organs of the government (legislature, executive, and judiciary) and their roles and responsibilities;
 
- checks and balances amongst the three organs of government to ensure fairness, responsibility and accountability;
+checks and balances amongst the three organs of government to ensure fairness, responsibility and accountability;
 
- the rights and duties of the citizens;
+the rights and duties of the citizens;
 
- an outline of the long-term goals and aspirations of the nation.
+an outline of the long-term goals and aspirations of the nation.
 
 ## Why do we need a constitution?
 
@@ -144,15 +144,15 @@ The experience and learnings from the freedom struggle also provided answers to 
 
 > [caption] Fig. 10.4.2. and 10.4.3. Workings of the Constituent Assembly
 
- How do we make sure that every adult citizen has a right to vote?
+How do we make sure that every adult citizen has a right to vote?
 
- What should be the process if we want to amend the Constitution?
+What should be the process if we want to amend the Constitution?
 
- How do we ensure that the powers of the executive, legislature and judiciary are kept separate?
+How do we ensure that the powers of the executive, legislature and judiciary are kept separate?
 
- What should be the relationship between the Central and State governments? And so on.
+What should be the relationship between the Central and State governments? And so on.
 
- How do we guarantee that every individual’s fundamental rights are respected?
+How do we guarantee that every individual’s fundamental rights are respected?
 
 We will get glimpses of how all these have been structured in the Constitution later in this chapter.
 
@@ -210,17 +210,17 @@ Before we get acquainted with the main features of the Constitution, let us revi
 
 ### LET’S REMEMBER
 
-Æ There are three organs of government — legislature, executive and judiciary — and the ‘separation of powers’ is essential to their effective working.
+There are three organs of government — legislature, executive and judiciary — and the ‘separation of powers’ is essential to their effective working.
 
-Æ The legislature makes the laws.
+The legislature makes the laws.
 
-Æ The law is implemented by the executive, which is headed by the prime minister.
+The law is implemented by the executive, which is headed by the prime minister.
 
-Æ The judiciary ensures that all laws made are in accordance with the Constitution. It also decides whether a law has been broken and what punishment is necessary.
+The judiciary ensures that all laws made are in accordance with the Constitution. It also decides whether a law has been broken and what punishment is necessary.
 
-Æ We have a three-tier system of government — central, state and local (Panchayati raj system).
+We have a three-tier system of government — central, state and local (Panchayati raj system).
 
-Æ Some functions and responsibilities are reserved for the central government, and others are assigned to the state government.
+Some functions and responsibilities are reserved for the central government, and others are assigned to the state government.
 
 The Constitution addresses these points comprehensively. It clearly defines the roles, functions, responsibilities, and accountability measures for each organ of government. The electoral system has been laid down to ensure that every eligible citizen of the country is enabled to vote.
 
@@ -292,11 +292,11 @@ Our Constitution makers realised that a need for new laws and rules would emerge
 
 ### LET’S EXPLORE
 
-Æ There was a time when people were not allowed to fly the national flag at their homes. This changed in 2004 when a citizen felt it was his right to express pride in his country and challenged the rule in court. The Supreme Court agreed, saying that flying the flag is part of the Fundamental Right to Freedom of Expression. We can now fly the tricolour with pride, keeping in mind that it should never be dishonoured.
+There was a time when people were not allowed to fly the national flag at their homes. This changed in 2004 when a citizen felt it was his right to express pride in his country and challenged the rule in court. The Supreme Court agreed, saying that flying the flag is part of the Fundamental Right to Freedom of Expression. We can now fly the tricolour with pride, keeping in mind that it should never be dishonoured.
 
-Æ We studied the Panchayati Raj System in Grade 6. This was not a part of the original Constitution; it was integrated in it in 1992 with the 73rd Constitutional Amendment Act.
+We studied the Panchayati Raj System in Grade 6. This was not a part of the original Constitution; it was integrated in it in 1992 with the 73rd Constitutional Amendment Act.
 
-Æ Can you find out the amendments made to the Constitution in the past ten years?
+Can you find out the amendments made to the Constitution in the past ten years?
 
 The g overnment also creates opportunities for people to provide feedback on proposed laws or changes in rules. See the highlighted portion on the next page.
 
@@ -374,13 +374,13 @@ Fraternity
 
 ## Before we move on …
 
-Æ The Constitution of India is a guiding book or ‘rulebook’ which protects the rights of all citizens. Citizens are also expected to follow the fundamental duties of the Constitution.
+The Constitution of India is a guiding book or ‘rulebook’ which protects the rights of all citizens. Citizens are also expected to follow the fundamental duties of the Constitution.
 
-Æ The rich civilizational heritage of India, the freedom struggle and good practices from the constitutions of other countries served as the building blocks of the Indian Constitution.
+The rich civilizational heritage of India, the freedom struggle and good practices from the constitutions of other countries served as the building blocks of the Indian Constitution.
 
-Æ Its key features define the social, economic, and political structure of the country and its parliamentary form of government.
+Its key features define the social, economic, and political structure of the country and its parliamentary form of government.
 
-Æ It is a living document that can be improved as per the country’s needs.
+It is a living document that can be improved as per the country’s needs.
 
 <!-- page 227 (pdf 19) -->
 

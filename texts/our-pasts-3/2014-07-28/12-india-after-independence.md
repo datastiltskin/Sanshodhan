@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch06.pdf"
 source_sha256: "b983a28bfc030939e289043f4b3d81994d9a1438e54214e487fbe4ff1e207cf5"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "7a6b499f964c8aa974742d19824085c6fe40b0feaedf06ed075fec928948559a"
+body_fingerprint: "d1c307f5b0c398974f26c1d01bd67540a281752faf088023c65b3f50e25e0079"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -37,7 +37,7 @@ Unity and development had to go hand in hand. If the divisions between different
 
 Between December 1946 and November 1949, some three hundred Indians had a series of meetings on the country’s political future. The meetings of this “Constituent Assembly” were held in New Delhi, but the participants came from all over India, and from different political parties. These discussions resulted in the framing of the Indian Constitution, which was adopted on 26 January 1950.
 
-One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and hActivity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
+One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
 
 Franchise – The right to vote the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
 
@@ -67,15 +67,13 @@ Nehru wrote in a letter to the Chief Ministers of states:
 
 ... we have a Muslim minority who are so large in numbers that they cannot, even if they want, go anywhere else. That is a basic fact about which there can be no argument. Whatever the provocation from Pakistan and whatever the indignities and horrors inflicted on non-Muslims there, we have got to deal with this minority in a civilised manner. We must give them security and the rights of citizens in a democratic State.
 
-hActivity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
+Activity Imagine a conversation between a father and son in a Muslim family. After Partition, the son thinks it would be wiser for them to move to Pakistan while the father believes that they should continue to live in India. Taking information from the chapter so far (and Chapter 11), act out what each would say.
 
 <!-- page 164 (pdf 5) -->
 
 > [caption] Fig. 3 – Dr B.R. Ambedkar
 
-> [table] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
-
-hActivity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
+Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
 “the initial responsibility for the well-being of the people of the provinces should rest with the Provincial Governments”.
 
@@ -115,7 +113,7 @@ After the creation of Andhra, other linguistic communities also demanded their o
 
 > [caption] Fig. 5 (b) – Indian States before 1 November 1956
 
-hActivity
+Activity
 
 Look at Figs. 5 (a), 5 (b) and 5 (c). Notice how the Princely States disappear in 5 (b). Identify the new states that were formed in 1956 and later and the languages of these states.
 
@@ -157,7 +155,7 @@ Prime Minister Jawaharlal Nehru was a great supporter of the planning process. H
 
 Some felt that it had put inadequate emphasis on agriculture. Others argued that it had neglected primary education. Still others believed that it had not taken account of the environmental implications of economic policies. As Mahatma Gandhi’s follower Mira Behn wrote in 1949, by “science and machinery he [mankind] may get huge returns for a time, but ultimately will come desolation. We have got to study Nature’s balance, and develop our lives within her laws, if we are to survive as a physically healthy and morally decent species.”
 
-hActivity
+Activity
 
 Discuss in your class whether Mira Behn was right in her view that science and machinery would create problems for human beings. You may like to think about examples of the effects of industrial pollution and de-forestation on the world today.
 

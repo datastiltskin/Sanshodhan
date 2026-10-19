@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch05.pdf"
 source_sha256: "d158405003d146f48a84edc2a19617711ca6e139032cab246c75e29402bf3448"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "cf2308845ba2a015039cd2662208e15a48d793b73742133a8753a7a40853269a"
+body_fingerprint: "cac82739f7deffd446806d930c8d094649440e790d99565a83f120161ba24732"
 ocr: true
 ocr_confidence: 94.9
 ---
@@ -57,19 +57,17 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 <!-- page 62 (pdf 3) -->
 
-> [table] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva Gl of the Chandela dynasty. | Fig. 3b is the plan of the ~ temple. An ornamented gateway led toan entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
+The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva Gl of the Chandela dynasty. | Fig. 3b is the plan of the ~ temple. An ornamented gateway led toan entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
 | Fig. 3a
 
-> [table] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara } was too heavy to lift manually. So the architects ’ built an inclined path to the top of the temple,
+Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara } was too heavy to lift manually. So the architects ’ built an inclined path to the top of the temple, What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
 
 > [caption] placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 kmaway so that it would not be too steep. This was dismantled after the temple was
 
 > [table] constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the
 
 > [caption] temple is called Charupallam, the “Village of the Incline”.
-
-What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
 
 <!-- page 63 (pdf 4) -->
 
@@ -179,7 +177,7 @@ The connection between royal justice and the imperial court was emphasised by Sh
 
 In the early years of his reign, Shah Jahan’s capital was at Agra, a city where the nobility had constructed their homes on the banks of the river Yamuna. These were set in the midst of formal gardens constructed in the chahar bagh format. The chahar bagh garden also had a variation that historians describe as the “river-front garden”. In this the dwelling was not located in the middle of the chahar bagh but at its edge, close to the bank of the river.
 
-Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles — like his eldest son Dara Shukoh - were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
+Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the grandest architectural accomplishment of his reign. Here the white marble mausoleum was placed on a terrace by the edge of the river and the garden was to its south. Shah Jahan A reconstruction from a map of the river-front garden city of Agra. Note how the garden palaces of the nobles are placed on both banks of the Yamuna. The Taj Mahal is on the left. Compare the layout of Agra with Shahjahanabad in Delhi in Figure15.
 
 > [caption] Pietra dura Coloured, hard stones placed in depressions carved into marble or sandstone creating beautiful, ornate patterns.
 
@@ -191,13 +189,13 @@ Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the gr
 
 > [table] Fig. 14
 
-> [table] A reconstruction from a map of the river-front garden city of Agra. Note how the garden palaces of the nobles are placed on both banks of the Yamuna. The Taj Mahal is on the left. Compare the layout of Agra with Shahjahanabad in Delhi in Figure15.
-
 > [table] Fig. 15 1850 map of Shahjahanabad. Where is the emperor’s residence?
 
 > [table] The city appears to be very crowded, but did you notice the many large gardens as well? Can you find the main street and the jami masjid?
 
 <!-- page 71 (pdf 12) -->
+
+develop this architectural form as a means to control the access that nobles had to the river. In the new city of Shahjahanabad that he constructed in Delhi, the imperial palace commanded the river-front. Only specially favoured nobles — like his eldest son Dara Shukoh - were given access to the river. All others had to construct their homes in the city away from the River Yamuna.
 
 ## Region and Empire
 

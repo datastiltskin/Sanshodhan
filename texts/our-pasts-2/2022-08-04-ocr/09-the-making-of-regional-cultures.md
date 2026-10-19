@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch09.pdf"
 source_sha256: "723673512f8d684346611871ef1d90b69b09f623f63fc33091cf19b5dae21d5f"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "afe4e2a6236e6bc072a89105731ec00d22814e105b84336700a91df67721f8a4"
+body_fingerprint: "dfb926a152ad9a3799f4f9f76c8f5da4c371bf423d3fbd2e302a1ed30c6e8e1e"
 ocr: true
 ocr_confidence: 92.4
 ---
@@ -205,7 +205,7 @@ Fish as Food
 
 Traditional food habits are generally based on locally available items of food. Bengal is a riverine plain which produces plenty of rice and fish. Understandably, these two items figure prominently in the menu of even poor Bengalis. Fishing has always been an important occupation and Bengali literature contains several references to fish. What is more, terracotta plaques on the walls of temples and viharas (Buddhist monasteries) depict scenes of fish being dressed and taken to the market in baskets.
 
-Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fish in the local diet made the Brahmanical authorities relax this prohibition for the Bengal Brahmanas. The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat Emergence of nation-states in Europe You are a Rajput prince. How would you like your story to be told?
+Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fish in the local diet made the Brahmanical authorities relax this prohibition for the Bengal Brahmanas. The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat Emergence of nation-states in Europe Till the eighteenth century, people in Europe saw themselves as subjects of an empire, such as the Austro-Hungarian empire, or members of a church, such as the Greek Orthodox church. But, from the late eighteenth century, people also began to identify themselves as members of a community that spoke a common language, such as French or German. By the early nineteenth century, in Rumania school textbooks began to be written in Rumanian rather than in Greek, and in Hungary Hugarian was adopted as the official language instead of Latin. These and other similar developments created the consciousness among the people that each linguistic community was a separate nation. This feeling was strengthened by the movements for Italian and German unification in the late nineteenth century.
 
 > [caption] Fig. 14
 
@@ -215,9 +215,9 @@ Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fis
 
 > [caption] dressed for domestic consumption, terracotta plaque from the Vishalalkshi temple, Arambagh.
 
-> [table] Till the eighteenth century, people in Europe saw themselves as subjects of an empire, such as the Austro-Hungarian empire, or members of a church, such as the Greek Orthodox church. But, from the late eighteenth century, people also began to identify themselves as members of a community that spoke a common language, such as French or German. By the early nineteenth century, in Rumania school textbooks began to be written in Rumanian rather than in Greek, and in Hungary Hugarian was adopted as the official language instead of Latin. These and other similar developments created the consciousness among the people that each linguistic community was a separate nation. This feeling was strengthened by the movements for Italian and German unification in the late nineteenth century.
-
 <!-- page 136 (pdf 15) -->
+
+You are a Rajput prince. How would you like your story to be told?
 
 Match the following: NSA Anantavarman Kerala Jagannatha Bengal Mahodayapuram Orissa Lilatilakam Kangra Mangalakavya Puri What is Manipravalam? Name a book written in that Who were the major patrons of Kathak?
 

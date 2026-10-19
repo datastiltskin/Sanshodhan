@@ -11,10 +11,12 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch02.pdf"
 source_sha256: "c29c3cb33e35876cf0d0aa3f6ea760793263b07733cffe5ae0b5a22174c6e1b0"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "0750a86c136fcb856274a6dab887a329a5deb3bf4b4413f137e5c930095be246"
+body_fingerprint: "f6424b881f3867c4293b2317078e28f3713a0b2b2a68c4a980a8b01e417e7077"
 ---
 
 <!-- page 9 (pdf 1) -->
+
+# From Trade to Territory The Company Establishes Power
 
 Aurangzeb was the last of the powerful Mughal rulers. He established control over a very large part of the territory that is now known as India. After his death in 1707, many Mughal governors (subadars) and big zamindars began asserting their authority and establishing regional kingdoms. As powerful regional kingdoms emerged in various parts of India, Delhi could no longer function as an effective centre.
 
@@ -23,6 +25,8 @@ By the second half of the eighteenth century, however, a new power was emerging 
 > [caption] Fig. 1 – Bahadur Shah Zafar and his sons being arrested by Captain Hodson After Aurangzeb there was no powerful Mughal ruler, but Mughal emperors continued to be symbolically important. In fact, when a massive rebellion against British rule broke out in 1857, Bahadur Shah Zafar, the Mughal emperor at the time, was seen as the natural leader. Once the revolt was put down by the company, Bahadur Shah Zafar was forced to leave the kingdom, and his sons were shot in cold blood.
 
 <!-- page 10 (pdf 2) -->
+
+## East India Company Comes East
 
 In 1600, the East India Company acquired a charter from the ruler of England, Queen Elizabeth I, granting it the sole right to trade with the East. This meant that no other trading group in England could compete with the East India Company. With this charter the Company could venture across the oceans, looking for new lands from which it could buy goods at a cheap price, and carry them back to Europe to sell at higher prices. The Company did not have to fear competition from other English trading companies. Mercantile trading companies in those days made profit primarily by excluding competition, so that they could buy cheap and sell dear.
 
@@ -46,6 +50,14 @@ The Company tried continuously to press for more concessions and manipulate exis
 
 <!-- page 12 (pdf 4) -->
 
+> [caption] Fig. 4 – Robert Clive
+
+Puppet – Literally, a toy that you can move with strings. The term is used disapprovingly to refer to a person who is controlled by someone else.
+
+Did you know?
+
+Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
+
 ### How trade led to battles
 
 Through the early eighteenth century the conflict between the Company and the nawabs of Bengal intensified. After the death of Aurangzeb, the Bengal nawabs asserted their power and autonomy, as other regional powers were doing at that time. Murshid Quli Khan was followed by Alivardi Khan and then Sirajuddaulah as the Nawab of Bengal. Each one of them was a strong ruler. They refused to grant the Company concessions, demanded large tributes for the Company’s right to trade, denied it any right to mint coins, and stopped it from extending its fortifications. Accusing the Company of deceit, they claimed that the Company was depriving the Bengal government of huge amounts of revenue and undermining the authority of the nawab. It was refusing to pay taxes, writing disrespectful letters, and trying to humiliate the nawab and his officials.
@@ -58,21 +70,35 @@ The conflicts led to confrontations and finally culminated in the famous Battle 
 
 When Alivardi Khan died in 1756, Sirajuddaulah became the nawab of Bengal. The Company was worried about his power and keen on a puppet ruler who would willingly give trade concessions and other privileges. So it tried, though without success, to help one of Sirajuddaulah’s rivals become the nawab. An infuriated Sirajuddaulah asked the Company to stop meddling in the political affairs of his dominion, stop fortification, and pay the revenues. After negotiations failed, the Nawab marched with 30,000 soldiers to the English factory at Kassimbazar, captured the Company officials, locked the warehouse, disarmed all Englishmen, and blockaded English ships. Then he marched to Calcutta to establish control over the Company’s fort there.
 
-On hearing the news of the fall of Calcutta, Company officials in Madras sent forces under the command of Robert Clive, reinforced by naval fleets. Prolonged negotiations with the Nawab followed. Finally, in 1757, Robert Clive led the Company’s army against Sirajuddaulah at Plassey. One of the main reasons for Puppet – Literally, a toy that you can move with strings. The term is used disapprovingly to refer to a person who is controlled by someone else.
-
-> [caption] Fig. 4 – Robert Clive
+On hearing the news of the fall of Calcutta, Company officials in Madras sent forces under the command of Robert Clive, reinforced by naval fleets. Prolonged negotiations with the Nawab followed. Finally, in 1757, Robert Clive led the Company’s army against Sirajuddaulah at Plassey. One of the main reasons for the defeat of the Nawab was that the forces led by Mir Jafar, one of Sirajuddaulah’s commanders, never fought the battle. Clive had managed to secure his support by promising to make him nawab after crushing Sirajuddaulah.
 
 <!-- page 13 (pdf 5) -->
 
-the defeat of the Nawab was that the forces led by Mir Jafar, one of Sirajuddaulah’s commanders, never fought the battle. Clive had managed to secure his support by promising to make him nawab after crushing Sirajuddaulah.
-
 The Battle of Plassey became famous because it was the first major victory the Company won in India.
+
+> [table] Source 1
+
+## The promise of riches
+
+The territorial ambitions of the mercantile East India Company were viewed with distrust and doubt in England. After the Battle of Plassey, Robert Clive wrote to William Pitt, one of the Principal Secretaries of State to the English monarch, on 7 January 1759 from Calcutta:
+
+But so large a sovereignty may possibly be an object too extensive for a mercantile Company … I flatter myself … that there will be little or no difficulty in obtaining the absolute possession of these rich kingdoms: ... Now I leave you to judge, whether an income yearly of two million sterling with the possession of three provinces … be an object deserving the public attention ...
 
 > [caption] Fig. 5 – The General Court Room, East India House, Leadenhall Street The Court of Proprietors of the East India Company had their meetings in the East India House on Leadenhall Street in London. This is a picture of one of their meetings in progress.
 
 > [caption] Fig. 6 – Sirajuddaulah
 
 <!-- page 14 (pdf 6) -->
+
+> [table] Source 2
+
+## The Nawab
+
+## complains
+
+In 1733 the Nawab of Bengal said this about the English traders:
+
+When they first came into the country they petitioned the then government in a humble manner for liberty to purchase a spot of ground to build a factory house upon, which was no sooner granted but they built a strong fort, surrounded it with a ditch which has communication with the river and mounted a great number of guns upon the walls. They have enticed several merchants and others to go and take protection under them and they collect a revenue which amounts to Rs 100, 000 … they rob and plunder and carry great number of the king’s subjects of both sexes into slavery into their own country …
 
 After the defeat at Plassey, Sirajuddaulah was assassinated and Mir Jafar made the nawab. The Company was still unwilling to take over the responsibility of administration. Its prime objective was the expansion of trade. If this could be done without conquest, through the help of local rulers who were willing to grant privileges, then territories need not be taken over directly.
 
@@ -90,19 +116,47 @@ After the Battle of Plassey the actual nawabs of Bengal were forced to give land
 
 However, not all Company officials succeeded in making money like Clive. Many died an early death in India due to disease and war and it would not be right to regard all of them as corrupt and dishonest. Many of them came from humble backgrounds and their uppermost desire was to earn enough in India, return to Britain and lead a comfortable life. Those who managed to return with wealth led flashy lives and flaunted their riches. They were called “nabobs” – an anglicised version of the Indian word nawab. They were often seen as upstarts and social climbers in British society and were ridiculed or made fun of in plays and cartoons.
 
+## Company Rule Expands
+
 If we analyse the process of annexation of Indian states by the East India Company from 1757 to 1857, certain key aspects emerge. The Company rarely launched a direct military attack on an unknown territory. Instead it used a variety of political, economic and diplomatic methods to extend its influence before annexing an Indian kingdom.
 
-After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but had to pay for the “subsidiary forces” that the Company was supposed to maintain for the purpose of this protection. If the Indian rulers failed to make the payment, then part of their territory was taken away as penalty. For example, when Richard Wellesley was Governor-General (1798-1805), the Nawab of Awadh was forced to give over half of his territory to the Company in 1801, as he failed to pay for the “subsidiary forces”. Hyderabad was also forced to cede territories on similar grounds.
+After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but
+
+> [table] Source 3
+
+## How did Clive
+
+## see himself?
+
+At his hearing in front of a Committee in Parliament, Clive declared that he had shown admirable restraint after the Battle of Plassey. This is what he said:
+
+Consider the situation in which the victory at Plassey had placed me! A great prince was dependent on my pleasure; an opulent city lay at my mercy; its richest bankers bid against each other for my smiles; I walked through vaults which were thrown open to me alone, piled on either hand with gold and jewels! Mr Chairman, at this moment I stand astonished at my moderation.
+
+Activity
+
+Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
 <!-- page 16 (pdf 8) -->
 
+had to pay for the “subsidiary forces” that the Company was supposed to maintain for the purpose of this protection. If the Indian rulers failed to make the payment, then part of their territory was taken away as penalty. For example, when Richard Wellesley was Governor-General (1798-1805), the Nawab of Awadh was forced to give over half of his territory to the Company in 1801, as he failed to pay for the “subsidiary forces”. Hyderabad was also forced to cede territories on similar grounds.
+
+> [table] Source 4
+
+## What power did the Resident have?
+
 > [caption] Fig. 7 – Nawab Shujauddaulah of Awadh, with his sons and the British Resident, painted by Tilly Kettle (oil, 1772)
 
+This is what James Mill, the famous economist and political philosopher from Scotland, wrote about the residents appointed by the Company.
+
 > [table] The treaties that followed the Battle of Buxar forced Nawab Shujauddaulah to give up much of his authority. Here, however, he poses in regal splendour, towering over the Resident.
+
+We place a resident, who really is king of the country, whatever injunctions of non-interference he may act under. As long as the prince acts in perfect subservience, and does what is agreeable to the residents, that is, to the British Government, things go on quietly; they are managed without the resident appearing much in the administration of affairs … but when anything of a different nature happens, the moment the prince takes a course which the British Government think wrong, then comes clashing and disturbance.
 
 Injunction – Instruction
 
 Subservience – Submissiveness
+
+> [table] James Mill (1832)
 
 Tipu Sultan – The “Tiger of Mysore” The Company resorted to direct military confrontation when it saw a threat to its political or economic interests. This can be illustrated with the case of the southern Indian state of Mysore.
 
@@ -114,11 +168,25 @@ The British were furious. They saw Haidar and Tipu as ambitious, arrogant and da
 
 > [caption] Fig. 10 – Tipu’s toy tiger
 
-> [table] This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
+This is the picture of a big mechanical toy that Tipu possessed. You can see a tiger mauling a European soldier. When its handle was turned the toy tiger roared and the soldier shrieked. This toy-tiger is now kept in the Victoria and Albert Museum in London. The British took it away when Tipu Sultan died defending his capital Seringapatam on 4 May 1799.
 
 > [caption] Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by Daniel Orme, 1793 The Company forces were defeated by Haidar Ali and Tipu Sultan in several battles. But in 1792, attacked by the combined forces of the Marathas, the Nizam of Hyderabad and the Company, Tipu was forced to sign a treaty with the British by which two of his sons were taken away as hostages. British painters always liked painting scenes that showed the triumph of British power.
 
+> [note] The legend of Tipu
+
+> [note] Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally he was able to kill the tiger in the battle. After this he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
+
 <!-- page 18 (pdf 10) -->
+
+Activity
+
+Imagine that you have come across two old newspapers reporting on the Battle of Seringapatam and the death of Tipu Sultan. One is a British paper and the other is from Mysore. Write the headline for each of the two newspapers.
+
+Confederacy – Alliance
+
+> [caption] Fig. 11 – Lord Hastings
+
+> [caption] Fig. 12 – A Statue of the Queen of Kitoor (Karnataka)
 
 ### War with the Marathas
 
@@ -130,12 +198,6 @@ The claim to paramountcy It is clear from the above that from the early nineteen
 
 This process, however, did not go unchallenged. For example, when the British tried to annex the small state of Kitoor (in Karnataka today), Rani Channamma took to arms and led an anti-British resistance movement. She was arrested in 1824 and died in prison in 1829. But Rayanna, a poor chowkidar of Sangoli in Kitoor, carried on the resistance. With popular support he destroyed many British camps and records. He was caught and hanged by the British in 1830. You will read more about several cases of resistance later in the book.
 
-> [note] Confederacy – Alliance
-
-> [caption] Fig. 11 – Lord Hastings
-
-> [caption] Fig. 12 – A Statue of the Queen of Kitoor (Karnataka)
-
 <!-- page 19 (pdf 11) -->
 
 In the late 1830s the East India Company became worried about Russia. It imagined that Russia might expand across Asia and enter India from the north-west. Driven by this fear, the British now wanted to secure their control over the north-west. They fought a prolonged war with Afghanistan between 1838 and 1842 and established indirect Company rule there. Sind was taken over in 1843. Next in line was Punjab. But the presence of Maharaja Ranjit Singh held back the Company. After his death in 1839, two prolonged wars were fought with the Sikh kingdom. Ultimately, in 1849, Punjab was annexed.
@@ -143,6 +205,10 @@ In the late 1830s the East India Company became worried about Russia. It imagine
 The Doctrine of Lapse The final wave of annexations occurred under Lord Dalhousie who was the Governor-General from 1848 to 1856. He devised a policy that came to be known as the Doctrine of Lapse. The doctrine declared that if an Indian ruler died without a male heir his kingdom would “lapse”, that is, become part of Company territory. One kingdom after another was annexed simply by applying this doctrine: Satara (1848), Sambalpur (1850), Udaipur (1852), Nagpur (1853) and Jhansi (1854).
 
 Finally, in 1856, the Company also took over Awadh. This time the British had an added argument – they said they were “obliged by duty” to take over Awadh in order to free the people from the “misgovernment” of the Nawab! Enraged by the humiliating way in which the Nawab was deposed, the people of Awadh joined the great revolt that broke out in 1857.
+
+Activity
+
+Imagine that you are a nawab’s nephew and have been brought up thinking that you will one day be king. Now you find that this will not be allowed by the British because of the new Doctrine of Lapse. What will be your feelings? What will you plan to do so that you can inherit the crown?
 
 > [caption] Fig. 13 – Maharaja Ranjit Singh holding court Fig. 14 – A portrait of Veer Surendra Sai
 
@@ -156,6 +222,8 @@ Finally, in 1856, the Company also took over Awadh. This time the British had an
 
 <!-- page 21 (pdf 13) -->
 
+## Setting up a New Administration
+
 Warren Hastings (Governor-General from 1773 to 1785) was one of the many important figures who played a significant role in the expansion of Company power. By his time the Company had acquired power not only in Bengal, but also in Bombay and Madras. British territories were broadly divided into administrative units called Presidencies. There were three Presidencies: Bengal, Madras and Bombay. Each was ruled by a Governor. The supreme head of the administration was the Governor-General. Warren Hastings, the first Governor-General, introduced several administrative reforms, notably in the sphere of justice.
 
 Qazi – A judge
@@ -164,9 +232,19 @@ Mufti – A jurist of the Muslim community responsible for expounding the law th
 
 > [caption] Fig. 15 – The trial of Warren Hastings, painted by R.G. Pollard, 1789
 
-> [table] When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
+When Warren Hastings went back to England in 1785, Edmund Burke accused him of being personally responsible for the misgovernment of Bengal. This led to an impeachment proceeding in the British Parliament that lasted seven years.
 
 <!-- page 22 (pdf 14) -->
+
+> [table] Source 5
+
+## “I impeach the common enemy and
+
+## oppressor of all.”
+
+Here is a passage from Edmund Burke’s eloquent opening speech during the impeachment of Warren Hastings:
+
+I impeach him in the name of the people of India, whose rights he has trodden under his foot and whose country he has turned into a desert. Lastly in the name of human nature itself, in the name of both the sexes, in the name of every age, in the name of every rank, I impeach the common enemy and oppressor of all.
 
 Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards Sawar – Men on horses Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
 
@@ -186,6 +264,8 @@ In the early nineteenth century the British began to develop a uniform military 
 
 What did the sepoys feel? How did they react to the changes in their lives and their identity – that is, their sense of who they were? The Revolt of 1857 gives us a glimpse into the world of the sepoys. You will read about this revolt in Chapter 5.
 
+## Conclusion
+
 Thus the East India Company was transformed from a trading company to a territorial colonial power. The arrival of new steam technology in the early nineteenth century also aided this process. Till then it would take anywhere between six and eight months to travel to India by sea. Steamships reduced the journey time to three weeks enabling more Britishers and their families to come to a far-off country like India.
 
 By 1857 the Company came to exercise direct rule over about 63 per cent of the territory and 78 per cent of the population of the Indian subcontinent. Combined with its indirect influence on the remaining territory and population of the country, the East India Company had virtually the whole of India under its control.
@@ -193,6 +273,24 @@ By 1857 the Company came to exercise direct rule over about 63 per cent of the t
 > [caption] Fig. 16 – A sawar of Bengal in the service of the Company, painted by an unknown Indian artist, 1780 After the battles with the Marathas and the Mysore rulers, the Company realised the importance of strengthening its cavalry force.
 
 <!-- page 24 (pdf 16) -->
+
+ELSEWHERE
+
+Slave Trade in South Africa
+
+The Dutch trading ships reached southern Africa in the seventeenth century. Soon a slave trade began. People were captured, chained, and sold in slave markets. When slavery ended in 1834 there were 36,774 privately owned slaves at the Cape – located at the southern most tip of Africa.
+
+A visitor to the Cape in 1824 has left a moving account of what he saw at a slave auction:
+
+Having learned that there was to be sale of cattle, farm-stock, etc by auction, … we halted our wagon for the purpose of procuring fresh oxen. Among the stock … was a female slave and her three children. The farmers examined them, as if they had been so many head of cattle. They were sold separately, and to different purchasers. The tears, the anxiety, the anguish of the mother, while she … cast heart-rending look upon her children, and the simplicity and touching sorrow of the poor young ones while they clung to their distracted parent … contrasted with the marked insensitivity and jocular countenances of the spectators
+
+> [table] Quoted in Nigel Wordon et. al., The Chains that Bind us: a History of Slavery at the Cape, 1996.
+
+## Let’s imagine
+
+## Let’s recall
+
+You are living in England in the late eighteenth or early nineteenth century. How would you have reacted to the stories of British conquests? Remember that you would have read about the immense fortunes that many of the officials were making.
 
 1. Match the following:
 
@@ -204,7 +302,7 @@ Diwani Tipu Sultan
 
 (a) The British conquest of Bengal began with the Battle of ___________.
 
-(b) Haidar Ali and Tipu Sultan were the rulers of You are living in England in the late eighteenth or early nineteenth century. How would you have reacted to the stories of British conquests? Remember that you would have read about the immense fortunes that many of the officials were making.
+(b) Haidar Ali and Tipu Sultan were the rulers of
 
 <!-- page 25 (pdf 17) -->
 
@@ -224,6 +322,8 @@ ___________ part of India.
 
 (d) The British did not introduce administrative changes in the territories they conquered.
 
+## Let’s discuss
+
 4. What attracted European trading companies to India?
 
 5. What were the areas of conflict between the Bengal nawabs and the East India Company?
@@ -235,6 +335,8 @@ ___________ part of India.
 8. In what way was the administration of the Company different from that of Indian rulers?
 
 9. Describe the changes that occurred in the composition of the Company’s army.
+
+## Let’s do
 
 10. After the British conquest of Bengal, Calcutta grew from a small village to a big city. Find out about the culture, architecture and the life of Europeans and Indians of the city during the colonial period.
 

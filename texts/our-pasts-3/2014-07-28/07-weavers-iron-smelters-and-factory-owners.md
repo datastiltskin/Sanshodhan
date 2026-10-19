@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch01.pdf"
 source_sha256: "b08a9af74359a5edfc940ed5022dcf2faeaaa194584af724defea4c909406e1c"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "e712f453127745c103db4575e8f7e03e910b942f144b3801f5719cabb831bc88"
+body_fingerprint: "8c7ce35855acd5f536e34100de91632da4441a3dbfdd285cb1b7604c71cda62d"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -21,7 +21,7 @@ body_fingerprint: "e712f453127745c103db4575e8f7e03e910b942f144b3801f5719cabb831b
 
 > [caption] Fig. 1 – Trading ships on the port of Surat in the seventeenth century
 
-> [table] Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
+Surat in Gujarat on the west coast of India was one of the most important ports of the Indian Ocean trade. Dutch and English trading ships began using the port from the early seventeenth century. Its importance declined in the eighteenth century.
 
 This chapter tells the story of the crafts and industries of India during British rule by focusing on two industries, namely, textiles and iron and steel. Both these industries were crucial for the industrial revolution in the modern world. Mechanised production of cotton textiles made Britain the foremost industrial nation in the nineteenth century. And when its iron and steel industry started growing from the 1850s, Britain came to be known as the “workshop of the world”.
 
@@ -77,7 +77,7 @@ Competition with Indian textiles also led to a search for technological innovati
 
 However, Indian textiles continued to dominate world trade till the end of the eighteenth century. European trading companies – the Dutch, the French and the English – made enormous profits out of this flourishing trade. These companies purchased cotton and silk textiles in India by importing silver. But as you know (Chapter 2), when the English East India Company gained political power in Bengal, it no longer had to import precious metal to buy Indian goods. Instead, they collected revenues from peasants and zamindars in India, and used this revenue to buy Indian textiles.
 
-hActivity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
+Activity Why do you think the Act was called the Calico Act? What does the name tell us about the kind of textiles the Act wanted to ban?
 
 Spinning Jenny – A machine by which a single worker could operate several spindles on to which thread was spun. When the wheel was turned all the spindles rotated.
 
@@ -91,11 +91,11 @@ Where were the major centres of weaving in the late eighteenth century?
 
 > [caption] Fig. 8 – Weaving centres: 1500-1750
 
-> [table] If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
+If you look at the map you will notice that textile production was concentrated in four regions in the early nineteenth century. Bengal was one of the most important centres. Located along the numerous rivers in the delta, the production centres in Bengal could easily transport goods to distant places. Do not forget that in the early nineteenth century railways had not developed and roads were only just beginning to be laid on an extensive scale.
 
 > [table] Dacca in Eastern Bengal (now Bangladesh) was the foremost textile centre in the eighteenth century. It was famous for its mulmul and jamdani weaving.
 
-> [table] If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
+If you look at the southern part of India in the map you will see a second cluster of cotton weaving centres along the Coromandel coast stretching from Madras to northern Andhra Pradesh. On the western coast there were important weaving centres in Gujarat.
 
 <!-- page 85 (pdf 7) -->
 
@@ -149,7 +149,7 @@ But worse was still to come. By the 1830s British cotton cloth flooded Indian ma
 
 Handloom weaving did not completely die in India. This was because some types of cloths could not be supplied by machines. How could machines produce saris with intricate borders or cloths with traditional woven patterns? These had a wide demand not only amongst the rich but also amongst the middle classes. Nor did the textile manufacturers in Britain produce the very coarse cloths used by the poor people in India.
 
-hActivity Read Sources 1 and 2. What reasons do the petition writers give for their condition of starvation?
+Activity Read Sources 1 and 2. What reasons do the petition writers give for their condition of starvation?
 
 <!-- page 87 (pdf 9) -->
 
@@ -163,9 +163,9 @@ Cotton mills come up The first cotton mill in India was set up as a spinning mil
 
 <!-- page 88 (pdf 10) -->
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
 
-> [table] Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
 Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
 
@@ -183,9 +183,9 @@ Indian Wootz steel fascinated European scientists. Michael Faraday, the legendar
 
 Production of Wootz steel required a highly specialised technique of refining iron. But iron smelting in India was extremely common till the end of the nineteenth century. In Bihar and Central India, in particular, every district had smelters that used local deposits of ore to produce iron which was widely used for the manufacture of implements and tools of daily use. The furnaces were most often built of clay and sun-dried bricks. The smelting was done by men while women worked the bellows, pumping air that kept the charcoal burning.
 
-hActivity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
+Activity Why would the iron and steel making industry be affected by the defeat of the nawabs and rajas?
 
-Bellows – A device or equipment that can pump air By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
+Bellows – A device or equipment that can pump air Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
 
 > [caption] Fig. 12 – Iron smelters of Palamau, Bihar
 
@@ -193,9 +193,9 @@ Bellows – A device or equipment that can pump air By the late nineteenth centu
 
 > [caption] Fig. 13 – A village in Central India where the Agarias – a community of iron smelters – lived.
 
-> [table] Some communities like the Agarias specialised in the craft of iron smelting. In the late nineteenth century a series of famines devastated the dry tracts of India. In Central India, many of the Agaria iron smelters stopped work, deserted their villages and migrated, looking for some other work to survive the hard times. A large number of them never worked their furnaces again.
-
 > [table] Source 3
+
+By the late nineteenth century, however, the craft of iron smelting was in decline. In most villages, furnaces fell into disuse and the amount of iron produced came down. Why was this so?
 
 ## A widespread
 

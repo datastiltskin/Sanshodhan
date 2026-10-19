@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch06.pdf"
 source_sha256: "0f3f1c8df84e1437e607e51cefd76b795ad3c96bfc56c3d81f2b07b651378925"
 pdf_pages: 13
 printed_pages: "65-77"
-body_fingerprint: "125aaa5ed2c42e02dd9acc83e57067afc0911cef197a6ef144cc7f3f9b09d937"
+body_fingerprint: "ca36b4119da95c171173342626c07d82258208fad6f1e403c7be308303e68d8c"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -48,7 +48,7 @@ With this object in view, a madrasa was set up in Calcutta in 1781 to promote th
 
 > [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta
 
-> [table] This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
+This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
 
 Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
@@ -94,7 +94,9 @@ Wood’s Despatch also argued that European learning would improve the moral cha
 
 Following the 1854 Despatch, several measures were introduced by the British. Education departments of the government were set up to extend control over all matters regarding education. Steps were taken to establish a system of university education. In 1857, while the sepoys rose in revolt in Meerut and Delhi, universities were being established in Calcutta, Madras and Bombay. Attempts were also made to bring about changes within the system of school education.
 
-Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions.  Activity
+Imagine you are living in the 1850s. You hear of Wood’s Despatch. Write about your reactions.
+
+Activity
 
 > [caption] Fig. 5 – Bombay University in the nineteenth century
 
@@ -148,7 +150,7 @@ Activity
 
 > [caption] Fig. 9 – Sri Aurobindo Ghose
 
-> [table] In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
+In a speech delivered on January 15, 1908 in Bombay, Aurobindo Ghose stated that the goal of national education was to awaken the spirit of nationality among the students. This required a contemplation of the heroic deeds of our ancestors. The education should be imparted in the vernacular so as to reach the largest number of people. Aurobindo Ghose emphasised that although the students should remain connected to their own roots, they should also take the fullest advantage of modern scientific discoveries and Western experiments in popular governments. Moreover, the students should also learn some useful crafts so that they could be able to find some moderately remunerative employment after leaving their schools.
 
 New routines, new rules Up to the mid-nineteenth century, the Company was concerned primarily with higher education. So it allowed the local pathshalas to function without much interference. After 1854, the Company decided to improve the system of vernacular education. It felt that this could be done by introducing order within the system, imposing routines, establishing rules, ensuring regular inspections.
 

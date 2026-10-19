@@ -7,11 +7,11 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-prelims.pdf"
 
 <!-- pdf page 1 -->
 
-# Contents
+## Contents
 
 Foreword iii
 
-## 1. How, When and Where 1
+# 1. How, When and Where 1
 
 2. From Trade to Territory 9 The Company Establishes Power
 

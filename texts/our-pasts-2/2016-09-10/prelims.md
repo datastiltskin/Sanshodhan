@@ -26,13 +26,11 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/prelims.pdf"
 
 > [caption] ISBN 81-7450-724-8
 
-> [caption] First Edition April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935 ALL RIGHTS RESERVED
+> [caption] First Edition April 2007 Vaisakha 1929 Reprinted November 2007 Kartika 1929 January 2009 Pausa 1930 December 2009 Pausa 1931 November 2010 Kartika 1932 January 2012 Magha 1933 March 2012 Phalguna 1934 October 2013 Ashvina 1935 ALL RIGHTS RESERVED No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption] No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
-> [caption] This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
-
-> [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] PD 460T RPS
 
@@ -206,7 +204,7 @@ Definition Box Some chapters contain definitions.
 
 > [note] Many chapters contain boxes with interesting, additional information.
 
-## Source Box 
+## Source Box
 
 > [note] Many chapters contain a portion from a source, clues from which historians write history. Read these carefully, and discuss the questions they contain.
 
@@ -220,7 +218,7 @@ You will also find maps. Look at these and try to locate the places mentioned in
 
 > [note] All chapters end with a section titled Elsewhere. This tells you about something that was happening in another part of the world.
 
-### Imagine 
+### Imagine
 
 And there is a small section titled Imagine. This is your chance to go back into the past and figure out what life would have been like.
 
