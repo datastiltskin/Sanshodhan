@@ -48,3 +48,17 @@ def test_clean_outlined():
     assert ocr.clean_outlined("EX€YIcise.") == "EXYIcise."
     assert ocr.clean_outlined("dehliwal,") == "dehliwal,"
     assert ocr.clean_outlined("|| 1") == ""
+
+
+def test_snap_to_vocabulary_repairs_outlined_runs():
+    words = {"exercise", "pardesi", "for", "minhaj-i-siraj", "difficult", "official", "records", "jati", "a", "sanskrit", "prashasti", "simple", "old"}
+    index = ocr.vocabulary_index(words)
+    snap = lambda t: ocr.snap_to_vocabulary(t, index, words)  # noqa: E731
+    assert snap("simple EXYIcise.") == "simple exercise."
+    assert snap("pardes i") == "pardesi"
+    assert snap("fi or") == "for"
+    assert snap("Minhaj 1 Siraj,") == "Minhaj-i-Siraj,"
+    assert snap("Ufficult. The") == "difficult. The"
+    assert snap("Jatt") == "Jati"
+    assert snap("Sikhs,") == "Sikhs,"  # an unknown word with nothing close is left alone
+    assert snap("and more diffi ifficult.") == "and more difficult."

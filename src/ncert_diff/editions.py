@@ -7,6 +7,7 @@ the same reprint, or a re-encoded PDF with the same words, collapse into one edi
 
 from __future__ import annotations
 
+import copy
 import hashlib
 import json
 import re
@@ -141,6 +142,11 @@ def apply_overrides(markdown: str, snapshot: str, chapter: int | None, overrides
     return markdown, applied, missed
 
 
+def files_signature(snapshot: Path) -> tuple:
+    """(name, sha256) of every PDF in a snapshot folder, to spot folders with identical files."""
+    return tuple((p.name, hashlib.sha256(p.read_bytes()).hexdigest()) for p in sorted(snapshot.glob("*.pdf")))
+
+
 def snapshot_dirs(book: Book) -> list[Path]:
     root = PDF_DIR / book.id
     if not root.exists():
@@ -227,10 +233,19 @@ def process_book(book: Book, *, log=print) -> Path:
     skipped: list[dict] = []
     overrides = load_overrides(book.id)
     overrides_missed: list[dict] = []
+    signatures: dict[tuple, str] = {}  # files signature -> label already extracted
 
     for snap in snapshot_dirs(book):
         label = snap.name
         log(f"{book.id} / {label}")
+        signature = files_signature(snap)
+        if signature and signature in signatures:
+            # The same files again (a live capture that matched an archived one, a mirror).
+            # Reuse the extraction so the two cannot drift apart and fingerprint differently.
+            twin = signatures[signature]
+            extracted[label] = copy.deepcopy(extracted[twin])
+            log(f"  files identical to {twin}, extraction reused")
+            continue
         chapters = []
         units: list[tuple[int | None, int | None, Path, tuple[str, dict]]] = []
         files = chapter_files(snap)
@@ -248,12 +263,13 @@ def process_book(book: Book, *, log=print) -> Path:
             toc = {**contents_titles(files[0][2], max_pages=3), **toc}
         carry: list = []  # a unit opener bound in at the end of the previous file
         carry_part = None
+        vocab, _ = _corpus(extracted)  # words from the editions read so far steady outlined-word OCR
         for part, file_number, pdf in files:
             if pdf in image_only:
                 units.append((part, file_number, pdf, ocr.extract_chapter_ocr(pdf)))
                 carry = []
                 continue
-            results, carry_out = extract_chapter_file(pdf, carry if part == carry_part else None)
+            results, carry_out = extract_chapter_file(pdf, carry if part == carry_part else None, vocab or None)
             if carry and part == carry_part:
                 log(f"  {pdf.name}: opens with {len(carry)} pages carried over from {carry[0].source}")
             carry, carry_part = carry_out, part
@@ -326,6 +342,7 @@ def process_book(book: Book, *, log=print) -> Path:
         chapters.sort(key=lambda c: (c["part"] or 0, c["number"]))
         fingerprint = _sha("\n".join(c["fingerprint"] for c in chapters))
         extracted[label] = {"chapters": chapters, "prelims": prelims_meta, "fingerprint": fingerprint}
+        signatures[signature] = label
         log(f"  {len(chapters)} chapters, fingerprint {fingerprint[:12]}")
 
     # OCR skips the ornamental drop cap, so an OCR'd chapter can open with "uling as large a

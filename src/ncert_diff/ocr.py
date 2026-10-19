@@ -133,17 +133,119 @@ def clean_outlined(raw: str) -> str:
     return word if sum(ch.isalpha() for ch in word) >= 2 else ""
 
 
-def outlined_reader(pdf_path: Path):
-    """A callable that OCRs a small page rectangle (an outlined word), cached per PDF."""
+_TOKEN = re.compile(r"^([^A-Za-z]*)([A-Za-z][A-Za-z'’-]*)([^A-Za-z]*)$")
+
+
+def _ratio(a: str, b: str) -> float:
+    import difflib
+
+    return difflib.SequenceMatcher(None, a, b).ratio()
+
+
+def _best_word(core: str, vocab: dict[int, list[str]]) -> str | None:
+    """The vocabulary word nearest to an OCR'd word, or None when nothing is close enough."""
+    low = core.lower()
+    need = 0.75  # one letter wrong in a four-letter word, two in an eight-letter one
+    best, best_r = None, 0.0
+    for length in range(len(low) - 2, len(low) + 3):
+        for w in vocab.get(length, ()):
+            if w[0] != low[0] and w[-1] != low[-1]:
+                continue  # a misread keeps at least one end of the word
+            r = _ratio(low, w)
+            if r > best_r:
+                best, best_r = w, r
+    return best if best_r >= need else None
+
+
+def _recase(word: str, like: str) -> str:
+    """Give a vocabulary word the case pattern of the OCR'd token it replaces. A token with
+    stray capitals inside ("EXYIcise") is treated as lower case."""
+    if like.isupper() and len(like) > 1:
+        return word.upper()
+    if like[:1].isupper() and like[1:].islower() and like[:1].lower() == word[:1]:
+        return word[:1].upper() + word[1:]  # the capital survived the misread, so keep it
+    return word
+
+
+def _recase_parts(candidate: str, tokens: list[str]) -> str:
+    """Case each hyphen-separated part of a vocabulary word like the token it replaces."""
+    parts = candidate.split("-")
+    if len(parts) != len(tokens):
+        return _recase(candidate, tokens[0])
+    return "-".join(_recase(part, tok.strip(".,;:!?") or "x") for part, tok in zip(parts, tokens))
+
+
+def snap_to_vocabulary(text: str, vocab: dict[int, list[str]], known: set[str]) -> str:
+    """Pull an OCR'd outlined run towards words the book is known to use.
+
+    The runs are italic lines whose glyphs were drawn as outlines; tesseract reads most of
+    them cleanly but drops or doubles letters at ligatures ("EXYIcise", "pardes i",
+    "Minhaj 1 Siraj"). A run whose letters, joined, spell a known word becomes that word.
+    Otherwise each unknown word is replaced by the nearest known word when one is close."""
+    if not text or not vocab:
+        return text
+    tokens = text.split()
+    cores = [m.group(2) if (m := _TOKEN.match(t)) else "" for t in tokens]
+    # Whole run: "pardes i" -> "pardesi", "fi or" -> "for", "Minhaj 1 Siraj" -> "Minhaj-i-Siraj".
+    if 2 <= len(tokens) <= 3 and all(cores) or (len(tokens) == 3 and tokens[1].isdigit()):
+        letters = "".join(c for c in text if c.isalpha()).lower()
+        joined = "".join(ch if ch.isalnum() else "" for ch in text).lower()
+        hyphenated = "-".join(t.strip(".,;:") for t in tokens).lower().replace("1", "i")
+        tail = text[len(text.rstrip(".,;:!?")):]
+        for candidate in (letters, joined, hyphenated):
+            if candidate in known:
+                return (_recase_parts(candidate, tokens) if "-" in candidate else _recase(candidate, tokens[0])) + tail
+        close = _best_word(hyphenated, vocab) if "-" in hyphenated else None
+        if close and "-" in close:
+            return _recase_parts(close, tokens) + tail
+        if len(tokens) == 2 and min(len(c) for c in cores) <= 2:
+            # A ligature read as its own token: "fi or" for "for".
+            close = _best_word(letters, vocab)
+            if close:
+                return _recase(close, tokens[0]) + tail
+    out = []
+    for tok, core in zip(tokens, cores):
+        if not core or len(core) < 3 or core.lower() in known:
+            out.append(tok)
+            continue
+        better = _best_word(core, vocab)
+        out.append(tok.replace(core, _recase(better, core)) if better else tok)
+    # A ligature split doubles letters across two runs ("diffi" + "ifficult"). After snapping
+    # that leaves the same word twice, or an unknown fragment that begins the next word.
+    deduped: list[str] = []
+    for i, tok in enumerate(out):
+        if deduped and tok.lower() == deduped[-1].lower() and len(tok) > 3:
+            continue
+        core = (m.group(2) if (m := _TOKEN.match(tok)) else "").lower()
+        nxt = (m.group(2) if i + 1 < len(out) and (m := _TOKEN.match(out[i + 1])) else "").lower()
+        if core and core not in known and len(core) >= 3 and nxt.startswith(core) and nxt != core:
+            continue
+        deduped.append(tok)
+    return " ".join(deduped)
+
+
+def vocabulary_index(words: set[str]) -> dict[int, list[str]]:
+    """Known words grouped by length, for snap_to_vocabulary."""
+    index: dict[int, list[str]] = {}
+    for w in words:
+        index.setdefault(len(w), []).append(w)
+    return index
+
+
+def outlined_reader(pdf_path: Path, vocab: set[str] | None = None):
+    """A callable that OCRs a small page rectangle (an outlined word), cached per PDF.
+    With `vocab` (words the book uses elsewhere) the reading is snapped to known words."""
     if not available():
         return None
     cache_path = pdf_path.parent / "ocr" / f"{pdf_path.stem}-outlined.json"
     cache: dict[str, str] = json.loads(cache_path.read_text()) if cache_path.exists() else {}
+    index = vocabulary_index(vocab) if vocab else {}
+    known = vocab or set()
 
     def read(page: pymupdf.Page, rect: pymupdf.Rect) -> str | None:
         key = f"{page.number}:{round(rect.x0)}:{round(rect.y0)}:{round(rect.x1)}:{round(rect.y1)}"
         if key in cache:
-            return cache[key] or None
+            return snap_to_vocabulary(cache[key], index, known) or None
         clip = (rect + (-4, -4, 4, 4)) & page.rect
         if clip.is_empty or clip.width < 3 or clip.height < 3:
             cache[key] = ""
@@ -154,9 +256,9 @@ def outlined_reader(pdf_path: Path):
         proc = subprocess.run([TESSERACT, str(png), "stdout", "--psm", "7", "-l", "eng"], capture_output=True, text=True, check=False)
         png.unlink(missing_ok=True)
         word = clean_outlined(proc.stdout)
-        cache[key] = word
+        cache[key] = word  # the raw reading is cached; snapping happens on the way out
         cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0))
-        return word or None
+        return snap_to_vocabulary(word, index, known) or None
 
     return read
 
