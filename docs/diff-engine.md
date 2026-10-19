@@ -125,6 +125,11 @@ fix for a reading error goes into the book's overrides file (see `docs/text-form
 - Exercises ("match the following" tables read by columns) still change layout between
   printings and produce noisy hunks that are not content changes. Blanks and renumbering are
   handled in the key, but OCR drops blank lines and detaches exercise numbers.
+- Table rows are compared whole, so a change to one cell shows as a modification of the
+  whole row, and a row whose cells were read in a different order shows as a change when
+  the table did not change. Comparing cell by cell (a row as a bag of cells, a cell as the
+  unit of change) is the planned fix. It changes what the counts mean for tables, so it is
+  a deliberate step for later rather than a quiet tweak.
 - No comparison yet between the old history books and the 2025 Exploring Society books.
   They share no chapter structure, so that needs topic-level alignment rather than this
   sentence-level engine.
