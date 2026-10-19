@@ -4,7 +4,7 @@ edition: "2022-08-04-ocr"
 source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
 ---
 
-<!-- page 23 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # SOCIAL SCIENCE
 
@@ -12,9 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
 
 ## for Class VII
 
-<!-- page 23 (pdf 2) -->
+<!-- pdf page 2 -->
 
-<!-- page 23 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ## SOCIAL SCIENCE
 
@@ -24,7 +24,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/prelims.pdf"
 
 sta Siler FAA SR TART fap sy f31aToT NATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
-<!-- page 23 (pdf 4) -->
+<!-- pdf page 4 -->
 
 > [caption] PD 620T RSP
 
@@ -40,7 +40,7 @@ sta Siler FAA SR TART fap sy f31aToT NATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] © National Council of Educational Research and Training, 2007 CWC Complex Maligaon Guwahati 781 021 Phone : 0361-2674869 Publication Team Head, Publication : Anup Kumar Rajput Division Chief Editor : Shveta Uppal Chief Production : Arun Chitkara Officer Chief Business : Vipin Dewan Manager Printed on 80 GSM paper with NCERT watermark Assistant Editor : Shashi Chadha Production Assistant : Rajesh Pippal Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Ana Print O Grafix Pvt. Ltd., 347-K, Udyog Kendra Extn.-II, Sector Ecotech-III, Greater Noida- 201 306 Cover and Layout Arrt Creations Cartography Cartographic Designs Agency
 
-<!-- page 23 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ## FOREWORD
 
@@ -50,7 +50,7 @@ The success of this effort depends on the steps that school principals and teach
 
 These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavor by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
 
-<!-- page 23 (pdf 6) -->
+<!-- pdf page 6 -->
 
 NCERT appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the Advisory Group on Social Science, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Neeladri Bhattacharya for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G. P. Deshpande, for their valuable time and contribution. As an organization committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
@@ -58,7 +58,7 @@ Director National Council of Educational
 
 Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE ACKNOWLEDGEMENTS This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
-<!-- page 23 (pdf 7) -->
+<!-- pdf page 7 -->
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -80,13 +80,13 @@ Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE 
 
 > [table] Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerela Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
 
-<!-- page 23 (pdf 8) -->
+<!-- pdf page 8 -->
 
 Professors J.S. Grewal, member of the NCERT Monitoring Committee and Muzaffar Alam of the University of Chicago commented on several chapters and very generously responded to all our queries. Professor Ebba Koch of the University of Vienna was kind enough to give us permission to use many of her photographs and illustrations. We are indebted to Dr. Meera Khare of PGDAV College, Delhi University, for her promptness in responding to our questions and providing us help with information and visuals.
 
 Shyama Warner’s copyediting and proof reading skills improved the book dramatically. It is certainly a visual delight thanks to the designing and lay out expertise of Ritu Topa of Arrt Creations. Albinus Tirkey’s technical and administrative help eased the burden at the last stages of production. Satish Maurya produced the maps for the book. We are grateful to him for his patience, promptness and efficiency. Shveta Uppal oversaw the final editing and production of the volume with great care and customary professionalism.
 
-<!-- page 23 (pdf 9) -->
+<!-- pdf page 9 -->
 
 PHOTO AND MAP CREDITS
 
@@ -118,7 +118,7 @@ Tradition and Colonial Change, (Ch. 5, fig. 15); Evenson, Norman. The Indian Met
 
 Ch. 5, figs. 6, 9, 10, 11, 13, 14); Koch, Ebba. Mughal Architecture, (Ch. 5, fig. 16);
 
-<!-- page 23 (pdf 10) -->
+<!-- pdf page 10 -->
 
 Kothari, Sunil. Kathak: Indian Classical Dance Art
 
@@ -152,7 +152,7 @@ Asher, Catherine and Cynthia Talbot. India Before Europe,
 
 (Ch. 1, map 3);
 
-<!-- page 23 (pdf 11) -->
+<!-- pdf page 11 -->
 
 ## Contents
 
@@ -178,7 +178,7 @@ Foreword v In this book xii
 
 10. Eighteenth-Century Political Formations 138
 
-<!-- page 23 (pdf 12) -->
+<!-- pdf page 12 -->
 
 ## I N T H I S B O O K
 
@@ -200,7 +200,7 @@ In each chapter there are intext questions and activities that are highlighted. 
 
 You will also find maps. Look at these and try to locate the places mentioned in the lessons.
 
-<!-- page 23 (pdf 13) -->
+<!-- pdf page 13 -->
 
 All chapters end with a section titled Elsewhere. This tells you about something that was happening in another part of the world.
 
@@ -216,4 +216,4 @@ You will also find different kinds of activities listed at the end of each chapt
 
 There is a lot to read, see, think about and do in this book. We hope you will enjoy it.
 
-<!-- page 23 (pdf 14) -->
+<!-- pdf page 14 -->

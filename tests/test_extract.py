@@ -76,3 +76,70 @@ def test_body_text_strips_markers_and_asides():
 def test_decode_symbol_font():
     assert extract.decode_symbol_font("\uf048\uf069\uf073\uf074\uf06f\uf072\uf079\uf020\uf048\uf069\uf074\uf06c\uf065\uf072\uf092\uf073") == "History Hitler’s"
     assert extract.decode_symbol_font("plain text") == "plain text"
+
+
+def _page(blocks_spec, width=600.0, height=800.0, font_fixes=None):
+    """A PyMuPDF-style text dict from (text, size, x0, y0, font) tuples, classified."""
+    textpage = {"blocks": []}
+    for text, size, x0, y0, font in blocks_spec:
+        span = {"text": text, "size": size, "font": font, "flags": 0, "bbox": (x0, y0, x0 + 6 * len(text), y0 + size)}
+        textpage["blocks"].append({"type": 0, "bbox": span["bbox"], "lines": [{"dir": (1.0, 0.0), "bbox": span["bbox"], "spans": [span]}]})
+    blocks = extract.blocks_from_dict(textpage, font_fixes) if font_fixes else extract.blocks_from_dict(textpage)
+    printed = extract.classify(blocks, width, height, 12.0)
+    return blocks, printed
+
+
+BODY = "Members of the Legislative Assembly are elected by the people of a constituency. " * 2
+
+
+def test_running_title_at_body_size_is_a_footer():
+    blocks, printed = _page([
+        (BODY, 12.0, 80, 100, "Bookman-Light"),
+        ("32 Social and Political Life", 12.0, 66, 765, "Bookman-Demi"),
+    ])
+    assert [b.role for b in blocks] == ["body", "footer"]
+    assert printed == 32
+    blocks, printed = _page([
+        (BODY, 12.0, 80, 100, "Bookman-Light"),
+        ("Chapter 3: How the State Government Works 31", 12.0, 290, 768, "Bookman-Demi"),
+    ])
+    assert blocks[-1].role == "footer" and printed == 31
+    # A numberless running title in the band is still a footer, and a short table row is not.
+    blocks, printed = _page([(BODY, 12.0, 80, 100, "Bookman-Light"), ("Chapter 1: On Equality", 10.0, 407, 721, "Bookman-Demi")])
+    assert blocks[-1].role == "footer" and printed is None
+    blocks, _ = _page([(BODY, 12.0, 80, 100, "Bookman-Light"), ("Kerala 93", 12.0, 80, 700, "Bookman-Light")])
+    assert blocks[-1].role != "footer"
+
+
+def test_session_label_is_not_a_page_number():
+    blocks, printed = _page([(BODY, 12.0, 80, 100, "Bookman-Light"), ("2022-23", 8.0, 290, 770, "Arial")])
+    assert blocks[-1].role == "footer" and printed is None
+
+
+def test_chapter_title_skips_unit_opener_and_teachers_note():
+    def page(index, spec):
+        blocks, printed = _page(spec)
+        return extract.Page(index, printed, blocks)
+    pages = [
+        page(0, [("UNIT", 60.0, 106, 242, "TT351T00"), ("ONE", 60.0, 113, 312, "TT351T00")]),
+        page(1, [("Equality in Indian Democracy", 24.0, 85, 83, "TT2E7T00"), ("Teacher’s note", 12.0, 85, 248, "Bookman-Demi"), (BODY, 12.0, 85, 278, "Bookman-Light")]),
+        page(2, [("WHOSE RESPONSIBILITY?", 16.0, 307, 70, "TT440T00"), ("On Equality", 24.0, 85, 404, "TT2EBT00"), (BODY, 12.0, 85, 446, "Bookman-Light")]),
+    ]
+    assert extract.chapter_title(pages) == (None, "On Equality")
+
+
+def test_long_caption_in_footer_band_is_not_a_footer():
+    blocks, _ = _page([
+        (BODY, 12.0, 80, 100, "Bookman-Light"),
+        ("Fig. 4 – Thousands joined the demonstrations during the Swadeshi movement", 9.0, 80, 698, "Bookman-LightItalic"),
+    ])
+    assert blocks[-1].role != "footer"
+
+
+def test_chapter_title_ignores_dropcap_line():
+    blocks, printed = _page([
+        ("TRIBES, NOMADS AND SETTLED COMMUNITIES", 20.0, 85, 90, "LucidaSans"),
+        ("Y crafts and production activities flourished in towns", 36.0, 85, 300, "Bookman-Light"),
+        (BODY, 12.0, 85, 340, "Bookman-Light"),
+    ])
+    assert extract.chapter_title([extract.Page(0, printed, blocks)]) == (None, "TRIBES, NOMADS AND SETTLED COMMUNITIES")

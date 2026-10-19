@@ -4,7 +4,7 @@ edition: "2020-10-15"
 source_pdf: "pdfs/our-pasts-3/2020-10-15/prelims.pdf"
 ---
 
-<!-- page 21 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # SOCIAL SCIENCE
 
@@ -18,7 +18,7 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI Pub
 
 > [caption] Raq
 
-<!-- page 21 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [caption] First Edition March 2008 Chaitra 1929
 
@@ -52,7 +52,7 @@ Saas SNe TART cla srfer fsTaror fap sy IONAL RESEARCH AND EDUCAT ONAL COUNCI Pub
 
 > [caption] Cartography Cartographic Designs Agency
 
-<!-- page 21 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ### FOREWORD
 
@@ -64,19 +64,19 @@ These aims imply considerable change in school routines and mode of functioning.
 
 NCERT appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the Advisory Committee for Textbook in Social Science, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Neeladri Bhattacharya for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G. P. Deshpande, for their valuable time and contribution. As an organisation committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
-<!-- page 21 (pdf 4) -->
+<!-- pdf page 4 -->
 
 Director National Council of Educational
 
 Research and Training New Delhi 30 November 2007 Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkata Neeladri Bhattacharya, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Anil Sethi, Professor, Department of Education in Social Sciences, NCERT, New Delhi Anjali Khullar, PGT, History, Cambridge School, New Delhi Archana Prasad, Associate Professor, Centre for Jawaharlal Nehru Studies, Jamia Millia Islamia, New Delhi Janaki Nair, Professor, Centre for Studies in Social Sciences, Kolkata Prabhu Mohapatra, Associate Professor, University of Delhi, Delhi Ramachandra Guha, Freelance Writer, anthropologist and historian, Bangalore Rashmi Paliwal, Eklavya, Hoshangabad, Madhya Pradesh Sanjay Sharma, Associate Professor, Zakir Husain College, University of Delhi, New Delhi Satwinder Kaur, PGT, History, Kendriya Vidyalaya No. 1, Jalandhar, Punjab M. Siraj Anwar, Professor, PPMED, NCERT, New Delhi Smita Sahay Bhattacharya, PGT, History, Blue Bells School, New Delhi Tanika Sarkar, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi Tapati Guha-Thakurta, Professor, Centre for Studies in Social Sciences, Kolkata Reetu Singh, Assistant Professor, History, Department of Education in Social Sciences, NCERT, New Delhi The book is the product of a collective effort of a large number of historians, educationists and teachers. The chapters were written and revised over several months. They evolved through discussions in workshops, and exchanges of ideas through emails, with each member contributing their skill in many different ways. All of us learnt a lot in the process.
 
-<!-- page 21 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ### TEXTBOOK DEVELOPMENT COMMITTEE
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE CHIEF ADVISOR MEMBERS MEMBER-COORDINATOR
 
-<!-- page 21 (pdf 6) -->
+<!-- pdf page 6 -->
 
 ### ACKNOWLEDGEMENTS
 
@@ -96,7 +96,7 @@ You may access the following chapters through QR Code.
 
 These chapters were printed in the previous textbooks, the same are being provided in digital mode for extended learning.
 
-<!-- page 21 (pdf 7) -->
+<!-- pdf page 7 -->
 
 ### CREDITS
 
@@ -144,7 +144,7 @@ Tiziana and Gianni Baldizzone, Hidden Tribes of India
 
 (Ch. 4, Figs. 1, 2, 5, 6, 7)
 
-<!-- page 21 (pdf 8) -->
+<!-- pdf page 8 -->
 
 ### CREDITS
 
@@ -188,7 +188,7 @@ Verrier Elwin, The Agaria (Ch. 6, Fig. 13)
 
 Textiles for Temple Trade and Dowry, Collection Sanskriti Museum of Everyday Art (Ch. 6, Figs. 2, 6)
 
-<!-- page 21 (pdf 9) -->
+<!-- pdf page 9 -->
 
 ## Contents
 
@@ -214,6 +214,6 @@ Foreword iii
 
 ## 10. India After Independence 128
 
-<!-- page 21 (pdf 10) -->
+<!-- pdf page 10 -->
 
 The British Resident at the court of Poona concluding a treaty, 1790

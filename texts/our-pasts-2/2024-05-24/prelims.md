@@ -4,7 +4,7 @@ edition: "2024-05-24"
 source_pdf: "pdfs/our-pasts-2/2024-05-24/prelims.pdf"
 ---
 
-<!-- page 25 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # Social Science
 
@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/prelims.pdf"
 
 cla Siar PAA SR TART fap sry f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
-<!-- page 25 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [caption] PD 600T SU
 
@@ -50,7 +50,7 @@ cla Siar PAA SR TART fap sry f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] Cartographic Designs Agency
 
-<!-- page 25 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ## foreword
 
@@ -60,13 +60,13 @@ The success of this effort depends on the steps that school principals and teach
 
 These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavor by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
 
-<!-- page 25 (pdf 4) -->
+<!-- pdf page 4 -->
 
 NCERT appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the Advisory Group on Social Science, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Neeladri Bhattacharya for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G. P. Deshpande, for their valuable time and contribution. As an organisation committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
 New Delhi Director 20 November 2006 National Council of Educational Research and Training In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises upon reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise.
 
-<!-- page 25 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ### Rationalisation of Content
 
@@ -86,9 +86,9 @@ Contents of the textbooks have been rationalised in view of the following
 
 This present edition, is a reformatted version after carrying out the changes given above.
 
-<!-- page 25 (pdf 6) -->
+<!-- pdf page 6 -->
 
-<!-- page 25 (pdf 7) -->
+<!-- pdf page 7 -->
 
 ### textbook development committee
 
@@ -112,7 +112,7 @@ This present edition, is a reformatted version after carrying out the changes gi
 
 > [table] Kesavan Veluthat, Professor, Department of History, Mangalore University, Mangalore, Karnataka Kumkum Roy, Associate Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Mily Roy, Sr. Lecturer, DESS, NCERT, New Delhi Nayana Das Gupta, Lecturer in History, Lady Sri Ram College, Delhi University, Delhi Rajan Gurukkal, Professor, Department of History, Mahatma Gandhi University, Kottayam, Kerala Rajat Dutta, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi Sreela Mitra, PGT, History, Vasant Valley School, Vasant Kunj, New Delhi Suchi Bajaj, PGT, History, Springdales School, Pusa Road, New Delhi Vijaya Ramaswamy, Professor, Centre for Historical Studies, School of Social Sciences, Jawaharlal Nehru University, New Delhi
 
-<!-- page 25 (pdf 8) -->
+<!-- pdf page 8 -->
 
 ### acknowledgements
 
@@ -124,7 +124,7 @@ Shyama Warner’s copyediting and proofreading skills improved the book dramatic
 
 The Council acknowledges the valuable inputs for analysing syllabi, textbooks and the content, proposed to be rationalised for this edition by Umesh Ashok Kadam, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi; Sunil Kumar Singh, PGT History, Kendriya Vidyalaya, AFS, Tughlakabad, New Delhi; Krishna Ranjan, PGT History, Kendriya Vidyalaya, Vikaspuri; Archana Verma, Associate Professor, Department of History, Hindu College, University of Delhi, Delhi; Shruti Mishra, PGT History and HoD, History, Delhi Public School, R.K. Puram, New Delhi; Gouri Srivastava, Professor and Head; Pratyusa K. Mandal, Professor; Seema S. Ojha, Professor, DESS; Mily Roy Anand, Professor, DGS and Sharad Kumar Pandey, Associate Professor, DCS&D, NCERT.
 
-<!-- page 25 (pdf 9) -->
+<!-- pdf page 9 -->
 
 ### photo and map credits
 
@@ -134,7 +134,7 @@ PHOTO CREDITS
 
 ----. Delhi, Agra, Jaipur: the Golden Triangle, (Ch.4, fig. 1); Asher, Catherine and Cynthia Talbot. India Before Europe, (Ch. 8, fig. 8); Atil, Esin. The Brush of the Masters: Drawings from Iran and India, (Back Cover); Bandyopadhyay, Amiyakumar. Bankurar Mandir, (Ch. 7, figs. 11, 12, 13, 14); Bayly, C. A. An Illustrated History of Modern India,1600-1947, (Ch. 8, fig. 2); Beach, Milo C. and Ebba Koch. King of the World, the Padshahnama, (Ch. 4, figs. 2, 3, 4, 5); Centre for Cultural Resource and Training, New Delhi, (Ch. 2, fig. 4; Ch. 7, figs. 3, 5); Das, Anath. Jat Vaishnava Katha, (Ch. 6, fig. 6); Eaton, Richard. Sufis of Bijapur, (Ch. 6, fig. 6); Edwardes, Michael. Indian Temples and Palaces, (Ch. 2, fig. 1); Gascoigne, Bamber. The Great Mughals, (Ch. 4, fig. 6); Goswamy, B. N. The Word is Sacred, Sacred is the Word, (Ch. 2, fig. 2; Ch. 6, fig. 1; Ch. 7, fig. 2); Hooja, Rima. A History of Rajasthan, (Ch. 8, fig. 5); Kothari, Sunil. Kathak: Indian Classical Dance Art (Ch. 7, fig. 6); Lafont, Jean-Marie. Maharaja Ranjit Singh: Lord of the Five Rivers, (Ch. 8, fig. 6); Masselos, Jim, Jackie Menzies, Pratapaditya Pal. Dancing to the Flute: Music and Dance in Indian Art, (Ch. 5, fig. 1; Ch. 6, figs. 4, 8, 9; Ch. 7, figs. 8, 9); Michell, George. Architecture and Art of Southern India, (Ch. 6, fig. 2); Pal, Pratapaditya. Court Paintings of India, (Ch. 5, fig. 2; Ch. 6, fig. 3; Ch. 7, figs. 4, 7, 8); Safadi, Y.H. Islamic Calligraphy, (Ch.1, fig. 2); Singh, Roopinder. Guru Nanak, his Life and Teachings, (Ch. 6, fig. 11); Stronge, Susan. The Arts of the Sikh Kingdoms, (Ch. 6, fig. 10, pg. xii);
 
-<!-- page 25 (pdf 10) -->
+<!-- pdf page 10 -->
 
 Thackston, Wheeler M. translated, edited and annotated, Jahangirnama, Memoirs of Jahangir, Emperor of India, (Ch. 4, fig. 7); Welch, Stuart Cary. India, Art and Culture: 1300-1900, (Ch. 5, figs. 4, 6, 7; Ch. 6, fig. 5); Welch, Stuart Cary. Imperial Mughal Painting, (Ch. 1, fig. 1);
 
@@ -146,7 +146,7 @@ Maps from the following books and atlases were edited and used:
 
 Asher, Catherine and Cynthia Talbot. India Before Europe, (Ch. 4, map 1); Bayly, C. A. Indian Society and the Making of the British Empire, (Ch. 8, map 1, 2); Frykenberg, R.E. ed. Delhi through the Ages, (Ch. 3, map 1); Habib, Irfan. An Atlas of the Mughal Empire, (Ch.5, map 2); Schwartzberg, J.E. A Historical Atlas of South Asia, (Ch. 1, map 3).
 
-<!-- page 25 (pdf 11) -->
+<!-- pdf page 11 -->
 
 ## Contents
 
@@ -168,7 +168,7 @@ Foreword iii Rationalisation of Content in the Textbooks v In this book xii
 
 ### 8. Eighteenth-Century Political Formations 94
 
-<!-- page 25 (pdf 12) -->
+<!-- pdf page 12 -->
 
 ## I n t h i s b o o k
 
@@ -190,7 +190,7 @@ Definition Box Some chapters contain definitions.
 
 You will also find maps. Look at these and try to locate the places mentioned in the lessons.
 
-<!-- page 25 (pdf 13) -->
+<!-- pdf page 13 -->
 
 ### Imagine
 
@@ -204,4 +204,4 @@ You will also find different kinds of activities listed at the end of each chapt
 
 There is a lot to read, see, think about and do in this book. We hope you will enjoy it.
 
-<!-- page 25 (pdf 14) -->
+<!-- pdf page 14 -->

@@ -4,7 +4,7 @@ edition: "2021-08-14"
 source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 ---
 
-<!-- page 22 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # Social Science
 
@@ -14,7 +14,7 @@ source_pdf: "pdfs/social-political-life-3/2021-08-14/prelims.pdf"
 
 > [caption] TRS Rae fap sq sire fet stra 3rfar fstatoT OF EDUCATIONAL RESEARCH AND TRAI VATIONAL COUNCI
 
-<!-- page 22 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [table] ISBN 978-81-7450-825-6 0860 – SOCIAL AND POLITICAL LIFE - III Textbook for Class VIII
 
@@ -58,7 +58,7 @@ Published at the Publication Division by the Secretary, National Council of Educ
 
 > [caption] CMAC Dipankar Bhattacharya
 
-<!-- page 22 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ## Foreword
 
@@ -72,7 +72,7 @@ The National Council of Educational Research and Training (NCERT) appreciates th
 
 Director New Delhi National Council of Educational 30 November 2007 Research and Training
 
-<!-- page 22 (pdf 4) -->
+<!-- pdf page 4 -->
 
 ## Textbook Development Committee
 
@@ -88,7 +88,7 @@ Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkat
 
 > [caption] MEMBER-COORDINATOR
 
-<!-- page 22 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ## Acknowledgements
 
@@ -108,7 +108,7 @@ We offer thanks to Professor Savtia Sinha, Head, DESSH for her support. We grate
 
 The production of the book benefited greatly from the efforts of the Publications Department. Special thanks are due to Vandana Singh, Consultant Editor, NCERT for going through the book. Our special thanks to Kanwar Singh, Copy Editor, Uttam Kumar and Neelam Walecha, DTP Operators.
 
-<!-- page 22 (pdf 6) -->
+<!-- pdf page 6 -->
 
 ## Introductory Note for Teachers
 
@@ -120,7 +120,7 @@ In hindsight, it appears we took up quite an exciting, though daunting, task thr
 
 In addition, some of us had been part of a research project that showed that students were often confused between processes, institutions and individuals in government. For example, they were often not able to distinguish between the legislature and the executive. As teachers, you probably often reflect upon such limitations of civics textbooks. We were also motivated by the fact that contemporary social and political issues did not have any space in the middle-school curriculum. Though civics had tried to raise these through a focus on the government, a new subject area was an opportunity to enlarge this focus and make it more exciting to teach without losing sight of the government’s role.
 
-<!-- page 22 (pdf 7) -->
+<!-- pdf page 7 -->
 
 We were confronted by three different types of questions. The first of these was: how can we get students to understand contemporary social and political concerns? The first question brought forth the following tentative ideas: one, we would need content that was grounded in the lives of students; two, students needed to understand that ‘democracy’ is not limited to the functioning of government institutions but depends primarily on the role played by ordinary persons; and three, change in content would simultaneously require a different pedagogic style.
 
@@ -132,7 +132,7 @@ Quite naturally for all of these ideas to materialise within the space of the cl
 
 Paulo Freire, the Brazilian educator (who characterised rote learning as akin to depositing money in a bank) wrote that teachers should attempt to, “live part of their dreams within their educational space (i.e. in schools)”. And, we hoped that the social and political life classroom would serve quite easily as this space for teachers because the topics discussed in the textbooks were deeply connected to people’s struggles for justice, equality and dignity. We hoped that the teachers’ strong identification with the topics discussed would allow them to guide students to critically pose questions on contemporary issues.
 
-<!-- page 22 (pdf 8) -->
+<!-- pdf page 8 -->
 
 We also realised that this critical lens we wanted students to develop would need to be linked to a larger vision. This was needed for them to make a more informed analysis as well as not develop a cynicism when confronted with stark realities of social and political life in India. We wanted them to be critical and positive at the same time. And, although this might sound contradictory to you, we were quite sure that we did not want one without the other. For students to be confronted by only unequal realities without having any idea about how matters could be better, would have been frustrating. And on the flip side, to have them to learn about India only as an ideal democracy, in order that they remain positive, would have been misleading, given that their everyday realities are constantly telling them a different story.
 
@@ -142,7 +142,7 @@ As we developed this last book, we were also aware that in the future changes wi
 
 The task of establishing a new subject area through a textbook is not easy. Social and Political Life because of its focus on the contemporary will also be controversial at times. We can’t run away from this. While you would allow a variety of opinions to be expressed, this would be based on a large amount of trust in your sense of justice and dignity for all. If you believe that schools can help build in the child a sense of a just society, then Social and Political Life provides you a great opportunity to do this. It is our keen hope that you take up our offer.
 
-<!-- page 22 (pdf 9) -->
+<!-- pdf page 9 -->
 
 What are the issues included in the Class VIII book?
 
@@ -162,7 +162,7 @@ Glossary: The glossary words are highlighted in the chapters. The glossary is no
 
 ## GLOSSARY
 
-<!-- page 22 (pdf 10) -->
+<!-- pdf page 10 -->
 
 Teacher’s Page: Again like we did last year, each of the units begins with a separate Teacher’s Page.This highlights the main conceptual points that the chapter raises with the teacher in order to facilitate the teaching of these in the classroom space.
 
@@ -170,7 +170,7 @@ In-text and End-text Questions: As with the books in the two previous years, thi
 
 Photo Essay: Last year’s book had a photo essay on the women’s movement. This year, we have a photo essay on the Bhopal gas tragedy. A photo essay is to enable a student to learn about a particular situation through reading visuals. Each of the photos have been chosen with great care to mark particular moments in the history of the issue being highlighted. Students should be encouraged to read and discuss the photo essays and not gloss over them.
 
-<!-- page 22 (pdf 11) -->
+<!-- pdf page 11 -->
 
 ## Contents
 

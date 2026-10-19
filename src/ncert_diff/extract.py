@@ -26,9 +26,14 @@ from . import clean
 HORIZONTAL = (1.0, 0.0)
 CHAPTER_NUMBER = re.compile(r"^(\d{1,2})\b|\b(\d{1,2})$")
 SESSION_LABEL = re.compile(r"(Reprint|Rationalised)?\s*20\d\d-\d\d")  # "2018-19" print-run footers
+# Running titles set at body size: "32 Social and Political Life", "Chapter 3: How the State Government Works 31".
+RUNNING_TITLE = re.compile(r"^(?:\d{1,3}\s+[A-Z][^.?!]{3,55}|[A-Z][^.?!]{3,55}\s\d{1,3}|Chapter \d{1,2}: [A-Z][^.?!]{3,55})$")
 UNREADABLE = "[unreadable]"  # text set in a font without a Unicode map comes out as blanks
 # Headings that label a unit or chapter rather than name it. Not titles, not evidence of a chapter opener.
 LABEL_HEADING = re.compile(r"^(unit\s+\w+|chapter\s*\d*|contents|notes|teacher[’']s note)[\s:.-]*$", re.IGNORECASE)
+DROPCAP_LINE = re.compile(r"^[A-Z] [a-z]")  # a drop cap glued to its line ("Y crafts and production") is not a heading
+TEACHERS_NOTE = re.compile(r"^teacher[’']s note", re.IGNORECASE)
+UNIT_WORD = re.compile(r"^(unit|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)  # unit openers set one word per line
 ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE)
 CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)", re.IGNORECASE)
@@ -321,9 +326,13 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         delta = body_size - b.size  # positive when smaller than body text
         # Footers are short and set small. An exercise question that happens to end the
         # page is neither, even though it sits in the same band.
-        if b.y0 > FOOTER_BAND * height and len(b.text) <= 60 and (delta >= 1.4 or len(b.text) <= 4 or SESSION_LABEL.fullmatch(b.text)):
+        # "2022-23" is a print-run label, not page 23. Some files glue it to the running title.
+        bare = SESSION_LABEL.sub("", b.text).strip()
+        running = RUNNING_TITLE.fullmatch(bare) and len(bare.split()) >= 3
+        short = len(b.text) <= 60 or (running and len(b.text) <= 80)  # a glued "Rationalised 2023-24" makes a running title longer
+        if b.y0 > FOOTER_BAND * height and short and (delta >= 1.4 or len(b.text) <= 4 or SESSION_LABEL.fullmatch(b.text) or running):
             b.role = "footer"
-            m = re.match(r"^(\d{1,3})\b", b.text) or re.search(r"\b(\d{1,3})$", b.text)
+            m = re.match(r"^(\d{1,3})\b", bare) or re.search(r"\b(\d{1,3})$", bare)
             if m and printed is None:
                 printed = int(m.group(1))
             continue
@@ -508,21 +517,30 @@ def chapter_title(pages: list[Page]) -> tuple[str | None, str | None]:
     """(chapter number, title) from the oversized number and the heading beside it."""
     if not pages:
         return None, None
-    page = pages[title_page_position(pages)]
+    pos = title_page_position(pages)
     number: str | None = None
     title: str | None = None
-    for b in page.blocks:
+    for b in pages[pos].blocks:
         if b.role == "chapter-number":
             number, title = split_number_and_title(b.text)
             break
     if title is None:
-        heads = sorted((b for b in page.blocks if b.role == "h2" and not LABEL_HEADING.match(b.text.strip())), key=lambda b: b.y0)
-        if heads:
-            title = heads[0].text
-            m = re.match(r"^(\d{1,2})\s+(.*)$", title)
-            if m:
-                number = number or m.group(1)
-                title = m.group(2)
+        # Without a chapter number the title is the biggest heading on the first page that
+        # has one, skipping a unit opener ("UNIT" / "ONE") bound in before the chapter.
+        for page in pages[pos:pos + 4]:
+            if any(TEACHERS_NOTE.match(b.text) for b in page.blocks):
+                continue  # the unit's teacher's-note page carries the unit title, not the chapter's
+            heads = sorted(
+                (b for b in page.blocks if b.role == "h2" and not LABEL_HEADING.match(b.text.strip()) and not UNIT_WORD.match(b.text.strip()) and not DROPCAP_LINE.match(b.text)),
+                key=lambda b: (-round(b.size), b.y0),
+            )
+            if heads:
+                title = heads[0].text
+                m = re.match(r"^(\d{1,2})\s+(.*)$", title)
+                if m:
+                    number = number or m.group(1)
+                    title = m.group(2)
+                break
     if title:
         title = re.sub(r"\s*\(\s*", " (", title)
         title = re.sub(r"\s*\)", ")", title)

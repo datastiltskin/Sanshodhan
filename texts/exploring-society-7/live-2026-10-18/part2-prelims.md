@@ -5,7 +5,7 @@ part: 2
 source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 ---
 
-<!-- page 27 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # Exploring Society:
 
@@ -17,7 +17,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-prelims.pdf"
 
 > [caption] sta 3far fap sq sine afer fstatorT IONAL COUNCI EDUCAI IONAL RESEARCH AND UR Rave
 
-<!-- page 27 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [caption] First Edition
 
@@ -51,7 +51,7 @@ Published at the Publication Division by the Secretary, National Council of Educ
 
 > [caption] Arkaprovo Das
 
-<!-- page 27 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ## Foreword
 
@@ -63,7 +63,7 @@ Such a transformative learning culture requires certain essential conditions. On
 
 The National Council of Educational Research and Training, on its part, is committed to providing students with such high-quality textbooks. Various Curricular Area Groups, which have been constituted for this purpose, comprising notable subject-experts, pedagogues, and practising teachers as their members, have made all possible efforts to develop such textbooks. The Social Science textbook for Grade 7 — Exploring Society: India and Beyond Part 2 — has been prepared for the second half of Grade 7. It carries forward the themes and approach of Part 1 of Grade 7, and makes strong linkages with Part 1 of the Grade 8 Social Science Textbook. The focus is on core concepts and major developments. It endeavours to keep the students engaged in learning through illustrations, maps and pictures laid out in an attractive design. There are abundant reflective exercises and activities embedded in the text to support exploration, discovery and meaning-making. The thematic approach with a multidisciplinary lens continues, helping students to understand ideas and concepts holistically. The text integrates the values we desire our students to develop, is rooted in the Indian cultural context and introduces global perspectives in an age-appropriate manner. For all practical purposes, it has, to my mind, succeeded in its curricular goals: first, to foster natural curiosity among students through a proper selection of content, and second, through a pedagogical approach in line with the recommendations of NCF-SE 2023.
 
-<!-- page 27 (pdf 4) -->
+<!-- pdf page 4 -->
 
 However, in addition to this textbook, students at this stage should also be encouraged to explore various other learning resources. School libraries play a crucial role in making such resources available. Besides, the role of parents and teachers will also be invaluable in guiding and encouraging students to do so.
 
@@ -77,7 +77,7 @@ Director National Council of Educational
 
 Research and Training
 
-<!-- page 27 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ## Letter to the Student
 
@@ -95,7 +95,7 @@ The quotation or quotations on the first pages of chapters. Some are straightfor
 
 No evaluation should bear on these four aspects.
 
-<!-- page 27 (pdf 6) -->
+<!-- pdf page 6 -->
 
 ## A note on the pronunciation of Sanskrit words
 
@@ -113,7 +113,7 @@ Finally, ṛ is the Devanagari letter ऋ. We choose to write it as ṛi, althou
 
 For those who wish to know the precise correspondence between the Devanagari alphabet and the Roman script in our system, the tables of short and long vowels are as follows:
 
-<!-- page 27 (pdf 7) -->
+<!-- pdf page 7 -->
 
 Devanagari Roman script अ a इ i उ u ऋ ṛi ए e ओ o Devanagari Roman script आ ā ई ī ऊ ū ॠ ṝi ऐ ai औ au And the table of consonants:
 
@@ -121,7 +121,7 @@ Guttural क ka ख kha ग ga घ gha ङ ṅa ह ha
 
 Palatal च cha छ chha ज ja झ jha ञ ña य ya Cerebral ट ṭa ठ ṭha ड ḍa ढ ḍha ण ṇa र ra Dental त ta थ tha द da ध dha न na ल la Labial प pa फ pha ब ba भ bha म ma व va Sibilants श śha ष ṣha स sa
 
-<!-- page 27 (pdf 8) -->
+<!-- pdf page 8 -->
 
 ## National Syllabus and Teaching Learning
 
@@ -165,7 +165,7 @@ Palatal च cha छ chha ज ja झ jha ञ ña य ya Cerebral ट ṭa ठ ṭ
 
 19. Ranjana Arora, Professor and Head, Department of Curriculum Studies and Development, NCERT, New Delhi, (Member-Secretary)
 
-<!-- page 27 (pdf 9) -->
+<!-- pdf page 9 -->
 
 ## Textbook Development Team
 
@@ -173,7 +173,7 @@ CAG Social Science Chairperson
 
 Michel Danino, Guest Professor, IIT Gandhinagar CAG Economics Chairperson Sanjeev Sanyal, Member, EAC-PM Contributors Aasheerwad Dwivedi, Assistant Professor, Faculty of Management Studies, University of Delhi Arkaprovo Das, Senior Research Fellow, Department of Geography, Delhi School of Economics, University of Delhi Bhawna Paliwal, Educator and Senior Consultant, Programme Office, NSTC Divya Indra Chatterjee, Chartered Accountant, Senior Consultant, Programme Office, NSTC Diya Devare, Assistant Professor, Symbiosis College of Arts and Commerce, Pune Johnson Odakkal, Commodore, Indian Navy (Retd.), Former Director, Maritime History Society & Faculty at Aditya Birla World Academy Kashmira Juwatkar, Research Assistant, Johnson Odakkal Initiatives M. Pramod Kumar, Assistant Professor, Amrita Darshanam International Centre for Cultural and Spiritual Studies, Amrita Vishwa Vidyapeetham, Coimbatore Nabajyoti Deka, Assistant Professor, Faculty of Management Studies, University of Delhi Nikhil Bellarykar, Historian and Translator Sandeepa Madan, Educator, Shiv Nadar School, Gurugram Shivakumar Jolad, Associate Professor, Public Policy, School of Liberal Education, FLAME University, Pune Srishti Chauhan, Researcher, Economic Policy Suparna Diwakar, Educator and Development Sector Professional, Chief Consultant, Programme Office, NSTC Supriya Mishra, Operations Associate, Johnson Odakkal Initiatives Member Coordinators M.V. Srinivasan, Professor of Economics, Department of Education in Social Sciences, NCERT; CAG (Economics)
 
-<!-- page 27 (pdf 10) -->
+<!-- pdf page 10 -->
 
 Seema Shukla Ojha, Professor of History, Department of Education in Social Sciences, NCERT; CAG (Social Science)
 
@@ -187,9 +187,9 @@ Ganti S. Murthy, National Coordinator, IKS Division, Ministry of Education Gouri
 
 P.K. Mandal, Professor of History, RIE, Mysuru Prachi Lahiri, History Teacher, National Public School, Bengaluru Pratima Kumari, Professor of Economics, DESS, NCERT Radha Narayan, Researcher and Author, History Textbooks, Chinmaya Mission, Chennai Rashmi, Associate Professor of Commerce (Business Studies), DESS, NCERT Ruchika Singh, Assistant Professor, Department of Geography, University of Allahabad; Coordinator, IKS Division, Ministry of Education Sainath Kabade, Assistant Professor of History, DESS, NCERT Sanjiv Ranjan, Associate Professor of Political Science, DESS, NCERT Savita Sagar, Assistant Professor of Political Science, DESS, NCERT Shankar Sharan, Professor of Political Science, DESS, NCERT Shipra Vaidya, Professor of Commerce, DESS, NCERT Subhash Singh, Assistant Professor of Political Science, DESS, NCERT Sukhvinder, Associate Professor of Geography, DCS&D Suman Gautam, Geography Educator, The Shri Ram School, Moulsari, Haryana Surendra C. Thakurdesai, Professor and Head, Department of Geography, Department of Rural Development, Gogate Joglekar College, Ratnagiri Tannu Malik, Professor of Geography, DESS, NCERT Vanthangpui Khobung, Assistant Professor of Political Science, DESS, NCERT V. Selvakumar, Associate Professor and Head, Department Maritime History and Marine Archaeology, Tamil University Vinita Rikhi, Director (Indian), La Mondiale Group, La Mondiale Academia
 
-<!-- page 27 (pdf 11) -->
+<!-- pdf page 11 -->
 
-<!-- page 27 (pdf 12) -->
+<!-- pdf page 12 -->
 
 ## CONSTITUTION OF INDIA
 
@@ -209,7 +209,7 @@ Cultural and Educational Rights • for protection of interests of minorities to
 
 Right to Constitutional Remedies • by issuance of directions or orders or writs by the Supreme Court and High Courts for enforcement of these Fundamental Rights.
 
-<!-- page 27 (pdf 13) -->
+<!-- pdf page 13 -->
 
 ## Acknowledgements
 
@@ -221,7 +221,7 @@ We are also much obliged to Shweta Rao of the Banyan Tree for her outstanding co
 
 The illustrators — Albert Shrivastava, Attri Chetan, Nidhi Kashyap, Prachi Sahasrabudhe, and Prashant Singh — deserve commendation for their innovative designs, and sketches, which have significantly enriched the visual quality of the textbook. The contribution made by the cartographer, Arkaprovo Das, and for patiently revising maps multiple times, is much appreciated.
 
-<!-- page 27 (pdf 14) -->
+<!-- pdf page 14 -->
 
 > [caption] PREAMBLE
 
@@ -229,7 +229,7 @@ The illustrators — Albert Shrivastava, Attri Chetan, Nidhi Kashyap, Prachi Sah
 
 > [caption] 1. Subs. by the Constitution (Forty-second Amendment) Act, 1
 
-<!-- page 27 (pdf 15) -->
+<!-- pdf page 15 -->
 
 ## Contents
 
@@ -239,6 +239,6 @@ Letter to the Student v
 
 Theme A — India and the World: Land and the People Chapter 1 The Story of Indian Farming 1 Chapter 2 India and Her Neighbours 29 Theme B — Tapestry of the Past Chapter 3 Empires and Kingdoms: 6th to 10th Centuries 61 Chapter 4 Turning Tides: 11th and 12th Centuries 97 Theme C — Our Cultural Heritage and Knowledge Traditions Chapter 5 India, a Home to Many 125 Theme D — Governance and Democracy Chapter 6 The State, the Government, and You 143 Theme E — Economic Life Around Us Chapter 7 Infrastructure: Engine of India’s Development 169 Chapter 8 Banks and the Magic of Finance 193 Maps of India 214 Glossary 216 Images and maps from external sources 218 The whole world is family
 
-<!-- page 27 (pdf 16) -->
+<!-- pdf page 16 -->
 
 ### Vasudhaiva Kutumbakam:

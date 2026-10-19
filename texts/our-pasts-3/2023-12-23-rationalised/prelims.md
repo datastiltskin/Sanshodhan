@@ -4,7 +4,7 @@ edition: "2023-12-23-rationalised"
 source_pdf: "pdfs/our-pasts-3/2023-12-23/prelims.pdf"
 ---
 
-<!-- page 24 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # SOCIAL SCIENCE
 
@@ -14,7 +14,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/prelims.pdf"
 
 ## for Class VIII
 
-<!-- page 24 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [table] ISBN 978-93-5292-113-3 0864 – Our Pasts – III Textbook in History for Class VIII
 
@@ -56,7 +56,7 @@ Published at the Publication Division by the Secretary, National Council of Educ
 
 > [caption] Cartography Cartographic Designs Agency
 
-<!-- page 24 (pdf 3) -->
+<!-- pdf page 3 -->
 
 ### foreword
 
@@ -68,11 +68,11 @@ These aims imply considerable change in school routines and mode of functioning.
 
 NCERT appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the Advisory Committee for Textbook in Social Science, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Neeladri Bhattacharya for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G. P. Deshpande, for their valuable time and contribution. As an organisation committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
-<!-- page 24 (pdf 4) -->
+<!-- pdf page 4 -->
 
 Director New Delhi  National Council of Educational 30 November 2007 Research and Training In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise.
 
-<!-- page 24 (pdf 5) -->
+<!-- pdf page 5 -->
 
 ### Rationalisation of Content
 
@@ -90,9 +90,9 @@ Contents of the textbooks have been rationalised in view of the following:
 
 • Content, which is irrelevant in the present context This present edition, is a reformatted version after carrying out the changes given above.
 
-<!-- page 24 (pdf 6) -->
+<!-- pdf page 6 -->
 
-<!-- page 24 (pdf 7) -->
+<!-- pdf page 7 -->
 
 ### textbook development committee
 
@@ -106,7 +106,7 @@ Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkat
 
 > [caption] Member-coordinator
 
-<!-- page 24 (pdf 8) -->
+<!-- pdf page 8 -->
 
 ### acknowledgements
 
@@ -126,7 +126,7 @@ Colonialism and the City
 
 The Changing World of Visual Arts. These chapters were printed in the previous textbooks, the same are being provided in digital mode for extended learning.
 
-<!-- page 24 (pdf 9) -->
+<!-- pdf page 9 -->
 
 ### credits
 
@@ -178,7 +178,7 @@ R.H. Phillimore, Historical Records of the Survey of India (Ch. 1, Fig. 6)
 
 Robert Montgomery Martin, The Indian Empire (Ch. 1, Fig. 7; Ch. 2, Fig. 1; Ch. 5, Figs. 7, 9)
 
-<!-- page 24 (pdf 10) -->
+<!-- pdf page 10 -->
 
 Rudrangshu Mukherji and Pramod Kapoor, Dateline –1857: Revolt Against the Raj (Ch. 5, Figs. 2, 7)
 
@@ -190,7 +190,7 @@ Tiziana and Gianni Baldizzone, Hidden Tribes of India
 
 (Ch. 4, Figs. 1, 2, 5, 6, 7)
 
-<!-- page 24 (pdf 11) -->
+<!-- pdf page 11 -->
 
 ## Contents
 
@@ -214,6 +214,6 @@ Tiziana and Gianni Baldizzone, Hidden Tribes of India
 
 ## 8. The Making of the National Movement: 1870s-–1947 93
 
-<!-- page 24 (pdf 12) -->
+<!-- pdf page 12 -->
 
 The British Resident at the court of Poona concluding a treaty, 1790

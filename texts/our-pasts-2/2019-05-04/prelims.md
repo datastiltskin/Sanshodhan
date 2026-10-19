@@ -4,7 +4,7 @@ edition: "2019-05-04"
 source_pdf: "pdfs/our-pasts-2/2019-05-04/prelims.pdf"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 20 (pdf 1) -->
 
 # SOCIAL SCIENCE
 
@@ -12,9 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/prelims.pdf"
 
 ## for Class VII
 
-<!-- pdf page 2 -->
+<!-- page 20 (pdf 2) -->
 
-<!-- pdf page 3 -->
+<!-- page 20 (pdf 3) -->
 
 ## SOCIAL SCIENCE
 
@@ -26,7 +26,7 @@ cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] Raq
 
-<!-- pdf page 4 -->
+<!-- page 20 (pdf 4) -->
 
 > [caption] ISBN 81-7450-724-8
 
@@ -48,7 +48,7 @@ cla erfar FAA SR TERT fap sty f1aToT WATIONAL COUNCI OF EDUCATIONAL RESEARCH AND
 
 > [caption] Head, Publication : M. Siraj Anwar Division Chief Editor : Shveta Uppal Chief Business : Gautam Ganguly Manager Chief Production : Arun Chitkara Officer Assistant Editor : Shashi Chadha Production Assistant : Prakash Veer Singh Printed on 80 GSM paper with NCERT watermark Cover and Layout Published at the Publication Division by the Secretary, National Council of Educational Research and Training, Sri Aurobindo Marg, New Delhi 110 016 and printed at Pelican Press, C-118, Mayapuri Industrial Area, Phase II, New Delhi - 110 064 Arrt Creations Cartography Cartographic Designs Agency
 
-<!-- pdf page 5 -->
+<!-- page 20 (pdf 5) -->
 
 ## FOREWORD
 
@@ -58,7 +58,7 @@ The success of this effort depends on the steps that school principals and teach
 
 These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavor by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
 
-<!-- pdf page 6 -->
+<!-- page 20 (pdf 6) -->
 
 NCERT appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the Advisory Group on Social Science, Professor Hari Vasudevan and the Chief Advisor for this book, Professor Neeladri Bhattacharya for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are indebted to the institutions and organisations, which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G. P. Deshpande, for their valuable time and contribution. As an organization committed to systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
@@ -66,7 +66,7 @@ Director National Council of Educational
 
 Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE ACKNOWLEDGEMENTS This book is the product of a year’s cogitation: discussions, sharing comments and rewriting that relied upon the skills and commitment of all the members of the Textbook team. There was much that we learned from each other through this period and we hope that the final product manages to communicate the excitement and joy that went into its planning and production. All the members of the team received support and encouragement from their respective institutions and families and we would like to take this opportunity to thank them.
 
-<!-- pdf page 7 -->
+<!-- page 20 (pdf 7) -->
 
 > [caption] CHAIRPERSON, ADVISORY COMMITTEE FOR TEXTBOOKS IN SOCIAL SCIENCE FOR THE SECONDARY STAGE
 
@@ -90,13 +90,13 @@ Research and Training New Delhi 20 November 2006 TEXTBOOK DEVELOPMENT COMMITTEE 
 
 > [caption] MEMBER-COORDINATOR
 
-<!-- pdf page 8 -->
+<!-- page 20 (pdf 8) -->
 
 Professors J.S. Grewal, member of the NCERT Monitoring Committee and Muzaffar Alam of the University of Chicago commented on several chapters and very generously responded to all our queries. Professor Ebba Koch of the University of Vienna was kind enough to give us permission to use many of her photographs and illustrations. We are indebted to Dr. Meera Khare of PGDAV College, Delhi University, for her promptness in responding to our questions and providing us help with information and visuals.
 
 Shyama Warner’s copyediting and proof reading skills improved the book dramatically. It is certainly a visual delight thanks to the designing and lay out expertise of Ritu Topa of Arrt Creations. Albinus Tirkey’s technical and administrative help eased the burden at the last stages of production. Satish Maurya produced the maps for the book. We are grateful to him for his patience, promptness and efficiency. Shveta Uppal oversaw the final editing and production of the volume with great care and customary professionalism.
 
-<!-- pdf page 9 -->
+<!-- page 20 (pdf 9) -->
 
 PHOTO AND MAP CREDITS
 
@@ -128,7 +128,7 @@ Tradition and Colonial Change, (Ch. 5, fig. 15); Evenson, Norman. The Indian Met
 
 Ch. 5, figs. 6, 9, 10, 11, 13, 14); Koch, Ebba. Mughal Architecture, (Ch. 5, fig. 16);
 
-<!-- pdf page 10 -->
+<!-- page 20 (pdf 10) -->
 
 Kothari, Sunil. Kathak: Indian Classical Dance Art
 
@@ -162,7 +162,7 @@ Asher, Catherine and Cynthia Talbot. India Before Europe,
 
 (Ch. 1, map 3);
 
-<!-- pdf page 11 -->
+<!-- page 20 (pdf 11) -->
 
 ## Contents
 
@@ -188,7 +188,7 @@ Foreword v In this book xii
 
 10. Eighteenth-Century Political Formations 138
 
-<!-- pdf page 12 -->
+<!-- page 20 (pdf 12) -->
 
 ## I N T H I S B O O K
 
@@ -210,7 +210,7 @@ In each chapter there are intext questions and activities that are highlighted. 
 
 You will also find maps. Look at these and try to locate the places mentioned in the lessons.
 
-<!-- pdf page 13 -->
+<!-- page 20 (pdf 13) -->
 
 All chapters end with a section titled Elsewhere. This tells you about something that was happening in another part of the world.
 
@@ -226,4 +226,4 @@ You will also find different kinds of activities listed at the end of each chapt
 
 There is a lot to read, see, think about and do in this book. We hope you will enjoy it.
 
-<!-- pdf page 14 -->
+<!-- page 20 (pdf 14) -->

@@ -5,7 +5,7 @@ part: 2
 source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-prelims.pdf"
 ---
 
-<!-- page 19 (pdf 8) -->
+<!-- pdf page 8 -->
 
 # Contents of Part
 
@@ -21,7 +21,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-prelims.pdf"
 
 6.Colonialism and the City 64 The Story of an Imperial Capital
 
-<!-- page 19 (pdf 9) -->
+<!-- pdf page 9 -->
 
 > [table] ISBN 978-81-7450-838-6
 

@@ -164,7 +164,7 @@ In-text and End-text Questions: As with the books in the two previous years, thi
 
 Photo Essay: Last year’s book had a photo essay on the women’s movement. This year, we have a photo essay on the Bhopal gas tragedy. A photo essay is to enable a student to learn about a particular situation through reading visuals. Each of the photos have been chosen with great care to mark particular moments in the history of the issue being highlighted. Students should be encouraged to read and discuss the photo essays and not gloss over them.
 
-<!-- page 21 (pdf 11) -->
+<!-- pdf page 11 -->
 
 ## Contents
 

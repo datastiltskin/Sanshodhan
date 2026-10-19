@@ -53,6 +53,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/01-how-when-and-where.md"
         },
         {
@@ -75,6 +76,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -96,6 +98,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/03-ruling-the-countryside.md"
         },
         {
@@ -118,6 +121,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -139,6 +143,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -160,6 +165,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/06-colonialism-and-the-city-the-story-of-an-imperia.md"
         },
         {
@@ -181,6 +187,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/07-weavers-iron-smelters-and-factory-owners.md"
         },
         {
@@ -203,6 +210,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/08-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -225,6 +233,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/09-women-caste-and-reform.md"
         },
         {
@@ -247,6 +256,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/10-the-changing-world-of-visual-arts.md"
         },
         {
@@ -269,6 +279,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/11-the-making-of-the-national-movement-1870s-1947.md"
         },
         {
@@ -291,6 +302,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2014-07-28/12-india-after-independence.md"
         }
       ]
@@ -367,6 +379,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/01-how-when-and-where.md"
         },
         {
@@ -389,6 +402,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -410,6 +424,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/03-ruling-the-countryside.md"
         },
         {
@@ -432,6 +447,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -453,6 +469,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -474,6 +491,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/06-colonialism-and-the-city-the-story-of-an-imperia.md"
         },
         {
@@ -495,6 +513,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/07-weavers-iron-smelters-and-factory-owners.md"
         },
         {
@@ -516,6 +535,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/08-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -538,6 +558,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/09-women-caste-and-reform.md"
         },
         {
@@ -560,6 +581,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/10-the-changing-world-of-visual-arts.md"
         },
         {
@@ -582,6 +604,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/11-the-making-of-the-national-movement-1870s-1947.md"
         },
         {
@@ -604,6 +627,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2019-03-12/12-india-after-independence.md"
         }
       ]
@@ -657,6 +681,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/01-how-when-and-where.md"
         },
         {
@@ -679,6 +704,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -700,6 +726,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/03-ruling-the-countryside.md"
         },
         {
@@ -722,6 +749,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -743,6 +771,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -764,6 +793,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/06-weavers-iron-smelters-and-factory-owners.md"
         },
         {
@@ -785,6 +815,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/07-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -807,6 +838,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/08-women-caste-and-reform.md"
         },
         {
@@ -829,6 +861,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/09-the-making-of-the-national-movement-1870s-1947.md"
         },
         {
@@ -851,6 +884,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2020-10-15/10-india-after-independence.md"
         }
       ]
@@ -905,6 +939,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/01-how-when-and-where.md"
         },
         {
@@ -927,6 +962,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -948,6 +984,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/03-ruling-the-countryside.md"
         },
         {
@@ -970,6 +1007,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -991,6 +1029,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -1012,6 +1051,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/06-weavers-iron-smelters-and-factory-owners.md"
         },
         {
@@ -1033,6 +1073,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/07-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -1055,6 +1096,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/08-women-caste-and-reform.md"
         },
         {
@@ -1077,6 +1119,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/09-the-making-of-the-national-movement-1870s-1947.md"
         },
         {
@@ -1099,6 +1142,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2021-08-14/10-india-after-independence.md"
         }
       ]
@@ -1155,6 +1199,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/01-how-when-and-where.md"
         },
         {
@@ -1177,6 +1222,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -1198,6 +1244,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/03-ruling-the-countryside.md"
         },
         {
@@ -1220,6 +1267,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -1241,6 +1289,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -1262,6 +1311,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/06-weavers-iron-smelters-and-factory-owners.md"
         },
         {
@@ -1283,6 +1333,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/07-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -1305,6 +1356,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/08-women-caste-and-reform.md"
         },
         {
@@ -1327,6 +1379,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/09-the-making-of-the-national-movement-1870s-1947.md"
         },
         {
@@ -1349,6 +1402,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2022-08-02/10-india-after-independence.md"
         }
       ]
@@ -1406,6 +1460,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/01-introduction-how-when-and-where.md"
         },
         {
@@ -1427,6 +1482,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -1447,6 +1503,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/03-ruling-the-countryside.md"
         },
         {
@@ -1467,6 +1524,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -1488,6 +1546,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/05-when-people-rebel-1857-and-after.md"
         },
         {
@@ -1509,6 +1568,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/06-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -1530,6 +1590,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/07-women-caste-and-reform.md"
         },
         {
@@ -1551,6 +1612,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2023-12-23-rationalised/08-the-making-of-the-national-movement-1870s1947.md"
         }
       ]
@@ -1610,6 +1672,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/01-introduction-how-when-and-where.md"
         },
         {
@@ -1631,6 +1694,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/02-from-trade-to-territory-the-company-establishes.md"
         },
         {
@@ -1651,6 +1715,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/03-ruling-the-countryside.md"
         },
         {
@@ -1671,6 +1736,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/04-tribals-dikus-and-the-vision-of-a-golden-age.md"
         },
         {
@@ -1692,6 +1758,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/05-when-people-revolt-1857-and-after.md"
         },
         {
@@ -1713,6 +1780,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/06-civilising-the-native-educating-the-nation.md"
         },
         {
@@ -1734,6 +1802,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/07-women-caste-and-reform.md"
         },
         {
@@ -1755,6 +1824,7 @@
           },
           "ocr": false,
           "ocr_confidence": null,
+          "ocr_pages": null,
           "file": "texts/our-pasts-3/2024-08-04/08-the-making-of-the-national-movement-1870s1947.md"
         }
       ]
