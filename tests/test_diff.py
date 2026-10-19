@@ -1,5 +1,15 @@
 from ncert_diff import textparse
-from ncert_diff.diff import Hunk, diff_stream, word_diff
+from ncert_diff.diff import (
+    STREAMS,
+    ChapterText,
+    Hunk,
+    align_chapters,
+    diff_stream,
+    match_across_chapters,
+    match_across_streams,
+    merged_markdown,
+    word_diff,
+)
 from ncert_diff.textparse import Unit, normalise_key, parse_chapter, split_sentences
 
 
@@ -95,7 +105,7 @@ def test_exercises_compare_without_regard_to_order():
     old = [Unit("exercises", "1. Why did the trader pay less?", 10, None, 1), Unit("exercises", "2. What is a weekly market?", 10, None, 2)]
     new = [Unit("exercises", "What is a weekly market?", 9, None, 1), Unit("exercises", "Why did the trader pay less?", 9, None, 2)]
     types = sorted(h.type for h in diff_stream(old, new, "exercises"))
-    assert types == ["modified", "modified"]  # renumbering only; nothing deleted or inserted
+    assert types == ["typographic", "typographic"]  # renumbering only, nothing deleted or inserted
     old = [Unit("exercises", "Explain how a chain of markets is formed.", 10, None, 1), Unit("exercises", "What purpose does it serve?", 10, None, 1)]
     new = [Unit("exercises", "What purpose does it serve?", 9, None, 1), Unit("exercises", "Explain how a chain of markets is formed.", 9, None, 1)]
     assert sorted(h.type for h in diff_stream(old, new, "exercises")) == ["equal", "equal"]
@@ -121,3 +131,124 @@ def test_resplit_pairs_one_sentence_with_its_parts():
     # The reverse direction too, and unrelated sentences stay deleted or inserted.
     hunks = diff_stream(new + [Unit("body", "Something else entirely was here.", 36, None, 3)], old, "body")
     assert sorted(h.type for h in hunks) == ["deleted", "resplit"]
+
+
+def _streams(old: list[Unit], new: list[Unit]) -> dict[str, list[Hunk]]:
+    """Per-stream hunks for two unit lists, with the cross-stream passes applied."""
+    out = {s: diff_stream([u for u in old if u.stream == s], [v for v in new if v.stream == s], s) for s in STREAMS}
+    match_across_streams(out)
+    return out
+
+
+def _loud(streams: dict[str, list[Hunk]]) -> list[tuple[str, str]]:
+    return sorted((h.type, h.old or h.new) for hs in streams.values() for h in hs if h.type in ("deleted", "inserted", "modified"))
+
+
+def test_same_words_in_another_stream_and_cut_differently_are_quiet():
+    # One printing sets the bubble as a table row, the other as two captions.
+    old = [Unit("table", "I plead not guilty. And I claim trial.", 66, None, 1)]
+    new = [Unit("caption", "I plead not guilty.", 66, None, 1), Unit("caption", "And I claim trial.", 66, None, 2)]
+    streams = _streams(old, new)
+    assert _loud(streams) == []
+    [h] = [h for hs in streams.values() for h in hs if h.type != "equal"]
+    assert (h.type, h.stream) == ("resplit", "table>caption")
+    # A box read as three notes in one printing and one table row in the other, plus a sentence
+    # whose cut moved (a fuzzy "modified" pairing that the word bags undo).
+    old = [Unit("note", s, 11, None, 1) for s in ("What is the midday meal programme?", "Can you list three benefits of the programme?", "Discuss.")]
+    new = [Unit("table", "What is the midday meal programme? Can you list three benefits of the programme? Discuss.", 11, None, 1)]
+    assert _loud(_streams(old, new)) == []
+
+
+def test_word_bags_keep_real_edits_visible():
+    # Same box, but a word changed: one modified hunk across streams, not a quiet one.
+    old = [Unit("table", "Why do you think the Dalit families were afraid of angering the powerful landlords?", 99, None, 1)]
+    new = [Unit("caption", "the Dalit families were afraid of angering the powerful landlords? Why do you think", 99, None, 1)]
+    assert [t for t, _ in _loud(_streams(old, new))] == []  # same words, reordered: quiet
+    new = [Unit("caption", "Why do you think the Dalit families were afraid of angering the rich landlords? Discuss", 99, None, 1)]
+    assert [t for t, _ in _loud(_streams(old, new))] == ["modified"]
+    # A real deletion beside a recut box stays a deletion.
+    old = [Unit("note", "Can you make up a social advertisement on equality?", 121, None, 1), Unit("note", "You can do this in small groups.", 121, None, 1),
+           Unit("body", "This paragraph was cut from the book.", 121, None, 2)]
+    new = [Unit("table", "Can you make up a social advertisement on equality? You can do this in small groups.", 121, None, 1)]
+    assert _loud(_streams(old, new)) == [("deleted", "This paragraph was cut from the book.")]
+
+
+def _chapter(number: int, markdown: str) -> ChapterText:
+    _, units = parse_chapter(markdown)
+    return ChapterText(number, None, f"Chapter {number}", f"ch{number}.md", units, markdown)
+
+
+_PARLIAMENT = "\n\n".join(f"Parliament sentence number {i} is long enough to be compared by the engine." for i in range(10))
+_LAWS = "\n\n".join(f"> [caption] Storyboard frame {i} shows how a new law on domestic violence was passed." for i in range(8))
+_CUT = "This passage on the rule of law in colonial India was removed by the rationalisation."
+
+
+def test_merged_chapter_is_compared_against_the_concatenation():
+    old3 = _chapter(3, f"# Parliament\n\n<!-- page 30 (pdf 1) -->\n\n{_PARLIAMENT}\n")
+    old4 = _chapter(4, f"---\nchapter: 4\n---\n\n# Understanding Laws\n\n<!-- page 42 (pdf 1) -->\n\n{_CUT}\n\n{_LAWS}\n")
+    other = _chapter(5, "# Judiciary\n\n" + "\n\n".join(f"Judiciary sentence number {i} has nothing in common with the rest." for i in range(10)) + "\n")
+    new3 = _chapter(3, f"# Parliament and the Making of Laws\n\n<!-- page 30 (pdf 1) -->\n\n{_PARLIAMENT}\n\n{_LAWS}\n")
+    new4 = _chapter(4, other.markdown)
+    pairs = align_chapters([old3, old4, other], [new3, new4])
+    assert [(a.number if a else None, b.number if b else None) for a, b, _ in pairs] == [(3, 3), (5, 4)]  # old 4 is not dropped
+    a, b, _ = pairs[0]
+    assert [c.number for c in a.merged] == [4]
+    hunks = _loud(_streams(a.units, b.units))
+    assert hunks == sorted([("deleted", "Parliament"), ("deleted", "Understanding Laws"), ("deleted", _CUT), ("inserted", "Parliament and the Making of Laws")])
+    # The other direction: one old chapter split into two new ones.
+    pairs = align_chapters([new3, new4], [old3, old4, other])
+    assert [(a.number if a else None, b.number if b else None) for a, b, _ in pairs] == [(3, 3), (4, 5)]
+    assert [c.number for c in pairs[0][1].merged] == [4]
+
+
+def test_merged_markdown_closes_the_first_chapters_section():
+    md = merged_markdown(["# One\n\n## Exercises\n\n1. Why?\n", "---\nchapter: 2\n---\n\n# Two\n\nBody of two.\n"])
+    _, units = parse_chapter(md)
+    assert [(u.text, u.stream) for u in units][-2:] == [("Two", "heading"), ("Body of two.", "body")]
+
+
+def test_text_filed_under_the_next_chapter_is_moved():
+    note = "Gender is a term that you may often have heard."
+    ch3 = {"teachers-note": [Hunk("inserted", "teachers-note", None, None, note, None, 42, [], None, 5)]}
+    ch4 = {"teachers-note": [Hunk("deleted", "teachers-note", None, note, None, 42, None, [], 3, None)]}
+    match_across_chapters([ch3, ch4])
+    [g], [h] = ch3["teachers-note"], ch4["teachers-note"]
+    assert (g.type, g.old_pos, g.new_pos) == ("moved", None, 5)
+    assert (h.type, h.old_pos, h.new_pos) == ("moved", 3, None)
+
+
+def test_chart_labels_are_one_caption():
+    labels = ["Rupee Goes To", "Pensions", "5 p.", "Interest Payments", "24 p."]
+    md = "# T\n\n" + "\n\n".join(f"> [caption] {t}" for t in labels) + "\n\n> [caption] Fig. 1 A short caption.\n\n> [caption] Amu: Why should slums be like that?\n"
+    _, units = parse_chapter(md)
+    assert [u.text for u in units if u.stream == "caption"] == [" / ".join(labels), "Fig. 1 A short caption.", "Amu: Why should slums be like that?"]
+    # Short captions with no figure among them are ordinary captions.
+    _, units = parse_chapter("> [caption] A\n\n> [caption] B\n\n> [caption] C\n\n> [caption] D\n")
+    assert [u.text for u in units] == ["A", "B", "C", "D"]
+
+
+def test_split_sentences_keeps_credits_and_initials_whole():
+    assert split_sentences("The Collected Works of Mahatma Gandhi, Vol. 72, Ch. 3, p. 79 and more. Next.") == ["The Collected Works of Mahatma Gandhi, Vol. 72, Ch. 3, p. 79 and more.", "Next."]
+    assert split_sentences("When Shanti was arrested, S.I. Rao kept her brother. Does it violate the D.K. Basu guidelines?") == [
+        "When Shanti was arrested, S.I. Rao kept her brother.", "Does it violate the D.K. Basu guidelines?",
+    ]
+    assert split_sentences("A painting by W. Daniell (Ch. 7, Figs. 4, 5).") == ["A painting by W. Daniell (Ch. 7, Figs. 4, 5)."]
+    assert split_sentences("He was a contemporary of Rajendra I. During his campaigns he attacked temples.") == [
+        "He was a contemporary of Rajendra I.", "During his campaigns he attacked temples.",
+    ]
+
+
+def test_blanks_and_list_labels_do_not_count():
+    assert normalise_key("(a) Archives are places where ——————— are kept.") == normalise_key("(a) Archives are places where _______________ are kept.")
+    assert normalise_key("1.that the Constitution") == normalise_key("1. That the Constitution")
+    assert normalise_key("1.5 million") == "1.5 million"
+    old = [Unit("exercises", "12. Find out whether there were any temples in your area.", 44, None, 1)]
+    new = [Unit("exercises", "11. Find out whether there were any temples in your area.", 38, None, 1)]
+    assert [h.type for h in diff_stream(old, new, "exercises")] == ["typographic"]
+    assert Unit("body", "1. Body text", 1, None, 0).key == "1. body text"  # only lists lose their labels
+
+
+def test_keywords_list_parses_into_the_glossary_stream():
+    md = "# T\n\nBody.\n\n### Keywords\n\n- iqta\n\n- garrison\n"
+    _, units = parse_chapter(md)
+    assert [(u.stream, u.text) for u in units][-2:] == [("glossary", "iqta"), ("glossary", "garrison")]

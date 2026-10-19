@@ -299,6 +299,20 @@ def block_html(b: Block, side: str | None = None) -> str:
     return f"<aside class='box box-{b.kind}'><span class=boxlabel>{label}</span> {inner}</aside>"
 
 
+def _dir_for_page(ed: Edition, primary: dict, merged: list[dict], page: int | None) -> str:
+    """The chapter folder holding a page's image. A chapter compared as the concatenation of
+    two (a rationalised chapter that absorbed another) keeps each page's image under the
+    chapter the page was printed in, found from the printed page ranges."""
+    for ref in [primary] + list(merged):
+        ch = next((x for x in ed.raw["chapters"] if x["number"] == ref["number"] and x["part"] == ref["part"]), None)
+        span = (ch or {}).get("printed_pages") or ""
+        if page is not None and "-" in span:
+            lo, hi = span.split("-", 1)
+            if lo.isdigit() and hi.isdigit() and int(lo) <= page <= int(hi):
+                return chapter_dir_name(ref["part"], ref["number"])
+    return chapter_dir_name(primary["part"], primary["number"])
+
+
 def page_checks(book_id: str, diffs: dict, editions: list) -> list[dict]:
     """Pages the diff engine flags for a human look, per edition pair, with both page images."""
     by_id = {e.id: e for e in editions}
@@ -310,13 +324,13 @@ def page_checks(book_id: str, diffs: dict, editions: list) -> list[dict]:
         for c in r["chapters"]:
             if c.get("status") != "matched" or "pages" not in c:
                 continue
-            old_dir = chapter_dir_name(c["from"]["part"], c["from"]["number"])
-            new_dir = chapter_dir_name(c["to"]["part"], c["to"]["number"])
+            old_of = lambda page, c=c: _dir_for_page(by_id[from_id], c["from"], c.get("merged_from", []), page)  # noqa: E731
+            new_of = lambda page, c=c: _dir_for_page(by_id[to_id], c["to"], c.get("merged_to", []), page)  # noqa: E731
             for p in c["pages"]["old"]:
                 if p["suspect"]:
-                    items.append({"kind": "old", "chapter": c, "old_dir": old_dir, "new_dir": new_dir, "page": p["page"], "other": p["new_page"], "score": p["score"], "sentences": p["sentences"]})
+                    items.append({"kind": "old", "chapter": c, "old_dir": old_of(p["page"]), "new_dir": new_of(p["new_page"]), "page": p["page"], "other": p["new_page"], "score": p["score"], "sentences": p["sentences"]})
             for p in c["pages"]["new"]:
-                items.append({"kind": "new", "chapter": c, "old_dir": old_dir, "new_dir": new_dir, "page": p["page"], "other": None, "score": p["score"], "sentences": p["sentences"]})
+                items.append({"kind": "new", "chapter": c, "old_dir": old_of(None), "new_dir": new_of(p["page"]), "page": p["page"], "other": None, "score": p["score"], "sentences": p["sentences"]})
         items.sort(key=lambda i: i["score"])
         out.append({"from": by_id[from_id], "to": by_id[to_id], "flagged": items, "ocr": r.get("ocr")})
     return out
@@ -384,8 +398,14 @@ def _read_doc(name: str) -> str:
 def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, log=print) -> int:
     """JSON for the compare view: every pair of editions, one file per aligned chapter, plus
     an index of pairs and chapters. Returns the number of chapter files written."""
-    from ..diff import diff_editions
+    from ..diff import diff_editions, merged_markdown
     from .compare import compare_chapter, single_side
+
+    def side_text(ref: dict, merged: list[dict]) -> str:
+        # A pair that folds in other chapters (see diff.align_chapters) is compared against
+        # their concatenation, and hunk positions count through it, so render the same text.
+        texts = [(REPO_ROOT / c["file"]).read_text() for c in [ref, *merged]]
+        return merged_markdown(texts) if merged else texts[0]
 
     data_dir = out / "data" / book_id
     data_dir.mkdir(parents=True, exist_ok=True)
@@ -404,7 +424,7 @@ def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, 
                 new_dir = chapter_dir_name(to["part"], to["number"]) if to else None
                 slug = new_dir or f"old-{old_dir}"
                 if c["status"] == "matched":
-                    payload = compare_chapter((REPO_ROOT / frm["file"]).read_text(), (REPO_ROOT / to["file"]).read_text(), c)
+                    payload = compare_chapter(side_text(frm, c.get("merged_from", [])), side_text(to, c.get("merged_to", [])), c)
                 elif c["status"] == "dropped":
                     payload = single_side((REPO_ROOT / frm["file"]).read_text(), "old")
                 else:
@@ -420,6 +440,8 @@ def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, 
                         "counts": payload["counts"],
                         "changed_pages": sum(1 for row in payload["rows"] if row["real"]),
                         "pages": len(payload["rows"]),
+                        "merged_from": [m["number"] for m in c.get("merged_from", [])],
+                        "merged_to": [m["number"] for m in c.get("merged_to", [])],
                     }
                 )
             index["pairs"][key] = {"summary": r["summary"], "chapters": chapters}

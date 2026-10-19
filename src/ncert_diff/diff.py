@@ -19,7 +19,7 @@ from pathlib import Path
 
 from . import MANIFEST_DIR, REPO_ROOT
 from .extract import UNREADABLE
-from .textparse import Unit, normalise_key, parse_chapter
+from .textparse import NO_SECTION, Unit, normalise_key, parse_chapter
 
 DIFF_DIR = REPO_ROOT / "diffs"
 STREAMS = ("heading", "body", "note", "caption", "table", "source", "exercises", "glossary", "references", "teachers-note")
@@ -33,6 +33,7 @@ PAGE_MIN_SENTENCES = 4  # a page with fewer comparable sentences is not judged
 PAGE_SUSPECT = 0.5  # below this share of surviving sentences a page needs a look
 CHAPTER_MATCH_MIN = 0.2  # share of sentences two chapters must have in common to be the same chapter
 PAIR_MIN = 0.55  # similarity for two unmatched sentences to count as one reworded sentence
+MERGE_MIN = 0.6  # share of an unpaired chapter's sentences that must reappear in a paired chapter to fold it in
 
 
 @dataclass
@@ -245,10 +246,43 @@ class ChapterText:
     title: str | None
     file: str
     units: list[Unit]
+    markdown: str = ""
+    merged: list[ChapterText] = field(default_factory=list)  # other chapters folded into this one
 
     @property
     def body_keys(self) -> set[str]:
         return {u.key for u in self.units if u.stream == "body" and len(u.key) > 30}
+
+    @property
+    def all_keys(self) -> set[str]:
+        # Every stream counts here: when chapters are merged, what moves is often the storyboard,
+        # the glossary and the exercises rather than the body text.
+        return {u.key for u in self.units if len(u.key) > 15}
+
+    def ref(self) -> dict:
+        return {"number": self.number, "part": self.part, "title": self.title, "file": self.file}
+
+
+def merged_markdown(texts: list[str]) -> str:
+    """One chapter's Markdown followed by others, as a single text that parse_chapter reads.
+
+    The later chapters lose their front matter, and a reset marker stops the first chapter's
+    last section (its exercises, say) from swallowing the next chapter's body. The site uses
+    the same text, so unit positions in the hunks agree with what it renders."""
+    out = [texts[0].rstrip("\n")]
+    for t in texts[1:]:
+        if t.startswith("---\n"):
+            t = t.split("---\n", 2)[2]
+        out.append(f"<!-- section: {NO_SECTION} -->\n\n" + t.strip("\n"))
+    return "\n\n".join(out) + "\n"
+
+
+def _combine(primary: ChapterText, extras: list[ChapterText]) -> ChapterText:
+    """The primary chapter with others appended, compared as one. It keeps the primary's
+    number, title and file, so positions inside the primary are unchanged."""
+    md = merged_markdown([primary.markdown] + [c.markdown for c in extras])
+    _, units = parse_chapter(md)
+    return ChapterText(primary.number, primary.part, primary.title, primary.file, units, md, extras)
 
 
 def load_edition(book_id: str, edition_id: str) -> tuple[dict, list[ChapterText]]:
@@ -256,13 +290,27 @@ def load_edition(book_id: str, edition_id: str) -> tuple[dict, list[ChapterText]
     ed = next(e for e in data["editions"] if e["id"] == edition_id)
     chapters = []
     for ch in ed["chapters"]:
-        _, units = parse_chapter((REPO_ROOT / ch["file"]).read_text())
-        chapters.append(ChapterText(ch["number"], ch["part"], ch["title"], ch["file"], units))
+        md = (REPO_ROOT / ch["file"]).read_text()
+        _, units = parse_chapter(md)
+        chapters.append(ChapterText(ch["number"], ch["part"], ch["title"], ch["file"], units, md))
     return ed, chapters
 
 
+def _absorbed_share(part: ChapterText, whole: ChapterText) -> float:
+    """Share of one chapter's sentences that reappear in another."""
+    kp = part.all_keys
+    return len(kp & whole.all_keys) / len(kp) if kp else 0.0
+
+
 def align_chapters(old: list[ChapterText], new: list[ChapterText]) -> list[tuple[ChapterText | None, ChapterText | None, float]]:
-    """Pair chapters by the share of body sentences they have in common."""
+    """Pair chapters by the share of body sentences they have in common.
+
+    The 2023 rationalisation also merged chapters: the storyboard, glossary and exercises of
+    one chapter moved into its neighbour and the rest was cut. Compared one to one, the
+    neighbour then shows the moved half as insertions and the merged chapter as dropped. So
+    after the one-to-one pairing, a chapter left without a partner whose sentences mostly
+    reappear (MERGE_MIN) in a paired chapter of the other edition is folded into that pair:
+    the pair compares against the concatenation, and only real cuts remain as deletions."""
     scores = []
     for i, a in enumerate(old):
         for j, b in enumerate(new):
@@ -282,12 +330,31 @@ def align_chapters(old: list[ChapterText], new: list[ChapterText]) -> list[tuple
         used_i.add(i)
         used_j.add(j)
         pairs[i] = (j, s)
+    partner_of_new = {j: i for i, (j, _) in pairs.items()}
+    extra_old: dict[int, list[int]] = {}  # paired old index -> unpaired old chapters folded in
+    extra_new: dict[int, list[int]] = {}  # paired old index -> unpaired new chapters folded in
+    for i, a in enumerate(old):
+        if i in used_i:
+            continue
+        best = max(((_absorbed_share(a, new[j]), j) for j in partner_of_new), default=(0.0, -1))
+        if best[0] >= MERGE_MIN:
+            extra_old.setdefault(partner_of_new[best[1]], []).append(i)
+            used_i.add(i)
+    for j, b in enumerate(new):
+        if j in used_j:
+            continue
+        best = max(((_absorbed_share(b, old[i]), i) for i in pairs), default=(0.0, -1))
+        if best[0] >= MERGE_MIN:
+            extra_new.setdefault(best[1], []).append(j)
+            used_j.add(j)
     out: list[tuple[ChapterText | None, ChapterText | None, float]] = []
     for i, a in enumerate(old):
         if i in pairs:
             j, s = pairs[i]
-            out.append((a, new[j], round(s, 3)))
-        else:
+            a2 = _combine(a, [old[k] for k in extra_old[i]]) if i in extra_old else a
+            b2 = _combine(new[j], [new[k] for k in extra_new[i]]) if i in extra_new else new[j]
+            out.append((a2, b2, round(s, 3)))
+        elif i not in used_i:
             out.append((a, None, 0.0))
     for j, b in enumerate(new):
         if j not in used_j:
@@ -342,8 +409,10 @@ def match_across_streams(streams: dict[str, list[Hunk]]) -> None:
     """A sentence deleted from one stream and inserted into another only changed role.
 
     Typesetting changes move text between the body column and boxes, and the extractor's
-    role guess follows. Exact key matches become "restreamed"; near matches (an italic
-    word lost, a dash changed) become a cross-stream "modified" hunk.
+    role guess follows. Exact key matches become "restreamed", and near matches (an italic
+    word lost, a dash changed) become a cross-stream "modified" hunk. Then two passes by
+    word bag catch what positions and keys cannot: the same words cut or ordered
+    differently (_cover_by_bags) and a sentence edited as well as reordered (_pair_near_bags).
     """
     deleted = [(s, h) for s, hs in streams.items() for h in hs if h.type == "deleted"]
     inserted = [(s, h) for s, hs in streams.items() for h in hs if h.type == "inserted"]
@@ -377,19 +446,201 @@ def match_across_streams(streams: dict[str, list[Hunk]]) -> None:
             streams[s].remove(h)
             streams[t].remove(g)
             streams[s].append(Hunk("modified", f"{s}>{t}", round(r, 3), h.old, g.new, h.old_page, g.new_page, word_diff(h.old, g.new), h.old_pos, g.new_pos))
+    _cover_by_bags(streams)
+    _pair_near_bags(streams)
+
+
+_WORD = re.compile(r"[^\W_]+", re.UNICODE)
+BAG_MIN_TOKENS = 3  # a shorter whole is too likely to be covered by chance
+
+
+def word_bag(text: str) -> Counter:
+    """The words of a text as a multiset, case-folded, punctuation and order ignored."""
+    return Counter(_WORD.findall(normalise_key(text)))
+
+
+def _bag_size(c: Counter) -> int:
+    return sum(c.values())
+
+
+def bag_similarity(a: Counter, b: Counter) -> float:
+    return 2 * _bag_size(a & b) / max(1, _bag_size(a) + _bag_size(b))
+
+
+def _cover_by_bags(streams: dict[str, list[Hunk]]) -> None:
+    """Same words in another stream or another reading order, cut into different pieces.
+
+    Speech bubbles, table rows, box paragraphs and storyboard captions are read in a
+    different order, or into a different stream, from one printing to the next: one
+    edition has a table row "I plead not guilty. And I claim trial.", the other two
+    captions. Position-based matching cannot see that, so this pass compares word bags,
+    which ignore order and stream. A piece on one side whose words are exactly the words of
+    one or more pieces on the other side, all on one page or two facing pages, is the same
+    text: one piece is "moved" or "restreamed", several are "resplit". The halves of
+    "modified" hunks take part too, as in _mark_resplit, because the fuzzy pairing may have
+    joined a whole to one of its parts, or paired two streams' readings of one box in a
+    different order. Only an exact match counts, so a real edit that happens to coincide with
+    a different cut stays visible."""
+    olds: list[dict] = []
+    news: list[dict] = []
+    for s, hs in streams.items():
+        for h in hs:
+            src, dst = (h.stream.split(">") + [h.stream])[:2] if ">" in h.stream else (s, s)
+            if h.type in ("deleted", "modified") and h.old:
+                olds.append({"stream": src, "text": h.old, "page": h.old_page, "pos": h.old_pos, "origin": h, "home": s})
+            if h.type in ("inserted", "modified") and h.new:
+                news.append({"stream": dst, "text": h.new, "page": h.new_page, "pos": h.new_pos, "origin": h, "home": s})
+    if not olds or not news:
+        return
+    for p in olds + news:
+        p["bag"] = word_bag(p["text"])
+    used: set[int] = set()
+    made: list[tuple[str, Hunk]] = []
+    order = {name: i for i, name in enumerate(STREAMS)}
+
+    def reading_order(p: dict) -> tuple:
+        return (p["page"] if p["page"] is not None else 10**6, order.get(p["stream"], 99), p["pos"] if p["pos"] is not None else 10**6)
+
+    for whole_side, part_side, whole_is_old in ((olds, news, True), (news, olds, False)):
+        for w in sorted(whole_side, key=lambda p: -_bag_size(p["bag"])):
+            if id(w) in used or _bag_size(w["bag"]) < BAG_MIN_TOKENS:
+                continue
+            fits = [p for p in part_side if id(p) not in used and p["bag"] and not (p["bag"] - w["bag"])]
+            run = None
+            for page in sorted({p["page"] for p in fits}, key=lambda x: (x is None, x)):
+                # A whole that runs over a page turn has its parts on two facing pages.
+                window = [p for p in fits if p["page"] is None or page is None or 0 <= p["page"] - page <= 1]
+                rest = w["bag"].copy()
+                chosen = []
+                for p in sorted(window, key=lambda p: -_bag_size(p["bag"])):
+                    if not (p["bag"] - rest):
+                        rest -= p["bag"]
+                        chosen.append(p)
+                        if not rest:
+                            break
+                # One part that is the other half of the same hunk only counts when that hunk
+                # crosses streams: there a reordering is reading order, within a stream it may
+                # be an edit.
+                if not rest and (len(chosen) >= 2 or chosen[0]["origin"] is not w["origin"] or ">" in w["origin"].stream):
+                    run = sorted(chosen, key=reading_order)
+                    break
+            if run is None:
+                continue
+            used.add(id(w))
+            used.update(id(p) for p in run)
+            first = run[0]
+            o, n = (w, first) if whole_is_old else (first, w)
+            joined = " ".join(p["text"] for p in run)
+            label = o["stream"] if o["stream"] == n["stream"] else f"{o['stream']}>{n['stream']}"
+            if len(run) == 1:
+                type_ = "moved" if o["stream"] == n["stream"] else "restreamed"
+            else:
+                type_ = "resplit"
+            made.append((o["home"], Hunk(type_, label, 1.0, w["text"] if whole_is_old else joined, joined if whole_is_old else w["text"],
+                                         o["page"], n["page"], [], o["pos"], n["pos"])))
+    if not made:
+        return
+    pieces = olds + news
+    consumed = {id(p["origin"]) for p in pieces if id(p) in used}
+    for s, hs in streams.items():
+        streams[s] = [h for h in hs if id(h) not in consumed]
+    # A modified hunk whose other half was not consumed leaves that half as a plain change.
+    for p in pieces:
+        h = p["origin"]
+        if h.type == "modified" and id(h) in consumed and id(p) not in used:
+            if p in olds:
+                streams[p["stream"]].append(Hunk("deleted", p["stream"], None, h.old, None, h.old_page, None, [], h.old_pos, None))
+            else:
+                streams[p["stream"]].append(Hunk("inserted", p["stream"], None, None, h.new, None, h.new_page, [], None, h.new_pos))
+    for s, h in made:
+        streams[s].append(h)
+
+
+BAG_NEAR = 0.9  # word-bag similarity for a leftover deletion and insertion to be one edited sentence
+
+
+def _pair_near_bags(streams: dict[str, list[Hunk]]) -> None:
+    """A deletion and an insertion whose words nearly agree (BAG_NEAR), whatever their order
+    or stream, are one sentence that was edited: a typo fixed in a box that was also read in
+    a different order. They become one "modified" hunk. The words differ, so it stays loud."""
+    dels = [(s, h) for s, hs in streams.items() for h in hs if h.type == "deleted" and h.old]
+    inss = [(s, h) for s, hs in streams.items() for h in hs if h.type == "inserted" and h.new]
+    cands = []
+    for i, (_, h) in enumerate(dels):
+        bh = word_bag(h.old)
+        if _bag_size(bh) < BAG_MIN_TOKENS:
+            continue
+        for j, (_, g) in enumerate(inss):
+            r = bag_similarity(bh, word_bag(g.new))
+            if r >= BAG_NEAR:
+                cands.append((r, i, j))
+    cands.sort(reverse=True)
+    used_i: set[int] = set()
+    used_j: set[int] = set()
+    for r, i, j in cands:
+        if i in used_i or j in used_j:
+            continue
+        used_i.add(i)
+        used_j.add(j)
+        (s, h), (t, g) = dels[i], inss[j]
+        streams[s].remove(h)
+        streams[t].remove(g)
+        label = s if s == t else f"{s}>{t}"
+        streams[s].append(Hunk("modified", label, round(r, 3), h.old, g.new, h.old_page, g.new_page, word_diff(h.old, g.new), h.old_pos, g.new_pos))
+
+
+CROSS_CHAPTER_MIN = 20  # shortest key matched across chapters, so "Discuss." stays put
+
+
+def match_across_chapters(chapters: list[dict[str, list[Hunk]]]) -> None:
+    """Pages that one edition files under the neighbouring chapter.
+
+    Unit openers and their teacher's notes sit between two chapters, and the editions cut
+    their chapter files at different pages, so the same text is deleted from one chapter and
+    inserted into the next. An exact key match between a deletion in one matched chapter and
+    an insertion in another marks both as "moved". Each half keeps only its own side's
+    position and page, because positions count within one chapter's file."""
+    pool: dict[str, list[tuple[int, str, Hunk]]] = {}
+    for ci, streams in enumerate(chapters):
+        for s, hs in streams.items():
+            for h in hs:
+                if h.type == "inserted" and h.new:
+                    k = normalise_key(h.new)
+                    if len(k) >= CROSS_CHAPTER_MIN:
+                        pool.setdefault(k, []).append((ci, s, h))
+    for ci, streams in enumerate(chapters):
+        for s, hs in streams.items():
+            for h in hs:
+                if h.type != "deleted" or not h.old:
+                    continue
+                cands = pool.get(normalise_key(h.old), [])
+                hit = next((c for c in cands if c[0] != ci), None)
+                if hit is None:
+                    continue
+                cands.remove(hit)
+                g = hit[2]
+                h.type, h.new, h.similarity = "moved", g.new, 1.0
+                g.type, g.old, g.similarity = "moved", h.old, 1.0
 
 
 def diff_editions(book_id: str, from_id: str, to_id: str) -> dict:
     ed_a, old = load_edition(book_id, from_id)
     ed_b, new = load_edition(book_id, to_id)
     chapters_out = []
+    matched: list[tuple[dict, ChapterText, ChapterText, dict[str, list[Hunk]]]] = []
     total: Counter = Counter()
     for a, b, overlap in align_chapters(old, new):
         entry: dict = {
-            "from": {"number": a.number, "part": a.part, "title": a.title, "file": a.file} if a else None,
-            "to": {"number": b.number, "part": b.part, "title": b.title, "file": b.file} if b else None,
+            "from": a.ref() if a else None,
+            "to": b.ref() if b else None,
             "similarity": overlap,
         }
+        # Chapters folded into this pair (see align_chapters). Their units follow the named
+        # chapter's in the comparison, so their positions run past the end of its streams.
+        if a and a.merged:
+            entry["merged_from"] = [c.ref() for c in a.merged]
+        if b and b.merged:
+            entry["merged_to"] = [c.ref() for c in b.merged]
         if a and b:
             entry["status"] = "matched"
             per_stream = {
@@ -397,28 +648,31 @@ def diff_editions(book_id: str, from_id: str, to_id: str) -> dict:
                 for s in STREAMS
             }
             match_across_streams(per_stream)
-            # Where the other edition has text its fonts cannot map, a deletion or insertion on
-            # that page is more likely unreadable text than an edit.
-            unreadable_new = {u.page for u in b.units if UNREADABLE in u.text}
-            unreadable_old = {u.page for u in a.units if UNREADABLE in u.text}
-            for hs in per_stream.values():
-                for h in hs:
-                    if h.type == "deleted" and h.old_page in unreadable_new:
-                        h.type = "unreadable"
-                    elif h.type == "inserted" and h.new_page in unreadable_old:
-                        h.type = "unreadable"
-            streams = {}
-            for s, hs in per_stream.items():
-                streams[s] = {"counts": _counts(hs), "hunks": [asdict(h) for h in hs]}
-                for h in hs:
-                    total[(s, h.type)] += 1
-            entry["streams"] = streams
-            entry["pages"] = page_check(per_stream)
-            total[("pages", "suspect")] += entry["pages"]["suspect"]
+            matched.append((entry, a, b, per_stream))
         else:
             entry["status"] = "dropped" if a else "added"
             total[("chapter", entry["status"])] += 1
         chapters_out.append(entry)
+    match_across_chapters([m[3] for m in matched])
+    for entry, a, b, per_stream in matched:
+        # Where the other edition has text its fonts cannot map, a deletion or insertion on
+        # that page is more likely unreadable text than an edit.
+        unreadable_new = {u.page for u in b.units if UNREADABLE in u.text}
+        unreadable_old = {u.page for u in a.units if UNREADABLE in u.text}
+        for hs in per_stream.values():
+            for h in hs:
+                if h.type == "deleted" and h.old_page in unreadable_new:
+                    h.type = "unreadable"
+                elif h.type == "inserted" and h.new_page in unreadable_old:
+                    h.type = "unreadable"
+        streams = {}
+        for s, hs in per_stream.items():
+            streams[s] = {"counts": _counts(hs), "hunks": [asdict(h) for h in hs]}
+            for h in hs:
+                total[(s, h.type)] += 1
+        entry["streams"] = streams
+        entry["pages"] = page_check(per_stream)
+        total[("pages", "suspect")] += entry["pages"]["suspect"]
     summary = {
         "chapters_dropped": total[("chapter", "dropped")],
         "chapters_added": total[("chapter", "added")],

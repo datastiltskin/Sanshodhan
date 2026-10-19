@@ -16,6 +16,7 @@
     <span class="pages">pp. {{ c.ch.printed_pages }}</span>
     {% set real = (c.counts.get('deleted', 0) + c.counts.get('inserted', 0) + c.counts.get('modified', 0)) %}
     {% if prev and real %}<span class="count">{{ real }} change{{ 's' if real != 1 }}</span>{% elif prev and c.diff %}<span class="count none">no changes</span>{% endif %}
+    {% if c.diff and c.diff.merged_from %}<span class="count">absorbs the former chapter{{ 's' if c.diff.merged_from|length != 1 }} {% for m in c.diff.merged_from %}{{ m.number }}{{ ', ' if not loop.last }}{% endfor %}</span>{% endif %}
   </li>
 {% endfor %}
 </ol>

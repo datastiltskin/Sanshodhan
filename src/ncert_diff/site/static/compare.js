@@ -88,7 +88,9 @@
   function chapterLabel(c) {
     if (c.status === "dropped") return c.old.number + ". " + c.old.title + " (only in the older edition)";
     if (c.status === "added") return c.new.number + ". " + c.new.title + " (only in the newer edition)";
-    var num = c.old.number === c.new.number ? String(c.new.number) : c.old.number + " → " + c.new.number;
+    var oldNum = [c.old.number].concat(c.merged_from || []).join("+");
+    var newNum = [c.new.number].concat(c.merged_to || []).join("+");
+    var num = oldNum === newNum ? newNum : oldNum + " → " + newNum;
     var n = c.changed_pages;
     return num + ". " + c.new.title + (n ? " (" + n + " changed page" + (n === 1 ? "" : "s") + ")" : " (no changes)");
   }
