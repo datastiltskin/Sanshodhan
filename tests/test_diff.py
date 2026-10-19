@@ -110,3 +110,14 @@ def test_page_check_flags_pages_that_mostly_vanished():
     assert [(p["page"], p["new_page"], p["suspect"]) for p in checks["old"]] == [(5, 5, True), (6, 6, False)]
     assert [(p["page"], p["suspect"]) for p in checks["new"]] == [(9, True)]
     assert checks["suspect"] == 2
+
+
+def test_resplit_pairs_one_sentence_with_its_parts():
+    old = [Unit("body", "Grand Total 543 Once elected, these candidates become MPs.", 35, None, 1)]
+    new = [Unit("body", "Grand Total 543", 35, None, 1), Unit("body", "Once elected, these candidates become MPs.", 36, None, 2)]
+    hunks = diff_stream(old, new, "body")
+    assert [h.type for h in hunks] == ["resplit"]
+    assert hunks[0].old_page == 35 and hunks[0].new_page == 35
+    # The reverse direction too, and unrelated sentences stay deleted or inserted.
+    hunks = diff_stream(new + [Unit("body", "Something else entirely was here.", 36, None, 3)], old, "body")
+    assert sorted(h.type for h in hunks) == ["deleted", "resplit"]

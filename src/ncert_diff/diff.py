@@ -26,7 +26,9 @@ STREAMS = ("heading", "body", "note", "caption", "table", "source", "exercises",
 # Streams whose order carries no meaning: table cells arrive in layout order, and exercise
 # questions and glossary entries get renumbered and reflowed between printings.
 ORDERLESS = ("table", "exercises", "glossary", "references")
-SURVIVED = ("equal", "typographic", "punctuation", "modified", "moved", "restreamed")
+SURVIVED = ("equal", "typographic", "punctuation", "modified", "moved", "restreamed", "resplit")
+TYPES = ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "resplit", "unreadable", "punctuation")
+_LETTERS = re.compile(r"[^a-z0-9]")
 PAGE_MIN_SENTENCES = 4  # a page with fewer comparable sentences is not judged
 PAGE_SUSPECT = 0.5  # below this share of surviving sentences a page needs a look
 CHAPTER_MATCH_MIN = 0.2  # share of sentences two chapters must have in common to be the same chapter
@@ -159,14 +161,81 @@ def diff_stream(old: list[Unit], new: list[Unit], stream: str) -> list[Hunk]:
             hi = next(h for h in hunks if h.type == "inserted" and h.new == v.text)
             hunks = [h for h in hunks if h is not hd and h is not hi]
             hunks.append(Hunk("modified", stream, round(r, 3), u.text, v.text, u.page, v.page, word_diff(u.text, v.text), hd.old_pos, hi.new_pos))
+    hunks = _mark_resplit(hunks, stream)
     for h in hunks:
         if (h.old and UNREADABLE in h.old) or (h.new and UNREADABLE in h.new):
             h.type = "unreadable"
         elif h.type == "modified" and h.words and punctuation_only(h.words):
             h.type = "punctuation"
-    order = {"deleted": 0, "modified": 1, "inserted": 2, "moved": 3, "typographic": 4, "unreadable": 5, "punctuation": 6, "equal": 7}
+    order = {"deleted": 0, "modified": 1, "inserted": 2, "moved": 3, "typographic": 4, "unreadable": 5, "punctuation": 6, "resplit": 7, "equal": 8}
     hunks.sort(key=lambda h: (h.old_page or h.new_page or 0, order[h.type]))
     return hunks
+
+
+def _mark_resplit(hunks: list[Hunk], stream: str) -> list[Hunk]:
+    """Sentences that carry the same words split differently in the two editions.
+
+    A page break, a table read as text, or a different sentence boundary makes one edition
+    hold "A. B." as one sentence and the other as two. The fuzzy pairing may already have
+    joined the long sentence to one of the parts as "modified", so the halves of modified
+    hunks take part too. A match becomes one "resplit" hunk (quiet) covering both sides."""
+    key = lambda s: _LETTERS.sub("", s.lower())  # noqa: E731
+    olds: list[dict] = []  # pieces on the old side
+    news: list[dict] = []
+    for h in hunks:
+        if h.type == "deleted" and h.old:
+            olds.append({"text": h.old, "page": h.old_page, "pos": h.old_pos, "origin": h})
+        elif h.type == "inserted" and h.new:
+            news.append({"text": h.new, "page": h.new_page, "pos": h.new_pos, "origin": h})
+        elif h.type == "modified" and h.old and h.new:
+            olds.append({"text": h.old, "page": h.old_page, "pos": h.old_pos, "origin": h})
+            news.append({"text": h.new, "page": h.new_page, "pos": h.new_pos, "origin": h})
+    if not olds or not news:
+        return hunks
+    for side in (olds, news):
+        side.sort(key=lambda p: (p["pos"] if p["pos"] is not None else 10**6))
+        for p in side:
+            p["key"] = key(p["text"])
+    used: set[int] = set()  # id of pieces consumed
+    made: list[Hunk] = []
+    for whole_side, part_side, whole_is_old in ((olds, news, True), (news, olds, False)):
+        for w in whole_side:
+            if id(w) in used or len(w["key"]) < 12:
+                continue
+            parts = [p for p in part_side if id(p) not in used]
+            for start in range(len(parts)):
+                joined = ""
+                run = []
+                for p in parts[start:start + 4]:
+                    joined += p["key"]
+                    run.append(p)
+                    if joined == w["key"] and (len(run) >= 2 or run[0]["origin"] is not w["origin"]):
+                        used.add(id(w))
+                        used.update(id(p) for p in run)
+                        old_text = w["text"] if whole_is_old else " ".join(p["text"] for p in run)
+                        new_text = " ".join(p["text"] for p in run) if whole_is_old else w["text"]
+                        first = run[0]
+                        made.append(Hunk("resplit", stream, 1.0, old_text, new_text,
+                                         w["page"] if whole_is_old else first["page"], first["page"] if whole_is_old else w["page"], [],
+                                         w["pos"] if whole_is_old else first["pos"], first["pos"] if whole_is_old else w["pos"]))
+                        break
+                    if len(joined) >= len(w["key"]):
+                        break
+                if id(w) in used:
+                    break
+    if not made:
+        return hunks
+    consumed_origins = {id(p["origin"]) for p in olds + news if id(p) in used}
+    out = [h for h in hunks if id(h) not in consumed_origins]
+    # A modified hunk whose other half was not consumed leaves that half as a plain change.
+    for p in olds + news:
+        h = p["origin"]
+        if h.type == "modified" and id(h) in consumed_origins and id(p) not in used:
+            if p in olds:
+                out.append(Hunk("deleted", stream, None, h.old, None, h.old_page, None, [], h.old_pos, None))
+            else:
+                out.append(Hunk("inserted", stream, None, None, h.new, None, h.new_page, [], None, h.new_pos))
+    return out + made
 
 
 @dataclass
@@ -266,7 +335,7 @@ def page_check(per_stream: dict[str, list[Hunk]]) -> dict:
 
 def _counts(hunks: list[Hunk]) -> dict[str, int]:
     c = Counter(h.type for h in hunks if h.type != "equal")
-    return {k: c.get(k, 0) for k in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")}
+    return {k: c.get(k, 0) for k in TYPES}
 
 
 def match_across_streams(streams: dict[str, list[Hunk]]) -> None:
@@ -353,8 +422,8 @@ def diff_editions(book_id: str, from_id: str, to_id: str) -> dict:
     summary = {
         "chapters_dropped": total[("chapter", "dropped")],
         "chapters_added": total[("chapter", "added")],
-        "body": {t: total[("body", t)] for t in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")},
-        "other_streams": {t: sum(total[(s, t)] for s in STREAMS if s != "body") for t in ("deleted", "inserted", "modified", "moved", "typographic", "restreamed", "unreadable", "punctuation")},
+        "body": {t: total[("body", t)] for t in TYPES},
+        "other_streams": {t: sum(total[(s, t)] for s in STREAMS if s != "body") for t in TYPES},
         "suspect_pages": total[("pages", "suspect")],
     }
     return {

@@ -76,17 +76,27 @@ def diff(
 
     for b in _select(book):
         pairs = [(from_edition, to_edition)] if from_edition and to_edition else edition_pairs(b.id)
+        written: set[Path] = set()
         for a, c in pairs:
             result = diff_editions(b.id, a, c)
-            write_diff(result)
-            write_report(result)
+            written.add(write_diff(result))
+            written.add(write_report(result))
             s = result["summary"]
             typer.echo(
                 f"{b.id}: {a} -> {c}: chapters -{s['chapters_dropped']} +{s['chapters_added']}; body sentences "
                 f"deleted {s['body']['deleted']}, inserted {s['body']['inserted']}, modified {s['body']['modified']}, "
-                f"punctuation-only {s['body']['punctuation']}, moved {s['body']['moved']}, restreamed {s['body']['restreamed']}, typographic {s['body']['typographic']}; "
+                f"punctuation-only {s['body']['punctuation']}, moved {s['body']['moved']}, restreamed {s['body']['restreamed']}, resplit {s['body']['resplit']}, typographic {s['body']['typographic']}; "
                 f"pages to look at {s['suspect_pages']}"
             )
+        if not (from_edition and to_edition):
+            # Pairs from an earlier run that no longer exist (an edition that merged into
+            # another) would otherwise linger and reach the site.
+            from .diff import DIFF_DIR
+
+            for stale in (DIFF_DIR / b.id).glob("*__*.*") if (DIFF_DIR / b.id).exists() else []:
+                if stale not in written:
+                    stale.unlink()
+                    typer.echo(f"removed stale {stale.relative_to(PDF_DIR.parent)}")
     typer.echo(f"index at {write_index().relative_to(PDF_DIR.parent)}")
 
 

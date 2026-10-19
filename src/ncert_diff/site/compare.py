@@ -13,7 +13,7 @@ from collections import Counter, defaultdict
 
 from .build import QUIET, REAL, Block, apply_changes, block_html, chapter_blocks
 
-SURVIVED = ("equal", "typographic", "punctuation", "modified", "moved", "restreamed")
+SURVIVED = ("equal", "typographic", "punctuation", "modified", "moved", "restreamed", "resplit")
 
 
 def mark_side(blocks: list[Block], chapter_diff: dict, side: str) -> Counter:

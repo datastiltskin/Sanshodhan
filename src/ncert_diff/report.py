@@ -15,7 +15,7 @@ h2 { margin-top: 2.5em; border-top: 1px solid #ddd; padding-top: 1em; }
 .summary { font-family: system-ui, sans-serif; font-size: 14px; background: #f6f6f6; padding: .8em 1em; }
 .hunk { margin: 1em 0; padding: .6em .9em; border-left: 4px solid #999; background: #fafafa; }
 .hunk.deleted { border-color: #c33; } .hunk.inserted { border-color: #393; } .hunk.modified { border-color: #c80; }
-.hunk.moved, .hunk.typographic, .hunk.restreamed, .hunk.unreadable, .hunk.punctuation { border-color: #bbb; color: #666; }
+.hunk.moved, .hunk.typographic, .hunk.restreamed, .hunk.resplit, .hunk.unreadable, .hunk.punctuation { border-color: #bbb; color: #666; }
 .tag { font: 12px system-ui, sans-serif; text-transform: uppercase; color: #666; margin-right: .6em; }
 .stream { font: 12px system-ui, sans-serif; color: #888; }
 .pg { font: 12px system-ui, sans-serif; color: #888; float: right; }
@@ -71,7 +71,7 @@ def render(result: dict) -> str:
             title += f" → {b['number']} {html.escape(b['title'] or '')}"
         out.append(f"<h2>{title}</h2>")
         real = [h for st in ch["streams"].values() for h in st["hunks"] if h["type"] in ("deleted", "inserted", "modified")]
-        quiet = [h for st in ch["streams"].values() for h in st["hunks"] if h["type"] in ("moved", "typographic", "restreamed", "unreadable", "punctuation")]
+        quiet = [h for st in ch["streams"].values() for h in st["hunks"] if h["type"] in ("moved", "typographic", "restreamed", "resplit", "unreadable", "punctuation")]
         # "equal" hunks exist only for the viewer
         if not real and not quiet:
             out.append("<p class=stream>No differences.</p>")

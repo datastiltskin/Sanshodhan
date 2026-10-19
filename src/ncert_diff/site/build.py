@@ -31,7 +31,7 @@ from .render_pages import chapter_dir_name
 from ..textparse import SECTIONS
 
 HERE = Path(__file__).parent
-QUIET = {"moved", "typographic", "restreamed", "unreadable", "punctuation"}
+QUIET = {"moved", "typographic", "restreamed", "resplit", "unreadable", "punctuation"}
 REAL = {"deleted", "inserted", "modified"}
 
 
@@ -279,7 +279,7 @@ def sentence_html(s: Sentence, prefix: str = "", heading: bool = False, side: st
     quiet = " quiet" if s.change in QUIET else ""
     title = {
         "inserted": "Added in this edition", "deleted": "Removed in this edition", "modified": "Reworded in this edition",
-        "moved": "Moved within the chapter", "restreamed": "Moved between text and a box", "typographic": "Only case, dashes or quotes differ",
+        "moved": "Moved within the chapter", "restreamed": "Moved between text and a box", "resplit": "Same words, split into sentences differently", "typographic": "Only case, dashes or quotes differ",
         "punctuation": "Only punctuation differs", "unreadable": "Could not be read in one of the editions",
     }.get(s.change, s.change)
     return f"<span class='s chg chg-{s.change}{quiet}' title='{title}'>{inner}</span>"

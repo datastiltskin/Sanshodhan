@@ -35,6 +35,7 @@ is "deleted" or "inserted", except:
 |---|---|
 | `moved` | same sentence, different position in the same stream |
 | `restreamed` | same sentence, different stream (a box became body text or the reverse) |
+| `resplit` | the same words, split into sentences differently (one sentence here, two there, as when a page break or a table read as text moves a sentence boundary) |
 | `typographic` | same key, different surface form (case, dashes, quotes) |
 | `punctuation` | the only word-level differences are punctuation or spacing (the 2023-24 editions inserted commas throughout) |
 | `unreadable` | one side is text whose font has no Unicode map, or an edit on a page where the other edition has such text |
