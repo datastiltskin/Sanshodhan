@@ -25,13 +25,15 @@ def chapter_dir_name(part: int | None, number: int) -> str:
     return f"part{part}-ch{number:02d}" if part else f"ch{number:02d}"
 
 
-def page_map(markdown_path: Path) -> dict[int, int]:
-    """pdf page index (0-based) -> printed page number, from the chapter's page markers."""
-    out: dict[int, int] = {}
+def page_map(markdown_path: Path) -> list[tuple[int, int, str | None]]:
+    """(printed page number, pdf page index (0-based), source file name or None) for every
+    page marker in the chapter text. The source is set for pages carried over from a
+    neighbouring chapter PDF."""
+    out: list[tuple[int, int, str | None]] = []
     for line in markdown_path.read_text().splitlines():
         m = PAGE_MARKER.match(line)
         if m and m.group(1):
-            out[int(m.group(2)) - 1] = int(m.group(1))
+            out.append((int(m.group(1)), int(m.group(2)) - 1, m.group(3)))
     return out
 
 
@@ -43,19 +45,22 @@ def render_book(book_id: str, out_root: Path, *, log=print, force: bool = False)
             pdf = REPO_ROOT / ch["pdf"]
             target_dir = out_root / book_id / ed["id"] / chapter_dir_name(ch["part"], ch["number"])
             target_dir.mkdir(parents=True, exist_ok=True)
-            mapping = page_map(REPO_ROOT / ch["file"])
-            with pymupdf.open(pdf) as doc:
-                for index in range(doc.page_count):
-                    printed = mapping.get(index)
-                    if printed is None:
-                        continue  # a page before the chapter opener, not part of the text
+            docs: dict[str | None, pymupdf.Document] = {}
+            try:
+                # Pages before the chapter opener have no marker and are not rendered.
+                for printed, index, source in page_map(REPO_ROOT / ch["file"]):
                     target = target_dir / f"p{printed:03d}.webp"
                     if target.exists() and not force:
                         continue
-                    page = doc[index]
+                    if source not in docs:
+                        docs[source] = pymupdf.open(pdf.with_name(source) if source else pdf)
+                    page = docs[source][index]
                     scale = WIDTH_PX / page.rect.width
                     pix = page.get_pixmap(matrix=pymupdf.Matrix(scale, scale), colorspace=pymupdf.csRGB)
                     Image.frombytes("RGB", (pix.width, pix.height), pix.samples).save(target, "WEBP", quality=WEBP_QUALITY, method=4)
                     rendered += 1
+            finally:
+                for doc in docs.values():
+                    doc.close()
         log(f"{book_id} / {ed['id']}: pages rendered so far {rendered}")
     return rendered

@@ -33,6 +33,7 @@ UNREADABLE = "[unreadable]"  # text set in a font without a Unicode map comes ou
 LABEL_HEADING = re.compile(r"^(unit\s+\w+|chapter\s*\d*|contents|notes|teacher[’']s note)[\s:.-]*$", re.IGNORECASE)
 DROPCAP_LINE = re.compile(r"^[A-Z] [a-z]")  # a drop cap glued to its line ("Y crafts and production") is not a heading
 TEACHERS_NOTE = re.compile(r"^teacher[’']s note", re.IGNORECASE)
+UNIT_OPENER = re.compile(r"^(unit(\s+\w+)?|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)
 UNIT_WORD = re.compile(r"^(unit|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)  # unit openers set one word per line
 ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE)
 CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
@@ -69,6 +70,7 @@ class Page:
     index: int  # zero-based pdf page
     printed_number: int | None
     blocks: list[Block] = field(default_factory=list)
+    source: str | None = None  # file name when the page was carried over from another chapter PDF
 
 
 def _span_flags(span: dict) -> tuple[bool, bool]:
@@ -581,11 +583,8 @@ def to_markdown(pages: list[Page], width: float = 600.0) -> str:
         deferred.clear()
 
     for page in pages:
-        marker = (
-            f"<!-- page {page.printed_number} (pdf {page.index + 1}) -->"
-            if page.printed_number
-            else f"<!-- pdf page {page.index + 1} -->"
-        )
+        where = f"{page.index + 1} of {page.source}" if page.source else f"{page.index + 1}"
+        marker = f"<!-- page {page.printed_number} (pdf {where}) -->" if page.printed_number else f"<!-- pdf page {where} -->"
         emit(marker, "")
         for b in _reading_order(page.blocks, width):
             if b.role in ("footer", "decoration"):
@@ -664,6 +663,47 @@ def extract_chapter(pdf_path: Path) -> tuple[str, dict]:
     """Markdown body and metadata for one chapter PDF."""
     pages, width = _read_all_pages(pdf_path)
     return _render(pages[first_kept_page(pages):], width)
+
+
+def _is_unit_opener_page(page: Page) -> bool:
+    """A page that carries nothing but "UNIT" and "THREE" in display type."""
+    shown = [b for b in page.blocks if b.role != "footer"]
+    return bool(shown) and all(b.role == "h2" and UNIT_OPENER.match(b.text.strip()) for b in shown)
+
+
+def trailing_unit_opener(pages: list[Page]) -> int:
+    """Position where a unit opener bound in at the END of a chapter file begins (the 2024-25
+    Class 7 civics files end chapter 3 with Unit Three's opener and teacher's note, which the
+    2023-24 files put at the start of chapter 4). len(pages) when there is none."""
+    for pos in range(len(pages) - 1, 0, -1):
+        rest = pages[pos + 1:]
+        if _is_unit_opener_page(pages[pos]) and rest and all(any(TEACHERS_NOTE.match(b.text) for b in p.blocks) for p in rest):
+            return pos
+        if not any(TEACHERS_NOTE.match(b.text) for b in pages[pos].blocks):
+            break
+    return len(pages)
+
+
+def extract_chapter_file(pdf_path: Path, carry: list[Page] | None = None) -> tuple[list[tuple[str, dict]], list[Page]]:
+    """Every chapter in a per-chapter PDF, plus any trailing unit opener that belongs to the
+    next file. Usually one chapter, but NCERT sometimes packs two chapters into one file (the
+    2023-24 Class 7 civics ch08 holds chapters 7 and 8), so a file is cut at its chapter
+    openers when they carry distinct chapter numbers. `carry` is the previous file's trailing
+    opener, placed in front of this chapter."""
+    pages, width = _read_all_pages(pdf_path)
+    pages = pages[first_kept_page(pages):]
+    cut = trailing_unit_opener(pages)
+    trailing = pages[cut:]
+    for p in trailing:
+        p.source = pdf_path.name
+    pages = list(carry or []) + pages[:cut]
+    groups = split_into_chapters(pages)
+    if len(groups) > 1:
+        rendered = [_render(group, width) for group in groups]
+        numbers = [meta["chapter_number"] for _, meta in rendered]
+        if all(numbers) and len(set(numbers)) == len(numbers):
+            return rendered, trailing
+    return [_render(pages, width)], trailing
 
 
 def extract_whole_book(pdf_path: Path) -> list[tuple[str, dict]]:

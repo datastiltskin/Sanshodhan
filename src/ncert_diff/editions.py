@@ -18,7 +18,7 @@ import pymupdf
 from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
 from . import ocr
-from .extract import LABEL_HEADING, body_text, extract_chapter, extract_whole_book, has_text_layer
+from .extract import LABEL_HEADING, body_text, extract_chapter, extract_chapter_file, extract_whole_book, has_text_layer
 from .fetch import load_manifest
 from .sources import Book
 
@@ -202,11 +202,22 @@ def process_book(book: Book, *, log=print) -> Path:
             toc.update(contents_titles(pre))
         if files:
             toc = {**contents_titles(files[0][2], max_pages=3), **toc}
+        carry: list = []  # a unit opener bound in at the end of the previous file
+        carry_part = None
         for part, file_number, pdf in files:
             if pdf in image_only:
                 units.append((part, file_number, pdf, ocr.extract_chapter_ocr(pdf)))
-            else:
-                units.append((part, file_number, pdf, extract_chapter(pdf)))
+                carry = []
+                continue
+            results, carry_out = extract_chapter_file(pdf, carry if part == carry_part else None)
+            if carry and part == carry_part:
+                log(f"  {pdf.name}: opens with {len(carry)} pages carried over from {carry[0].source}")
+            carry, carry_part = carry_out, part
+            if len(results) > 1:
+                log(f"  {pdf.name} holds {len(results)} chapters, split")
+            units.extend((part, file_number, pdf, result) for result in results)
+        if carry:
+            log(f"  {carry[0].source}: {len(carry)} trailing unit-opener pages with no following chapter, dropped")
         if not units:
             for whole in sorted(snap.glob("*whole-book.pdf")):
                 m = re.match(r"^(?:part(\d)-)?whole-book\.pdf$", whole.name)
@@ -231,6 +242,11 @@ def process_book(book: Book, *, log=print) -> Path:
                 continue
             if not usable_title(meta["title"]):
                 meta["title"] = toc.get(number)  # label-only, blank, or unmapped-font headings fall back to the contents page
+            if any(c["part"] == part and c["number"] == number for c in chapters):
+                # The same chapter packed into two files (2023-24 Class 7 civics ch07 and ch08
+                # both carry chapter 7). The first copy wins.
+                log(f"  {pdf.name}: chapter {number} already taken from another file, skipped")
+                continue
             chapters.append(
                 {
                     "part": part,

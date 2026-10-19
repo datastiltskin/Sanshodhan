@@ -6,7 +6,8 @@ import re
 import unicodedata
 from dataclasses import dataclass, field
 
-PAGE_MARKER = re.compile(r"^<!-- (?:page (\d+) \(pdf (\d+)\)|pdf page (\d+)) -->$")
+# "<!-- page 37 (pdf 14 of ch03.pdf) -->" names the file when the page was carried over from another chapter PDF.
+PAGE_MARKER = re.compile(r"^<!-- (?:page (\d+) \(pdf (\d+)(?: of ([^)]+))?\)|pdf page (\d+)(?: of (\S+))?) -->$")
 ASIDE = re.compile(r"^> \[(\w+)\] (.*)$")
 HEADING = re.compile(r"^(#{1,3}) (.*)$")
 # Sentence ends: terminal punctuation, then space, then an opener. Common abbreviations are kept whole.
@@ -68,7 +69,7 @@ def parse_chapter(markdown: str) -> tuple[dict, list[Unit]]:
         m = PAGE_MARKER.match(line)
         if m:
             page = int(m.group(1)) if m.group(1) else None
-            pdf_page = int(m.group(2) or m.group(3))
+            pdf_page = int(m.group(2) or m.group(4))
             continue
         m = HEADING.match(line)
         if m:

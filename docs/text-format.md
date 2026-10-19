@@ -31,7 +31,12 @@ mapping back to the printed page.
 position in the chapter PDF. Printed numbers come from the running footer and are checked to
 advance one per page. A paragraph that runs across a page break is written before the marker
 of the page it ends on. Some 2007-era chapter PDFs begin with the last page of the previous
-chapter. Those pages are dropped.
+chapter. Those pages are dropped. The opposite also happens: a file ends with the next unit's
+opener and teacher's note (the 2024-25 Class 7 civics files). Those pages are moved to the
+front of the next chapter, and their markers name the file they came from, as in
+`<!-- page 37 (pdf 14 of ch03.pdf) -->`, so the page images still come from the right PDF.
+A few pages inside an otherwise normal file can be flat images. They are read with OCR and
+listed as `ocr_pages` in the front matter.
 
 ## Tagged blocks
 
