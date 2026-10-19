@@ -24,11 +24,13 @@ overrides:
 
 > [caption] First Edition March 2008 Chaitra 1929
 
-> [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] ALL RIGHTS RESERVED q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
-> [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
+> [caption] Reprinted January 2009, 2010, November 2010, January 2012, 2013, 2014, December 2014 January 2016, December 2016 and 2017 q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
-> [caption] Revised Edition q The correct price of this publication is the price printed on this page, Any January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942 October 2021 Ashwin 1943 November 2021 Agrahayana 1943 revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] Revised Edition q The correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+
+> [caption] January 2019 Pausha 1940 October 2019 Ashwina 1941 March 2021 Phalguna 1942 October 2021 Ashwin 1943 November 2021 Agrahayana 1943
 
 > [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708
 

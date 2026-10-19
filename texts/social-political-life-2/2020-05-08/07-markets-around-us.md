@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch07.pdf"
 source_sha256: "6eb952c98f31c6ef64080d1cea852431bbac892bc28886b7f5ff83434958e26b"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "8829d058afaeda8fce1d7ece75f2c346ada53fe9911880ee01c90dbe9fa3639c"
+body_fingerprint: "29c76e2d923ed375a3fee469984f5fe4ce9131ca8b2131645e44b249da4a7709"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -113,7 +113,7 @@ In the previous sections, you have read about different markets from where we bu
 
 The people in between the producer and the final consumer are the traders. The wholesale trader first buys goods in large quantities. For example, the vegetable wholesale trader will not buy a few kilos of vegetables, but will buy in large lots of 25 to 100 kilos. These will then be sold to other traders. In these markets, buying and selling takes place between traders. It is through these links of traders that goods reach faraway places. The trader who finally sells this to the consumer, is the retailer. This could be a trader in a weekly market, a hawker in the neighbourhood or a shop in a shopping complex.
 
-We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city The above map of Delhi shows four of the 10 wholesale markets in the city.
+We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
 > [table] Why do people not bargain in shops located in malls whereas they bargain in weekly markets?
 
@@ -129,9 +129,9 @@ We can understand this with the help of the following examples – Every city ha
 
 > [table] Okhla
 
-<!-- page 88 (pdf 9) -->
+The above map of Delhi shows four of the 10 wholesale markets in the city.
 
-wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
+<!-- page 88 (pdf 9) -->
 
 Aftab –The wholesaler in the city
 
@@ -149,13 +149,13 @@ Markets and equality
 
 In this chapter, we have looked at shop owners in a weekly market and those in a shopping complex. They are very different people. One is a small trader with little money to run the shop whereas the other is able to spend a lot of money to set up the shop. They also earn unequal amounts. The weekly market trader earns little compared to the profit of a regular shop owner in a shopping complex. Similarly, buyers are differently placed. There are many who are not able to afford the cheapest of goods while others are busy shopping in malls. Thus, whether we can be buyers or sellers in these different markets depends, among other things, on the money that we have.
 
-We have also examined the chain of markets that is formed before goods can reach us. It is through People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
+We have also examined the chain of markets that is formed before goods can reach us. It is through this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
+
+People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
 
 A car being put together in a factory.
 
 <!-- page 90 (pdf 11) -->
-
-this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
 
 Malls, like the one above, sell expensive and branded goods.
 

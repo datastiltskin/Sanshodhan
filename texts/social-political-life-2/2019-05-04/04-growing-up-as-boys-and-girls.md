@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch04.pdf"
 source_sha256: "349cc60ebbb3d1fa5c8a6e8d7c72aef8cef039b8fa1018f6764ec7648c496b9a"
 pdf_pages: 12
 printed_pages: "42-53"
-body_fingerprint: "f610c078c31b8a9df0954476c61c62254f7e100a9ba6b11a5edf2ef2752a8a0a"
+body_fingerprint: "57dd341905fbf1f3cc263553892b7426c834c1a57aa98eaf2237fc6f17cd41d0"
 ---
 
 <!-- page 42 (pdf 1) -->
@@ -49,15 +49,15 @@ As soon as babies could walk, their mothers or other adults no longer looked aft
 
 Growing up male in Madhya Pradesh in the 1960s The following is adapted from an account of experiences of being in a small town in Madhya Pradesh in the 1960s.
 
-From Class VI onwards, boys and girls went to separate schools. The girls’ school was designed very differently from the boys’ school. They had a central courtyard where they played in total seclusion and A Class VII Samoan child in his school uniform.
+From Class VI onwards, boys and girls went to separate schools. The girls’ school was designed very differently from the boys’ school. They had a central courtyard where they played in total seclusion and safety from the outside world. The boys’ school had no such courtyard and our playground was just a big space attached to the school. Every evening, once school was over, the boys watched as hundreds of school girls crowded the narrow streets. As these girls walked on the streets, they looked so purposeful. This was unlike the boys who used the streets as a place to stand around idling, to play, to try out tricks with their bicycles. For the girls, the street was simply a place to get straight home. The girls always went in groups, perhaps because they also carried fears of being teased or attacked.
+
+A Class VII Samoan child in his school uniform.
 
 > [table] In what ways do the experiences of Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
 
 Why do girls like to go to school together in groups?
 
 <!-- page 46 (pdf 5) -->
-
-safety from the outside world. The boys’ school had no such courtyard and our playground was just a big space attached to the school. Every evening, once school was over, the boys watched as hundreds of school girls crowded the narrow streets. As these girls walked on the streets, they looked so purposeful. This was unlike the boys who used the streets as a place to stand around idling, to play, to try out tricks with their bicycles. For the girls, the street was simply a place to get straight home. The girls always went in groups, perhaps because they also carried fears of being teased or attacked.
 
 After reading the two examples above, we realise that there are many different ways of growing up. Often we think that there is only one way in which children grow up. This is because we are most familiar with our own experiences. If we talk to elders in our family, we will see that their childhoods were probably very different from ours.
 
@@ -75,21 +75,19 @@ In most societies, including our own, the roles men and women play or the work t
 
 ## ‘MY MOTHER DOES NOT WORK’
 
-> [table] Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m.
+> [table] Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m. everyday doing all the housework!
 
-> [table] Harmeet’s mother always comes for excursions, beause Ma, we are going on a school excursion. Rosie Ma’am she doesn’t work.
+> [table] Harmeet’s mother always comes for excursions, beause she doesn’t work.
 
-> [table] everyday doing all needs volunteers. Can’t you the housework!
-
-> [table] take a holiday from office and volunteer?
+> [table] Ma, we are going on a school excursion. Rosie Ma’am needs volunteers. Can’t you take a holiday from office and volunteer?
 
 > [table] At the Singh’s house
 
-> [table] Then Jaspreet, why don’t you just relax and let them But isn’t that correct aunty? My mother is a housewife – Harsharan, Shonali thinks that your wife manage everything for a change?
+> [table] Then Jaspreet, why don’t you just relax and let them manage everything for a change?
 
-> [table] she does not work!
+> [table] But isn’t that correct aunty? My mother is a housewife – she does not work!
 
-> [table] is not a working person!
+> [table] Harsharan, Shonali thinks that your wife is not a working person!
 
 > [table] Great idea! OK, I’ll go on strike tomorrow!
 
@@ -97,13 +95,13 @@ In most societies, including our own, the roles men and women play or the work t
 
 > [table] Next morning, 7:30 a.m.
 
-> [table] Oh-ho! That’s the school bus! I’ll
+> [table] Oh-ho! That’s the school bus! I’ll have to drop them in the car.
 
-> [table] Oh God! Look at the time! Where’s my breakfast? Why aren’t have to drop them in the car.
+> [table] Oh God! Look at the time! Where’s my breakfast? Why aren’t the children ready?
 
-> [table] the children ready?
+> [table] How would I know? I’m on strike, remember? Besides, Mangala has also taken leave today.
 
-> [table] How would I know? I’m on strike, remember? Besides, Mangala has also Yes, but that’s not real work, it’s just house work!
+> [table] Yes, but that’s not real work, it’s just house work!
 
 > [table] Oh! That’s what you think, do you? Let’s go over to their house and ask Jaspreet what she thinks!
 

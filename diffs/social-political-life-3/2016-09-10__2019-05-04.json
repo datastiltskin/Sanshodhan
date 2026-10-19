@@ -19,7 +19,7 @@
   },
   "other_streams": {
    "deleted": 27,
-   "inserted": 32,
+   "inserted": 31,
    "modified": 37,
    "moved": 3,
    "typographic": 0,
@@ -33821,7 +33821,7 @@
     "references": {
      "counts": {
       "deleted": 2,
-      "inserted": 6,
+      "inserted": 5,
       "modified": 3,
       "moved": 0,
       "typographic": 0,
@@ -33902,7 +33902,7 @@
         ]
        ],
        "old_pos": 29,
-       "new_pos": 33
+       "new_pos": 32
       },
       {
        "type": "modified",
@@ -33927,7 +33927,7 @@
         ]
        ],
        "old_pos": 25,
-       "new_pos": 30
+       "new_pos": 29
       },
       {
        "type": "modified",
@@ -33972,31 +33972,19 @@
        "new_page": 134,
        "words": [],
        "old_pos": null,
-       "new_pos": 34
+       "new_pos": 33
       },
       {
        "type": "inserted",
        "stream": "references",
        "similarity": null,
        "old": null,
-       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.",
+       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)",
        "old_page": null,
        "new_page": 134,
        "words": [],
        "old_pos": null,
        "new_pos": 26
-      },
-      {
-       "type": "inserted",
-       "stream": "references",
-       "similarity": null,
-       "old": null,
-       "new": "https://thediplomat.com (Accessed on 19 September 2017)",
-       "old_page": null,
-       "new_page": 134,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 27
       },
       {
        "type": "inserted",
@@ -34020,7 +34008,7 @@
        "new_page": 134,
        "words": [],
        "old_pos": null,
-       "new_pos": 29
+       "new_pos": 28
       },
       {
        "type": "punctuation",
@@ -34082,7 +34070,7 @@
        "new_page": 134,
        "words": [],
        "old_pos": 27,
-       "new_pos": 32
+       "new_pos": 31
       },
       {
        "type": "equal",
@@ -34250,7 +34238,7 @@
        "new_page": 134,
        "words": [],
        "old_pos": 24,
-       "new_pos": 28
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -34310,7 +34298,7 @@
        "new_page": 134,
        "words": [],
        "old_pos": 26,
-       "new_pos": 31
+       "new_pos": 30
       },
       {
        "type": "equal",

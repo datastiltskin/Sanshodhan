@@ -144,9 +144,9 @@ In the budget, the government also announces the various ways in which it plans 
 
 > [caption] (8%)
 
-> [caption] Finance Commission
+> [caption] Finance Commission and other Transfers
 
-> [caption] Central Sector Scheme and other Transfers
+> [caption] Central Sector Scheme
 
 > [caption] (8%)
 

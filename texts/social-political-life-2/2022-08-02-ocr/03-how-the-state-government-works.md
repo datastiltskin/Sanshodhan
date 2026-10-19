@@ -10,9 +10,9 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch03.pdf"
 source_sha256: "94e9145c90b4efb2f40b2f2c8406d20c91596fdca8f8232cd32f60489215f7bd"
 pdf_pages: 14
 printed_pages: "30-43"
-body_fingerprint: "90285f05aab00596b062fdfaaa7f1b05319420c141ed756e0e27cf7c2afff43c"
+body_fingerprint: "b38238701e65a22110d657b5e5e735a55920b06a5af3056431af70f9a76925ce"
 ocr: true
-ocr_confidence: 86.9
+ocr_confidence: 88.0
 overrides:
   - "The chapter title on page 30 is four lines (How / the State / Government / Works). The OCR read only the last two lines"
   - "The caption on page 31 reads 'coloured in purple in the above thumbnail map'. The OCR dropped the spaces"
@@ -59,15 +59,13 @@ This road is blocked due to the rally. They have gheraoed the MLA’s_ residence
 
 > [caption] ..and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take the responsibility for this!
 
-> [caption] Ha ha — they seem more angry J about what he
+> [caption] Ha ha — they seem more angry J about what he hasn’t done!
 
 Really! Why? Has he done something?
 
-> [caption] hasn’t done!
-
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
 
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 Suddenly...
 
@@ -87,11 +85,9 @@ Discuss the following terms with your teacher-public meeting, States in India, c
 
 Can you explain the following terms-majority, ruling party, opposition with reference to your
 
-> [caption] state. iw sy — We “ | LITICAL \ =~ | | ean mmBen » 2 : —. Phe . a Be ol : he Be 1 all = ones t =| MIZORAM | Aah —_, MauaRasar on ie | c ; Poel r Ne A ——. — ¥ a Le . = ="; Se; ‘oT - c 2 © 4 i é Gahiee ty en >. oc ; | fe enw oer am “
+The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
 
 Using a pencil outline the following on the map given on page 111: (i) the state that you live in; (ii) the state of Himachal Pradesh.
-
-government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 

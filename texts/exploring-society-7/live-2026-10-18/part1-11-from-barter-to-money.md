@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf"
 source_sha256: "b3e45b2aa51b9948bb7bacdc953214b886992da6ed3d561a54601747edef16af"
 pdf_pages: 18
 printed_pages: "229-246"
-body_fingerprint: "c241335f6a1639d5241107cfb3f65953060de0e50e4c6e9b5c0c3dcf8d956793"
+body_fingerprint: "7be3330e0578dbcb9dfba83b1ef17f626339fcbb064c97c847e30b55cf229611"
 ---
 
 <!-- page 229 (pdf 1) -->
@@ -26,13 +26,9 @@ The importance of money flows from it being a link between the present and the f
 
 > [caption] Fig. 11.1
 
-The Big
-
 1. How did exchange take place before money? 2. Why did money come into existence? 3. How has money transformed into various forms over time?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 In the theme “Tapestry of the Past”, you read about the crops that people grew, such as food grains or goods they made like carnelian beads. How do you think they exchanged these goods for things that they needed?
 
@@ -44,23 +40,17 @@ Today, we use coins and notes to buy and sell things. People also use their mobi
 
 The barter system was the earliest form of exchange. There is a lot of evidence of it from around the world. People used commodities such as cowrie shells, salt, tea, tobacco, cloth, cattle (cows, goats, horses, sheep), seeds, etc.
 
-> [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones
-
-> [caption] – were used as money on the Yap Island, in the Pacific Ocean country of Micronesia.
+> [caption] Fig. 11.2.1. Stone Money: Giant discs of rock – called Rai stones – were used as money on the Yap Island, in the Pacific Ocean country of Micronesia.
 
 > [caption] Fig.11.2.2. The Aztec copper Tajadero (Spanish word for chopping knife) was a form of money used in Central Mexico and parts of Central America.
 
-> [caption] Fig. 11.2.3.Tevau (Red feather coil made from birds’
-
-> [caption] feathers) used as money on the Solomon Islands.
+> [caption] Fig. 11.2.3.Tevau (Red feather coil made from birds’ feathers) used as money on the Solomon Islands.
 
 > [caption] Barter System: a way of exchanging goods and services without using money.
 
 > [caption] Money: the common tool that everybody accepts and uses in order to make or receive payments in exchange for goods and services.
 
-> [caption] Transaction:
-
-> [caption] a piece of business that is done between people, especially an act of buying or selling.
+> [caption] Transaction: a piece of business that is done between people, especially an act of buying or selling.
 
 > [caption] Commodities:
 
@@ -206,9 +196,7 @@ In ancient times, the two sides of the coins — the head (obverse) and the 
 
 For example, the coins of the Chalukyas had a Varaha image (avatar of Viṣhṇu) on one side and decorated three-tiered parasol on the other.
 
-> [caption] Silver coin showing tiger emblem of Cholas (850–1279 CE) Coinage from Chalukyas of Kalyana featuring Varaha (avatar of Viṣhṇu)
-
-> [caption] and Royal Parasol
+> [caption] Silver coin showing tiger emblem of Cholas (850–1279 CE) Coinage from Chalukyas of Kalyana featuring Varaha (avatar of Viṣhṇu) and Royal Parasol
 
 > [caption] Fig. 11.11
 

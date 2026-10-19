@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch06.pdf"
 source_sha256: "a655e345eacdcce5582249ca34f32c2fbc5d1defa2dea7606f82e875f0c519d9"
 pdf_pages: 14
 printed_pages: "65-78"
-body_fingerprint: "76e80786f776270cee229a7a35218f6327f93621545854c89cf269d7e28fab0d"
+body_fingerprint: "e9cb8a01ddfd57b611a9eb4bad0b4c8b19a10b36a70d11ba6a5074a53f75adf9"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -32,7 +32,9 @@ Presidency – For administrative purposes, colonial India was divided into thre
 
 > [caption] Fig. 2 – Bombay port in the eighteenth century The city of Bombay began to grow when the East India Company started using Bombay as its main port in western India.
 
-Urbanisation – The process by which more and more people begin to reside in towns and cities In the late eighteenth century, Calcutta, Bombay and Madras rose in importance as Presidency cities. They became the centres of British power in the different regions of India. At the same time, a host of smaller cities declined. Many towns manufacturing specialised goods declined due to a drop in the demand for what they produced. Old trading centres and ports could not survive when the flow of trade moved to new centres. Similarly, earlier centres of regional power collapsed when local rulers were defeated by the British and new centres of administration emerged. This process is often described as de-urbanisation. Cities such as Machlipatnam, Surat and Seringapatam were de-urbanised during the nineteenth century. By the early twentieth century, only 11 per cent of Indians were living in cities.
+Urbanisation – The process by which more and more people begin to reside in towns and cities
+
+In the late eighteenth century, Calcutta, Bombay and Madras rose in importance as Presidency cities. They became the centres of British power in the different regions of India. At the same time, a host of smaller cities declined. Many towns manufacturing specialised goods declined due to a drop in the demand for what they produced. Old trading centres and ports could not survive when the flow of trade moved to new centres. Similarly, earlier centres of regional power collapsed when local rulers were defeated by the British and new centres of administration emerged. This process is often described as de-urbanisation. Cities such as Machlipatnam, Surat and Seringapatam were de-urbanised during the nineteenth century. By the early twentieth century, only 11 per cent of Indians were living in cities.
 
 The historic imperial city of Delhi became a dusty provincial town in the nineteenth century before it was rebuilt as the capital of British India after 1912. Let us look at the story of Delhi to see what happened to it under colonial rule.
 
@@ -48,7 +50,15 @@ The most splendid capital of all was built by Shah Jahan. Shahjahanabad was begu
 
 Set amidst densely packed mohallas and several dozen bazaars, the Jama Masjid was among the largest and grandest mosques in India. There was no place higher than this mosque within the city then.
 
-Delhi during Shah Jahan’s time was also an important centre of Sufi culture. It had several dargahs, khanqahs and idgahs. Open squares, winding lanes, quiet cul-de-sacs and water channels were the pride of Delhi’s residents. No wonder the poet Mir Taqi Mir said, “The Dargah – The tomb of a Sufi saint Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Idgah – An open prayer place of Muslims primarily meant for id prayers Cul-de-sac – Street with a dead end
+Delhi during Shah Jahan’s time was also an important centre of Sufi culture. It had several dargahs, khanqahs and idgahs. Open squares, winding lanes, quiet cul-de-sacs and water channels were the pride of Delhi’s residents. No wonder the poet Mir Taqi Mir said, “The streets of Delhi aren’t mere streets; they are like the album of a painter.”
+
+Dargah – The tomb of a Sufi saint
+
+Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music
+
+Idgah – An open prayer place of Muslims primarily meant for id prayers
+
+Cul-de-sac – Street with a dead end
 
 <!-- page 68 (pdf 4) -->
 
@@ -63,8 +73,6 @@ Delhi during Shah Jahan’s time was also an important centre of Sufi culture. I
 By 1739, Delhi had been sacked by Nadir Shah and plundered many times. Expressing the sorrow of those who witnessed the decline of the city, the eighteenth-century Urdu poet Mir Taqi Mir, said:
 
 Dilli jo ek shahr tha alam mein intikhab,... Ham rahne wale hain usi ujre dayar ke (I belong to the same ruined territory of Delhi, which was once a supreme city in the world)
-
-streets of Delhi aren’t mere streets; they are like the album of a painter.”
 
 Yet, even this was no ideal city, and its delights were enjoyed only by some. There were sharp divisions between rich and poor. Havelis or mansions were interspersed with the far more numerous mud houses of the poor. The colourful world of poetry and dance was usually enjoyed only by men. Furthermore, celebrations and processions often led to serious conflicts.
 
@@ -124,7 +132,7 @@ The British were fully aware of the symbolic importance of Delhi. After the Revo
 
 In 1911, when King George V was crowned in England, a Durbar was held in Delhi to celebrate the occasion. The decision to shift the capital of India from Calcutta to Delhi was announced at this Durbar.
 
-New Delhi was constructed as a 10-square-mile city on Raisina Hill, south of the existing city. Two architects, Edward Lutyens and Herbert Baker, were called on to design New Delhi and its buildings. The government complex in New Delhi consisted of a two-mile avenue, Activity Imagine yourself walking up Raisina Hill, looking towards Rashtrapati Bhavan. Do you think Baker was right in thinking that looking up to the building would create a sense of awe and emphasise the power of the British?
+New Delhi was constructed as a 10-square-mile city on Raisina Hill, south of the existing city. Two architects, Edward Lutyens and Herbert Baker, were called on to design New Delhi and its buildings. The government complex in New Delhi consisted of a two-mile avenue, Kingsway (now Rajpath), that led to the Viceroy’s Palace (now Rashtrapati Bhavan), with the Secretariat buildings on either sides of the avenue. The features of these government buildings were borrowed from different periods of India’s imperial history, but the overall look was Classical Greece (fifth century BCE). For instance, the central dome of the Viceroy’s Palace was copied from the Buddhist stupa at Sanchi, and the red sandstone and carved screens or jalis were borrowed from Mughal architecture. But the new buildings had to assert British importance: that is why the architect made sure that the Viceroy’s Palace was higher than Shah Jahan’s Jama Masjid!
 
 > [caption] Fig. 9 – The Coronation Durbar of King George V, 12 December, 1911 Over 100,000 Indian princes and British officers and soldiers gathered at the Durbar.
 
@@ -132,11 +140,11 @@ New Delhi was constructed as a 10-square-mile city on Raisina Hill, south of the
 
 <!-- page 72 (pdf 8) -->
 
+Activity Imagine yourself walking up Raisina Hill, looking towards Rashtrapati Bhavan. Do you think Baker was right in thinking that looking up to the building would create a sense of awe and emphasise the power of the British?
+
 ### Activity
 
 Can you find at least two instances from this chapter that suggest that there were other ways of thinking about the image of the capital city?
-
-Kingsway (now Rajpath), that led to the Viceroy’s Palace (now Rashtrapati Bhavan), with the Secretariat buildings on either sides of the avenue. The features of these government buildings were borrowed from different periods of India’s imperial history, but the overall look was Classical Greece (fifth century BCE). For instance, the central dome of the Viceroy’s Palace was copied from the Buddhist stupa at Sanchi, and the red sandstone and carved screens or jalis were borrowed from Mughal architecture. But the new buildings had to assert British importance: that is why the architect made sure that the Viceroy’s Palace was higher than Shah Jahan’s Jama Masjid!
 
 How was this to be done? New Delhi took nearly 20 years to build. The idea was to build a city that was a stark contrast to Shahjahanabad. There were to be no crowded mohallas, no mazes of narrow bylanes. In New Delhi, there were to be broad, straight streets lined with sprawling mansions set in the middle of large compounds. The architects wanted New Delhi to represent a sense of law and order, in contrast to the chaos of Old Delhi. The new city also had to be a clean and healthy space. The British saw overcrowded spaces as unhygienic and unhealthy, the source of disease. This meant that New Delhi had to have better water supply, sewage disposal and drainage facilities than the Old City. It had to be green, with trees and parks ensuring fresh air and adequate supply of oxygen.
 
@@ -180,7 +188,9 @@ The broken-down canals could not serve the needs of this rapidly increasing popu
 
 At the same time, though, millions of rupees were being spent on drainage systems in the New Delhi area.
 
-> [caption] Fig. 12 – A famous baoli near the shrine of Nizamuddin Auliya in Delhi Fig. 13 – Chandni Chowk in Delhi in the late nineteenth century
+> [caption] Fig. 12 – A famous baoli near the shrine of Nizamuddin Auliya in Delhi
+
+> [caption] Fig. 13 – Chandni Chowk in Delhi in the late nineteenth century
 
 <!-- page 75 (pdf 11) -->
 
@@ -194,9 +204,11 @@ Even in the mid-nineteenth century Qamr-al-din Khan’s haveli had several struc
 
 Many of the Mughal amirs were unable to maintain these large establishments under conditions of British rule. Havelis therefore began to be subdivided and sold. Often the street front of the havelis became shops or warehouses. Some havelis were taken over by the upcoming mercantile class, but many fell into decay and disuse.
 
-The colonial bungalow was quite different from the haveli. Meant for one nuclear family, it was a large single-storeyed structure with a pitched roof, and usually set in one or two acres of open ground. It had separate living and dining rooms and bedrooms, and a wide veranda Activity Think of the life of two young people – one growing up in a haveli and the other in a colonial bungalow. What would be the difference in their relationship with the family? Which would you prefer to live in? Discuss your views with your classmates, and give reasons for your choice.
+The colonial bungalow was quite different from the haveli. Meant for one nuclear family, it was a large single-storeyed structure with a pitched roof, and usually set in one or two acres of open ground. It had separate living and dining rooms and bedrooms, and a wide veranda running in the front, and sometimes on three sides. Kitchens, stables and servants’ quarters were in a separate space from the main house. The house was run by dozens of servants. The women of the household often sat on the verandas to supervise tailors or other tradesmen.
 
-Amir – A nobleman running in the front, and sometimes on three sides. Kitchens, stables and servants’ quarters were in a separate space from the main house. The house was run by dozens of servants. The women of the household often sat on the verandas to supervise tailors or other tradesmen.
+Activity Think of the life of two young people – one growing up in a haveli and the other in a colonial bungalow. What would be the difference in their relationship with the family? Which would you prefer to live in? Discuss your views with your classmates, and give reasons for your choice.
+
+Amir – A nobleman
 
 > [caption] Fig. 14 – A colonial bungalow in New Delhi
 

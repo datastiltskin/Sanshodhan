@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch04.pdf"
 source_sha256: "769b2d16eb21dc4df684ac0776fa5b89a880d08e5bd74a902624131333924e07"
 pdf_pages: 16
 printed_pages: "67-82"
-body_fingerprint: "1d140621c273e90b0eaa006422571cfb305814c0686ff0fccee68f89ca116fbf"
+body_fingerprint: "c17ab61caf47eda5890b3cbcb4929779746896075741a730b7e6ff35e2a1597a"
 ---
 
 <!-- page 67 (pdf 1) -->
@@ -24,13 +24,9 @@ The kingdom shall be protected by fortifying the capital and the towns at the fr
 
 > [caption] Fig. 4.1. Ruins of a major structure at Rājagṛiha (modern-day Rajgir in Bihar), when it was the capital of the Magadha mahājanapada.
 
-The Big
-
 1. What is meant by ‘Second Urbanisation of India’? 2. Why were the janapadas and mahājanapadas an important development in India’s early history? 3. What kind of system of governance did they evolve?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 68 (pdf 2) -->
 

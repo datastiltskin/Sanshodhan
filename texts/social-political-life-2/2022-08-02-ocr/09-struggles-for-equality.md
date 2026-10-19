@@ -10,9 +10,9 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch09.pdf"
 source_sha256: "a9c51d4c27af33d18bead542e8a2f9954340f93c9633f6905c14c24966d6cde9"
 pdf_pages: 11
 printed_pages: "102-112"
-body_fingerprint: "50ca741c803b2d288f71fefebfbcb4ee50b692f351b4ce4d25ede76d7f602c93"
+body_fingerprint: "dd261504c64cb84181e4c4192f80d447e36e93301593c6d2882289658c4f3961"
 ocr: true
-ocr_confidence: 92.8
+ocr_confidence: 95.0
 overrides:
   - "The poster on page 112 reads https://twitter.com/dtptraffic. The OCR misread the slashes and the double f"
   - "The poster on page 112 reads https://www.facebook.com/dtptraffic. The OCR misread the f and the double f"
@@ -36,7 +36,7 @@ But this feeling of equality that the ballot box provides, because the vote of o
 
 Similarly, the man who sells juice does not have the resources to compete with all of the major companies who sell branded drinks through expensive advertising. Swapna does not have sufficient resources to grow cotton and, so, has to take a loan from the trader to grow her crop. This forces her to sell her cotton at a lower price. Melani, like the millions of domestic workers across the country, is forced to endure the insults and hardship of working as a domestic help because she has no resources to set up something on her own. Poverty and the lack of resources continue to be a key reason why so many people’s lives in India are highly unequal.
 
-On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
+On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 > [note] What do you think is meant by the
 
@@ -50,11 +50,13 @@ On the other hand, the Ansaris were discriminated against not because they did n
 
 <!-- page 104 (pdf 3) -->
 
+In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
+
 According to the 2011 Census data women form 48.5 per cent of the population, Muslims form 14.2 per cent of the population, SCs form 16.6 per cent and STs 8.6 per cent.
 
 > [caption] Sustainable Development Goal (SDG)
 
-www.in.undp.org is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
+www.in.undp.org
 
 Can you think. of one person in your family, community, village, town or city whom you respect because of their fight for equality and justice?
 
@@ -102,11 +104,31 @@ The Right To Know
 
 My dreams have the right to know
 
-Why for centuries they have been breaking Why don’t they ever come true My hands have the right to know Why do they remain without work all along Why do they have nothing to do My feet have the right to know Why are there no signs of a bus yet My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages My children have the right to know Why do they labour day and night Why is there no school in sight The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
+Why for centuries they have been breaking
+
+Why don’t they ever come true
+
+My hands have the right to know
+
+Why do they remain without work all along
+
+Why do they have nothing to do
+
+My feet have the right to know
 
 Why from village to village they walk on their own
 
+Why are there no signs of a bus yet
+
+My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice
+
+My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages
+
+My children have the right to know Why do they labour day and night Why is there no school in sight
+
 While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
+
+The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
 
 <!-- page 109 (pdf 8) -->
 
@@ -150,7 +172,7 @@ Can you make up a social advertisement on equality? You can do this in small gro
 
 @ World Health Organization, Essential medicines and health products, http://www.who.int/medicines/services/inn/en/
 
-@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org 6a" ¥ INDIA POLITICAL Pa ee oa " RAKHAND CHINA | % osm anh (TIBET) is ¥ hs 7 a 4 BEU: 2 ~ SIKKIM Gangtok th mos. ia OS Rona oe ESH “™ ep BHUTAN 3 “@ 4S Lucknow: sap, v Se oe ie eee gal 2a ys Tara Whee wm reed caneet ssa eo (Daman & Dju) aNp MAHARASH \: AM Sarg 1 é ——— Go. J REFEREN . orem Internatipnal boundary f tenner State boundary; 3 ( cen ge is SS Sele ’ : . ‘ Dethi +5 on & Se f ₹ 200 00 = © ~ Pee PL a ts 0 CEA N - oS L
+@ www.cehat.org/rthc/policybrieffinal. pdf @ www.in.undp.org (Sustainable Development Goals — SDGs) @ www.infochangeindia.org
 
 > [table] @ Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
 

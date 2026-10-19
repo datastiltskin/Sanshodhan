@@ -306,9 +306,7 @@ The various chapters in this book have tried to make clear to you the democratic
 
 > [caption] P. SAINATH, “Whose Sacrifice is it Anyway?” The Hindu. 6 September 1998.
 
-> [caption] HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.
-
-> [caption] https://thediplomat.com (Accessed on 19 September 2017)
+> [caption] HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)
 
 > [caption] Olga Tellis vs. Bombay Municipal Corporation (1985) 3 SCC 545.
 

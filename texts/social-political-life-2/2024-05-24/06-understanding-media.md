@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch06.pdf"
 source_sha256: "6cd614075466b759f97130422a70dc4681b108d79eb54cffa9ae1a04fca514b9"
 pdf_pages: 12
 printed_pages: "62-73"
-body_fingerprint: "c951ff69ecbf4cd69478036c66285663f3a30f17d58dc4b8915992288d93df25"
+body_fingerprint: "828d5e6063158ffaff16b95d6943c934cba48f9316477f4c770399f0ef6224c4"
 overrides:
   - "The headline on page 68 reads 'Crackdown on polluting factories' with 'Protestors block roads and disrupt traffic' as its sub-headline. The OCR split 'polluting' across the line"
 ---
@@ -54,9 +54,11 @@ It would probably be difficult for you to imagine your life without the media. B
 
 Newspapers, television and radio can reach millions of people because they use certain technologies. We also tend to discuss newspapers and magazines as the print media; and TV and radio as the electronic media. Why do you think newspapers are called print media? As you read further, you will find that this naming is related to the different technologies that these media use. The following photographs will give you a sense of the ways in which technology that mass media uses has changed over the years and continues to change.
 
-Changing technology, or machines, and making technology more modern, helps media to reach more people. It also improves the quality of sound and the images that you see. But technology does more than this. It also changes the ways in which we think about our lives. For example, today it is quite difficult for us to think of our lives without television. Television has enabled us to think of ourselves as members of a larger global world. Television images travel huge An artist’s impression of Gutenberg printing the first sheet of the Bible.
+Changing technology, or machines, and making technology more modern, helps media to reach more people. It also improves the quality of sound and the images that you see. But technology does more than this. It also changes the ways in which we think about our lives. For example, today it is quite difficult for us to think of our lives without television. Television has enabled us to think of ourselves as members of a larger global world. Television images travel huge distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
 > [table] Look at the collage on the left and list six various kinds of media that you see.
+
+An artist’s impression of Gutenberg printing the first sheet of the Bible.
 
 > [table] Ask older members of your family about what they used to listen to on the radio when there was no TV around. Find out from them when the first TV came to your area. When was cable TV introduced?
 
@@ -75,8 +77,6 @@ John L. Baird sits in front of the apparatus with which he demonstrated to the R
 > [table] Take a newspaper and count the number of advertisements in it.
 
 > [table] Some people say that newspapers have too many advertisements. Do you think this is true and why?
-
-distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
 Media and money
 
@@ -122,11 +122,9 @@ Writing a balanced report, however, depends on the media being independent. An i
 
 > [table] Why?
 
-> [table] Pretend that you are a journalist for a newspaper and write a
+> [table] Pretend that you are a journalist for a newspaper and write a balanced story from the two news reports.
 
 However, the reality is that media is far from independent. This is mainly because of two reasons. The first is the control that the government has on the media. When the government prevents either a news item, or scenes from a movie, or the lyrics of a song from being shared with the larger public, this is referred to as censorship. There have been periods in Indian history when the government censored the media. The worst of these was the Emergency between 1975–1977.
-
-> [table] balanced story from the two news reports.
 
 What does TV do to us and what can we do with TV?
 
@@ -154,11 +152,9 @@ Fashion shows are very popular with the media.
 
 > [table] What is the consequence of the media ‘setting the agenda’ by reporting on the Fashion Week rather than the slum demolitions?
 
-> [table] Can you think of an issue that
+> [table] Can you think of an issue that does not seem important to you because it is never featured in the media?
 
 As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
-
-> [table] does not seem important to you because it is never featured in the media?
 
 ### Local media
 

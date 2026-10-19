@@ -10,11 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch05.pdf"
 source_sha256: "d158405003d146f48a84edc2a19617711ca6e139032cab246c75e29402bf3448"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "1388b767037ff5a6a97ac6163ee34b1bd77e1f6e3251642fbf6c4231ccb2fb4a"
+body_fingerprint: "de7c42d1ec4ca2ef35ef09c35f815a105beacb5ebc480747674253d877360405"
 ocr: true
 ocr_confidence: 94.9
-overrides:
-  - "margin box title 'A royal architect' glued into the sentence on page 64, the sentence runs on from page 63"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -69,11 +67,7 @@ What differences do you notice between the shikharas of the two temples? Can you
 
 <!-- page 63 (pdf 4) -->
 
-Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural
-
-form was called “arcuate”. _A “true” arch. The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure
-
-2b with Figures 5a and 5b. to the base of the arch.
+Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”. _A “true” arch. The “keystone” at: the centre of the arch transferred Compare Figures 2a and the weight of the superstructure 2b with Figures 5a and 5b. to the base of the arch.
 
 (2) Limestone cement was increasingly used in construction. This was very high-quality cement, which, when mixed with stone chips hardened into concrete. This made construction of large structures easier and faster. Take a look at the construction site in Figure 6.
 
@@ -92,6 +86,8 @@ Temples and mosques were beautifully constructed because they were places of wor
 > [caption] A painting from the Akbar Nama (dated 1590-1595), showing the construction of the water-gate at the Agra Fort.
 
 <!-- page 64 (pdf 5) -->
+
+A royal architect
 
 The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion’.
 

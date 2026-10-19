@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch02.pdf"
 source_sha256: "2b1fa164311a02c18dc1fd4856937232ddc22d380a031043a1bb67c176eea540"
 pdf_pages: 14
 printed_pages: "10-23"
-body_fingerprint: "8af60d298d3f1db1609d8d090171b2e6d18ecd158a146de767347bfcc017570b"
+body_fingerprint: "1576b61a33526ff89f01cee492a9022b554d0daac69088a9eb5a40e45c3512d1"
 ---
 
 <!-- page 10 (pdf 1) -->
@@ -83,11 +83,9 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] THE COST OF A CURE Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
 
-> [table] I had viral fever and
+> [table] I had viral fever and had to go to the hospital...
 
-> [table] Oh! Me, too! I just got back to had to go to the school on Monday. My Daddy hospital...
-
-> [table] took me to see the doctor at the new hospital in Kingsway. It was very exciting!
+> [table] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
 > [table] Hi Aman! Good to see you back! How have you been?
 
@@ -99,11 +97,11 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed some medicines and rest.
 
-> [table] ...and so young man – this pink pill should be
+> [table] ...and so young man – this pink pill should be taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
 
 > [table] ...and have you heard the one about Batman on Reality TV?
 
-> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty Thank you Doctor...I feel
+> [table] Thank you Doctor...I feel
 
 > [caption] better already!
 
@@ -195,7 +193,9 @@ In India, we face a situation where private services are increasing but public s
 
 Some private services encourage incorrect practices to earn more. At times inexpensive alternatives, though available, may not be used. For example, some medical practitioners are found to prescribe superfluous medicines, injections or saline when simple medication may suffice.
 
-In fact, barely 20 per cent of the population can afford all the medicines that they require during an illness. Hence, even for those whom one might not A post-operative room in a leading private hospital in Delhi.
+In fact, barely 20 per cent of the population can afford all the medicines that they require during an illness. Hence, even for those whom one might not think as being poor, medical expenses cause hardship. It was reported in a study that 40 per cent of people who are admitted to a hospital for some illness or injury have to borrow money or sell some of their possessions to pay for the expenses.
+
+A post-operative room in a leading private hospital in Delhi.
 
 > [note] Private health facilities can mean many things. Explain with the help of some examples from your area.
 
@@ -208,8 +208,6 @@ In fact, barely 20 per cent of the population can afford all the medicines that 
 > [note] How can health care be made more affordable? Discuss.
 
 <!-- page 21 (pdf 12) -->
-
-think as being poor, medical expenses cause hardship. It was reported in a study that 40 per cent of people who are admitted to a hospital for some illness or injury have to borrow money or sell some of their possessions to pay for the expenses.
 
 For those who are poor, every illness in the family is a cause of great anxiety and distress. What is worse is that this situation tends to happen again and again. Those who are poor are in the first place undernourished. These families are not eating as much as they should. They are not provided basic necessities like drinking water, adequate housing, clean surroundings, etc., and therefore, are more likely to fall ill. The expenses on illness make their situation even worse.
 
@@ -247,13 +245,9 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 > [note] EXERCISES
 
-> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and
+> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
 
-> [note] An important part of the Constitution says it is the “duty of
-
-> [caption] explain the terms ‘living standard’ and ‘public health’ in your own words.
-
-> [note] the State to raise the level of nutrition and the standard of living and to improve public health.”
+> [note] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
 
 > [caption] 2. What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
 

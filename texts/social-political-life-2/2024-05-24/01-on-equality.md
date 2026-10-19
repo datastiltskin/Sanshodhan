@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2024-05-24/ch01.pdf"
 source_sha256: "10360a07571025fb0729e2abad737d4500b626ccdfb5a38f0549a73cfa00bd77"
 pdf_pages: 8
 printed_pages: "2-9"
-body_fingerprint: "f8ae7f0c109e4f84f9a9dda87da5773c488f1aa77206ea03f6ce9ebcc51361df"
+body_fingerprint: "efaf87eadf3d5677469e3ba5fd9dea85acf10563cfd9811f81c828bfc357fca8"
 ocr_pages:
   - 4
 overrides:
@@ -36,11 +36,13 @@ Local situations should be used as a practical reference to make the discussion 
 
 The government’s role in passing laws and instituting policies is discussed to show that commitment to the alleviation of existing inequalities is a major part of the work that governments undertake. The chapter also briefly introduces an issue of inequality in the United States of America to highlight that this is a global phenomenon and a feature of many democratic countries.
 
-This chapter aims to help the learner understand that equality and democracy are dynamic and not static concepts. This dynamism is reflected in the government’s passing of new laws and programmes, and In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
+This chapter aims to help the learner understand that equality and democracy are dynamic and not static concepts. This dynamism is reflected in the government’s passing of new laws and programmes, and
 
 <!-- page 4 (pdf 3) -->
 
 > [table] Can you think of an incident in your life in which your dignity was violated? How did this make you feel?
+
+In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
 
 ## On Equality
 
@@ -54,7 +56,9 @@ This recognition of equality includes some of the following provisions in the Co
 
 The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
 
-One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
+
+The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
 > [caption] Sustainable Development Goal (SDG)
 
@@ -68,8 +72,6 @@ Children being served their midday meal at a government school in Uttarakhand.
 
 > [table] Find out about one government scheme in your area. What does this scheme do? Whom is this scheme set up to benefit?
 
-children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
-
 While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not respected. This is because people refuse to think of them as equal even though the law requires it.
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
@@ -80,7 +82,7 @@ You are probably wondering whether India is the only democratic country in which
 
 <!-- page 7 (pdf 6) -->
 
-Rosa Parks (1913–2005) was an African–American woman. Tired from a long day at work she refused to give up her seat on a bus to a white man on 1 December 1955. Her refusal that day started a huge agitation against the unequal ways in which African–Americans were treated and which came to be known as the Civil Rights Movement. The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin. It also stated that all schools would be open to African–American children and that they would no longer have to attend
+Rosa Parks (1913–2005) was an African–American woman. Tired from a long day at work she refused to give up her seat on a bus to a white man on 1 December 1955. Her refusal that day started a huge agitation against the unequal ways in which African–Americans were treated and which came to be known as the Civil Rights Movement. The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin. It also stated that all schools would be open to African–American children and that they would no longer have to attend separate schools specially set up for them. However, despite this, a majority of African–Americans continue to be among the poorest in the country. Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.
 
 “It is disgraceful to live at the cost of one's self-respect. Self-respect is the most vital factor in life. Without it, man is a cipher. To live worthily with self-respect, one has to overcome difficulties. It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.
 
@@ -91,8 +93,6 @@ Rosa Parks (1913–2005) was an African–American woman. Tired from a long day 
 Rosa Parks, an African– American woman, changed the course of American history with one defiant act.
 
 <!-- page 8 (pdf 7) -->
-
-separate schools specially set up for them. However, despite this, a majority of African–Americans continue to be among the poorest in the country. Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.
 
 Challenge of democracy
 

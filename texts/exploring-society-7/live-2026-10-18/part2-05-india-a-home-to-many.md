@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf"
 source_sha256: "cef751c3bf0ce41699b520e6de027828bc7ddf077bd8f478d1120db57e74c84b"
 pdf_pages: 18
 printed_pages: "125-142"
-body_fingerprint: "71c797a7e18d7e6bbc357838f85af3754c6f87cf04b85a4d13b34b425196afca"
+body_fingerprint: "dbbf47a14eabc33674fae6cc3f92e1fdd554599ddd2b95f1e08f4c7421688782"
 ---
 
 <!-- page 125 (pdf 1) -->
@@ -30,13 +30,9 @@ Learn to make the whole world your own. No one is a stranger, my child; the whol
 
 — Last message of Sri Sarada Devi (spiritual consort of Sri Ramakrishna Paramahamsa)
 
-> [note] The Big
-
 1. What has made India a home for people from different parts of the world? 2. Why did oppressed or persecuted people from other countries seek refuge in India? 3. What is it about the nature of Indian society that enables people to assimilate here?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 126 (pdf 2) -->
 
@@ -160,7 +156,9 @@ Arab merchants came to India from the 7th century onward, and many of them settl
 
 We have a different kind of story with the Siddis. The Siddis are of African origin; enslaved there, they were brought to India as slaves of Arab, Portuguese, and British traders between the 7th and 19th centuries. In the 18th century, some Siddis gained prominence in Muslim rulers’ armies and briefly controlled parts of Bengal. Their cultural identity represents a fusion of African and Indian traditions. The Siddis have a distinctive dance accompanied by African-style drumming. Over time, they have adapted their language to regional influences and integrated African religious practices with adopted faiths of Hinduism, Islam, or Christianity. The Siddis are designated as a scheduled tribe. However, the Siddis’ overall economic condition remains poor and efforts are being made to provide them with better access to education and livelihood options.
 
-> [caption] Fig. 5.9. Young Siddi girl from Karnataka Fig. 5.10. Siddi woman from Karnataka
+> [caption] Fig. 5.9. Young Siddi girl from Karnataka
+
+> [caption] Fig. 5.10. Siddi woman from Karnataka
 
 <!-- page 134 (pdf 10) -->
 
@@ -204,11 +202,9 @@ There is an inspiring story behind this. Poland was invaded during the Second Wo
 
 <!-- page 137 (pdf 13) -->
 
-> [caption] Fig. 5.15. Memorial in Warsaw: A tribute to Digvijaysinhji Ranjitsinhji in recognition of his
+> [caption] Fig. 5.15. Memorial in Warsaw: A tribute to Digvijaysinhji Ranjitsinhji in recognition of his help to Polish refugees during World War II.
 
 In the early 21st century, his service to the people of Poland was recognised by the President of Poland and the monument was constructed in the Maharaja’s honour. India was a home away from home, even if for a brief period, for the orphaned children.
-
-> [caption] help to Polish refugees during World War II.
 
 ## Tibetan Refugees in India
 

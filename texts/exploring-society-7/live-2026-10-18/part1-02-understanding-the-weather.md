@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf"
 source_sha256: "43d8115e9b568aa69ae9c319ae37a78bd6e8f271f68b1f48519ba27604f78786"
 pdf_pages: 18
 printed_pages: "27-44"
-body_fingerprint: "49866330e9cf2c194f242716c8d0a6602534dd7795b78aa88d10efaa8484423f"
+body_fingerprint: "f435c5444300e000af2019263cf11c16c9aebefbb87f67542b4f2a5ddaf8a956"
 overrides:
   - "part 1 chapter 2, page 31: captions of the two lower drawings are missing from the text layer, read from the page image"
 ---
@@ -28,11 +28,7 @@ Marcel Proust, French novelist
 
 1. How can we measure and monitor the weather around us?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. How do weather predictions help us prepare for events like heavy rain, storms, drought and heat waves?
 

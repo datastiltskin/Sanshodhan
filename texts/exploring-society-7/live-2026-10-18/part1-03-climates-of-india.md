@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf"
 source_sha256: "b2aa2a75ad57586cedc58d4037a10907b1018062bd7215fc05b59e28bc546090"
 pdf_pages: 22
 printed_pages: "45-66"
-body_fingerprint: "88b1a5caa6e7562e23de10fbc5135eb383d3288060fa6e4be1250a14dba44e06"
+body_fingerprint: "e48987012117c50cc1daa5021ae241155a27c049f1ce6abc266e5a39636e5ce3"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -26,11 +26,7 @@ kāle varṣhatu parjanyaha pṛiṭhivī sasyaśhālinī deśhoyam kṣhobharah
 
 1. What makes India’s climate so diverse? 2. What are the monsoons? How are they formed? 3. What is the effect of climate on economy, culture and society? 4. How can understanding the climate help us to prepare for natural disasters? 5. What is climate change? What are its consequences?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 46 (pdf 2) -->
 

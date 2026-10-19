@@ -11,9 +11,8 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf"
 source_sha256: "95b0b011965ec53f99a3e70b58e3c53b1473d9bcb7a47d8befd2454bcfae117b"
 pdf_pages: 20
 printed_pages: "209-228"
-body_fingerprint: "4d09d038b45cf0c93c6c418db730f1cffe753af7f1af5895e6cffc7aea1adf38"
+body_fingerprint: "28eafa93ecd7965942583c1e59b10e3eee469362be97ad1de3bc08320d5702f6"
 overrides:
-  - "part 1 chapter 10, page 217: the Fig. 10.5 caption wrapped around the photo into three blocks"
   - "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image"
   - "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image"
   - "part 1 chapter 10, page 225: tail of the SECULAR margin note, now part of the rebuilt note"
@@ -33,11 +32,7 @@ We have prepared a democratic Constitution. But the successful working of democr
 
 1. What is a constitution, and why do we need one? 2. How was the Indian Constitution prepared? 3. How did our freedom struggle and civilisational heritage influence the Constitution? 4. What are the key features of the Constitution of India? Why is it still relevant, even though it was written more than seventy years ago?
 
-> [note] The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 210 (pdf 2) -->
 
@@ -193,21 +188,25 @@ In addition, in the Indian tradition of ā no bhadrāh kratavo yantu viśhwatah�
 
 Some illustrations in the Constitution of India
 
-> [caption] gurukula
-
 > [caption] Fig. 10.8. A scene from the Mahābhārata:
 
 > [caption] Gītā to Arjuna
 
-> [caption] Fig. 10.6. A scene from an ancient
+> [caption] Fig. 10.6. A scene from an ancient gurukula
 
-> [caption] Fig. 10.7. A scene from the Rāmāyaṇa: Rāma’s conquest of Lanka and recovery of Sītā Kṛiṣhṇa propounding the Fig. 10.9. A scene from Orissan sculptures
+> [caption] Fig. 10.7. A scene from the Rāmāyaṇa: Rāma’s conquest of Lanka and recovery of Sītā Kṛiṣhṇa propounding the
+
+> [caption] Fig. 10.9. A scene from Orissan sculptures
 
 <!-- page 219 (pdf 11) -->
 
 > [caption] Fig. 10.10. An image of Naṭarāja
 
-> [caption] Fig. 10.11. Scenes from a Mahabalipuram bas-relief: Bhagīratha’s penance and the descent of Gangā Fig. 10.12. A scene with Akbar and Mughal architecture Fig. 10.13. A scene depicting Nālandā, one of India’s ancient universities
+> [caption] Fig. 10.11. Scenes from a Mahabalipuram bas-relief: Bhagīratha’s penance and the descent of Gangā
+
+> [caption] Fig. 10.12. A scene with Akbar and Mughal architecture
+
+> [caption] Fig. 10.13. A scene depicting Nālandā, one of India’s ancient universities
 
 <!-- page 220 (pdf 12) -->
 
@@ -305,7 +304,7 @@ We studied the Panchayati Raj System in Grade 6. This was not a part of the orig
 
 Can you find out the amendments made to the Constitution in the past ten years?
 
-The g overnment also creates opportunities for people to provide feedback on proposed laws or changes in rules. See the highlighted portion on the next page.
+The government also creates opportunities for people to provide feedback on proposed laws or changes in rules. See the highlighted portion on the next page.
 
 ### DON’T MISS OUT
 
@@ -349,9 +348,9 @@ The Constitution’s core values are the guiding principles for policies and dec
 
 > [caption] REPUBLIC The head of the state is an elected person and not a hereditary position.
 
-> [caption] WE, THE PEOPLE OF INDIA The Constitution has been drawn up and enacted by the people through their representatives, and not handed down to them by JUSTICE Citizens cannot be discriminated on the grounds of caste, religion and gender. Social inequalities have to be reduced. Government should work for the welfare of all, especially of less advantaged groups.
+> [caption] WE, THE PEOPLE OF INDIA The Constitution has been drawn up and enacted by the people through their representatives, and not handed down to them by a king or any outside powers.
 
-> [caption] a king or any outside powers.
+> [caption] JUSTICE Citizens cannot be discriminated on the grounds of caste, religion and gender. Social inequalities have to be reduced. Government should work for the welfare of all, especially of less advantaged groups.
 
 > [caption] SOVEREIGN The people have supreme right to make decisions on internal as well as external matters.
 
@@ -443,7 +442,7 @@ d. People of all castes, genders, and religions can use the village well.
 
 > [table] 2. The branch of government that makes laws.
 
-> [table] 1. The group of people who wrote the Indian C onstitution.
+> [table] 1. The group of people who wrote the Indian Constitution.
 
 > [table] 7. The part of the Constitution that outlines the duties of citizens towards the country.
 

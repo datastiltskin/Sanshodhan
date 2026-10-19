@@ -11,14 +11,10 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf"
 source_sha256: "b6a9adf1dcaed3c505075bb7e1a5ed759c49fe74b940928a7d0038851c2fad6f"
 pdf_pages: 28
 printed_pages: "117-144"
-body_fingerprint: "ca3283e7129e241a9a8042a181aa845cf97be2a4b2fd6ff9563fc4c8aed4cc07"
+body_fingerprint: "f75b5af540cee15291ec2c9c230dfb0ed30d54a2bc59cd5d32d17654c88e2dfc"
 overrides:
-  - "part 1 chapter 6, page 119: axis tick labels of the map were glued into the caption"
   - "part 1 chapter 6, page 120: the two halves of the Fig. 6.3 diagram were read line by line across each other"
-  - "part 1 chapter 6, page 136: the Fig. 6.22 caption continues on a second line under the statue"
-  - "part 1 chapter 6, page 136: the tail of the Fig. 6.22 caption landed on the coin caption"
   - "part 1 chapter 6, page 138: map label misread"
-  - "part 1 chapter 6, page 138: axis ticks glued to the front of the caption"
 ---
 
 <!-- page 117 (pdf 1) -->
@@ -33,11 +29,7 @@ By continuous living tradition and a vital power of rejuvenescence, this land ha
 
 1. Why is the period that followed the Maurya empire sometimes called the ‘Age of Reorganisation’?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. What were the values or principles that guided emperors of that period?
 
@@ -58,14 +50,6 @@ This period is also known as the ‘age of reorganisation’ by some scholars as
 Create a timeline on a sheet of paper marking the period from the first year of the 2nd century BCE and ending in the last year of the 3rd century CE. How many years does this period cover? As we progress through the chapter, mark the key individuals, kingdoms and events on the timeline.
 
 <!-- page 119 (pdf 3) -->
-
-> [caption] 80E
-
-> [caption] 60E
-
-> [caption] 90E
-
-> [caption] 70E
 
 ### Śhakas
 
@@ -129,29 +113,11 @@ Sanskrit emerged as one of the preferred languages for philosophical and literar
 
 The Śhungas patronised literature, art and architecture. The Bharhut Stūpa (in present-day Madhya Pradesh) presents us with beautiful examples of Śhunga art. It was probably built during the time of Ashoka, but the Śhungas added beautifully carved railings and reliefs depicting stories from the Buddha’s life. These are considered some of the earliest examples of Buddhist art.
 
-1
-
-2
-
-3
-
-4
-
 > [caption] Fig.6.5.1. Railings at the Bharhut Stūpa. Fig. 6.5.2. Carving of Lakshmi on a railing. Fig. 6.5.3. A group of singers and dancers. 6.5.4. Elephants holding up
 
 <!-- page 123 (pdf 7) -->
 
 ## Some Śhunga Contribution to Art
-
-1
-
-2 3 4
-
-5
-
-6 7
-
-8 9 10
 
 > [caption] Fig. 6.6.1. Pillar with a Greek warrior. Fig. 6.6.2. Male figure. Fig. 6.6.3. Woman with a child. Fig. 6.6.4. Woman with a fan. Fig. 6.6.5. A vase. Fig. 6.6.6. Female figure with hair ornaments, terracotta. Fig. 6.6.7. Royal family. Fig. 6.6.8. Bronze bangles covered with a thin layer of gold. Fig. 6.6.9. Comb of ivory. Fig. 6.6.10. Beads of a necklace.
 
@@ -175,11 +141,9 @@ From the limited evidence available, the Śhungas seem to have waged wars with m
 
 Coins issued by the Sātavāhana rulers have been found in various regions of India, from Gujarat to Andhra Pradesh — India’s western and eastern coasts. Indeed, many coins depicted ships, suggesting that maritime trade was an important part of economic life. The type of ship depicted on the coin above suggests advanced shipbuilding and navigation technologies.
 
-> [caption] Fig. 6.8. A Sātavāhana coin bearing
+> [caption] Fig. 6.8. A Sātavāhana coin bearing the image of a seafaring ship with two masts. Notice how the masts of the ship are prominently depicted with intersecting lines, possibly representing sails; the wavy lines below represent oceanic waters.
 
 Agriculture flourished in the Krishna-Godavari river system, which provided economic stability to the kingdom. The Sātavāhanas had active trade networks that reached as far as the Roman Empire and included an exchange of goods like spices, textiles, sandalwood, and luxury items like gold-plated pearls, ivory, etc. Imports included glass and perfumed ointments. Tolls and taxes on trade added revenue to the kingdom.
-
-> [caption] the image of a seafaring ship with two masts. Notice how the masts of the ship are prominently depicted with intersecting lines, possibly representing sails; the wavy lines below represent oceanic waters.
 
 Economic prosperity and a relatively peaceful political period facilitated the development of literature, art and culture, to which the Sātavāhanas made significant contributions.
 
@@ -201,8 +165,6 @@ Another set of inscriptions found in the Naneghat caves near Pune (Fig. 6.9) foc
 
 These inscriptions are in the Brahmi script and include a few numerals (that is, symbols for numbers) which, at times, resemble today’s shapes, as shown below. This is one of the many evidences showing that modern numerals ultimately originated in India.
 
-1 2 4 6 7 9 10
-
 ### THINK ABOUT IT
 
 In the above series of numerals, which ones look somewhat like our modern numerals? Which ones don’t?
@@ -215,11 +177,9 @@ The Sātavāhanas were devout followers of Vāsudeva (another name for Kṛiṣh
 
 > [caption] These caves were made for Buddhist monks.
 
-> [caption] Fig. 6.12. A yakṣha (a minor deity
+> [caption] Fig. 6.12. A yakṣha (a minor deity associated with nature) from the Pitalkhora caves, Maharashtra, carved in the Sātavāhana period.
 
-> [caption] Notice the magnificent pillars and the stone associated with nature) from the Pitalkhora caves, Maharashtra, carved replica of a stūpa in the centre — all of it carved out of a rocky hillside!
-
-> [caption] in the Sātavāhana period.
+> [caption] Notice the magnificent pillars and the stone replica of a stūpa in the centre — all of it carved out of a rocky hillside!
 
 ### THINK ABOUT IT
 
@@ -234,10 +194,6 @@ In the 3rd century CE, the Sātavāhana Empire fragmented into smaller independe
 Let us go back a little. Do you remember the Kalinga war mentioned in the previous chapter? After the decline of the Maurya Empire, Kalinga rose as a prominent power under the kings of the Chedi dynasty.
 
 Khāravela, one of their main rulers, was a devoted follower of Jain teachings; he was sometimes called bhikṣhu-rāja or monk-king, although he respected all schools of thoughts. Near Bhubaneswar, the famous Udayagiri-Khandagiri caves, likely developed for Jain monks, feature intricate panels and statues, and spacious rooms carved into the rock, showcasing the skill of the craftsmen. The design and craftsmanship of these caves make them notable examples of ‘rock-cut architecture’, a style of architecture that we will turn to in higher classes.
-
-> [note] 1
-
-2 3
 
 > [caption] Fig. 6.13.1. Udayagiri caves near Bhubaneswar. Fig. 6.13.2. The Hāthīgumphā inscription. Fig. 6.13.3. Carved panel showing a scene from the Rāmāyaṇa
 
@@ -259,12 +215,6 @@ In the map given on next page, you may notice different symbols alongside the na
 
 <!-- page 130 (pdf 14) -->
 
-> [caption] 76E
-
-> [caption] 78E
-
-> [caption] 80E
-
 > [caption] Uraiyūr Vanji (Karur)
 
 Arabian sea Bay of Bengal
@@ -274,12 +224,6 @@ Arabian sea Bay of Bengal
 > [caption] LEGEND South Indian Kingdoms Chola Chera Pandya Capital Cities Rivers 200 km 100
 
 N.8
-
-> [caption] 76E
-
-> [caption] 78E
-
-> [caption] 80E
 
 > [caption] Fig. 6.14. Kingdoms in the South (note that borders are approximate and fluctuated in time).
 
@@ -297,9 +241,9 @@ The Sangams refer to three ‘crowned kings’ — the Cholas, Cheras and P�
 
 This famous epic, composed soon after the Sangam collections, tells the story of Kaṇṇagi, who lived happily with her husband Kovalan in the prosperous Chola capital city of Puhār (identified with Kāveripattinam seen earlier). However, Kovalan fell in love with a dancer and eventually lost all his wealth over her. Realising his mistake, he returned to Kaṇṇagi, who forgave him. They then travelled to Madurai, the capital of the Pānḍya kingdom, hoping to rebuild their lives.
 
-> [caption] Fig. 6.15. Statue of Kaṇṇ agi, Chennai
+> [caption] Fig. 6.15. Statue of Kaṇṇagi, Chennai
 
-To start anew, Kaṇṇagi gave Kovalan one of her anklets to sell; however, he was falsely accused of theft and executed by the Pānḍya king. Devastated, Kaṇṇ agi proved his innocence by revealing her second anklet. The king, realising his mistake, died of shock. Kaṇṇagi then cursed Madurai, invoking the god of fire who destroyed the city. She then walked further west to the Chera kingdom, where she was honoured as a goddess. Even today, Kaṇṇagi is worshipped in Tamil Nadu and Kerala.
+To start anew, Kaṇṇagi gave Kovalan one of her anklets to sell; however, he was falsely accused of theft and executed by the Pānḍya king. Devastated, Kaṇṇagi proved his innocence by revealing her second anklet. The king, realising his mistake, died of shock. Kaṇṇagi then cursed Madurai, invoking the god of fire who destroyed the city. She then walked further west to the Chera kingdom, where she was honoured as a goddess. Even today, Kaṇṇagi is worshipped in Tamil Nadu and Kerala.
 
 Silappadikāram’s exquisite poetry thus centres on the principles of justice and the ruler’s dharma to protect it. It also takes us through cities rich in traded goods, through three kingdoms, and also through several schools of thought.
 
@@ -367,7 +311,7 @@ What do you think might have been the meaning of having deities like Vāsudeva-K
 
 ### DON’T MISS OUT
 
-The Śhakas (sometimes called Indo-Scythians) also invaded the northwest of the Subcontinent and ruled from the latter part of the 2nd century BCE to the 5th century CE. Their kingdoms rose to power after the Indo-Greeks, and they were in power until the arrival of the Kuṣhāṇ as (see below). It was during this period that the Śhaka Samvat calendar was developed. It is 78 years behind the Gregorian calendar (except from January–March, when it is behind by 79 years). It was adopted as the Indian National Calendar in 1957.
+The Śhakas (sometimes called Indo-Scythians) also invaded the northwest of the Subcontinent and ruled from the latter part of the 2nd century BCE to the 5th century CE. Their kingdoms rose to power after the Indo-Greeks, and they were in power until the arrival of the Kuṣhāṇas (see below). It was during this period that the Śhaka Samvat calendar was developed. It is 78 years behind the Gregorian calendar (except from January–March, when it is behind by 79 years). It was adopted as the Indian National Calendar in 1957.
 
 > [caption] Fig. 6.21. Notice how dates are provided in both the Gregorian and Śhaka Samvat eras on this official publication of the Government of India.
 
@@ -405,9 +349,7 @@ Continuing the trend set under the Indo-Greek rulers, Kuṣhāṇa art and archi
 
 The Gāndhāra style, which emerged in the western regions of Punjab, blended Greco-Roman elements with Indian features. Most sculptures and artefacts from this tradition were crafted in intricate detail from grey-black schist stone. In particular, sculptors produced many fine Buddha images with realistic anatomy and flowing robes.
 
-> [caption] Fig. 6.24. Head of a bodhisattva
-
-> [caption] (or future Buddha) from the Gāndhāra School of Art. Note the fusion of Indian and Greek features.
+> [caption] Fig. 6.24. Head of a bodhisattva (or future Buddha) from the Gāndhāra School of Art. Note the fusion of Indian and Greek features.
 
 ### THINK ABOUT IT
 
@@ -415,9 +357,7 @@ Do you know where Gāndhāra is? Does it remind you of a character from the epic
 
 <!-- page 138 (pdf 22) -->
 
-> [caption] 30E
-
-> [caption] 20E n
+> [caption] n
 
 Black Sea
 
@@ -435,19 +375,11 @@ EGYPT
 
 > [caption] Fig. 6.25. Some of the trade routes of the ancient world. The network marked in green shows the Silk Route connecting China with the Mediterranean world and passing through central Asia, Persia, etc.
 
-> [caption] 50E
-
 ARABIA
 
 ## Gulf of Aden
 
-> [caption] 40E
-
-> [caption] 60E
-
-> [caption] 10E N.09
-
-> [caption] 70 w-Rome
+> [caption] 10E N.09 w-Rome
 
 > [caption] Samarkand
 
@@ -459,19 +391,7 @@ ARABIA
 
 PERSIA
 
-> [caption] 70
-
 <!-- page 139 (pdf 23) -->
-
-> [caption] 80E
-
-> [caption] 100E
-
-> [caption] 110E
-
-> [caption] 120E
-
-> [caption] 90E
 
 > [caption] LEGEND
 
@@ -497,27 +417,11 @@ INDIA
 
 > [caption] Indian Ocean
 
-> [caption] 80E
-
-> [caption] 100E
-
-> [caption] 110E
-
-> [caption] 120E
-
-> [caption] 90E
-
-> [caption] E
-
-> [caption] E
-
 <!-- page 140 (pdf 24) -->
 
 The Mathurā style developed in the Mathura region of present-day Uttar Pradesh and is known for its distinct Indian style. Unlike the Gāndhāra style, it primarily used red sandstone for its sculptures and reflects less influence from Greco-Roman aesthetics. This art form is known for its depictions of Indian deities, including Kubera, Lakṣhmī, Śhiva, Buddha, yakṣhas and yakṣhiṇīs and generally produced fuller figures with smooth modelling.
 
-> [caption] Fig. 6.26. Kubera, God of ‘wealth’
-
-> [caption] from the Mathura School of Art. Did you miss the prominent moustache? The moustache is a distinguishing feature of some Indian sculptures.
+> [caption] Fig. 6.26. Kubera, God of ‘wealth’ from the Mathura School of Art. Did you miss the prominent moustache? The moustache is a distinguishing feature of some Indian sculptures.
 
 ### LET’S EXPLORE
 
@@ -529,21 +433,9 @@ Recognising these connections encourages us to view this ‘Tapestry of the Past
 
 <!-- page 141 (pdf 25) -->
 
-1
-
-4
-
-2
-
-5
-
 > [caption] Fig. 6.27.1. A scene of the death of Buddha. Fig. 6.27.2. Bodhisattva Maitreya.
 
 > [caption] Fig. 6.27.3. Śhiva linga being worshipped by Kuṣhāna devotees. Fig. 6.27.4. A Nāga between two Nāgīs, with an inscription referring to the eighth year of Kaṇiṣhka’s reign. Fig. 6.27.5. Kartikeya, the god of war, and
-
-3
-
-6
 
 <!-- page 142 (pdf 26) -->
 

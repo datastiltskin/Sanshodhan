@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch03.pdf"
 source_sha256: "709757a747874a36a48362b4451af5a95e934a4329944f69620ed1c80274bb52"
 pdf_pages: 12
 printed_pages: "30-41"
-body_fingerprint: "9c538df99042e8fb3d5f0168c4b72ebd3a2a0393760a6cf972f43e476df33df8"
+body_fingerprint: "394335c0a5e3953449927e5a2d28c52c5a792ea414715eac430036dc41a55adb"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -32,15 +32,9 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] That afternoon...
 
-> [table] On the TV news, they said ten people
+> [table] On the TV news, they said ten people have died from diarrhoea! Is that possible? Can one really die from it?
 
-> [table] My mother said not to have any iced drinks from the market. She gave one of have died from diarrhoea! Is that possible? Can one really die from it?
-
-> [table] her lectures this morning, “You have to
-
-> [table] Who knows? Just hope I don’t get it!
-
-> [table] be responsible for your health,
+> [table] My mother said not to have any iced drinks from the market. She gave one of her lectures this morning, “You have to be responsible for your health, Who knows? Just hope I don’t get it!
 
 > [table] Shirin!”
 
@@ -48,23 +42,17 @@ Last year, we discussed the fact that government works at three levels – local
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take
+> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take the responsibility for this!
 
-> [table] Ha ha – they seem more angry
+> [table] Ha ha – they seem more angry about what he
 
-> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
-
-> [table] about what he
-
-> [caption] hasn’t done!
+> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of hasn’t done!
 
 Who is an MLA?
 
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
 
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in green in the above thumbnail map of India.
-
-> [caption] action? Discuss.
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 > [caption] Suddenly...
 
@@ -76,7 +64,7 @@ Members of the Legislative Assembly (MLAs) are elected by the people. They then 
 
 > [caption] Why is this problem serious?
 
-> [caption] What action do you think can be taken in the above situation and who do you think should take this
+> [caption] What action do you think can be taken in the above situation and who do you think should take this action? Discuss.
 
 <!-- page 32 (pdf 3) -->
 
@@ -86,11 +74,11 @@ Members of the Legislative Assembly (MLAs) are elected by the people. They then 
 
 > [caption] * Telangana became the 29th State of India on the 2nd June 2014, after the reorganisation of the State of Andhra Pradesh.
 
+The state of Himachal Pradesh is coloured in green in the above thumbnail map of India.
+
 Using a pencil outline the following on the map given on page 123:
 
 (i) the state that you live in; (ii) the state of Himachal Pradesh.
-
-government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 
@@ -149,8 +137,6 @@ MLA 5: We have very poor facilities in our hospitals. There are hospitals that d
 MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2
 
 > [caption] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
-
-> [note] 3 4
 
 <!-- page 36 (pdf 7) -->
 

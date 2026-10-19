@@ -22940,7 +22940,7 @@
        "stream": "caption",
        "similarity": null,
        "old": null,
-       "new": "Central Government Spends Money on / Rupee Goes To / Pensions / (4%) / Other Expenditure / Interest Payments / (9%) / (20%) / Centrally Sponsored Scheme / (8%) / Finance Commission / Central Sector Scheme and other Transfers / (8%) / (16%) / (6%) States’ share of / Subsidies taxes & duties / (20%) / Defence / Source: Union Budget 2024-25",
+       "new": "Central Government Spends Money on / Rupee Goes To / Pensions / (4%) / Other Expenditure / Interest Payments / (9%) / (20%) / Centrally Sponsored Scheme / (8%) / Finance Commission and other Transfers / Central Sector Scheme / (8%) / (16%) / (6%) States’ share of / Subsidies taxes & duties / (20%) / Defence / Source: Union Budget 2024-25",
        "old_page": null,
        "new_page": 91,
        "words": [],
@@ -28022,8 +28022,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 32,
-       "new_pos": 32
+       "old_pos": 31,
+       "new_pos": 31
       },
       {
        "type": "equal",
@@ -28046,8 +28046,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 33,
-       "new_pos": 33
+       "old_pos": 32,
+       "new_pos": 32
       },
       {
        "type": "equal",
@@ -28058,32 +28058,20 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 34,
-       "new_pos": 34
+       "old_pos": 33,
+       "new_pos": 33
       },
       {
        "type": "equal",
        "stream": "references",
        "similarity": 1.0,
-       "old": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.",
-       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.",
+       "old": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)",
+       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)",
        "old_page": 114,
        "new_page": 114,
        "words": [],
        "old_pos": 26,
        "new_pos": 26
-      },
-      {
-       "type": "equal",
-       "stream": "references",
-       "similarity": 1.0,
-       "old": "https://thediplomat.com (Accessed on 19 September 2017)",
-       "new": "https://thediplomat.com (Accessed on 19 September 2017)",
-       "old_page": 114,
-       "new_page": 114,
-       "words": [],
-       "old_pos": 27,
-       "new_pos": 27
       },
       {
        "type": "equal",
@@ -28178,8 +28166,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 28
+       "old_pos": 27,
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -28214,8 +28202,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 29,
-       "new_pos": 29
+       "old_pos": 28,
+       "new_pos": 28
       },
       {
        "type": "equal",
@@ -28238,8 +28226,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 30,
-       "new_pos": 30
+       "old_pos": 29,
+       "new_pos": 29
       },
       {
        "type": "equal",
@@ -28262,8 +28250,8 @@
        "old_page": 114,
        "new_page": 114,
        "words": [],
-       "old_pos": 31,
-       "new_pos": 31
+       "old_pos": 30,
+       "new_pos": 30
       },
       {
        "type": "equal",
@@ -28433,7 +28421,7 @@
      {
       "page": 114,
       "new_page": 114,
-      "sentences": 36,
+      "sentences": 35,
       "score": 1.0,
       "suspect": false
      }

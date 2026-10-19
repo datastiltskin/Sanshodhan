@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch05.pdf"
 source_sha256: "0b338cf2619ad4cc9bd853be5c04389977c968a8ba77553679a90e4d63792290"
 pdf_pages: 13
 printed_pages: "51-63"
-body_fingerprint: "27bacd7662de5973da6013e1f6317a6ab75d16dc8a81e613941a2ff0397ce1ed"
+body_fingerprint: "044d677d80e98a8b59dee7095ab80b9ae7f4d9091849d9e9ed37f196cefe8016"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -105,11 +105,13 @@ Such a situation developed in the northern parts of India in 1857. After a hundr
 
 1. What were the important concerns in the minds of the people according to Sitaram and according to Vishnubhatt? 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
-Mutiny – When soldiers as a group disobey their officers in the army On 29 March 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
+Mutiny – When soldiers as a group disobey their officers in the army
 
 <!-- page 56 (pdf 6) -->
 
 ### From Meerut to Delhi
+
+On 29 March 1857, a young soldier, Mangal Pandey, was hanged to death for attacking his officers in Barrackpore. Some days later, some sepoys of the regiment at Meerut refused to do the army drill using the new cartridges, which were suspected of being coated with the fat of cows and pigs. Eighty-five sepoys were dismissed from service and sentenced to ten years in jail for disobeying their officers. This happened on 9 May 1857.
 
 The response of the other Indian soldiers in Meerut was quite extraordinary. On 10 May, the soldiers marched to the jail in Meerut and released the imprisoned sepoys. They attacked and killed British officers. They captured guns and ammunition and set fire to the buildings and properties of the British and declared war on the firangis. The soldiers were determined to bring an end to their rule in the country. But who would rule the land instead? The soldiers had an answer to this question – the Mughal emperor Bahadur Shah Zafar.
 
@@ -141,27 +143,27 @@ Regiment after regiment mutinied and took off to join other troops at nodal poin
 
 The British were greatly outnumbered by the rebel forces. They were defeated in a number of battles. This convinced the people that the rule of the British had collapsed for good and gave them the confidence to take the plunge and join the rebellion. A situation of widespread popular rebellion developed in the region of Awadh in particular. On 6 August 1857, we find a telegram sent by Lieutenant Colonel Tytler to his Commander-in-Chief expressing the fear felt by the British: “Our men are cowed by the numbers opposed to them and the endless fighting. Every village is held against us, the zamindars have risen to oppose us.”
 
-Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, prophesied that the rule of the British would come to an end soon. He caught the imagination of the people and raised a huge force of supporters. He came to Lucknow to fight the British. In Delhi, a large number of ghazis or religious warriors came together to wipe out the white people. Bakht Khan, a soldier from Bareilly, took charge of a large force of fighters who came to Delhi. He became a key military leader of the rebellion. In Bihar, an old zamindar, Kunwar Singh, joined the rebel sepoys and battled with the British for many months. Leaders and fighters from across the land joined the fight. The Company Fights Back Unnerved by the scale of the upheaval, the Company decided to repress the revolt with all its might. It brought Activity 1. Why did the Mughal emperor agree to support the rebels? 2. Write a paragraph on the assessment he may have made before accepting the offer of the sepoys.
+Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, prophesied that the rule of the British would come to an end soon. He caught the imagination of the people and raised a huge force of supporters. He came to Lucknow to fight the British. In Delhi, a large number of ghazis or religious warriors came together to wipe out the white people. Bakht Khan, a soldier from Bareilly, took charge of a large force of fighters who came to Delhi. He became a key military leader of the rebellion. In Bihar, an old zamindar, Kunwar Singh, joined the rebel sepoys and battled with the British for many months. Leaders and fighters from across the land joined the fight. The Company Fights Back Unnerved by the scale of the upheaval, the Company decided to repress the revolt with all its might. It brought reinforcements from England, passed new laws so that the rebels could be convicted with ease, and then moved into the storm centres of the revolt. Delhi was recaptured from the rebel forces in September 1857. The last Mughal emperor, Bahadur Shah Zafar was tried in court and sentenced to life imprisonment. His sons were shot dead before his eyes. He and his wife Begum Zinat Mahal were sent to prison in Rangoon in October 1858. Bahadur Shah Zafar died in the Rangoon jail in November 1862.
+
+Activity 1. Why did the Mughal emperor agree to support the rebels? 2. Write a paragraph on the assessment he may have made before accepting the offer of the sepoys.
 
 > [caption] Fig. 7 – British forces attack the rebels who had occupied the Red Fort (on the right) and Salimgarh Fort in Delhi (on the left)
 
 <!-- page 59 (pdf 9) -->
 
-reinforcements from England, passed new laws so that the rebels could be convicted with ease, and then moved into the storm centres of the revolt. Delhi was recaptured from the rebel forces in September 1857. The last Mughal emperor, Bahadur Shah Zafar was tried in court and sentenced to life imprisonment. His sons were shot dead before his eyes. He and his wife Begum Zinat Mahal were sent to prison in Rangoon in October 1858. Bahadur Shah Zafar died in the Rangoon jail in November 1862.
-
 The recapture of Delhi, however, did not mean that the rebellion died down after that. People continued to resist and battle the British. The British had to fight for two years to suppress the massive forces of popular rebellion.
 
 Lucknow was taken in March 1858. Rani Lakshmibai was defeated and killed in June 1858. Tantia Tope escaped to the jungles of central India and continued to fight a guerrilla war with the support of many tribal and peasant leaders. He was captured, tried and killed in April 1859.
 
-Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, Activity Make a list of places where the uprising took place in May, June and July 1857.
+Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, they would remain safe and their rights and claims to land would not be denied. Nevertheless, hundreds of sepoys, rebels, nawabs and rajas were tried and hanged.
 
 > [caption] Fig. 4 – The siege train reaches Delhi
 
 > [caption] The British forces initially found it difficult to break through the heavy fortification in Delhi. On 3 September 1857 reinforcements arrived – a 7- mile-long siege train comprising cartloads of canons and ammunition pulled by elephants.
 
-<!-- page 60 (pdf 10) -->
+Activity Make a list of places where the uprising took place in May, June and July 1857.
 
-they would remain safe and their rights and claims to land would not be denied. Nevertheless, hundreds of sepoys, rebels, nawabs and rajas were tried and hanged.
+<!-- page 60 (pdf 10) -->
 
 ## Aftermath
 
@@ -171,7 +173,9 @@ Given below are the important changes that were introduced by the British.
 
 1. The British Parliament passed a new Act in 1858 and transferred the powers of the East India Company to the British Crown in order to ensure a more responsible management of Indian affairs. A member of the British Cabinet was appointed Secretary of State for India and made responsible for all matters related to the governance of India. He was given a council to advise him, called the India Council. The Governor-General of India was given the title of Viceroy, that is, a personal representative of the Crown. Through these measures the British government accepted direct responsibility for ruling India.
 
-> [caption] Fig. 8 – British troops blow up Kashmere Gate to enter Delhi Fig. 9 – British forces capture the rebels near Kanpur Notice the way the artist shows the British soldiers valiantly advancing on the rebel forces.
+> [caption] Fig. 8 – British troops blow up Kashmere Gate to enter Delhi
+
+> [caption] Fig. 9 – British forces capture the rebels near Kanpur Notice the way the artist shows the British soldiers valiantly advancing on the rebel forces.
 
 <!-- page 61 (pdf 11) -->
 

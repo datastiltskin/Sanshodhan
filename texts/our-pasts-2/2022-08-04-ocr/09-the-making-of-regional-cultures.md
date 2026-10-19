@@ -10,9 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch09.pdf"
 source_sha256: "723673512f8d684346611871ef1d90b69b09f623f63fc33091cf19b5dae21d5f"
 pdf_pages: 16
 printed_pages: "122-137"
-body_fingerprint: "73252540a3fac07042282b1e5cf3cacd24a10ed0f40a7912a1b79fa9d17eacf2"
+body_fingerprint: "427588a0c4c2e9c7335b91884c735c8054e7f470cd677e8d77307862b4677f7b"
 ocr: true
-ocr_confidence: 92.4
+ocr_confidence: 95.2
 overrides:
   - "box title from page 132 glued into the sentence on page 130, which continues 'influence of Sanskrit.' on the next page"
   - "stray OCR token 'NSA' from the margin triangle on page 136"
@@ -34,7 +34,7 @@ Let us begin by looking at an example of the connection between language and reg
 
 <!-- page 123 (pdf 2) -->
 
-@ oy Lo WD GX mw VURYY Ae VUSRKE SVULUV'S 398 Lsy P WPMD 3,29 NKG2VKIE Cus ; Be, 2 : r . rc 5S QUVOAB HOV _J2919 pate) VQ) BIO FA UWD 4 7230 @ amon eagen) W9N9BO MQ RD BIO REVVER VV SGU RID OE VES OY AD? LOUD DK BSA YIMAW VODA MORN VD Den ve @ EP 62 rag > TPO AOEVWS FILM DVI RIVA LIV RE BAIOV At the same time, the Cheras also drew upon Sanskritic traditions. The temple theatre of Kerala, which is traced to this period, borrowed stories from the Sanskrit epics. The first literary works in Malayalam, dated to about the twelfth century, are directly indebted to Sanskrit. Interestingly enough, a fourteenth-century text, the Lilatilakam, dealing with grammar and poetics, was composed in Manipravalam — literally, “diamonds and corals” referring to the two languages, Sanskrit and the regional language.
+At the same time, the Cheras also drew upon Sanskritic traditions. The temple theatre of Kerala, which is traced to this period, borrowed stories from the Sanskrit epics. The first literary works in Malayalam, dated to about the twelfth century, are directly indebted to Sanskrit. Interestingly enough, a fourteenth-century text, the Lilatilakam, dealing with grammar and poetics, was composed in Manipravalam — literally, “diamonds and corals” referring to the two languages, Sanskrit and the regional language.
 
 ## Rulers and Religious Traditions: The Jagannatha Cult
 
@@ -66,13 +66,7 @@ a Raj Singh of These cultural traditions Bikaner. ying were Closely linked with 
 
 Did women find a place within these stories? Sometimes, they figure as the “cause” for conflicts, as men fought with one another to either “win” or “protect” women. Women are also depicted as following their heroic husbands in both life and death - there are stories about the practice of sati or the immolation of widows on the funeral pyre of their husbands. So those
 
-> [caption] My a rr SAMMU / { AND as j KASHMIR >: z i. ; “ PRADESH j,> Shimla. - _5 PUNJAB UTTAR NSA a LH / Bikaner DELH] e s' cf.
-
-{RAJASTHAN Jaipur 74 pp Lucknow Spo, sik / ; se \dodhpure Ajmer ~ Ry AWADH “Nee we K OF ee © Chittaurgarh © ₹ 4 @ ji #7
-
-Se ; ote, | 4 BIHAR gay SMECWAA, 7 oC
-
-“a JHARKHAND i oe Ty co GUJARAT aii PRADESH Bankuae Dhaka ‘ee. ny . > S$. -Kolkata® *- nye? ie oe. é a \ i ~~ << \ & ; co hal \n" DIU ft: = ORISSA \ Nee. ie 3 ‘Bhubaneshwareg / . Sy \ ; f em Puri & ( of 2) \RABIAN j . Ff AY oO! ‘ E \ : wt fa BENGAL \ {ANDHRA “A ; ‘ \ PRADESH — ly a cog (C7 Ys } Us, < . yr. 0 X TAMIL NADU 2. \2 j *¢ ‘ \> onal \ c f a > > a \ ° ‘e 4 Thiruvananthaputamy” ; \ y ‘2S D y OCEAN *
+> [caption] My a rr SAMMU / { AND as j KASHMIR >: z
 
 > [caption] Map 1 Regions discussed in this chapter.
 
@@ -218,9 +212,7 @@ Traditional food habits are generally based on locally available items of food. 
 
 Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fish in the local diet made the Brahmanical authorities relax this prohibition for the Bengal Brahmanas. The Brihaddharma Purana, a thirteenth-century Sanskrit text from Bengal, permitted the local Brahmanas to eat Emergence of nation-states in Europe You are a Rajput prince. How would you like your story to be told?
 
-> [caption] Fig. 14
-
-> [caption] Fish being
+> [caption] Fig. 14 Fish being
 
 > [table] certain varieties of fish.
 

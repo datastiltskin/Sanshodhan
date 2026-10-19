@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch05.pdf"
 source_sha256: "e58a1f64fe0bf0d848ee6ae4dbdbe5179bcded0b31e382ad19cdf24fba1be209"
 pdf_pages: 14
 printed_pages: "51-64"
-body_fingerprint: "d996bdd428c7236cc877042bd84f7fd9b2ad4f25485cbcca049964cd50ac095f"
+body_fingerprint: "0a22504e4177cb7757882fa9148d6f876be53ca045dd68316bea96d10f47b07c"
 ---
 
 <!-- page 51 (pdf 1) -->
@@ -25,7 +25,7 @@ In the previous chapters you looked at the policies of the East India Company an
 
 Since the mid-eighteenth century, nawabs and rajas had seen their power erode. They had gradually lost their authority and honour. Residents had been stationed in many courts, the freedom of the rulers reduced, their armed forces disbanded, and their revenues and territories taken away by stages.
 
-Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
+Many ruling families tried to negotiate with the Company to protect their interests. For example, Rani Lakshmibai of Jhansi wanted the Company to recognise her adopted son as the heir to the kingdom after the death of her husband. Nana Saheb, the adopted son of Peshwa Baji Rao II, pleaded that he be given his father’s pension when the latter died. However, the Company, confident of its superiority and military powers, turned down these pleas.
 
 > [caption] Fig. 1 – Sepoys and peasants gather forces for the revolt that spread across the plains of north India in 1857
 
@@ -33,7 +33,7 @@ Many ruling families tried to negotiate with the Company to protect their intere
 
 ### Activity
 
-Peshwa Baji Rao II, pleaded that he be given his father’s pension when the latter died. However, the Company, confident of its superiority and military powers, turned down these pleas.
+Imagine you are a sepoy in the Company army, advising your nephew not to take employment in the army. What reasons would you give?
 
 Awadh was one of the last territories to be annexed. In 1801, a subsidiary alliance was imposed on Awadh, and in 1856 it was taken over. Governor-General Dalhousie declared that the territory was being misgoverned and British rule was needed to ensure proper administration.
 
@@ -107,7 +107,7 @@ Such a situation developed in the northern parts of India in 1857. After a hundr
 
 2. What role did they think the rulers were playing? What role did the sepoys seem to play?
 
-Mutiny – When soldiers as a group disobey their officers in the army Firangis – Foreigners The term reflects an attitude of contempt.
+Mutiny – When soldiers as a group disobey their officers in the army
 
 <!-- page 56 (pdf 6) -->
 
@@ -123,6 +123,8 @@ The sepoys of Meerut rode all night of 10 May to reach Delhi in the early hours 
 
 > [caption] Fig. 5 – Postal stamp issued in commemoration of Mangal Pandey
 
+Firangis – Foreigners The term reflects an attitude of contempt.
+
 <!-- page 57 (pdf 7) -->
 
 The ageing emperor had to accept this demand. He wrote letters to all the chiefs and rulers of the country to come forward and organise a confederacy of Indian states to fight the British. This single step taken by Bahadur Shah had great implications.
@@ -135,7 +137,7 @@ The British had not expected this to happen. They thought the disturbance caused
 
 After the British were routed from Delhi, there was no uprising for almost a week. It took that much time for news to travel. Then, a spurt of mutinies began.
 
-Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and
+Regiment after regiment mutinied and took off to join other troops at nodal points like Delhi, Kanpur and Lucknow. After them, the people of the towns and villages also rose up in rebellion and rallied around local leaders, zamindars and chiefs who were prepared to establish their authority and fight the British. Nana Saheb, the adopted son of the late Peshwa Baji Rao who lived near Kanpur, gathered armed forces and expelled the British garrison from the city. He proclaimed himself Peshwa. He declared that he was a governor under Emperor Bahadur Shah Zafar. In Lucknow, Birjis Qadr, the son of the deposed Nawab Wajid Ali Shah, was proclaimed the new Nawab. He too acknowledged the suzerainty of Bahadur Shah Zafar. His mother Begum Hazrat Mahal took an active part in organising the uprising against the British. In Jhansi, Rani Lakshmibai joined the rebel sepoys and fought the British along with Tantia Tope, the general of Nana Saheb. In the Mandla region of Madhya Pradesh, Rani Avantibai Lodhi of Ramgarh raised and led an army of four thousand against the British who had taken over the administration of her state.
 
 > [caption] Fig. 6 – Bahadur Shah Zafar
 
@@ -159,8 +161,6 @@ Regiment after regiment mutinied and took off to join other troops at nodal poin
 
 > [caption] Fig. 11 – British forces attack the rebels who had occupied the Red Fort (on the right) and Salimgarh Fort in Delhi (on the left)
 
-fought the British along with Tantia Tope, the general of Nana Saheb. In the Mandla region of Madhya Pradesh, Rani Avantibai Lodhi of Ramgarh raised and led an army of four thousand against the British who had taken over the administration of her state.
-
 The British were greatly outnumbered by the rebel forces. They were defeated in a number of battles. This convinced the people that the rule of the British had collapsed for good and gave them the confidence to take the plunge and join the rebellion. A situation of widespread popular rebellion developed in the region of Awadh in particular. On 6 August 1857, we find a telegram sent by Lieutenant Colonel Tytler to his Commander-in-Chief expressing the fear felt by the British: “Our men are cowed by the numbers opposed to them and the endless fighting. Every village is held against us, the zamindars have risen to oppose us.”
 
 Many new leaders came up. For example, Ahmadullah Shah, a maulvi from Faizabad, prophesied that the rule of the British would come to an end soon. He caught the imagination of the people and raised a huge force of supporters. He came to Lucknow to fight the British. In Delhi, a large number of ghazis or religious warriors came together to wipe out the white people. Bakht Khan, a soldier from Bareilly, took charge of a large force of fighters who came to Delhi. He became a key military leader of the rebellion. In Bihar, an old zamindar, Kunwar Singh, joined the rebel sepoys and battled with the British for many months. Leaders and fighters from across the land joined the fight.
@@ -175,7 +175,7 @@ The recapture of Delhi, however, did not mean that the rebellion died down after
 
 Lucknow was taken in March 1858. Rani Lakshmibai was defeated and killed in June 1858. A similar fate awaited Rani Avantibai, who after initial victory in Kheri, chose to embrace death when surrounded by the British on all sides. Tantia Tope escaped to the jungles of central India and continued to fight a guerrilla war with the support of many tribal and peasant leaders. He was captured, tried and killed in April 1859.
 
-Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, Make a list of places where the uprising took place in May, June and July 1857.
+Just as victories against the British had earlier encouraged rebellion, the defeat of rebel forces encouraged desertions. The British also tried their best to win back the loyalty of the people. They announced rewards for loyal landholders would be allowed to continue to enjoy traditional rights over their lands. Those who had rebelled were told that if they submitted to the British, and if they had not killed any white people, they would remain safe and their rights and claims to land would not be denied. Nevertheless, hundreds of sepoys, rebels, nawabs and rajas were tried and hanged.
 
 > [caption] Fig. 12– The siege train reaches Delhi
 
@@ -185,9 +185,9 @@ Just as victories against the British had earlier encouraged rebellion, the defe
 
 ### Activity
 
-<!-- page 60 (pdf 10) -->
+Make a list of places where the uprising took place in May, June and July 1857.
 
-they would remain safe and their rights and claims to land would not be denied. Nevertheless, hundreds of sepoys, rebels, nawabs and rajas were tried and hanged.
+<!-- page 60 (pdf 10) -->
 
 ## Aftermath
 
@@ -197,7 +197,9 @@ Given below are the important changes that were introduced by the British.
 
 1. The British Parliament passed a new Act in 1858 and transferred the powers of the East India Company to the British Crown in order to ensure a more responsible management of Indian affairs. A member of the British Cabinet was appointed Secretary of State for India and made responsible for all matters related to the governance of India. He was given a council to advise him, called the India Council. The Governor-General of India was given the title of Viceroy, that is, a personal representative of the Crown. Through these measures, the British government accepted direct responsibility for ruling India.
 
-> [caption] Fig. 14 – British troops blow up Kashmere Gate to enter Delhi Fig. 15 – British forces capture the rebels near Kanpur Notice the way the artist shows the British soldiers valiantly advancing on the rebel forces.
+> [caption] Fig. 14 – British troops blow up Kashmere Gate to enter Delhi
+
+> [caption] Fig. 15 – British forces capture the rebels near Kanpur Notice the way the artist shows the British soldiers valiantly advancing on the rebel forces.
 
 <!-- page 61 (pdf 11) -->
 

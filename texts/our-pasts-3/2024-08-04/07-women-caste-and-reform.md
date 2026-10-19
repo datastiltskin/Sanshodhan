@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch07.pdf"
 source_sha256: "3cade768aa6ad102f39b7c705c86596b9e1eaf556939a22432d45e661847837b"
 pdf_pages: 15
 printed_pages: "78-92"
-body_fingerprint: "d556e75730a9f2af2fa0faa1d71aa9c1d84e8c37ae6a4a1aefc5db7a3284a090"
+body_fingerprint: "c4e20d26cdda68d5ff527161f510ce77b323ea7361a00638cd237c3ffc9becd6"
 ---
 
 <!-- page 78 (pdf 1) -->
@@ -200,11 +200,13 @@ The Brahmans have hidden away the sword of their religion which has cut the thro
 
 > [table] Jyotiba Phule, The Cultivator’s Whipcord
 
-In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
+In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
 > [caption] Fig. 13 – Jyotirao Phule
 
 ### Activity
+
+Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
 
 <!-- page 88 (pdf 11) -->
 
@@ -219,8 +221,6 @@ We now want to go to the Tank only to prove that like others, we are also human 
 > [caption] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792
 
 > [caption] “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
-
-those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
 As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
 
@@ -278,7 +278,9 @@ Why does caste remain such a controversial issue today? What do you think was th
 
 > [note] The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
-> [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj Fig. 17 Henry Derozio
+> [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj
+
+> [caption] Fig. 17 Henry Derozio
 
 > [note] Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
 

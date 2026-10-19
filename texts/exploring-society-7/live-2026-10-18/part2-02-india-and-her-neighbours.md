@@ -11,11 +11,10 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf"
 source_sha256: "653ae8cb238af256d7a495c8fae6db54de39ea7295db7aad60dadbb07444dc2c"
 pdf_pages: 32
 printed_pages: "29-60"
-body_fingerprint: "43a9a43b36988391e278aba1a07f3a69decd2201119666134517353b6771dadf"
+body_fingerprint: "35f2b7d0f8866a0f96fd7cbc217eed6cef3b263cd7f00ae24f4a14fac8d4bb34"
 overrides:
   - "part 2 chapter 2, page 40: stray S from the Bhutan emblem ring"
   - "part 2 chapter 2, page 40: the box text wraps round the emblem"
-  - "part 2 chapter 2, page 40: the Fig. 2.11 caption is one caption"
 ---
 
 <!-- page 29 (pdf 1) -->
@@ -30,13 +29,9 @@ Our destinies are inextricably tied together. What affects one nation affects th
 
 > [caption] Fig. 2.1. India and some of her neighbours
 
-> [note] The Big
-
 1. What defines a ‘neighbour’? Is it just shared land borders? 2. How do geography and history influence the nature of India’s relationships with her neighbours? 3. In what ways are India and her neighbours interconnected today?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 30 (pdf 2) -->
 
@@ -78,8 +73,6 @@ Culturally, Buddhism is a powerful link between the two countries. Originating i
 
 <!-- page 33 (pdf 5) -->
 
-> [caption] 70°E 80°E 90°E 100°E 110°E 120°E 130°E
-
 > [caption] N
 
 > [caption] E W
@@ -100,11 +93,9 @@ Culturally, Buddhism is a powerful link between the two countries. Originating i
 
 > [caption] Andaman & Nicobar Islands Lakshadweep
 
-> [caption] 70°E 80°E 90°E 100°E 110°E 120°E 130°E
-
 ### DON’T MISS OUT
 
-In the 13th century, Hindu merchants built temples in the Chinese port city of Quanzhou, an important trading centre. At the Kaiyuan temple, pillars depict carvings of Viṣhṇu, Śhiva, and stories from the Rāmāyaṇa and the Purāṇ as.
+In the 13th century, Hindu merchants built temples in the Chinese port city of Quanzhou, an important trading centre. At the Kaiyuan temple, pillars depict carvings of Viṣhṇu, Śhiva, and stories from the Rāmāyaṇa and the Purāṇas.
 
 > [caption] Beijing
 
@@ -119,8 +110,6 @@ India’s trade relationship with China continues till date. In 2024-2025, India
 Recent years have also seen phases of heightened tensions, mostly related to their shared borders, and a few serious conflicts, some of which you will encounter in higher classes. On the other hand, efforts are being made to resolve disputes through trade, dialogue and border resolution mechanisms.
 
 ## India and Pakistan
-
-> [caption] 50°E 60°E 70°E 80°E 90°E
 
 > [caption] N
 
@@ -149,8 +138,6 @@ Recent years have also seen phases of heightened tensions, mostly related to the
 > [caption] Andaman & Nicobar Islands Lakshadweep
 
 > [caption] INDIAN OCEAN
-
-> [caption] 50°E 60°E 70°E 80°E 90°E
 
 > [caption] Fig. 2.5. India, Pakistan, Afghanistan, and Iran
 
@@ -182,8 +169,6 @@ The land border between the two countries (Fig. 2.7) is even longer than India�
 
 <!-- page 37 (pdf 9) -->
 
-> [caption] 50°E 60°E 70°E 80°E 90°E
-
 > [caption] Kathmandu Thimpu
 
 > [caption] New Delhi
@@ -205,8 +190,6 @@ The land border between the two countries (Fig. 2.7) is even longer than India�
 > [caption] BHUTAN
 
 > [caption] NEPAL
-
-> [caption] 50°E 60°E 70°E 80°E 90°E
 
 > [caption] Fig. 2.7. India, Bangladesh, Nepal, and Bhutan
 
@@ -332,8 +315,6 @@ Sri Lanka is an island nation located to the southeast of India, with the two co
 
 <!-- page 46 (pdf 18) -->
 
-> [caption] 50°E 60°E 70°E 80°E 90°E 100°E
-
 > [caption] N
 
 > [caption] E W
@@ -368,8 +349,6 @@ Sri Lanka is an island nation located to the southeast of India, with the two co
 
 > [caption] INDIAN OCEAN
 
-> [caption] 50°E 60°E 70°E 80°E 90°E 100°E
-
 > [caption] Fig. 2.16. India, Sri Lanka, the Maldives (circled) and Oman
 
 However, the relationship has not always been smooth. One difficult time was during Sri Lanka’s civil war from the mid-1980s to around 2010. The war was mainly between the Sinhalese majority (whose language is Sinhala) and the Tamil minority, which has close cultural ties to India. Because of the fighting, many Tamil families had to leave Sri Lanka and move to south India, especially Tamil Nadu.
@@ -378,7 +357,9 @@ India and Sri Lanka share a multidimensional partnership that combines cultural 
 
 <!-- page 47 (pdf 19) -->
 
-> [caption] Fig. 2.17. Traditional fishermen at sunset in Sri Lanka, standing on stilts Fig. 2.18. Brightly coloured traditional wooden masks of Sri Lanka; this tradition may have connections with similar mask-making traditions in India, particularly from south India.
+> [caption] Fig. 2.17. Traditional fishermen at sunset in Sri Lanka, standing on stilts
+
+> [caption] Fig. 2.18. Brightly coloured traditional wooden masks of Sri Lanka; this tradition may have connections with similar mask-making traditions in India, particularly from south India.
 
 ## A nation of islets
 
@@ -409,8 +390,6 @@ India and Thailand are closely linked through maritime routes and regional geogr
 Indeed, the impact of Indian culture is reflected in the names of later Thai kingdoms. The Dvāravatī culture, which flourished from the 6th to the 11th centuries CE, derived its name from a Sanskrit word for ‘that which has gates’, directly referencing Dvārakā, Kṛiṣhṇa’s city described in the Mahābhārata. Much later, the Ayutthayā Kingdom, founded in 1351, was named after the ancient Indian city of Ayodhyā, the birthplace of Rāma according to the Rāmāyaṇa. This choice of place names reflecting Indian traditions illustrates the profound impact of Indian civilisation on Thailand’s history and culture.
 
 <!-- page 50 (pdf 22) -->
-
-> [caption] 75°E 90°E 105°E 120°E 135°E
 
 > [caption] N
 
@@ -447,8 +426,6 @@ Indeed, the impact of Indian culture is reflected in the names of later Thai kin
 > [caption] INDIAN OCEAN
 
 > [caption] Jakarta
-
-> [caption] 75°E 90°E 105°E 120°E 135°E
 
 > [caption] Fig. 2.20. India, Myanmar, Thailand, Malaysia, Singapore, Indonesia
 

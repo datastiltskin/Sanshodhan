@@ -10,9 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "052b10ed507e7cb45f037132246ff4a60ec1105964a95ce6608d98eee4b8ba60"
+body_fingerprint: "29c6b9b900ba8fdf792146ca7e338934fdbfd31d9511ef10d92bab9b1132617c"
 ocr: true
-ocr_confidence: 92.1
+ocr_confidence: 94.2
 overrides:
   - "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
 ---
@@ -113,11 +113,7 @@ Birthright Privileges claimed on account of birth. For example, people believed 
 
 ## From Garrison Town to Empire: The Expansion of the Delhi Sultanate
 
-> [caption] Hansie Kaslig DELHI P83” eBudaun
-
 > [caption] S e f Sambhamanak @ Mandor Xo
-
-/ \ Ajmere oe ep aie Na ° 4 ro] f Gwalior. * e, / Ranthambhor . Ip Dewal Benaras @ LAKHNAUTI oF o \ oF , his S yy r A onl - ARABIAN Cis Y OF SEA JS BENGAL Muslims came from a Fig-5 ; iety. of Mosque of Jamali backgrounds. late 1520s.
 
 In the early thirteenth century the control of the Delhi Sultans rarely went beyond heavily fortified towns occupied by garrisons. The Sultans seldom controlled the hinterland of the cities and were therefore dependent upon trade, tribute or plunder for supplies.
 
@@ -143,8 +139,6 @@ The second expansion occurred along the “external frontier” of the Sultanate
 
 By the end of Muhammad Tughluq’s reign, 150 years after somewhat humble beginnings, the armies of the Delhi Sultanate had marched across a large part of the subcontinent. They had defeated rival armies and seized cities. The Sultanate collected taxes from the peasantry and dispensed justice in its realm. But how complete and effective was its control over such a vast territory?
 
-PUNJAB Delhi -, i. s Cy) Joff ] oN 4 ed Wig / esi ” | Ranthambhor Ae ~ “4 = itor f y Kara —6& UJARAT Mandu \ fica —_ Sontapath sf i 1305 ) afloat a A ~ \ = i r xP / A / Y vy, 4 f ¥ %.. \Devagirie x a > ‘ i eh NZ re s\ \ 3 \ “4 A \ pe = — A } \ 3 ss f / Saw \ 2 M od \). VS ; Dwarasamydrae & | “=——_ Campaigns / \ % } D, & ; s “Taig 7) LAKSHADWEEP ‘ae Z e ANDAMAN & NICOBAR ISLANDS ane J , lAN™* OCEAN o \ \y b \ L
-
 > [caption] Map 3
 
 > [caption] Alauddin Khalji’s campaign into south India.
@@ -167,13 +161,13 @@ During prayer, Muslims stand facing Mecca. In India this is to the west. This is
 
 <!-- page 37 (pdf 8) -->
 
-> [caption] The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped Moth ki Masjid, built — in the reign of Sikandar Lodi by his minister.
-
-> [caption] to create the sense of a community of believers
+> [caption] The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers Moth ki Masjid, built — in the reign of Sikandar Lodi by his minister.
 
 who shared a belief
 
 system and a code of conduct. It was necessary to reinforce this idea of a community because
+
+Muslims came from a Fig-5 ; iety. of Mosque of Jamali backgrounds. late 1520s.
 
 variety O Kamali, built in the
 

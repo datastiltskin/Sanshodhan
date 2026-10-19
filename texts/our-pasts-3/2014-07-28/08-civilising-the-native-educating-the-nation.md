@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch02.pdf"
 source_sha256: "98a61eaa644ea21518471512cc6761853f75c0923bec62e5ea16e0ac129df081"
 pdf_pages: 13
 printed_pages: "95-107"
-body_fingerprint: "2fdf34b230d0c76f919ea170c2dcfb5c4a429625749999aaedbf1758e081ab2e"
+body_fingerprint: "36390799caad1204f01f633e9216276aaf8b17274f631da0237b9b6681400467"
 ---
 
 <!-- page 95 (pdf 1) -->
@@ -29,7 +29,9 @@ Let us look at what the British thought and did, and how some of the ideas of ed
 
 ### The tradition of Orientalism
 
-In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+
+Linguist – Someone who knows and studies several languages
 
 > [caption] Fig. 1 – William Jones learning Persian
 
@@ -49,11 +51,13 @@ With this object in view a madrasa was set up in Calcutta in 1781 to promote the
 
 > [caption] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
 
-Madrasa – An Arabic word for a place of learning; any type of school or college Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
+Madrasa – An Arabic word for a place of learning; any type of school or college
 
 <!-- page 97 (pdf 3) -->
 
 > [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
+
+Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
 ### “Grave errors of the East”
 
@@ -61,7 +65,13 @@ From the early nineteenth century many British officials began to criticise the 
 
 James Mill was one of those who attacked the Orientalists. The British effort, he declared, should not be to teach what the natives wanted, or what they respected, in order to please them and “win a place in their heart”. The aim of education ought to be to teach what was useful and practical. So Indians should be made familiar with the scientific and technical advances that the West had made, rather than with the poetry and sacred literature of the Orient.
 
-By the 1830s the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that Orientalists – Those with a scholarly knowledge of the language and culture of Asia Munshi – A person who can read, write and teach Persian Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
+By the 1830s the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that
+
+Orientalists – Those with a scholarly knowledge of the language and culture of Asia
+
+Munshi – A person who can read, write and teach Persian
+
+Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
 
 <!-- page 98 (pdf 4) -->
 
@@ -115,7 +125,9 @@ We must emphatically declare that the education which we desire to see extended 
 
 ### The demand for moral education
 
-> [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+> [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
+
+> [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
 
 > [note] The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
 
@@ -157,11 +169,11 @@ The new rules and routines had another consequence. In the earlier system childr
 
 ## The Agenda for a National Education
 
-British officials were not the only people thinking about education in India. From the early nineteenth century many thinkers from different parts of India began to talk of the need for a wider spread of education. Impressed with the developments in Europe, some Indians felt that Western education would help modernise India. They urged the British to open more schools, colleges and universities, and spend more money on education. You will read about some of these efforts in Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
+British officials were not the only people thinking about education in India. From the early nineteenth century many thinkers from different parts of India began to talk of the need for a wider spread of education. Impressed with the developments in Europe, some Indians felt that Western education would help modernise India. They urged the British to open more schools, colleges and universities, and spend more money on education. You will read about some of these efforts in Chapter 9. There were other Indians, however, who reacted against Western education. Mahatma Gandhi and Rabindranath Tagore were two such individuals.
+
+Activity 1. Imagine you were born in a poor family in the 1850s. How would you have responded to the coming of the new system of government-regulated pathshalas? 2. Did you know that about 50 per cent of the children going to primary school drop out of school by the time they are 13 or 14? Can you think of the various possible reasons for this fact?
 
 <!-- page 103 (pdf 9) -->
-
-Chapter 9. There were other Indians, however, who reacted against Western education. Mahatma Gandhi and Rabindranath Tagore were two such individuals.
 
 Let us look at what they had to say.
 

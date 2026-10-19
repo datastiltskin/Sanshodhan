@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2023-12-23/ch06.pdf"
 source_sha256: "67e455d63610259a6b30eb4e4275de4e045139bb89fde33bc8c4152ffc119eb9"
 pdf_pages: 13
 printed_pages: "65-77"
-body_fingerprint: "09a30d819111068e716ad64687e93c1955756ca143f370f7685b693b7c73013e"
+body_fingerprint: "e44e2cc151e4b82bb4e644e70120c309391b93f45a0a283e32eb60cbd5ae84ff"
 ---
 
 <!-- page 65 (pdf 1) -->
@@ -27,9 +27,11 @@ Let us look at what the British thought and did, and how some of the ideas of ed
 
 ### The tradition of Orientalism
 
-In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and Linguist – Someone who knows and studies several languages poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
+In 1783, a person named William Jones arrived in Calcutta. He had an appointment as a junior judge at the Supreme Court that the Company had set up. In addition to being an expert in law, Jones was a linguist. He had studied Greek and Latin at Oxford, knew French and English, had picked up Arabic from a friend, and had also learnt Persian. At Calcutta, he began spending many hours a day with pandits who taught him the subtleties of Sanskrit language, grammar and poetry. Soon he was studying ancient Indian texts on law, philosophy, religion, politics, morality, arithmetic, medicine and the other sciences.
 
 > [caption] Fig. 1 – William Jones learning Persian
+
+Linguist – Someone who knows and studies several languages
 
 <!-- page 66 (pdf 2) -->
 
@@ -47,11 +49,13 @@ With this object in view, a madrasa was set up in Calcutta in 1781 to promote th
 
 > [caption] He was a scholar of Sanskrit and ancient sacred writings of Hinduism.
 
-Madrasa – An Arabic word for a place of learning; any type of school or college Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
+Madrasa – An Arabic word for a place of learning; any type of school or college
 
 <!-- page 67 (pdf 3) -->
 
 > [caption] Fig. 3 – Monument to Warren Hastings, by Richard Westmacott, 1830, now in Victoria Memorial in Calcutta This image represents how Orientalists thought of British power in India. You will notice that the majestic figure of Hastings, an enthusiastic supporter of the Orientalists, is placed between the standing figure of a pandit on one side and a seated munshi on the other side. Hastings and other Orientalists needed Indian scholars to teach them the “vernacular” languages, tell them about local customs and laws, and help them translate and interpret ancient texts. Hastings took the initiative to set up the Calcutta Madrasa, and believed that the ancient customs of the country and Oriental learning ought to be the basis of British rule in India.
+
+Not all officials shared these views. Many were very strong in their criticism of the Orientalists.
 
 ### “Grave errors of the East”
 
@@ -59,7 +63,13 @@ From the early nineteenth century, many British officials began to criticise the
 
 James Mill was one of those who attacked the Orientalists. The British effort, he declared, should not be to teach what the natives wanted, or what they respected, in order to please them and “win a place in their heart”. The aim of education ought to be to teach what was useful and practical. So Indians should be made familiar with the scientific and technical advances that the West had made, rather than with the poetry and sacred literature of the Orient.
 
-By the 1830s, the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that Orientalists – Those with a scholarly knowledge of the language and culture of Asia Munshi – A person who can read, write and teach Persian Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
+By the 1830s, the attack on the Orientalists became sharper. One of the most outspoken and influential of such critics of the time was Thomas Babington Macaulay. He saw India as an uncivilised country that needed to be civilised. No branch of Eastern knowledge, according to him could be compared to what England had produced. Who could deny, declared Macaulay, that
+
+Orientalists – Those with a scholarly knowledge of the language and culture of Asia
+
+Munshi – A person who can read, write and teach Persian
+
+Vernacular – A term generally used to refer to a local language or dialect as distinct from what is seen as the standard language. In colonial countries like India, the British used the term to mark the difference between the local languages of everyday use and English – the language of the imperial masters.
 
 <!-- page 68 (pdf 4) -->
 
@@ -119,7 +129,9 @@ We must emphatically declare that the education which we desire to see extended 
 
 ### The demand for moral education
 
-> [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+> [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
+
+> [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
 
 > [note] The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
 

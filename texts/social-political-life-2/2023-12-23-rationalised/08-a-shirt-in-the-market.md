@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch08.pdf"
 source_sha256: "f885b99802017fcca6f6407289e44812be2dc0b9c12eacf78bddbbcae97f009c"
 pdf_pages: 13
 printed_pages: "86-98"
-body_fingerprint: "dccf69da606d51ca4e1232acb3d9b681e451e21fb0026a88c68d2734981ee609"
+body_fingerprint: "443c1fb0cd3f145b2e86152d0dab0eca5f26bd764431886b5438593dd92d7a95"
 ---
 
 <!-- page 86 (pdf 11) -->
@@ -75,13 +75,9 @@ On market days, you would also find weavers bringing cloth that has been made on
 
 <!-- page 89 (pdf 14) -->
 
-1 2
-
-3
-
 Putting-out system– weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
-However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of
+However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of knowing who they are making the cloth for or at what price it will be sold. At the cloth market, the merchants sell the cloth to the garment factories. In this way, the market works more in favour of the merchants.
 
 1. This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
 
@@ -91,19 +87,15 @@ However, this dependence on the merchants both for raw materials and markets mea
 
 <!-- page 90 (pdf 15) -->
 
-knowing who they are making the cloth for or at what price it will be sold. At the cloth market, the merchants sell the cloth to the garment factories. In this way, the market works more in favour of the merchants.
-
 > [note] If the weavers were to buy yarn on their own and sell cloth, they would probably earn three times more. Do you think this is possible? How? Discuss.
 
 Weavers invest all their savings or borrow money at high interest rates to buy looms. Each loom costs ₹ 20,000, so a small weaver with two looms has to invest ₹ 40,000. The work on these looms cannot be done alone. The weaver and another adult member of his family work upto 12 hours a day to produce cloth. For all this work, they earn about ₹ 3,500 per month.
 
 > [note] Do you find similar ‘putting-out’ arrangements in making papads, masalas, beedis? Find out about this in your area and discuss in class.
 
-> [note] You might have heard of cooperatives in your area. It could be in milk, provisions, paddy, etc. Find out for whose benefit they
+> [note] You might have heard of cooperatives in your area. It could be in milk, provisions, paddy, etc. Find out for whose benefit they were set up?
 
 The arrangement between the merchant and the weavers is an example of putting-out system, whereby the merchant supplies the raw material and receives the finished product. It is prevalent in the weaving industry in most regions of India.
-
-> [note] were set up?
 
 Weaver’s cooperative
 

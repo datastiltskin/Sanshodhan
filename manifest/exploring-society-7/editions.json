@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "57be9ede5527140b2db10b8ed49e42ea150cbd0a353c7621030c0f82b6ff94b3",
+      "fingerprint": "950a2de560a1543eb6093ff9d311de4a07e468eb8c7b651075c76c1d2ea75015",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -42,24 +42,20 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf",
           "pdf_pages": 26,
           "printed_pages": "1-26",
-          "fingerprint": "4f15e1f54b0f5634a588625f6cc0f61a9c78eead6dd5e828d2c1f18970ae9205",
+          "fingerprint": "8ce85fc506b5f8705f2393b34aff54de4e8055466564795da1d6edad3e17110b",
           "role_counts": {
             "footer": 53,
             "h2": 19,
             "chapter-number": 1,
-            "body": 95,
-            "caption": 82,
-            "h3": 21,
-            "note": 2
+            "body": 90,
+            "caption": 46,
+            "decoration": 7,
+            "h3": 21
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": [
-            "part 1 chapter 1, page 6: the Fig. 1.6 caption is one two-line caption",
-            "part 1 chapter 1, page 10: four captions of the photo grid, each under its own photo",
-            "part 1 chapter 1, page 11: three captions interleaved by line",
-            "part 1 chapter 1, page 13: the Fig. 1.23 caption wrapped in a narrow column into four blocks",
             "part 1 chapter 1, page 18: five captions each under its own photo"
           ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-01-geographical-diversity-of-india.md"
@@ -71,13 +67,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch02.pdf",
           "pdf_pages": 18,
           "printed_pages": "27-44",
-          "fingerprint": "49866330e9cf2c194f242716c8d0a6602534dd7795b78aa88d10efaa8484423f",
+          "fingerprint": "f435c5444300e000af2019263cf11c16c9aebefbb87f67542b4f2a5ddaf8a956",
           "role_counts": {
             "footer": 42,
             "h2": 16,
             "chapter-number": 1,
-            "body": 101,
-            "caption": 66,
+            "body": 100,
+            "decoration": 1,
+            "caption": 53,
             "h3": 17,
             "table": 42
           },
@@ -96,13 +93,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch03.pdf",
           "pdf_pages": 22,
           "printed_pages": "45-66",
-          "fingerprint": "88b1a5caa6e7562e23de10fbc5135eb383d3288060fa6e4be1250a14dba44e06",
+          "fingerprint": "e48987012117c50cc1daa5021ae241155a27c049f1ce6abc266e5a39636e5ce3",
           "role_counts": {
             "footer": 46,
             "h2": 20,
             "chapter-number": 1,
-            "body": 107,
-            "caption": 64,
+            "decoration": 1,
+            "body": 106,
+            "caption": 49,
             "h3": 12,
             "table": 26
           },
@@ -119,12 +117,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch04.pdf",
           "pdf_pages": 16,
           "printed_pages": "67-82",
-          "fingerprint": "1d140621c273e90b0eaa006422571cfb305814c0686ff0fccee68f89ca116fbf",
+          "fingerprint": "c17ab61caf47eda5890b3cbcb4929779746896075741a730b7e6ff35e2a1597a",
           "role_counts": {
             "h2": 7,
             "chapter-number": 1,
-            "body": 59,
-            "caption": 46,
+            "body": 58,
+            "decoration": 1,
+            "caption": 41,
             "footer": 31,
             "h3": 8
           },
@@ -141,13 +140,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf",
           "pdf_pages": 34,
           "printed_pages": "83-116",
-          "fingerprint": "7bcf4f8af4552b34ef74acd9eb4b4645622756a3532d313aef4d6f88da844640",
+          "fingerprint": "89733b380ae0607545ef28f0195d3037359e10652fda7b4403b3e4fab03ae965",
           "role_counts": {
             "footer": 74,
             "h2": 20,
-            "body": 146,
+            "body": 145,
+            "decoration": 1,
             "chapter-number": 1,
-            "caption": 142,
+            "caption": 118,
             "table": 36,
             "h3": 19
           },
@@ -156,9 +156,7 @@
           "ocr_pages": null,
           "overrides": [
             "part 1 chapter 5, page 88: the six hexagon boxes were read line by line across each other, rebuilt from the page image",
-            "part 1 chapter 5, page 98: the coin caption is one caption, the paragraph runs beside it",
-            "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer",
-            "part 1 chapter 5, page 110: two side-by-side captions interleaved by line"
+            "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer"
           ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-05-the-rise-of-empires.md"
         },
@@ -169,28 +167,24 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch06.pdf",
           "pdf_pages": 28,
           "printed_pages": "117-144",
-          "fingerprint": "ca3283e7129e241a9a8042a181aa845cf97be2a4b2fd6ff9563fc4c8aed4cc07",
+          "fingerprint": "f75b5af540cee15291ec2c9c230dfb0ed30d54a2bc59cd5d32d17654c88e2dfc",
           "role_counts": {
             "footer": 59,
             "h2": 21,
             "chapter-number": 1,
-            "body": 121,
-            "caption": 146,
+            "body": 103,
+            "decoration": 69,
+            "caption": 79,
             "h3": 24,
-            "decoration": 20,
-            "note": 2,
+            "note": 1,
             "table": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": [
-            "part 1 chapter 6, page 119: axis tick labels of the map were glued into the caption",
             "part 1 chapter 6, page 120: the two halves of the Fig. 6.3 diagram were read line by line across each other",
-            "part 1 chapter 6, page 136: the Fig. 6.22 caption continues on a second line under the statue",
-            "part 1 chapter 6, page 136: the tail of the Fig. 6.22 caption landed on the coin caption",
-            "part 1 chapter 6, page 138: map label misread",
-            "part 1 chapter 6, page 138: axis ticks glued to the front of the caption"
+            "part 1 chapter 6, page 138: map label misread"
           ],
           "file": "texts/exploring-society-7/live-2026-10-18/part1-06-the-age-of-reorganisation.md"
         },
@@ -201,25 +195,22 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf",
           "pdf_pages": 22,
           "printed_pages": "145-166",
-          "fingerprint": "c630b2b3c1309fbdfb0408ef96a34b0a376d24deb9f0ef55a78ab563c1c795a6",
+          "fingerprint": "b02f80beec3e83cb34820e4b1233c0ca0933d8e5a0db1ac01c4ecd9291cfa7bd",
           "role_counts": {
             "footer": 44,
-            "body": 86,
+            "body": 85,
             "h2": 15,
             "chapter-number": 1,
-            "caption": 103,
+            "decoration": 22,
+            "caption": 67,
             "dropcap": 2,
-            "decoration": 12,
             "h3": 12,
             "table": 1
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": [
-            "part 1 chapter 7, page 146: the map label Kāmarūpa Kingdom sits between two lines of the Gupta call-out",
-            "part 1 chapter 7, page 152: axis ticks glued to the front of the caption"
-          ],
+          "overrides": null,
           "file": "texts/exploring-society-7/live-2026-10-18/part1-07-the-gupta-era-an-age-of-tireless-creativity.md"
         },
         {
@@ -229,13 +220,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf",
           "pdf_pages": 18,
           "printed_pages": "167-184",
-          "fingerprint": "36c21093aa491ca214b2c680fad0a19e021fa8ee537e46f3f87154ff2b1de0d0",
+          "fingerprint": "5ff83821abfa9b3704977668f6f565e1d26bee962a9d2d1fc94b4362b5339870",
           "role_counts": {
             "footer": 39,
             "h2": 15,
             "chapter-number": 1,
-            "body": 83,
-            "caption": 44,
+            "body": 82,
+            "decoration": 1,
+            "caption": 24,
             "h3": 10
           },
           "ocr": false,
@@ -251,15 +243,16 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf",
           "pdf_pages": 24,
           "printed_pages": "185-208",
-          "fingerprint": "c4bd3a7c8e2e0870dd55db06b7bd442c8abcb62242e11a9a792fd625897a6eac",
+          "fingerprint": "6a58947a1f8296327d9b950e2a57a653ad14c2a605d04c26c3c4bd295f9f0c9d",
           "role_counts": {
             "footer": 49,
             "h2": 25,
             "body": 188,
-            "note": 5,
+            "decoration": 1,
             "chapter-number": 1,
-            "caption": 54,
-            "h3": 14
+            "caption": 29,
+            "h3": 14,
+            "note": 4
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -280,14 +273,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf",
           "pdf_pages": 20,
           "printed_pages": "209-228",
-          "fingerprint": "4d09d038b45cf0c93c6c418db730f1cffe753af7f1af5895e6cffc7aea1adf38",
+          "fingerprint": "28eafa93ecd7965942583c1e59b10e3eee469362be97ad1de3bc08320d5702f6",
           "role_counts": {
             "footer": 43,
             "h2": 21,
             "body": 105,
-            "note": 1,
+            "decoration": 1,
             "chapter-number": 1,
-            "caption": 63,
+            "caption": 41,
             "h3": 14,
             "table": 55
           },
@@ -295,7 +288,6 @@
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": [
-            "part 1 chapter 10, page 217: the Fig. 10.5 caption wrapped around the photo into three blocks",
             "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image",
             "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image",
             "part 1 chapter 10, page 225: tail of the SECULAR margin note, now part of the rebuilt note"
@@ -309,13 +301,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch11.pdf",
           "pdf_pages": 18,
           "printed_pages": "229-246",
-          "fingerprint": "c241335f6a1639d5241107cfb3f65953060de0e50e4c6e9b5c0c3dcf8d956793",
+          "fingerprint": "7be3330e0578dbcb9dfba83b1ef17f626339fcbb064c97c847e30b55cf229611",
           "role_counts": {
             "footer": 41,
             "chapter-number": 1,
-            "body": 87,
+            "body": 86,
+            "decoration": 1,
             "h2": 5,
-            "caption": 98,
+            "caption": 54,
             "h3": 20
           },
           "ocr": false,
@@ -331,13 +324,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf",
           "pdf_pages": 26,
           "printed_pages": "247-272",
-          "fingerprint": "298dd9f2eeabd41273a59665507b65c33d9ca7200a668a20b679402453b68910",
+          "fingerprint": "71e53fdf3f8ded891e882afcf0989e60755ceabbea31813005ce7c5abb482358",
           "role_counts": {
             "footer": 58,
             "h2": 17,
-            "body": 132,
+            "body": 131,
             "chapter-number": 1,
-            "caption": 130,
+            "decoration": 7,
+            "caption": 103,
             "h3": 18,
             "table": 21,
             "note": 1
@@ -360,13 +354,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch01.pdf",
           "pdf_pages": 28,
           "printed_pages": "1-28",
-          "fingerprint": "4927cecc4207cf4617d514ff04740ad268785400f7f471ca5df9950beec858a0",
+          "fingerprint": "ecac38204f19ecfe830ec56569e73cfc692078d7ea78cdcb53a4b5a70dd11440",
           "role_counts": {
             "footer": 57,
             "h2": 24,
             "chapter-number": 1,
             "body": 127,
-            "caption": 156,
+            "caption": 88,
             "h3": 22,
             "table": 22
           },
@@ -383,23 +377,23 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch02.pdf",
           "pdf_pages": 32,
           "printed_pages": "29-60",
-          "fingerprint": "43a9a43b36988391e278aba1a07f3a69decd2201119666134517353b6771dadf",
+          "fingerprint": "35f2b7d0f8866a0f96fd7cbc217eed6cef3b263cd7f00ae24f4a14fac8d4bb34",
           "role_counts": {
             "footer": 64,
             "h2": 22,
             "chapter-number": 1,
             "body": 126,
-            "note": 4,
-            "caption": 138,
-            "h3": 18
+            "decoration": 11,
+            "caption": 109,
+            "h3": 18,
+            "note": 3
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": [
             "part 2 chapter 2, page 40: stray S from the Bhutan emblem ring",
-            "part 2 chapter 2, page 40: the box text wraps round the emblem",
-            "part 2 chapter 2, page 40: the Fig. 2.11 caption is one caption"
+            "part 2 chapter 2, page 40: the box text wraps round the emblem"
           ],
           "file": "texts/exploring-society-7/live-2026-10-18/part2-02-india-and-her-neighbours.md"
         },
@@ -410,12 +404,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf",
           "pdf_pages": 36,
           "printed_pages": "61-96",
-          "fingerprint": "7ddb95e84573f5d0613e22b0dbc51cb60a0711e1f1d4e7feb5e5ad02c108f2c9",
+          "fingerprint": "04e0cdddebe49ba0e22fa13d76bcff2760e2c32c1ac4fd8fdcf9082067ac89fe",
           "role_counts": {
             "h2": 24,
             "chapter-number": 1,
-            "body": 170,
-            "caption": 174,
+            "body": 169,
+            "decoration": 7,
+            "caption": 125,
             "footer": 73,
             "h3": 24,
             "table": 1
@@ -435,13 +430,14 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf",
           "pdf_pages": 28,
           "printed_pages": "97-124",
-          "fingerprint": "bdd57e8b75764b604880b7df513a4b6a99102202bd0c1c7ef0189bdf6bf41436",
+          "fingerprint": "b5c1c90796499b298622674290cec4458d23adbf440a5cdba2f723ee39e59bf3",
           "role_counts": {
             "footer": 56,
             "h2": 17,
             "chapter-number": 1,
-            "body": 116,
-            "caption": 104,
+            "body": 115,
+            "decoration": 5,
+            "caption": 76,
             "table": 2,
             "h3": 14
           },
@@ -458,15 +454,15 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch05.pdf",
           "pdf_pages": 18,
           "printed_pages": "125-142",
-          "fingerprint": "71c797a7e18d7e6bbc357838f85af3754c6f87cf04b85a4d13b34b425196afca",
+          "fingerprint": "dbbf47a14eabc33674fae6cc3f92e1fdd554599ddd2b95f1e08f4c7421688782",
           "role_counts": {
             "footer": 36,
             "h2": 15,
             "body": 72,
             "chapter-number": 1,
-            "note": 1,
+            "decoration": 1,
             "h3": 10,
-            "caption": 49
+            "caption": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -487,7 +483,7 @@
             "h2": 20,
             "body": 133,
             "chapter-number": 1,
-            "caption": 79,
+            "caption": 48,
             "h3": 13,
             "table": 42
           },
@@ -506,12 +502,13 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf",
           "pdf_pages": 24,
           "printed_pages": "169-192",
-          "fingerprint": "fcbb6c6a6947dfec4170e501a763be5ac179ac5bdd4adb19acec574a7c0b97d2",
+          "fingerprint": "1cc7d26b222462223ab2f589237570d6220edaf474e9f01691b16f2557ca611a",
           "role_counts": {
-            "body": 73,
+            "body": 72,
+            "decoration": 2,
             "h2": 14,
             "chapter-number": 1,
-            "caption": 222,
+            "caption": 200,
             "footer": 51,
             "h3": 10,
             "table": 23
@@ -533,16 +530,17 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf",
           "pdf_pages": 20,
           "printed_pages": "193-212",
-          "fingerprint": "bb4bbd7a6512f250548c4dedba23d4f68d716e9a400651b6a07f12be06f0947e",
+          "fingerprint": "cfb04118af110540928e8e25611ccf7b9488ce2a34256e67a4c64243c3d4d615",
           "role_counts": {
             "footer": 40,
             "h2": 12,
-            "body": 115,
+            "body": 111,
             "chapter-number": 1,
-            "note": 2,
-            "caption": 107,
+            "decoration": 5,
+            "caption": 69,
             "h3": 13,
-            "table": 36
+            "table": 36,
+            "note": 1
           },
           "ocr": false,
           "ocr_confidence": null,

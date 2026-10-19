@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch08.pdf"
 source_sha256: "024a982968cf2ed2af7894d060c562a15a011f5b4bf6c0d3c90646cacd5ee054"
 pdf_pages: 15
 printed_pages: "94-108"
-body_fingerprint: "bf7b73b1dd2f1b8f03a39e848491f05c336d7e00ec7e011c1e8129ee3ea455e4"
+body_fingerprint: "c1cefd0e91ff78fba8a8c7edea1e4dc05f2a01826f2b4a67f77b3a0402d49b73"
 overrides:
   - "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
 ---
@@ -193,9 +193,11 @@ The Brahmans have hidden away the sword of their religion which has cut the thro
 
 > [table] Jyotiba Phule, The Cultivator’s Whipcord
 
-In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
+In 1873, Phule wrote a book named Gulamgiri, meaning slavery. Some ten years before this, the American Civil War had been fought, leading to the end of slavery in America. Phule dedicated his book to all those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
 > [caption] Fig. 13 – Jyotirao Phule
+
+Activity Carefully read Source 3. What do you think Jyotirao Phule meant by “me here and you over there again”?
 
 <!-- page 104 (pdf 11) -->
 
@@ -208,8 +210,6 @@ In 1927, Ambedkar said:
 We now want to go to the Tank only to prove that like others, we are also human beings … Hindu society should be reorganised on two main principles – equality and absence of casteism.
 
 > [table] Fig. 14 – The gateway to the Madurai temple, drawn by Thomas Daniell, 1792 “Untouchables” were not allowed anywhere near such gateways until the temple entry movement began.
-
-those Americans who had fought to free slaves, thus establishing a link between the conditions of the “lower” castes in India and the black slaves in America.
 
 As this example shows, Phule extended his criticism of the caste system to argue against all forms of inequality. He was concerned about the plight of “upper”-caste women, the miseries of the labourer, and the humiliation of the “low” castes. This movement for caste reform was continued in the twentieth century by other great dalit leaders like Dr B.R. Ambedkar in western India and E.V. Ramaswamy Naicker in the south.
 

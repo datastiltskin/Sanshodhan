@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch01.pdf"
 source_sha256: "726bd12ebbf3c948b31ab5831101cb7f1ce9712ee44e170a3203c833036e4380"
 pdf_pages: 8
 printed_pages: "1-8"
-body_fingerprint: "345be3caf05bfa51b4323c220f1edb9d0fb44e970c61768b014b6fb768bade95"
+body_fingerprint: "81f6dc2cdfc49461b705504d12ead58164fdb608a6bba0f9cd65db78a88c5c46"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -59,7 +59,7 @@ How do we periodise? In 1817, James Mill, a Scottish economist and political phi
 
 Why do we try and divide history into different periods? We do so in an attempt to capture the characteristics of a time, its central features as they appear to us. So the terms through which we periodise – that is, demarcate the difference between periods – become important. They reflect our ideas about the past. They show how we see the significance of the change from one period to the next.
 
-Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
+Mill thought that all Asian societies were at a lower level of civilisation than Europe. According to his telling of history, before the British came to India, Hindu and Muslim despots ruled the country. Religious intolerance, caste taboos and superstitious practices dominated social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
 
 > [caption] Fig. 3 – Warren Hastings became the first Governor-General of India in 1773
 
@@ -67,9 +67,9 @@ Mill thought that all Asian societies were at a lower level of civilisation than
 
 ### Activity
 
-<!-- page 4 (pdf 4) -->
+Interview your mother or another member of your family to find out about their life. Now divide their life into different periods and list out the significant events in each period. Explain the basis of your periodisation.
 
-social life. British rule, Mill felt, could civilise India. To do this it was necessary to introduce European manners, arts, institutions and laws in India. Mill, in fact, suggested that the British should conquer all the territories in India to ensure the enlightenment and happiness of the Indian people. For India was not capable of progress without British help.
+<!-- page 4 (pdf 4) -->
 
 In this idea of history, British rule represented all the forces of progress and civilisation. The period before British rule was one of darkness. Can such a conception be accepted today?
 

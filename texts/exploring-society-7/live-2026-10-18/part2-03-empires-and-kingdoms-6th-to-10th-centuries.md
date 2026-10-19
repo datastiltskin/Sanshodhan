@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch03.pdf"
 source_sha256: "2c03eea83b15b8718697bbdb9bfa57c200e19c6db71014698de73432f0589fbc"
 pdf_pages: 36
 printed_pages: "61-96"
-body_fingerprint: "7ddb95e84573f5d0613e22b0dbc51cb60a0711e1f1d4e7feb5e5ad02c108f2c9"
+body_fingerprint: "04e0cdddebe49ba0e22fa13d76bcff2760e2c32c1ac4fd8fdcf9082067ac89fe"
 overrides:
   - "part 2 chapter 3, page 82: last caption line is missing from the text layer"
 ---
@@ -26,13 +26,9 @@ India never spoke her last word. In all things, she continues, survives and rene
 
 > [caption] Fig. 3.1. The Shore Temple at Māmallapuram, built during the reign of Narasimhavarman II of the Pallava dynasty.
 
-The Big
-
 1. What major changes characterised this period?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. How did the political, cultural, and religious developments shape India during this period?
 
@@ -40,7 +36,7 @@ The Big
 
 <!-- page 62 (pdf 2) -->
 
-> [caption] 650: Start of the Bhakti tradition in south India 712: Arabs conquer Sindh after several attempts 9th century: The Cholas emerge 637: First Arab naval attack as a dominant 750: Rise of the Pāla dynasty power repulsed at Thana 6th 7th 8th 9th 8th–9th centuries: Tripartite Struggle over Kannauj 630–644: Xuanzang’s travels in India 6th to 8th century Pallava-Chālukya struggle
+> [caption] 650: Start of the Bhakti tradition in south India 712: Arabs conquer Sindh after several attempts 9th century: The Cholas emerge as a dominant power 637: First Arab naval attack repulsed at 750: Rise of the Pāla dynasty Thana 6th 7th 8th 9th 8th–9th centuries: Tripartite Struggle over Kannauj 630–644: Xuanzang’s travels in India 6th to 8th century Pallava-Chālukya struggle
 
 This chapter and the next together survey the scene in India from the end of the Gupta era about 600 CE to about 1200 CE. These six centuries together have received several names — ‘post-classical’, ‘late classical’ and ‘early medieval’ among others. We need not use any of those terms here, as long as we keep the broad chronology in mind. In Grade 8, we will explore the next centuries, leading up to the colonial era, dominated by British rule in India, and, ultimately, the struggle for freedom from the colonial rule, culminating in India’s independence.
 
@@ -59,8 +55,6 @@ Imagine you are in north India some 1,500 years ago. The mighty Gupta Empire (se
 <!-- page 63 (pdf 3) -->
 
 Is this really the end of an age of powerful empires … or the dawn of a new era? Let’s step back in time and see. As you can see on the map (Fig. 3.3), the Guptas are gone, but the land is still dynamic and vibrant with activity. Several regional powers have emerged.
-
-> [caption] 70°E 75°E 85°E 80°E 90°E 95°E
 
 > [caption] Sutlej
 
@@ -83,8 +77,6 @@ Is this really the end of an age of powerful empires … or the dawn of a new er
 > [caption] BAY OF BENGAL
 
 > [caption] SEA
-
-> [caption] 70°E 75°E 85°E 80°E 90°E 95°E
 
 > [caption] Fig. 3.3. A simplified map of a few dynasties in north and peninsular India from the 7th century onward.
 
@@ -130,7 +122,27 @@ Apart from several inscriptions, an important historical source for the period i
 
 <!-- page 66 (pdf 6) -->
 
-> [caption] 90°E 85°E 80°E 75°E 70°E 65°E 95°E 105°E 100°E 110°E TAKLAMAKAN Kashgar Samarkand GOBI DESERT HINDU DESERT Dunhuang KUSH Khotan Kabul Bamiyan Srinagar PLATEAU OF TIBET Xi'an
+> [caption] TAKLAMAKAN
+
+> [caption] Kashgar Samarkand
+
+> [caption] GOBI DESERT
+
+> [caption] HINDU
+
+> [caption] DESERT Dunhuang
+
+> [caption] KUSH
+
+> [caption] Khotan
+
+> [caption] Kabul Bamiyan Srinagar
+
+> [caption] PLATEAU
+
+> [caption] OF TIBET
+
+> [caption] Xi'an
 
 > [table] S
 
@@ -170,7 +182,7 @@ Apart from several inscriptions, an important historical source for the period i
 
 > [caption] Cities visited
 
-> [caption] 90°E 85°E 80°E 75°E 70°E 65°E 95°E 105°E 100°E 110°E Fig. 3.7. Xuanzang’s route from China to India and back. (In this map, we have used modern names for the cities Xuanzang passed through.)
+> [caption] Fig. 3.7. Xuanzang’s route from China to India and back. (In this map, we have used modern names for the cities Xuanzang passed through.)
 
 ### LET’S EXPLORE
 
@@ -224,9 +236,7 @@ After Harṣha’s death, the Bengal region fell into disorder until, according 
 
 The Pāla Empire flourished economically thanks not only to internal trade, but also through brisk maritime trade through its seaports on the east coast, which provided pathways to Southeast Asia (see ‘India and Her Neighbours’ for some details). Though the empire later declined, it left a lasting legacy of strong governance and learning in parts of eastern and northern India.
 
-> [caption] Fig. 3.9. Crowned Buddha, Bihar,
-
-> [caption] Pāla Empire, 10th–11th centuries
+> [caption] Fig. 3.9. Crowned Buddha, Bihar, Pāla Empire, 10th–11th centuries
 
 <!-- page 69 (pdf 9) -->
 
@@ -328,13 +338,9 @@ Despite Kashmir’s mountainous geography, throughout history the kingdom remain
 
 We mentioned the Deccan Plateau in a few other chapters. Together with the southernmost tip of the subcontinent, it was equally alive during this time, and we have already surveyed the Rāṣhṭrakūṭas. Do you remember Queen Prabhāvatī Gupta of the Vākāṭakas (Chapter 7 of Part 1 of this textbook)? Once that dynasty came to an end, several mighty kingdoms were locked in a contest for supremacy (Fig. 3.16).
 
-> [caption] Fig. 3.15. Standing Śhiva,
-
-> [caption] Kashmir, 8th century
+> [caption] Fig. 3.15. Standing Śhiva, Kashmir, 8th century
 
 <!-- page 76 (pdf 16) -->
-
-> [caption] 70°E 75°E 85°E 80°E 90°E
 
 > [caption] Narmada
 
@@ -369,8 +375,6 @@ We mentioned the Deccan Plateau in a few other chapters. Together with the south
 > [caption] 0 250 500 km Capital city Other city
 
 > [caption] INDIAN OCEAN
-
-> [caption] 70°E 75°E 85°E 80°E 90°E
 
 > [caption] Fig. 3.16. A simplified map of the main kingdoms in the Deccan and southern India during this period.
 
@@ -430,9 +434,7 @@ The Pallavas ruled over much of northern Tamil Nadu and southern Andhra Pradesh 
 
 <!-- page 80 (pdf 20) -->
 
-> [caption] Fig. 3.19. A panel depicting warriors in a battle
-
-> [caption] (Airavatesvara temple, Tamil Nadu).
+> [caption] Fig. 3.19. A panel depicting warriors in a battle (Airavatesvara temple, Tamil Nadu).
 
 ## Further South
 
@@ -540,9 +542,7 @@ More bhakti saints followed in several other parts of India. They emerged from d
 
 The period we deal with in this chapter saw brilliant advances in science and technology. Let us look at mathematics and astronomy here, which contributed to India’s renown in the ancient world.
 
-> [caption] Fig. 3.24. A statue of Kāraikāl
-
-> [caption] Ammaiyār, one of the female Nāyanmār saints, who probably lived in the 6th century CE.
+> [caption] Fig. 3.24. A statue of Kāraikāl Ammaiyār, one of the female Nāyanmār saints, who probably lived in the 6th century CE.
 
 Born in 598 CE in Bhillamāla (the first capital of the Gurjara-Pratīhāras, remember), Brahmagupta was an imposing figure, with remarkable achievements in mathematics and astronomy. In his major work, Brahmasphutasiddhānta, he introduced the rules of arithmetic operations with zero, negative numbers and fractions — the same that you now learn at school. He also pioneered new techniques for solving certain equations, establishing him as one of the founders of modern algebra. His works were translated into Persian and later Latin, contributing to the growth of mathematics in the Arab world and, later, Europe.
 
@@ -554,21 +554,21 @@ Many more scholars of those times could be mentioned. Together with their predec
 
 ## Foreign Invasions
 
-For centuries, Indian rulers kept a close watch on the strategic northwestern frontier, yet the subcontinent faced many foreign invasions throughout its long history. In Part 1 of this textbook, we read about invasions by the Greeks, the Śhakas, and the Kuṣhāṇas. Let us now hear about the coming of the Hūṇ as and of the Arabs.
+For centuries, Indian rulers kept a close watch on the strategic northwestern frontier, yet the subcontinent faced many foreign invasions throughout its long history. In Part 1 of this textbook, we read about invasions by the Greeks, the Śhakas, and the Kuṣhāṇas. Let us now hear about the coming of the Hūṇas and of the Arabs.
 
 > [caption] Fig. 3.25. Twin vijayastambhas (victory pillars) of the Aulikara king Yaśhodharma at Mandsaur (only the lower portion of the pillar on the left remains standing). Inscriptions on the pillars commemorate his
 
 <!-- page 90 (pdf 30) -->
 
-## The Hūṇ as’ challenge
+## The Hūṇas’ challenge
 
-We need to go back a little in time. The Huns were a nomadic people originating from Central Asia in the 4th century. With their horse-riding and archery skills and lightning-fast attacks, they were fierce conquerors and overcame much of Europe, until, a century later, their empire disintegrated. The Hūṇ as mentioned in Indian literature are thought to have been a branch of the Huns. They played a part in weakening the mighty Gupta Empire, as we saw in Part 1 of this textbook, but could not affect India much at that time.
+We need to go back a little in time. The Huns were a nomadic people originating from Central Asia in the 4th century. With their horse-riding and archery skills and lightning-fast attacks, they were fierce conquerors and overcame much of Europe, until, a century later, their empire disintegrated. The Hūṇas mentioned in Indian literature are thought to have been a branch of the Huns. They played a part in weakening the mighty Gupta Empire, as we saw in Part 1 of this textbook, but could not affect India much at that time.
 
-In the early 6th century, two Hūṇ a leaders in succession pushed deep into the Ganga plains despite stiff resistance from several kings, until they were defeated by kings of the Aulikara dynasty whose capital was Daśhapura — modern-day Mandsaur in Madhya Pradesh (Fig. 3.25). These successive defeats effectively ended Hūṇ a power in India.
+In the early 6th century, two Hūṇa leaders in succession pushed deep into the Ganga plains despite stiff resistance from several kings, until they were defeated by kings of the Aulikara dynasty whose capital was Daśhapura — modern-day Mandsaur in Madhya Pradesh (Fig. 3.25). These successive defeats effectively ended Hūṇa power in India.
 
-By the 7th century, the Hūṇ as had assimilated into the very fabric of Indian society; many served as soldiers, others took up roles in local administrations. One inscription, for instance, records a Hūṇ a serving on a temple’s administration council (goṣhṭhika)! They adopted Sanskrit and Prakrit for their inscriptions and used Gupta-style royal titles, coin designs, and religious symbols. Some of their coins, for instance, displayed the goddess Lakṣhmī and attributes of Viṣhṇu or Śhiva.
+By the 7th century, the Hūṇas had assimilated into the very fabric of Indian society; many served as soldiers, others took up roles in local administrations. One inscription, for instance, records a Hūṇa serving on a temple’s administration council (goṣhṭhika)! They adopted Sanskrit and Prakrit for their inscriptions and used Gupta-style royal titles, coin designs, and religious symbols. Some of their coins, for instance, displayed the goddess Lakṣhmī and attributes of Viṣhṇu or Śhiva.
 
-> [caption] Fig. 3.26. (Left) A coin of the Hūṇ a Toramāṇa, with his name ‘Tora’ in Brahmi script. (Right) A coin of the Gupta emperor Skandagupta.
+> [caption] Fig. 3.26. (Left) A coin of the Hūṇa Toramāṇa, with his name ‘Tora’ in Brahmi script. (Right) A coin of the Gupta emperor Skandagupta.
 
 ### LET’S EXPLORE
 

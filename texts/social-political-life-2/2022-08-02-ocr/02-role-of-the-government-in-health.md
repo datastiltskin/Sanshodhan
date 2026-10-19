@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch02.pdf"
 source_sha256: "facb124caa3c15670dfcf44fdb27cc0112211853a299ef968d0e7310c12929d9"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "7ea33628391bfd9583059cd94515eb69dd156592cc04f2a3571d81b0f7af37b2"
+body_fingerprint: "e7bf483e38555e0973da5d9928ecc9ad22880c730c93928d832ebc890ce9e44b"
 ocr: true
 ocr_confidence: 95.2
 overrides:
@@ -250,7 +250,9 @@ The Kerala experience
 
 In 1996, the Kerala government made some major changes in the state. Forty per cent of the entire state budget was given to panchayats. They could plan and provide for their requirements. This made it possible for a village to make sure that proper planning was done for water, food, women’s development and education. This meant that water supply schemes were checked, the working of schools and anganwadis was ensured and specific problems of the village were taken up. Health centres were also improved. All of this helped to improve the situation. Despite these efforts, however, some problems - such as shortage of medicines, insufficient hospital beds, not enough doctors - remained, and these needed to be addressed.
 
-For more details, visit http://lsgkerala.gov.in/en Let us look at an example of another country and its approach to issues of health.
+For more details, visit http://lsgkerala.gov.in/en
+
+Let us look at an example of another country and its approach to issues of health.
 
 The Costa Rican approach
 

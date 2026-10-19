@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2020-10-15/ch04.pdf"
 source_sha256: "39b732066a70c45356a627434985f4c22a875991aa5b477113a964fae9c679a2"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "440e4c9ac3334a515052ede33b39b0fcb674e6361f0ecb7db7a76a723d13173b"
+body_fingerprint: "0a099c96d22ed67d078f4e691ee24277cdcdeb74efa337350f22877800405e41"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -29,7 +29,11 @@ You have read about tribal societies last year. Most tribes had customs and ritu
 
 <!-- page 40 (pdf 2) -->
 
-Fallow – A field left uncultivated for a while so that the soil recovers fertility Sal – A tree Mahua – A flower that is eaten or used to make alcohol
+Fallow – A field left uncultivated for a while so that the soil recovers fertility
+
+Sal – A tree
+
+Mahua – A flower that is eaten or used to make alcohol
 
 > [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
 
@@ -97,7 +101,9 @@ Before the arrival of the British, in many areas the tribal chiefs were importan
 
 ### What happened to the shifting cultivators?
 
-The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal Bewar – A term used in Madhya Pradesh for shifting cultivation groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
+The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
+
+Bewar – A term used in Madhya Pradesh for shifting cultivation
 
 > [caption] Fig. 5 – A log house being built in a village of the Nishi tribes of Arunachal Pradesh.
 

@@ -11,10 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch07.pdf"
 source_sha256: "e6f9b0341a8d44a54b5dc123b888d147f979c15375bedff9bc68c724b8e9e36f"
 pdf_pages: 22
 printed_pages: "145-166"
-body_fingerprint: "c630b2b3c1309fbdfb0408ef96a34b0a376d24deb9f0ef55a78ab563c1c795a6"
-overrides:
-  - "part 1 chapter 7, page 146: the map label Kāmarūpa Kingdom sits between two lines of the Gupta call-out"
-  - "part 1 chapter 7, page 152: axis ticks glued to the front of the caption"
+body_fingerprint: "b02f80beec3e83cb34820e4b1233c0ca0933d8e5a0db1ac01c4ecd9291cfa7bd"
 ---
 
 <!-- page 145 (pdf 1) -->
@@ -27,13 +24,9 @@ Neither force nor mere diplomacy can eliminate evil; nor is righteousness upheld
 
 > [caption] Fig. 7.1. Landscape of Ajanta caves, dating from the 2nd century BCE to about 480 CE
 
-The Big
-
 1. Who were the Guptas? Why is the Gupta period sometimes called the ‘classical age’ in Indian history?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. What was happening in the rest of the subcontinent at this time?
 
@@ -41,17 +34,9 @@ The Big
 
 <!-- page 146 (pdf 2) -->
 
-> [caption] 80E
-
-> [caption] 80E
-
 > [caption] Fig. 7.2. Empires and kingdoms during the period from 3rd to 6th century CE.
 
 Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom. They had seen the splendid markets, taken a short trip on a ship, and met some Roman traders buying pearls. Now they were itching to use Itihāsa again and jump a few centuries. “What would that be like?” they wondered. “Will the cities be the same? What about the people and society — would they have changed? What kind of governance would they have? Would there be new literature, new art?” They could not wait to find out and were soon whisked away to …
-
-> [caption] 70E
-
-> [caption] 90E
 
 > [caption] W
 
@@ -59,7 +44,7 @@ Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom
 
 > [caption] The Kāmarūpa kingdom was an important power that ruled in parts of modern-day Assam.
 
-> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to the 6th century CE, with its capital at Pāṭaliputra
+> [caption] The Gupta Empire was the most powerful and flourished from the 3rd to the 6th century CE, with its capital at Pāṭaliputra Kāmarūpa Kingdom
 
 > [caption] (present-day Patna).
 
@@ -70,10 +55,6 @@ Dhruv and Bhavisha had just returned from their journey to the Pānḍya kingdom
 > [caption] The Vākāṭakas ruled in the central part of the subcontinent with their capital at Nandivardhana (near present-day Nagpur).
 
 > [caption] With their capital at Kanchipuram, the Pallavas rose to power after the Sātavāhana dynasty and ruled till the latter half of the 9th century CE.
-
-> [caption] 70E
-
-> [caption] 90E
 
 <!-- page 147 (pdf 3) -->
 
@@ -167,12 +148,6 @@ Take a political map of India and locate the present-day states and Union territ
 
 <!-- page 152 (pdf 8) -->
 
-> [caption] 80E
-
-> [caption] 90E
-
-> [caption] 70E
-
 > [caption] PLATEAU OF TIBET
 
 > [caption] Brahmaputra
@@ -205,9 +180,9 @@ Take a political map of India and locate the present-day states and Union territ
 
 > [caption] Deccan Plateau
 
-> [caption] Bay
+> [caption] Bay of Bengal
 
-> [caption] Arabian of Bengal
+> [caption] Arabian
 
 > [caption] Sea
 
@@ -285,7 +260,7 @@ As we saw, Gupta rulers were devout followers of Viṣhṇu; this is often refle
 
 > [caption] Fig. 7.11. Remains of Nalanda University
 
-In deed, the prolonged period of peace and stability during the Gupta period promoted notable achievements in various fields, leading some historians to label this period the ‘classical age’ of India. It was also the time when knowledge from previous eras was consolidated and compiled into numerous texts. Sanskrit literature flourished, with Kālidāsa’s works and many major Purāṇas. Āryabhaṭa and Varāhamihira recorded major advancements in mathematics and astronomy, while medical texts compiled and refined medical theories and practices. Metallurgy also progressed, as we saw with the rust-resistant Iron Pillar. This stability strengthened the economy, allowing the state to support scholars, artists, and scientists, leading to cultural and intellectual growth.
+Indeed, the prolonged period of peace and stability during the Gupta period promoted notable achievements in various fields, leading some historians to label this period the ‘classical age’ of India. It was also the time when knowledge from previous eras was consolidated and compiled into numerous texts. Sanskrit literature flourished, with Kālidāsa’s works and many major Purāṇas. Āryabhaṭa and Varāhamihira recorded major advancements in mathematics and astronomy, while medical texts compiled and refined medical theories and practices. Metallurgy also progressed, as we saw with the rust-resistant Iron Pillar. This stability strengthened the economy, allowing the state to support scholars, artists, and scientists, leading to cultural and intellectual growth.
 
 Chandragupta II kept himself surrounded by many learned men, poets and artists, and his patronage of such diverse talent enriched his court greatly.
 

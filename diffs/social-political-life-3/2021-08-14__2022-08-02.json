@@ -32396,8 +32396,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 32,
-       "new_pos": 32
+       "old_pos": 31,
+       "new_pos": 31
       },
       {
        "type": "equal",
@@ -32420,8 +32420,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 33,
-       "new_pos": 33
+       "old_pos": 32,
+       "new_pos": 32
       },
       {
        "type": "equal",
@@ -32432,32 +32432,20 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 34,
-       "new_pos": 34
+       "old_pos": 33,
+       "new_pos": 33
       },
       {
        "type": "equal",
        "stream": "references",
        "similarity": 1.0,
-       "old": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.",
-       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015.",
+       "old": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)",
+       "new": "HARI PHUYAL, “Nepal's New Constitution: 65 Years in the Making”, The Diplomat, 18 September 2015. https://thediplomat.com (Accessed on 19 September 2017)",
        "old_page": 134,
        "new_page": 134,
        "words": [],
        "old_pos": 26,
        "new_pos": 26
-      },
-      {
-       "type": "equal",
-       "stream": "references",
-       "similarity": 1.0,
-       "old": "https://thediplomat.com (Accessed on 19 September 2017)",
-       "new": "https://thediplomat.com (Accessed on 19 September 2017)",
-       "old_page": 134,
-       "new_page": 134,
-       "words": [],
-       "old_pos": 27,
-       "new_pos": 27
       },
       {
        "type": "equal",
@@ -32552,8 +32540,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 28
+       "old_pos": 27,
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -32588,8 +32576,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 29,
-       "new_pos": 29
+       "old_pos": 28,
+       "new_pos": 28
       },
       {
        "type": "equal",
@@ -32612,8 +32600,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 30,
-       "new_pos": 30
+       "old_pos": 29,
+       "new_pos": 29
       },
       {
        "type": "equal",
@@ -32636,8 +32624,8 @@
        "old_page": 134,
        "new_page": 134,
        "words": [],
-       "old_pos": 31,
-       "new_pos": 31
+       "old_pos": 30,
+       "new_pos": 30
       },
       {
        "type": "equal",
@@ -32807,7 +32795,7 @@
      {
       "page": 134,
       "new_page": 134,
-      "sentences": 36,
+      "sentences": 35,
       "score": 1.0,
       "suspect": false
      }

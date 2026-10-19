@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch06.pdf"
 source_sha256: "168c69dd424b55b930bef29fc8cc1d6ffc00f430cc705dee39a87293de513f15"
 pdf_pages: 15
 printed_pages: "64-78"
-body_fingerprint: "375368e254247a434edb4aa0abaabe56a5df7aba9b83a693c6dfc9c06dd8243c"
+body_fingerprint: "a61881359d8a3a330611bcf9a52e2e9f0c5dc13606812ec1c1034f18a1651dad"
 overrides:
   - "glossary entry at the top of the margin box on page 66 (before Khanqah), not a heading"
 ---
@@ -37,15 +37,23 @@ In the late eighteenth century, Calcutta, Bombay and Madras rose in importance a
 
 The historic imperial city of Delhi became a dusty provincial town in the nineteenth century before it was rebuilt as the capital of British India after 1912. Let us look at the story of Delhi to see what happened to it under colonial rule.
 
-How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most Presidency – For administrative purposes, colonial India was divided into three “Presidencies” (Bombay, Madras and Bengal), which developed from the East India Company’s “factories” (trading posts) at Surat, Madras and Calcutta.
+How many ‘Delhis’ before New Delhi? You know Delhi as the capital of modern India. Did you also know that it has been a capital for more than a 1,000 years, although with some gaps? As many as 14 capital cities were founded in a small area of about 60 square miles on the left bank of the river Jamuna. The remains of all other capitals may be seen on a visit to the modern city-state of Delhi. Of these, the most important are the capital cities built between the twelfth and seventeenth centuries.
+
+Presidency – For administrative purposes, colonial India was divided into three “Presidencies” (Bombay, Madras and Bengal), which developed from the East India Company’s “factories” (trading posts) at Surat, Madras and Calcutta.
 
 > [caption] Fig. 2 – Bombay port in the eighteenth century The city of Bombay began to grow when the East India Company started using Bombay as its main port in western India.
 
-Urbanisation – The process by which more and more people begin to reside in towns and cities Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music Idgah – An open prayer place of Muslims primarily meant for id prayers Cul-de-sac – Street with a dead end important are the capital cities built between the twelfth and seventeenth centuries.
+Urbanisation – The process by which more and more people begin to reside in towns and cities
 
 <!-- page 66 (pdf 3) -->
 
 Dargah – The tomb of a Sufi saint
+
+Khanqah – A sufi lodge, often used as a rest house for travellers and a place where people come to discuss spiritual matters, get the blessings of saints, and hear sufi music
+
+Idgah – An open prayer place of Muslims primarily meant for id prayers
+
+Cul-de-sac – Street with a dead end
 
 > [caption] Fig. 3 – Image of Shahjahanabad in the mid-nineteenth century, The Illustrated London News,16 January 1858
 
@@ -69,7 +77,7 @@ In 1803, the British gained control of Delhi after defeating the Marathas. Since
 
 ### Demolishing a past
 
-Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in
+Before 1857, developments in Delhi were somewhat different from those in other colonial cities. In Madras, Bombay or Calcutta, the living spaces of Indians and the British were sharply separated. Indians lived in the “black” areas, while the British lived in well-laid-out “white” areas. In Delhi, especially in the first half of the nineteenth century, the British lived along with the wealthier Indians in the Walled City. The British learned to enjoy Urdu/Persian culture and poetry and participated in local festivals.
 
 > [caption] Fig. 4 – The eastern gate of the Jama Masjid in Delhi, by Thomas Daniell, 1795
 
@@ -100,8 +108,6 @@ Renaissance – Literally, rebirth of art and learning. It is a term often used 
 Ghalib lamented the changes that were occurring and wrote sadly about the past that was lost. He wrote:
 
 What can I write? The life of Delhi depends on the Fort, Chandni Chowk, the daily gatherings at the Jamuna Bridge and the Annual Gulfaroshan. When all these … things are no longer there, how can Delhi live? Yes, there was once a city of this name in the dominions of India.
-
-the “black” areas, while the British lived in well-laid-out “white” areas. In Delhi, especially in the first half of the nineteenth century, the British lived along with the wealthier Indians in the Walled City. The British learned to enjoy Urdu/Persian culture and poetry and participated in local festivals.
 
 The establishment of the Delhi College in 1792 led to a great intellectual flowering in the sciences as well as the humanities, largely in the Urdu language. Many refer to the period from 1830 to 1857 as a period of the Delhi renaissance.
 
@@ -185,7 +191,9 @@ The broken-down canals could not serve the needs of this rapidly increasing popu
 
 At the same time, though, millions of rupees were being spent on drainage systems in the New Delhi area.
 
-> [caption] Fig. 12 – A famous baoli near the shrine of Nizamuddin Auliya in Delhi Fig. 13 – Chandni Chowk in Delhi in the late nineteenth century
+> [caption] Fig. 12 – A famous baoli near the shrine of Nizamuddin Auliya in Delhi
+
+> [caption] Fig. 13 – Chandni Chowk in Delhi in the late nineteenth century
 
 <!-- page 74 (pdf 11) -->
 

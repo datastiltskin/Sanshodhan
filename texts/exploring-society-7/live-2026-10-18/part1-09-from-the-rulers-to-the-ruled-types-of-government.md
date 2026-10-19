@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch09.pdf"
 source_sha256: "fc090909bd9adf3dae7f490d7b601301475d6f5b283594841d06b35023d06492"
 pdf_pages: 24
 printed_pages: "185-208"
-body_fingerprint: "c4bd3a7c8e2e0870dd55db06b7bd442c8abcb62242e11a9a792fd625897a6eac"
+body_fingerprint: "6a58947a1f8296327d9b950e2a57a653ad14c2a605d04c26c3c4bd295f9f0c9d"
 overrides:
   - "part 1 chapter 9, page 192: the word RIGHTS is printed on an icon, not a heading"
   - "part 1 chapter 9, page 195: Table 9.1 rows rebuilt from the page image"
@@ -32,11 +32,7 @@ Kauṭilya in Arthaśhāstra (translation by L.N. Rangarajan)
 
 1. What are the different types of government? 2. Where do governments get their power from? 3. How does a country’s government interact with the people? 4. Why does democracy matter?
 
-> [note] The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 186 (pdf 2) -->
 
@@ -128,9 +124,7 @@ Democracy is defined as the ‘rule of the people’. This means that, similar t
 
 ### DO YOU KNOW?
 
-> [caption] Fig. 9.4. An 1896 mural by the painter Vedder called
-
-> [caption] ‘Government’ from the Library of Congress, USA.
+> [caption] Fig. 9.4. An 1896 mural by the painter Vedder called ‘Government’ from the Library of Congress, USA.
 
 Abraham Lincoln, a U.S. president in the late 19th century, described democracy as a ‘government of the people, by the people, for the people’, a phrase still widely used today.
 

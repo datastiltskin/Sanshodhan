@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch08.pdf"
 source_sha256: "97fa0dae11cb844cf2ed09f7b7acb884a0122eccd35de032e89bec2c1b1b47a2"
 pdf_pages: 10
 printed_pages: "92-101"
-body_fingerprint: "a689cc33bfd678dd7e4e6174057ac76fab505a600a972252f6cc2c2cb7ff5ea4"
+body_fingerprint: "19ed7d151b09a7207a0dd68887c0021ef02f1390e3ede183c05398d3c773a1e5"
 ocr: true
 ocr_confidence: 94.5
 overrides:
@@ -116,9 +116,7 @@ The Erode merchant supplies the cotton cloth produced by the weavers to a garmen
 
 Faced with such pressures from the buyers, the garment exporting factories, in turn, try to cut costs. They get the maximum work out of the workers at the lowest possible wages. This way they can maximise their own profits and also supply the garments to foreign buyers at a cheap price.
 
-Women workers sewing buttons in a
-
-garment factory.
+Women workers sewing buttons in a garment factory.
 
 What are the demands foreign buyers make on the garment exporters? Why do the garment exporters agree to these demands?
 

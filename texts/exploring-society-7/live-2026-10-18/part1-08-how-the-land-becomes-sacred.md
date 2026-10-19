@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch08.pdf"
 source_sha256: "a02af4869100ab44192797965c9243892c81d851952dc69ec3d9758bed2c7da1"
 pdf_pages: 18
 printed_pages: "167-184"
-body_fingerprint: "36c21093aa491ca214b2c680fad0a19e021fa8ee537e46f3f87154ff2b1de0d0"
+body_fingerprint: "5ff83821abfa9b3704977668f6f565e1d26bee962a9d2d1fc94b4362b5339870"
 ---
 
 <!-- page 167 (pdf 1) -->
@@ -26,11 +26,7 @@ Ether, air, fire, water, earth, planets, all creatures, directions, trees and pl
 
 1. What is ‘sacredness’? 2. How does the land become sacred? 3. How do sacred sites and pilgrimage networks connect with the life and culture of the people? 4. What role did sacred geography play in the cultural integration of the Indian Subcontinent?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 <!-- page 168 (pdf 2) -->
 
@@ -102,13 +98,9 @@ Another example is the pilgrimage to Sabarimala temple (Kerala), dedicated to th
 
 Hindu and many folk and tribal belief systems go further. In Grade 6 we learnt that in such belief systems, people regard elements of Nature, such as mountains, rivers, trees, plants and animals, and sometimes stones too, as sacred. In Hinduism, for instance, this includes countless geographical sites or features of Nature, such as specific mountains, rivers and forests, which are regarded as particularly divine and are worshipped as deities; many rivers are regarded as devīs, while some species of trees, animals and plants are particularly holy.
 
-> [caption] Fig. 8.5. In this image,
-
-> [caption] Viṣhṇu in the form of his boar avatar crushes a demon and saves Bhūdevī (Mother Earth), shown here sitting on his
+> [caption] Fig. 8.5. In this image, Viṣhṇu in the form of his boar avatar crushes a demon and saves Bhūdevī (Mother Earth), shown here sitting on his elbow (from the Belur temple, Karnataka)
 
 This tradition comes from the perception of a divine presence in all of Nature. Ultimately, the whole of planet Earth is considered sacred — she is Mother Earth or Bhūdevī.
-
-> [caption] elbow (from the Belur temple, Karnataka)
 
 Here are a few more examples of such traditions:
 
@@ -200,7 +192,9 @@ In Grade 6 we read about the two epics of India, the Mahābhārata and Rāmāya�
 
 <!-- page 179 (pdf 13) -->
 
-> [caption] Fig. 8.11. A shrine in Bastar, Chhattisgarh, celebrating Rāma’s passing through the area Fig. 8.12. A seal from Mohenjo-daro
+> [caption] Fig. 8.11. A shrine in Bastar, Chhattisgarh, celebrating Rāma’s passing through the area
+
+> [caption] Fig. 8.12. A seal from Mohenjo-daro
 
 Observe this seal from Mohenjo-daro. Can you recognise the leaves at the top? As you can see, the peepul tree has been an important part of India’s cultural geography for millennia.
 
@@ -214,7 +208,13 @@ There were many thousands of sacred groves in India. Sadly, these numbers have b
 
 <!-- page 180 (pdf 14) -->
 
-> [caption] Fig. 8.13. Kalkai temple, Mulshi, Maharashtra Fig. 8.14. Mawphlong, Shillong Fig. 8.15. From the sacred Fig. 8.16. Udaiyankudukadu Karumbayiramkondan, Tamil Nadu groves of the Bhils
+> [caption] Fig. 8.13. Kalkai temple, Mulshi, Maharashtra
+
+> [caption] Fig. 8.14. Mawphlong, Shillong
+
+> [caption] Fig. 8.15. From the sacred groves of the Bhils
+
+> [caption] Fig. 8.16. Udaiyankudukadu Karumbayiramkondan, Tamil Nadu
 
 Given below are the names of a few sacred groves in a few regional languages of India. Can you add to this?
 

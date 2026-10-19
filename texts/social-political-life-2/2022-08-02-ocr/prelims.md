@@ -20,11 +20,9 @@ NAT NOU NAL COUN NCIL L OF F EDUCAT NOU NAL RESEARCH AN ND 1 0764 – SOCIAL AND
 
 ### First Edition
 
-> [caption] q No part of this publication may be reproduced, stored in a retrieval system or
+> [caption] q No part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 February 2007 Phalguna 1928 Reprinted February 2008 Magha 1929 March 2009 Phalguna 1930 January 2010 Magha 1931 December 2010 Agrahayana 1932 January 2012 Magha 1933 November 2012 Kartika 1934 November 2013 Kartika 1935 December 2014 Pausa 1936 January 2016 Pausa 1937 January 2017 Magha 1938 December 2017 Pausa 1939 January 2019 Magha 1940 January 2020 Pausa 1941 March 2021 Phalguna 1942 August 2021 Shravana 1943 November 2021 Agrahayana 1943
-
-> [caption] transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
 
 > [caption] q This book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
 
@@ -397,5 +395,3 @@ Note: The Article 51A containing Fundamental Duties was inserted by the Constitu
 Equality in Indian Democracy (continued)
 
 ### Chapter 9: Struggles for Equality ................. eee 102
-
-> [table] Reference ..........c cee cceececceccececccseensepteeccuseccceceuseuseeseusens 110

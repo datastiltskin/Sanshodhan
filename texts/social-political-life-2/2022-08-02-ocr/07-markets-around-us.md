@@ -10,9 +10,9 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch07.pdf"
 source_sha256: "5c74a461e99b02054c7f437b02e67fa425463f11c0832a246c02380fe9fbc6af"
 pdf_pages: 10
 printed_pages: "82-91"
-body_fingerprint: "e73e6909c081c8f6ab4297352a01eb5594f2d667cebecb2408cef6d24a4a5b7d"
+body_fingerprint: "0cbf7a487d54252f5aaf74120dcedaff6ca54793fa02b9f8bd3aa4887f806178"
 ocr: true
-ocr_confidence: 92.3
+ocr_confidence: 92.6
 overrides:
   - "Page 85 reads 'the amount of ₹ 3000'. The OCR read the rupee sign as a percent sign"
 ---
@@ -129,15 +129,13 @@ Markets and equality
 
 In this chapter, we have looked at shop owners in a weekly market and those in a shopping complex. They are very different people. One is a small trader with little money to run the shop whereas the other is able to spend a lot of money to set up the shop. They also earn unequal amounts. The weekly market trader earns little compared to the profit of a regular shop owner in a shopping complex. Similarly, buyers are differently placed. There are many who are not able to afford the cheapest of goods while others are busy shopping in malls. Thus, whether we can be buyers or sellers in these different markets depends, among other things, on the money that we have.
 
-We have also examined the chain of markets that is formed before goods can reach us. It is through People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
+We have also examined the chain of markets that is formed before goods can reach us. It is through Malls, like the one above, sell expensive this chain that what is produced in one place reaches and branded goods. people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
+
+People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
 
 A car being put together in a factory.
 
 <!-- page 90 (pdf 9) -->
-
-Malls, like the one above, sell expensive this chain that what is produced in one place reaches and branded goods. people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
-
-## om RESPONSIBLE CONSUMPTION © § PRODUCTION
 
 > [caption] Ensure sustainable consumption and production patterns Sustainable Development Goal (SDG)
 

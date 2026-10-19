@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch04.pdf"
 source_sha256: "d35871d0492cc3b45091655152b9955723ce685996b6470ae640b1f7fa41e923"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "1330b45a8519ad634646b5d89fdbe1720c3f1ec2730d1e7aaea1fb234cff74da"
+body_fingerprint: "a3724cb90707737718ca29639f0b8c4ecd32b524d6bf5166bfac59a0971f2502"
 overrides:
   - "hidden stray text on page 127 between the nawab paragraph and the heading Painting history, nothing is printed there"
 ---
@@ -46,11 +46,13 @@ One popular imperial tradition was that of picturesque landscape painting. What 
 
 Fig. 2 is a typical example of a picturesque landscape painted by the Daniells. Notice the ruins of local buildings that were once grand. The buildings are reminders of past glory, remains of an ancient civilisation that was now in ruins. It was as if this decaying civilisation would change and modernise only through British governance.
 
-Engraving – A picture printed onto paper from a piece of wood or metal into which the design or drawing has been cut This image of British rule bringing modern civilisation to India is powerfully emphasised in the numerous pictures of late-eighteenth-century Calcutta drawn by the Daniells. In these drawings you can see the making of a new Calcutta, with wide avenues, majestic European-style buildings, and new modes of transport (Fig. 3). There is life and activity on the roads, there is drama and excitement. Look carefully at Figs. 2 and 3. See how the Daniells contrast the image of traditional India with that of life under British rule. Fig. 2 seeks to represent the traditional life of India as pre-modern, changeless and motionless, typified by faqirs, cows, and boats sailing on the river. Fig. 3 shows the modernising influence of British rule, by emphasising a picture of dramatic change.
+Engraving – A picture printed onto paper from a piece of wood or metal into which the design or drawing has been cut
 
 > [caption] Fig. 2 – Ruins on the banks of the Ganges at Ghazipur, painted by Thomas Daniell (oil, 1791)
 
 <!-- page 125 (pdf 3) -->
+
+This image of British rule bringing modern civilisation to India is powerfully emphasised in the numerous pictures of late-eighteenth-century Calcutta drawn by the Daniells. In these drawings you can see the making of a new Calcutta, with wide avenues, majestic European-style buildings, and new modes of transport (Fig. 3). There is life and activity on the roads, there is drama and excitement. Look carefully at Figs. 2 and 3. See how the Daniells contrast the image of traditional India with that of life under British rule. Fig. 2 seeks to represent the traditional life of India as pre-modern, changeless and motionless, typified by faqirs, cows, and boats sailing on the river. Fig. 3 shows the modernising influence of British rule, by emphasising a picture of dramatic change.
 
 ### Portraits of authority
 
@@ -58,15 +60,21 @@ Another tradition of art that became immensely popular in colonial India was por
 
 > [caption] Fig. 3 – Clive street in Calcutta, drawn by Thomas and William Daniell, 1786
 
-Portrait – A picture of a person in which the face and its expression is prominent Portraiture – The art of making portraits Commission – To formally choose someone to do a special piece of work usually against payment As portrait painting became popular, many European portrait painters came to India in search of profitable commissions. One of the most famous of the visiting European painters was Johann Zoffany. He was born in Germany, migrated to England and came to India in the mid-1780s for five years. Figs. 3 and 4 are two examples of the portraits that Zoffany painted. Notice the way figures of Indian servants and the sprawling lawns of colonial mansions appear in such portraits. See how the Indians are shown as submissive, as inferior, as serving their white masters, while the British are shown as superior and imperious: they flaunt their clothes, stand regally or sit arrogantly, and live a life of luxury. Indians are never at the centre of such paintings; they usually occupy a shadowy background.
+Portrait – A picture of a person in which the face and its expression is prominent
+
+Portraiture – The art of making portraits
 
 <!-- page 126 (pdf 4) -->
+
+Commission – To formally choose someone to do a special piece of work usually against payment
 
 > [caption] Fig. 4 – Portrait of Governor-General Hastings with his wife in their Belvedere estate, painted by Johann Zoffany (oil, 1784)
 
 > [caption] Notice the grand colonial mansion in the background.
 
 Fig. 5 – The Aurial and Dashwood Families of Calcutta, painted by Johann Zoffany (oil, 1784) Thomas Dashwood was married to Charlotte Lousia Aurial. Here you see them entertaining their friends and relatives. Notice the various servants serving tea.
+
+As portrait painting became popular, many European portrait painters came to India in search of profitable commissions. One of the most famous of the visiting European painters was Johann Zoffany. He was born in Germany, migrated to England and came to India in the mid-1780s for five years. Figs. 3 and 4 are two examples of the portraits that Zoffany painted. Notice the way figures of Indian servants and the sprawling lawns of colonial mansions appear in such portraits. See how the Indians are shown as submissive, as inferior, as serving their white masters, while the British are shown as superior and imperious: they flaunt their clothes, stand regally or sit arrogantly, and live a life of luxury. Indians are never at the centre of such paintings; they usually occupy a shadowy background.
 
 ### Activity
 
@@ -142,13 +150,15 @@ At the same time, British officials, who found the world in the colonies differe
 
 Not all artists, however, were court painters. Not all of them painted for the nawabs. Let us see what was happening outside the court.
 
-Perspective – The way that objects appear smaller when they are further away and the way parallel lines appear to meet each other at a point in the distance Scroll painting Painting on a long roll of paper that could be rolled up
+Perspective – The way that objects appear smaller when they are further away and the way parallel lines appear to meet each other at a point in the distance
 
 > [caption] Fig. 11 Nawab Mubarakuddaulah of Murshidabad at an Id procession, a miniature copy by a local court painter of an oil painting by the visiting British artist, G.Farrington (1799 -1800)
 
 <!-- page 132 (pdf 10) -->
 
 > [caption] Fig. 12 – Paired couples representing different religious sects of the Tanjore region, Company painting from Tanjore (1830)
+
+Scroll painting Painting on a long roll of paper that could be rolled up
 
 Fig. 13 – Battle between Hanuman and Jambuvan, Kalighat painting, mid-nineteenth century, Calcutta (watercolour on paper) Notice how the artists have modernised traditional images. Hanuman is wearing footwear which became popular in the nineteenth century.
 
@@ -168,9 +178,11 @@ After the 1840s, we see a new trend within the Kalighat artists. Living in a soc
 
 Many of these Kalighat pictures were printed in large numbers and sold in the market. Initially, the images were engraved in wooden blocks. The carved block was inked, pressed against paper, and then the woodcut prints that were produced were coloured by hand. In this way, many copies could be produced from the same block. By the late-nineteenth century, mechanical printing presses were set up in different parts of India, which allowed prints to be produced in even larger numbers. These prints could therefore be sold cheap in the market. Even the poor could buy them.
 
-Popular prints were not painted only by the poor village Kalighat patuas. Often, middle-class Indian artists set up printing presses and produced prints for a wide market. They were trained in British art schools in new methods of life study, oil painting and print making. One of the most successful of these presses that were set up in late-nineteenth-century Calcutta was the Calcutta Art Studio. It produced lifelike images of eminent Bengali personalities as well as mythological pictures. But these mythological pictures were realistic. The figures were located in picturesque landscape settings, with mountains, lakes, rivers and forests. You must have seen many popular calendar pictures of Hindu deities in shops and roadside stalls. The characteristic elements Life study – Study of human figures from living models who pose for the artists of these pictures came into being in the late nineteenth century.
+Popular prints were not painted only by the poor village Kalighat patuas. Often, middle-class Indian artists set up printing presses and produced prints for a wide market. They were trained in British art schools in new methods of life study, oil painting and print making. One of the most successful of these presses that were set up in late-nineteenth-century Calcutta was the Calcutta Art Studio. It produced lifelike images of eminent Bengali personalities as well as mythological pictures. But these mythological pictures were realistic. The figures were located in picturesque landscape settings, with mountains, lakes, rivers and forests. You must have seen many popular calendar pictures of Hindu deities in shops and roadside stalls. The characteristic elements of these pictures came into being in the late nineteenth century.
 
 Fig. 14 – Englishman on an elephant hunting a tiger, Kalighat painting, mid-nineteenth century, Calcutta (watercolour on paper) This painting is a typical example of how patuas depicted English life in India. In the colonies Englishmen loved to hunt. They saw hunting as a sport that could demonstrate their courage and manliness.
+
+Life study – Study of human figures from living models who pose for the artists
 
 Fig. 15 – Baboo on a chair, Kalighat painting, nineteenth century In paintings like this you can see the artist’s fear that the baboos will imitate the West and give up all that is valuable within the local culture. The baboo here is shown as a clownish figure, wearing shoes with high heels and sitting on a chair with ridiculously pointed legs.
 
@@ -210,7 +222,9 @@ With British rule, architectural styles also changed. New styles were introduced
 
 Look at Fig. 22. The pointed arches in the buildings and the elongated structures are typical of a style known as Gothic. The new buildings that came up in the mid-nineteenth century in Bombay, were mostly in this style. Now compare this building with that in Fig. 23. The rounded arches and the pillars that you see were typical of another style that the British used in Calcutta. It was borrowed from the Classical style of Greece and Rome. The British wanted their buildings to express their power and glory, and their cultural achievements.
 
-> [caption] Fig. 23 – Central Post Office, Calcutta, built in the1860s Fig. 22 – Victoria Terminus, Bombay The railway station was built between 1878 and 1887.
+> [caption] Fig. 23 – Central Post Office, Calcutta, built in the1860s
+
+> [caption] Fig. 22 – Victoria Terminus, Bombay The railway station was built between 1878 and 1887.
 
 <!-- page 137 (pdf 15) -->
 

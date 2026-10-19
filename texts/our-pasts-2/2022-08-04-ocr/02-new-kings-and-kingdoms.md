@@ -12,7 +12,7 @@ pdf_pages: 14
 printed_pages: "16-29"
 body_fingerprint: "cb62e1beed05256f9b7b9047672379c152a9d15b783a2a8cc9288bb374fe7885"
 ocr: true
-ocr_confidence: 93.5
+ocr_confidence: 94.0
 overrides:
   - "page 24 breaks off at 'constructed to' and page 25 opens 'carry water to the fields. In many areas two crops were grown in a year.' before the next paragraph"
   - "the opening sentence of page 25 now stands in the paragraph on page 24 where the page continues it"
@@ -34,8 +34,6 @@ Can you identify the present-day states over which they exercised control?
 M any new dynasties emerged after the seventh century. Map 1 shows the major ruling dynasties in different parts of the subcontinent between the seventh and twelfth centuries.
 
 > [caption] TIBET
-
-> [caption] OF Yas SS ety a Sigs? GURJARA-PRATIHARAS™
 
 > [table] a, \ y LAKSHADWEEP \@ wv / ees ANDAMAN & NICOBAR ISLANDS \ ST : ee f SE) 7, § IDIAN \, OCEAN % oa. :
 
@@ -138,8 +136,6 @@ Look at Map 1 again and discuss why the Chahamanas may have wanted to expand the
 <!-- page 22 (pdf 7) -->
 
 A Closer Look: The Cholas
-
-> [table] ( “CHALUKYAS ~~ & S oF {Vikramaditya VI : x
 
 > [caption] Under
 

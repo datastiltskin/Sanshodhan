@@ -12,9 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch05.pdf"
 source_sha256: "fcd39ebf47c2760db06f1e4aa86de40a731b6df8758ab15f94a612163ca1f301"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "9a72c6aec3de0ec90abdec133007a3198df1afd8ecb494c345af0fad2cd4817d"
-overrides:
-  - "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
+body_fingerprint: "498edb826dacdb7cc68e9c139457ceb6b9c38901582f971effbfa2f4e1401f68"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -37,7 +35,9 @@ Monuments provide an insight into the technologies used for construction. Take s
 
 Between the seventh and tenth centuries architects started adding more rooms, doors and windows to buildings. Roofs, doors and windows were still made by placing a horizontal beam across two vertical columns, a style of architecture called “trabeate” or “corbelled”. Between the eighth and thirteenth centuries the trabeate style was used in the construction of temples, mosques, tombs and in buildings attached to large stepped-wells (baolis).
 
-> [caption] Fig. 2a Fig. 2b
+> [caption] Fig. 2b
+
+> [caption] Fig. 2a
 
 Labour for the Agra Fort
 
@@ -112,6 +112,8 @@ It was widely believed that the rule of a just king would be an age of plenty wh
 ## Why were Temples Destroyed?
 
 Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another’s kingdoms they often targeted these buildings. In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king, Sena I (831-851), the Buddhist monk and chronicler Dhammakitti noted: “he removed all the valuables ... The statue of the Buddha made entirely of gold in the Jewel Palace ... and the golden images in the various monasteries – all these he seized.” The blow to the pride of the Sinhalese ruler had to be avenged and the next Sinhalese ruler, Sena II, ordered his general to invade Madurai, the capital of the Pandyas. The Buddhist chronicler noted that the expedition made a special effort to find and restore the gold statue of the Buddha.
+
+Importance of water
 
 The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
 

@@ -11,9 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch07.pdf"
 source_sha256: "8854c13897b7de009980dead3952a5c627d9b01c62d57d2d68e0051f7fe69cac"
 pdf_pages: 15
 printed_pages: "79-93"
-body_fingerprint: "9beb5e873523104aa31581235962ffe0246bb5acc9e6e604b6c4be1f5339c52c"
-overrides:
-  - "the blue question on page 89 is a separate box and had been read into the paragraph, which continues 'and terracotta temples' on page 90"
+body_fingerprint: "233d841b29f8be04df8287878c97b002c61bbfb9a51db9e00383c8ba1de3c1a2"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -164,7 +162,7 @@ The early settlers sought some order and assurance in the unstable conditions of
 
 This term included saints or Sufis and other religious personalities, , daring colonisers and deified soldiers, various Hindu and Buddhist deities and even animistic spirits. The cult of pirs became very popular and their shrines can be found everywhere in Bengal.
 
-Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapter 2) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick
+Bengal also witnessed a temple-building spree from the late fifteenth century, which culminated in the nineteenth century. We have seen (Chapter 2) that temples and other religious structures were often built by individuals or groups who were becoming powerful – to both demonstrate their power and proclaim their piety. Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed (dochala)) or four-roofed (chauchala)) structure of the thatched huts. This led to the evolution of the typical Bengali style in temple architecture.
 
 Why do you think the second category of texts was not written down?
 
@@ -173,8 +171,6 @@ Pir A Persian word meaning a spiritual guide.
 Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.
 
 <!-- page 90 (pdf 12) -->
-
-and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers). The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these. As their social and economic position improved, they proclaimed their status through the construction of temples. When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples. The temples began to copy the double-roofed (dochala)) or four-roofed (chauchala)) structure of the thatched huts. This led to the evolution of the typical Bengali style in temple architecture.
 
 In the comparatively more complex four-roofed structure, four triangular roofs placed on the four walls move up to converge on a curved line or a point. Temples were usually built on a square platform. The interior was relatively plain, but the outer walls of many temples were decorated with paintings, ornamental tiles or terracotta tablets. In some temples, particularly in Vishnupur in the Bankura district of West Bengal, such decorations reached a high degree of excellence.
 

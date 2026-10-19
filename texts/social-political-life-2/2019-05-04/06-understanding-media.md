@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch06.pdf"
 source_sha256: "771e1b9ab9fa49e8978de36b20d937c7d125ee7181e0cbf37bc50e2bccf2af82"
 pdf_pages: 12
 printed_pages: "68-79"
-body_fingerprint: "5d2232f5004198a8c93bde9a501b2ab9b0c7b8b761beebb98dc65c23782a32fe"
+body_fingerprint: "753ddc343cef30d5505f69c2357662583cd77bc010117dee975d17e4c7800535"
 ---
 
 <!-- page 68 (pdf 1) -->
@@ -51,9 +51,11 @@ It would probably be difficult for you to imagine your life without the media. B
 
 Newspapers, television and radio can reach millions of people because they use certain technologies. We also tend to discuss newspapers and magazines as the print media; and TV and radio as the electronic media. Why do you think newspapers are called print media? As you read further, you will find that this naming is related to the different technologies that these media use. The following photographs will give you a sense of the ways in which technology that mass media uses has changed over the years and continues to change.
 
-Changing technology, or machines, and making technology more modern, helps media to reach more people. It also improves the quality of sound and the images that you see. But technology does more than this. It also changes the ways in which we think about our lives. For example, today it is quite difficult for us to think of our lives without television. Television has enabled us to think of ourselves as members of a larger global world. Television images travel huge An artist’s impression of Gutenberg printing the first sheet of the Bible.
+Changing technology, or machines, and making technology more modern, helps media to reach more people. It also improves the quality of sound and the images that you see. But technology does more than this. It also changes the ways in which we think about our lives. For example, today it is quite difficult for us to think of our lives without television. Television has enabled us to think of ourselves as members of a larger global world. Television images travel huge distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
 > [table] Look at the collage on the left and list six various kinds of media that you see.
+
+An artist’s impression of Gutenberg printing the first sheet of the Bible.
 
 > [table] Ask older members of your family about what they used to listen to on the radio when there was no TV around. Find out from them when the first TV came to your area. When was cable TV introduced?
 
@@ -72,8 +74,6 @@ John L. Baird sits in front of the apparatus with which he demonstrated to the R
 > [table] Take a newspaper and count the number of advertisements in it.
 
 > [table] Some people say that newspapers have too many advertisements. Do you think this is true and why?
-
-distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
 Media and money
 

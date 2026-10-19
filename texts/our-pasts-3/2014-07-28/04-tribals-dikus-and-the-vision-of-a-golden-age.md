@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part1-ch04.pdf"
 source_sha256: "d06cccd44699eba52158413f84ec19ccbb627a1207682447aae7081e5819753e"
 pdf_pages: 12
 printed_pages: "39-50"
-body_fingerprint: "958cd66e2283335ac3eafb6eeaed0500d81ed71cbdb88e03f9dca13491a5481f"
+body_fingerprint: "457858bbad8be6e8a134ce69aa1f06aaf46452eaf720214a8e16652f554d54fb"
 overrides:
   - "glossary entry in the margin box on page 40 (after Fallow, before Mahua), not a heading"
 ---
@@ -33,9 +33,11 @@ You have read about tribal societies last year. Most tribes had customs and ritu
 
 <!-- page 40 (pdf 2) -->
 
-Fallow – A field left uncultivated for a while so that the soil recovers fertility Mahua – A flower that is eaten or used to make alcohol
+Fallow – A field left uncultivated for a while so that the soil recovers fertility
 
 Sal – A tree
+
+Mahua – A flower that is eaten or used to make alcohol
 
 > [caption] Fig. 2 – Dongria Kandha women in Orissa take home pandanus leaves from the forest to make plates
 
@@ -101,7 +103,9 @@ The lives of tribal groups changed during British rule. Let us see what these ch
 
 What happened to tribal chiefs? Before the arrival of the British, in many areas the tribal chiefs were important people. They enjoyed a certain amount of economic power and had the right to administer and control their territories. In some places they had their own police and decided on the local rules of land and forest management. Under British rule, the functions and powers of the tribal chiefs changed considerably. They were allowed to keep their land titles over a cluster of villages and rent out lands, but they lost much of their administrative power and were forced to follow laws made by British officials in India. They also had to pay tribute to the British, and discipline the tribal groups on behalf of the British. They lost the authority they had earlier enjoyed amongst their people, and were unable to fulfil their traditional functions.
 
-What happened to the shifting cultivators? The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal Bewar – A term used in Madhya Pradesh for shifting cultivation groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
+What happened to the shifting cultivators? The British were uncomfortable with groups who moved about and did not have a fixed home. They wanted tribal groups to settle down and become peasant cultivators. Settled peasants were easier to control and administer than people who were always on the move. The British also wanted a regular revenue source for the state. So they introduced land settlements – that is, they measured the land, defined the rights of each individual to that land, and fixed the revenue demand for the state. Some peasants were declared landowners, others tenants. As you have seen (Chapter 2), the tenants were to pay rent to the landowner who in turn paid revenue to the state.
+
+Bewar – A term used in Madhya Pradesh for shifting cultivation
 
 > [caption] Fig. 5 – A log house being built in a village of the Nishi tribals of the Northeast.
 

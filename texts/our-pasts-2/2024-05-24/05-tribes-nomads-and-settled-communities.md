@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch05.pdf"
 source_sha256: "0842e632b9171320ee8bba13e8521afce360ce1d1017978ec996629f9ddc9edb"
 pdf_pages: 12
 printed_pages: "49-60"
-body_fingerprint: "7100714f9e2a8c50921d84e14264c69d1fdc9932ef4d1c906f753893b2804cb6"
+body_fingerprint: "c07034798fa334a155abf0405af16536d694b6d79dc7acb4fd86e74245d0350e"
 overrides:
   - "page 58 reads 'Varna-based society'"
   - "page 59 reads 'chaurasi'"
@@ -146,7 +146,7 @@ However, the Ahoms faced many invasions from the south-west. In 1662, the Mughal
 
 The Ahom state depended upon forced labour. Those forced to work for the state were called paiks. A census of the population was taken. Each village had to send a number of paiks by rotation. People from heavily populated areas were shifted to less populated places. Ahom clans were thus broken up. By the first half of the seventeenth century the administration became quite centralised.
 
-Lachit Barphukan and the defeat of the Mughals in Assam Discuss why the Mughals were interested in the land of the Gonds.
+Lachit Barphukan and the defeat of the Mughals in Assam
 
 > [caption] Lachit Barphukan, the Ahom General defeated the army of the Mughal Emperor Aurangzeb in 1 LIT 1671 in the Battle of Saraighat, near Guwahati. The Mughal army was consisted of 18,000 cavalry, 30,000 infantry, 15,000 archers, 5000 gunners with over 1000 cannons and was led by Ram Singh of Amber. Lachit, with his war skills and excellent use of the terrain relentlessly fought L to stop the expansion of the Mughal Empire. The battle was mostly a naval war on the river 1 Brahmaputra. Now a memorial stands on the site of this famous battle. Source: Janasanyog Assam, Directorate of Information Public Relations, Government of Assam, Dispur, Guwahati.
 
@@ -155,6 +155,8 @@ Lachit Barphukan and the defeat of the Mughals in Assam Discuss why the Mughals 
 <!-- page 58 (pdf 10) -->
 
 > [caption] Fig. 7 Ear ornaments, Koboi Naga tribe, Manipur.
+
+Discuss why the Mughals were interested in the land of the Gonds.
 
 Why do you think the Mughals tried to conquer the land of the Ahoms?
 

@@ -10,9 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch04.pdf"
 source_sha256: "dd093909165e906dccd974513391c6d3c833d032ee5b18cf612637968f36a7aa"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "1408084d12bf914740b08fbd72d5030047b1374bb033b1f26ff5d205d0d8c9e8"
+body_fingerprint: "d1937ae11db9f7402ccb9b75a3be03e8dae09722bf921dc5150b396deb265df9"
 ocr: true
-ocr_confidence: 93.1
+ocr_confidence: 94.5
 overrides:
   - "OCR misread of Sanga in Table 1 on page 48, the page reads 'Rana Sanga, Rajput rulers'"
   - "stray OCR token in Table 1 on page 48, the page reads 'after an accident'"
@@ -77,7 +77,7 @@ Table 1 charts some of the major campaigns of the Mughals. Study it carefully an
 
 > [caption] _ (2) In Iran Humayun received help from the Safavid Shah. 4 § He recaptured Delhi in 1555 but died the next year after an accident in this building.
 
-AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent
+AKBAR Akbar was 13 years old when he became emperor. His 1556-1605 reign can be divided into three periods. (1) 1556-1570 —- Akbar became independent of the regent Military campaigns started by Akbar continued.
 
 Bairam Khan and other members of his domestic staff. : Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of | Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 —- military campaigns in Gujarat were _ . followed by campaigns in the east in Bihar, Bengal and _ Orissa. These campaigns were complicated by the
 
@@ -87,11 +87,7 @@ Bairam Khan and other members of his domestic staff. : Military campaigns were l
 
 <!-- page 49 (pdf 5) -->
 
-## oe), eee wn “Ge a Severe. Se Sa tee | a eT
-
 > [table] Jahangir 1605-1627
-
-Military campaigns started by Akbar continued.
 
 The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E
 
@@ -125,11 +121,11 @@ Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan
 
 > [caption] Military campaigns under Akbar and Aurangzeb.
 
-Mughal marriages with the Rajputs princess, daughter of the Rajput ruler of Amber (modern-day Jaipur). The mother of Shah Jahan was a Rathor princess, daughter of the Rajput ruler of Marwar (Jodhpur).
+Mughal marriages with the Rajputs
 
 > [caption] The mother of Jahangir was a Kachhwaha
 
-Kabul = a | Saar Ses Om (| \RASHIIIR © Qandahar /Lahore oy ie ee x PUNJAB) 10 a L re Panipat (a ) a I Delhi ( te See \ imer Fate! kh, 2, ~~ _ — >) sino - a BAN aK, a, "amy { LJ Chairs Rantha ta ~ ~ OT Batter ahaa | awa ‘4 BENG rh y 0g Oe GONDWANA fol p SN ee , a? aia / BERAR [{ _J.0r'ssi \ me ( ae ~. ao } ARABIAN > ae ae ai of BAY OF SEA “2d BENGAI ea ages
+princess, daughter of the Rajput ruler of Amber (modern-day Jaipur). The mother of Shah Jahan was a Rathor princess, daughter of the Rajput ruler of Marwar (Jodhpur).
 
 ## Mughal Traditions of Succession
 

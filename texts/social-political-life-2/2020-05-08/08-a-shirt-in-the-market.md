@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch08.pdf"
 source_sha256: "f4c9a3853fe746681575f09c801d6ca73e63897ffd2bedfa844f212ebf2d0204"
 pdf_pages: 10
 printed_pages: "92-101"
-body_fingerprint: "aa0b17b5010bc12f62099b9eaed73ca670e93b254066756e06a6780829152e0b"
+body_fingerprint: "c257a8de92a723fbbaa3039ff99130ab65a8841851433ac61baf02bf756b9d36"
 ---
 
 <!-- page 92 (pdf 1) -->
@@ -75,13 +75,9 @@ On market days, you would also find weavers bringing cloth that has been made on
 
 <!-- page 95 (pdf 4) -->
 
-1 2
-
-3
-
 Putting-out system– weavers producing cloth at home The merchant distributes work among the weavers based on the orders he has received for cloth. The weavers get the yarn from the merchant and supply him the cloth. For the weavers, this arrangement seemingly has two advantages. The weavers do not have to spend their money on purchase of yarn. Also, the problem of selling the finished cloth is taken care of. Weavers know from the outset what cloth they should make and how much of it is to be woven.
 
-However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of
+However, this dependence on the merchants both for raw materials and markets means that the merchants have a lot of power. They give orders for what is to be made and they pay a very low price for making the cloth. The weavers have no way of knowing who they are making the cloth for or at what price it will be sold. At the cloth market, the merchants sell the cloth to the garment factories. In this way, the market works more in favour of the merchants.
 
 1. This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
 
@@ -90,8 +86,6 @@ However, this dependence on the merchants both for raw materials and markets mea
 > [table] In what ways are weavers dependent on cloth merchants?
 
 <!-- page 96 (pdf 5) -->
-
-knowing who they are making the cloth for or at what price it will be sold. At the cloth market, the merchants sell the cloth to the garment factories. In this way, the market works more in favour of the merchants.
 
 > [table] If the weavers were to buy yarn on their own and sell cloth, they would probably earn three times more. Do you think this is possible? How? Discuss.
 
@@ -175,13 +169,15 @@ Market and equality
 
 The foreign businessperson made huge profits in the market. Compared to this, the garment exporter made only moderate profits. On the other hand, the earnings of the workers at the garment export factory are barely enough to cover their day-to-day needs. Similarly, we saw the small cotton farmer and the weaver at Erode put in long hours of hard work. But they did not get a fair price in the market for what they produced. The merchants or traders are somewhere in between. Compared to the weavers, they have earned more but it is still much less than the exporter. Thus, not everyone gains equally in the market. Democracy is also about getting a fair wage in the market. Whether it is Kanta or Swapna, if families don’t earn enough how would they think of themselves as equal to others?
 
-On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful People who gained in the market
+On one hand, the market offers people opportunities for work and to be able to sell things that they grow or produce. It could be the farmer selling cotton or the weaver producing cloth. On the other hand, it is usually the rich and the powerful that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly. In the last chapter, we will read about how one such fish-workers’ cooperative was started on the Tawa river.
 
 > [table] Compare the earnings per shirt of the worker in the garment factory, the garment exporter and the businessperson in the market abroad. What do you find?
 
 > [table] What are the reasons that the businessperson is able to make a huge profit in the market?
 
 > [table] You have read the chapter on advertising. Why does the businessperson spend Rs 300 per shirt on advertising? Discuss.
+
+People who gained in the market
 
 1. ________________________
 
@@ -195,7 +191,7 @@ People who didn’t gain as much in the market
 
 2. ________________________
 
-3. ________________________ that get the maximum earnings from the market. These are the people who have money and own the factories, the large shops, large land holdings, etc. The poor have to depend on the rich and the powerful for various things. They have to depend for loans (as in the case of Swapna, the small farmer), for raw materials and marketing of their goods (weavers in the putting out system), and most often for employment (workers at the garment factory). Because of this dependence, the poor are exploited in the market. There are ways to overcome these such as forming cooperatives of producers and ensuring that laws are followed strictly. In the last chapter, we will read about how one such fish-workers’ cooperative was started on the Tawa river.
+3. ________________________
 
 <!-- page 100 (pdf 9) -->
 

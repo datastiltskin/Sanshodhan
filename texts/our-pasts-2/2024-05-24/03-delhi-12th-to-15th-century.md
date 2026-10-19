@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch03.pdf"
 source_sha256: "897fb315a6f8489538ede02ee1bd3bf2a9ef472f3726971e132970e4ab611e40"
 pdf_pages: 9
 printed_pages: "30-38"
-body_fingerprint: "5d8494c6a823c4f2593743bdf4a75aeb7b87f17030f69f375bf0ffbbd16aad28"
+body_fingerprint: "613318ae596769c49e3167ef073e8ff23ff42e7846a902f0e5daf8071cda983c"
 overrides:
   - "on page 30 the blue question 'Take a look at Table 1.' is a separate box and had been read into the sentence, and the full stop was doubled"
   - "quotation tail read as a heading on page 34"
@@ -164,37 +164,23 @@ It is important to remember that large parts of the subcontinent remained outsid
 
 1. Khums 2. Zakat 3. Jizyah
 
-1. Khums was Consisted of one-fifth of war booty and one-fifth
+1. Khums was Consisted of one-fifth of war booty and one-fifth on mines and treasury trove.
 
-on mines and treasury trove.
-
-2. Zakat was one
-
-of the religious duties enjoined upon all muslims under which they had to give 40th part of their annual savings to the needy and the travellers. It is often suggested that the practice of laying zakat was started by the Prophet himself and it had been made obligatory for all muslims, who had financial means, to do so. Thus essentially zakat was not a tax to be levied by the rulers. However, during the sultanate period Firuz Shah Tughluq collected zakat as a regular tax and kept a separate account
+2. Zakat was one of the religious duties enjoined upon all muslims under which they had to give 40th part of their annual savings to the needy and the travellers. It is often suggested that the practice of laying zakat was started by the Prophet himself and it had been made obligatory for all muslims, who had financial means, to do so. Thus essentially zakat was not a tax to be levied by the rulers. However, during the sultanate period Firuz Shah Tughluq collected zakat as a regular tax and kept a separate account
 
 > [caption] DELHI: 12 TH TO
 
 <!-- page 36 (pdf 7) -->
 
-for it although there were instances of even influential people
-
-evading this tax. On imports and exports particularly the
-
-muslim traders were obliged to pay a two and half percent zakat
+for it although there were instances of even influential people evading this tax. On imports and exports particularly the muslim traders were obliged to pay a two and half percent zakat
 
 (alms tax) both under the Delhi Sultans and the Mughals.
 
-3. Jizyah was a tax paid by the
-
-non-Muslims who had been given the status of zimmis or protected people by the state. In the Sultanate period initially it was
-
-collected along with the land tax (kharaj). But Firuz
+3. Jizyah was a tax paid by the non-Muslims who had been given the status of zimmis or protected people by the state. In the Sultanate period initially it was collected along with the land tax (kharaj). But Firuz
 
 Shah Tughlaq collected jizya as a separate tax.
 
-Source: U.N. Day,
-
-, 1959, Administrative system of Delhi Sultanat, Kitab Mahal Publishers.
+Source: U.N. Day, , 1959, Administrative system of Delhi Sultanat, Kitab Mahal Publishers.
 
 ### Chieftains and their fortifications
 

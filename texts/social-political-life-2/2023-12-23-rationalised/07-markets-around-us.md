@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch07.pdf"
 source_sha256: "7e61781bfbfc004062217a8dffb5d60c1c92ca853bb60fb9221d6c1be09b1934"
 pdf_pages: 12
 printed_pages: "74-85"
-body_fingerprint: "c9413eceada0c507017bce5c639fd4eb95aad7bf6478d386a70a745704412e79"
+body_fingerprint: "cd4ae5d3992a7c569374b06d7fbb23c1f517f5b88915309be63a0e62b3f271ff"
 ---
 
 <!-- page 74 (pdf 1) -->
@@ -75,17 +75,13 @@ On the top left shelf there were different brands of detergent cakes. Another sh
 
 It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
-> [note] Why did Sujata carry a notebook? Do you think this system is
+> [note] Why did Sujata carry a notebook? Do you think this system is useful? Can there be problems?
 
 shops. Many of these are permanent shops, while others are roadside stalls such as that of the vegetable hawker, the fruit vendor, the mechanic, etc.
 
-> [note] useful? Can there be problems?
-
-> [note] What are the different kinds of shops that you find in your
+> [note] What are the different kinds of shops that you find in your neighbourhood? What do you purchase from them?
 
 Shops in the neighbourhood are useful in many ways. They are near our home and we can go there on any day of the week. Usually, the buyer and seller know each other and these shops also provide goods on credit. This means that you can pay for the purchases later, as we saw in Sujata’s case, for example.
-
-> [note] neighbourhood? What do you purchase from them?
 
 > [note] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
 
@@ -99,11 +95,9 @@ While wandering about on the third floor they entered a shop that was selling br
 
 Shopping complexes and malls
 
-> [note] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What
+> [note] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What would you say if someone stops you from entering a shop in a market?
 
 So far we have seen two kinds of marketplaces – weekly markets and markets in our neighbourhood. There are other markets in the urban area that have many shops, popularly called shopping complexes. These days, in many urban areas, you also have large multi-storeyed air-conditioned buildings with shops on different floors, known as malls. In these urban markets, you get both branded and non-branded goods. As you have read in the chapter on advertising, branded goods are expensive, often promoted by advertising and claims of better quality. The companies producing these products sell them through shops in large urban markets and, at times, through special showrooms. As compared to non-branded goods, fewer people can afford to buy branded ones.
-
-> [note] would you say if someone stops you from entering a shop in a market?
 
 <!-- page 81 (pdf 8) -->
 
@@ -113,7 +107,7 @@ In the previous sections, you have read about different markets from where we bu
 
 The people in between the producer and the final consumer are the traders. The wholesale trader first buys goods in large quantities. For example, the vegetable wholesale trader will not buy a few kilos of vegetables, but will buy in large lots of 25 to 100 kilos. These will then be sold to other traders. In these markets, buying and selling takes place between traders. It is through these links of traders that goods reach faraway places. The trader who finally sells this to the consumer, is the retailer. This could be a trader in a weekly market, a hawker in the neighbourhood or a shop in a shopping complex.
 
-We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city The above map of Delhi shows four of the 10 wholesale markets in the city.
+We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
 > [note] Why do people not bargain in shops located in malls whereas they bargain in weekly markets?
 
@@ -129,9 +123,9 @@ We can understand this with the help of the following examples – Every city ha
 
 > [caption] Okhla
 
-<!-- page 82 (pdf 9) -->
+The above map of Delhi shows four of the 10 wholesale markets in the city.
 
-wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
+<!-- page 82 (pdf 9) -->
 
 ### Aftab –The wholesaler in the city
 
@@ -149,13 +143,13 @@ Markets and equality
 
 In this chapter, we have looked at shop owners in a weekly market and those in a shopping complex. They are very different people. One is a small trader with little money to run the shop whereas the other is able to spend a lot of money to set up the shop. They also earn unequal amounts. The weekly market trader earns little compared to the profit of a regular shop owner in a shopping complex. Similarly, buyers are differently placed. There are many who are not able to afford the cheapest of goods while others are busy shopping in malls. Thus, whether we can be buyers or sellers in these different markets depends, among other things, on the money that we have.
 
-We have also examined the chain of markets that is formed before goods can reach us. It is through People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
+We have also examined the chain of markets that is formed before goods can reach us. It is through this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
+
+People in urban areas can enter markets without stepping out of their homes via the Internet. They use their credit cards to make ‘online purchases’.
 
 A car being put together in a factory.
 
 <!-- page 84 (pdf 11) -->
-
-this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
 
 Malls, like the one above, sell expensive and branded goods.
 

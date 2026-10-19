@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch07.pdf"
 source_sha256: "aee6a76a2cb549469943ef1fdd12f1122d9c9595328fbd2429777d6090937565"
 pdf_pages: 12
 printed_pages: "80-91"
-body_fingerprint: "3a073ed5faeb79e0fe7dc906de6dae831469ce1e79d0f94d70f53d11a9622571"
+body_fingerprint: "710b42ca3b0751f3ca81decc931217d547d092b1cf42ee9e3e49d754df7b5570"
 ---
 
 <!-- page 80 (pdf 1) -->
@@ -56,11 +56,11 @@ Just naming the product may not make us buy it. The manufacturers that made the 
 
 The task of creating a brand does not stop at giving the product a special name. For example, just when ‘Top Taste Daal’ begins to be sold, another company decides to also sell daals in a packet and calls this ‘Best Taste Daal’. So, now there are two branded daals in the market. Both the companies are keen that you buy their daals.
 
-The consumer is confused because you really cannot tell the difference between ‘Top Taste Daal’ and ‘Best Taste Daal’. The manufacturer has to give the consumer a reason to prefer a particular brand of daal. Just naming a daal does not help sell it. So, advertisers begin claiming certain special values for their brand. In this way, they try to differentiate it Branding actually came from cattle grazing. Cattle of different owners grazed together in ranches and they often got mixed up. The owners thought of a solution. They started marking their cattle with the owner’s sign by using a heated iron. This was called ‘branding’.
+The consumer is confused because you really cannot tell the difference between ‘Top Taste Daal’ and ‘Best Taste Daal’. The manufacturer has to give the consumer a reason to prefer a particular brand of daal. Just naming a daal does not help sell it. So, advertisers begin claiming certain special values for their brand. In this way, they try to differentiate it from other similar products. Look below at how the two daals try and do this.
+
+Branding actually came from cattle grazing. Cattle of different owners grazed together in ranches and they often got mixed up. The owners thought of a solution. They started marking their cattle with the owner’s sign by using a heated iron. This was called ‘branding’.
 
 <!-- page 83 (pdf 4) -->
-
-from other similar products. Look below at how the two daals try and do this.
 
 From the advertisements, you can now see that the two daals are saying different things. ‘Top Taste Daal’ is appealing to our social tradition of treating guests extremely well. ‘Best Taste Daal’ is appealing to our concern for our children’s health and that they eat things that are good for them. Values such as treating our guests well and making sure our children get nutritious food are used by brands to create brand values. These brand values are conveyed through the use of visuals and words to give us an overall image that appeals to us.
 
@@ -118,25 +118,19 @@ Advertising is a very important part of getting people to buy a brand. This does
 
 > [table] A couple of weeks later... The creative team at the agency starts thinking...
 
-> [table] How about associating our soap with
+> [table] How about associating our soap with the loving care of the mother! We should say that you cannot fully express your love for your child without your soap!
 
-> [table] All the existing brands of
+> [table] All the existing brands of baby soap in the market emphasise ‘naturalness’, etc.
 
 Market surveys have revealed that young mothers between the ages of 21 and 40 are concerned about the soap they use for their children, and are willing to pay a higher price for a better product. We should create a brand Advertising and democracy There are various ways in which advertising links to issues of equality in a democratic society.
 
-> [table] the loving care of the mother! We baby soap in the market emphasise ‘naturalness’, etc.
-
-> [table] should say that you cannot fully express your love for your child We need a different angle.
-
-> [table] without your soap!
+> [table] We need a different angle.
 
 > [table] identity that appeals to them.
 
-> [table] We need a good brand name to go
+> [table] We need a good brand name to go with that.
 
 > [table] Hmm...good idea.
-
-> [table] with that.
 
 > [table] Yes, that’s a brilliant idea!
 
@@ -146,9 +140,9 @@ Market surveys have revealed that young mothers between the ages of 21 and 40 ar
 
 > [table] The agency makes a presentation to the client...
 
-> [table] Yes. I think this promotes a new way of expressing love and care. I would like to try Our campaign will be based on the concept: ‘Care Soap – Express Your Love Afresh’. The visuals will focus on mothers and children to this new brand.
+> [table] Yes. I think this promotes a new way of expressing love and care. I would like to try this new brand.
 
-> [table] re-inforce our brand strategy!
+> [table] Our campaign will be based on the concept: ‘Care Soap – Express Your Love Afresh’. The visuals will focus on mothers and children to re-inforce our brand strategy!
 
 > [table] Thank you
 

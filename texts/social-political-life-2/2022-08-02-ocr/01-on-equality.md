@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch01.pdf"
 source_sha256: "1437856c5f5e069787c4889b15dac1053d1772120a932f50a06da7a692bc053b"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "071c16c58d888e36d64657b6dbb1b1763db1acbada2db31f41c7b7605705c3a7"
+body_fingerprint: "702b010eb9b069b4b7f9f8295e06a13391a7860c470fe0efd3516ff3984f3202"
 ocr: true
 ocr_confidence: 88.2
 overrides:
@@ -157,7 +157,7 @@ Omprakash and the Ansaris do not deserve to be treated like this. They deserve t
 
 Equality in Indian democracy
 
-The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
 
 If you were one of the Ansaris how would you have responded to the suggestion that you change your name?
 
@@ -167,9 +167,11 @@ In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a co
 
 <!-- page 10 (pdf 9) -->
 
+The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+
 > [caption] Sustainable Development Goal (SDG)
 
-www.in.undp.org no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
+www.in.undp.org
 
 This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law. What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws. Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male. Third, every person has access to all public places including playgrounds, hotels, shops and markets. All persons can use publicly available wells, roads and bathing ghats. Fourth, untouchability has been abolished.
 
@@ -181,7 +183,7 @@ The two ways in which the government has tried
 
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
 
-While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not
+While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not respected. This is because people refuse to think of them as equal even though the law requires it.
 
 > [note] Children being served their midday meal at a government school in Uttarakhand.
 
@@ -190,8 +192,6 @@ While government programmes play an important role in increasing equality of opp
 “It is disgraceful to live at the cost of one's self-respect. Self-respect is the most vital factor in life. Without it, man is a cipher. To live worthily with self-respect, one has to overcome difficulties. It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.
 
 “Man is mortal. Everyone has to die some day or the other. But one must resolve to lay down one’s life in enriching the noble ideals of self-respect and in bettering one's human life... Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”
-
-respected. This is because people refuse to think of them as equal even though the law requires it.
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch04.pdf"
 source_sha256: "1dbcde4bd1c2939e1420b874075a7fbb1b33334272297b5922d26c586c3bfa06"
 pdf_pages: 12
 printed_pages: "36-47"
-body_fingerprint: "d3da77cd00df9dfa238f6f0be1e77264f980f7a5f8da59c17803758c745f8e5c"
+body_fingerprint: "24a09aae6a68a1db0a9bac1a8944ea18115a9ee3f6aa7e11666490e350cbd717"
 ---
 
 <!-- page 36 (pdf 1) -->
@@ -49,15 +49,15 @@ As soon as babies could walk, their mothers or other adults no longer looked aft
 
 Growing up male in Madhya Pradesh in the 1960s The following is adapted from an account of experiences of being in a small town in Madhya Pradesh in the 1960s.
 
-From Class VI onwards, boys and girls went to separate schools. The girls’ school was designed very differently from the boys’ school. They had a central courtyard where they played in total seclusion and A Class VII Samoan child in his school uniform.
+From Class VI onwards, boys and girls went to separate schools. The girls’ school was designed very differently from the boys’ school. They had a central courtyard where they played in total seclusion and safety from the outside world. The boys’ school had no such courtyard and our playground was just a big space attached to the school. Every evening, once school was over, the boys watched as hundreds of school girls crowded the narrow streets. As these girls walked on the streets, they looked so purposeful. This was unlike the boys who used the streets as a place to stand around idling, to play, to try out tricks with their bicycles. For the girls, the street was simply a place to get straight home. The girls always went in groups, perhaps because they also carried fears of being teased or attacked.
+
+A Class VII Samoan child in his school uniform.
 
 > [note] In what ways do the experiences of Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
 
 Why do girls like to go to school together in groups?
 
 <!-- page 40 (pdf 5) -->
-
-safety from the outside world. The boys’ school had no such courtyard and our playground was just a big space attached to the school. Every evening, once school was over, the boys watched as hundreds of school girls crowded the narrow streets. As these girls walked on the streets, they looked so purposeful. This was unlike the boys who used the streets as a place to stand around idling, to play, to try out tricks with their bicycles. For the girls, the street was simply a place to get straight home. The girls always went in groups, perhaps because they also carried fears of being teased or attacked.
 
 After reading the two examples above, we realise that there are many different ways of growing up. Often we think that there is only one way in which children grow up. This is because we are most familiar with our own experiences. If we talk to elders in our family, we will see that their childhoods were probably very different from ours.
 
@@ -75,21 +75,19 @@ In most societies, including our own, the roles men and women play or the work t
 
 ## ‘MY MOTHER DOES NOT WORK’
 
-> [table] Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m.
+> [table] Shonali, how can you say that! You know that Jaspreet aunty is up at 5 a.m. everyday doing all the housework!
 
-> [table] Harmeet’s mother always comes for excursions, beause Ma, we are going on a school excursion. Rosie Ma’am she doesn’t work.
+> [table] Harmeet’s mother always comes for excursions, beause she doesn’t work.
 
-> [table] everyday doing all needs volunteers. Can’t you the housework!
-
-> [table] take a holiday from office and volunteer?
+> [table] Ma, we are going on a school excursion. Rosie Ma’am needs volunteers. Can’t you take a holiday from office and volunteer?
 
 > [table] At the Singh’s house
 
-> [table] Then Jaspreet, why don’t you just relax and let them But isn’t that correct aunty? My mother is a housewife – Harsharan, Shonali thinks that your wife manage everything for a change?
+> [table] Then Jaspreet, why don’t you just relax and let them manage everything for a change?
 
-> [table] she does not work!
+> [table] But isn’t that correct aunty? My mother is a housewife – she does not work!
 
-> [table] is not a working person!
+> [table] Harsharan, Shonali thinks that your wife is not a working person!
 
 > [table] Great idea! OK, I’ll go on strike tomorrow!
 
@@ -97,13 +95,13 @@ In most societies, including our own, the roles men and women play or the work t
 
 > [table] Next morning, 7:30 a.m.
 
-> [table] Oh-ho! That’s the school bus! I’ll
+> [table] Oh-ho! That’s the school bus! I’ll have to drop them in the car.
 
-> [table] Oh God! Look at the time! Where’s my breakfast? Why aren’t have to drop them in the car.
+> [table] Oh God! Look at the time! Where’s my breakfast? Why aren’t the children ready?
 
-> [table] the children ready?
+> [table] How would I know? I’m on strike, remember? Besides, Mangala has also taken leave today.
 
-> [table] How would I know? I’m on strike, remember? Besides, Mangala has also Yes, but that’s not real work, it’s just house work!
+> [table] Yes, but that’s not real work, it’s just house work!
 
 > [table] Oh! That’s what you think, do you? Let’s go over to their house and ask Jaspreet what she thinks!
 
@@ -165,11 +163,9 @@ Haryana 23 30? 38 2? Tamil Nadu 19 35? 40 4?
 
 Women’s work and equality
 
-> [note] What are the total number of work hours spent by women in Haryana
+> [note] What are the total number of work hours spent by women in Haryana and Tamil Nadu each week?
 
 As we have seen the low value attached to women’s household and care-giving work is not an individual or family matter. It is part of a larger system of inequality between men and women. It, therefore, has to be dealt with through actions not just at the level of the individual or the family but also by the government. As we now know, equality is an important principle of our Constitution. The Constitution says that being male or female should not become a reason for discrimination. In reality, inequality between the sexes exists. The government is, therefore, committed to understanding the reasons for this and taking positive steps to remedy the situation. For example, it recognises that burden of child-care and housework falls on women and girls.
-
-> [note] and Tamil Nadu each week?
 
 > [note] How does this compare with the total number of work hours spent by men?
 
@@ -201,11 +197,9 @@ Children at an Anganwadi centre in a village in Madhya Pradesh.
 
 > [caption] 2. Housework is invisible and unpaid work.
 
-> [note] b. Our society does not make distinctions between boys and
+> [note] b. Our society does not make distinctions between boys and girls when they are growing up.
 
 > [caption] Housework is physically demanding.
-
-> [note] girls when they are growing up.
 
 > [caption] Housework is time consuming.
 
@@ -213,13 +207,9 @@ Children at an Anganwadi centre in a village in Madhya Pradesh.
 
 > [caption] Write in your own words what is meant by the terms
 
-> [caption] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks
+> [caption] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks undertaken by women in your home.
 
-> [note] d. The work that women do is less
-
-> [caption] undertaken by women in your home.
-
-> [note] valued than that of men.
+> [note] d. The work that women do is less valued than that of men.
 
 > [caption] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
 

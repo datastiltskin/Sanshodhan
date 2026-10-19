@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch05.pdf"
 source_sha256: "327f5fc71f3b83576ca50b549e773cb052bbf8b143b5bdb1f965bcede07b1078"
 pdf_pages: 14
 printed_pages: "54-67"
-body_fingerprint: "6f1a74ea8d497ac146290c2350faff7495352bcba616ca321e2d4e8323a1924d"
+body_fingerprint: "7562a77eaf368e97cc95562832ab0456c4b2104f5645b76967ffc874c97d92f3"
 ocr: true
 ocr_confidence: 94.8
 overrides:
@@ -129,7 +129,9 @@ Going to school is an extremely important part of your life. As more and more ch
 
 In the nineteenth century, many new ideas about education and learning emerged. Schools became more common and communities that had never learnt reading and writing started sending their children to school. But there was a lot of opposition to educating girls even then. Yet many women and men made efforts to open schools for girls. Women struggled to learn to read and write.
 
-Ramabai (1858-1922), shown above with her daughter, championed the cause of women’s education. She never went to School but learnt to read and write from her parents. She was given the title ‘Pandita’ because she could read and write Sanskrit, a remarkable achievement as women then were not allowed such knowledge. She went on to set up a Mission in Khedgaon near Pune in 1898, where widows and poor women were encouraged not only to become literate but to be independent. They were taught a variety of skills from carpentry to running a printing press, skills that are not usually taught to girls even today. The printing press can be seen in the picture on the top left corner. Ramabai’s Mission is still active today.
+Ramabai (1858-1922), shown above with her daughter, championed the cause of women’s education. She never went to School but learnt to read and write from her parents. She was given the title ‘Pandita’ because she could read and write Sanskrit, a remarkable achievement as women then were not allowed such knowledge. She went on to set up a Mission in Khedgaon near Pune in 1898, where widows and poor women were encouraged not only to become literate but to be independent. They were taught a variety of skills from carpentry to running a printing press, skills that are not usually taught to girls even today. The printing press can be seen in the picture on the top left corner. Ramabai’s
+
+Mission is still active today.
 
 <!-- page 60 (pdf 7) -->
 
@@ -151,7 +153,9 @@ After learning the alphabet, Rashsundari Devi was able to read the Chaitanya Bha
 
 Schooling and education today
 
-Today, both boys and girls attend school in large numbers. Yet, as we will see, there still remain differences between the education of boys and girls. India has a census every 10 years, which counts the whole population of the country. It also gathers detailed information about the people living in India — their age, schooling, what work they do, and so on. We use this information to measure many things, like the number of literate people, and the ratio of men and women. According to the 1961 census, about 40 per cent of all boys and men Unlike Rashsundari Devi and Rokeya Hossain, who were not allowed to learn to read and write, large numbers of girls attend school in India today. Despite this, there continue to be many girls who leave school for reasons of poverty, inadequate schooling facilities and discrimination. Providing equal schooling facilities to children from all communities and class backgrounds, and particularly girls, continues to be a challenge in India.
+Today, both boys and girls attend school in large numbers. Yet, as we will see, there still remain differences between the education of boys and girls. India has a census every 10 years, which counts the whole population of the country. It also gathers detailed information about the people living in India — their age, schooling, what work they do, and so on. We use this information to measure many things, like the number of literate people, and the ratio of men and women. According to the 1961 census, about 40 per cent of all boys and men
+
+Unlike Rashsundari Devi and Rokeya Hossain, who were not allowed to learn to read and write, large numbers of girls attend school in India today. Despite this, there continue to be many girls who leave school for reasons of poverty, inadequate schooling facilities and discrimination. Providing equal schooling facilities to children from all communities and class backgrounds, and particularly girls, continues to be a challenge in India.
 
 > [caption] Sustainable Development Goal (SDG)
 
@@ -239,9 +243,7 @@ Below: On 8 March, International Women’s Day, women all over
 
 the world come together to celebrate and renew their struggles.
 
-Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan. Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a
-
-cultural programme.
+Above: Women are holding up candles to demonstrate the solidarity between the people of India and Pakistan. Every year, on 14 August, several thousand people gather at Wagah on the border of India and Pakistan and hold a cultural programme.
 
 <!-- page 67 (pdf 14) -->
 

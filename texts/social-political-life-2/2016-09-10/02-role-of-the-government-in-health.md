@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch02.pdf"
 source_sha256: "08028e311cd9ad1e5bf2d90c6ff5132d6e0d1b18ad59c6ba74423301ca1dc901"
 pdf_pages: 12
 printed_pages: "18-29"
-body_fingerprint: "996e81dba683f4f4cc4f26e5b2afa2381f45205036559dc94b261b16b5b17c88"
+body_fingerprint: "ba2151678232347bf8d21d8b7a073a6afb292a387dc075855e04fc79daa6aa3a"
 ---
 
 <!-- page 18 (pdf 1) -->
@@ -74,15 +74,11 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 ## THE COST OF A CURE
 
-> [table] Oh! Me, too! I just got back to
+> [table] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
-> [table] I had viral fever and
+> [table] I had viral fever and had to go to the hospital...
 
 > [table] Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
-
-> [table] school on Monday. My Daddy had to go to the took me to see the doctor hospital...
-
-> [table] at the new hospital in Kingsway. It was very exciting!
 
 > [table] Hi Aman! Good to see you back! How have you been?
 
@@ -94,11 +90,9 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!
 
-> [table] ...and so young man – this pink pill should be
+> [table] ...and so young man – this pink pill should be taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
 
-> [table] ...and have you taken three times a day, and the white tablet heard the one once before bed time – that’s for the bodyache! This one is a syrup – don’t about Batman on Reality TV?
-
-> [table] worry, it’s tasty
+> [table] ...and have you heard the one about Batman on Reality TV?
 
 > [table] Thank you Doctor...I feel better already!
 
@@ -210,7 +204,9 @@ Sometimes it is not only the lack of money that prevents people from getting pro
 
 What can be done?
 
-There is little doubt that the health situation of most people in our country is not good. It is the responsibility of the government to provide quality healthcare services to all its citizens, especially the poor and the disadvantaged. However, health is as much dependent on basic amenities and social conditions of the people, as it is on healthcare services. Hence, it is important to work on both in order to improve the health situation of our people. And this can be done. Look at the following example– This pregnant lady has to travel many kilometres to see a qualified doctor.
+There is little doubt that the health situation of most people in our country is not good. It is the responsibility of the government to provide quality healthcare services to all its citizens, especially the poor and the disadvantaged. However, health is as much dependent on basic amenities and social conditions of the people, as it is on healthcare services. Hence, it is important to work on both in order to improve the health situation of our people. And this can be done. Look at the following example– The Kerala experience In 1996, the Kerala government made some major changes in the state. Forty per cent of the entire state budget was given to panchayats. They could plan and provide for their requirements. This made it possible for a village to make sure that proper planning was done for water, food, women’s development and education. This meant that water supply schemes were checked, the working of schools and anganwadis was ensured and specific problems of the village were taken up. Health centres were also improved. All of this helped to improve the situation. Despite these efforts, however, some problems – such as shortage of medicines, insufficient hospital beds, not enough doctors – remained, and these needed to be addressed.
+
+This pregnant lady has to travel many kilometres to see a qualified doctor.
 
 <!-- page 28 (pdf 11) -->
 
@@ -219,10 +215,6 @@ There is little doubt that the health situation of most people in our country is
 The above map of India shows the state of Kerala in pink.
 
 page 123 of this book has a map of India. Using your pencil outline the state of Kerala on this map.
-
-The Kerala experience
-
-In 1996, the Kerala government made some major changes in the state. Forty per cent of the entire state budget was given to panchayats. They could plan and provide for their requirements. This made it possible for a village to make sure that proper planning was done for water, food, women’s development and education. This meant that water supply schemes were checked, the working of schools and anganwadis was ensured and specific problems of the village were taken up. Health centres were also improved. All of this helped to improve the situation. Despite these efforts, however, some problems – such as shortage of medicines, insufficient hospital beds, not enough doctors – remained, and these needed to be addressed.
 
 Let us look at an example of another country and its approach to issues of health.
 
@@ -240,11 +232,9 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 
 > [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
 
-> [table] Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public
+> [table] Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
 
 > [caption] 2. What are the different ways through which the government can take steps to provide healthcare for all? Discuss.
-
-> [table] health.”
 
 > [caption] 3. What differences do you find between private and public health services in your area? Use the following table to compare and contrast these.
 

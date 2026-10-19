@@ -90,11 +90,9 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] THE COST OF A CURE Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
 
-> [table] I had viral fever and
+> [table] I had viral fever and had to go to the hospital...
 
-> [table] Oh! Me, too! I just got back to had to go to the school on Monday. My Daddy hospital...
-
-> [table] took me to see the doctor at the new hospital in Kingsway. It was very exciting!
+> [table] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
 > [table] Hi Aman! Good to see you back! How have you been?
 
@@ -106,11 +104,11 @@ Patients usually have to wait in long queues in government hospitals, like this 
 
 > [table] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed some medicines and rest.
 
-> [table] ...and so young man – this pink pill should be
+> [table] ...and so young man – this pink pill should be taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
 
 > [table] ...and have you heard the one about Batman on Reality TV?
 
-> [table] taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty Thank you Doctor...I feel better already!
+> [table] Thank you Doctor...I feel better already!
 
 <!-- page 17 (pdf 8) -->
 

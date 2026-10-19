@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch06.pdf"
 source_sha256: "292aaeb765772c3b77ec811ad1ea2c7c607daacc6e2d955f867933800c110b51"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "a31304e8a0f81b6ea33a5eb73a0828011c783a8cdeee04641ef6cfbf3e2face7"
+body_fingerprint: "ef3890f56dbd6385ee962b88a0b459785d5dec89906a7239487d27b7114819e1"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -38,9 +38,11 @@ Unity and development had to go hand in hand. If the divisions between different
 
 Between December 1946 and November 1949, some three hundred Indians had a series of meetings on the country’s political future. The meetings of this “Constituent Assembly” were held in New Delhi, but the participants came from all over India, and from different political parties. These discussions resulted in the framing of the Indian Constitution, which came into effect on 26 January 1950.
 
-One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
+One feature of the Constitution was its adoption of universal adult franchise. All Indians above the age of 21 would be allowed to vote in state and national elections. This was a revolutionary step – for never before had Indians been allowed to choose their own leaders. In other countries, such as the United Kingdom and the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
 
-Franchise – The right to vote the United States, this right had been granted in stages. First only men of property had the vote. Then men who were educated were also added on. Working-class men got the vote only after a long struggle. Finally, after a bitter struggle of their own, American and British women were granted the vote. On the other hand, soon after Independence, India chose to grant this right to all its citizens regardless of gender, class or education.
+Activity Imagine that you are a British administrator leaving India in 1947. You are writing a letter home where you discuss what is likely to happen to India without the British. What would be your views about the future of India?
+
+Franchise – The right to vote
 
 <!-- page 162 (pdf 3) -->
 
@@ -78,15 +80,15 @@ The Constitution sought to balance these competing claims by providing three lis
 
 Another major debate in the Constituent Assembly concerned language. Many members believed that the English language should leave India with the British rulers. Its place, they argued, should be taken by Hindi. However, those who did not speak Hindi were of a different opinion. Speaking in the Assembly, T.T. Krishnamachari conveyed “a warning on behalf of people of the South”, some of whom threatened to separate from India if Hindi was imposed on them. A compromise was finally arrived at: namely, that while Hindi would be the “official language” of India, English would be used in the courts, the services, and communications between one state and another.
 
-Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
+Many Indians contributed to the framing of the Constitution. But perhaps the most important role was played by Dr B.R. Ambedkar, who was Chairman of the Drafting Committee, and under whose supervision the document was finalised. In his final speech to the Constituent Assembly, Dr Ambedkar pointed out that political democracy had to be accompanied by economic and social democracy. Giving the right to vote would not automatically lead to the removal of other inequalities such as between rich and poor, or between upper and lower castes. With the new Constitution, he said, India was going to enter into a life of contradictions. In politics we will have equality and in social and economic life we will have inequality. In politics we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
 
 > [caption] Fig. 3 – Dr B.R. Ambedkar
 
 > [caption] Dr. B.R. Ambedkar (1891-1956), respectfully referred to as Babasaheb, belonged to a Marathi-speaking dalit family. A lawyer and economist, he is best known as a revered leader of the Dalits and the father of the Indian Constitution
 
-<!-- page 165 (pdf 6) -->
+Activity Discuss in your class, one advantage and one disadvantage today of the decision to keep English as a language of India.
 
-we will be recognising the principle of one man one vote and one value. In our social and economic life, we shall, by reason of our social and economic structure, continue to deny the principle of one man one value.
+<!-- page 165 (pdf 6) -->
 
 ## How were States to be Formed?
 

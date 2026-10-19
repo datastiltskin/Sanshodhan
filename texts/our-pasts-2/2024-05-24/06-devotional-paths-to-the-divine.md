@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch06.pdf"
 source_sha256: "79e362e3ad577c5b2405894ebbdd0b2bdd6f807b5e0608dcf11a6ec5231bce3f"
 pdf_pages: 18
 printed_pages: "61-78"
-body_fingerprint: "8ec2f4558b67c063b055effd80406eb7f2339161b60585e3291e6300501e087c"
+body_fingerprint: "b0dd7fbe14864c7f66e87e163c16c1aef7e953366aed119fd0fa5c5fb1ae23d6"
 overrides:
   - "letter-spaced column on page 62 read as broken words, the page reads 'worshipped in different areas came to be identified with Shiva, Vishnu or Durga.'"
   - "note on page 71 reads 'Bhagavata Purana. He also encouraged the establishment of satra or monasteries', the '1' is a stray mark and 'of' was misread as 'fo' with 'or' lost"
@@ -129,9 +129,7 @@ Islam propagated strict monotheism or submission to one God. In the eighth and n
 
 > [caption] Fig. 4 Mystics in ecstasy.
 
-In Kashmir, the Rishi order of Sufism flourished
-
-in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
+In Kashmir, the Rishi order of Sufism flourished in the 15th and 16th centuries. This order was established by Sheikh Nuruddin Wali also known as Nund Rishi and had a deep impact on the life of the people in Kashmir. A number of shrines dedicated to Rishi saints can be found in many parts of Kashmir.
 
 (tariqa)) of instruction and ritual practice.
 
@@ -173,11 +171,7 @@ This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Miraba
 
 devotion came to be known as Eka Sarana Nama Dharma (supreme surrender to the One). The teachings of Shankaradeva were based on the
 
-Bhagavad Gita
-
-and Bhagavata Purana. He also encouraged the establishment
-
-of satra or monasteries for transmission of knowledge. His major compositions included
+Bhagavad Gita and Bhagavata Purana. He also encouraged the establishment of satra or monasteries for transmission of knowledge. His major compositions included
 
 Kirtana-ghosha
 

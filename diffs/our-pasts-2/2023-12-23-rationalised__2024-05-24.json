@@ -8,22 +8,22 @@
   "chapters_added": 0,
   "body": {
    "deleted": 8,
-   "inserted": 30,
+   "inserted": 23,
    "modified": 19,
-   "moved": 5,
+   "moved": 3,
    "typographic": 11,
    "restreamed": 3,
-   "resplit": 15,
+   "resplit": 11,
    "unreadable": 3,
    "punctuation": 27
   },
   "other_streams": {
-   "deleted": 9,
+   "deleted": 8,
    "inserted": 30,
    "modified": 12,
    "moved": 1,
    "typographic": 26,
-   "restreamed": 199,
+   "restreamed": 200,
    "resplit": 15,
    "unreadable": 1,
    "punctuation": 2
@@ -44,7 +44,7 @@
     "title": "INTRODUCTION: TRACING CHANGES THROUGH A THOUSAND YEARS",
     "file": "texts/our-pasts-2/2024-05-24/01-introduction-tracing-changes-through-a-thousand.md"
    },
-   "similarity": 0.938,
+   "similarity": 0.945,
    "status": "matched",
    "streams": {
     "heading": {
@@ -262,7 +262,7 @@
       "moved": 1,
       "typographic": 4,
       "restreamed": 0,
-      "resplit": 1,
+      "resplit": 0,
       "unreadable": 0,
       "punctuation": 6
      },
@@ -785,18 +785,6 @@
        "new_pos": 45
       },
       {
-       "type": "resplit",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Today all national and state governments have archives where they keep all their old official records and transactions.",
-       "new": "Today all national and state governments have archives where they keep all their old official records and transactions.",
-       "old_page": 5,
-       "new_page": 5,
-       "words": [],
-       "old_pos": 53,
-       "new_pos": 63
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -929,6 +917,18 @@
        "new_pos": 62
       },
       {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Today all national and state governments have archives where they keep all their old official records and transactions.",
+       "new": "Today all national and state governments have archives where they keep all their old official records and transactions.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 53,
+       "new_pos": 63
+      },
+      {
        "type": "punctuation",
        "stream": "body",
        "similarity": 0.997,
@@ -947,7 +947,7 @@
         ]
        ],
        "old_pos": 59,
-       "new_pos": 70
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -959,7 +959,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 54,
-       "new_pos": 65
+       "new_pos": 64
       },
       {
        "type": "equal",
@@ -971,7 +971,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 55,
-       "new_pos": 66
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -983,7 +983,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 56,
-       "new_pos": 67
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -995,7 +995,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 57,
-       "new_pos": 68
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -1007,7 +1007,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 58,
-       "new_pos": 69
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -1019,7 +1019,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 60,
-       "new_pos": 71
+       "new_pos": 70
       },
       {
        "type": "equal",
@@ -1031,7 +1031,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 61,
-       "new_pos": 72
+       "new_pos": 71
       },
       {
        "type": "equal",
@@ -1043,7 +1043,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 62,
-       "new_pos": 73
+       "new_pos": 72
       },
       {
        "type": "equal",
@@ -1055,7 +1055,7 @@
        "new_page": 6,
        "words": [],
        "old_pos": 63,
-       "new_pos": 74
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -1067,7 +1067,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 64,
-       "new_pos": 75
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -1079,7 +1079,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 65,
-       "new_pos": 76
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -1091,7 +1091,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 66,
-       "new_pos": 77
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -1103,7 +1103,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 67,
-       "new_pos": 78
+       "new_pos": 77
       },
       {
        "type": "equal",
@@ -1115,7 +1115,7 @@
        "new_page": 7,
        "words": [],
        "old_pos": 68,
-       "new_pos": 79
+       "new_pos": 78
       },
       {
        "type": "moved",
@@ -1127,7 +1127,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 87,
-       "new_pos": 80
+       "new_pos": 79
       },
       {
        "type": "punctuation",
@@ -1152,7 +1152,7 @@
         ]
        ],
        "old_pos": 71,
-       "new_pos": 84
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -1164,7 +1164,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 69,
-       "new_pos": 82
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -1176,7 +1176,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 70,
-       "new_pos": 83
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -1188,7 +1188,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 72,
-       "new_pos": 85
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -1200,7 +1200,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 73,
-       "new_pos": 86
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -1212,7 +1212,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 74,
-       "new_pos": 87
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -1224,7 +1224,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 75,
-       "new_pos": 88
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -1236,7 +1236,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 76,
-       "new_pos": 89
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -1248,7 +1248,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 77,
-       "new_pos": 90
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -1260,7 +1260,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 78,
-       "new_pos": 91
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -1272,7 +1272,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 79,
-       "new_pos": 92
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -1284,7 +1284,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 80,
-       "new_pos": 93
+       "new_pos": 92
       },
       {
        "type": "equal",
@@ -1296,7 +1296,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 81,
-       "new_pos": 94
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -1308,7 +1308,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 82,
-       "new_pos": 95
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -1320,7 +1320,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 83,
-       "new_pos": 96
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -1332,7 +1332,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 84,
-       "new_pos": 97
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -1344,7 +1344,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 85,
-       "new_pos": 98
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -1356,7 +1356,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 86,
-       "new_pos": 99
+       "new_pos": 98
       },
       {
        "type": "modified",
@@ -1377,7 +1377,7 @@
         ]
        ],
        "old_pos": 89,
-       "new_pos": 101
+       "new_pos": 100
       },
       {
        "type": "inserted",
@@ -1389,7 +1389,7 @@
        "new_page": 9,
        "words": [],
        "old_pos": null,
-       "new_pos": 100
+       "new_pos": 99
       },
       {
        "type": "punctuation",
@@ -1414,7 +1414,7 @@
         ]
        ],
        "old_pos": 90,
-       "new_pos": 102
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -1426,7 +1426,7 @@
        "new_page": 9,
        "words": [],
        "old_pos": 91,
-       "new_pos": 103
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -1438,7 +1438,7 @@
        "new_page": 9,
        "words": [],
        "old_pos": 92,
-       "new_pos": 104
+       "new_pos": 103
       },
       {
        "type": "punctuation",
@@ -1459,7 +1459,7 @@
         ]
        ],
        "old_pos": 95,
-       "new_pos": 114
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -1471,7 +1471,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 93,
-       "new_pos": 112
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -1483,7 +1483,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 94,
-       "new_pos": 113
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -1495,7 +1495,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 96,
-       "new_pos": 115
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -1507,7 +1507,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 97,
-       "new_pos": 116
+       "new_pos": 115
       },
       {
        "type": "punctuation",
@@ -1528,7 +1528,7 @@
         ]
        ],
        "old_pos": 98,
-       "new_pos": 118
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -1540,7 +1540,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 99,
-       "new_pos": 119
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -1552,7 +1552,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 100,
-       "new_pos": 120
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -1564,7 +1564,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 101,
-       "new_pos": 121
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -1576,7 +1576,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 102,
-       "new_pos": 122
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -1588,7 +1588,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 103,
-       "new_pos": 123
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -1600,7 +1600,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 104,
-       "new_pos": 124
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -1612,7 +1612,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 105,
-       "new_pos": 125
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -1624,7 +1624,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 106,
-       "new_pos": 126
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -1636,7 +1636,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 107,
-       "new_pos": 127
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -1648,7 +1648,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 108,
-       "new_pos": 128
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -1660,7 +1660,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 109,
-       "new_pos": 129
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -1672,7 +1672,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 110,
-       "new_pos": 130
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -1684,7 +1684,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 111,
-       "new_pos": 131
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -1696,7 +1696,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 112,
-       "new_pos": 132
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -1708,7 +1708,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 113,
-       "new_pos": 133
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -1720,7 +1720,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 114,
-       "new_pos": 136
+       "new_pos": 135
       },
       {
        "type": "typographic",
@@ -1732,7 +1732,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 118,
-       "new_pos": 140
+       "new_pos": 139
       },
       {
        "type": "typographic",
@@ -1744,7 +1744,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 126,
-       "new_pos": 148
+       "new_pos": 147
       },
       {
        "type": "equal",
@@ -1756,7 +1756,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 115,
-       "new_pos": 137
+       "new_pos": 136
       },
       {
        "type": "equal",
@@ -1768,7 +1768,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 116,
-       "new_pos": 138
+       "new_pos": 137
       },
       {
        "type": "equal",
@@ -1780,7 +1780,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 117,
-       "new_pos": 139
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -1792,7 +1792,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 119,
-       "new_pos": 141
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -1804,7 +1804,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 120,
-       "new_pos": 142
+       "new_pos": 141
       },
       {
        "type": "equal",
@@ -1816,7 +1816,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 121,
-       "new_pos": 143
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -1828,7 +1828,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 122,
-       "new_pos": 144
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -1840,7 +1840,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 123,
-       "new_pos": 145
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -1852,7 +1852,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 124,
-       "new_pos": 146
+       "new_pos": 145
       },
       {
        "type": "equal",
@@ -1864,7 +1864,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 125,
-       "new_pos": 147
+       "new_pos": 146
       },
       {
        "type": "equal",
@@ -1876,7 +1876,7 @@
        "new_page": 12,
        "words": [],
        "old_pos": 127,
-       "new_pos": 149
+       "new_pos": 148
       },
       {
        "type": "typographic",
@@ -1888,7 +1888,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 131,
-       "new_pos": 153
+       "new_pos": 152
       },
       {
        "type": "equal",
@@ -1900,7 +1900,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 128,
-       "new_pos": 150
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -1912,7 +1912,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 129,
-       "new_pos": 151
+       "new_pos": 150
       },
       {
        "type": "equal",
@@ -1924,7 +1924,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 130,
-       "new_pos": 152
+       "new_pos": 151
       },
       {
        "type": "equal",
@@ -1936,7 +1936,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 132,
-       "new_pos": 154
+       "new_pos": 153
       },
       {
        "type": "equal",
@@ -1948,7 +1948,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 133,
-       "new_pos": 155
+       "new_pos": 154
       },
       {
        "type": "equal",
@@ -1960,7 +1960,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 134,
-       "new_pos": 156
+       "new_pos": 155
       },
       {
        "type": "equal",
@@ -1972,7 +1972,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 135,
-       "new_pos": 157
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -1984,7 +1984,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 136,
-       "new_pos": 158
+       "new_pos": 157
       },
       {
        "type": "equal",
@@ -1996,7 +1996,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 137,
-       "new_pos": 159
+       "new_pos": 158
       },
       {
        "type": "equal",
@@ -2008,7 +2008,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 138,
-       "new_pos": 160
+       "new_pos": 159
       },
       {
        "type": "equal",
@@ -2020,7 +2020,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 139,
-       "new_pos": 161
+       "new_pos": 160
       },
       {
        "type": "equal",
@@ -2032,7 +2032,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 140,
-       "new_pos": 162
+       "new_pos": 161
       },
       {
        "type": "equal",
@@ -2044,7 +2044,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 141,
-       "new_pos": 163
+       "new_pos": 162
       },
       {
        "type": "equal",
@@ -2056,7 +2056,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 142,
-       "new_pos": 164
+       "new_pos": 163
       },
       {
        "type": "equal",
@@ -2068,7 +2068,7 @@
        "new_page": 13,
        "words": [],
        "old_pos": 143,
-       "new_pos": 165
+       "new_pos": 164
       },
       {
        "type": "equal",
@@ -2080,7 +2080,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 144,
-       "new_pos": 166
+       "new_pos": 165
       },
       {
        "type": "equal",
@@ -2092,7 +2092,7 @@
        "new_page": 14,
        "words": [],
        "old_pos": 145,
-       "new_pos": 167
+       "new_pos": 166
       },
       {
        "type": "modified",
@@ -2272,7 +2272,7 @@
        "new_page": 8,
        "words": [],
        "old_pos": 11,
-       "new_pos": 81
+       "new_pos": 80
       },
       {
        "type": "restreamed",
@@ -2284,7 +2284,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 13,
-       "new_pos": 106
+       "new_pos": 105
       },
       {
        "type": "restreamed",
@@ -2296,7 +2296,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 14,
-       "new_pos": 107
+       "new_pos": 106
       },
       {
        "type": "restreamed",
@@ -2308,7 +2308,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 15,
-       "new_pos": 108
+       "new_pos": 107
       },
       {
        "type": "restreamed",
@@ -2320,7 +2320,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 16,
-       "new_pos": 109
+       "new_pos": 108
       },
       {
        "type": "restreamed",
@@ -2332,7 +2332,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 17,
-       "new_pos": 110
+       "new_pos": 109
       },
       {
        "type": "restreamed",
@@ -2344,7 +2344,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 18,
-       "new_pos": 111
+       "new_pos": 110
       },
       {
        "type": "restreamed",
@@ -2356,7 +2356,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 19,
-       "new_pos": 117
+       "new_pos": 116
       },
       {
        "type": "restreamed",
@@ -2368,7 +2368,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 20,
-       "new_pos": 134
+       "new_pos": 133
       },
       {
        "type": "restreamed",
@@ -2380,7 +2380,7 @@
        "new_page": 11,
        "words": [],
        "old_pos": 21,
-       "new_pos": 135
+       "new_pos": 134
       },
       {
        "type": "resplit",
@@ -2392,7 +2392,7 @@
        "new_page": 10,
        "words": [],
        "old_pos": 12,
-       "new_pos": 105
+       "new_pos": 104
       }
      ]
     },
@@ -6086,7 +6086,7 @@
     "body": {
      "counts": {
       "deleted": 8,
-      "inserted": 25,
+      "inserted": 18,
       "modified": 4,
       "moved": 2,
       "typographic": 2,
@@ -6866,7 +6866,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "1. Khums was Consisted of one-fifth of war booty and one-fifth",
+       "new": "1. Khums was Consisted of one-fifth of war booty and one-fifth on mines and treasury trove.",
        "old_page": null,
        "new_page": 35,
        "words": [],
@@ -6878,7 +6878,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "on mines and treasury trove.",
+       "new": "2. Zakat was one of the religious duties enjoined upon all muslims under which they had to give 40th part of their annual savings to the needy and the travellers.",
        "old_page": null,
        "new_page": 35,
        "words": [],
@@ -6890,7 +6890,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "2. Zakat was one",
+       "new": "It is often suggested that the practice of laying zakat was started by the Prophet himself and it had been made obligatory for all muslims, who had financial means, to do so.",
        "old_page": null,
        "new_page": 35,
        "words": [],
@@ -6902,7 +6902,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "of the religious duties enjoined upon all muslims under which they had to give 40th part of their annual savings to the needy and the travellers.",
+       "new": "Thus essentially zakat was not a tax to be levied by the rulers.",
        "old_page": null,
        "new_page": 35,
        "words": [],
@@ -6914,36 +6914,12 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "It is often suggested that the practice of laying zakat was started by the Prophet himself and it had been made obligatory for all muslims, who had financial means, to do so.",
-       "old_page": null,
-       "new_page": 35,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 98
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "Thus essentially zakat was not a tax to be levied by the rulers.",
-       "old_page": null,
-       "new_page": 35,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 99
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
        "new": "However, during the sultanate period Firuz Shah Tughluq collected zakat as a regular tax and kept a separate account",
        "old_page": null,
        "new_page": 35,
        "words": [],
        "old_pos": null,
-       "new_pos": 100
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -7190,48 +7166,24 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "for it although there were instances of even influential people",
+       "new": "for it although there were instances of even influential people evading this tax.",
        "old_page": null,
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 101
+       "new_pos": 99
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "evading this tax.",
+       "new": "On imports and exports particularly the muslim traders were obliged to pay a two and half percent zakat",
        "old_page": null,
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 102
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "On imports and exports particularly the",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 103
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "muslim traders were obliged to pay a two and half percent zakat",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 104
+       "new_pos": 100
       },
       {
        "type": "inserted",
@@ -7243,55 +7195,31 @@
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 105
+       "new_pos": 101
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "3. Jizyah was a tax paid by the",
+       "new": "3. Jizyah was a tax paid by the non-Muslims who had been given the status of zimmis or protected people by the state.",
        "old_page": null,
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 106
+       "new_pos": 102
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "non-Muslims who had been given the status of zimmis or protected people by the state.",
+       "new": "In the Sultanate period initially it was collected along with the land tax (kharaj).",
        "old_page": null,
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 107
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "In the Sultanate period initially it was",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 108
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": "collected along with the land tax (kharaj).",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 109
+       "new_pos": 103
       },
       {
        "type": "inserted",
@@ -7303,7 +7231,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 110
+       "new_pos": 104
       },
       {
        "type": "inserted",
@@ -7315,31 +7243,19 @@
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 111
+       "new_pos": 105
       },
       {
        "type": "inserted",
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "Source: U.N. Day,",
+       "new": "Source: U.N. Day, , 1959, Administrative system of Delhi Sultanat, Kitab Mahal Publishers.",
        "old_page": null,
        "new_page": 36,
        "words": [],
        "old_pos": null,
-       "new_pos": 112
-      },
-      {
-       "type": "inserted",
-       "stream": "body",
-       "similarity": null,
-       "old": null,
-       "new": ", 1959, Administrative system of Delhi Sultanat, Kitab Mahal Publishers.",
-       "old_page": null,
-       "new_page": 36,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 113
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -7351,7 +7267,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 73,
-       "new_pos": 121
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -7363,7 +7279,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 74,
-       "new_pos": 122
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -7375,7 +7291,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 75,
-       "new_pos": 123
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -7387,7 +7303,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 76,
-       "new_pos": 124
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -7399,7 +7315,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 77,
-       "new_pos": 125
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -7411,7 +7327,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 78,
-       "new_pos": 126
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -7423,7 +7339,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 79,
-       "new_pos": 127
+       "new_pos": 120
       },
       {
        "type": "typographic",
@@ -7435,7 +7351,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 81,
-       "new_pos": 129
+       "new_pos": 122
       },
       {
        "type": "unreadable",
@@ -7447,7 +7363,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 85,
-       "new_pos": 134
+       "new_pos": 127
       },
       {
        "type": "punctuation",
@@ -7476,7 +7392,7 @@
         ]
        ],
        "old_pos": 84,
-       "new_pos": 133
+       "new_pos": 126
       },
       {
        "type": "resplit",
@@ -7488,7 +7404,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 83,
-       "new_pos": 131
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -7500,7 +7416,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 80,
-       "new_pos": 128
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -7512,7 +7428,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 82,
-       "new_pos": 130
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -7524,7 +7440,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 86,
-       "new_pos": 135
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -7536,7 +7452,7 @@
        "new_page": 37,
        "words": [],
        "old_pos": 87,
-       "new_pos": 136
+       "new_pos": 129
       },
       {
        "type": "resplit",
@@ -7767,7 +7683,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 18,
-       "new_pos": 120
+       "new_pos": 113
       },
       {
        "type": "modified",
@@ -7804,7 +7720,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 17,
-       "new_pos": 114
+       "new_pos": 107
       }
      ]
     },
@@ -8088,7 +8004,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 8,
-       "new_pos": 115
+       "new_pos": 108
       },
       {
        "type": "restreamed",
@@ -8100,7 +8016,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 9,
-       "new_pos": 116
+       "new_pos": 109
       },
       {
        "type": "restreamed",
@@ -8112,7 +8028,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 10,
-       "new_pos": 117
+       "new_pos": 110
       },
       {
        "type": "restreamed",
@@ -8124,7 +8040,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 11,
-       "new_pos": 118
+       "new_pos": 111
       },
       {
        "type": "restreamed",
@@ -8136,7 +8052,7 @@
        "new_page": 36,
        "words": [],
        "old_pos": 12,
-       "new_pos": 119
+       "new_pos": 112
       }
      ]
     },
@@ -12579,7 +12495,7 @@
        "stream": "body",
        "similarity": null,
        "old": null,
-       "new": "Lachit Barphukan and the defeat of the Mughals in Assam Discuss why the Mughals were interested in the land of the Gonds.",
+       "new": "Lachit Barphukan and the defeat of the Mughals in Assam",
        "old_page": null,
        "new_page": 57,
        "words": [],
@@ -12873,7 +12789,7 @@
         ]
        ],
        "old_pos": 161,
-       "new_pos": 184
+       "new_pos": 185
       },
       {
        "type": "typographic",
@@ -12885,7 +12801,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 155,
-       "new_pos": 178
+       "new_pos": 179
       },
       {
        "type": "equal",
@@ -12897,7 +12813,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 144,
-       "new_pos": 167
+       "new_pos": 168
       },
       {
        "type": "equal",
@@ -12909,7 +12825,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 145,
-       "new_pos": 168
+       "new_pos": 169
       },
       {
        "type": "equal",
@@ -12921,7 +12837,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 146,
-       "new_pos": 169
+       "new_pos": 170
       },
       {
        "type": "equal",
@@ -12933,7 +12849,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 147,
-       "new_pos": 170
+       "new_pos": 171
       },
       {
        "type": "equal",
@@ -12945,7 +12861,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 148,
-       "new_pos": 171
+       "new_pos": 172
       },
       {
        "type": "equal",
@@ -12957,7 +12873,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 149,
-       "new_pos": 172
+       "new_pos": 173
       },
       {
        "type": "equal",
@@ -12969,7 +12885,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 150,
-       "new_pos": 173
+       "new_pos": 174
       },
       {
        "type": "equal",
@@ -12981,7 +12897,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 151,
-       "new_pos": 174
+       "new_pos": 175
       },
       {
        "type": "equal",
@@ -12993,7 +12909,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 152,
-       "new_pos": 175
+       "new_pos": 176
       },
       {
        "type": "equal",
@@ -13005,7 +12921,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 153,
-       "new_pos": 176
+       "new_pos": 177
       },
       {
        "type": "equal",
@@ -13017,7 +12933,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 154,
-       "new_pos": 177
+       "new_pos": 178
       },
       {
        "type": "equal",
@@ -13029,7 +12945,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 156,
-       "new_pos": 179
+       "new_pos": 180
       },
       {
        "type": "equal",
@@ -13041,7 +12957,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 157,
-       "new_pos": 180
+       "new_pos": 181
       },
       {
        "type": "equal",
@@ -13053,7 +12969,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 158,
-       "new_pos": 181
+       "new_pos": 182
       },
       {
        "type": "equal",
@@ -13065,7 +12981,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 159,
-       "new_pos": 182
+       "new_pos": 183
       },
       {
        "type": "equal",
@@ -13077,7 +12993,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 160,
-       "new_pos": 183
+       "new_pos": 184
       },
       {
        "type": "equal",
@@ -13089,7 +13005,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 162,
-       "new_pos": 185
+       "new_pos": 186
       },
       {
        "type": "equal",
@@ -13101,7 +13017,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 163,
-       "new_pos": 186
+       "new_pos": 187
       },
       {
        "type": "equal",
@@ -13113,7 +13029,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 164,
-       "new_pos": 187
+       "new_pos": 188
       },
       {
        "type": "equal",
@@ -13125,7 +13041,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 165,
-       "new_pos": 188
+       "new_pos": 189
       },
       {
        "type": "equal",
@@ -13137,7 +13053,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 166,
-       "new_pos": 189
+       "new_pos": 190
       },
       {
        "type": "equal",
@@ -13149,7 +13065,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 167,
-       "new_pos": 190
+       "new_pos": 191
       },
       {
        "type": "equal",
@@ -13161,7 +13077,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 168,
-       "new_pos": 191
+       "new_pos": 192
       },
       {
        "type": "equal",
@@ -13173,7 +13089,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 169,
-       "new_pos": 192
+       "new_pos": 193
       },
       {
        "type": "equal",
@@ -13185,7 +13101,7 @@
        "new_page": 58,
        "words": [],
        "old_pos": 170,
-       "new_pos": 193
+       "new_pos": 194
       },
       {
        "type": "equal",
@@ -13197,7 +13113,7 @@
        "new_page": 59,
        "words": [],
        "old_pos": 171,
-       "new_pos": 194
+       "new_pos": 195
       },
       {
        "type": "equal",
@@ -13209,35 +13125,23 @@
        "new_page": 59,
        "words": [],
        "old_pos": 172,
-       "new_pos": 195
+       "new_pos": 196
       }
      ]
     },
     "note": {
      "counts": {
-      "deleted": 1,
+      "deleted": 0,
       "inserted": 0,
       "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 8,
+      "restreamed": 9,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
-      {
-       "type": "deleted",
-       "stream": "note",
-       "similarity": null,
-       "old": "Discuss why the Mughals were interested in the land of the Gonds.",
-       "new": null,
-       "old_page": 57,
-       "new_page": null,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": null
-      },
       {
        "type": "restreamed",
        "stream": "note>body",
@@ -13326,13 +13230,25 @@
        "type": "restreamed",
        "stream": "note>body",
        "similarity": 1.0,
+       "old": "Discuss why the Mughals were interested in the land of the Gonds.",
+       "new": "Discuss why the Mughals were interested in the land of the Gonds.",
+       "old_page": 57,
+       "new_page": 58,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 166
+      },
+      {
+       "type": "restreamed",
+       "stream": "note>body",
+       "similarity": 1.0,
        "old": "Why do you think the Mughals tried to conquer the land of the Ahoms?",
        "new": "Why do you think the Mughals tried to conquer the land of the Ahoms?",
        "old_page": 58,
        "new_page": 58,
        "words": [],
        "old_pos": 8,
-       "new_pos": 166
+       "new_pos": 167
       }
      ]
     },
@@ -14286,7 +14202,7 @@
       "page": 57,
       "new_page": 57,
       "sentences": 25,
-      "score": 0.96,
+      "score": 1.0,
       "suspect": false
      },
      {
@@ -14328,7 +14244,7 @@
     "title": "DEVOTIONAL PATHS TO THE DIVINE",
     "file": "texts/our-pasts-2/2024-05-24/06-devotional-paths-to-the-divine.md"
    },
-   "similarity": 0.864,
+   "similarity": 0.878,
    "status": "matched",
    "streams": {
     "heading": {
@@ -14663,7 +14579,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 3,
-      "resplit": 5,
+      "resplit": 3,
       "unreadable": 0,
       "punctuation": 6
      },
@@ -15281,6 +15197,18 @@
        "new_pos": 90
       },
       {
+       "type": "resplit",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Thus emerged the silsilas, a spiritual genealogy of Sufi teachers, each following a slightly different method (tariqa) of instruction and ritual practice.",
+       "new": "Thus emerged the silsilas, a spiritual genealogy of Sufi teachers, each following a slightly different method (tariqa)) of instruction and ritual practice.",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 66,
+       "new_pos": 91
+      },
+      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -15485,7 +15413,7 @@
        "new_pos": 89
       },
       {
-       "type": "resplit",
+       "type": "equal",
        "stream": "body",
        "similarity": 1.0,
        "old": "In Kashmir, the Rishi order of Sufism flourished in the 15th and 16th centuries.",
@@ -15506,7 +15434,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 68,
-       "new_pos": 94
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -15518,7 +15446,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 69,
-       "new_pos": 95
+       "new_pos": 94
       },
       {
        "type": "punctuation",
@@ -15539,7 +15467,7 @@
         ]
        ],
        "old_pos": 72,
-       "new_pos": 99
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -15551,7 +15479,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 70,
-       "new_pos": 97
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -15563,7 +15491,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 71,
-       "new_pos": 98
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -15575,7 +15503,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 73,
-       "new_pos": 100
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -15587,7 +15515,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 74,
-       "new_pos": 101
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -15599,7 +15527,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 75,
-       "new_pos": 102
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -15611,7 +15539,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 76,
-       "new_pos": 103
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -15623,7 +15551,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 77,
-       "new_pos": 104
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -15635,7 +15563,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 78,
-       "new_pos": 105
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -15647,7 +15575,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 79,
-       "new_pos": 106
+       "new_pos": 105
       },
       {
        "type": "punctuation",
@@ -15676,7 +15604,7 @@
         ]
        ],
        "old_pos": 89,
-       "new_pos": 129
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -15688,7 +15616,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 80,
-       "new_pos": 120
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -15700,7 +15628,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 81,
-       "new_pos": 121
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -15712,7 +15640,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 82,
-       "new_pos": 122
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -15724,7 +15652,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 83,
-       "new_pos": 123
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -15736,7 +15664,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 84,
-       "new_pos": 124
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -15748,7 +15676,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 85,
-       "new_pos": 125
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -15760,7 +15688,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 86,
-       "new_pos": 126
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -15772,7 +15700,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 87,
-       "new_pos": 127
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -15784,7 +15712,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 88,
-       "new_pos": 128
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -15796,7 +15724,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 90,
-       "new_pos": 130
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -15808,7 +15736,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 91,
-       "new_pos": 131
+       "new_pos": 130
       },
       {
        "type": "modified",
@@ -15829,7 +15757,7 @@
         ]
        ],
        "old_pos": 97,
-       "new_pos": 137
+       "new_pos": 136
       },
       {
        "type": "resplit",
@@ -15841,19 +15769,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 98,
-       "new_pos": 138
-      },
-      {
-       "type": "resplit",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "He also encouraged the establishment of satra or monasteries for transmission of knowledge.",
-       "new": "He also encouraged the establishment of satra or monasteries for transmission of knowledge.",
-       "old_page": 71,
-       "new_page": 71,
-       "words": [],
-       "old_pos": 99,
-       "new_pos": 141
+       "new_pos": 137
       },
       {
        "type": "resplit",
@@ -15865,7 +15781,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 100,
-       "new_pos": 143
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -15877,7 +15793,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 92,
-       "new_pos": 132
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -15889,7 +15805,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 93,
-       "new_pos": 133
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -15901,7 +15817,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 94,
-       "new_pos": 134
+       "new_pos": 133
       },
       {
        "type": "equal",
@@ -15913,7 +15829,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 95,
-       "new_pos": 135
+       "new_pos": 134
       },
       {
        "type": "equal",
@@ -15925,7 +15841,19 @@
        "new_page": 71,
        "words": [],
        "old_pos": 96,
-       "new_pos": 136
+       "new_pos": 135
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "He also encouraged the establishment of satra or monasteries for transmission of knowledge.",
+       "new": "He also encouraged the establishment of satra or monasteries for transmission of knowledge.",
+       "old_page": 71,
+       "new_page": 71,
+       "words": [],
+       "old_pos": 99,
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -15937,7 +15865,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 101,
-       "new_pos": 145
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -15949,7 +15877,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 102,
-       "new_pos": 146
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -15961,7 +15889,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 103,
-       "new_pos": 147
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -15973,7 +15901,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 104,
-       "new_pos": 148
+       "new_pos": 145
       },
       {
        "type": "equal",
@@ -15985,7 +15913,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 105,
-       "new_pos": 149
+       "new_pos": 146
       },
       {
        "type": "modified",
@@ -16014,7 +15942,7 @@
         ]
        ],
        "old_pos": 107,
-       "new_pos": 159
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -16026,7 +15954,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 108,
-       "new_pos": 160
+       "new_pos": 157
       },
       {
        "type": "equal",
@@ -16038,7 +15966,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 109,
-       "new_pos": 161
+       "new_pos": 158
       },
       {
        "type": "equal",
@@ -16050,7 +15978,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 110,
-       "new_pos": 162
+       "new_pos": 159
       },
       {
        "type": "punctuation",
@@ -16075,7 +16003,7 @@
         ]
        ],
        "old_pos": 120,
-       "new_pos": 178
+       "new_pos": 175
       },
       {
        "type": "equal",
@@ -16087,7 +16015,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 111,
-       "new_pos": 169
+       "new_pos": 166
       },
       {
        "type": "equal",
@@ -16099,7 +16027,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 112,
-       "new_pos": 170
+       "new_pos": 167
       },
       {
        "type": "equal",
@@ -16111,7 +16039,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 113,
-       "new_pos": 171
+       "new_pos": 168
       },
       {
        "type": "equal",
@@ -16123,7 +16051,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 114,
-       "new_pos": 172
+       "new_pos": 169
       },
       {
        "type": "equal",
@@ -16135,7 +16063,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 115,
-       "new_pos": 173
+       "new_pos": 170
       },
       {
        "type": "equal",
@@ -16147,7 +16075,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 116,
-       "new_pos": 174
+       "new_pos": 171
       },
       {
        "type": "equal",
@@ -16159,7 +16087,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 117,
-       "new_pos": 175
+       "new_pos": 172
       },
       {
        "type": "equal",
@@ -16171,7 +16099,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 118,
-       "new_pos": 176
+       "new_pos": 173
       },
       {
        "type": "equal",
@@ -16183,7 +16111,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 119,
-       "new_pos": 177
+       "new_pos": 174
       },
       {
        "type": "equal",
@@ -16195,7 +16123,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 121,
-       "new_pos": 179
+       "new_pos": 176
       },
       {
        "type": "equal",
@@ -16207,7 +16135,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 122,
-       "new_pos": 180
+       "new_pos": 177
       },
       {
        "type": "equal",
@@ -16219,7 +16147,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 123,
-       "new_pos": 181
+       "new_pos": 178
       },
       {
        "type": "equal",
@@ -16231,7 +16159,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 124,
-       "new_pos": 182
+       "new_pos": 179
       },
       {
        "type": "equal",
@@ -16243,7 +16171,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 125,
-       "new_pos": 183
+       "new_pos": 180
       },
       {
        "type": "equal",
@@ -16255,7 +16183,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 126,
-       "new_pos": 184
+       "new_pos": 181
       },
       {
        "type": "equal",
@@ -16267,7 +16195,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 127,
-       "new_pos": 185
+       "new_pos": 182
       },
       {
        "type": "equal",
@@ -16279,7 +16207,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 128,
-       "new_pos": 186
+       "new_pos": 183
       },
       {
        "type": "equal",
@@ -16291,7 +16219,7 @@
        "new_page": 74,
        "words": [],
        "old_pos": 129,
-       "new_pos": 187
+       "new_pos": 184
       },
       {
        "type": "punctuation",
@@ -16320,7 +16248,7 @@
         ]
        ],
        "old_pos": 144,
-       "new_pos": 202
+       "new_pos": 199
       },
       {
        "type": "punctuation",
@@ -16345,7 +16273,7 @@
         ]
        ],
        "old_pos": 145,
-       "new_pos": 203
+       "new_pos": 200
       },
       {
        "type": "equal",
@@ -16357,7 +16285,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 130,
-       "new_pos": 188
+       "new_pos": 185
       },
       {
        "type": "equal",
@@ -16369,7 +16297,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 131,
-       "new_pos": 189
+       "new_pos": 186
       },
       {
        "type": "equal",
@@ -16381,7 +16309,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 132,
-       "new_pos": 190
+       "new_pos": 187
       },
       {
        "type": "equal",
@@ -16393,7 +16321,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 133,
-       "new_pos": 191
+       "new_pos": 188
       },
       {
        "type": "equal",
@@ -16405,7 +16333,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 134,
-       "new_pos": 192
+       "new_pos": 189
       },
       {
        "type": "equal",
@@ -16417,7 +16345,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 135,
-       "new_pos": 193
+       "new_pos": 190
       },
       {
        "type": "equal",
@@ -16429,7 +16357,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 136,
-       "new_pos": 194
+       "new_pos": 191
       },
       {
        "type": "equal",
@@ -16441,7 +16369,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 137,
-       "new_pos": 195
+       "new_pos": 192
       },
       {
        "type": "equal",
@@ -16453,7 +16381,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 138,
-       "new_pos": 196
+       "new_pos": 193
       },
       {
        "type": "equal",
@@ -16465,7 +16393,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 139,
-       "new_pos": 197
+       "new_pos": 194
       },
       {
        "type": "equal",
@@ -16477,7 +16405,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 140,
-       "new_pos": 198
+       "new_pos": 195
       },
       {
        "type": "equal",
@@ -16489,7 +16417,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 141,
-       "new_pos": 199
+       "new_pos": 196
       },
       {
        "type": "equal",
@@ -16501,7 +16429,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 142,
-       "new_pos": 200
+       "new_pos": 197
       },
       {
        "type": "equal",
@@ -16513,7 +16441,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 143,
-       "new_pos": 201
+       "new_pos": 198
       },
       {
        "type": "equal",
@@ -16525,7 +16453,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 146,
-       "new_pos": 204
+       "new_pos": 201
       },
       {
        "type": "equal",
@@ -16537,7 +16465,7 @@
        "new_page": 75,
        "words": [],
        "old_pos": 147,
-       "new_pos": 205
+       "new_pos": 202
       },
       {
        "type": "equal",
@@ -16549,7 +16477,7 @@
        "new_page": 76,
        "words": [],
        "old_pos": 148,
-       "new_pos": 206
+       "new_pos": 203
       },
       {
        "type": "equal",
@@ -16561,7 +16489,7 @@
        "new_page": 76,
        "words": [],
        "old_pos": 149,
-       "new_pos": 207
+       "new_pos": 204
       },
       {
        "type": "restreamed",
@@ -16627,18 +16555,6 @@
        ],
        "old_pos": 106,
        "new_pos": 16
-      },
-      {
-       "type": "resplit",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Thus emerged the silsilas, a spiritual genealogy of Sufi teachers, each following a slightly different method (tariqa) of instruction and ritual practice.",
-       "new": "Thus emerged the silsilas, a spiritual genealogy of Sufi teachers, each following a slightly different method (tariqa)) of instruction and ritual practice.",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 66,
-       "new_pos": 91
       }
      ]
     },
@@ -16809,7 +16725,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 15,
-       "new_pos": 107
+       "new_pos": 106
       },
       {
        "type": "restreamed",
@@ -16821,7 +16737,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 16,
-       "new_pos": 108
+       "new_pos": 107
       },
       {
        "type": "restreamed",
@@ -16833,7 +16749,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 17,
-       "new_pos": 150
+       "new_pos": 147
       },
       {
        "type": "restreamed",
@@ -16845,7 +16761,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 18,
-       "new_pos": 158
+       "new_pos": 155
       },
       {
        "type": "restreamed",
@@ -16857,7 +16773,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 19,
-       "new_pos": 163
+       "new_pos": 160
       },
       {
        "type": "modified",
@@ -17455,7 +17371,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 16,
-       "new_pos": 109
+       "new_pos": 108
       },
       {
        "type": "restreamed",
@@ -17467,7 +17383,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 17,
-       "new_pos": 110
+       "new_pos": 109
       },
       {
        "type": "restreamed",
@@ -17479,7 +17395,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 18,
-       "new_pos": 111
+       "new_pos": 110
       },
       {
        "type": "restreamed",
@@ -17491,7 +17407,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 20,
-       "new_pos": 114
+       "new_pos": 113
       },
       {
        "type": "restreamed",
@@ -17503,7 +17419,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 21,
-       "new_pos": 115
+       "new_pos": 114
       },
       {
        "type": "restreamed",
@@ -17515,7 +17431,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 23,
-       "new_pos": 118
+       "new_pos": 117
       },
       {
        "type": "restreamed",
@@ -17527,7 +17443,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 24,
-       "new_pos": 119
+       "new_pos": 118
       },
       {
        "type": "restreamed",
@@ -17539,7 +17455,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 25,
-       "new_pos": 151
+       "new_pos": 148
       },
       {
        "type": "restreamed",
@@ -17551,7 +17467,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 26,
-       "new_pos": 152
+       "new_pos": 149
       },
       {
        "type": "restreamed",
@@ -17563,7 +17479,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 27,
-       "new_pos": 153
+       "new_pos": 150
       },
       {
        "type": "restreamed",
@@ -17575,7 +17491,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 28,
-       "new_pos": 154
+       "new_pos": 151
       },
       {
        "type": "restreamed",
@@ -17587,7 +17503,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 29,
-       "new_pos": 155
+       "new_pos": 152
       },
       {
        "type": "restreamed",
@@ -17599,7 +17515,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 30,
-       "new_pos": 156
+       "new_pos": 153
       },
       {
        "type": "restreamed",
@@ -17611,7 +17527,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 31,
-       "new_pos": 157
+       "new_pos": 154
       },
       {
        "type": "restreamed",
@@ -17623,7 +17539,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 32,
-       "new_pos": 164
+       "new_pos": 161
       },
       {
        "type": "restreamed",
@@ -17635,7 +17551,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 33,
-       "new_pos": 165
+       "new_pos": 162
       },
       {
        "type": "restreamed",
@@ -17647,7 +17563,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 34,
-       "new_pos": 166
+       "new_pos": 163
       },
       {
        "type": "restreamed",
@@ -17659,7 +17575,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 35,
-       "new_pos": 167
+       "new_pos": 164
       },
       {
        "type": "restreamed",
@@ -17671,7 +17587,7 @@
        "new_page": 73,
        "words": [],
        "old_pos": 36,
-       "new_pos": 168
+       "new_pos": 165
       },
       {
        "type": "resplit",
@@ -17683,7 +17599,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 19,
-       "new_pos": 112
+       "new_pos": 111
       },
       {
        "type": "resplit",
@@ -17695,7 +17611,7 @@
        "new_page": 70,
        "words": [],
        "old_pos": 22,
-       "new_pos": 116
+       "new_pos": 115
       }
      ]
     },
@@ -18234,7 +18150,7 @@
     "title": "THE MAKING OF REGIONAL CULTURES",
     "file": "texts/our-pasts-2/2024-05-24/07-the-making-of-regional-cultures.md"
    },
-   "similarity": 0.889,
+   "similarity": 0.897,
    "status": "matched",
    "streams": {
     "heading": {
@@ -18461,10 +18377,10 @@
       "deleted": 0,
       "inserted": 2,
       "modified": 1,
-      "moved": 2,
+      "moved": 0,
       "typographic": 2,
       "restreamed": 0,
-      "resplit": 3,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 8
      },
@@ -19667,30 +19583,6 @@
        "new_pos": 115
       },
       {
-       "type": "moved",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Pir A Persian word meaning a spiritual guide.",
-       "new": "Pir A Persian word meaning a spiritual guide.",
-       "old_page": 89,
-       "new_page": 89,
-       "words": [],
-       "old_pos": 112,
-       "new_pos": 130
-      },
-      {
-       "type": "moved",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.",
-       "new": "Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.",
-       "old_page": 89,
-       "new_page": 89,
-       "words": [],
-       "old_pos": 113,
-       "new_pos": 131
-      },
-      {
        "type": "punctuation",
        "stream": "body",
        "similarity": 0.994,
@@ -19722,7 +19614,7 @@
        "old": "The temples began to copy the double-roofed (dochala) or four-roofed (chauchala) structure of the thatched huts.",
        "new": "The temples began to copy the double-roofed (dochala)) or four-roofed (chauchala)) structure of the thatched huts.",
        "old_page": 89,
-       "new_page": 90,
+       "new_page": 89,
        "words": [
         [
          "=",
@@ -19754,7 +19646,7 @@
         ]
        ],
        "old_pos": 110,
-       "new_pos": 136
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -19892,13 +19784,25 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
+       "old": "Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers).",
+       "new": "Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers).",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [],
+       "old_pos": 106,
+       "new_pos": 128
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
        "old": "The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these.",
        "new": "The coming of the European trading companies created new economic opportunities; many families belonging to these social groups availed of these.",
        "old_page": 89,
-       "new_page": 90,
+       "new_page": 89,
        "words": [],
        "old_pos": 107,
-       "new_pos": 133
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -19907,10 +19811,10 @@
        "old": "As their social and economic position improved, they proclaimed their status through the construction of temples.",
        "new": "As their social and economic position improved, they proclaimed their status through the construction of temples.",
        "old_page": 89,
-       "new_page": 90,
+       "new_page": 89,
        "words": [],
        "old_pos": 108,
-       "new_pos": 134
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -19919,10 +19823,10 @@
        "old": "When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples.",
        "new": "When local deities, once worshipped in thatched huts in villages, gained the recognition of the Brahmanas, their images began to be housed in temples.",
        "old_page": 89,
-       "new_page": 90,
+       "new_page": 89,
        "words": [],
        "old_pos": 109,
-       "new_pos": 135
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -19931,10 +19835,34 @@
        "old": "This led to the evolution of the typical Bengali style in temple architecture.",
        "new": "This led to the evolution of the typical Bengali style in temple architecture.",
        "old_page": 89,
-       "new_page": 90,
+       "new_page": 89,
        "words": [],
        "old_pos": 111,
-       "new_pos": 137
+       "new_pos": 133
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Pir A Persian word meaning a spiritual guide.",
+       "new": "Pir A Persian word meaning a spiritual guide.",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [],
+       "old_pos": 112,
+       "new_pos": 135
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.",
+       "new": "Animism Attribution of living soul to plants, inanimate objects, and natural phenomena.",
+       "old_page": 89,
+       "new_page": 89,
+       "words": [],
+       "old_pos": 113,
+       "new_pos": 136
       },
       {
        "type": "equal",
@@ -19946,7 +19874,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 114,
-       "new_pos": 138
+       "new_pos": 137
       },
       {
        "type": "equal",
@@ -19958,7 +19886,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 115,
-       "new_pos": 139
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -19970,7 +19898,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 116,
-       "new_pos": 140
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -19982,7 +19910,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 117,
-       "new_pos": 141
+       "new_pos": 140
       },
       {
        "type": "punctuation",
@@ -20003,7 +19931,7 @@
         ]
        ],
        "old_pos": 121,
-       "new_pos": 146
+       "new_pos": 145
       },
       {
        "type": "punctuation",
@@ -20028,7 +19956,7 @@
         ]
        ],
        "old_pos": 122,
-       "new_pos": 147
+       "new_pos": 146
       },
       {
        "type": "equal",
@@ -20040,7 +19968,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 118,
-       "new_pos": 143
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -20052,7 +19980,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 119,
-       "new_pos": 144
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -20064,7 +19992,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 120,
-       "new_pos": 145
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -20076,7 +20004,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 123,
-       "new_pos": 148
+       "new_pos": 147
       },
       {
        "type": "equal",
@@ -20088,7 +20016,7 @@
        "new_page": 91,
        "words": [],
        "old_pos": 124,
-       "new_pos": 149
+       "new_pos": 148
       },
       {
        "type": "equal",
@@ -20100,7 +20028,7 @@
        "new_page": 92,
        "words": [],
        "old_pos": 125,
-       "new_pos": 150
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -20112,19 +20040,7 @@
        "new_page": 92,
        "words": [],
        "old_pos": 126,
-       "new_pos": 151
-      },
-      {
-       "type": "resplit",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers).",
-       "new": "Many of the modest brick and terracotta temples in Bengal were built with the support of several “low” social groups, such as the Kolu (oil pressers) and the Kansari (bell metal workers).",
-       "old_page": 89,
-       "new_page": 89,
-       "words": [],
-       "old_pos": 106,
-       "new_pos": 128
+       "new_pos": 150
       },
       {
        "type": "resplit",
@@ -20379,7 +20295,7 @@
        "new_page": 89,
        "words": [],
        "old_pos": 19,
-       "new_pos": 129
+       "new_pos": 134
       },
       {
        "type": "restreamed",
@@ -20391,7 +20307,7 @@
        "new_page": 90,
        "words": [],
        "old_pos": 20,
-       "new_pos": 142
+       "new_pos": 141
       },
       {
        "type": "resplit",

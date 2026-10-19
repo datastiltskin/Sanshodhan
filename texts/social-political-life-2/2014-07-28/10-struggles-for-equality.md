@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch10.pdf"
 source_sha256: "880472f33cb3eac4ccb296d541ad4317b3a9e9aaf7c9bc6c22cabae3218e6f7c"
 pdf_pages: 8
 printed_pages: "114-121"
-body_fingerprint: "0efb886917c75a7940b9eeef024f4d25f1a52149f8f9f8f7b6456b668cbddc50"
+body_fingerprint: "17cd793f95523cb30d196982900beb89fccd46f630115d2da5b132fe7b4f45c6"
 ---
 
 <!-- page 114 (pdf 1) -->
@@ -27,17 +27,17 @@ But this feeling of equality that the ballot box provides, because the vote of o
 
 Similarly, the man who sells juice does not have the resources to compete with all of the major companies who sell branded drinks through expensive advertising. Swapna does not have sufficient resources to grow cotton and, so, has to take a loan from the trader to grow her crop. This forces her to sell her cotton at a lower price. Melani, like the millions of domestic workers across the country, is forced to endure the insults and hardship of working as a domestic help because she has no resources to set up something on her own. Poverty and the lack of resources continue to be a key reason why so many people’s lives in India are highly unequal.
 
-On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
+On the other hand, the Ansaris were discriminated against not because they did not have the resources. In fact, despite having the money to pay the required rent, they were not able to find an apartment for over a month. People were reluctant to lease them an apartment because of their religion. Similarly, the main reason that the teachers forced Omprakash Valmiki to sweep the school yard was because he was Dalit. You’ve also read that the work women do is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 > [caption] What do you think is meant by the expression ‘power over the ballot box’? Discuss.
 
 <!-- page 116 (pdf 3) -->
 
+In India, it is the case that the poor consist of a majority of members of Dalit, Adivasi and Muslim communities and are often women.
+
 According to the 2001 Census data women form 48 per cent of the population, Muslims form 13 per cent of the population, Dalits form 16 per cent and Adivasis 8 per cent.
 
 > [note] Can you think of one person in your family, community, village, town or city whom you respect because of their fight for equality and justice?
-
-is often considered of less value than that done by the men. All of these persons are discriminated against primarily because of their social and cultural background as well as because they are women. Discrimination on the basis of a person’s religion, caste and sex is another significant factor for why people are treated unequally in India.
 
 Often, poverty and lack of dignity and respect for certain communities and groups come together in such powerful ways that it is difficult to identify where one aspect of inequality ends and the other begins. As you have read, Dalit, Adivasi and Muslim girls drop out of school in large numbers. This is a combined outcome of poverty, social discrimination and the lack of good quality school facilities for these communities.
 
@@ -89,13 +89,27 @@ Adaptation of a song written as part of the Right to Information campaign by Vin
 
 ### The Right To Know
 
-My dreams have the right to know Why for centuries they have been breaking Why don’t they ever come true My hands have the right to know Why do they remain without work all along Why do they have nothing to do My feet have the right to know Why from village to village they walk on their own Why are there no signs of a bus yet My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages My children have the right to know Why do they labour day and night Why is there no school in sight Creative expression against inequality While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
+My dreams have the right to know Why for centuries they have been breaking Why don’t they ever come true
+
+My hands have the right to know Why do they remain without work all along Why do they have nothing to do
+
+My feet have the right to know Why from village to village they walk on their own Why are there no signs of a bus yet
+
+My hunger has the right to know Why grain rots in godowns While I don’t even get a fistful of rice
+
+My old mother has the right to know Why are there no medicines Needles, dispensaries or bandages
+
+My children have the right to know Why do they labour day and night Why is there no school in sight
 
 > [note] What is your favourite line in the above song?
 
 > [note] What does the poet mean when he says, “My hunger has the right to know”?
 
 > [note] Can you share with your class a local song or a poem on dignity that is from your area?
+
+Creative expression against inequality
+
+While some join protest movements to fight inequality, others might use their pen, or their voice, or their ability to dance to draw attention to issues of inequality. Writers, singers, dancers and artists have also been very active in the fight against inequality. Often, poems, songs and stories can also inspire us and make us believe strongly in an issue and influence our efforts to correct the situation.
 
 The Indian Constitution as a living document The foundation of all movements for justice and the inspiration for all the poetry and songs on equality is the recognition that all people are equal. As you know, the Indian Constitution recognises the equality of all persons. Movements and struggles for equality in India continuously refer to the Indian Constitution to make their point about equality and justice for all. The fishworkers in the Tawa Matsya Sangh hope that the provisions of the Constitution will become a reality through their participation in this movement. By constantly referring to the Constitution they use it as a ‘living document’, i.e., something that has real meaning in our lives. In a democracy, there are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.
 

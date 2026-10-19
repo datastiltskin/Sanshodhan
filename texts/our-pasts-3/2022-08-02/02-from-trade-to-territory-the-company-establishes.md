@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch02.pdf"
 source_sha256: "f059ea1e73b68438397b203374c0e07ff11ffacf72635e9b9cb6210444f841d6"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "6ae101f424c4cd968be2978af0c4e68306efca7d5248840a6c5abd00e4b95948"
+body_fingerprint: "622b471c7c763af31c7f06387c4526c46ff96bebd3040dc521687a578e13be8e"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -31,9 +31,11 @@ In 1600, the East India Company acquired a charter from the ruler of England, Qu
 
 The royal charter, however, could not prevent other European powers from entering the Eastern markets. By the time the first English ships sailed down the west coast of Africa, round the Cape of Good Hope, and crossed the Indian Ocean, the Portuguese had already established their presence in the western coast of India, and had their base in Goa. In fact, it was Vasco da Gama, a Portuguese explorer, who had discovered this sea route to India in 1498. By the early seventeenth century, the Dutch too were exploring the possibilities of trade in the Indian Ocean. Soon the French traders arrived on the scene.
 
-The problem was that all the companies were interested in buying the same things. The fine qualities of cotton and silk produced in India had a big market in Europe. Pepper, cloves, cardamom and cinnamon too were in great demand. Competition amongst the European companies inevitably pushed up the prices at which these goods could be purchased, and this reduced the profits that could be earned. The only way the trading companies could flourish was by eliminating rival competitors. The urge to secure markets therefore led to fierce battles between the trading companies. Through the seventeenth and eighteenth centuries they regularly sank each other’s ships, blockaded routes, and prevented rival ships from moving with supplies of Mercantile – A business enterprise that makes profit primarily through trade, buying goods cheap and selling them at higher prices goods. Trade was carried on with arms and trading posts were protected through fortification.
+The problem was that all the companies were interested in buying the same things. The fine qualities of cotton and silk produced in India had a big market in Europe. Pepper, cloves, cardamom and cinnamon too were in great demand. Competition amongst the European companies inevitably pushed up the prices at which these goods could be purchased, and this reduced the profits that could be earned. The only way the trading companies could flourish was by eliminating rival competitors. The urge to secure markets therefore led to fierce battles between the trading companies. Through the seventeenth and eighteenth centuries they regularly sank each other’s ships, blockaded routes, and prevented rival ships from moving with supplies of goods. Trade was carried on with arms and trading posts were protected through fortification.
 
 > [caption] Fig. 2 – Routes to India in the eighteenth century
+
+Mercantile – A business enterprise that makes profit primarily through trade, buying goods cheap and selling them at higher prices
 
 <!-- page 11 (pdf 3) -->
 
@@ -123,7 +125,7 @@ However, not all Company officials succeeded in making money like Clive. Many di
 
 If we analyse the process of annexation of Indian states by the East India Company from 1757 to 1857, certain key aspects emerge. The Company rarely launched a direct military attack on an unknown territory. Instead it used a variety of political, economic and diplomatic methods to extend its influence before annexing an Indian kingdom.
 
-After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but
+After the Battle of Buxar (1764), the Company appointed Residents in Indian states. They were political or commercial agents and their job was to serve and further the interests of the Company. Through the Residents, the Company officials began interfering in the internal affairs of Indian states. They tried to decide who was to be the successor to the throne, and who was to be appointed in administrative posts. Sometimes the Company forced the states into a “subsidiary alliance”. According to the terms of this alliance, Indian rulers were not allowed to have their independent armed forces. They were to be protected by the Company, but had to pay for the “subsidiary forces” that the Company was supposed to maintain for the purpose of this protection. If the Indian rulers failed to make the payment, then part of their territory was taken away as penalty. For example, when Richard Wellesley was Governor-General (1798-1805), the Nawab of Awadh was forced to give over half of his territory to the Company in 1801, as he failed to pay for the “subsidiary forces”. Hyderabad was also forced to cede territories on similar grounds.
 
 > [table] Source 3
 
@@ -140,8 +142,6 @@ Consider the situation in which the victory at Plassey had placed me! A great pr
 Imagine that you are a young Company official who has been in India for a few months. Write a letter home to your mother telling her about your luxurious life and contrasting it with your earlier life in Britain.
 
 <!-- page 16 (pdf 8) -->
-
-had to pay for the “subsidiary forces” that the Company was supposed to maintain for the purpose of this protection. If the Indian rulers failed to make the payment, then part of their territory was taken away as penalty. For example, when Richard Wellesley was Governor-General (1798-1805), the Nawab of Awadh was forced to give over half of his territory to the Company in 1801, as he failed to pay for the “subsidiary forces”. Hyderabad was also forced to cede territories on similar grounds.
 
 > [table] Source 4
 
@@ -221,11 +221,15 @@ Finally, in 1856, the Company also took over Awadh. This time the British had an
 
 Imagine that you are a nawab’s nephew and have been brought up thinking that you will one day be king. Now you find that this will not be allowed by the British because of the new Doctrine of Lapse. What will be your feelings? What will you plan to do so that you can inherit the crown?
 
-> [caption] Fig. 13 – Maharaja Ranjit Singh holding court Fig. 14 – A portrait of Veer Surendra Sai
+> [caption] Fig. 13 – Maharaja Ranjit Singh holding court
+
+> [caption] Fig. 14 – A portrait of Veer Surendra Sai
 
 <!-- page 20 (pdf 12) -->
 
-> [caption] Fig. 14 a – India, 1797 Fig. 14 b – India, 1840
+> [caption] Fig. 14 a – India, 1797
+
+> [caption] Fig. 14 b – India, 1840
 
 > [caption] Fig. 14 a, b, c – Expansion of British territorial power in India Look at these maps along with a present-day political map of India. In each of these maps, try and identify the different parts of India that were not under British rule.
 
@@ -245,7 +249,9 @@ From 1772 a new system of justice was established. Each district was to have two
 
 Qazi – A judge
 
-Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons
+Mufti – A jurist of the Muslim community responsible for expounding the law that the qazi would administer
+
+Impeachment – A trial by the House of Lords in England for charges of misconduct brought against a person in the House of Commons
 
 <!-- page 22 (pdf 14) -->
 
@@ -259,7 +265,15 @@ Here is a passage from Edmund Burke’s eloquent opening speech during the impea
 
 I impeach him in the name of the people of India, whose rights he has trodden under his foot and whose country he has turned into a desert. Lastly in the name of human nature itself, in the name of both the sexes, in the name of every age, in the name of every rank, I impeach the common enemy and oppressor of all.
 
-Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards Sawar – Men on horses Musket – A heavy gun used by infantry soldiers Matchlock – An early type of gun in which the powder was ignited by a match A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
+Dharmashastras – Sanskrit texts prescribing social rules and codes of behaviour, composed from c. 500 BCE onwards
+
+Sawar – Men on horses
+
+Musket – A heavy gun used by infantry soldiers
+
+Matchlock – An early type of gun in which the powder was ignited by a match
+
+A major problem was that the Brahman pandits gave different interpretations of local laws based on different schools of the dharmashastra. To bring about uniformity, in 1775 eleven pandits were asked to compile a digest of Hindu laws. N.B. Halhed translated this digest into English. By 1778 a code of Muslim laws was also compiled for the benefit of European judges. Under the Regulating Act of 1773, a new Supreme Court was established, while a court of appeal – the Sadar Nizamat Adalat – was also set up at Calcutta.
 
 The principal figure in an Indian district was the Collector. As the title suggests, his main job was to collect revenue and taxes and maintain law and order in his district with the help of judges, police officers and darogas. His office – the Collectorate – became the new centre of power and patronage that steadily replaced previous holders of authority.
 

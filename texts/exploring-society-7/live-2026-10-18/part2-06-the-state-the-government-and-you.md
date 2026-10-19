@@ -104,9 +104,7 @@ Why are these two words used interchangeably?
 
 In real life, we often say “the state did this” or “the government decided that” as if they mean the same thing. This is because the government acts on behalf of the state, and is the face of the state that we see in action every day.
 
-> [caption] Fig. 6.5. Aerial view of the
-
-> [caption] Parliament of India
+> [caption] Fig. 6.5. Aerial view of the Parliament of India
 
 So, while the words are different in meaning, people often mix them up because — the government runs the daily work of the state;
 
@@ -124,7 +122,9 @@ The police work closely with courts, prisons, and other parts of the criminal ju
 
 > [caption] PEOPLE
 
-> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India
+> [caption] The Constitution, laws and courts protect people’s rights and ensure justice Elect leaders to represent them Legislature Executive Enforce the law, maintain peace, protect citizens; investigate and present cases to the judiciary Police PEOPLE
+
+> [caption] Fig. 6.6. A simplified diagram illustrating the various interactions between the people, police and different organs of government in India
 
 <!-- page 148 (pdf 6) -->
 
@@ -284,9 +284,7 @@ Bagepalli is a small town near Bengaluru. Several years ago, some government off
 
 3. Use the media: Write in print or electronic media about a particular issue on which the government can take action. Many government officials are active on social media. You can also use social media platforms like YouTube, X (formerly Twitter), Facebook or Instagram to share your concerns and tag the corresponding officials.
 
-> [caption] Fig. 6.15. The official X account to reach out to Indian Railways
-
-> [caption] @RailwaySeva
+> [caption] Fig. 6.15. The official X account to reach out to Indian Railways @RailwaySeva
 
 > [caption] Transparency:
 
@@ -436,7 +434,9 @@ The working of the three levels of the school education system In India, schools
 
 > [caption] * NCPCR = National Council for the Protection of Child Rights
 
-> [caption] ** SCPCR = State Council for the Protection of Child Rights Fig. 6.19. A simplified diagram to illustrate the role of different parts of government in the education system Legislative (lawmaking)
+> [caption] ** SCPCR = State Council for the Protection of Child Rights
+
+> [caption] Fig. 6.19. A simplified diagram to illustrate the role of different parts of government in the education system Legislative (lawmaking)
 
 > [caption] Parliament for the whole country and State Legislature for each state
 

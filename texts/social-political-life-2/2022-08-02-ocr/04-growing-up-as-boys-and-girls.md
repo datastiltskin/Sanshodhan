@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch04.pdf"
 source_sha256: "a6b6d4919c2f7674c8cd413581f7d015ede5f286f5205c032905b0be3e8b14cd"
 pdf_pages: 10
 printed_pages: "44-53"
-body_fingerprint: "ef92513e67bd12450562195def4b7410ebd7a5e753544dcd422acde1a08f39b9"
+body_fingerprint: "c7fcaaf546972fb9912459fefabd48506e8a19e6818922f1afb5bb61d676121e"
 ocr: true
 ocr_confidence: 94.6
 overrides:
@@ -113,19 +113,17 @@ Harmeet’s family did not think that the work Jaspreet did within the house was
 
 In the story above, Harmeet’s mother was not the only one who did the housework. A lot of the work was done by Mangala, their domestic helper. Many homes, particularly in towns and cities, employ domestic workers. They do a lot of work — sweeping and cleaning, washing clothes and dishes, cooking, looking after young children or the elderly. Most domestic workers are women. Sometimes, even young boys or girls are employed to do this work. Wages are low, as domestic work does not have much value. A domestic worker’s day can begin as early as five in the morning and end as late as twelve at night! Despite the hard work they do, their employers often do not show them much respect. This is what Melani, a domestic worker had to say about her experience of working in Delhi - “My first job was with a rich family that lived in a three-storeyed house. The memsahib was very strange as she would shout to get any work done. My work was in the kitchen. There were two other girls who did the cleaning. Our day would begin at 5 o’clock. For breakfast we would get a cup of tea and two dry rotis. We could never get a third roti. In the evening, when I cooked the food, the two other girls would beg me to give them an extra roti. I would secretly give it to them and make an extra one for myself. We were so hungry after working through the day! We could not wear chappals in the house. In the winter, our feet would swell up with the cold. I used to feel scared of the memsahib but also felt angry and humiliated. Did we not work all day? Did we not deserve to be treated with some respect?”
 
-In fact, what we commonly term as housework actually involves many different tasks. A number of these tasks require heavy physical work. In both rural and urban areas women and girls have to fetch water. In rural areas women and girls carry heavy headloads of firewood. Tasks like on a Strike for a day?
+In fact, what we commonly term as housework actually involves many different tasks. A number of these tasks require heavy physical work. In both rural and urban areas women and girls have to fetch water. In rural areas women and girls carry heavy headloads of firewood. Tasks like washing clothes, cleaning, sweeping and picking up loads require bending, lifting and carrying. Many chores, like cooking, involve standing for long hours in front of hot stoves. The work women do is strenuous and physically demanding — words that we normally associate with men.
 
 Melani with her daughter.
 
 > [caption] Were Harmeet and Shonali correct inssaying that Harmeet’s mother did not work?
 
-What do you think would happen if your mother or those involved in doing the work at home went
+What do you think would happen if your mother or those involved in doing the work at home went on a Strike for a day?
 
 Why do you think that men and boys generally do not do housework? Do you think they should?
 
 <!-- page 50 (pdf 7) -->
-
-washing clothes, cleaning, sweeping and picking up loads require bending, lifting and carrying. Many chores, like cooking, involve standing for long hours in front of hot stoves. The work women do is strenuous and physically demanding — words that we normally associate with men.
 
 Another aspect of housework and care-giving that we do not recognise is that it is very time consuming. In fact, if we add up the housework and the work, women do outside the home, we find that women spend much more time working than men and have much less time for leisure.
 

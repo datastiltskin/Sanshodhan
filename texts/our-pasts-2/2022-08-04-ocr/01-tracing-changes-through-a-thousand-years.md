@@ -12,7 +12,7 @@ pdf_pages: 15
 printed_pages: "1-15"
 body_fingerprint: "b72326044dbc2c5aa3b1bf2cb4f1f3e9ad076ca4dc24d6697e4ec3ffbd4cd58c"
 ocr: true
-ocr_confidence: 93.0
+ocr_confidence: 94.3
 overrides:
   - "drop capital T lost and small-capital CE read in lower case on page 1"
 ---
@@ -35,7 +35,7 @@ Take a look at Maps 1 and 2. Map 1 was made in 1154 CE by the Arab geographer Al
 
 <!-- page 2 (pdf 2) -->
 
-> [caption] i Lf wie Royats = __ DE Morrie. Me ap aoe psn Sa he Geant Ve a, rites . FRor4. x 5 re A oN / (Oa tc ; eS Saas a. Nag Far nen Tradl Mn 3 WAND) me ts. 484 Hh Borate! «didnt Sem gy Mite 8S ack pce A fk Ym Bete ‘aed he Minn oer Nets
+> [caption] A
 
 Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
 

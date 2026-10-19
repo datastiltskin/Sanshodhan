@@ -63,7 +63,7 @@
             "body": 71,
             "chapter-number": 1,
             "caption": 8,
-            "note": 24,
+            "note": 22,
             "h2": 5,
             "h3": 10,
             "source": 4,
@@ -118,7 +118,7 @@
             "h2": 11,
             "caption": 11,
             "note": 11,
-            "table": 9,
+            "table": 7,
             "h3": 9,
             "source": 1,
             "keyword": 11
@@ -138,13 +138,14 @@
           "printed_pages": "60-74",
           "fingerprint": "17f4ed5bdd4b553a8be57b709b86acbfd4f70827c80575106c523d50d1cb0647",
           "role_counts": {
-            "footer": 23,
+            "footer": 22,
             "dropcap": 1,
             "body": 51,
             "chapter-number": 1,
-            "caption": 43,
+            "decoration": 32,
             "h2": 5,
-            "note": 24,
+            "note": 11,
+            "caption": 20,
             "h3": 6,
             "source": 1,
             "keyword": 1
@@ -245,7 +246,7 @@
             "h2": 9,
             "dropcap": 1,
             "body": 63,
-            "caption": 17,
+            "caption": 16,
             "h3": 7,
             "keyword": 5
           },
@@ -285,7 +286,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "0a2ec702e2d351b1a8e9cf937d1493b74237f9e3f09067baec2edc21d561a761",
+      "fingerprint": "84eba6caa9f1ca1cdb0b5476f5ebef5b94c8a7750ab103cbd6bdb434217a3647",
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16",
@@ -354,7 +355,7 @@
             "body": 71,
             "chapter-number": 1,
             "caption": 8,
-            "note": 24,
+            "note": 22,
             "h2": 5,
             "h3": 10,
             "source": 4,
@@ -408,7 +409,7 @@
             "chapter-number": 1,
             "caption": 11,
             "h2": 10,
-            "table": 11,
+            "table": 9,
             "note": 1,
             "h3": 9,
             "keyword": 11,
@@ -429,26 +430,24 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "9a72c6aec3de0ec90abdec133007a3198df1afd8ecb494c345af0fad2cd4817d",
+          "fingerprint": "498edb826dacdb7cc68e9c139457ceb6b9c38901582f971effbfa2f4e1401f68",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
             "body": 61,
             "chapter-number": 1,
-            "caption": 44,
+            "caption": 33,
             "h2": 5,
             "note": 2,
             "h3": 7,
-            "table": 10,
+            "table": 7,
             "keyword": 1,
             "decoration": 2
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": [
-            "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
-          ],
+          "overrides": null,
           "file": "texts/our-pasts-2/2016-09-10/05-rulers-and-buildings.md"
         },
         {
@@ -541,7 +540,7 @@
             "h2": 9,
             "dropcap": 1,
             "body": 63,
-            "caption": 17,
+            "caption": 16,
             "h3": 7,
             "keyword": 5
           },
@@ -581,7 +580,7 @@
     },
     {
       "id": "2019-05-04",
-      "fingerprint": "15321a75b1f4a6a2274fa5024b36437e4236f22745063627043b9a58ef2190db",
+      "fingerprint": "ae733fbd6c313521748ef9a63e3c4c656da50fb9e0db60ff776402af796f3eb6",
       "snapshots": [
         "2019-05-04",
         "2020-06-16",
@@ -710,7 +709,7 @@
             "caption": 14,
             "h2": 10,
             "note": 10,
-            "table": 10,
+            "table": 8,
             "h3": 9,
             "source": 1,
             "keyword": 11
@@ -728,15 +727,15 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "7655b3a961e8344e06a27ab59884c3da593992cab9848d730929a69c08d5a3de",
+          "fingerprint": "0430e705d358e68cc25199410c18beb3d5d17d3761d3cce0d43211217b8608dc",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
             "body": 56,
             "chapter-number": 1,
-            "caption": 45,
+            "caption": 34,
             "h2": 5,
-            "note": 15,
+            "note": 11,
             "h3": 7,
             "source": 1,
             "keyword": 1
@@ -744,9 +743,7 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": [
-            "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
-          ],
+          "overrides": null,
           "file": "texts/our-pasts-2/2019-05-04/05-rulers-and-buildings.md"
         },
         {
@@ -842,7 +839,7 @@
             "h2": 9,
             "dropcap": 1,
             "note": 12,
-            "caption": 16,
+            "caption": 15,
             "h3": 7,
             "keyword": 5
           },
@@ -882,7 +879,7 @@
     },
     {
       "id": "2022-08-04-ocr",
-      "fingerprint": "fd65ada01dad8455c10c0a1f2f8a90d0ac150066fbc5c1ddce7785ea0d44633d",
+      "fingerprint": "b1c348ba56bf2a9664f7494a0e447832514d5e49174c6486c7e4231ebd154387",
       "snapshots": [
         "2022-08-04"
       ],
@@ -930,14 +927,14 @@
             "h3": 3,
             "body": 69,
             "footer": 40,
-            "caption": 23,
+            "caption": 21,
             "note": 1,
             "h2": 4,
             "table": 5,
             "decoration": 1
           },
           "ocr": true,
-          "ocr_confidence": 93.0,
+          "ocr_confidence": 94.3,
           "ocr_pages": null,
           "overrides": [
             "drop capital T lost and small-capital CE read in lower case on page 1"
@@ -954,16 +951,16 @@
           "printed_pages": "16-29",
           "fingerprint": "cb62e1beed05256f9b7b9047672379c152a9d15b783a2a8cc9288bb374fe7885",
           "role_counts": {
-            "caption": 24,
+            "caption": 23,
             "body": 93,
             "footer": 37,
             "h3": 2,
-            "table": 13,
+            "table": 12,
             "h2": 6,
             "decoration": 2
           },
           "ocr": true,
-          "ocr_confidence": 93.5,
+          "ocr_confidence": 94.0,
           "ocr_pages": null,
           "overrides": [
             "page 24 breaks off at 'constructed to' and page 25 opens 'carry water to the fields. In many areas two crops were grown in a year.' before the next paragraph",
@@ -980,11 +977,11 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "052b10ed507e7cb45f037132246ff4a60ec1105964a95ce6608d98eee4b8ba60",
+          "fingerprint": "29c6b9b900ba8fdf792146ca7e338934fdbfd31d9511ef10d92bab9b1132617c",
           "role_counts": {
-            "caption": 33,
+            "caption": 31,
             "h2": 7,
-            "body": 82,
+            "body": 80,
             "table": 12,
             "footer": 38,
             "h3": 4,
@@ -992,7 +989,7 @@
             "note": 1
           },
           "ocr": true,
-          "ocr_confidence": 92.1,
+          "ocr_confidence": 94.2,
           "ocr_pages": null,
           "overrides": [
             "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
@@ -1007,10 +1004,10 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "1408084d12bf914740b08fbd72d5030047b1374bb033b1f26ff5d205d0d8c9e8",
+          "fingerprint": "d1937ae11db9f7402ccb9b75a3be03e8dae09722bf921dc5150b396deb265df9",
           "role_counts": {
-            "h2": 11,
-            "body": 79,
+            "h2": 10,
+            "body": 78,
             "caption": 31,
             "footer": 39,
             "decoration": 1,
@@ -1018,7 +1015,7 @@
             "h3": 3
           },
           "ocr": true,
-          "ocr_confidence": 93.1,
+          "ocr_confidence": 94.5,
           "ocr_pages": null,
           "overrides": [
             "OCR misread of Sanga in Table 1 on page 48, the page reads 'Rana Sanga, Rajput rulers'",
@@ -1037,22 +1034,20 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "1388b767037ff5a6a97ac6163ee34b1bd77e1f6e3251642fbf6c4231ccb2fb4a",
+          "fingerprint": "de7c42d1ec4ca2ef35ef09c35f815a105beacb5ebc480747674253d877360405",
           "role_counts": {
-            "caption": 46,
+            "caption": 34,
             "footer": 42,
             "h2": 8,
             "body": 63,
             "note": 1,
-            "table": 14,
+            "table": 13,
             "h3": 2
           },
           "ocr": true,
           "ocr_confidence": 94.9,
           "ocr_pages": null,
-          "overrides": [
-            "margin box title 'A royal architect' glued into the sentence on page 64, the sentence runs on from page 63"
-          ],
+          "overrides": null,
           "title_borrowed_from": "2021-08-13",
           "file": "texts/our-pasts-2/2022-08-04-ocr/05-rulers-and-buildings.md"
         },
@@ -1068,7 +1063,7 @@
             "h2": 7,
             "body": 99,
             "footer": 42,
-            "caption": 28,
+            "caption": 27,
             "note": 3,
             "table": 7,
             "h3": 3
@@ -1087,10 +1082,10 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch07.pdf",
           "pdf_pages": 13,
           "printed_pages": "91-103",
-          "fingerprint": "563c2c1aa1f3b69a5d97fc0b2ee29553a4dea3d60a36ce9e819b2b50776fd2d5",
+          "fingerprint": "754bca7aa6ddbd31b0d1e5841ab32ad343a1b511686fbc8fcc6ceb4d03d88840",
           "role_counts": {
             "h2": 1,
-            "body": 80,
+            "body": 79,
             "table": 21,
             "footer": 33,
             "caption": 22,
@@ -1098,7 +1093,7 @@
             "keyword": 2
           },
           "ocr": true,
-          "ocr_confidence": 93.3,
+          "ocr_confidence": 95.2,
           "ocr_pages": null,
           "overrides": [
             "the paragraph wraps round Fig. 6 on page 98 and its second half was read after the map legend, the page continues 'daughter of Salbahan, the Chandel Rajput raja of Mahoba.'",
@@ -1114,19 +1109,19 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch08.pdf",
           "pdf_pages": 18,
           "printed_pages": "104-121",
-          "fingerprint": "7927e3ecd446c31cefdf9d0832a8f8341b205d1e722c1dbfd199733c98dba42a",
+          "fingerprint": "a4a6ca94ac85f8853d5c9189581a78ce86d1f6f78bb15c30fa1285d0c565a10f",
           "role_counts": {
-            "caption": 21,
+            "caption": 19,
             "footer": 48,
             "h2": 7,
-            "body": 118,
+            "body": 115,
             "h3": 3,
-            "table": 18,
+            "table": 17,
             "note": 1,
             "keyword": 2
           },
           "ocr": true,
-          "ocr_confidence": 93.2,
+          "ocr_confidence": 94.8,
           "ocr_pages": null,
           "overrides": [
             "OCR read h as f in the abhang on page 109",
@@ -1145,17 +1140,17 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch09.pdf",
           "pdf_pages": 16,
           "printed_pages": "122-137",
-          "fingerprint": "73252540a3fac07042282b1e5cf3cacd24a10ed0f40a7912a1b79fa9d17eacf2",
+          "fingerprint": "427588a0c4c2e9c7335b91884c735c8054e7f470cd677e8d77307862b4677f7b",
           "role_counts": {
-            "caption": 30,
+            "caption": 27,
             "footer": 41,
             "h2": 6,
-            "body": 88,
+            "body": 83,
             "table": 12,
             "h3": 2
           },
           "ocr": true,
-          "ocr_confidence": 92.4,
+          "ocr_confidence": 95.2,
           "ocr_pages": null,
           "overrides": [
             "box title from page 132 glued into the sentence on page 130, which continues 'influence of Sanskrit.' on the next page",
@@ -1271,7 +1266,7 @@
             "body": 72,
             "chapter-number": 1,
             "caption": 8,
-            "note": 22,
+            "note": 21,
             "h2": 5,
             "h3": 13,
             "source": 4,
@@ -1299,7 +1294,7 @@
             "caption": 2,
             "h3": 14,
             "h2": 4,
-            "note": 12,
+            "note": 11,
             "source": 3,
             "keyword": 7
           },
@@ -1375,8 +1370,8 @@
             "body": 64,
             "h2": 10,
             "chapter-number": 1,
-            "caption": 16,
-            "note": 17,
+            "caption": 15,
+            "note": 16,
             "h3": 12,
             "source": 15,
             "keyword": 5
@@ -1402,7 +1397,7 @@
             "h2": 9,
             "dropcap": 1,
             "body": 62,
-            "caption": 16,
+            "caption": 15,
             "h3": 7,
             "keyword": 5
           },
@@ -1444,7 +1439,7 @@
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "a7367e5fcc19dd988c6da6ae2839b56df3d40d226f8b25e730d064ae6481e0a4",
+      "fingerprint": "f05c50aad2817d44c6efe34fb264293b7a664a3e971d35e5fb968908ed05f057",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-18"
@@ -1490,14 +1485,14 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch01.pdf",
           "pdf_pages": 15,
           "printed_pages": "1-15",
-          "fingerprint": "c7909687d8a80778dcbd86ac4a9c19fe9a9bd48f2d3b1741cb7c3262c1d75329",
+          "fingerprint": "c5e99fe7e455f97674c5409f9393600244e579b30585ed3f2947f9a3a9ee435a",
           "role_counts": {
             "footer": 44,
             "dropcap": 1,
             "body": 107,
             "note": 1,
             "h2": 8,
-            "caption": 13,
+            "caption": 11,
             "h3": 8,
             "keyword": 5
           },
@@ -1528,7 +1523,7 @@
             "dropcap": 1,
             "body": 109,
             "chapter-number": 1,
-            "caption": 12,
+            "caption": 10,
             "h2": 5,
             "h3": 11,
             "keyword": 5
@@ -1549,7 +1544,7 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch03.pdf",
           "pdf_pages": 9,
           "printed_pages": "30-38",
-          "fingerprint": "5d8494c6a823c4f2593743bdf4a75aeb7b87f17030f69f375bf0ffbbd16aad28",
+          "fingerprint": "613318ae596769c49e3167ef073e8ff23ff42e7846a902f0e5daf8071cda983c",
           "role_counts": {
             "footer": 29,
             "dropcap": 1,
@@ -1584,8 +1579,8 @@
             "dropcap": 1,
             "body": 66,
             "h2": 9,
-            "caption": 12,
-            "note": 2,
+            "caption": 11,
+            "note": 1,
             "h3": 9,
             "keyword": 11
           },
@@ -1606,7 +1601,7 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch05.pdf",
           "pdf_pages": 12,
           "printed_pages": "49-60",
-          "fingerprint": "7100714f9e2a8c50921d84e14264c69d1fdc9932ef4d1c906f753893b2804cb6",
+          "fingerprint": "c07034798fa334a155abf0405af16536d694b6d79dc7acb4fd86e74245d0350e",
           "role_counts": {
             "footer": 30,
             "dropcap": 1,
@@ -1633,13 +1628,13 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch06.pdf",
           "pdf_pages": 18,
           "printed_pages": "61-78",
-          "fingerprint": "8ec2f4558b67c063b055effd80406eb7f2339161b60585e3291e6300501e087c",
+          "fingerprint": "b0dd7fbe14864c7f66e87e163c16c1aef7e953366aed119fd0fa5c5fb1ae23d6",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
             "body": 119,
             "h2": 12,
-            "caption": 24,
+            "caption": 21,
             "h3": 12,
             "note": 1,
             "keyword": 5
@@ -1660,22 +1655,20 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch07.pdf",
           "pdf_pages": 15,
           "printed_pages": "79-93",
-          "fingerprint": "9beb5e873523104aa31581235962ffe0246bb5acc9e6e604b6c4be1f5339c52c",
+          "fingerprint": "233d841b29f8be04df8287878c97b002c61bbfb9a51db9e00383c8ba1de3c1a2",
           "role_counts": {
             "footer": 37,
             "body": 105,
             "h2": 9,
             "dropcap": 1,
-            "caption": 19,
+            "caption": 18,
             "h3": 6,
             "keyword": 5
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": [
-            "the blue question on page 89 is a separate box and had been read into the paragraph, which continues 'and terracotta temples' on page 90"
-          ],
+          "overrides": null,
           "file": "texts/our-pasts-2/2024-05-24/07-the-making-of-regional-cultures.md"
         },
         {

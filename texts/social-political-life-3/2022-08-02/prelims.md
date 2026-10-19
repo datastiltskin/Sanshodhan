@@ -22,11 +22,9 @@ source_pdf: "pdfs/social-political-life-3/2022-08-02/prelims.pdf"
 
 > [caption] First Edition March 2008 Phalguna 1929
 
-> [caption] ALL RIGHTS RESERVED qNo part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher.
+> [caption] ALL RIGHTS RESERVED qNo part of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the prior permission of the publisher. qThis book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published. qThe correct price of this publication is the price printed on this page, Reprinted January 2009 Pausha 1930 December 2009 Pausha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936 January 2016 Pausha 1937 January 2017 Magha 1938 December 2017 Pausha 1939 December 2018 Agharayana 1940 January 2020 Pausha 1941 March 2021 Phalguna 1942 November 2021 Agharayana 1943
 
-> [caption] Reprinted January 2009 Pausha 1930 December 2009 Pausha 1931 November 2010 Kartika 1932 January 2012 Magha 1933 November 2012 Kartika 1934 December 2013 Pausha 1935 December 2014 Pausha 1936 January 2016 Pausha 1937 January 2017 Magha 1938 December 2017 Pausha 1939 December 2018 Agharayana 1940 January 2020 Pausha 1941 March 2021 Phalguna 1942 November 2021 Agharayana 1943 qThis book is sold subject to the condition that it shall not, by way of trade, be lent, re-sold, hired out or otherwise disposed of without the publisher’s consent, in any form of binding or cover other than that in which it is published.
-
-> [caption] qThe correct price of this publication is the price printed on this page, Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
+> [caption] Any revised price indicated by a rubber stamp or by a sticker or by any other means is incorrect and should be unacceptable.
 
 > [caption] OFFICES OF THE PUBLICATION DIVISION, NCERT NCERT Campus Sri Aurobindo Marg New Delhi 110 016 Phone : 011-26562708 108, 100 Feet Road Hosdakere Halli Extension Banashankari III Stage Bengaluru 560 085 Phone : 080-26725740
 

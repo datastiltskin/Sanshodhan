@@ -10,9 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch07.pdf"
 source_sha256: "cb4897f596e8529bd0211e4f3e3cad0168bcade38eacc34e50b85cecced0aba0"
 pdf_pages: 13
 printed_pages: "91-103"
-body_fingerprint: "563c2c1aa1f3b69a5d97fc0b2ee29553a4dea3d60a36ce9e819b2b50776fd2d5"
+body_fingerprint: "754bca7aa6ddbd31b0d1e5841ab32ad343a1b511686fbc8fcc6ceb4d03d88840"
 ocr: true
-ocr_confidence: 93.3
+ocr_confidence: 95.2
 overrides:
   - "the paragraph wraps round Fig. 6 on page 98 and its second half was read after the map legend, the page continues 'daughter of Salbahan, the Chandel Rajput raja of Mahoba.'"
   - "the line 'Salbahan, the Chandel Rajput raja of Mahoba.' belongs to the paragraph on page 98 and is not part of the map legend"
@@ -49,8 +49,6 @@ Tribal people were found in almost every region of the subcontinent. The area an
 On a physical map of the subcontinent, identify the areas in which tribal people may have lived.
 
 <!-- page 93 (pdf 3) -->
-
-p-oN ~ ) KHOKHARS z= JANJUHAS s ~ } ah f 2] PB Sed e ~ —— / i J \ { ¢ ke AHOMS Som : . MC Hg —® 2 SAMMAS > as SU / KHASIS Zo a —- S A < \ 5 Le © CHEROS A. == Ke = = { j ORAONS = | er Kus) fF) Sse <} \ > \, nTWAS & ——_~ BAIGAS a / ) SA) ee CP Dw Aunt \. BHILS —_/ [4 fs ( KS | _KOLIS KHONDS oe: ? KATKARIS. oe KOYAS y os =) RABIAN |. >) a oo BAY OF \ he VL \ g iP e ¥ po j De ly Tho’ \ ‘ é: = / = ) or rt 45 A \\ gysnohens 5 "3 7 ee \% x) J ANDAMAN & NICOBAR ISLANDS LAKSHADWEEP An fe \ MARAVARS. °F Ss. \ f j \ .; Fe es A 3 a INDIAN . OGEAN % i)
 
 tribe in the north-west. They were divided into many smaller clans under different chiefs. In the western Himalaya lived the shepherd tribe of Gaddis. The distant north-eastern part of the subcontinent too was entirely dominated by tribes — the Nagas, Ahoms and many others.
 

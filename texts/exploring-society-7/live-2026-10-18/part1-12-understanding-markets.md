@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch12.pdf"
 source_sha256: "9fb8476d1480fcd2844b84d1cbd26c690c1ffaea0fc64c5d523d0973323e7687"
 pdf_pages: 26
 printed_pages: "247-272"
-body_fingerprint: "298dd9f2eeabd41273a59665507b65c33d9ca7200a668a20b679402453b68910"
+body_fingerprint: "71e53fdf3f8ded891e882afcf0989e60755ceabbea31813005ce7c5abb482358"
 overrides:
   - "part 1 chapter 12, page 256: map label noise in a caption block"
   - "part 1 chapter 12, page 256: map label noise in a caption block"
@@ -29,11 +29,7 @@ Prosperity emanates from the market that develops when people need goods and ser
 
 1. What are markets and how do they function? 2. What is the role of markets in people’s lives? 3. What role does the government play in markets? 4. How can consumers assess the quality of goods and services they purchase?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 In the picture on the following page you will see people buying and selling goods — vegetables, fruits, clothes, groceries, mobile phones, refrigerators, and so on. These goods result from various types of economic activities — primary, secondary, and tertiary — that you studied in Grade 6. But how do these goods reach us?
 
@@ -277,23 +273,21 @@ Several participants play their role in the smooth functioning of the markets.
 
 Observe the diagram and describe the flow of goods from the manufacturer / producer to the consumer. What is the role of the wholesaler and the retailer in the flow?
 
-In the case of physical markets, wholesalers buy goods in large quantities from the producer or manufacturer of the product. For example, grains, vegetables, and fruits are bought by wholesalers directly from the farms. The produce is then stored in large warehouses called godowns. In the case of perishables, the warehouses may also have cold s torage facilities. They are then brought to markets called mandīs.
+In the case of physical markets, wholesalers buy goods in large quantities from the producer or manufacturer of the product. For example, grains, vegetables, and fruits are bought by wholesalers directly from the farms. The produce is then stored in large warehouses called godowns. In the case of perishables, the warehouses may also have cold storage facilities. They are then brought to markets called mandīs.
 
 Fig. 12.12. Cold storage facility for vegetables ​
 
 <!-- page 258 (pdf 12) -->
 
-> [caption] Fig. 12.13. Warehouse
+> [caption] Fig. 12.13. Warehouse storing grains
 
-> [caption] Fig. 12.14. Large warehouses storing grains of wholesalers
+> [caption] Fig. 12.14. Large warehouses of wholesalers
 
 Similarly, there exist wholesale markets for other commodities like chemicals, electronic items and components, construction materials, automotive parts, etc.
 
-> [caption] Fig. 12.15. Khari Baoli spice market,
+> [caption] Fig. 12.15. Khari Baoli spice market, Old Delhi (spices and dry fruits)
 
 > [caption] Fig. 12.16. Flower market, Bengaluru
-
-> [caption] Old Delhi (spices and dry fruits)
 
 The wholesalers supply goods to the shops and stores located near households. These shopkeepers are called retailers. They sell goods to final consumers like us. Unlike wholesalers, retailers sell in smaller quantities, and the products are meant for consumption rather than resale. Retail stores also exist for services like salons, movie theatres, and restaurants. Retailers help increase the availability of goods and services to households.
 
@@ -303,7 +297,7 @@ The wholesalers supply goods to the shops and stores located near households. Th
 
 > [caption] Fig. 12.17. Johari Bazaar, Jaipur (gems and jewellery)
 
-In some cases, it may be difficult for wholesalers to reach a large number of retailers because of distances and terrains. Dis tributors help to bridge this gap. Do you remember the middlemen for milk in the AMUL story from Grade 6?
+In some cases, it may be difficult for wholesalers to reach a large number of retailers because of distances and terrains. Distributors help to bridge this gap. Do you remember the middlemen for milk in the AMUL story from Grade 6?
 
 However, the distribution channel is different in the case of online markets. Here manufacturers send bulk quantities of their products to the warehouse of the business that sells through online apps. Consumers buy the product from the online option (website or mobile application). These businesses are called aggregators. The aggregator then packs the products and delivers them to the online buyer.
 
@@ -313,21 +307,17 @@ However, the distribution channel is different in the case of online markets. He
 
 <!-- page 260 (pdf 14) -->
 
-> [caption] Fig. 12.21. Grocery store Fig. 12.20. Mall
+> [caption] Fig. 12.20. Mall
 
 Let’s explore the chain of supply in physical markets for the textile market in Surat, Gujarat — Asia’s oldest textile market, and the city famously known as a textile hub.
 
 The Surat textile market consists of thousands of factories manu-facturing cotton and synthetic textiles. In the case of cotton textiles, raw cotton is received here through cotton mandīs from nearby states like Maharashtra, as well as from other parts of Gujarat. It is transformed into finished fabric or garments after processing at various stages — weaving on power looms, dyeing in processing units and so on. The product moves from one stage to another through markets — for woven fabric, for dyed fabric, and for finished products (sarees, or ready-made garments, for example).
 
+> [caption] Fig. 12.21. Grocery store
+
 <!-- page 261 (pdf 15) -->
 
 The finished product from the fabric is traded by the manufacturing units in the wholesale market. The wholesalers are an important channel of supply as they oversee the distribution of products to small shopkeepers and big retail stores across the country and internationally. They also assess how much product is required by retailers. This helps maintain the stock of products with the manufacturers and ensures an uninterrupted supply of products to the end consumers.
-
-> [caption] 70°E
-
-> [caption] 75°E
-
-> [caption] 80°E
 
 > [caption] Surendranagar Surend gal jar Bha Ar Surat Jamnagar Bhavnagar our Amreli Surat Amravati AkolaAmrava Akola Nagpur Wardha Akola Yavatmal Adilabad 0 100 200 50 km Production By District 2017 -2020 Metric tons
 

@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch01.pdf"
 source_sha256: "bd9d060950e96d4f6cfc9dc29abffb38706100dd506c854e630e12824043ffbd"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "63f6db816c1974dd769e3a480109d94fc95871feb7e10fc28b90d39bdc160b92"
+body_fingerprint: "412f94f738c14983f243cbf87ddc0cd491ed908d0b7e876092d54e507d6d4320"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -63,11 +63,9 @@ Kanta, Omprakash, the Ansaris, and the Tawa Matsya Sangh all have diverse local 
 
 > [caption] Yes!
 
-> [caption] I will vote for the candidate who has
+> [caption] I will vote for the candidate who has promised to bring pipe water to our area.
 
 > [caption] Go on, Kanta – It’s your turn now.
-
-> [caption] promised to bring pipe water to our area.
 
 <!-- page 5 (pdf 4) -->
 
@@ -127,11 +125,11 @@ What is it that makes Kanta unsure? Let’s take a look at a day in her life. Sh
 
 > [caption] That evening...
 
-> [caption] Just few
+> [caption] Just few more minutes,
 
-> [caption] Jain Madam and Jain Saheb may stand in line to more minutes, Beti.
+> [caption] Jain Madam and Jain Saheb may stand in line to vote, but they never have to do it when their children are sick...
 
-> [caption] vote, but they never have to do it when their children are sick...
+> [caption] Beti.
 
 <!-- page 7 (pdf 6) -->
 
@@ -175,27 +173,29 @@ Omprakash and the Ansaris do not deserve to be treated like this. They deserve t
 
 Equality in Indian democracy
 
-The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
+The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
 
 > [note] If you were one of the Ansaris how would you have responded to the suggestion that you change your name?
 
 > [note] Can you think of an incident in your life in which your dignity was violated? How did this make you feel?
 
-<!-- page 10 (pdf 9) -->
+In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
 
-no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
+<!-- page 10 (pdf 9) -->
 
 This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law. What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws. Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male. Third, every person has access to all public places including playgrounds, hotels, shops and markets. All persons can use publicly available wells, roads and bathing ghats. Fourth, untouchability has been abolished.
 
-The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
+
+The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
 <!-- page 11 (pdf 10) -->
 
-set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
-
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because both lower and upper caste children in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
 
-While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not Children being served their midday meal at a government school in Uttarakhand.
+While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not respected. This is because people refuse to think of them as equal even though the law requires it.
+
+Children being served their midday meal at a government school in Uttarakhand.
 
 > [note] What is the midday meal programme? Can you list three benefits of the programme? How do you think this programme might help promote greater equality?
 
@@ -207,7 +207,7 @@ While government programmes play an important role in increasing equality of opp
 
 “Man is mortal. Everyone has to die some day or the other. But one must resolve to lay down one's life in enriching the noble ideals of self-respect and in bettering one's human life... Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”
 
-– B.R. Ambedkar respected. This is because people refuse to think of them as equal even though the law requires it.
+– B.R. Ambedkar
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 

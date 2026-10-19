@@ -10,9 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch08.pdf"
 source_sha256: "5a5fc926e36406e6cd72e7fbf95488faf649ba4e91400ade5d154116f897a78b"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "7927e3ecd446c31cefdf9d0832a8f8341b205d1e722c1dbfd199733c98dba42a"
+body_fingerprint: "a4a6ca94ac85f8853d5c9189581a78ce86d1f6f78bb15c30fa1285d0c565a10f"
 ocr: true
-ocr_confidence: 93.2
+ocr_confidence: 94.8
 overrides:
   - "OCR read h as f in the abhang on page 109"
   - "OCR read k as R in Mirabai's song on page 115"
@@ -199,23 +199,11 @@ He was not on the Cross of the Christians. I went to the Hindu temples. In none 
 
 The period after the thirteenth century saw a new wave of the bhakti movement in north India. This was an age when Islam, Brahmanical Hinduism, Sufism, various strands of bhakti, and the Nathpanths, Siddhas and Yogis influenced one another. We saw that new towns (Chapter 6) and kingdoms (Chapters 2, 3 and 4) were emerging, and people were taking up new professions and finding new roles for themselves. Such people, especially craftspersons, peasants, traders and labourers, thronged to listen to these new saints and spread their ideas.
 
-Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Others like Tulsidas and Surdas accepted existing beliefs and practices but wanted to make these accessible to all. Tulsidas conceived of God in the form of Rama. Tulsidas’s composition, the Ramcharitmanas, written in Awadhi (a language used in eastern Uttar Pradesh), is important both as an
+Some of them like Kabir and Baba Guru Nanak rejected all orthodox religions. Others like Tulsidas and Surdas accepted existing beliefs and practices but wanted to make these accessible to all. Tulsidas conceived of God in the form of Rama. Tulsidas’s composition, the Ramcharitmanas, written in Awadhi (a language used in eastern Uttar Pradesh), is important both as an expression of his devotion and as a literary work. Surdas was an ardent devotee of Krishna. His compositions, compiled in the Sursagara, Surasaravali and Sahitya Lahari, express his devotion. Also contemporary was Shankaradeva of Assam (late fifteenth century) who emphasised devotion to Vishnu, and composed poems and plays in Assamese. He began the practice of setting up namghars or houses of recitation and prayer, a practice that continues to date.
 
 > [caption] Fig. 7 Chaitanyadeva, a sixteenth-century bhakti saint from Bengal, preached selfless devotion to Krishna-Radha. In the picture you see a group of his followers engaged in ecstatic dancing and singing.
 
 <!-- page 114 (pdf 11) -->
-
-“yt a. a bs “amas, Py) AMMU ? ¢ AND x i KASHMIR = Guru Nanak ha. oa =) ee 15th-16th C. "ghana. PRADESH oe AMIN “ ¢ ~~, ” Ne ay | RAJASTHAN “tT UTTAR PRADESH "? Dadu “e-, Surdas / &. 16th-17th C. 46th c. } van ek ~~ Mirabai,, “yo Ramananda 16th C.""" " - ~— 16thC.°° Kabir 15th16th-C.., Ry re: Ee Raidas 15th. | eee & EY a :: Vallabhacharya 15thi16th CG.” \ \# NatsiMehta (h eo 15th
-
-(p80 Eknath 16th C. ae Jnaneshwar 13th C. Tukaram fo. © % + eS ARABIAN 16th C. ; x P BAY OF bs SEA Namdev fi ee ie BENGAL 13th-44th C.....0~ wwon ~Ramdas7th C.
-
-> [caption] 10 Basavanna Purandaradasa 1athc. { 15th-16th C. \ KARK sta
-
-> [caption] ‘* = be:, 5° sgt e ° ‘ t «TAMIL WADL Ps
-
-> [table] . \ ee Manikkavasagar 9th C. = Rantanyja 11th-12th C.; rgth Cc. ss PNDIAN IGLAN 4 a G . Ad Gi %
-
-expression of his devotion and as a literary work. Surdas was an ardent devotee of Krishna. His compositions, compiled in the Sursagara, Surasaravali and Sahitya Lahari, express his devotion. Also contemporary was Shankaradeva of Assam (late fifteenth century) who emphasised devotion to Vishnu, and composed poems and plays in Assamese. He began the practice of setting up namghars or houses of recitation and prayer, a practice that continues to date.
 
 This tradition also included saints like Dadu Dayal, Ravidas and Mirabai. Mirabai was a Rajput princess married into the royal family of Mewar in the sixteenth century. Mirabai became a disciple of Ravidas, a saint from a caste considered “untouchable”. She was devoted to Krishna and composed innumerable bhajans expressing her intense devotion. Her songs also openly challenged the norms of the “upper” castes and became popular with the masses in Rajasthan and Gujarat.
 
@@ -243,13 +231,11 @@ And yet Rana why have you kept up
 
 I drank it laughing.
 
-Rana I will not be destroyed by you. And yet Rana why have you kept up
+Rana I will not be destroyed by you. And yet Rana why have you kept up Here is a composition of Kabir: O Allah-Ram present in all living beings Have mercy on your servants, O Lord!
 
 enmity against me?
 
 Why do you think Mirabai left the
-
-= ile Fig. 8 eile ANAT atReeee eA actu
 
 > [caption] Mirabai.
 
@@ -262,8 +248,6 @@ A Closer Look: Kabir
 Kabir, who probably lived in the fifteenth-sixteenth centuries, was one of the most influential saints. He was brought up in a family of Muslim julahas or weavers settled in or near the city of Benares (Varanasi). We have little reliable information about his life. We get to know of his ideas from a vast collection of verses called sakhis and pads said to have been composed by him and sung by wandering bhajan singers. Some of these were later collected and preserved in the Guru Granth Sahib, Panch Vani and Bijak.
 
 In search of the True Lord
-
-Here is a composition of Kabir: O Allah-Ram present in all living beings Have mercy on your servants, O Lord!
 
 Why bump your head on the ground, Why bathe your body in water? You kill and you call yourself “humble”
 

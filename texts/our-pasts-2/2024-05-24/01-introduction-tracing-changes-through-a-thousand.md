@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch01.pdf"
 source_sha256: "88dec9a2756429d259333c06e5a91b0cb1b31c21c8da9d5074797c8022a0e770"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "c7909687d8a80778dcbd86ac4a9c19fe9a9bd48f2d3b1741cb7c3262c1d75329"
+body_fingerprint: "c5e99fe7e455f97674c5409f9393600244e579b30585ed3f2947f9a3a9ee435a"
 overrides:
   - "stray full stop and doubled bracket from an italic word in the caption on page 9"
   - "stray colon in the map caption on page 9"
@@ -76,9 +76,7 @@ When was paper more expensive and easily available – in the thirteenth or the 
 
 There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes – a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result, historians have to read different manuscript versions of the same text to guess what the author had originally written.
 
-Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records
-
-and transactions.
+Archive A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
 
 > [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
 

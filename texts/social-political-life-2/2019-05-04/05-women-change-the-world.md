@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2019-05-04/ch05.pdf"
 source_sha256: "308357743e4e8ecaaebd25d6e3657ebb5d0e870f3ce9677fe267ac0d1e30a4d5"
 pdf_pages: 14
 printed_pages: "54-67"
-body_fingerprint: "d4473bd0571034821ebd3849cbc4cfe2bbff118ab4a39b0d0eb240bd85174395"
+body_fingerprint: "059d1f9986f45a640ef38c8e185d90253e2a71eda8927d1376954b4444ee02b4"
 ---
 
 <!-- page 54 (pdf 1) -->
@@ -43,11 +43,9 @@ Farmer
 
 Factory worker
 
-> [caption] Have all the nurses been drawn as
+> [caption] Have all the nurses been drawn as females? Why?
 
 Nurse
-
-> [caption] females? Why?
 
 Scientist
 
@@ -149,7 +147,9 @@ After learning the alphabet, Rashsundari Devi was able to read the Chaitanya Bha
 
 Schooling and education today
 
-Today, both boys and girls attend school in large numbers. Yet, as we will see, there still remain differences between the education of boys and girls. India has a census every 10 years, which counts the whole population of the country. It also gathers detailed information about the people living in India – their age, schooling, what work they do, and so on. We use this information to measure many things, like the number of literate people, and the ratio of men and women. According to the 1961 census, about 40 per cent of all boys and men Unlike Rashsundari Devi and Rokeya Hossain, who were not allowed to learn to read and write, large numbers of girls attend school in India today. Despite this, there continue to be many girls who leave school for reasons of poverty, inadequate schooling facilities and discrimination. Providing equal schooling facilities to children from all communities and class backgrounds, and particularly girls, continues to be a challenge in India.
+Today, both boys and girls attend school in large numbers. Yet, as we will see, there still remain differences between the education of boys and girls. India has a census every 10 years, which counts the whole population of the country. It also gathers detailed information about the people living in India – their age, schooling, what work they do, and so on. We use this information to measure many things, like the number of literate people, and the ratio of men and women. According to the 1961 census, about 40 per cent of all boys and men
+
+Unlike Rashsundari Devi and Rokeya Hossain, who were not allowed to learn to read and write, large numbers of girls attend school in India today. Despite this, there continue to be many girls who leave school for reasons of poverty, inadequate schooling facilities and discrimination. Providing equal schooling facilities to children from all communities and class backgrounds, and particularly girls, continues to be a challenge in India.
 
 > [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
@@ -185,21 +185,9 @@ There are several reasons why children from Dalit, Adivasi and Muslim communitie
 
 <!-- page 63 (pdf 10) -->
 
-10
-
-8
-
-6
-
-4
-
 All boys 4.36%
 
 ST boys 7.02%
-
-2
-
-0
 
 > [table] Boys and girls
 

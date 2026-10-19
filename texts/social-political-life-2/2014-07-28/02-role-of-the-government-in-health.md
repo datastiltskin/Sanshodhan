@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2014-07-28/ch02.pdf"
 source_sha256: "9560000e3600c662612a493e7c8562e828ed9b7586dc58f6f768e5f4e3ee0cfa"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "4cd6277e8258d5fa5384cbd47bbe42e13d796fed2be776d5f133e62f4312245b"
+body_fingerprint: "28a6a291bd9b77f208b771f54ce3f15610ba61bf51775889736dc180d46c041c"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -93,11 +93,9 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] THE COST OF A CURE Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
 
-> [table] Oh! Me, too! I just got back to
+> [table] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
-> [table] I had viral fever and school on Monday. My Daddy had to go to the took me to see the doctor hospital...
-
-> [table] at the new hospital in Kingsway. It was very exciting!
+> [table] I had viral fever and had to go to the hospital...
 
 > [table] Hi Aman! Good to see you back! How have you been?
 
@@ -109,11 +107,9 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.
 
-> [table] ...and so young man – this pink pill should be
+> [table] ...and so young man – this pink pill should be taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
 
-> [table] ...and have you heard the one taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t about Batman on Reality TV?
-
-> [table] worry, it’s tasty
+> [table] ...and have you heard the one about Batman on Reality TV?
 
 > [table] Thank you Doctor...I feel better already!
 
@@ -155,7 +151,7 @@ Public health services
 
 The public health service is a chain of health centres and hospitals run by the government. They are linked together so that they cover both rural and urban areas and can also provide treatment to all kinds of problems – from common illnesses to special services. At the village level there are health centres where there is usually a nurse and a village health worker. They are trained in dealing with common illnesses and work under the supervision of doctors at the Primary Health Centre (PHC). Such a centre covers many villages in a rural area. At the district level is the District Hospital that also supervises all the health centres. Large cities have many government hospitals such as the one where Aman was taken and also specialised government hospitals such as the ones in Hakim Sheik’s story.
 
-The health service is called ‘public’ for many reasons. In order to fulfil its commitment of providing healthcare to all citizens, the government has established these hospitals and health centres. Also, the resources needed to run these services are obtained from the money that we, the public, pay to the government as taxes. Hence, such facilities are meant for everyone. One of the most important aspects of the public health system is that it is meant to provide quality healthcare services either free or at a low cost, so that even the poor can seek treatment. Another important function of public health is to take action to prevent the spread of diseases such as TB, malaria, jaundice, cholera, A doctor in a rural healthcare centre giving medicines to a patient.
+The health service is called ‘public’ for many reasons. In order to fulfil its commitment of providing healthcare to all citizens, the government has established these hospitals and health centres. Also, the resources needed to run these services are obtained from the money that we, the public, pay to the government as taxes. Hence, such facilities are meant for everyone. One of the most important aspects of the public health system is that it is meant to provide quality healthcare services either free or at a low cost, so that even the poor can seek treatment. Another important function of public health is to take action to prevent the spread of diseases such as TB, malaria, jaundice, cholera, diarrhoea, chikungunya, etc. This has to be organised by the government with the participation of people otherwise it is not effective. For example, when taking up a campaign to see that mosquitoes do not breed in water-coolers, roof tops, etc., this has to be done for all houses in the area.
 
 > [note] Why did Ranjan have to spend so much money? Give reasons.
 
@@ -165,9 +161,9 @@ The health service is called ‘public’ for many reasons. In order to fulfil i
 
 > [note] What problems do we face in private hospitals? Discuss.
 
-<!-- page 25 (pdf 10) -->
+A doctor in a rural healthcare centre giving medicines to a patient.
 
-diarrhoea, chikungunya, etc. This has to be organised by the government with the participation of people otherwise it is not effective. For example, when taking up a campaign to see that mosquitoes do not breed in water-coolers, roof tops, etc., this has to be done for all houses in the area.
+<!-- page 25 (pdf 10) -->
 
 Recall the case of Hakim Sheik. Would you like to know what the court said in this case?
 
@@ -217,17 +213,15 @@ Sometimes it is not only the lack of money that prevents people from getting pro
 
 What can be done?
 
-There is little doubt that the health situation of most people in our country is not good. It is the responsibility of the government to provide quality healthcare services to all its citizens, especially the poor and the disadvantaged. However, health is as much dependent on basic amenities and social conditions of the people, as it is on healthcare services. Hence, it is important to work on both in order to improve the health situation of our people. And this can be done. Look at the following example– This pregnant lady has to travel many kilometres to see a qualified doctor.
+There is little doubt that the health situation of most people in our country is not good. It is the responsibility of the government to provide quality healthcare services to all its citizens, especially the poor and the disadvantaged. However, health is as much dependent on basic amenities and social conditions of the people, as it is on healthcare services. Hence, it is important to work on both in order to improve the health situation of our people. And this can be done. Look at the following example– The Kerala experience In 1996, the Kerala government made some major changes in the state. Forty per cent of the entire state budget was given to panchayats. They could plan and provide for their requirements. This made it possible for a village to make sure that proper planning was done for water, food, women’s development and education. This meant that water supply schemes were checked, the working of schools and anganwadis was ensured and specific problems of the village were taken up. Health centres were also improved. All of this helped to improve the situation. Despite these efforts, however, some problems – such as shortage of medicines, insufficient hospital beds, not enough doctors – remained, and these needed to be addressed.
+
+This pregnant lady has to travel many kilometres to see a qualified doctor.
 
 <!-- page 28 (pdf 13) -->
 
 The above map of India shows the state of Kerala in pink.
 
 The inside back cover (cover three) of this book has a map of India. Using your pencil outline the state of Kerala on this map.
-
-The Kerala experience
-
-In 1996, the Kerala government made some major changes in the state. Forty per cent of the entire state budget was given to panchayats. They could plan and provide for their requirements. This made it possible for a village to make sure that proper planning was done for water, food, women’s development and education. This meant that water supply schemes were checked, the working of schools and anganwadis was ensured and specific problems of the village were taken up. Health centres were also improved. All of this helped to improve the situation. Despite these efforts, however, some problems – such as shortage of medicines, insufficient hospital beds, not enough doctors – remained, and these needed to be addressed.
 
 Let us look at an example of another country and its approach to issues of health.
 
@@ -241,13 +235,9 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 
 > [note] EXERCISES
 
-> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and
+> [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
 
-> [note] An important part of the Constitution says it is the “duty of
-
-> [caption] explain the terms ‘living standard’ and ‘public health’ in your own words.
-
-> [note] the State to raise the level of nutrition and the standard of living and to improve public health.”
+> [note] An important part of the Constitution says it is the “duty of the State to raise the level of nutrition and the standard of living and to improve public health.”
 
 > [caption] 2. What are the different ways through which the government can take steps to provide healthcare for all?
 

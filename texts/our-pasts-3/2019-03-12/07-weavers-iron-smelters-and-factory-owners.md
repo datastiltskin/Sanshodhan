@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch01.pdf"
 source_sha256: "51b9badbc4b9fd4da0148f05b1d87e813326c23b9a711866724da753446a8aa1"
 pdf_pages: 16
 printed_pages: "79-94"
-body_fingerprint: "b4ab74d31e0a1b1c2217771f1cd3e17efbd2bb07dd0d2c9d68bed20a8d152cca"
+body_fingerprint: "a1665952321a7d6d82469743dde4265088463d4671db9de7d622527917788706"
 ---
 
 <!-- page 79 (pdf 1) -->
@@ -160,9 +160,11 @@ The first cotton mill in India was set up as a spinning mill in Bombay in 1854. 
 
 <!-- page 88 (pdf 10) -->
 
-Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
+Smelting – The process of obtaining a metal from rock (or soil) by heating it to a very high temperature, or of melting objects made from metal in order to use the metal to make something new
 
 Fig. 11 – Tipu’s sword made in the late eighteenth century Written with gold on the steel handle of Tipu’s sword were quotations from the Koran with messages about victories in war. Notice the tiger head towards the bottom of the handle.
+
+By 1900, over 84 mills started operating in Bombay. Many of these were established by Parsi and Gujarati businessmen who had made their money through trade with China.
 
 Mills came up in other cities too. The first mill in Ahmedabad was started in 1861. A year later a mill was established in Kanpur, in the United Provinces. Growth of cotton mills led to a demand for labour. Thousands of poor peasants, artisans and agricultural labourers moved to the cities to work in the mills.
 
@@ -224,7 +226,9 @@ But there was a problem. The region was dry and water – necessary for running 
 
 A few years later a large area of forest was cleared on the banks of the river Subarnarekha to set up the factory and an industrial township – Jamshedpur. Here there was water near iron ore deposits. The Tata Iron and Steel Company (TISCO) that came up began producing steel in 1912.
 
-TISCO was set up at an opportune time. All through the late nineteenth century, India was importing steel that was manufactured in Britain. Expansion of the railways in India Slag heaps – The waste left when smelting metal had provided a huge market for rails that Britain produced. For a long while, British experts in the Indian Railways were unwilling to believe that good quality steel could be produced in India.
+TISCO was set up at an opportune time. All through the late nineteenth century, India was importing steel that was manufactured in Britain. Expansion of the railways in India had provided a huge market for rails that Britain produced. For a long while, British experts in the Indian Railways were unwilling to believe that good quality steel could be produced in India.
+
+Slag heaps – The waste left when smelting metal
 
 > [caption] Fig. 14 – The Tata Iron and Steel factory on the banks of the river Subarnarekha, 1940
 

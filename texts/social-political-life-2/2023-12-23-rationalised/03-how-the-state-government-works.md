@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2023-12-23/ch03.pdf"
 source_sha256: "322306719566239d85863119e5aab81de6d695d2b996c57d3aed09835c6709a7"
 pdf_pages: 12
 printed_pages: "24-35"
-body_fingerprint: "259a2de82918274fe62a933b60a2b53bb9460438bcd9a9ec61a355fdea0e89a2"
+body_fingerprint: "7307110ba52405f2103227e3932e422ed232034df7b8972b7c0b205c2a6b1911"
 ---
 
 <!-- page 24 (pdf 1) -->
@@ -29,11 +29,9 @@ body_fingerprint: "259a2de82918274fe62a933b60a2b53bb9460438bcd9a9ec61a355fdea0e8
 
 <!-- page 25 (pdf 2) -->
 
-> [table] On the TV news, they said ten people
+> [table] On the TV news, they said ten people have died from diarrhoea! Is that possible? Can one really die from it?
 
-> [table] My mother said not to have any iced drinks from the market. She gave one of have died from diarrhoea! Is that possible? Can one really die from it?
-
-> [table] her lectures this morning, “You have to be responsible for your health, Who knows? Just hope I don’t get it!
+> [table] My mother said not to have any iced drinks from the market. She gave one of her lectures this morning, “You have to be responsible for your health, Who knows? Just hope I don’t get it!
 
 > [table] Shirin!”
 
@@ -41,21 +39,17 @@ body_fingerprint: "259a2de82918274fe62a933b60a2b53bb9460438bcd9a9ec61a355fdea0e8
 
 > [table] This road is blocked due to the rally. They have gheraoed the MLA’s residence.
 
-> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take
+> [caption] a leader or something......and we demand that the authorities take immediate action to bring the public health situation under control! Our MLA must take the responsibility for this!
 
-> [table] Ha ha – they seem more angry
+> [table] Ha ha – they seem more angry about what he
 
-> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of the responsibility for this!
-
-> [table] about what he
-
-> [caption] hasn’t done!
+> [caption] Really! Why? Has he done something? Shh...I saw him on TV too. He is a member of hasn’t done!
 
 Who is an MLA?
 
 In the above section, you have read about some events in Patalpuram. You may be familiar with some official names such as Collector, Medical Officer, etc. But have you heard of an MLA and the Legislative Assembly? Do you know the MLA of your area? Can you identify which party she or he belongs to?
 
-Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
+Members of the Legislative Assembly (MLAs) are elected by the people. They then become members of the legislative assembly and also form the government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 > [caption] STOP!
 
@@ -73,11 +67,11 @@ Members of the Legislative Assembly (MLAs) are elected by the people. They then 
 
 > [note] Can you explain the following terms–majority, ruling party, opposition with reference to your state.
 
+The state of Himachal Pradesh is coloured in purple in the above thumbnail map of India.
+
 Using a pencil outline the following on the map given on page 97:
 
 (i) the state that you live in; (ii) the state of Himachal Pradesh.
-
-government. In this way we say that the MLAs represent people. The example below will help us understand this better.
 
 Every state in India has a Legislative Assembly. Each state is divided into different areas or constituencies. For example, look at the map below. It shows that the state of Himachal Pradesh is divided into 68 assembly constituencies. From each constituency, the people elect one representative who then becomes a Member of the Legislative Assembly (MLA). You would have noticed that people stand for elections in the name of different parties. These MLAs, therefore, belong to different political parties.
 
@@ -140,8 +134,6 @@ MLA 5: We have very poor facilities in our hospitals. There are hospitals that d
 MLA 6: The opposition members are unnecessarily blaming the government. The previous government did not pay any attention to sanitation. We have now taken up a drive to clear the garbage that has been lying around for years. 1 2
 
 > [caption] Can you identify the MLAs of the ruling party and the opposition in the illustration? Colour the ruling party in one colour and the opposition in another.
-
-> [note] 3 4
 
 <!-- page 30 (pdf 7) -->
 

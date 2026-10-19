@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2020-05-08/ch01.pdf"
 source_sha256: "ab9b1e99ba545ebc678eb326ee422140f4e6848d92ebcb112e8633e5de62bb96"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "a60ca18cbd6088aee833dfde6db8210624a6c225ad909852c38201dd0e8880c9"
+body_fingerprint: "deff0a63ddba08c113779e723c0e1ad17fe7269456bc63374cfbd80f7ff0a860"
 ---
 
 <!-- page 2 (pdf 1) -->
@@ -63,11 +63,9 @@ India is a democracy. In the Class VI book, we looked at the key elements of a d
 
 > [caption] Yes!
 
-> [caption] I will vote for the candidate who has
+> [caption] I will vote for the candidate who has promised to bring pipe water to our area.
 
 > [caption] Go on, Kanta – It’s your turn now.
-
-> [caption] promised to bring pipe water to our area.
 
 <!-- page 5 (pdf 4) -->
 
@@ -127,9 +125,11 @@ What is it that makes Kanta unsure? Let’s take a look at a day in her life. Sh
 
 > [caption] That evening...
 
-> [caption] Jain Madam and Jain Saheb may stand in line to Just few more minutes, Beti.
+> [caption] Jain Madam and Jain Saheb may stand in line to vote, but they never have to do it when their children are sick...
 
-> [caption] vote, but they never have to do it when their children are sick...
+> [caption] Just few more minutes,
+
+> [caption] Beti.
 
 <!-- page 7 (pdf 6) -->
 
@@ -141,11 +141,13 @@ One of the more common forms of inequality in India is the caste system. If you 
 
 Now let us read a story about the experiences of a Dalit child attending school. You have already read about Dalits in the Class VI book. Dalit is a term that the so-called lower castes use to address themselves. Dalit means ‘broken’ and by using this word, lower castes are pointing to how they were, and continue to be, seriously discriminated against.
 
-Omprakash Valmiki (1950–2013) is a famous Dalit writer. In his autobiography, Joothan, he writes, “I had to sit away from the others in the class, and that too on the floor. The mat ran out before reaching the spot I sat on. Sometimes I would have to sit way behind everybody, right near the door…sometimes they would beat me without any reason.” When he was in Class IV, the headmaster asked Omprakash to sweep the school and the playground. He writes, “The playground was way larger than my small physique could handle and in cleaning it, my back began to ache. My face was covered with dust. Dust had gone Cover of Omprakash Valmiki’s book, Joothan, which talks about his experiences of growing up as a Dalit boy.
+Omprakash Valmiki (1950–2013) is a famous Dalit writer. In his autobiography, Joothan, he writes, “I had to sit away from the others in the class, and that too on the floor. The mat ran out before reaching the spot I sat on. Sometimes I would have to sit way behind everybody, right near the door…sometimes they would beat me without any reason.” When he was in Class IV, the headmaster asked Omprakash to sweep the school and the playground. He writes, “The playground was way larger than my small physique could handle and in cleaning it, my back began to ache. My face was covered with dust. Dust had gone inside my mouth. The other children in my class were studying and I was sweeping. Headmaster was sitting in his room and watching me. I was not even allowed to get a drink of water. I swept the whole day,…From the doors and windows of the school rooms, the eyes of the teachers and the boys saw this spectacle.” Omprakash was made to sweep the school and the playground for the next couple of days and this only came to an end when his father, who happened to be passing by, saw his son sweeping. He confronted the teachers and then walking away from the school holding Omprakash’s hand, he said loudly for all of them to hear, “You are a teacher…So I am leaving now. But remember this much Master…(He) will study right here…in this school. And not just him, but there will be more coming after him.”
 
 > [caption] Circle the reference to caste in the matrimonial advertisements given above.
 
 <!-- page 8 (pdf 7) -->
+
+Cover of Omprakash Valmiki’s book, Joothan, which talks about his experiences of growing up as a Dalit boy.
 
 > [table] Why do you think Omprakash
 
@@ -156,8 +158,6 @@ Omprakash Valmiki (1950–2013) is a famous Dalit writer. In his autobiography, 
 > [table] Why do you think the Ansaris were being treated unequally?
 
 > [table] What would you do if you were in the Ansaris’ position and could not find a place to live because some people did not want to live next to you because of the religion you practice?
-
-inside my mouth. The other children in my class were studying and I was sweeping. Headmaster was sitting in his room and watching me. I was not even allowed to get a drink of water. I swept the whole day,…From the doors and windows of the school rooms, the eyes of the teachers and the boys saw this spectacle.” Omprakash was made to sweep the school and the playground for the next couple of days and this only came to an end when his father, who happened to be passing by, saw his son sweeping. He confronted the teachers and then walking away from the school holding Omprakash’s hand, he said loudly for all of them to hear, “You are a teacher…So I am leaving now. But remember this much Master…(He) will study right here…in this school. And not just him, but there will be more coming after him.”
 
 The second story is based on an incident that took place in one of India’s larger cities and is common practice in most parts of the country. It is a story about Mr and Mrs Ansari who were looking to rent an apartment in the city. They had the money and so paying the rent was no problem. They went to a property dealer for help to find a place. The dealer informed them that he knew about quite a few apartments that were available for rent. They visited the first apartment and the Ansaris liked it very much and decided to take it. However, when the landlady found out their names, she made an excuse about how she could not rent the house to someone who ate meat because the building did not have any non-vegetarian residents. Both the Ansaris and the property dealer were surprised to hear this because they could smell fish being cooked in the neighbour’s house. The same excuse was repeated in the second and the third apartments. Finally, the property dealer told them that they might want to change their names and call themselves Mr and Mrs Kumar. The Ansaris were reluctant to do this and decided to look some more. In the end, it took a whole month of looking at apartments before they found a landlady who was willing to give them a place on rent.
 
@@ -173,29 +173,31 @@ Omprakash and the Ansaris do not deserve to be treated like this. They deserve t
 
 Equality in Indian democracy
 
-The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
+The Indian Constitution recognises every person as equal. This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal. This is not to say that inequality ceases to exist. It doesn’t. But atleast, in democratic India, the principle of the equality of all persons is recognised. While earlier no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
 
 > [table] If you were one of the Ansaris how would you have responded to the suggestion that you change your name?
 
 > [table] Can you think of an incident in your life in which your dignity was violated? How did this make you feel?
 
-<!-- page 10 (pdf 9) -->
+In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him. He feels that there is dignity in the work that he does and insists that his fee be given respectfully.
 
-no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.
+<!-- page 10 (pdf 9) -->
 
 This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law. What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws. Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male. Third, every person has access to all public places including playgrounds, hotels, shops and markets. All persons can use publicly available wells, roads and bathing ghats. Fourth, untouchability has been abolished.
 
-The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
+The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities. There are several laws in India that protect every person’s right to be treated equally. In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
+
+The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.
 
 > [caption] Sustainable Development Goal (SDG) www.in.undp.org
 
 <!-- page 11 (pdf 10) -->
 
-set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries. These schemes are to ensure greater opportunity for people who have not had this in the past.
-
 One of the steps taken by the government includes the midday meal scheme. This refers to the programme introduced in all government elementary schools to provide children with cooked lunch. Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months. This programme has had many positive effects. These include the fact that more poor children have begun enrolling and regularly attending school. Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved. Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so. This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal. The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.
 
-While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not Children being served their midday meal at a government school in Uttarakhand.
+While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done. While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend. Even today there are several schools in the country in which Dalit children, like Omprakash Valmiki, are discriminated against and treated unequally. These children are forced into unequal situations in which their dignity is not respected. This is because people refuse to think of them as equal even though the law requires it.
+
+Children being served their midday meal at a government school in Uttarakhand.
 
 > [table] What is the midday meal programme? Can you list three benefits of the programme? How do you think this programme might help promote greater equality?
 
@@ -207,7 +209,7 @@ While government programmes play an important role in increasing equality of opp
 
 “Man is mortal. Everyone has to die some day or the other. But one must resolve to lay down one's life in enriching the noble ideals of self-respect and in bettering one's human life... Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”
 
-– B.R. Ambedkar respected. This is because people refuse to think of them as equal even though the law requires it.
+– B.R. Ambedkar
 
 One of the main reasons for this is that attitudes change very slowly. Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women. It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change. Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.
 

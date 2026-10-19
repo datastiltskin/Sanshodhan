@@ -10,9 +10,9 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch06.pdf"
 source_sha256: "0c902779fc6aedda2e807f9d9c20bc2e0c5916f230e239121bab390746926ff6"
 pdf_pages: 14
 printed_pages: "68-81"
-body_fingerprint: "5e8e17710c43bf5bc966ac869acafa99abddacc3a7f6ca6e4c54dbb1eda82726"
+body_fingerprint: "eb771110a16599a0604a1b51074040aa6212f73651160cafb1c48548361b6ff1"
 ocr: true
-ocr_confidence: 80.5
+ocr_confidence: 80.6
 overrides:
   - "The newspaper column on page 74 reads 'The government says that it has done a lot to relocate us.' The OCR misread the start of this fragment"
   - "The headline of the second newspaper cutting on page 74 reads 'Closure of factories causes unrest' in lower case. The OCR capitalised 'causes'"
@@ -70,13 +70,9 @@ List three things that you know about some other part of the world from watching
 
 <!-- page 72 (pdf 5) -->
 
-With electronic typerwriters, journalism
+With electronic typerwriters, journalism underwent a sea-change in the 1940s.
 
-underwent a sea-change in the 1940s.
-
-John L. Baird sits in front of the apparatus with which he demonstrated to
-
-the Royal Institute, his invention, the
+John L. Baird sits in front of the apparatus with which he demonstrated to the Royal Institute, his invention, the
 
 ‘televisor’, an early television.
 
@@ -182,7 +178,7 @@ Fashion shows are very popular with the
 
 > [caption] media. 1ce of the agenda’ b Fashior 1e slum think of e n ts Ar
 
-As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Social advertising Social advertisements refer to advertisements made by the Government or private agencies that have a larger message for society. The following is a social advertisement regarding crossing of manned /unmanned level crossings.
+As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related to the working of the government. The media decides what to focus on and in this way it ‘sets the agenda’. The government can, at times, prevent the media from publishing a story and this is called censorship. Nowadays, media’s close relationship with business often means that a balanced report is difficult to come by. Given this, it is important for us to be aware that the ‘factual information’ that a news report provides is often not complete and can be one-sided. We, therefore, need to analyse the news by asking the following questions: what is the information I am learning from this report? What information is not being provided? From whose point of view is the article being written? Whose point of view is being left out and why?
 
 > [table] Local media
 
@@ -192,7 +188,9 @@ Another example is a newspaper called Khabar Lahriya which is a fortnightly that
 
 <!-- page 78 (pdf 11) -->
 
-to the working of the government. The media decides what to focus on and in this way it ‘sets the agenda’. The government can, at times, prevent the media from publishing a story and this is called censorship. Nowadays, media’s close relationship with business often means that a balanced report is difficult to come by. Given this, it is important for us to be aware that the ‘factual information’ that a news report provides is often not complete and can be one-sided. We, therefore, need to analyse the news by asking the following questions: what is the information I am learning from this report? What information is not being provided? From whose point of view is the article being written? Whose point of view is being left out and why?
+Social advertising
+
+Social advertisements refer to advertisements made by the Government or private agencies that have a larger message for society. The following is a social advertisement regarding crossing of manned /unmanned level crossings.
 
 ## At Railway Level Crossings
 
@@ -201,8 +199,6 @@ to the working of the government. The media decides what to focus on and in this
 > [table] : z tq SLOW DOWN YOUR VEHICLE & (STOP THE VEHICLE
 
 a@) SEEONBOTHTHESIDES 45) LISTEN CAREFULLY to spot an approaching train. brotha dade
-
-o [Passengers|complaint SS eise Helpline Noms at
 
 > [caption] Passing over the unmanned level crossing negligently is a [ . punishable offence under Indian Railways Act,1989 Section 161 Sooeneaal = rere . y www.nr.indianrailways.gov.in ay
 

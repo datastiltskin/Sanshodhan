@@ -11,12 +11,8 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch01.pdf"
 source_sha256: "324ece32b4c7beb55c679d18df111309d7fad68aac178f9d66d49ada091b3b86"
 pdf_pages: 26
 printed_pages: "1-26"
-body_fingerprint: "4f15e1f54b0f5634a588625f6cc0f61a9c78eead6dd5e828d2c1f18970ae9205"
+body_fingerprint: "8ce85fc506b5f8705f2393b34aff54de4e8055466564795da1d6edad3e17110b"
 overrides:
-  - "part 1 chapter 1, page 6: the Fig. 1.6 caption is one two-line caption"
-  - "part 1 chapter 1, page 10: four captions of the photo grid, each under its own photo"
-  - "part 1 chapter 1, page 11: three captions interleaved by line"
-  - "part 1 chapter 1, page 13: the Fig. 1.23 caption wrapped in a narrow column into four blocks"
   - "part 1 chapter 1, page 18: five captions each under its own photo"
 ---
 
@@ -32,11 +28,7 @@ To us, by its very geography, the country [India] appears to be quite distinct f
 
 1. What are some key geographical features of India?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. How does India’s geographical diversity affect our lives?
 
@@ -122,21 +114,7 @@ The traditional house construction method in the western Himalayan region is kno
 
 The Great Himalayan National Park in Himachal Pradesh has a wide diversity of flora and fauna. The park has been declared a World Heritage Site by UNESCO. The biodiversity of the park is being preserved by the government as well as the village communities that live inside the park.
 
-1
-
-2
-
-> [note] 3
-
-4 5
-
-> [note] 7
-
-6
-
-> [caption] Fig. 1.7. 1.Great Himalayan National Park Conservation Area. 2. Himalayan monal
-
-> [caption] (male). 3. A monastery in Ladakh. 4. The Beas river in Himachal Pradesh. 5. Snow Leopard 6. A display of produce in a local market in the Himalayas. 7. Rhododendron — a type of sherbet is made out of this flower.
+> [caption] Fig. 1.7. 1.Great Himalayan National Park Conservation Area. 2. Himalayan monal (male). 3. A monastery in Ladakh. 4. The Beas river in Himachal Pradesh. 5. Snow Leopard 6. A display of produce in a local market in the Himalayas. 7. Rhododendron — a type of sherbet is made out of this flower.
 
 <!-- page 8 (pdf 8) -->
 
@@ -192,9 +170,9 @@ Notice the concentration of lighting in the plains. What could be the reason for
 
 <!-- page 12 (pdf 12) -->
 
-> [caption] Fig. 1.19. The Indian gharial; an adult
+> [caption] Fig. 1.19. The Indian gharial; an adult is between 2.5 and 4.5 m long. This reptile is on the verge of extinction. There are laws that prohibit harming it or hunting it.
 
-> [caption] Fig. 1.20. A peacock and peahen — the is between 2.5 and 4.5 m long. This reptile is on the verge of extinction. There are laws that prohibit harming Indian peacock is our national bird it or hunting it.
+> [caption] Fig. 1.20. A peacock and peahen — the Indian peacock is our national bird
 
 ## The Great Indian Desert or Thar Desert
 
@@ -336,9 +314,7 @@ The East Coast lies between the Eastern Ghats and the Bay of Bengal, stretching 
 
 Deltas are landforms formed at the mouth of a river when it deposits sediments into a larger body of water, such as an ocean, a lake, or another river. Over time, these sediments build up, forming a triangular or fan-shaped area. The Godavari, Krishna, Kaveri and Mahanadi rivers create fertile deltas, making the land ideal for farming.
 
-> [caption] Fig. 1.35. Satellite view of the East
-
-> [caption] Coast of India.
+> [caption] Fig. 1.35. Satellite view of the East Coast of India.
 
 ## Indian Islands
 
@@ -354,13 +330,9 @@ Lakshadweep is an archipelago (a group of islands) located in the Arabian Sea, c
 
 This archipelago comprises more than 500 large and small volcanic islands, divided into two distinct groups — the Andaman and the Nicobar Islands. Their location is very important.
 
-> [caption] Fig. 1.36. Coral reef in the
+> [caption] Fig. 1.36. Coral reef in the Lakshadweep Islands
 
-> [caption] Fig. 1.37. Coral reef in the
-
-> [caption] Lakshadweep Islands
-
-> [caption] Andaman Islands
+> [caption] Fig. 1.37. Coral reef in the Andaman Islands
 
 > [caption] Fig. 1.38. A floating dock (a small port) of the Indian Navy near
 
@@ -378,9 +350,7 @@ Barren Island (Fig. 1.39 above) in the Andaman and Nicobar Islands is the only a
 
 As we travel back from the islands towards the eastern side of the Himalayas via the Bay of Bengal, we come to the Sundarbans. This is located in the delta of the Ganga, Brahmaputra (you saw them earlier in the chapter) and their tributaries. This delta has a unique combination of the river, sea and land. About half of it is located in India, and the rest is in Bangladesh. This is also a UNESCO Heritage site. The Sundarbans are home to many species, including the Royal Bengal Tiger.
 
-> [caption] Fig. 1.40. Mangroves of the delta in the
-
-> [caption] Sundarbans of West Bengal
+> [caption] Fig. 1.40. Mangroves of the delta in the Sundarbans of West Bengal
 
 Note: Do remember to look at the map and identify where the delta is.
 

@@ -21,12 +21,6 @@ Figure 1 shows the first balcony of the Qutb Minar. Qutbuddin Aybak had this con
 
 Between the eighth and the eighteenth centuries kings and their officers built two kinds of structures:
 
-> [caption] inar is five
-
-> [caption] . The band ns you er its y.
-
-> [caption] or was by Aybak and tutmish 9. Over the damaged and s and Alauddin ammad uz Shah d
-
 <!-- page 61 (pdf 3) -->
 
 the first were forts, palaces and tombs – safe, protected and grandiose places of rest in this world and the next; the second were structures meant for public activity including temples, mosques, tanks, wells, caravan serais and bazaars. Kings were expected to care for their subjects, and by making structures for their use and comfort, rulers hoped to win their praise. Construction activity was also carried out by others, including merchants. They built temples, mosques and wells. However, domestic architecture – large mansions (havelis) of merchants – has survived only from the eighteenth century.
@@ -37,7 +31,9 @@ Monuments provide an insight into the technologies used for construction. Take s
 
 Between the seventh and tenth centuries architects started adding more rooms, doors and windows to buildings. Roofs, doors and windows were still made by placing a horizontal beam across two vertical columns, a style of architecture called “trabeate” or “corbelled”. Between the eighth and thirteenth centuries the trabeate style was used in the construction of temples, mosques, tombs and in buildings attached to large stepped-wells (baolis).
 
-> [caption] Fig. 2a Fig. 2b
+> [caption] Fig. 2b
+
+> [caption] Fig. 2a
 
 > [note] Labour for the Agra Fort
 
@@ -58,8 +54,6 @@ Temple Construction in the Early Eleventh Century Two technological and stylisti
 > [caption] Fig. 3a
 
 > [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than four kilometres away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the “Village of the Incline”.
-
-> [note] rences tice he of the es? Can out that ra of the vara twice as at of the
 
 <!-- page 63 (pdf 5) -->
 
@@ -91,10 +85,6 @@ Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian 
 
 ### ct
 
-> [note] l emperor n’s chro-ared that was the t of the of empire on”.
-
-> [caption] mi masjid h Jahan in tal at bad,
-
 <!-- page 65 (pdf 7) -->
 
 As each new dynasty came to power, kings wanted to emphasise their moral right to be rulers. Constructing places of worship provided rulers with the chance to proclaim their close relationship with God, especially important in an age of rapid political change. Rulers also offered patronage to the learned and pious, and tried to transform their capitals and cities into great cultural centres that brought fame to their rule and their realm.
@@ -123,14 +113,6 @@ Sultan Mahmud of Ghazni was a contemporary of Rajendra I. During his campaigns i
 
 Under the Mughals, architecture became more complex. Babur, Humayun, Akbar, Jahangir, and especially Shah Jahan were personally interested in literature, art and architecture. In his autobiography, Babur described his interest in planning and laying out formal gardens, placed within rectangular walled enclosures and divided into four quarters by artificial channels.
 
-> [caption] har baghs har bagh n’s tomb,
-
-> [caption] 1571.
-
-> [caption] chahar limar hmir, 634.
-
-> [caption] ar bagh a arden at ari, 1637.
-
 <!-- page 67 (pdf 9) -->
 
 These gardens were called chahar bagh, four gardens, because of their symmetrical division into quarters. Beginning with Akbar, some of the most beautiful chahar baghs were constructed by Jahangir and Shah Jahan in Kashmir, Agra and Delhi (see Fig. 9).
@@ -149,12 +131,6 @@ Shah Jahan’s audience halls were specially constructed to resemble a mosque. T
 
 The connection between royal justice and the imperial court was emphasised by Shah Jahan in his newly constructed court in the Red Fort at Delhi. Behind the emperor’s throne were a series of pietra dura inlays that depicted the legendary Greek god Orpheus playing the lute. It was believed that Orpheus’s music could calm ferocious beasts until they resided together peaceably. The construction of Shah Jahan’s audience hall aimed to communicate that the king’s justice would treat the high and the low as equals where all could live together in harmony.
 
-> [caption] balcony
-
-> [caption] -i am in eted
-
-> [note] ura hard aced in ns o marble one eautiful, tterns.
-
 <!-- page 69 (pdf 11) -->
 
 In the early years of his reign, Shah Jahan’s capital was at Agra, a city where the nobility had constructed their homes on the banks of the river Yamuna. These were set in the midst of formal gardens constructed in the chahar bagh format. The chahar bagh garden also had a variation that historians describe as the “river-front garden”. In this the dwelling was not located in the middle of the chahar bagh but at its edge, close to the bank of the river.
@@ -169,9 +145,7 @@ Shah Jahan adapted the river-front garden in the layout of the Taj Mahal, the gr
 
 > [source] Yamuna River
 
-> [caption] f Shahjahanabad. Where is the emperor’s residence?
-
-> [caption] ears to be very crowded, but did you notice the many large gardens as well? d the main street and the jami masjid?
+> [caption] f Shahjahanabad. Where is the emperor’s residence? ears to be very crowded, but did you notice the many large gardens as well? d the main street and the jami masjid?
 
 <!-- page 71 (pdf 13) -->
 

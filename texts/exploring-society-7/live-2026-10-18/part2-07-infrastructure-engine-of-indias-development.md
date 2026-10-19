@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch07.pdf"
 source_sha256: "9eb6c456f5f0fab9fbdcc84d3c433126e118d0568b6e3bb64339b90a3a93d303"
 pdf_pages: 24
 printed_pages: "169-192"
-body_fingerprint: "fcbb6c6a6947dfec4170e501a763be5ac179ac5bdd4adb19acec574a7c0b97d2"
+body_fingerprint: "1cc7d26b222462223ab2f589237570d6220edaf474e9f01691b16f2557ca611a"
 overrides:
   - "part 2 chapter 7, page 179: stray L from the track drawing"
   - "part 2 chapter 7, page 185: caption and margin note were fused"
@@ -28,11 +28,7 @@ A developed India will be one where urban and rural areas have the same infrastr
 
 1. What is physical infrastructure, and how has it transformed over the years in India? 2. How has the expansion in infrastructure affected the quality of life for individuals and communities? 3. What is the role of infrastructure in the development and economic prosperity of the nation?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 > [caption] Fig. 7.1. State-of-the-art physical infrastructure
 
@@ -148,7 +144,9 @@ As the railway network expanded, trade grew, major markets developed, and new se
 
 > [caption] 20
 
-> [caption] United Kingdom Germany France China India Countries Fig. 7.8. Percentage of electrified railway networks — country comparisons, 2024
+> [caption] United Kingdom Germany France China India Countries
+
+> [caption] Fig. 7.8. Percentage of electrified railway networks — country comparisons, 2024
 
 Indian Railways is also the largest employer with about 1.21 million employees in 2024, including engineers, ticket collectors, and service staff. Additionally, it also creates many indirect jobs like catering, vending, and taxi services.
 
@@ -164,7 +162,7 @@ Today, Indian Railways is the fourth-largest railway system in the world.
 
 <!-- page 179 (pdf 11) -->
 
-y x
+y
 
 > [caption] USA
 
@@ -200,9 +198,11 @@ y x
 
 > [table] 293,564
 
+x
+
 <!-- page 180 (pdf 12) -->
 
-> [caption] Fig. 7.14. Commuters inside a metro train Fig. 7.13. A metro train plying its route
+> [caption] Fig. 7.14. Commuters inside a metro train
 
 ## c) Metro train systems
 
@@ -215,6 +215,8 @@ Have you or your family members ever taken a train or a metro? What sort of econ
 ## d) Air transport
 
 Air transport is the fastest way to connect people and places within and across countries. Passenger flights carry people and cargo flights move high-value or perishable goods like vaccines, chemicals, seafood, etc. These are particularly helpful in delivering aid to people during disasters like floods or earthquakes as they can reach difficult terrains like high mountains, deserts, dense forests, and long oceanic stretches easily.
+
+> [caption] Fig. 7.13. A metro train plying its route
 
 <!-- page 181 (pdf 13) -->
 
@@ -296,8 +298,6 @@ In 2025, India has 159 airports. Look at some of the international and domestic 
 
 > [caption] Madhya Pradesh
 
-> [caption] 11 E
-
 > [caption] Mizoram
 
 > [caption] 8 M
@@ -364,7 +364,9 @@ In 2025, India has 159 airports. Look at some of the international and domestic 
 
 <!-- page 183 (pdf 15) -->
 
-> [caption] Fig. 7.19. Cargo Ship Fig. 7.20. Vishakhapatnam Port, Andhra Pradesh
+> [caption] Fig. 7.19. Cargo Ship
+
+> [caption] Fig. 7.20. Vishakhapatnam Port, Andhra Pradesh
 
 ## e) Shipping and ports
 
@@ -498,23 +500,17 @@ Which parts of this process do you think are easiest to see in real life, and wh
 
 Through the advancements in communication, students can access online classes, digital libraries, and educational videos, even in remote areas. It aids emergency response during natural disasters through quick mobile SMS alerts or apps. Small and large businesses sell products across the world through e-commerce. From quick online payments to e-governance where citizens can apply for documents, file complaints, or get information easily, progress in communication infrastructure has promoted ease of living for communities.
 
-> [caption] 1843: First fax machine invented by Alexander Bain 200 BCE–1200 CE: Use of paved the way pigeons, runners, and horse couriers.
+> [caption] 1843: First fax machine invented by Alexander Bain paved the way for sending images.
 
-> [caption] for sending
+> [caption] 200 BCE–1200 CE: Use of pigeons, runners, and horse couriers.
 
-> [caption] 1899: J.C. Bose demonstrated
-
-> [caption] 1780: India’s first printed newspaper, the Bengal Gazette images.
-
-> [caption] wireless transmission
+> [caption] 1899: J.C. Bose demonstrated wireless transmission 1780: India’s first printed newspaper, the Bengal Gazette
 
 > [table] 1800 1830 1860 1890
 
 > [caption] 1876: Telephone invented by
 
-> [caption] 1844: First electric signal transmitted through the telegraph using dots and dashes for long-distance messaging; invented by Samuel Morse 1605: First newspaper printed Alexander Graham Bell.
-
-> [caption] in Germany
+> [caption] 1844: First electric signal transmitted through the telegraph using dots and dashes for long-distance messaging; invented by Samuel Morse 1605: First newspaper printed in Germany Alexander Graham Bell.
 
 > [caption] Fig. 7.23. Timeline of development of communication systems
 
@@ -536,13 +532,11 @@ Through the advancements in communication, students can access online classes, d
 
 > [table] 1920 1950 1980 2010
 
-> [caption] 1990s: Emails and Instant
+> [caption] 1990s: Emails and Instant messaging
 
-> [caption] 2010s–Now: 5G, cloud communication,
+> [caption] 2010s–Now: 5G, cloud communication, and AI-driven chat and voice services 1930: All India Radio (AIR) broadcasting started in India 1993: First version of the smartphone developed Shri. Shanmukham Chetty broadcast the budget on AIR, 1947
 
-> [caption] 1930: All India Radio (AIR) broadcasting messaging started in India and AI-driven chat and voice services 1993: First version of the smartphone Shri. Shanmukham Chetty broadcast the budget on AIR, 1947
-
-> [caption] Radio becomes popular developed
+> [caption] Radio becomes popular
 
 > [caption] Fig. 7.23. Development of communications systems contd ...
 
@@ -586,7 +580,9 @@ While India has developed major physical infrastructure in terms of airports, hi
 
 We also need to improve Panchayat and municipal administrative services for waste management, sewer systems, traffic management, provision of clean and safe drinking water, pedestrian-friendly footpaths. In addition, we need safe and sustainable infrastructure that uses cleaner energy and environment-friendly materials to minimise pollution and harm to bio-diversity — for instance, using solar panels for generating electricity for the buildings can reduce emissions. The design of the infrastructure should consider the needs of children, the elderly and disabled persons.
 
-> [caption] Fig. 7.26. Poor waste management Fig. 7.27. Potholes on the roads
+> [caption] Fig. 7.26. Poor waste management
+
+> [caption] Fig. 7.27. Potholes on the roads
 
 <!-- page 189 (pdf 21) -->
 

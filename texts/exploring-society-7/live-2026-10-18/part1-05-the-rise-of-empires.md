@@ -11,12 +11,10 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch05.pdf"
 source_sha256: "f28e28634f62926ca8f00338cc3951e390ece3cd8557e6c871c043bbe3ea739d"
 pdf_pages: 34
 printed_pages: "83-116"
-body_fingerprint: "7bcf4f8af4552b34ef74acd9eb4b4645622756a3532d313aef4d6f88da844640"
+body_fingerprint: "89733b380ae0607545ef28f0195d3037359e10652fda7b4403b3e4fab03ae965"
 overrides:
   - "part 1 chapter 5, page 88: the six hexagon boxes were read line by line across each other, rebuilt from the page image"
-  - "part 1 chapter 5, page 98: the coin caption is one caption, the paragraph runs beside it"
   - "part 1 chapter 5, page 109: last line of the Fig. 5.20 caption is missing from the text layer"
-  - "part 1 chapter 5, page 110: two side-by-side captions interleaved by line"
 ---
 
 <!-- page 83 (pdf 1) -->
@@ -29,13 +27,9 @@ Kauṭilya in Arthaśhāstra
 
 > [caption] Fig. 5.1. Rock-cut cave in Barabar Hills, Bihar
 
-The Big
-
 1. What is an empire?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. How did empires rise and shape Indian civilisation?
 
@@ -381,7 +375,7 @@ According to Buddhist texts, Kauṭilya—sometimes referred to as Chāṇakya o
 
 > [caption] Sārnāth
 
-> [caption] Pāṭ aliputra
+> [caption] Pāṭaliputra
 
 > [caption] Kauśhāmbī
 
@@ -421,9 +415,7 @@ There are many stories about the origin and adventures of Chandragupta Maurya, b
 
 <!-- page 101 (pdf 19) -->
 
-> [caption] Fig. 5.14. Megasthenes in the court of Chandragupta Maurya
-
-> [caption] (A 20th-century painting by Asit Kumar Haldar)
+> [caption] Fig. 5.14. Megasthenes in the court of Chandragupta Maurya (A 20th-century painting by Asit Kumar Haldar)
 
 After Chandragupta Maurya defeated the Greeks, he maintained a diplomatic relationship with them and hosted in his court a Greek historian and diplomat, Megasthenes, who wrote about his travels in India in his book Indika — the first such written account — unfortunately lost except for some excerpts quoted by later Greek scholars.
 
@@ -607,7 +599,9 @@ This image may be familiar to some of you. Indeed, this capital was chosen as In
 
 Notice the different symbols on the coins. Can you guess what any of the symbols in the coins below might mean?
 
-> [caption] Fig. 5.29.1. A hoard of Mauryan punch-marked coins, Fig. 5.29.2. A punch-marked coin of Aśhoka
+> [caption] Fig. 5.29.1. A hoard of Mauryan punch-marked coins,
+
+> [caption] Fig. 5.29.2. A punch-marked coin of Aśhoka
 
 ### DON’T MISS OUT
 

@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf"
 source_sha256: "ed08c46a27f2f3f2a8a944fdcd967c144b6ff69db8fb24e4f8e0c50ceb6ee4de"
 pdf_pages: 20
 printed_pages: "193-212"
-body_fingerprint: "bb4bbd7a6512f250548c4dedba23d4f68d716e9a400651b6a07f12be06f0947e"
+body_fingerprint: "cfb04118af110540928e8e25611ccf7b9488ce2a34256e67a4c64243c3d4d615"
 overrides:
   - "part 2 chapter 8, page 206: xxxxxx is the dummy phone number from the app drawing"
   - "part 2 chapter 8, page 206: two interleaved sentences of the Fig. 8.18 flow chart re-threaded"
@@ -26,13 +26,9 @@ The banker is not only a middleman; he is the producer of a vital service, enabl
 
 – Joseph Schumpeter, Economist
 
-> [note] The Big
-
 1. What is financial infrastructure, and what does it comprise? 2. What are the main functions performed by banks and how do they impact people’s lives? 3. How does financial infrastructure contribute to a nation’s progress?
 
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 > [caption] Fig. 8.1.
 
@@ -302,23 +298,25 @@ Another electronic tool for transferring money is internet banking or online ban
 
 Additionally, digital payments are made through mobile phones using digital payment applications such as BHIM (Bharat Interface for Money), which is based on the Unified Payments Interface (UPI) payment system. UPI enables easier and quicker digital money transfers using a QR code or the phone number of the recipient, allowing quick payments and receipts. It reduces the need for physical passbook updates. It allows users to check balances and track transactions anytime on their phone.
 
-> [caption] Fig. 8.15. Debit card being used in a POS machine Fig. 8.16. Internet banking using a computer Fig. 8.17. QR code used for payment
+> [caption] Fig. 8.15. Debit card being used in a POS machine
+
+> [caption] Fig. 8.16. Internet banking using a computer
+
+> [caption] Fig. 8.17. QR code used for payment
 
 <!-- page 206 (pdf 14) -->
 
 > [caption] Payer’s Bank
 
-> [caption] 2 The bank forwards the request to NPCI Processing of a UPI transaction UPI Mobile App
+> [caption] 2 The bank forwards the request to NPCI Processing of a UPI transaction UPI Mobile App NPCI decrypts the request, verifies the user’s UPI PIN and processes the transfer.
 
-3
-
-> [caption] NPCI decrypts the request, verifies the user’s UPI PIN and QR Code processes the transfer.
+> [caption] QR Code
 
 > [caption] Pay Contact
 
 > [caption] Pay Phone Number
 
-> [caption] 4 Funds are received by the payee’s bank (Piyush).
+> [caption] Funds are received by the payee’s bank (Piyush).
 
 > [caption] Kumar scans Piyush’s (a vegetable vendor) QR code using a payment application on his mobile phone, enters the amount to be sent and then his UPI PIN.
 
@@ -326,13 +324,7 @@ Additionally, digital payments are made through mobile phones using digital paym
 
 > [caption] Payee’s Bank
 
-5
-
-> [caption] The payee, Piyush receives the payment in his bank
-
-1
-
-> [caption] account.
+> [caption] The payee, Piyush receives the payment in his bank account.
 
 > [caption] Fig. 8.18. Process of a digital transaction between a buyer and a seller using UPI
 

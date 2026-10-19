@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch04.pdf"
 source_sha256: "7925b556e4351fcdb4b7a8f6ee55ae1b10d09220af6c457c4a73e861ee6215dd"
 pdf_pages: 28
 printed_pages: "97-124"
-body_fingerprint: "bdd57e8b75764b604880b7df513a4b6a99102202bd0c1c7ef0189bdf6bf41436"
+body_fingerprint: "b5c1c90796499b298622674290cec4458d23adbf440a5cdba2f723ee39e59bf3"
 ---
 
 <!-- page 97 (pdf 1) -->
@@ -22,17 +22,11 @@ It is the same India which has withstood the shocks of centuries, of hundreds of
 
 — Swami Vivekananda
 
-> [caption] Fig. 4.1. A bas-relief depicting soldiers and elephants preparing for war
-
-> [caption] (from Lakṣhmaṇa Temple, Khajuraho)
+> [caption] Fig. 4.1. A bas-relief depicting soldiers and elephants preparing for war (from Lakṣhmaṇa Temple, Khajuraho)
 
 1. Why are the 11th and 12th centuries seen as a period of transition in Indian history?
 
-The Big
-
-<!-- section: exercises -->
-
-## Questions
+## The Big Questions
 
 2. Which new powers emerged during this period? What were the essential features of their economic, military and administrative systems?
 
@@ -48,21 +42,19 @@ The Big
 
 > [caption] 1010–55 : Reign of Paramāra king Bhoja
 
-> [caption] 1000–08: Mahmūd of Ghazni’s campaigns against 1014–44: Reign of Rājendra Chola I the Hindu Shāhis 985–1014: Reign of Rājarāja Chola I Fig. 4.2.
+> [caption] 1000–08: Mahmūd of Ghazni’s campaigns against the Hindu Shāhis 1014–44: Reign of Rājendra Chola I 985–1014: Reign of Rājarāja Chola I
+
+> [caption] Fig. 4.2.
 
 In the previous chapter, we saw the Arabs’ repeated attempts to invade and dominate north India and how, in the end, those incursions had little overall impact on India. The 11th and 12th centuries tell a different story: invasions by Turkic powers penetrated much deeper into north India, despite stubborn resistance from native kingdoms.
 
-> [caption] Turkic: Refers to
-
 We begin the chapter with an invasion and end the chapter with another, with a very brief account of the wars and destruction that came in their wake. However, many Indian rulers also flourished in this time period, successfully battling the invaders at times (when they were not battling each other), conducting naval expeditions, creating astonishing monuments or projecting India’s influence abroad. Many poets, philosophers, saints and scientists belong to this period and their works continue to illuminate us even today.
-
-> [caption] region stretching
 
 > [caption] Siberia.
 
 In this chapter we will only explore a few of these important events, figures and accomplishments.
 
-> [caption] peoples, languages, and cultures historically associated with a vast across Central Asia, all the way to Turkey and
+> [caption] Turkic: Refers to peoples, languages, and cultures historically associated with a vast region stretching across Central Asia, all the way to Turkey and
 
 <!-- page 99 (pdf 3) -->
 
@@ -110,8 +102,6 @@ In all, Mahmūd conducted 17 campaigns in India; after each one, he would return
 
 <!-- page 102 (pdf 6) -->
 
-> [caption] 70°E 75°E 85°E 90°E 80°E 95°E
-
 > [caption] N
 
 > [caption] Khyber
@@ -135,8 +125,6 @@ In all, Mahmūd conducted 17 campaigns in India; after each one, he would return
 > [caption] BAY OF BENGAL
 
 > [caption] 0 250 500 km
-
-> [caption] 70°E 75°E 85°E 90°E 80°E 95°E
 
 > [caption] Fig. 4.4. A few dynasties in northern and central India in the 11th and 12th centuries
 
@@ -214,8 +202,6 @@ Let us continue our journey southward. From the previous chapter, do you remembe
 
 <!-- page 108 (pdf 12) -->
 
-> [caption] 70°E 80°E 75°E 85°E
-
 > [caption] Orugallu
 
 > [caption] Kalyāṇī
@@ -245,8 +231,6 @@ Let us continue our journey southward. From the previous chapter, do you remembe
 > [caption] 0 250 500 km LEGEND
 
 > [caption] INDIAN OCEAN
-
-> [caption] 70°E 80°E 75°E 85°E
 
 > [caption] Fig. 4.10. A few dynasties of south India in the 11th and 12th centuries
 
@@ -354,9 +338,7 @@ Meantime, the Chāhamānas, also known as Chauhāns, were a powerful Rajput dyna
 
 Pṛithvīrāja III, often known today as Prithviraj Chauhan, waged many battles with neighbouring kings, such as those of Gujarat and Malwa. In 1191, he also defeated Muhammad Ghūrī at Tarain (modern-day Taraori in Haryana), but within a year, Muhammad returned with a larger army, and the two clashed again. In this Second Battle of Tarain, which witnessed fierce fighting, Muhammad defeated Pṛithvīrāja and executed him.
 
-> [caption] Fig. 4.16. A later portrait of
-
-> [caption] Pṛithvīrāja III
+> [caption] Fig. 4.16. A later portrait of Pṛithvīrāja III
 
 <!-- page 116 (pdf 20) -->
 
@@ -368,9 +350,9 @@ Delhi was a flourishing city under the Chāhamānas. Their inscriptions refer to
 
 Aibak encountered much resistance in his campaigns in north India, but was able to expand the Ghūrids’ territory. His army commander Bakhtiyār Khiljī (or Khaljī) conducted campaigns in eastern India from the end of the 12th century, conquering Bihar and Bengal. On his way to Bengal, he destroyed large Buddhist monasteries and universities such as Nālandā and Vikramaśhilā, collecting huge booty and slaughtering large numbers of monks. There is a consensus among historians of Buddhism that this destruction of its large centres of learning precipitated the decline of Buddhism in India, although a few other factors may have also played a role.
 
-> [caption] Fig. 4.17. A gold coin issued in the name of ‘Muhammad ibn Sām’ (Muhammad Ghūrī’s formal name), depicting him as a conqueror Fig. 4.18. Also issued by Muhammad Ghūri, this coin depicts Goddess Lakṣhmī; this motif had been widely used on coins since the Kuṣhāṇas, which is probably why Muhammad on horseback.
+> [caption] Fig. 4.17. A gold coin issued in the name of ‘Muhammad ibn Sām’ (Muhammad Ghūrī’s formal name), depicting him as a conqueror on horseback.
 
-> [caption] decided to adopt it.
+> [caption] Fig. 4.18. Also issued by Muhammad Ghūri, this coin depicts Goddess Lakṣhmī; this motif had been widely used on coins since the Kuṣhāṇas, which is probably why Muhammad decided to adopt it.
 
 <!-- page 117 (pdf 21) -->
 
@@ -408,9 +390,7 @@ If the economy thrived, so did the arts, the literary production, science (as we
 
 <!-- page 120 (pdf 24) -->
 
-> [caption] Fig. 4.21 & 4.22. Two huge modern statues: Rāmānujāchārya (left, in Hyderabad)
-
-> [caption] and Basaveśhvara (right, in Basavakalyana)
+> [caption] Fig. 4.21 & 4.22. Two huge modern statues: Rāmānujāchārya (left, in Hyderabad) and Basaveśhvara (right, in Basavakalyana)
 
 Several noteworthy thinkers appeared in these two centuries. Among them, Rāmānujāchārya of south India was a philosopher-saint who challenged the dominant philosophical school of his time, Ādi Śhankarāchārya’s advaita vedānta (briefly described in the previous chapter). Rāmānuja developed the school of viśhiṣhṭādvaita vedānta, which sees the world and individual souls as real, and emphasises bhakti and surrender to the divine as the path to liberation.
 

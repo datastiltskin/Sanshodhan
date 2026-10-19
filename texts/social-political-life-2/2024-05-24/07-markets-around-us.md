@@ -80,17 +80,13 @@ On the top left shelf there were different brands of detergent cakes. Another sh
 
 It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
-> [table] Why did Sujata carry a notebook? Do you think this system is
+> [table] Why did Sujata carry a notebook? Do you think this system is useful? Can there be problems?
 
 shops. Many of these are permanent shops, while others are roadside stalls such as that of the vegetable hawker, the fruit vendor, the mechanic, etc.
 
-> [table] useful? Can there be problems?
-
-> [table] What are the different kinds of shops that you find in your
+> [table] What are the different kinds of shops that you find in your neighbourhood? What do you purchase from them?
 
 Shops in the neighbourhood are useful in many ways. They are near our home and we can go there on any day of the week. Usually, the buyer and seller know each other and these shops also provide goods on credit. This means that you can pay for the purchases later, as we saw in Sujata’s case, for example.
-
-> [table] neighbourhood? What do you purchase from them?
 
 > [table] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
 
@@ -104,11 +100,9 @@ While wandering about on the third floor they entered a shop that was selling br
 
 Shopping complexes and malls
 
-> [table] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What
+> [table] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What would you say if someone stops you from entering a shop in a market?
 
 So far we have seen two kinds of marketplaces – weekly markets and markets in our neighbourhood. There are other markets in the urban area that have many shops, popularly called shopping complexes. These days, in many urban areas, you also have large multi-storeyed air-conditioned buildings with shops on different floors, known as malls. In these urban markets, you get both branded and non-branded goods. As you have read in the chapter on advertising,
-
-> [table] would you say if someone stops you from entering a shop in a market?
 
 <!-- page 81 (pdf 6) -->
 

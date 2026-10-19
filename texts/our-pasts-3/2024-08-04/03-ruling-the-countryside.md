@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2024-08-04/ch03.pdf"
 source_sha256: "6817da6ae0f9f68bc901deb274f2120dae47ddf27879d60a5cde3b4d8e5e67ba"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "f8b3b6244782071d075afc01164ab9ac9c118d02fedd79a382fb21f7b37587ee"
+body_fingerprint: "bdf3c420c1f5f771e2159bf87977fd3d462bbead1f2407d7009e4d08d3feeb1d"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -88,7 +88,9 @@ In the North Western Provinces of the Bengal Presidency (most of this area is no
 
 In the British territories in the South, there was a similar move away from the idea of Permanent Settlement. The new system that was devised came to be known as the ryotwar (or ryotwari ). It was tried on a small scale by Captain Alexander Read in some of the areas that were taken over by the Company after the wars with Tipu Sultan. Subsequently developed by Thomas Munro, this system was gradually extended all over south India.
 
-Read and Munro felt that in the south there were no traditional zamindars. The settlement, they argued, had to be made directly with the cultivators (ryots) who had tilled the land for generations. Their fields had to be carefully and separately surveyed before the revenue assessment was made. Munro thought that the British Mahal – In British revenue records, mahal is a revenue estate which may be a village or a group of villages.
+Read and Munro felt that in the south there were no traditional zamindars. The settlement, they argued, had to be made directly with the cultivators (ryots) who had tilled the land for generations. Their fields had to be carefully and separately surveyed before the revenue assessment was made. Munro thought that the British should act as paternal father figures protecting the ryots under their charge.
+
+Mahal – In British revenue records, mahal is a revenue estate which may be a village or a group of villages.
 
 > [caption] Fig. 4 – Thomas Munro, Governor of Madras (1819 –26)
 
@@ -99,8 +101,6 @@ Read and Munro felt that in the south there were no traditional zamindars. The s
 Imagine that you are a Company representative sending a report back to England about the conditions in rural areas under Company rule. What would you write?
 
 > [caption] Fig. 5 – A kalamkari print, twentieth-century India
-
-should act as paternal father figures protecting the ryots under their charge.
 
 ### All was not well
 
@@ -214,7 +214,7 @@ Why did the indigo peasants decide that they would no longer remain silent? What
 
 In 1859, the indigo ryots felt that they had the support of the local zamindars and village headmen in their rebellion against the planters. In many villages, headmen who had been forced to sign indigo contracts, mobilised the indigo peasants and fought pitched battles with the lathiyals. In other places even the zamindars went around villages urging the ryots to resist the planters. These zamindars were unhappy with the increasing power of the planters and angry at being forced by the planters to give them land on long leases.
 
-The indigo peasants also imagined that the British government would support them in their struggle against the planters. After the Revolt of 1857, the British government was particularly worried about the possibility of another popular rebellion. When the news spread of a simmering revolt in the indigo districts,
+The indigo peasants also imagined that the British government would support them in their struggle against the planters. After the Revolt of 1857, the British government was particularly worried about the possibility of another popular rebellion. When the news spread of a simmering revolt in the indigo districts, the Lieutenant Governor toured the region in the winter of 1859. The ryots saw the tour as a sign of government sympathy for their plight. When in Barasat, the magistrate Ashley Eden issued a notice stating that ryots would not be compelled to accept indigo contracts, word went around that Queen Victoria had declared that indigo need not be sown. Eden was trying to placate the peasants and control an explosive situation, but his action was read as support for the rebellion.
 
 > [table] Source 2
 
@@ -224,15 +224,19 @@ The indigo peasants also imagined that the British government would support them
 
 In the moments of struggle, people often sing songs to inspire each other and to build a sense of collective unity. Such songs give us a glimpse of their feelings. During the indigo rebellion, many such songs could be heard in the villages of lower Bengal. Here is one such song:
 
-The long lathis wielded by the planter of Mollahati / now lie in a cluster The babus of Kolkata have sailed down /to see the great fight This time the raiyats are all ready, / they will no longer be beaten in silence They will no longer give up their life / without fighting the lathiyals.
+The long lathis wielded by the planter of Mollahati / now lie in a cluster
+
+The babus of Kolkata have sailed down /to see the great fight
+
+This time the raiyats are all ready, / they will no longer be beaten in silence
+
+They will no longer give up their life / without fighting the lathiyals.
 
 <!-- page 36 (pdf 11) -->
 
 ### Activity
 
 Imagine you are a witness giving evidence before the Indigo Commission. W.S. Seton Karr asks you “On what condition will ryots grow indigo?” What will your answer be?
-
-the Lieutenant Governor toured the region in the winter of 1859. The ryots saw the tour as a sign of government sympathy for their plight. When in Barasat, the magistrate Ashley Eden issued a notice stating that ryots would not be compelled to accept indigo contracts, word went around that Queen Victoria had declared that indigo need not be sown. Eden was trying to placate the peasants and control an explosive situation, but his action was read as support for the rebellion.
 
 As the rebellion spread, intellectuals from Calcutta rushed to the indigo districts. They wrote of the misery of the ryots, the tyranny of the planters, and the horrors of the indigo system.
 

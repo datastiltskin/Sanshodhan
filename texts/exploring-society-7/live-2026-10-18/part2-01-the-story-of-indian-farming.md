@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch01.pdf"
 source_sha256: "6960d2e231f67d3c6e189c3c30cf25ec1958c31a6a248424d7ac0b0c565a550e"
 pdf_pages: 28
 printed_pages: "1-28"
-body_fingerprint: "4927cecc4207cf4617d514ff04740ad268785400f7f471ca5df9950beec858a0"
+body_fingerprint: "ecac38204f19ecfe830ec56569e73cfc692078d7ea78cdcb53a4b5a70dd11440"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -86,9 +86,7 @@ The Vedas also mention yava (barley), godhūma (wheat) and vrīhi (rice) as well
 
 > [caption] (Bottom) The same practice continuing in the 1960s, around 4800 years later!
 
-> [caption] Intercropping:
-
-> [caption] the practice of growing two or more different crops simultaneously
+> [caption] Intercropping: the practice of growing two or more different crops simultaneously
 
 <!-- page 5 (pdf 5) -->
 
@@ -96,7 +94,7 @@ The Vedas also mention yava (barley), godhūma (wheat) and vrīhi (rice) as well
 
 This period also saw the domestication of animals. Cattle, asses, sheep, goats, dogs, pigs, fowl, and other animals were domesticated from the pre-urban phase of the Sindhu-Sarasvatī civilisation (c. 3500 BCE).
 
-In the historical period, ancient Indian texts provide a wealth of information on agriculture. Kauṭilya’s Arthaśhāstra, the Sangam literature of the early Tamils, Amarakoṣha, Kṛiṣhiparāś hara, Varāhamihira’s Bṛihatsamhitā, and Surapāla’s Vṛikṣhāyurveda, among others, contain writings on agriculture, horticulture, and plant biodiversity. Some texts also refer to the rearing and care of animals.
+In the historical period, ancient Indian texts provide a wealth of information on agriculture. Kauṭilya’s Arthaśhāstra, the Sangam literature of the early Tamils, Amarakoṣha, Kṛiṣhiparāśhara, Varāhamihira’s Bṛihatsamhitā, and Surapāla’s Vṛikṣhāyurveda, among others, contain writings on agriculture, horticulture, and plant biodiversity. Some texts also refer to the rearing and care of animals.
 
 Surapāla’s Vṛikṣhāyurveda provides recommendations on seed preparation, soil cultivation methods, planting techniques, and more. “Seeds sprinkled with milk, rubbed with cow dung, dried and profusely smeared with maksika (honey) and bidanga (false black pepper) definitely sprout.” On watering of trees — “Newly planted trees in arid land should be watered every morning and evening for a period of fifteen days until the soil is fully soaked.” Further recommendations include irrigation methods for other types of soils. The Bṛihatsamhitā describes a method of grafting still in use today.
 
@@ -182,13 +180,9 @@ Each of these crop seasons presents its own unique challenges as well. For examp
 
 Prepare a list of the crops that are cultivated in your state or union territory in a year and classify them into kharif, rabi, and zaid.
 
-> [caption] Fig. 1.6. Rabi crops of mustard
+> [caption] Fig. 1.6. Rabi crops of mustard (in the foreground) and wheat (in the background)
 
-> [caption] Fig. 1.7. Pearl millet,
-
-> [caption] (in the foreground) and wheat a kharif crop
-
-> [caption] (in the background)
+> [caption] Fig. 1.7. Pearl millet, a kharif crop
 
 <!-- page 10 (pdf 10) -->
 
@@ -202,9 +196,21 @@ Soil is the thin, upper layer of the Earth’s crust that supports plant life. I
 
 ## How is soil formed?
 
-> [caption] Mineral fragments
+> [caption] Mineral fragments and organic matter
 
-> [caption] Organic matter Organic matter and organic matter Humus Top Soil Top Soil Parent material Disintegrating rock Bedrock Organic materials facilitate disintegration Bedrock begins to Developed soil supports thick vegetation Layers formed disintegrate Fig. 1.8. A simplified diagram of soil formation, a process that ranges from a century to several millennia Humus: Humus is the dark organic matter in soil that is formed by the decomposition of plant and animal matter.
+> [caption] Organic matter Organic matter
+
+> [caption] Humus
+
+> [caption] Top Soil Top Soil
+
+> [caption] Parent material Disintegrating rock
+
+> [caption] Bedrock
+
+> [caption] Organic materials facilitate disintegration Bedrock begins to disintegrate Developed soil supports thick vegetation Layers formed
+
+> [caption] Fig. 1.8. A simplified diagram of soil formation, a process that ranges from a century to several millennia Humus: Humus is the dark organic matter in soil that is formed by the decomposition of plant and animal matter.
 
 > [caption] It is rich in nutrients and retains moisture in the soil. Humus is the Latin word for ‘earth’ or ‘soil’.
 
@@ -240,33 +246,29 @@ Create a family food flowchart that connects your favourite dishes to the differ
 
 > [table] Silt: A fine-grained, dust-like sediment composed of rock and mineral particles that are larger than clay but smaller than sand. As a result, they are easily transported by rivers from the mountains to the plains.
 
-> [caption] Sandy soil: made up mostly of small grains Alpine soil: formed by the freezing and melting of ice which leads to weathering of of sand; when a little bit of water, air and organic matter mix, it becomes sandy soil rock; the soil is thin, rough and rocky ARABIAN SEA 0 250 500 750 km INDIAN OCEAN Black soil or Laterite soil or brick earth: formed by the Red soil: formed by Alluvial soil: Silt deposits cotton soil: formed by the weathering of volcanic rocks;
+> [caption] Sandy soil: made up mostly of small grains of sand; when a little bit of water, air and organic matter mix, it becomes sandy soil Alpine soil: formed by the freezing and melting of ice which leads to weathering of rock; the soil is thin, rough and rocky ARABIAN SEA 0 250 500 750 km INDIAN OCEAN Black soil or cotton soil: formed by the weathering of volcanic rocks; holds a lot of moisture and is very fertile Laterite soil or brick earth: formed by the weathering of rock by rain; becomes hard in hot weather.
 
-> [caption] weathering of lava weathering of rock
+> [caption] Red soil: formed by weathering of lava
 
-> [caption] (that has cooled slowly) or of old rocks;
+> [caption] Alluvial soil: Silt deposits
 
-> [caption] (mud, sand by rain; becomes hard in hot weather.
+> [caption] (that has cooled slowly) or of old rocks; they are red because they have a chemical called iron; when iron reacts with air and water it becomes reddish in colour; not very fertile
 
-> [caption] and other fine particles)
+> [caption] (mud, sand and other fine particles) brought by rivers from the mountains and plateaus; rich in nutrients Most minerals get washed away leaving largely iron and aluminium, react with air and water and give reddish colour; not fertile
 
-> [caption] they are red because they have a chemical called iron; when iron holds a lot of moisture and Most minerals get washed away leaving brought by rivers from the mountains is very fertile largely iron and aluminium, react with air and water and give reacts with air and water it becomes reddish in colour; not and plateaus;
-
-> [caption] rich in nutrients reddish colour; not very fertile fertile Fig. 1.9. A simplified map of the major soil types of India and their formation. Most regions will have local variations.
+> [caption] Fig. 1.9. A simplified map of the major soil types of India and their formation. Most regions will have local variations.
 
 <!-- page 13 (pdf 13) -->
 
 > [table] Bedrock: Bedrock refers to the original rock from which new rocks and soils are derived through weathering, erosion, and other processes.
 
-> [caption] maize*, bajra, groundnut, rice, tea, nutmeg, cardamom, vegetables and fruits vegetables and fruits ARABIAN SEA 0 250 500 750 km INDIAN OCEAN wheat, rice*, jowar (sorghum), rice, wheat*, ragi, groundnut, rice, wheat*, rice, wheat, maize, barley, ragi (finger millet, arhar dal (red gram), urad dal (black gram), sunflower, sunflower, tea, coffee, rubber, bajra* (pearl millet), chana dal (chickpea), linseed (flax), cinchona, coconut, areca nut, and cashew nut, yam, tapioca groundnuts and mustard*, cotton*, tobacco, groundnuts, cotton, sugarcane, mustard and groundnuts fruits and vegetables vegetables and
+> [caption] maize*, bajra, groundnut, vegetables and fruits rice, tea, nutmeg, cardamom, vegetables and fruits ARABIAN SEA 0 250 500 750 km INDIAN OCEAN wheat, rice*, jowar (sorghum), urad dal (black gram), sunflower, linseed (flax), groundnuts, cotton, sugarcane, fruits and vegetables rice, wheat*, ragi, groundnut, sunflower, tea, coffee, rubber, cinchona, coconut, areca nut, and cashew nut, yam, tapioca rice, wheat*, ragi (finger millet, arhar dal (red gram), groundnuts and mustard*, cotton*, tobacco, vegetables and fruits rice, wheat, maize, barley, bajra* (pearl millet), chana dal (chickpea), mustard and groundnuts
 
-> [caption] (peanut), sugarcane, jute, cotton*, fruits and fruits vegetables
+> [caption] (peanut), sugarcane, jute, cotton*, fruits and vegetables
 
 > [caption] *These crops are not here on the ideal soil for their cultivation, but can be grown with efficient irrigation.
 
-> [caption] Fig. 1.10. Some examples of crops grown in the different soil-type areas
-
-> [caption] (You need not remember all these details)
+> [caption] Fig. 1.10. Some examples of crops grown in the different soil-type areas (You need not remember all these details)
 
 <!-- page 14 (pdf 14) -->
 
@@ -316,11 +318,9 @@ The history of irrigation in India is very long. Right from the time of the Indu
 
 Some traditional irrigation systems include phad systems, and bamboo drip irrigation. Farmers also create small ponds that collect rainwater and provide moisture to the soil for a longer period of time.
 
-> [caption] Fig. 1.14. Bamboo irrigation system used in
+> [caption] Fig. 1.14. Bamboo irrigation system used in northeast India
 
 Phad systems are community-based irrigation systems, particularly found in the state of Maharashtra. These systems use small canals to divert river water to fields. Bamboo drip irrigation is practised in parts of northeastern India. Here, farmers traditionally use bamboo pipes to channel water from springs to their fields.
-
-> [caption] northeast India
 
 ### LET’S REMEMBER
 
@@ -374,9 +374,7 @@ Traditional farming typically involves small-scale, resource-reliant methods tha
 
 ICAR has documented almost 5000 traditional practices and tested over a hundred of them. It has been found that over 85 per cent of these practices were validated by modern science and could be applied to reduce the use of chemicals and enhancing soil health.
 
-> [caption] Fig. 1.17. Terrace farming in
-
-> [caption] Uttarakhand
+> [caption] Fig. 1.17. Terrace farming in Uttarakhand
 
 ### DON’T MISS OUT
 
