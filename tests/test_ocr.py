@@ -7,6 +7,15 @@ def row(block, par, line, word, left, top, width, height, conf, text):
     return f"5\t1\t{block}\t{par}\t{line}\t{word}\t{left}\t{top}\t{width}\t{height}\t{conf}\t{text}"
 
 
+def test_rupee_sign_read_as_tilde_is_mapped():
+    tsv = "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext\n"
+    words = ["Each", "loom", "costs", "~", "20,000,", "so", "a", "small", "weaver", "invests", "¥", "40,000.", "=", "1,800"]
+    for i, w in enumerate(words):
+        tsv += f"5\t1\t1\t1\t1\t{i+1}\t{100 + 60 * i}\t100\t50\t20\t95\t{w}\n"
+    blocks, _ = ocr.blocks_from_tsv(tsv, 0.24)
+    assert blocks[0].text == "Each loom costs ₹ 20,000, so a small weaver invests ₹ 40,000. ₹ 1,800"
+
+
 def test_blocks_from_tsv_groups_paragraphs_and_drops_noise():
     tsv = "\n".join([
         HEADER,
@@ -43,6 +52,12 @@ def test_restore_dropcap_uses_the_books_own_vocabulary():
     assert restore_dropcap(md, vocab, bigrams) == (md, None)
 
 
+def test_clean_outlined_keeps_dates_and_question_marks():
+    assert ocr.clean_outlined("(1526-1530),") == "(1526-1530),"
+    assert ocr.clean_outlined("?") == "?"
+    assert ocr.clean_outlined("|") == ""
+
+
 def test_clean_outlined():
     assert ocr.clean_outlined("pardes i |\n") == "pardes i"
     assert ocr.clean_outlined("EX€YIcise.") == "EXYIcise."
@@ -62,3 +77,12 @@ def test_snap_to_vocabulary_repairs_outlined_runs():
     assert snap("Jatt") == "Jati"
     assert snap("Sikhs,") == "Sikhs,"  # an unknown word with nothing close is left alone
     assert snap("and more diffi ifficult.") == "and more difficult."
+
+
+def test_strict_snap_only_fixes_one_letter_slips():
+    words = {"muqtis", "roam", "pasture", "flocks", "pastures", "flocked", "rama"}
+    index = ocr.vocabulary_index(words)
+    snap = lambda t: ocr.snap_to_vocabulary(t, index, words, strict=True)  # noqa: E731
+    assert snap("But unlike mugtis, most") == "But unlike muqtis, most"
+    assert snap("who roam from one pasture to another with their flocks") == "who roam from one pasture to another with their flocks"
+    assert snap("who roan from one pasturr") == "who roam from one pasture"  # one letter off a known word of the same length

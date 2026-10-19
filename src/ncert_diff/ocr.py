@@ -79,6 +79,8 @@ def blocks_from_tsv(tsv: str, scale: float) -> tuple[list[Block], float]:
             y0 = min(y0, top * scale)
             y1 = max(y1, bottom * scale)
         text = clean.join_lines(texts)
+        # Tesseract reads the rupee sign on these pages as "~" or "¥" before the amount.
+        text = re.sub(r"(?<![\w])[~¥=](?=\s?\d)", "₹", text)
         if not text or not clean.has_content(text):
             continue
         block_conf = [float(w["conf"]) for ws in lines.values() for w in ws if float(w["conf"]) >= 0]
@@ -122,15 +124,21 @@ def read_pages_ocr(pdf_path: Path) -> tuple[list[Page], float, float]:
     return pages, width, (statistics.fmean(confs) if confs else 0.0)
 
 
-_OUTLINED_JUNK = re.compile(r"[^A-Za-z0-9\u00C0-\u024F’'\"“”‘.,;:()\-\s]")
+_OUTLINED_JUNK = re.compile(r"[^A-Za-z0-9\u00C0-\u024F’'\"“”‘.,;:()?!\-\s]")  # question and exclamation marks are real text
 
 
 def clean_outlined(raw: str) -> str:
     """Tesseract's reading of an outlined word or line, with the symbols it hallucinates on
     italics and macrons removed ("pardes i |" -> "pardes i")."""
-    word = _OUTLINED_JUNK.sub("", raw).strip()
+    word = _OUTLINED_JUNK.sub("", raw).strip().lstrip("•·- ").strip()  # bullets and rules drawn beside the word
     word = re.sub(r"\s+", " ", word)
-    return word if sum(ch.isalpha() for ch in word) >= 2 else ""
+    # Two letters or digits make a word or a date ("(1526-1530),", "1494"); a lone question
+    # mark or exclamation mark ends a sentence the text layer left without one.
+    if sum(ch.isalnum() for ch in word) >= 2 or word in ("?", "!", "?)", "!)"):
+        return word
+    if len(word) <= 3 and any(ch.isalpha() for ch in word):
+        return word  # "s." finishing a word whose stem is in the text layer
+    return ""
 
 
 _TOKEN = re.compile(r"^([^A-Za-z]*)([A-Za-z][A-Za-z'’-]*)([^A-Za-z]*)$")
@@ -175,7 +183,15 @@ def _recase_parts(candidate: str, tokens: list[str]) -> str:
     return "-".join(_recase(part, tok.strip(".,;:!?") or "x") for part, tok in zip(parts, tokens))
 
 
-def snap_to_vocabulary(text: str, vocab: dict[int, list[str]], known: set[str]) -> str:
+def _one_letter_off(core: str, vocab: dict[int, list[str]]) -> str | None:
+    """A known word of the same length differing in exactly one letter ("mugtis" to
+    "muqtis"), for readings from an engine that is right far more often than not."""
+    low = core.lower()
+    hits = [w for w in vocab.get(len(low), ()) if sum(a != b for a, b in zip(low, w)) == 1]
+    return hits[0] if len(hits) == 1 else None
+
+
+def snap_to_vocabulary(text: str, vocab: dict[int, list[str]], known: set[str], strict: bool = False) -> str:
     """Pull an OCR'd outlined run towards words the book is known to use.
 
     The runs are italic lines whose glyphs were drawn as outlines; tesseract reads most of
@@ -186,6 +202,15 @@ def snap_to_vocabulary(text: str, vocab: dict[int, list[str]], known: set[str]) 
         return text
     tokens = text.split()
     cores = [m.group(2) if (m := _TOKEN.match(t)) else "" for t in tokens]
+    if strict:
+        # Vision reads the outlines well, so a word it did not find in the book is more
+        # likely a word the book's other editions do not hold than a misreading. Only a
+        # one-letter slip into a known word of the same length is corrected.
+        out = []
+        for tok, core in zip(tokens, cores):
+            better = _one_letter_off(core, vocab) if core and len(core) >= 4 and core.lower() not in known else None
+            out.append(tok.replace(core, _recase(better, core)) if better else tok)
+        return " ".join(out)
     # Whole run: "pardes i" -> "pardesi", "fi or" -> "for", "Minhaj 1 Siraj" -> "Minhaj-i-Siraj".
     if 2 <= len(tokens) <= 3 and all(cores) or (len(tokens) == 3 and tokens[1].isdigit()):
         letters = "".join(c for c in text if c.isalpha()).lower()
@@ -232,10 +257,44 @@ def vocabulary_index(words: set[str]) -> dict[int, list[str]]:
     return index
 
 
+def vision_available() -> bool:
+    """Apple's Vision framework, through the ocrmac package. macOS only."""
+    try:
+        import ocrmac  # noqa: F401
+    except ImportError:
+        return False
+    return True
+
+
+def _read_with_vision(page: pymupdf.Page, clip: pymupdf.Rect) -> str:
+    """One outlined run read by Apple Vision. It reads italic outlines that tesseract garbles
+    ("sawar", "pardesi", "flocks and herds.") and takes about 50 ms a run once warm."""
+    from PIL import Image
+    from ocrmac import ocrmac
+
+    pix = page.get_pixmap(dpi=600, clip=clip, colorspace=pymupdf.csRGB)
+    image = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
+    lines = ocrmac.OCR(image, recognition_level="accurate", language_preference=["en-US"]).recognize()
+    lines.sort(key=lambda item: (-round(item[2][1], 2), item[2][0]))  # top to bottom, then left to right
+    return " ".join(item[0] for item in lines)
+
+
+def _read_with_tesseract(page: pymupdf.Page, clip: pymupdf.Rect, png: Path, single_word: bool) -> str:
+    page.get_pixmap(dpi=600, clip=clip, colorspace=pymupdf.csGRAY).save(png)
+    proc = subprocess.run([TESSERACT, str(png), "stdout", "--psm", "8" if single_word else "7", "-l", "eng"], capture_output=True, text=True, errors="replace", check=False)
+    png.unlink(missing_ok=True)
+    return proc.stdout
+
+
 def outlined_reader(pdf_path: Path, vocab: set[str] | None = None):
     """A callable that OCRs a small page rectangle (an outlined word), cached per PDF.
+
+    Apple Vision is used where it is available, tesseract otherwise (in single-word mode for
+    runs up to about eight characters, which reads "sawar" where line mode gave "SQAUWAaT").
+    The cache key names the engine and mode, so a reading made another way is not reused.
     With `vocab` (words the book uses elsewhere) the reading is snapped to known words."""
-    if not available():
+    use_vision = vision_available()
+    if not use_vision and not available():
         return None
     cache_path = pdf_path.parent / "ocr" / f"{pdf_path.stem}-outlined.json"
     cache: dict[str, str] = json.loads(cache_path.read_text()) if cache_path.exists() else {}
@@ -243,22 +302,23 @@ def outlined_reader(pdf_path: Path, vocab: set[str] | None = None):
     known = vocab or set()
 
     def read(page: pymupdf.Page, rect: pymupdf.Rect) -> str | None:
-        key = f"{page.number}:{round(rect.x0)}:{round(rect.y0)}:{round(rect.x1)}:{round(rect.y1)}"
+        single_word = rect.width <= 90
+        key = f"{page.number}:{round(rect.x0)}:{round(rect.y0)}:{round(rect.x1)}:{round(rect.y1)}" + (":v" if use_vision else ":w" if single_word else "")
         if key in cache:
-            return snap_to_vocabulary(cache[key], index, known) or None
+            return snap_to_vocabulary(cache[key], index, known, strict=use_vision) or None
         clip = (rect + (-4, -4, 4, 4)) & page.rect
         if clip.is_empty or clip.width < 3 or clip.height < 3:
             cache[key] = ""
             return None
         cache_path.parent.mkdir(parents=True, exist_ok=True)
-        png = cache_path.parent / f"{pdf_path.stem}-outlined.png"
-        page.get_pixmap(dpi=600, clip=clip, colorspace=pymupdf.csGRAY).save(png)
-        proc = subprocess.run([TESSERACT, str(png), "stdout", "--psm", "7", "-l", "eng"], capture_output=True, text=True, check=False)
-        png.unlink(missing_ok=True)
-        word = clean_outlined(proc.stdout)
+        if use_vision:
+            raw = _read_with_vision(page, clip)
+        else:
+            raw = _read_with_tesseract(page, clip, cache_path.parent / f"{pdf_path.stem}-outlined.png", single_word)
+        word = clean_outlined(raw)
         cache[key] = word  # the raw reading is cached; snapping happens on the way out
         cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0))
-        return snap_to_vocabulary(word, index, known) or None
+        return snap_to_vocabulary(word, index, known, strict=use_vision) or None
 
     return read
 
