@@ -160,3 +160,9 @@ Class 8 for reference: 1980 History and Civics, 1989 Modern India, 2004 India an
   and the Digital Library of India scans listed above. Useful as a cross-check, not a primary
   source, since upload dates are missing.
 - ePathshala (epathshala.nic.in) mirrors the current books as flipbooks. Not used.
+- rungtaias.org/free-resources serves copies of NCERT's chapter files for classes 6 to 12.
+  The first-page footer of most of its chapters reads "2015-16"; a few chapters carry no
+  footer and cannot be dated from the site. Its Our Pasts II and Social and Political Life
+  III files are identical to the December 2014 printing already held from the Wayback
+  Machine and are recorded as the `rungtaias-2015-16` snapshots. It has no Class 8 history
+  book. Checked October 2026.

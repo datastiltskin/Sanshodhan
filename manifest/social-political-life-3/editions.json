@@ -238,7 +238,8 @@
       "id": "2016-09-10",
       "fingerprint": "fa11caec5e8efca6078e6b3251eec04c466d81b830141f94d83b4d8e818f9537",
       "snapshots": [
-        "2016-09-10"
+        "2016-09-10",
+        "rungtaias-2015-16"
       ],
       "prelims": {
         "single": {

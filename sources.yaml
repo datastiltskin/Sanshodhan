@@ -43,6 +43,19 @@ books:
       - { label: "2018-partial", wayback: "20180827000000", url: "https://ncert.nic.in/textbook/pdf/gess103.pdf" }
       - { label: "2018-partial", wayback: "20181123000000", url: "https://ncert.nic.in/textbook/pdf/gess104.pdf" }
       - { label: "2018-partial", wayback: "20181123000000", url: "https://ncert.nic.in/textbook/pdf/gess109.pdf" }
+      # Third-party mirror (an IAS coaching site) serving NCERT's own chapter files from the
+      # 2015-16 session. Kept as evidence of that session's text; see docs/sources.md.
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess101.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess102.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess103.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess104.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess105.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess106.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess107.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess108.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess109.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess110.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess1ps.pdf" }
 
   our-pasts-3:
     class: 8
@@ -90,6 +103,19 @@ books:
       - { label: "2023-02-10-partial", wayback: "20221207000000", url: "https://ncert.nic.in/textbook/pdf/hess307.pdf" }
       - { label: "2023-02-10-partial", wayback: "20230210000000", url: "https://ncert.nic.in/textbook/pdf/hess308.pdf" }
       - { label: "2023-02-10-partial", wayback: "20230208000000", url: "https://ncert.nic.in/textbook/pdf/hess310.pdf" }
+      # Third-party mirror (an IAS coaching site) serving NCERT's own chapter files from the
+      # 2015-16 session. Kept as evidence of that session's text; see docs/sources.md.
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess301.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess302.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess303.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess304.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess305.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess306.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess307.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess308.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess309.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess310.pdf" }
+      - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%208/Class%208%20Social%20and%20Political%20Life/hess3ps.pdf" }
       - { label: "2023-12-23", wayback: "20231223073449", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
       # Same digest is served through 2025 and 2026 captures.
       - { label: "2024-05-24", wayback: "20240524024219", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }

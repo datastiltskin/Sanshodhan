@@ -4,6 +4,7 @@ book_title: "Social and Political Life III"
 edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
+  - "rungtaias-2015-16"
 chapter: 2
 title: "Understanding Secularism"
 source_pdf: "pdfs/social-political-life-3/2016-09-10/ch02.pdf"

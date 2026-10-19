@@ -4,6 +4,7 @@ book_title: "Our Pasts II"
 edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
+  - "rungtaias-2015-16"
   - "2017-partial"
 chapter: 9
 title: "THE MAKING OF REGIONAL CULTURES"

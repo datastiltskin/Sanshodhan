@@ -23,6 +23,9 @@ site, with the traps met on the way. Follow them in order for each new book.
   part has its own code and zips. If a year has no zip, per-chapter captures may exist
   (`<code>01.pdf` and so on); fetch them as a `-partial` snapshot and the pipeline folds
   them into whichever full edition they match.
+- A copy of a chapter file found elsewhere can be added as a snapshot with plain URLs and no
+  `wayback` key, but only once the first-page session footer has dated it. A file without a
+  footer is not evidence of any particular printing.
 - Record the lineage from NCERT's library catalogue
   (`https://ncert.nic.in/ncertldd/collection/pdf/Textbooks.pdf`) in `docs/sources.md`, so
   the pre-2007 books are known even when no digital copy exists.
