@@ -7,11 +7,6 @@
   replace: "(1588-1629); and"
   note: "doubled semicolon in the Elsewhere box on page 57, the page has one"
 - snapshot: "*"
-  chapter: 5
-  find: "defeated the Importance of water king, Sena I"
-  replace: "defeated the king, Sena I"
-  note: "margin note title 'Importance of water' glued into the sentence that crosses page 65 to 66, the title already stands on its own line (every 2016 to 2021 snapshot shares this page)"
-- snapshot: "*"
   chapter: "*"
   find: "These are to remind you of important ideas/ themes introduced There is a lot to read, see, think about and do in this book. We hope you will enjoy it.\n\n- in the lesson."
   replace: "These are to remind you of important ideas/ themes introduced in the lesson."
@@ -71,11 +66,6 @@
   find: "is its rich Fig.7"
   replace: "is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.\n\n> [caption] Fig. 7 Akbar recieving the Akbar Nama from Abul Fazl."
   note: "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it"
-- snapshot: "2022-08-04"
-  chapter: 5
-  find: "Notice how the names A royal architect of the ruler"
-  replace: "Notice how the names of the ruler"
-  note: "margin box title 'A royal architect' glued into the sentence on page 64, the sentence runs on from page 63"
 - snapshot: "2022-08-04"
   chapter: 7
   find: "the daughter of Dalpat, however, died early. Rani Durgawati"
@@ -233,11 +223,6 @@
   note: "letter-spaced column on page 62 read as broken words, the page reads 'worshipped in different areas came to be identified with Shiva, Vishnu or Durga.'"
 - snapshot: "2024-05-24"
   chapter: 6
-  find: "Bhagavata Purana1. He also encouraged the establishment\n\nfo satra monasteries"
-  replace: "Bhagavata Purana. He also encouraged the establishment\n\nof satra or monasteries"
+  find: "Bhagavata Purana1. He also encouraged the establishment fo satra monasteries"
+  replace: "Bhagavata Purana. He also encouraged the establishment of satra or monasteries"
   note: "note on page 71 reads 'Bhagavata Purana. He also encouraged the establishment of satra or monasteries', the '1' is a stray mark and 'of' was misread as 'fo' with 'or' lost"
-- snapshot: "2024-05-24"
-  chapter: 7
-  find: "Many of the modest brick Why do you think"
-  replace: "Many of the modest brick\n\nWhy do you think"
-  note: "the blue question on page 89 is a separate box and had been read into the paragraph, which continues 'and terracotta temples' on page 90"
