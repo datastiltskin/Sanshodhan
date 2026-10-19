@@ -260,6 +260,7 @@ def process_book(book: Book, *, log=print) -> Path:
                     "role_counts": meta["role_counts"],
                     "ocr": meta.get("ocr", False),
                     "ocr_confidence": meta.get("ocr_confidence"),
+                    "ocr_pages": meta.get("ocr_pages"),
                 }
             )
         prelims_meta: dict[int | None, Prelims] = {}
@@ -286,16 +287,17 @@ def process_book(book: Book, *, log=print) -> Path:
                     log(f"  drop cap restored in chapter {ch['number']}: {fixed}")
                     ch["fingerprint"] = _sha(body_text(ch["markdown"]))
 
-    # Titles lost to unmapped fonts: borrow from the nearest snapshot that has one.
+    # Titles lost to unmapped fonts, or read by OCR from a display face ("A Shirt in We"):
+    # borrow from the nearest snapshot with a real text layer.
     labels = sorted(extracted)
     for i, label in enumerate(labels):
         for ch in extracted[label]["chapters"]:
-            if ch["title"]:
+            if ch["title"] and not ch.get("ocr"):
                 continue
             for other in sorted(labels, key=lambda o: abs(labels.index(o) - i)):
                 if other == label:
                     continue
-                match = next((c for c in extracted[other]["chapters"] if c["number"] == ch["number"] and c["part"] == ch["part"] and c["title"]), None)
+                match = next((c for c in extracted[other]["chapters"] if c["number"] == ch["number"] and c["part"] == ch["part"] and c["title"] and not c.get("ocr")), None)
                 if match:
                     ch["title"] = match["title"]
                     ch["title_borrowed_from"] = other
@@ -364,11 +366,12 @@ def process_book(book: Book, *, log=print) -> Path:
                     "body_fingerprint": ch["fingerprint"],
                     "ocr": True if ch.get("ocr") else None,
                     "ocr_confidence": ch.get("ocr_confidence") if ch.get("ocr") else None,
+                    "ocr_pages": ch.get("ocr_pages"),
                 }
             )
             (out_dir / fname).write_text(fm + ch["markdown"], encoding="utf-8")
             chapter_records.append(
-                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts", "ocr", "ocr_confidence")}
+                {k: ch[k] for k in ("part", "number", "title", "pdf", "pdf_pages", "printed_pages", "fingerprint", "role_counts", "ocr", "ocr_confidence", "ocr_pages")}
                 | ({"title_borrowed_from": ch["title_borrowed_from"]} if ch.get("title_borrowed_from") else {})
                 | {"file": str((out_dir / fname).relative_to(TEXTS_DIR.parent))}
             )

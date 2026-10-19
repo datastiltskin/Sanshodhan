@@ -28,6 +28,10 @@ CHAPTER_NUMBER = re.compile(r"^(\d{1,2})\b|\b(\d{1,2})$")
 SESSION_LABEL = re.compile(r"(Reprint|Rationalised)?\s*20\d\d-\d\d")  # "2018-19" print-run footers
 # Running titles set at body size: "32 Social and Political Life", "Chapter 3: How the State Government Works 31".
 RUNNING_TITLE = re.compile(r"^(?:\d{1,3}\s+[A-Z][^.?!]{3,55}|[A-Z][^.?!]{3,55}\s\d{1,3}|Chapter \d{1,2}: [A-Z][^.?!]{3,55})$")
+# Some re-exported files (the 2024-25 Class 7 civics) carry fonts whose Unicode map lands the
+# typographic quotes and dashes on nearby Latin-1 or Latin Extended-A code points.
+QUOTE_SHIFT = str.maketrans({"¶": "‘", "·": "’", "´": "“", "µ": "”", "²": "–", "³": "—", "ī": "‘", "Ĭ": "’", "Į": "“", "į": "”", "ĩ": "–", "ŏ": "’", "ő": "“", "«": "…", "§": "‘", "Œ": "”"})
+_SHIFTED_APOSTROPHE = re.compile(r"[·Ĭ]s\b")  # "women·s", "RamabaiĬs"
 UNREADABLE = "[unreadable]"  # text set in a font without a Unicode map comes out as blanks
 # Headings that label a unit or chapter rather than name it. Not titles, not evidence of a chapter opener.
 LABEL_HEADING = re.compile(r"^(unit\s+\w+|chapter\s*\d*|contents|notes|teacher[’']s note)[\s:.-]*$", re.IGNORECASE)
@@ -70,6 +74,7 @@ class Page:
     index: int  # zero-based pdf page
     printed_number: int | None
     blocks: list[Block] = field(default_factory=list)
+    ocr: bool = False  # a rasterised page inside a text PDF, read with tesseract
     source: str | None = None  # file name when the page was carried over from another chapter PDF
 
 
@@ -152,12 +157,28 @@ def outlined_word_rects(page: pymupdf.Page) -> list[pymupdf.Rect]:
     return [r for r in runs if r.width >= 12 and 6 <= r.height <= 30]
 
 
-def read_blocks(page: pymupdf.Page, read_outlined: OutlinedReader | None = None) -> list[Block]:
+def read_blocks(page: pymupdf.Page, read_outlined: OutlinedReader | None = None, font_fixes: dict[str, dict] | None = None) -> list[Block]:
     """Text blocks with rotated (watermark) lines removed and lines joined."""
     textpage = page.get_text("dict")
     if read_outlined is not None:
         _fill_outlined_words(page, textpage, outlined_word_rects(page), read_outlined)
-    return blocks_from_dict(textpage)
+    return blocks_from_dict(textpage, font_fixes)
+
+
+def shifted_quote_fonts(doc: pymupdf.Document) -> dict[str, dict]:
+    """Fonts to repair in a document whose quotes come out as "women·s" or "RamabaiĬs":
+    font name -> translation table. The symptom is judged over the whole document (a
+    chapter has a few dozen apostrophes spread over many fonts). Fonts that do produce a
+    real apostrophe are left alone."""
+    texts: dict[str, list[str]] = {}
+    for page in doc:
+        for raw in page.get_text("dict")["blocks"]:
+            for ln in raw.get("lines", []):
+                for sp in ln["spans"]:
+                    texts.setdefault(sp["font"], []).append(sp["text"])
+    if len(_SHIFTED_APOSTROPHE.findall(" ".join(t for parts in texts.values() for t in parts))) < 2:
+        return {}
+    return {font: QUOTE_SHIFT for font, parts in texts.items() if "’" not in " ".join(parts)}
 
 
 def _fill_outlined_words(page: pymupdf.Page, textpage: dict, rects: list[pymupdf.Rect], read_outlined: OutlinedReader) -> None:
@@ -215,7 +236,7 @@ def _fill_outlined_words(page: pymupdf.Page, textpage: dict, rects: list[pymupdf
             text_blocks.append(textpage["blocks"][-1])
 
 
-def blocks_from_dict(textpage: dict) -> list[Block]:
+def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) -> list[Block]:
     out: list[Block] = []
     for raw in textpage["blocks"]:
         if raw["type"] != 0:
@@ -233,6 +254,8 @@ def blocks_from_dict(textpage: dict) -> list[Block]:
             ln["spans"] = [sp for sp in ln["spans"] if not ICON_FONT.search(sp["font"])]
             for sp in ln["spans"]:
                 sp["text"] = decode_symbol_font(sp["text"])
+                if font_fixes and sp["font"] in font_fixes:
+                    sp["text"] = sp["text"].translate(font_fixes[sp["font"]])
         for spans in _dedupe_shadow_spans(lines):
             joined = _join_spans(spans)
             if not joined.strip() and any(len(sp["text"]) >= 3 and sp["bbox"][2] - sp["bbox"][0] > 20 for sp in spans):
@@ -389,18 +412,61 @@ def _read_all_pages(pdf_path: Path) -> tuple[list[Page], float]:
     reader = outlined_reader(pdf_path)
     pages: list[Page] = []
     width = 600.0
+    rasterised: set[int] = set()
     with pymupdf.open(pdf_path) as doc:
         raw = []
+        font_fixes = shifted_quote_fonts(doc)
         for i, page in enumerate(doc):
             if i == 0:
                 width = page.rect.width
-            raw.append((i, read_blocks(page, reader), page.rect.width, page.rect.height))
-    body_size = font_profile([blocks for _, blocks, _, _ in raw])
+            blocks = read_blocks(page, reader, font_fixes)
+            if all(b.font == "OUTLINED" for b in blocks) and _is_page_image(page):
+                # A few pages of an otherwise normal file are flat images (2024-25 Class 7
+                # civics has three). They are read the way whole image-only files are.
+                blocks = _ocr_page_blocks(pdf_path, i)
+                rasterised.add(i)
+            raw.append((i, blocks, page.rect.width, page.rect.height))
+    body_size = font_profile([blocks for i, blocks, _, _ in raw if i not in rasterised])
     for i, blocks, w, h in raw:
-        printed = classify(blocks, w, h, body_size)
-        pages.append(Page(i, printed, blocks))
+        if i in rasterised:
+            # Sizes guessed from OCR line heights do not match the real fonts, so an OCR'd
+            # page is judged against its own commonest size.
+            printed = classify(blocks, w, h, _commonest_size(blocks) or body_size)
+        else:
+            printed = classify(blocks, w, h, body_size)
+        pages.append(Page(i, printed, blocks, ocr=i in rasterised))
     fix_page_numbers(pages)
     return pages, width
+
+
+def _commonest_size(blocks: list[Block]) -> float | None:
+    votes: Counter = Counter()
+    for b in blocks:
+        votes[b.size] += len(b.text)
+    return votes.most_common(1)[0][0] if votes else None
+
+
+def _is_page_image(page: pymupdf.Page, min_cover: float = 0.7) -> bool:
+    """True when one image covers most of the page (a rasterised page)."""
+    area = page.rect.width * page.rect.height
+    for info in page.get_image_info():
+        x0, y0, x1, y1 = info["bbox"]
+        if (max(0.0, x1 - x0) * max(0.0, y1 - y0)) >= min_cover * area:
+            return True
+    return False
+
+
+def _ocr_page_blocks(pdf_path: Path, index: int) -> list[Block]:
+    from . import ocr  # lazy: tesseract is optional
+
+    if not ocr.available():
+        return []
+    tsv = ocr._tsv_for_page(pdf_path, index, pdf_path.parent / "ocr")
+    blocks, _ = ocr.blocks_from_tsv(tsv, 72.0 / ocr.DPI)
+    for b in blocks:
+        b.size = round(b.size)
+        b.max_size = b.size
+    return blocks
 
 
 def has_text_layer(pdf_path: Path, min_chars_per_page: int = 200) -> bool:
@@ -722,6 +788,8 @@ def _render(pages: list[Page], width: float) -> tuple[str, dict]:
         "printed_pages": f"{min(printed)}-{max(printed)}" if printed else None,
         "role_counts": dict(Counter(b.role for p in pages for b in p.blocks)),
     }
+    if any(p.ocr for p in pages):
+        meta["ocr_pages"] = [p.index + 1 for p in pages if p.ocr]
     return to_markdown(pages, width), meta
 
 

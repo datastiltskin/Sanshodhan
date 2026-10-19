@@ -5,7 +5,7 @@ edition: "2022-08-04-ocr"
 snapshots:
   - "2022-08-04"
 chapter: 1
-title: "Tracing Changes Through A Thousand Years"
+title: "TRACING CHANGES THROUGH A THOUSAND YEARS"
 source_pdf: "pdfs/our-pasts-2/2022-08-04/ch01.pdf"
 source_sha256: "ab8424cf182be51c45571239102ccc71bae13066b98f5338f4e5138a169b8564"
 pdf_pages: 15

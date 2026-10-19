@@ -116,6 +116,16 @@ def test_session_label_is_not_a_page_number():
     assert blocks[-1].role == "footer" and printed is None
 
 
+def test_shifted_quotes_are_repaired_per_font():
+    fixes = {"CIDFont+F5": extract.QUOTE_SHIFT}
+    blocks, _ = _page([
+        ("Teacher·s note on ¶health· ² and ´equality.µ", 12.0, 80, 100, "CIDFont+F5"),
+        ("Teacher·s note", 12.0, 80, 300, "Bookman-Light"),
+    ], font_fixes=fixes)
+    assert blocks[0].text == "Teacher’s note on ‘health’ – and “equality.”"
+    assert blocks[1].text == "Teacher·s note"  # a font not in the fix list is untouched
+
+
 def test_chapter_title_skips_unit_opener_and_teachers_note():
     def page(index, spec):
         blocks, printed = _page(spec)

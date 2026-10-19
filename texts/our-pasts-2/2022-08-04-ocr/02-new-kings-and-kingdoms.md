@@ -5,7 +5,7 @@ edition: "2022-08-04-ocr"
 snapshots:
   - "2022-08-04"
 chapter: 2
-title: "New Kings And Kingdoms"
+title: "NEW KINGS AND KINGDOMS"
 source_pdf: "pdfs/our-pasts-2/2022-08-04/ch02.pdf"
 source_sha256: "08fd7867d06e6381e60c67529437a10cfdf6c5d934c6f534b860312f55df929b"
 pdf_pages: 14
