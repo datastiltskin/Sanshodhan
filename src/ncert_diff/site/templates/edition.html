@@ -27,7 +27,7 @@
 <p>Read the original: these are the files this text was taken from, as published by NCERT and as archived.</p>
 <ul class="sources">
 {% for f in sources %}
-  <li>{{ f.path.split('/')[2] }}: <a href="{{ f.source_url }}">NCERT URL</a>{% if f.wayback %} · <a href="{{ f.download_url }}">Wayback Machine capture {{ f.wayback[:4] }}-{{ f.wayback[4:6] }}-{{ f.wayback[6:8] }}</a>{% endif %} <small>sha256 {{ f.sha256[:12] }}</small></li>
+  <li>{{ f.path.split('/')[2] }}: <a href="{{ f.source_url }}">NCERT URL</a>{% if f.wayback %}, <a href="{{ f.download_url }}">Wayback Machine capture {{ f.wayback[:4] }}-{{ f.wayback[4:6] }}-{{ f.wayback[6:8] }}</a>{% endif %} <small>sha256 {{ f.sha256[:12] }}</small></li>
 {% endfor %}
 </ul>
 {% endblock %}

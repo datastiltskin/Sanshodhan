@@ -81,7 +81,7 @@ Things seen so far:
 - A few rasterised pages inside a file that otherwise has a text layer (three pages in the
   2024-25 Social and Political Life II files). They are OCR'd one page at a time and listed
   as `ocr_pages` in the front matter. Expect some reading errors on those pages.
-- Fonts whose quotes come out as "women·s" or "RamabaiĬs" (the 2024-25 Social and Political
+- Fonts whose apostrophes come out as a middle dot or as "RamabaiĬs" (the 2024-25 Social and Political
   Life II files, re-exported with generic `CIDFont+F*` names). Repaired automatically when a
   file shows the pattern. If a new file shows middle dots or Latin Extended letters where
   apostrophes belong, extend `QUOTE_SHIFT` in `extract.py`.

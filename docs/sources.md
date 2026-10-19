@@ -113,7 +113,7 @@ What the downloaded zips turned out to contain:
   extractor splits the second file and keeps the first copy of chapter 7.
 - Social and Political Life II 2024-05-24: a re-export with generic `CIDFont+F1` font names
   whose Unicode maps put the typographic quotes and dashes on Latin-1 and Latin Extended-A
-  code points ("women·s", "RamabaiĬs"). Three pages (the chapter 1 opener, page 14, and the
+  code points (apostrophes become middle dots, "RamabaiĬs"). Three pages (the chapter 1 opener, page 14, and the
   road-safety poster at the back) are flat images and are OCR'd. Each unit opener and
   teacher's note sits at the end of the previous chapter's file rather than the start of its
   own; the extractor moves those pages to the chapter they introduce.
