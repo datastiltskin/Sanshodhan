@@ -240,6 +240,8 @@ Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:
@@ -276,6 +278,8 @@ The Buddha namghar Shankaradeva worship of Vishnu Nizamuddin Auliya questioned s
 
 9. Why do you think ordinary people preserved the memory of Mirabai?
 
+<!-- section: glossary -->
+
 KEYWORDS
 
 Virashaivism bhakti
@@ -283,6 +287,8 @@ Virashaivism bhakti
 > [caption] Sufi khangah
 
 <!-- page 78 (pdf 18) -->
+
+<!-- section: exercises -->
 
 ### Let’s do
 

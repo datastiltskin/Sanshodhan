@@ -209,6 +209,8 @@ Many individuals and thinkers were thus thinking about the way a national educat
 
 <!-- page 76 (pdf 12) -->
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 Imagine you were witness to a debate between Mahatma Gandhi and Macaulay on English education. Write a page on the dialogue you heard.

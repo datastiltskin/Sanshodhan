@@ -165,6 +165,8 @@ Look at Sources 1 and 2. Do you find any differences in the nature of reporting?
 
 <!-- page 8 (pdf 8) -->
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 Imagine that you are a historian wanting to find out about how agriculture changed in a remote tribal area after independence. List the different ways in which you would find information on this.

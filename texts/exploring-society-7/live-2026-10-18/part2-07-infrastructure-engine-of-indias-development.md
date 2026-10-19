@@ -26,6 +26,8 @@ A developed India will be one where urban and rural areas have the same infrastr
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 > [caption] Fig. 7.1. State-of-the-art physical infrastructure

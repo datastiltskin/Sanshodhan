@@ -266,6 +266,8 @@ By 1857, the Company came to exercise direct rule over about 63 per cent of the 
 
 <!-- page 24 (pdf 16) -->
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 You are living in England in the late eighteenth or early nineteenth century. How would you have reacted to the stories of British conquests? Remember that you would have read about the immense fortunes that many of the officials were making.

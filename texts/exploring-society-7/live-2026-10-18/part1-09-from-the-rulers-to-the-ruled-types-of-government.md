@@ -28,6 +28,8 @@ Kauṭilya in Arthaśhāstra (translation by L.N. Rangarajan)
 
 > [note] The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 186 (pdf 2) -->

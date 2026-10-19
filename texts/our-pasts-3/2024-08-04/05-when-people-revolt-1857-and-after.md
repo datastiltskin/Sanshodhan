@@ -222,6 +222,8 @@ However, outside Khurda it was sustained by Buxi Jagabandhu with the help of sup
 
 In sum, it was the first such popular anti-British armed uprising in Orissa, which had far reaching effect on the future of British administration in that part of the country. To merely call it a ‘Paik Rebellion’ will thus be an understatement.
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 ## Let’s imagine

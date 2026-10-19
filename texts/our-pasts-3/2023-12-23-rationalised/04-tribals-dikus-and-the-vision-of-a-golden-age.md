@@ -183,6 +183,8 @@ When Birsa was released in 1897, he began touring the villages to gather support
 
 In 1900, Birsa died of cholera and the movement faded out. However, the movement was significant in at least two ways. First – it forced the colonial government to introduce laws so that the land of the tribals could not be easily taken over by dikus. Second – it showed once again that the tribal people had the capacity to protest against injustice and express their anger against colonial rule. They did this in their own specific way, inventing their own rituals and symbols of struggle.
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Fill in the blanks:

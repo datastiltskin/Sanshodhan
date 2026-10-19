@@ -202,6 +202,8 @@ Brahmanas were not allowed to eat non-vegetarian food, but the popularity of fis
 
 You are a Rajput prince. How would you like your story to be told?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 > [note] 1. Match the following:

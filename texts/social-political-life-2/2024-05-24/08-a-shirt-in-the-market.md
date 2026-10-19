@@ -196,6 +196,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 
 <!-- page 95 (pdf 10) -->
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 1. Swapna sells the cotton to the trader. 2. Customers buy these shirts in a supermarket. 3. Trader sells cotton to the Ginning Mill. 4. Garment exporters buy the cloth from merchants for making shirts. 5. Yarn dealers or merchants give the yarn to the weavers. 6. The exporter sells shirts to the businessperson from the USA. 7.Spinning mill buys the cotton and sells yarn to the yarn dealers. 8.Weavers return with the cloth. 9. Ginning mill cleans the cotton and makes it into bales.
@@ -216,6 +218,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 
 > [note] or an or
 
+<!-- section: glossary -->
+
 > [note] Glossary
 
 > [caption] Ginning mill: A factory where seeds are removed from cotton bolls. The cotton is pressed into bales to be sent for spinning into thread.
@@ -225,6 +229,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 > [caption] Profit: The amount that is left or gained from earnings after deducting all the costs. If the costs are more than the earnings, it would lead to a loss.
 
 <!-- page 96 (pdf 11) -->
+
+<!-- section: references -->
 
 ## References
 

@@ -285,6 +285,8 @@ Having learned that there was to be sale of cattle, farm-stock, etc by auction, 
 
 > [table] Quoted in Nigel Wordon et. al., The Chains that Bind us: a History of Slavery at the Cape, 1996.
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 ## Let’s recall

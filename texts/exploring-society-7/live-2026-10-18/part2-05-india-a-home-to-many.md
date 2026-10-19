@@ -34,6 +34,8 @@ Learn to make the whole world your own. No one is a stranger, my child; the whol
 
 1. What has made India a home for people from different parts of the world? 2. Why did oppressed or persecuted people from other countries seek refuge in India? 3. What is it about the nature of Indian society that enables people to assimilate here?
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 126 (pdf 2) -->

@@ -18,6 +18,8 @@ ocr_confidence: 88.2
 
 <!-- page 3 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 > [table] Teacher’s note
 
 This Unit introduces the learner to the critical role of equality in democracy, with specific reference to India. The Constitution of India guarantees equality to all citizens. Despite this, the daily lives of people in India are far from equal. Earlier discussions on equality in Civics textbooks most often reiterated certain provisions of the Constitution without adequately considering the reality of these in people’s lives. This Unit adopts a different approach. It discusses the need for equality through highlighting the inequalities that continue to be practised and experienced by various communities.
@@ -215,6 +217,8 @@ What do you understand by the term “all persons are equal before the law’? W
 According to the Rights of Persons with Disabilities Act, 2016, persons with disabilities have equal rights, and that the government should make possible their full participation in society. The government has to provide free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.
 
 Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?
+
+<!-- section: glossary -->
 
 Glossary
 

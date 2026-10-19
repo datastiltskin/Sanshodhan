@@ -241,6 +241,8 @@ Find out more about Akbar’s other contemporaries - the ruler of Imagine You ha
 
 > [table] ©/ England, Queen Elizabeth | (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:

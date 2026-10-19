@@ -23,6 +23,8 @@ body_fingerprint: "1b319c2a3b8a6002ce73be88609665aa5457683f4ead6556e25eb34c40210
 
 ## Markets
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 These two chapters focus on aspects of life and commercial cycles associated with markets. While some of these processes may be visible and, therefore, easily observable, there are also others that are relatively unfamiliar.
@@ -159,6 +161,8 @@ Sustainable Development Goal (SDG) www.in.undp.org this chain that what is produ
 
 <!-- page 85 (pdf 12) -->
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. In what ways is a hawker different from a shop owner?
@@ -176,6 +180,8 @@ Market Kind of goods sold Prices of goods Sellers Buyers
 > [caption] 4. ‘All persons have equal rights to visit any shop in a marketplace.’ Do you think this is true of shops with expensive products? Explain with examples.
 
 > [caption] 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

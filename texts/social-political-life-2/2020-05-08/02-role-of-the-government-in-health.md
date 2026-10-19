@@ -21,6 +21,8 @@ body_fingerprint: "a4b73464999cdd12443fad8aa5608d522b5036a003cc82b922684b758f13d
 
 # State Government
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 These two chapters (Chapters 2 and 3) on State Government are an attempt to discuss the functions and structure of government through concrete situations. We have chosen ‘health’ as an example; there could have been other, equally important, choices.
@@ -251,6 +253,8 @@ Costa Rica is considered to be one of the healthiest countries in Central Americ
 
 Sustainable Development Goal (SDG) www.in.undp.org
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and explain the terms ‘living standard’ and ‘public health’ in your own words.
@@ -262,6 +266,8 @@ Sustainable Development Goal (SDG) www.in.undp.org
 > [caption] Facility Affordability Availability Quality Private Public
 
 > [caption] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

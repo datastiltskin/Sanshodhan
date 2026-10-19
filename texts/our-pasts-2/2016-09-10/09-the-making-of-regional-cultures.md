@@ -199,6 +199,8 @@ Imagine
 
 You are a Rajput prince. How would you like your story to be told?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 > [note] 1. Match the following:

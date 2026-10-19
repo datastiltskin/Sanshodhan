@@ -23,6 +23,8 @@ body_fingerprint: "6d2b7d4c1b2e82dd5ae3e300f3fa8dbec376bbe4ea1b5112c1e3b3fd18dc0
 
 ## Markets
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 These two chapters focus on aspects of life and commercial cycles associated with markets. While some of these processes may be visible and, therefore, easily observable, there are also others that are relatively unfamiliar.
@@ -158,6 +160,8 @@ Malls, like the one above, sell expensive and branded goods.
 Sustainable Development Goal (SDG) www.in.undp.org this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
 
 <!-- page 91 (pdf 12) -->
+
+<!-- section: exercises -->
 
 EXERCISES
 

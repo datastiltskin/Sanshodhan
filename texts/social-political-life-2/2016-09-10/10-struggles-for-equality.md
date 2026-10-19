@@ -114,6 +114,8 @@ Over 1,500 persons attended a public hearing in Lucknow in 2001 to protest viole
 
 <!-- page 122 (pdf 9) -->
 
+<!-- section: references -->
+
 ## References
 
 > [table] Dreze, Jean and Aparajita Goyal. 2003. ‘Future of Mid-day Meals’.

@@ -19,6 +19,8 @@ body_fingerprint: "c5a10f510060dc2fa43607b3110c739bcdef39000266c797633f1a1b7385f
 
 <!-- page 3 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 The Indian Constitution has been regularly referred to in the previous two Social and Political Life textbooks. Unlike the previous two books, where little space was devoted to discussing the Constitution itself, this year the chapters in Unit 1 take the Constitution as its main focus.
@@ -225,6 +227,8 @@ The different features of the Indian Constitution outlined above, involve compli
 
 <!-- page 16 (pdf 15) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Why does a democratic country need a Constitution?
@@ -272,6 +276,8 @@ Article 35: Executive Power: The executive The executive power of Nepal shall, p
 > [table] (b) Colour Nepal in green.
 
 > [table] (c) Colour Bangladesh in yellow.
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

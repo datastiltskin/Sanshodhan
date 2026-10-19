@@ -21,6 +21,8 @@ body_fingerprint: "11ba6b407bd84b0adcb1cce1314df0b70a8ebba2709f8ef2bee9ebbac8738
 
 # State Government
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 These two chapters (Chapters 2 and 3) on State Government are an attempt to discuss the functions and structure of government through concrete situations. We have chosen ‘health’ as an example; there could have been other, equally important, choices.
@@ -229,6 +231,8 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 
 <!-- page 29 (pdf 14) -->
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. In this chapter you have read that health is a wider concept than illness. Look at this quote from the Constitution and
@@ -248,6 +252,8 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 > [caption] Facility Cost of services Availability of service Private Public
 
 > [caption] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

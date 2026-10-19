@@ -234,6 +234,8 @@ Hadji Mulla: No I would not; rather than sow indigo I will go to another country
 
 After the revolt, indigo production collapsed in Bengal. But the planters now shifted their operation to Bihar. With the discovery of synthetic dyes in the late nineteenth century, their business was severely affected, but yet they managed to expand production. When Mahatma Gandhi returned from South Africa, a peasant from Bihar persuaded him to visit Champaran and see the plight of the indigo cultivators there. Mahatma Gandhi’s visit in 1917 marked the beginning of the Champaran movement against the indigo planters.
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Match the following:

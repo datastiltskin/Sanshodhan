@@ -188,6 +188,8 @@ Imagine
 
 You are present in an election for a sabha. Describe what you see and hear.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 > [note] 1. Match the following:

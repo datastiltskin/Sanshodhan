@@ -24,6 +24,8 @@ body_fingerprint: "47717b7328c173e03fe29d970a81fc1cb50ce337f65158741c75169502bac
 
 ## Markets
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 These two chapters focus on aspects of life and commercial cycles associated with markets. While some of these processes may be visible and, therefore, easily observable, there are also others that are relatively unfamiliar.
@@ -161,6 +163,8 @@ Malls, like the one above, sell expensive and branded goods.
 this chain that what is produced in one place reaches people everywhere. When things are sold, it encourages production and new opportunities are created for people to earn. However, do they offer equal opportunities? We will try to understand this through the story of a shirt in the next chapter.
 
 <!-- page 103 (pdf 12) -->
+
+<!-- section: exercises -->
 
 EXERCISES
 

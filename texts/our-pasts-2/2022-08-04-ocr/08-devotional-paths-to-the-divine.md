@@ -309,6 +309,8 @@ Alvars worship of Shiva
 
 What were the major ideas expressed by Kabir? How did he express these?
 
+<!-- section: glossary -->
+
 > [note] KEYWORDS
 
 > [caption] Virashaivism bhakti Sufi

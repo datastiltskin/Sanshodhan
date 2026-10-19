@@ -22,7 +22,10 @@ from .extract import UNREADABLE
 from .textparse import Unit, normalise_key, parse_chapter
 
 DIFF_DIR = REPO_ROOT / "diffs"
-STREAMS = ("heading", "body", "note", "caption", "table", "source")
+STREAMS = ("heading", "body", "note", "caption", "table", "source", "exercises", "glossary", "references", "teachers-note")
+# Streams whose order carries no meaning: table cells arrive in layout order, and exercise
+# questions and glossary entries get renumbered and reflowed between printings.
+ORDERLESS = ("table", "exercises", "glossary", "references")
 CHAPTER_MATCH_MIN = 0.2  # share of sentences two chapters must have in common to be the same chapter
 PAIR_MIN = 0.55  # similarity for two unmatched sentences to count as one reworded sentence
 
@@ -102,8 +105,7 @@ def diff_stream(old: list[Unit], new: list[Unit], stream: str) -> list[Hunk]:
     hunks: list[Hunk] = []
     pos_old = {id(u): i for i, u in enumerate(old)}
     pos_new = {id(v): j for j, v in enumerate(new)}
-    if stream == "table":
-        # Table cells arrive in layout order, which differs between typesettings.
+    if stream in ORDERLESS:
         old = sorted(old, key=lambda u: u.key)
         new = sorted(new, key=lambda u: u.key)
     a = [u.key for u in old]

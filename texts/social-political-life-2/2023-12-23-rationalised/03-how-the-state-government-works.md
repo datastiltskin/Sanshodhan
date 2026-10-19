@@ -185,6 +185,8 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 
 <!-- page 35 (pdf 12) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 Public meeting
@@ -196,6 +198,8 @@ Press conference
 Chief Minister
 
 > [note] departments?
+
+<!-- section: glossary -->
 
 Glossary
 

@@ -20,6 +20,8 @@ body_fingerprint: "387502231d2b623eb450ef8871c202e80183d346ad6eb787aa105d93c13a5
 
 <!-- page 47 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 Students are going to be introduced to the judiciary through this unit. Yet, aspects of this system like the police, the courts etc. are probably something that students are already quite familiar with either through the media or perhaps through personal experience. In this unit, the effort is to combine some basic knowledge on the judicial system with more hands-on information on the criminal justice system. Chapter 4 covers topics that will be reinforced in the higher classes. The effort while teaching this should be to provide students with a sense of the significant role played by the judiciary in upholding the principles enshrined in the Constitution.
@@ -184,6 +186,8 @@ No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme 
 
 <!-- page 58 (pdf 13) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 1. You read that one of the main functions of the judiciary is ‘upholding the law and Enforcing Fundamental Rights’. Why do you think an independent judiciary is necessary to carry out this important function?
@@ -221,6 +225,8 @@ No.* Name of the Court Sanctioned Working Vacancies strength strength A Supreme 
 > [table] Read this poster and list the duties of the government to uphold the Right to Food.
 
 > [table] How does the phrase “Hungry stomachs, overflowing godowns! We will not accept it!!” used in the poster relate to the photo essay on the Right to Food on page 55?
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

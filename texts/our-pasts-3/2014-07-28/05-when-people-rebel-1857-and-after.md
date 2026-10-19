@@ -193,6 +193,8 @@ Hong Xiuquan was a convert to Christianity and was against the traditional relig
 
 The British and French armed forces operating in China helped the emperor of the Qing dynasty to put down the Taiping Rebellion.
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 Imagine you are a British officer in Awadh during the rebellion. What would you do to keep your plans of fighting the rebels a top secret. Let’s recall

@@ -19,6 +19,8 @@ body_fingerprint: "cd70845c4e61158981d804a8f494be9f830a6daf774db6db0e34f9d294829
 
 <!-- page 29 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 This is a continuation of the theme of government that has already been dealt with in the Class VI and VII textbooks. Hence, a recap of ideas is important especially those related to elections, representation and participation. These ideas can be made more clear to students through bringing in actual examples into the classroom. Newspaper and TV reports could be used to facilitate this.
@@ -293,6 +295,8 @@ We need to remember that our role as citizens does not end with electing our rep
 
 > [caption] List the three forms of protest that you see in the above photos.
 
+<!-- section: glossary -->
+
 ## GLOSSARY
 
 Approval: To give one’s consent to and be favourable towards something. In the context of this chapter, it refers both to the formal consent (through elected representatives) that Parliament has as well as the fact that it needs to continue to enjoy the people’s trust.
@@ -310,6 +314,8 @@ Sedition: This applies to anything that the government might consider as stirrin
 Repressive: To control severely in order to prevent free and natural development or expression. In the context of this chapter it refers to laws that brutally control persons and often prevent them from exercising their Fundamental Rights including Right to Speech and Assembly.
 
 > [table] Unresolved: Situations in which there are no easy solutions to problems.
+
+<!-- section: exercises -->
 
 ## Exercises
 

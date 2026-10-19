@@ -239,9 +239,13 @@ Above: Women are holding up candles to demonstrate the solidarity between the pe
 
 <!-- page 61 (pdf 14) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [note] Rokeya.
+
+<!-- section: glossary -->
 
 Glossary
 

@@ -201,6 +201,8 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 
 <!-- page 153 (pdf 16) -->
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:

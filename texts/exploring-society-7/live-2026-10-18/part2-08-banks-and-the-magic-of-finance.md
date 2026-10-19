@@ -26,6 +26,8 @@ The banker is not only a middleman; he is the producer of a vital service, enabl
 
 1. What is financial infrastructure, and what does it comprise? 2. What are the main functions performed by banks and how do they impact people’s lives? 3. How does financial infrastructure contribute to a nation’s progress?
 
+<!-- section: exercises -->
+
 ## Questions
 
 > [caption] Fig. 8.1.

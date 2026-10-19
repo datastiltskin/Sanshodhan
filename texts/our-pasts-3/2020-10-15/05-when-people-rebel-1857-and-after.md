@@ -237,6 +237,8 @@ The British and French armed forces operating in China helped the emperor of the
 
 <!-- page 64 (pdf 14) -->
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 Imagine you are a British officer in Awadh during the rebellion. What would you do to keep your plans of fighting the rebels a top secret.

@@ -11,6 +11,7 @@ def test_normalise_key_ignores_case_dashes_quotes():
 def test_split_sentences_keeps_abbreviations():
     s = split_sentences("Look at Fig. 1 carefully. It shows the Red Fort. Why was it built?")
     assert s == ["Look at Fig. 1 carefully.", "It shows the Red Fort.", "Why was it built?"]
+    assert split_sentences("1. Why was it built? 12. Who built it?") == ["1. Why was it built?", "12. Who built it?"]
 
 
 def test_parse_chapter_streams_and_pages():
@@ -56,3 +57,45 @@ def test_punctuation_only_is_quiet():
     assert [h.type for h in hs] == ["punctuation"]
     hs = diff_stream([U("Why did the Mughals emphasise their Timurid and not their Mughal descent?")], [U("Why did the Mughals emphasise their Timurid and not their Mongol descent?")], "body")
     assert [h.type for h in hs] == ["modified"]
+
+
+def test_sections_are_detected_and_annotated():
+    md = "# Title\n\nBody one.\n\n## Let’s recall\n\n1. First question?\n\n> [note] Glossary\n\n> [note] Term: meaning.\n"
+    annotated = textparse.annotate_sections(md)
+    assert "<!-- section: exercises -->\n\n## Let’s recall" in annotated
+    assert "<!-- section: glossary -->\n\n> [note] Glossary" in annotated
+    assert textparse.annotate_sections(annotated) == annotated  # idempotent
+    two = textparse.annotate_sections("## Let’s recall\n\nOne?\n\n## Let’s discuss\n\nTwo?\n")
+    assert two.count("<!-- section: exercises -->") == 1  # consecutive exercise headings share one marker
+    _, units = parse_chapter(annotated)
+    assert [(u.stream, u.role, u.section) for u in units] == [
+        ("heading", "heading", None), ("body", "body", None),
+        ("heading", "heading", "exercises"), ("exercises", "body", "exercises"),
+        ("glossary", "note", "glossary"), ("glossary", "note", "glossary"),
+    ]
+    # Without markers the start lines themselves open the sections.
+    assert [u.section for u in parse_chapter(md)[1]] == [u.section for u in units]
+
+
+def test_table_rows_inside_a_section_are_sentences():
+    md = "# T\n\n> [table] Year 1991 | 11,174\n\n<!-- section: exercises -->\n\n> [table] 1. Why? 2. How?\n"
+    _, units = parse_chapter(md)
+    assert [(u.stream, u.text) for u in units] == [("heading", "T"), ("table", "Year 1991 | 11,174"), ("exercises", "1. Why?"), ("exercises", "2. How?")]
+
+
+def test_teachers_note_ends_at_chapter_title():
+    md = "## Unit title\n\nTeacher’s note\n\nAdvice for teachers.\n\n# Chapter title\n\nBody.\n"
+    _, units = parse_chapter(md)
+    assert [(u.text[:8], u.section) for u in units] == [
+        ("Unit tit", None), ("Teacher’", "teachers-note"), ("Advice f", "teachers-note"), ("Chapter ", None), ("Body.", None),
+    ]
+
+
+def test_exercises_compare_without_regard_to_order():
+    old = [Unit("exercises", "1. Why did the trader pay less?", 10, None, 1), Unit("exercises", "2. What is a weekly market?", 10, None, 2)]
+    new = [Unit("exercises", "What is a weekly market?", 9, None, 1), Unit("exercises", "Why did the trader pay less?", 9, None, 2)]
+    types = sorted(h.type for h in diff_stream(old, new, "exercises"))
+    assert types == ["modified", "modified"]  # renumbering only; nothing deleted or inserted
+    old = [Unit("exercises", "Explain how a chain of markets is formed.", 10, None, 1), Unit("exercises", "What purpose does it serve?", 10, None, 1)]
+    new = [Unit("exercises", "What purpose does it serve?", 9, None, 1), Unit("exercises", "Explain how a chain of markets is formed.", 9, None, 1)]
+    assert sorted(h.type for h in diff_stream(old, new, "exercises")) == ["equal", "equal"]

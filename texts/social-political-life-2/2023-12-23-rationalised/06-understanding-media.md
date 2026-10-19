@@ -21,6 +21,8 @@ body_fingerprint: "0131014948af1abfc2ad357f2742b5f3af89d114183fa3f6538bf17213e3e
 
 # Media
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 Today, the media and advertising are a pervasive presence in the lives of young people, who may or may not have taken the opportunity to seriously reflect upon this fact. This Unit offers some ways by which we can begin to think about these.
@@ -175,6 +177,8 @@ to the working of the government. The media decides what to focus on and in this
 
 <!-- page 73 (pdf 12) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [note] diagram?
@@ -182,6 +186,8 @@ EXERCISES
 > [note] of view.
 
 > [note] following questions– save water and energy.
+
+<!-- section: glossary -->
 
 Glossary
 

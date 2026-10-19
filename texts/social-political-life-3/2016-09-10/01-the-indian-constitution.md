@@ -20,6 +20,8 @@ body_fingerprint: "4fdb71ecb149f9c10281444bb457cffd66a2924015b8dfaf4dde646ae980f
 
 <!-- page 3 (pdf 3) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 The Indian Constitution has been regularly referred to in the previous two Social and Political Life textbooks. Unlike the previous two books, where little space was devoted to discussing the Constitution itself, this year the chapters in Unit 1 take the Constitution as its main focus.
@@ -220,6 +222,8 @@ Illustrate each of the 11 Fundamental Duties with drawings, pictures, poems or s
 
 <!-- page 16 (pdf 16) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Why does a democratic country need a Constitution?
@@ -267,6 +271,8 @@ Article 35: Executive Power: The executive Article 37: Executive Power: The exec
 > [table] (c) Colour Bangladesh in yellow.
 
 > [caption] Note: Telangana became the 29th State of India on the 2nd June, 2014, after the reorganisation of the State of Andhra Pradesh.
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

@@ -178,6 +178,8 @@ continuities wherever you can, and look at the world around you to see what else
 
 You are a historian. Choose one of the themes mentioned in this chapter, such as economic, social or political history, and discuss why you think it would be interesting to find out the history of that theme.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Who was considered a “foreigner” in the past?

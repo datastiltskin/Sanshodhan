@@ -38,6 +38,20 @@ front of the next chapter, and their markers name the file they came from, as in
 A few pages inside an otherwise normal file can be flat images. They are read with OCR and
 listed as `ocr_pages` in the front matter.
 
+## Sections
+
+Four runs of a chapter are marked as sections, because the books set them apart and
+reflow them between printings: `exercises` (from "Exercises" or the first "Let's recall"
+heading to the end), `glossary` ("Glossary" or "Keywords"), `references` ("References",
+"Notes"), and `teachers-note` (the unit's note to teachers, which ends at the chapter
+title). A marker line `<!-- section: exercises -->` precedes the line that opens the
+section. The parser also recognises the opening lines themselves, so a text without
+markers reads the same. Inside a section every block keeps its role tag, but it is compared
+in the section's own stream, and exercises, glossaries, and references are compared without
+regard to order (questions get renumbered and glossary entries reflowed). A `[table]` block
+inside a section is a text box, not a table, so its rows are split into sentences like any
+other text.
+
 ## Tagged blocks
 
 Anything that is not body text is kept as a blockquote with a role tag, so later diffs can

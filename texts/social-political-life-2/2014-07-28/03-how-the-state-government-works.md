@@ -183,6 +183,8 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 
 <!-- page 41 (pdf 12) -->
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
@@ -202,6 +204,8 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 > [note] Chief Minister
 
 > [caption] 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

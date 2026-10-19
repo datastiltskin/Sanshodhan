@@ -283,6 +283,8 @@ Many people, white and black, opposed slavery through organised protest. In doin
 
 > [table] Here you see potential buyers examining African slaves at an auction.
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 ## Let’s imagine

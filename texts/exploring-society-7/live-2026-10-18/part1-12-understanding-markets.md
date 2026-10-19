@@ -26,6 +26,8 @@ Prosperity emanates from the market that develops when people need goods and ser
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 In the picture on the following page you will see people buying and selling goods — vegetables, fruits, clothes, groceries, mobile phones, refrigerators, and so on. These goods result from various types of economic activities — primary, secondary, and tertiary — that you studied in Grade 6. But how do these goods reach us?

@@ -270,6 +270,8 @@ Organising for reform
 
 > [note] The Singh Sabha Movement Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non‐Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. What social ideas did the following people support. Rammohun Roy Dayanand Saraswati Veerasalingam Pantulu Jyotirao Phule Pandita Ramabai Periyar Mumtaz Ali Ishwarchandra Vidyasagar

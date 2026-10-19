@@ -28,6 +28,8 @@ Marcel Proust, French novelist
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. How do weather predictions help us prepare for events like heavy rain, storms, drought and heat waves?

@@ -28,6 +28,8 @@ Ether, air, fire, water, earth, planets, all creatures, directions, trees and pl
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 168 (pdf 2) -->

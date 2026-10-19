@@ -182,6 +182,8 @@ Do a similar wallpaper project about any issue connected with the working of you
 
 <!-- page 41 (pdf 12) -->
 
+<!-- section: exercises -->
+
 > [table] EXERCISES
 
 1. Use the terms ‘constituency’ and ‘represent’ to explain who an MLA is and how is the person elected?
@@ -193,6 +195,8 @@ Do a similar wallpaper project about any issue connected with the working of you
 4. What was the problem in Patalpuram? What discussion/ action was taken by the following? Fill in the table.
 
 5. What is the difference between the work that MLAs do in the Assembly and the work done by government departments?
+
+<!-- section: glossary -->
 
 Glossary
 
@@ -207,6 +211,8 @@ Press Conference: A gathering of journalists from the media who are invited to h
 <!-- page 42 (pdf 13) -->
 
 <!-- page 43 (pdf 14) -->
+
+<!-- section: teachers-note -->
 
 > [table] Teacher’s note
 

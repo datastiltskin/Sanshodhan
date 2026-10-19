@@ -28,6 +28,8 @@ kāle varṣhatu parjanyaha pṛiṭhivī sasyaśhālinī deśhoyam kṣhobharah
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 46 (pdf 2) -->

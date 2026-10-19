@@ -189,6 +189,8 @@ Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:

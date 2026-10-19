@@ -257,6 +257,8 @@ You can see the slave workers putting the indigo plant into the settler vat on t
 
 > [caption] Fig. 14 – Making indigo in a Caribbean slave plantation
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Match the following:

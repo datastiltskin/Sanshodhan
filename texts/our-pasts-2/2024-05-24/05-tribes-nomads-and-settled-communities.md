@@ -174,6 +174,8 @@ Considerable social change took place in the subcontinent during the period we h
 
 <!-- page 59 (pdf 11) -->
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 > [note] 1. Match the following:
@@ -202,6 +204,8 @@ tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state paik
 
 (c) The -chaurastii in Gond states contained several cities.
 
+<!-- section: glossary -->
+
 > [note] KEYWORDS
 
 > [caption] varna
@@ -215,6 +219,8 @@ tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state paik
 (d) The Bhils lived in the north-eastern part of the subcontinent.
 
 4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

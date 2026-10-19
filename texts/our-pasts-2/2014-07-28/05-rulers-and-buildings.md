@@ -203,6 +203,8 @@ Imagine
 
 You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. How is the “trabeate” principle of architecture different from “arcuate”?
@@ -223,6 +225,8 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 
 8. What role did the Yamuna play in the layout of the new Mughal city at Shahjahanabad?
 
+<!-- section: glossary -->
+
 > [note] KEYWORDS
 
 > [note] Go through the chapter and make your own list of six keywords.
@@ -230,6 +234,8 @@ You are an artisan standing on a tiny wooden platform held together by bamboo an
 > [note] For each of these, write a sentence indicating why you chose the word.
 
 <!-- page 74 (pdf 16) -->
+
+<!-- section: exercises -->
 
 ### Let’s discuss
 

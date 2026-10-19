@@ -296,6 +296,8 @@ Many people, white and black, opposed slavery through organised protest. In doin
 
 <!-- page 122 (pdf 15) -->
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 ## Let’s imagine

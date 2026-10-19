@@ -225,6 +225,8 @@ Arnold felt that a study of the classics disciplined the mind. In fact, most edu
 
 Can you suggest how such ideas might have influenced thinking about education of the poor in England and of the “natives” in the colonies?
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 ## Let’s imagine

@@ -257,6 +257,8 @@ Imagine
 
 You are a peasant in Alauddin Khalji ’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Which ruler first established his or her capital at Delhi?

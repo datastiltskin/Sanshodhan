@@ -222,6 +222,8 @@ Costa Rica is considered to be one of the healthiest countries in South America.
 
 <!-- page 29 (pdf 12) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [table] An important part of the
@@ -239,6 +241,8 @@ EXERCISES
 > [table] Facility Cost of services Availability of service Private Public
 
 > [table] 4. ‘Improvement in water and sanitation can control many diseases.’ Explain with the help of examples.
+
+<!-- section: glossary -->
 
 Glossary
 

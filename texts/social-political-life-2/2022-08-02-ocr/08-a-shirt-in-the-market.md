@@ -180,6 +180,8 @@ Arrange the statements given alongside in the correct order and then fill in the
 
 9. Ginning mill cleans the cotton and makes it into bales.
 
+<!-- section: glossary -->
+
 Glossary
 
 Ginning mill: A factory where seeds are removed from cotton bolls. The cotton is pressed into bales to be sent for spinning into thread.

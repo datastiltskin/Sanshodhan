@@ -30,6 +30,8 @@ We have prepared a democratic Constitution. But the successful working of democr
 
 > [note] The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 210 (pdf 2) -->

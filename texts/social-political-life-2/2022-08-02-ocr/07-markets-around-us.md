@@ -162,6 +162,8 @@ Shopping complex
 
 5. ‘Buying and selling can take place without going to a marketplace.’ Explain this statement with the help of examples.
 
+<!-- section: glossary -->
+
 Glossary
 
 Weekly market: These markets are not daily markets but are to be found at a particular place on one or maybe two days of the week. These markets most often sell everything that a household needs ranging from vegetables to clothes to utensils.

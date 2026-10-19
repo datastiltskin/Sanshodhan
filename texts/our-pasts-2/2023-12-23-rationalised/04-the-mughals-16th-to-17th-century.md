@@ -125,6 +125,8 @@ Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:
@@ -167,6 +169,8 @@ Nur Jahan Jahangir
 
 9. Why was it important for the Mughals to recruit mansabdars from diverse backgrounds and not just Turanis and Iranis?
 
+<!-- section: glossary -->
+
 Keywords
 
 Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
@@ -176,6 +180,8 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 10. Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
 
 11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
+
+<!-- section: exercises -->
 
 ### Let’s do
 

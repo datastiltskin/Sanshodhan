@@ -192,6 +192,8 @@ The central government passed the Scheduled Tribes and Other Traditional Forest 
 
 <!-- page 103 (pdf 10) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 1. List two Fundamental Rights in the Constitution that Dalits can draw upon to insist that they be treated with dignity and as equals. Re-read the Fundamental Rights listed on page 14 to help you answer this question.
@@ -205,6 +207,8 @@ The central government passed the Scheduled Tribes and Other Traditional Forest 
 (a) Bring to class a poem that discusses a social issue. Share this with your classmates. Work in small groups with two or more poems to discuss their meaning as well as what the poet is trying to communicate.
 
 (b)Identify a marginalised community in your locality. Write a poem, or song, or draw a poster etc to express your feelings as a member of this community.
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

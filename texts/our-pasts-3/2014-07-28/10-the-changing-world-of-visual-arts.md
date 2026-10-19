@@ -263,6 +263,8 @@ The effort to define what ought to be an authentic Indian style of art continued
 
 > [caption] Fig. 28 Pine trees, painted by Hasegawa Tohaku, sixteenth century
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Fill in the blanks:

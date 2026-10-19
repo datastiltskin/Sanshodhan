@@ -216,6 +216,8 @@ You are planning a journey from Surat to West Asia in the seventeenth century. W
 
 <!-- page 89 (pdf 15) -->
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Fill in the blanks:

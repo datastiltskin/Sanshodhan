@@ -23,6 +23,8 @@ body_fingerprint: "24a497bd2111d09c228573f50d865142616b70f93b3abcbd0101df1dfe03c
 
 ## Equality in Indian Democracy
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 This Unit introduces the learner to the critical role of equality in democracy, with specific reference to India. The Constitution of India guarantees equality to all citizens. Despite this, the daily lives of people in India are far from equal. Earlier discussions on equality in Civics textbooks most often reiterated certain provisions of the Constitution without adequately considering the reality of these in people’s lives. This Unit adopts a different approach. It discusses the need for equality through highlighting the inequalities that continue to be practised and experienced by various communities.
@@ -239,9 +241,13 @@ No country can be described as being completely democratic. There are always com
 
 <!-- page 15 (pdf 14) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [note] to that of the Ansaris?
+
+<!-- section: glossary -->
 
 Glossary
 

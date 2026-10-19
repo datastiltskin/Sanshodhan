@@ -20,6 +20,8 @@ body_fingerprint: "0bb7bee1acaac32db3d284796e0f9b6b427984d01a1e457760dddde9a392f
 
 <!-- page 29 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 This is a continuation of the theme of government that has already been dealt with in the Class VI and VII textbooks. Hence, a recap of ideas is important especially those related to elections, representation and participation. These ideas can be made more clear to students through bringing in actual examples into the classroom. Newspaper and TV reports could be used to facilitate this.
@@ -224,6 +226,8 @@ Similarly, it has more recently been suggested that there should be reservation 
 
 It is issues of this kind that force the country to ask certain difficult and often unresolved questions about whether our democratic system is representative enough. The fact that we can ask these questions and are working towards answers is a reflection of the strength and the faith that people in India have in a democratic form of government. Why do you think there are so few women in Parliament? Discuss.
 
+<!-- section: glossary -->
+
 ## GLOSSARY
 
 Approval: To give one’s consent to and be favourable towards something. In the context of this chapter, it refers both to the formal consent (through elected representatives) that Parliament has as well as the fact that it needs to continue to enjoy the people’s trust.
@@ -235,6 +239,8 @@ Coalition: A temporary alliance of groups or parties. In this chapter, it refers
 > [caption] The above photo shows a few women Members of Parliament.
 
 <!-- page 41 (pdf 14) -->
+
+<!-- section: exercises -->
 
 ## Exercises
 

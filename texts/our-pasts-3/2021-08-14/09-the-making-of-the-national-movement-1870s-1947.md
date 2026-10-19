@@ -351,6 +351,8 @@ In 1957, Ghana, known until then as the Gold Coast, became the first sub-Saharan
 
 <!-- page 127 (pdf 19) -->
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Why were people dissatisfied with British rule in the 1870s and 1880s?

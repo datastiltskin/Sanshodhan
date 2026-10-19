@@ -171,6 +171,8 @@ Imagine
 
 You are a member of a nomadic community that shifts residence every three months. How would this change your life?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:

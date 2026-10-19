@@ -30,6 +30,8 @@ Our destinies are inextricably tied together. What affects one nation affects th
 
 1. What defines a ‘neighbour’? Is it just shared land borders? 2. How do geography and history influence the nature of India’s relationships with her neighbours? 3. In what ways are India and her neighbours interconnected today?
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 30 (pdf 2) -->

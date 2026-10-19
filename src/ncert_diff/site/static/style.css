@@ -130,3 +130,7 @@ h3.added { color: var(--chg-ins); }
 .chapter-nav { display: flex; justify-content: space-between; margin: 2.5rem 0 1rem; gap: 1rem; border-top: 1px solid var(--border); padding-top: 1rem; }
 footer { border-top: 1px solid var(--border); margin-top: 2rem; }
 footer .inner { max-width: var(--wide); margin: 0 auto; padding: 1rem; font-size: .85rem; color: var(--muted); }
+
+/* Section paragraphs: exercises, glossary, references, teacher's notes. */
+.sec { font-size: .95rem; padding-left: .8rem; border-left: 3px solid var(--border); }
+.sec-teachers-note { font-style: italic; }

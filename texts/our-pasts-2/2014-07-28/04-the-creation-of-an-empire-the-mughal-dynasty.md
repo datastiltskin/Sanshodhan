@@ -187,6 +187,8 @@ Imagine
 
 Babur and Akbar were about your age when they became rulers. Imagine you have inherited a kingdom. How would you make your kingdom stable and prosperous?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following mansab Marwar
@@ -200,6 +202,8 @@ Rathor Rajput Mewar
 Nur Jahan Babur subadar rank
 
 <!-- page 58 (pdf 14) -->
+
+<!-- section: glossary -->
 
 KEYWORDS
 
@@ -218,6 +222,8 @@ Mughal mansab jagir zat sawar sulh-i kul primogeniture coparcenary zabt zamindar
 3. What were the central provinces under the control of the Mughals?
 
 4. What was the relationship between the mansabdar and the jagir?
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

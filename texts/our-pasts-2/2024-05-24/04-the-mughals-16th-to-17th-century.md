@@ -128,6 +128,8 @@ Imagine
 
 You have inherited a kingdom. (Remember Babur and Akbar were about your age when they became rulers). How would you make your kingdom stable and prosperous?
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:
@@ -170,6 +172,8 @@ How important was the income from land revenue to the stability of the Mughal Em
 
 Why was it important for the Mughals to recruit mansabdars from diverse backgrounds and not just Turanis and Iranis?
 
+<!-- section: glossary -->
+
 KEYWORDS
 
 Mughal primogeniture coparcenary zamindar Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
@@ -181,6 +185,8 @@ Mughal primogeniture coparcenary zamindar Like the Mughal Empire, India today is
 <!-- page 48 (pdf 10) -->
 
 11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
+
+<!-- section: exercises -->
 
 ### Let’s do
 

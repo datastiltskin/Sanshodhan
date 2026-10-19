@@ -20,6 +20,8 @@ body_fingerprint: "215fa1e496a02fbacaa339a2b14c743f08598a0da9612549d3d33a01e918e
 
 <!-- page 3 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 The Indian Constitution has been regularly referred to in the previous two Social and Political Life textbooks. Unlike the previous two books, where little space was devoted to discussing the Constitution itself, this year the chapters in Unit 1 take the Constitution as its main focus.
@@ -228,6 +230,8 @@ Illustrate each of the 11 Fundamental Duties with drawings, pictures, poems or s
 
 <!-- page 16 (pdf 15) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Why does a democratic country need a Constitution?
@@ -273,6 +277,8 @@ Article 35: Executive Power: The executive Article 75: Executive Power: The exec
 > [table] (b) Bhutan
 
 > [table] (c) Nepal
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

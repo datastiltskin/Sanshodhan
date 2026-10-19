@@ -28,6 +28,7 @@ from ..diff import DIFF_DIR
 from ..sources import load_books
 from ..textparse import Unit, parse_chapter
 from .render_pages import chapter_dir_name
+from ..textparse import SECTIONS
 
 HERE = Path(__file__).parent
 QUIET = {"moved", "typographic", "restreamed", "unreadable", "punctuation"}
@@ -151,7 +152,7 @@ def chapter_blocks(markdown_text: str) -> tuple[dict, list[Block]]:
     blocks: list[Block] = []
     current: Block | None = None
     for u in units:
-        kind = "heading" if u.stream == "heading" else u.stream
+        kind = "heading" if u.role == "heading" else (u.section or u.role)
         if current is None or u.para != current.para or kind != current.kind:
             level = 0
             current = Block(kind, level, [], u.page, u.para)
@@ -283,6 +284,8 @@ def block_html(b: Block) -> str:
         return f"<{tag}{cls}>{inner}</{tag}>"
     if b.kind == "body":
         return f"<p>{inner}</p>"
+    if b.kind in SECTIONS:
+        return f"<p class='sec sec-{b.kind}'>{inner}</p>"
     label = {"note": "Note", "caption": "Caption", "source": "Source", "table": "Table"}[b.kind] if b.kind in ("note", "caption", "source", "table") else b.kind
     return f"<aside class='box box-{b.kind}'><span class=boxlabel>{label}</span> {inner}</aside>"
 

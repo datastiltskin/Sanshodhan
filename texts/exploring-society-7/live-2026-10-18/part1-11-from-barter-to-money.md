@@ -30,6 +30,8 @@ The Big
 
 1. How did exchange take place before money? 2. Why did money come into existence? 3. How has money transformed into various forms over time?
 
+<!-- section: exercises -->
+
 ## Questions
 
 In the theme “Tapestry of the Past”, you read about the crops that people grew, such as food grains or goods they made like carnelian beads. How do you think they exchanged these goods for things that they needed?

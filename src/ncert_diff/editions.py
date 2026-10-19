@@ -19,6 +19,7 @@ from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
 from . import ocr
 from .extract import LABEL_HEADING, body_text, extract_chapter, extract_chapter_file, extract_whole_book, has_text_layer
+from .textparse import annotate_sections
 from .fetch import load_manifest
 from .sources import Book
 
@@ -247,6 +248,7 @@ def process_book(book: Book, *, log=print) -> Path:
                 # both carry chapter 7). The first copy wins.
                 log(f"  {pdf.name}: chapter {number} already taken from another file, skipped")
                 continue
+            md = annotate_sections(md)
             chapters.append(
                 {
                     "part": part,

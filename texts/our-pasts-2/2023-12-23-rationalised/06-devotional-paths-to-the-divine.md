@@ -237,6 +237,8 @@ Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:
@@ -277,6 +279,8 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 9. Why do you think ordinary people preserved the memory of Mirabai?
 
+<!-- section: glossary -->
+
 Keywords
 
 Virashaivism bhakti
@@ -284,6 +288,8 @@ Virashaivism bhakti
 Sufi khanqah
 
 <!-- page 78 (pdf 18) -->
+
+<!-- section: exercises -->
 
 ### Let’s do
 

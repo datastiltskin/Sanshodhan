@@ -22,6 +22,8 @@ body_fingerprint: "243a629d9371f3c731928b946fb5c24738ae37b26bb8cc275717560f0a8b9
 
 # Gender
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 Gender is a term that you may often have heard. It is a term, however, that is not easily understood. It tends to remain distant from our lives and restricted to discussions during training programmes. In fact, it is something that all of us experience in our lives on a daily basis. It determines, for example, who we are and what we will become, where we can go and where not, the life choices available to us and those we eventually make. Our understanding of gender is often based on the family and society that we live in. This leads us to think that the roles we see men and women around us play are fixed and natural. In fact, these roles differ across communities around the world. By gender, then, we mean the many social values and stereotypes our cultures attach to the biological distinction ‘male’ and ‘female’. It is a term that helps us to understand many of the inequalities and power relations between men and women in society.
@@ -188,9 +190,13 @@ This naturally has an impact on whether girls can attend school. It determines w
 
 <!-- page 53 (pdf 12) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [note] undertaken by women in your home.
+
+<!-- section: glossary -->
 
 Glossary
 

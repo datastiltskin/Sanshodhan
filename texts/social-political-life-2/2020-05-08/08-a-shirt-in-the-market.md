@@ -197,6 +197,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 
 1. Swapna sells the cotton to the trader. 2. Customers buy these shirts in a supermarket. 3. Trader sells cotton to the Ginning Mill. 4. Garment exporters buy the cloth from merchants for making shirts. 5. Yarn dealers or merchants give the yarn to the weavers. 6. The exporter sells shirts to the businessperson from the USA. 7.Spinning mill buys the cotton and sells yarn to the yarn dealers. 8.Weavers return with the cloth. 9. Ginning mill cleans the cotton and makes it into bales.
 
+<!-- section: exercises -->
+
 > [note] EXERCISES
 
 > [caption] 1. What made Swapna sell the cotton to the trader instead of selling at the Kurnool cotton market?
@@ -206,6 +208,8 @@ Sustainable Development Goal (SDG) www.in.undp.org that get the maximum earnings
 > [caption] 3. Think of something common that we use. It could be sugar, tea, milk, pen, paper, pencil, etc. Discuss through what chain of markets this reaches you. Can you think of the people that help in the production or trade?
 
 > [caption] 4. Arrange the statements given alongside in the correct order and then fill in the numbers in the cotton bolls accordingly. The first two have already been done for you.
+
+<!-- section: glossary -->
 
 > [note] Glossary
 

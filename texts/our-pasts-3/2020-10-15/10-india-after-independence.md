@@ -197,6 +197,8 @@ For several decades now, a civil war has raged in Sri Lanka, whose roots lie in 
 
 > [caption] Fig. 12 Fig. 12 – Gun-carrying Tamil militant – a symbol of the civil war in Sri Lanka
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 ## Let’s imagine
@@ -248,5 +250,7 @@ _________ and _________.
 10. Find out more about the language divisions in Pakistan that led to the creation of the new nation of Bangladesh. How did Bangladesh achieve independence from Pakistan?
 
 <!-- page 142 (pdf 15) -->
+
+<!-- section: references -->
 
 NOTES

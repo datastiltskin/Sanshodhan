@@ -18,6 +18,8 @@ ocr_confidence: 95.2
 
 <!-- page 17 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 > [table] Teacher’s note
 
 These two chapters (Chapters 2 and 3) on State Government are an attempt to discuss the functions and structure of government through concrete situations. We have chosen ‘health’ as an example; there could have been other, equally important, choices.

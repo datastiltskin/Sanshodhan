@@ -28,6 +28,8 @@ The Big
 
 1. What major changes characterised this period?
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. How did the political, cultural, and religious developments shape India during this period?

@@ -158,6 +158,8 @@ Write in your own words what is meant by the terms ‘invisible’, ‘physicall
 
 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life - Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
 
+<!-- section: glossary -->
+
 Glossary
 
 Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several identities. For example, a person can be a girl, a sister and a musician.

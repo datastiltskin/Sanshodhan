@@ -22,6 +22,8 @@ body_fingerprint: "4d78e0dcbf29ef4daea0c937548a2ed9a4b50b41045e4931eb747f397d328
 
 # Gender
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 Gender is a term that you may often have heard. It is a term, however, that is not easily understood. It tends to remain distant from our lives and restricted to discussions during training programmes. In fact, it is something that all of us experience in our lives on a daily basis. It determines, for example, who we are and what we will become, where we can go and where not, the life choices available to us and those we eventually make. Our understanding of gender is often based on the family and society that we live in. This leads us to think that the roles we see men and women around us play are fixed and natural. In fact, these roles differ across communities around the world. By gender, then, we mean the many social values and stereotypes our cultures attach to the biological distinction ‘male’ and ‘female’. It is a term that helps us to understand many of the inequalities and power relations between men and women in society.
@@ -190,6 +192,8 @@ Sustainable Development Goal (SDG) www.in.undp.org This naturally has an impact 
 
 <!-- page 47 (pdf 10) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [table] 1. Are the statements given alongside true or false? Support your answer with the use of an example – a. All societies do not think similarly about the roles that boys and girls play.
@@ -215,6 +219,8 @@ EXERCISES
 > [table] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
 
 > [table] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
+
+<!-- section: glossary -->
 
 Glossary
 

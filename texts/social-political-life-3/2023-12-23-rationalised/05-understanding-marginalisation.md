@@ -19,6 +19,8 @@ body_fingerprint: "1dc4c94d893a80b37f1ca38407650844ab8417408815eda3222b6d73cdcbf
 
 <!-- page 61 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 Equality is a value and right that we have tried to understand in the Social and Political Life series. Over the three years, we have deepened our conceptual understanding of equality. We have distinguished the idea of formal equality from that of substantive equality and the need to move towards establishing the latter. The impact of inequality on access to resources was looked at in the context of women’s access to education. Rashsundari Devi and Rokeya Begum’s writings point to women’s struggles to overcome this denial. We have often pointed to the Fundamental Rights enshrined in our Constitution to highlight why equality and the idea of dignity that it contains is crucial to the functioning of democracy in India.
@@ -237,6 +239,8 @@ Yet, the lives of marginalised people can and do change. Thus, no one is margina
 
 <!-- page 73 (pdf 14) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Write in your own words two or more sentences of what you understand by the word ‘marginalisation’.
@@ -254,6 +258,8 @@ Yet, the lives of marginalised people can and do change. Thus, no one is margina
 > [table] 7. In the storyboard you read about how Helen hopes to make a movie on the Adivasi story. Can you help her by developing a short story on Adivasis?
 
 > [table] 8. Would you agree with the statement that economic marginalisation and social marginalisation are interlinked? Why?
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

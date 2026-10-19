@@ -18,6 +18,8 @@ ocr_confidence: 80.5
 
 <!-- page 69 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 > [table] Teacher’s note
 
 Today, the media and advertising are a pervasive presence in the lives of young people, who may or may not have taken the opportunity to seriously reflect upon this fact. This Unit offers some ways by which we can begin to think about these.
@@ -196,6 +198,8 @@ d. Whose point of view is being left out and why?
 
 Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
 
+<!-- section: glossary -->
+
 Glossary
 
 Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
@@ -209,6 +213,8 @@ Broadcast: In this chapter this word is used to refer to a TV or radio programme
 <!-- page 80 (pdf 13) -->
 
 <!-- page 81 (pdf 14) -->
+
+<!-- section: teachers-note -->
 
 > [table] Teacher’s note
 

@@ -17,7 +17,7 @@
       {% set s = pair.summary %}
       <p class="changes-line">Since the {{ prev.label }}:
         {% if s.chapters_dropped %}<strong>{{ s.chapters_dropped }} chapter{{ 's' if s.chapters_dropped != 1 }} dropped</strong>,{% endif %}
-        {{ s.body.deleted }} sentences removed, {{ s.body.inserted }} added, {{ s.body.modified }} reworded in the main text{% if s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified %}, and {{ s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified }} changes in boxes, captions and tables{% endif %}.
+        {{ s.body.deleted }} sentences removed, {{ s.body.inserted }} added, {{ s.body.modified }} reworded in the main text{% if s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified %}, and {{ s.other_streams.deleted + s.other_streams.inserted + s.other_streams.modified }} changes in boxes, captions, tables and exercises{% endif %}.
         <a href="/{{ book.id }}/changes/#{{ prev.id }}__{{ ed.id }}">See them</a>.</p>
     {% endif %}
     {% for c in ed.caveats %}<p class="callout">{{ c }}</p>{% endfor %}

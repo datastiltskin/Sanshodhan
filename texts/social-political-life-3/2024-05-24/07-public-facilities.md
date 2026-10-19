@@ -20,6 +20,8 @@ body_fingerprint: "f081858a38e853c3d57c7c529381a783d55b277dd6f5b3da07a6a7652c42c
 
 <!-- page 85 (pdf 2) -->
 
+<!-- section: teachers-note -->
+
 ## Teacher’s Note
 
 This unit discusses the role of the government in providing public facilities as well as in implementing laws that apply to market, factory and the working conditions of people. The aim is to allow students to understand the ways in which this role of the government is linked to concerns addressed in our Fundamental Rights. It is this link to rights that provides a connection to similar issues raised in earlier chapters. Also the discussion in the Class VI and VII textbooks on livelihoods and markets respectively can also be used to provide a context for discussions in Chapter 8.
@@ -316,6 +318,8 @@ But, progress on this front has been far from satisfactory. There is a shortage 
 
 <!-- page 98 (pdf 15) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Why do you think there are so few cases of private water supply in the world?
@@ -347,6 +351,8 @@ But, progress on this front has been far from satisfactory. There is a shortage 
 9. Private educational institutions – schools, colleges, universities, technical and vocational training institutes are coming up in our country in a big way. On the other hand, educational institutes run by the government are becoming relatively less important. What do you think would be the impact of this? Discuss.
 
 <!-- page 99 (pdf 16) -->
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

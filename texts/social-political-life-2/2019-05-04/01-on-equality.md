@@ -23,6 +23,8 @@ body_fingerprint: "5b2cf82e59f90d841f044bd8c5359ac0e0000ab7c96d4de86d262c02df8cd
 
 ## Equality in Indian Democracy
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 This Unit introduces the learner to the critical role of equality in democracy, with specific reference to India. The Constitution of India guarantees equality to all citizens. Despite this, the daily lives of people in India are far from equal. Earlier discussions on equality in Civics textbooks most often reiterated certain provisions of the Constitution without adequately considering the reality of these in people’s lives. This Unit adopts a different approach. It discusses the need for equality through highlighting the inequalities that continue to be practised and experienced by various communities.
@@ -237,6 +239,8 @@ No country can be described as being completely democratic. There are always com
 
 <!-- page 15 (pdf 15) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [table] 1. In a democracy why is universal adult franchise important?
@@ -252,6 +256,8 @@ EXERCISES
 > [table] 5. According to the Rights of Persons with Disabilities Act, 2016, persons with disabilities have equal rights, and that the government should make possible their full participation in society. The government has to provide free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.
 
 > [table] Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?
+
+<!-- section: glossary -->
 
 Glossary
 

@@ -241,6 +241,8 @@ Imagine
 
 You are attending a meeting where a saint is discussing the caste system. Relate the conversation.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. Match the following:
@@ -265,6 +267,8 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 
 4. What were the major ideas expressed by Kabir? How did he express these?
 
+<!-- section: glossary -->
+
 > [note] KEYWORDS
 
 > [note] Virashaivism bhakti
@@ -272,6 +276,8 @@ Nizamuddin Auliya questioned social differences Nayanars Sufi saint Alvars worsh
 > [note] Sufi khanqah
 
 <!-- page 121 (pdf 18) -->
+
+<!-- section: exercises -->
 
 ### Let’s understand
 

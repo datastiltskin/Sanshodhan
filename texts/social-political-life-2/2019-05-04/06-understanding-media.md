@@ -21,6 +21,8 @@ body_fingerprint: "b9815fec44cc42e0e30396e0f9a8181f5787d6d9f1abdbb66c32501313feb
 
 # Media
 
+<!-- section: teachers-note -->
+
 Teacher’s note
 
 Today, the media and advertising are a pervasive presence in the lives of young people, who may or may not have taken the opportunity to seriously reflect upon this fact. This Unit offers some ways by which we can begin to think about these.
@@ -212,6 +214,8 @@ EXERCISES cs
 > [table] d. Whose point of view is being left out and why?
 
 > [table] 5. Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
+
+<!-- section: glossary -->
 
 Glossary
 

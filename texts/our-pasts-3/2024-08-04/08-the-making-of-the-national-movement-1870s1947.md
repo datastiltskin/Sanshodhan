@@ -320,6 +320,8 @@ Many hundred thousand people were killed and numerous women had to face untold b
 
 <!-- page 110 (pdf 18) -->
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 Imagine that you are involved in the Indian national movement. Based on your reading of this chapter, briefly discuss your preferred methods of struggle and your vision of a free India.
@@ -355,6 +357,8 @@ lands. Partition also meant that India changed, many of its cities changed, and 
 11. Find out more about the life and work of any two participants or leaders of the national movement and write a short essay about them. You may choose a person not mentioned in this chapter.
 
 <!-- page 111 (pdf 19) -->
+
+<!-- section: references -->
 
 ## Notes
 

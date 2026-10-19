@@ -28,6 +28,8 @@ The kingdom shall be protected by fortifying the capital and the towns at the fr
 
 1. What is meant by ‘Second Urbanisation of India’? 2. Why were the janapadas and mahājanapadas an important development in India’s early history? 3. What kind of system of governance did they evolve?
 
+<!-- section: exercises -->
+
 ## Questions
 
 <!-- page 68 (pdf 2) -->

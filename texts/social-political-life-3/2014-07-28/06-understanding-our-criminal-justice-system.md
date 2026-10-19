@@ -201,6 +201,8 @@ The Constitution and the law both state that all of the persons that we have dis
 
 <!-- page 76 (pdf 11) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 QIn a town called Peace Land, the supporters of the Fiesta football team learn that the supporters of the Jubilee football team in the nearby city about 40 km away have damaged the ground on which the Final between both teams is to be held the following day. A crowd of Fiesta fans armed with deadly weapons attacks the homes of the supporters of the Jubilee football team in the town. In the attack, 10 men are killed, 5 women are gravely hurt, many homes are destroyed and over 50 people injured.
@@ -220,6 +222,8 @@ Now take the same situation but ask one student who is a supporter of the Fiesta
 > [table] State two reasons why you believe that different persons need to play different roles as part of the criminal justice system.
 
 <!-- page 77 (pdf 12) -->
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

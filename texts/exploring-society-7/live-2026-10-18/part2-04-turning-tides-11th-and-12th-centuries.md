@@ -30,6 +30,8 @@ It is the same India which has withstood the shocks of centuries, of hundreds of
 
 The Big centuries seen as a period of transition in Indian history?
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. Which new powers emerged during this period? What were the essential features of their economic, military and administrative systems?

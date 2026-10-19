@@ -194,7 +194,11 @@ Advertising by focusing on the lives of the rich and famous helps us forget abou
 
 <!-- page 91 (pdf 12) -->
 
+<!-- section: exercises -->
+
 EXERCISES
+
+<!-- section: glossary -->
 
 Glossary
 

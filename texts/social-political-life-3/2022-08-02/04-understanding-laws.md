@@ -170,6 +170,8 @@ We need to remember that our role as citizens does not end with electing our rep
 
 <!-- page 51 (pdf 10) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Write in your own words what you understand by the term the ‘rule of law’. In your response include a fictitious or real example of a violation of the rule of law.
@@ -179,6 +181,8 @@ We need to remember that our role as citizens does not end with electing our rep
 > [table] 3. Re-read the storyboard on how a new law on domestic violence got passed. Describe in your own words the different ways in which women’s groups worked to make this happen.
 
 4. Write in your own words what you understand by the following sentence on page 44-45: They also began fighting for greater equality and wanted to change the idea of law from a set of rules that they were forced to obey, to law as including ideas of justice.
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

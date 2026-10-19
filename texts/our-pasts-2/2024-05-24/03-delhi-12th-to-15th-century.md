@@ -164,6 +164,8 @@ became the model followed by the great emperor Akbar (1556 –1605) when he cons
 
 You are a peasant in Alauddin Khalji’s or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 > [caption] Which ruler first established his or her capital at Delhi

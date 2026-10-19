@@ -118,6 +118,8 @@ Can you make up a social advertisement on equality? You can do this in small gro
 
 <!-- page 110 (pdf 9) -->
 
+<!-- section: references -->
+
 ## References
 
 @ Dreze, Jean and Aparajita Goyal. 2003. ‘Future of Mid-day Meals’. In Economic and Political Weekly.

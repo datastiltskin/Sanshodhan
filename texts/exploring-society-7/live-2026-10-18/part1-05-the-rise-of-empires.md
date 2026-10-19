@@ -28,6 +28,8 @@ The Big
 
 1. What is an empire?
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. How did empires rise and shape Indian civilisation?

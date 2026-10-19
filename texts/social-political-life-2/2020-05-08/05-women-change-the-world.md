@@ -237,6 +237,8 @@ Above: Women are holding up candles to demonstrate the solidarity between the pe
 
 <!-- page 67 (pdf 14) -->
 
+<!-- section: exercises -->
+
 EXERCISES
 
 > [table] 1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?
@@ -246,6 +248,8 @@ EXERCISES
 > [table] 3. “Poor girls drop out of school because they are not interested in getting an education.” Re-read the last paragraph on page 62 and explain why this statement is not true.
 
 > [table] 4. Can you describe two methods of struggle that the women’s movement used to raise issues? If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about? Why would you choose this particular method?
+
+<!-- section: glossary -->
 
 Glossary
 

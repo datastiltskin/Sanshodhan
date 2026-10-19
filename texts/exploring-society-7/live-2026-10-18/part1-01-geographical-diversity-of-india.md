@@ -28,6 +28,8 @@ To us, by its very geography, the country [India] appears to be quite distinct f
 
 The Big
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. How does India’s geographical diversity affect our lives?

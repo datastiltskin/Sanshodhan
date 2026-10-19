@@ -210,6 +210,8 @@ While the government has a leading role in this respect, people can exert pressu
 
 <!-- page 131 (pdf 12) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 > [table] 1. Talk to two workers (For example, construction workers, farm workers, factory workers, workers at any shop) to find out if they are receiving the minimum wages laid down by law.
@@ -240,6 +242,8 @@ While the government has a leading role in this respect, people can exert pressu
 
 > [table] Use this and other sources to make a wallpaper/exhibition on the Bhopal gas tragedy for your classroom. Invite the whole school to see and talk about it.
 
+<!-- section: glossary -->
+
 ## GLOSSARY
 
 > [table] Consumer: An individual who buys goods for personal use and not for resale.
@@ -265,6 +269,8 @@ As the chapters in this book discuss, much has been done in this process of maki
 The various chapters in this book have tried to make clear to you the democratic ideals that the Constitution contains and the ways in which it affects people’s daily lives. We have done this with the intent that this might provide you the tools with which you can critically begin to understand and examine the world around you, and participate in it as the Constitution prescribes.
 
 <!-- page 134 (pdf 15) -->
+
+<!-- section: references -->
 
 ### REFERENCES
 

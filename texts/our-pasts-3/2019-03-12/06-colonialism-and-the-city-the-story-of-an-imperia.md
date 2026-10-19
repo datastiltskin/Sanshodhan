@@ -224,6 +224,8 @@ In the early 1890s, a young English architect named Herbert Baker went to South 
 
 Fig. 17 shows the Union Building that Baker designed in the city of Pretoria in South Africa. It used some of the elements of ancient classical architecture that Baker later included in his plans of the Secretariat building in New Delhi. The Union Building was also located on a steep hill as is the Secretariat Building in New Delhi (Fig. 16). Have you not noticed that people in positions of power want to look down on others from above rather than up towards them from below? The Union Building and the Secretariat were both built to house imperial offices.
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 ## Let’s recall

@@ -252,6 +252,8 @@ Okakura visited Santiniketan and had a powerful influence on Rabindranath Tagore
 
 > [caption] Fig. 28 Pine trees, painted by Hasegawa Tohaku, sixteenth century
 
+<!-- section: exercises -->
+
 ## Let’s recall
 
 1. Fill in the blanks:

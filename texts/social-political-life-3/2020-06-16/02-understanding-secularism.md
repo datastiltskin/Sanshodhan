@@ -117,6 +117,8 @@ In February 2004, France passed a law banning students from wearing any conspicu
 
 <!-- page 26 (pdf 9) -->
 
+<!-- section: exercises -->
+
 ## Exercises
 
 1. List the different types of religious practice that you find in your neighbourhood. This could be different forms of prayer, worship of different gods, sacred sites, different kinds of religious music and singing etc. Does this indicate freedom of religious practice?
@@ -142,6 +144,8 @@ In February 2004, France passed a law banning students from wearing any conspicu
 7. This poster alongside highlights the need for ‘Peace’. It says, “Peace is a never-ending process....It cannot ignore our differences or overlook our common interests.” Write in your own words what you think the above sentences are trying to convey? How does it relate to the need for religious tolerance?
 
 > [table] This chapter had three drawings on religious tolerance made by students of your age. Design your own poster on religious tolerance for your peers.
+
+<!-- section: glossary -->
 
 ## GLOSSARY
 

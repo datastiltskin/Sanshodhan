@@ -244,6 +244,8 @@ The Meiji regime, which assumed power in Japan in 1868, believed that Japan need
 
 In India colonial domination created barriers to industrialisation. In Japan the fear of foreign conquest spurred industrialisation. But this also meant that the Japanese industrial development from the beginning was linked to military needs.
 
+<!-- section: exercises -->
+
 ## Let’s imagine
 
 ## Let’s recall

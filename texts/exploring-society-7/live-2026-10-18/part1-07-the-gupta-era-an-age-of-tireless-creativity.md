@@ -28,6 +28,8 @@ The Big
 
 1. Who were the Guptas? Why is the Gupta period sometimes called the ‘classical age’ in Indian history?
 
+<!-- section: exercises -->
+
 ## Questions
 
 2. What was happening in the rest of the subcontinent at this time?

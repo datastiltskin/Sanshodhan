@@ -155,6 +155,8 @@ Imagine
 
 You are a ruler of an eighteenth-century kingdom. Tell us about the steps you would take to make your position strong in your province, and what opposition or problems you might face while doing so.
 
+<!-- section: exercises -->
+
 ### Let’s recall
 
 1. State whether true or false:
@@ -186,6 +188,8 @@ You are a ruler of an eighteenth-century kingdom. Tell us about the steps you wo
 > [note] Keywords subadari dal khalsa misl faujdari ijaradari chauth sardeshmukhi
 
 <!-- page 105 (pdf 12) -->
+
+<!-- section: references -->
 
 ## Notes
 
