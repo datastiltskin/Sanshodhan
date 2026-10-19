@@ -22,9 +22,31 @@ mapping back to the printed page.
   a hyphen at a line end is always part of the word.
 - Decorative headings drawn several times for a shadow effect ("Let's recall" x5) are
   collapsed to one, and so is a word redrawn over the end of its own line in the 2007 files
-  ("a French cartographer" followed by "cartographer" three times at the same place).
+  ("a French cartographer" followed by "cartographer" three times at the same place), and a
+  clipped first copy of a heading ("Bhopal Gas T" four times before "Bhopal Gas Tragedy").
+- A list item that wraps can arrive as two blocks, the marker line and a line indented to
+  the item's text column right below it. The second is folded into the first, whatever
+  letter it starts with.
 - The Sustainable Development Goal badge printed in the margins since 2019 is tagged as a
   caption so that its label does not run into the paragraph below it.
+- The 2016 civics files fake their bold by drawing each line again with the first glyph left
+  off ("prosecution" then "rosecution"). Those copies are dropped like any other shadow.
+- Letter-spaced lines in narrow boxes ("e d u c a t i o n w h i c h") are closed up. A space
+  glyph that touches the letters on both sides is a letter space, one with a visible gap is a
+  word space, so the result is "education which". Only runs of three or more one-letter
+  tokens (or a line made of nothing else) are touched.
+- Square list bullets (a Wingdings glyph, or "¢" where the font is re-embedded) start a new
+  item written as `- item`, so a list without closing punctuation does not become one
+  sentence. A capitalised paragraph after the last item starts a new paragraph.
+- The rupee font of the 2019 and later civics files gives "₹" as a backtick, which is mapped
+  back. A list number glued to its first word ("1.that" in the 2022 civics) gets its space.
+- Decorative glyphs are dropped: the arrow before "Activity" (a control code or a dagger in
+  the text layer), and an oversized letter that no paragraph starts beside, such as the "Q"
+  of the question boxes and the "Po" of the police-station art. A real drop cap is joined to
+  the paragraph that starts next to it.
+- Text set smaller than the body that turns up while a body paragraph is still open (a box
+  set into the column, a side question) is written after that paragraph, which goes on past
+  it. A paragraph set straight under a caption in the caption's size is part of the caption.
 - The chapter title is a level-1 heading. Section headings are level 2, activity headings
   ("Let's recall", "Let's discuss") and box headings level 3.
 
@@ -46,17 +68,46 @@ listed as `ocr_pages` in the front matter.
 Some printings set a sub-heading as the bold first line of its paragraph rather than as a
 block of its own (the 2023-24 Our Pasts III). A bold first line of two or more words with
 no closing punctuation, followed by a paragraph, is written as a heading so the text has the
-same shape as the other printings.
+same shape as the other printings. The 2022 Our Pasts III files embed their bold face without
+the bold flag, so there a first line in a font the next line does not use counts as bold.
+A short italic or bold line straight above a paragraph and aligned with it ("Gulamgiri"), a
+bold italic figure-group title, and a short line in a display size well above the body
+("The value of paper") are headings too.
 
 ## Outlined words
 
 Some files (the 2024-25 Our Pasts II) draw their italic terms as vector outlines with no
-text behind them. Those runs are read with tesseract and then pulled towards words the
-book is known to use in its other editions: a run whose letters spell a known word
+text behind them. Those runs are read with Apple's Vision framework on macOS (the `ocrmac`
+package) and with tesseract elsewhere. Vision reads the italic outlines that tesseract
+garbled ("sawar", "pardesi", "flocks and herds."). The reading is then pulled towards words
+the book is known to use in its other editions: a run whose letters spell a known word
 becomes that word ("pardes i" to "pardesi", "Minhaj 1 Siraj" to "Minhaj-i-Siraj"), and an
 unknown word is replaced by the nearest known one when they differ by a letter or two
-("EXYIcise" to "exercise"). The raw reading is kept in the OCR cache, so the rule can be
-changed without re-running tesseract.
+("mugtis" to "muqtis"). Fragments of one word that the outline detector cut at a ligature
+are joined before reading, and a run that stands alone (a diagram label, a whole outlined
+line) is read from a crop a few points wider than the detector's box, which clips the first
+and last letters of small labels. A quote the engine sees in the slant of an italic with no
+partner on the line is dropped. A fragment as small as the "s." that finishes a word whose
+stem is in the text layer is read too, and joined to that word without a space. Box labels
+("Imagine", "Activity", "Elsewhere") are headings, so a paragraph cut short at a page foot
+cannot run into the box below it. The raw reading is kept in the OCR cache under a key that
+names the engine, so the rules can be changed without reading the page again.
+
+A run is placed in the line it sits on when it comes within a word space of it. The reading is
+then checked against the text around it: punctuation the text layer already has is not
+repeated and gets no space before it, a full stop before a lower-case word is dropped, a
+leading "- " is dropped, and an opening quote that nothing closes (or a closing quote that
+nothing opens) is taken for the slant of an italic word and removed.
+
+## Keyword columns
+
+The Our Pasts books end a chapter with a KEYWORDS column in the margin: a label and one term
+per line. The label becomes a "### Keywords" heading and each term a list item ("- iqta"),
+which opens the glossary section, so the terms are compared as a set and never read as part
+of the question beside them. Some printings put an instruction in that column instead
+("Go through the chapter and make your own list of six keywords."), and one encoding sets it
+one line per block. A run of column lines that reads as prose (a line of more than three
+words, or a sentence end inside the run) is joined into one note rather than listed as terms.
 
 ## Sections
 
@@ -76,8 +127,10 @@ other text.
 
 `overrides/<book>.yaml` holds corrections to extracted text that no rule should make: an OCR
 misreading on one page, a glyph that leaked into a heading. Each entry names the snapshot
-(or `*`), the chapter (or `*`), the exact text to find, its replacement, and a note saying
-why. The editions step applies them after extraction and before fingerprinting, so a
+(or `*`), the chapter (a number, `prelims` for the front matter pages, or `*`), the exact
+text to find, its replacement, and a note saying why. A book in parts (Exploring Society)
+repeats its chapter numbers, so there an entry also names the `part`, and an entry without
+one reaches both parts (the shared front cover). The editions step applies them after extraction and before fingerprinting, so a
 corrected text still groups with the snapshots that share it. Applied corrections are listed
 in the chapter's front matter and on its page on the site. An entry addressed to a specific
 snapshot and chapter that no longer matches is reported in the log and in
@@ -98,7 +151,15 @@ compare body only, or everything:
 
 Dropped entirely: running footers (page number, book or chapter name, "Rationalised 2023-24"),
 the rotated "©NCERT not to be republished" watermark in older files, and the chapter number
-glyph. InDesign slug lines sit outside the page crop box and never reach the text layer.
+glyph. InDesign slug lines mostly sit outside the page crop box and never reach the text
+layer, and the few that do are dropped as footers.
+
+Position and size alone do not make a footer. The last lines of a page in the 2021-24 civics
+files, and some photo captions, sit as low as the footers. A small block in the footer band
+is dropped only when it is a page number, a print-run label, a running title, text that
+recurs in the band on other pages of the same file, or a block on the row where other
+pages' footers sit. When a caption's last line is glued to the running title ("Hampi. TOWNS,
+TRADERS AND CRAFTSPERSONS"), the title is cut off and the rest is kept.
 
 ## OCR editions
 

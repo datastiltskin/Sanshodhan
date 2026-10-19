@@ -51,3 +51,18 @@ def test_paragraph_does_not_continue_after_a_bare_number():
     assert continues("The Lok Sabha has 543 members, of whom a majority must", "support the government.")
     assert continues("The empire was founded in the year 1526 by a prince named", "Babur, who came from Central Asia.")
     assert continues("The empire was founded in 1526", "by a prince from Central Asia.")
+
+
+def test_glued_list_label_gets_its_space():
+    assert clean.join_lines(["1.that one religious community", "does not dominate another;"]) == "1. that one religious community does not dominate another;"
+    assert clean.join_lines(["4.Within the city"]) == "4. Within the city"
+    assert clean.join_lines(["1.5 million people"]) == "1.5 million people"
+
+
+def test_rupee_backtick_becomes_the_rupee_sign():
+    assert clean.join_lines(["fine of `20,000 to `50,000 and", "he spent ` _______ for"]) == "fine of ₹20,000 to ₹50,000 and he spent ₹ _______ for"
+
+
+def test_list_item_does_not_run_into_the_next_paragraph():
+    assert not clean.continues("- The decline of crafts and growth of industries", "On the basis of what you have read")
+    assert clean.continues("- The decline of crafts and growth of", "industries in the nineteenth century")

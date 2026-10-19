@@ -10,6 +10,12 @@ _SOFT_HYPHEN = "­"
 _SENTENCE_END = re.compile(r"[.!?:;\"”’)\]…]$")
 _BROKEN_HYPHEN = re.compile(r"(?<=[A-Za-z])- (?=[a-z])")
 _LIST_ITEM = re.compile(r"^(\d{1,2}\.|\(?[a-z]\)|\(?[ivx]+\))\s")
+# "1.that", "4.Within": the 2022-23 civics files set the space after a list number as a
+# tab or a gap that the text layer loses. The printed page has "1. that".
+_GLUED_LIST_LABEL = re.compile(r"^(\d{1,2}\.)(?=[^\W\d_])")
+# The rupee font of the 2019 and later civics files maps "₹" to a backtick ("` 3,000",
+# "` _______"). A backtick has no other use in the books.
+_RUPEE = re.compile(r"`(?=\s*[\d_]|\s*$)")
 
 
 def normalise_text(text: str) -> str:
@@ -54,7 +60,7 @@ def join_lines(lines: list[str]) -> str:
     """
     out = ""
     for line in lines:
-        line = normalise_text(line)
+        line = _RUPEE.sub("₹", _GLUED_LIST_LABEL.sub(r"\1 ", normalise_text(line)))
         if not line:
             continue
         if not out:
@@ -65,6 +71,10 @@ def join_lines(lines: list[str]) -> str:
             continue
         out = merge_paragraphs(out, line)
     return collapse_repeats(_BROKEN_HYPHEN.sub("-", out))
+
+
+def ends_sentence(text: str) -> bool:
+    return bool(_SENTENCE_END.search(text))
 
 
 def continues(prev: str, nxt: str) -> bool:
@@ -81,6 +91,10 @@ def continues(prev: str, nxt: str) -> bool:
     first = nxt[0]
     if first.islower() or first in ",;" or (prev.endswith("-") and first.isalnum()):
         return True
+    if prev.startswith("- ") and first.isupper():
+        # A list item carries no closing punctuation, so a capitalised paragraph after the
+        # last item is a new paragraph ("- The decline of crafts" then "On the basis of ...").
+        return False
     if prev[-1].isdigit() and first.isupper():
         # "Grand Total 543" then "Once elected, these candidates..." is a table read as body
         # text followed by a new paragraph, not a sentence cut by the page break.
