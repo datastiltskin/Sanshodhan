@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block title %}Search{% endblock %}
+{% set active = 'search' %}
+{% block mainclass %}wide{% endblock %}
+{% block content %}
+<div class="title-block">
+  <h1>Search the books</h1>
+  <p class="subtitle">Type a word or a phrase to find every chapter that carries it, and see in which editions it appears. A result that matches only older editions marks text that was later removed.</p>
+</div>
+<form class="search-bar" id="search-form" action="/search/" method="get">
+  <input type="search" id="search-q" name="q" placeholder="A word, a name, or a phrase" aria-label="Search terms" autocomplete="off" autofocus>
+  <label>Class <select id="search-class" name="class"><option value="">any</option></select></label>
+  <label>Subject <select id="search-subject" name="subject"><option value="">any</option></select></label>
+  <label>Book <select id="search-book" name="book"><option value="">any</option></select></label>
+  <label class="needs-book" hidden>Edition <select id="search-edition" name="edition"><option value="">any</option></select></label>
+  <label class="needs-book" hidden>Chapter <select id="search-chapter" name="chapter"><option value="">any</option></select></label>
+  <noscript><button type="submit">Search</button></noscript>
+</form>
+<p class="legend search-legend">Editions: <span class="chip hit">found</span> <span class="chip miss">chapter present, phrase not found</span> <span class="chip absent">chapter not in that edition</span></p>
+<p id="search-summary" class="muted"></p>
+<div id="search-results" class="search-results"></div>
+<p id="search-more-wrap" hidden><button type="button" id="search-more">Show more chapters</button></p>
+<div id="search-help" class="search-help">
+  <p>Try <a href="/search/?q=Mughal+emperors">Mughal emperors</a>, <a href="/search/?q=Rani+Avantibai">Rani Avantibai</a>, or <a href="/search/?q=secularism&amp;subject=civics">secularism in the civics books</a>. Each result is one chapter followed by a chip for every edition of its book. Open a chip to read that edition's chapter with the words marked.</p>
+  <p>The search covers the text of every edition on this site, notes and exercises included. Text that an edition removed is not counted as present in it. Spelling must match the book's, so "Orissa" and "Odisha" are different searches.</p>
+</div>
+{% endblock %}
+{% block scripts %}<script src="/static/search.js"></script>{% endblock %}

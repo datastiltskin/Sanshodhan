@@ -8,10 +8,12 @@ Pages:
   /<book>/changes/           every change between consecutive editions, linked into the viewer
   /changes/                  the written summary of what changed (docs/findings.md)
   /method/                   how the data was made and how far to trust it
+  /search/                   full-text search over every edition's chapter text (Pagefind)
 """
 
 from __future__ import annotations
 
+import asyncio
 import json
 import re
 import shutil
@@ -130,6 +132,125 @@ def previous_edition(editions: list[Edition], ed: Edition) -> Edition | None:
         if not e.raw.get("ocr"):
             return e
     return None
+
+
+def short_label(ed: Edition, siblings: list[Edition]) -> str:
+    """A chip-sized name for an edition: its year, with the month when two editions share
+    a year, and a word for the odd ones ("2023 rationalised", "2022 scanned", "2025 partial",
+    "2026 live", "undated mirror")."""
+    def base(e: Edition) -> str:
+        m = re.search(r"\d{4}", e.id)
+        if m:
+            return m.group(0)
+        if "undated" in e.id:
+            return "undated mirror"
+        return e.id.replace("-", " ")
+
+    def month(e: Edition) -> str:
+        m = re.search(r"(\d{4})-(\d{2})", e.id)
+        return _MONTHS[int(m.group(2)) - 1][:3] if m else ""
+
+    name = base(ed)
+    if sum(base(e) == name for e in siblings) > 1 and month(ed):
+        name = f"{name} {month(ed)}"
+    for marker, word in (("rationalised", "rationalised"), ("ocr", "scanned"), ("partial", "partial"), ("live", "live")):
+        if marker in ed.id.split("-"):
+            name += f" {word}"
+    return name
+
+
+def chapter_lineages(editions: list[Edition], diffs: dict[tuple[str, str], dict]) -> dict[tuple[str, str], str]:
+    """(edition id, chapter dir) -> lineage id. Chapters matched by a diff between two
+    editions are the same chapter, whatever their number or title in each printing, so a
+    phrase can be followed through a book's history as one line of results. Ids run L01,
+    L02... in the order chapters first appear."""
+    by_file: dict[str, tuple[str, str]] = {}
+    nodes: list[tuple[str, str]] = []
+    for ed in editions:
+        for ch in ed.raw["chapters"]:
+            node = (ed.id, chapter_dir_name(ch["part"], ch["number"]))
+            by_file[ch["file"]] = node
+            nodes.append(node)
+    parent: dict[tuple[str, str], tuple[str, str]] = {n: n for n in nodes}
+
+    def find(n):
+        while parent[n] != n:
+            parent[n] = parent[parent[n]]
+            n = parent[n]
+        return n
+
+    def union(a, b):
+        ra, rb = find(a), find(b)
+        if ra != rb:
+            # the older node stays the root, so lineage order follows first appearance
+            parent[max(ra, rb, key=nodes.index)] = min(ra, rb, key=nodes.index)
+
+    for r in diffs.values():
+        for c in r["chapters"]:
+            if c["status"] != "matched" or not c.get("from") or not c.get("to"):
+                continue
+            a, b = by_file.get(c["from"]["file"]), by_file.get(c["to"]["file"])
+            if a and b:
+                union(a, b)
+            for side, ref in (("from", c.get("merged_from") or []), ("to", c.get("merged_to") or [])):
+                for m in ref:
+                    other = by_file.get(m.get("file", ""))
+                    if other and (a or b):
+                        union(other, b if side == "from" else a)
+    ids: dict[tuple[str, str], str] = {}
+    out: dict[tuple[str, str], str] = {}
+    for n in nodes:
+        root = find(n)
+        if root not in ids:
+            ids[root] = f"L{len(ids) + 1:02d}"
+        out[n] = ids[root]
+    return out
+
+
+def search_catalogue(books: dict, all_editions: dict[str, list[Edition]], lineages: dict[str, dict[tuple[str, str], str]]) -> dict:
+    """What the search page needs to draw a result: every book's editions in order with
+    their chip names, and every chapter lineage with its title and its chapter in each
+    edition."""
+    out = {"books": []}
+    for book_id, editions in all_editions.items():
+        book = books[book_id]
+        lines: dict[str, dict] = {}
+        for ed in editions:
+            for ch in ed.raw["chapters"]:
+                chdir = chapter_dir_name(ch["part"], ch["number"])
+                lid = lineages[book_id][(ed.id, chdir)]
+                entry = lines.setdefault(lid, {"id": lid, "title": "", "chapters": {}})
+                entry["chapters"][ed.id] = chdir
+                entry["title"] = display_title(ch["title"] or "") or entry["title"]  # the newest edition's title wins
+        out["books"].append({
+            "id": book_id, "title": book.title, "class": book.klass, "subject": book.subject,
+            "editions": [{"id": e.id, "short": short_label(e, editions), "label": e.label, "url": e.url,
+                          "partial": "partial" in e.id.split("-"), "ocr": bool(e.raw.get("ocr"))} for e in editions],
+            "lineages": sorted(lines.values(), key=lambda x: x["id"]),
+        })
+    return out
+
+
+def build_search_index(out: Path, *, log=print) -> int | None:
+    """Run Pagefind over the built site. Returns the number of pages indexed, or None when
+    the pagefind package is not installed (the site still builds, without search)."""
+    try:
+        from pagefind.index import IndexConfig, PagefindIndex
+    except ImportError:
+        log("search index skipped: the pagefind package is not installed (uv sync installs it)")
+        return None
+
+    async def run() -> None:
+        config = IndexConfig(output_path=str(out / "pagefind"), force_language="en")
+        async with PagefindIndex(config) as index:
+            await index.add_directory(str(out))
+
+    shutil.rmtree(out / "pagefind", ignore_errors=True)
+    asyncio.run(run())
+    entry = json.loads((out / "pagefind" / "pagefind-entry.json").read_text())
+    count = sum(lang.get("page_count", 0) for lang in entry.get("languages", {}).values())
+    log(f"search index: {count} pages (those with data-pagefind-body) under {out / 'pagefind'}")
+    return count
 
 
 # ---------- text and changes ----------
@@ -270,7 +391,7 @@ def sentence_html(s: Sentence, prefix: str = "", heading: bool = False, side: st
             if (side == "old" and op == "+") or (side == "new" and op == "-"):
                 continue
             t = escape(tok)
-            parts.append(t if op == "=" else (f"<del>{t}</del>" if op == "-" else f"<ins>{t}</ins>"))
+            parts.append(t if op == "=" else (f"<del data-pagefind-ignore>{t}</del>" if op == "-" else f"<ins>{t}</ins>"))
         inner = " ".join(parts)
     else:
         inner = escape(s.text)
@@ -289,14 +410,14 @@ def block_html(b: Block, side: str | None = None) -> str:
     inner = " ".join(sentence_html(s, heading=(b.kind == "heading"), side=side) for s in b.sentences)
     if b.kind == "heading":
         tag = {1: "h2", 2: "h3", 3: "h4"}.get(b.level, "h3")
-        cls = " class='ghost'" if b.para == -1 else ""
+        cls = " class='ghost' data-pagefind-ignore" if b.para == -1 else ""
         return f"<{tag}{cls}>{inner}</{tag}>"
     if b.kind == "body":
         return f"<p>{inner}</p>"
     if b.kind in SECTIONS:
         return f"<p class='sec sec-{b.kind}'>{inner}</p>"
     label = {"note": "Note", "caption": "Caption", "source": "Source", "table": "Table"}[b.kind] if b.kind in ("note", "caption", "source", "table") else b.kind
-    return f"<aside class='box box-{b.kind}'><span class=boxlabel>{label}</span> {inner}</aside>"
+    return f"<aside class='box box-{b.kind}'><span class=boxlabel data-pagefind-ignore>{label}</span> {inner}</aside>"
 
 
 def _dir_for_page(ed: Edition, primary: dict, merged: list[dict], page: int | None) -> str:
@@ -450,7 +571,7 @@ def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, 
     return written
 
 
-def build(out: Path, images_base: str, *, log=print) -> Path:
+def build(out: Path, images_base: str, *, search: bool = True, log=print) -> Path:
     env = _env()
     books = load_books()
     out.mkdir(parents=True, exist_ok=True)
@@ -465,9 +586,11 @@ def build(out: Path, images_base: str, *, log=print) -> Path:
     all_editions = {b: load_editions(b) for b in books if (MANIFEST_DIR / b / "editions.json").exists()}
 
     write("/", "index.html", editions=all_editions)
+    write("/search/", "search.html")
     write("/changes/", "changes.html", findings=_read_doc("findings.md"))
-    write("/method/", "method.html", sources=_read_doc("sources.md"), text_format=_read_doc("text-format.md"), engine=_read_doc("diff-engine.md"))
+    write("/method/", "method.html", sources=_read_doc("sources.md"), text_format=_read_doc("text-format.md"), engine=_read_doc("diff-engine.md"), search_doc=_read_doc("search.md"))
 
+    lineages: dict[str, dict[tuple[str, str], str]] = {}
     for book_id, editions in all_editions.items():
         book = books[book_id]
         diffs = {}
@@ -479,6 +602,7 @@ def build(out: Path, images_base: str, *, log=print) -> Path:
                     hunks.sort(key=lambda h: (h.get("old_page") or h.get("new_page") or 0, h["type"]))
                     c["real_hunks"] = hunks
             diffs[(r["from"], r["to"])] = r
+        lineages[book_id] = chapter_lineages(editions, diffs)
         write(f"/{book_id}/", "book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition, suspect_total=sum(r["summary"].get("suspect_pages", 0) for r in diffs.values()))
         write(f"/{book_id}/changes/", "changes_book.html", book=book, editions=editions, diffs=diffs, previous_edition=previous_edition, REAL=REAL)
         checks = page_checks(book_id, diffs, editions)
@@ -506,7 +630,11 @@ def build(out: Path, images_base: str, *, log=print) -> Path:
                 write(
                     f"/{book_id}/{ed.id}/{c['dir']}/", "chapter.html", book=book, editions=editions, ed=ed, prev=prev, chapter=c,
                     prev_chapter=chapters[i - 1] if i > 0 else None, next_chapter=chapters[i + 1] if i + 1 < len(chapters) else None,
-                    chdir=c["dir"],
+                    chdir=c["dir"], lineage=lineages[book_id][(ed.id, c["dir"])], edition_short=short_label(ed, editions),
                 )
         log(f"{book_id}: {len(editions)} editions, {sum(len(e.raw['chapters']) for e in editions)} chapter pages")
+    (out / "search").mkdir(parents=True, exist_ok=True)
+    (out / "search" / "catalogue.json").write_text(json.dumps(search_catalogue(books, all_editions, lineages), ensure_ascii=False))
+    if search:
+        build_search_index(out, log=log)
     return out

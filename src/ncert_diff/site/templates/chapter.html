@@ -34,7 +34,17 @@
       <div class="pageno">p. {{ p.page }}</div>
       {% endif %}
     </div>
-    <div class="text">{{ p.html|safe }}</div>
+    <div class="text" data-pagefind-body><span id="t{{ p.page }}" class="pf-page"></span>{% if loop.first %}<span hidden
+      data-pagefind-filter="book:{{ book.id }}" data-pagefind-meta="book:{{ book.id }}"></span><span hidden
+      data-pagefind-filter="class:{{ book.klass }}" data-pagefind-meta="class:{{ book.klass }}"></span><span hidden
+      data-pagefind-filter="subject:{{ book.subject }}" data-pagefind-meta="subject:{{ book.subject }}"></span><span hidden
+      data-pagefind-filter="edition:{{ ed.id }}" data-pagefind-meta="edition:{{ ed.id }}"></span><span hidden
+      data-pagefind-filter="lineage:{{ book.id }}/{{ lineage }}" data-pagefind-meta="lineage:{{ lineage }}"></span><span hidden
+      data-pagefind-meta="book_title:{{ book.title }}"></span><span hidden
+      data-pagefind-meta="edition_label:{{ ed.label }}"></span><span hidden
+      data-pagefind-meta="edition_short:{{ edition_short }}"></span><span hidden
+      data-pagefind-meta="chapter:{{ chdir }}"></span><span hidden
+      data-pagefind-meta="chapter_title:{{ chapter.ch.title|ttl }}"></span>{% endif %}{{ p.html|safe }}</div>
   </section>
 {% endfor %}
 </div>

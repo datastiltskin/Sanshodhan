@@ -21,4 +21,10 @@
   if (!document.getElementById("toggle-minor")) body.classList.add("minor-off");
   var sw = document.getElementById("edition-switch");
   if (sw) sw.addEventListener("change", function () { location.href = sw.value + location.hash; });
+  // Arriving from the search page: mark the search words on this page (Pagefind's own script).
+  if (new URLSearchParams(location.search).has("highlight")) {
+    import("/pagefind/pagefind-highlight.js").then(function () {
+      new PagefindHighlight({ highlightParam: "highlight" });
+    }).catch(function () {});
+  }
 })();

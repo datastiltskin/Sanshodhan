@@ -120,11 +120,12 @@ def render_pages(
 def build(
     out: Path = typer.Option(Path("site"), help="Output directory for the HTML."),
     images_base: str = typer.Option("/images", help="URL prefix where page images are served (local folder or object storage)."),
+    no_search: bool = typer.Option(False, "--no-search", help="Skip the Pagefind search index (faster local builds)."),
 ):
-    """Build the static site into site/."""
+    """Build the static site into site/, including the search index."""
     from .site.build import build as build_site
 
-    build_site(out, images_base.rstrip("/"), log=typer.echo)
+    build_site(out, images_base.rstrip("/"), search=not no_search, log=typer.echo)
     typer.echo(f"site written to {out}")
 
 

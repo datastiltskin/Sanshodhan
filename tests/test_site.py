@@ -80,3 +80,50 @@ def test_mark_side_marks_each_edition_with_its_own_half():
     assert "chg-inserted" in row["new"]["html"] and "chg-deleted" not in row["new"]["html"]
     assert "chg-deleted" in row["unified"] and "chg-inserted" in row["unified"]
     assert out["counts"] == {"deleted": 1, "inserted": 1}
+
+
+def _edition(book, ed_id, chapters, index):
+    from ncert_diff.site.build import Edition
+
+    raw = {"chapters": [{"part": None, "number": n, "title": t, "file": f"texts/{book}/{ed_id}/{n:02d}-x.md"} for n, t in chapters]}
+    return Edition(book, ed_id, raw, index, ed_id, "")
+
+
+def test_chapter_lineages_follow_renumbered_and_dropped_chapters():
+    from ncert_diff.site.build import chapter_lineages
+
+    eds = [
+        _edition("b", "2014-01-01", [(1, "One"), (2, "Two"), (3, "Three")], 0),
+        _edition("b", "2023-01-01-rationalised", [(1, "One"), (2, "Three")], 1),  # chapter 2 dropped, 3 renumbered to 2
+    ]
+    diffs = {("2014-01-01", "2023-01-01-rationalised"): {"chapters": [
+        {"status": "matched", "from": {"file": "texts/b/2014-01-01/01-x.md"}, "to": {"file": "texts/b/2023-01-01-rationalised/01-x.md"}},
+        {"status": "dropped", "from": {"file": "texts/b/2014-01-01/02-x.md"}, "to": None},
+        {"status": "matched", "from": {"file": "texts/b/2014-01-01/03-x.md"}, "to": {"file": "texts/b/2023-01-01-rationalised/02-x.md"}},
+    ]}}
+    lin = chapter_lineages(eds, diffs)
+    assert lin[("2014-01-01", "ch01")] == lin[("2023-01-01-rationalised", "ch01")] == "L01"
+    assert lin[("2014-01-01", "ch02")] == "L02"
+    assert lin[("2014-01-01", "ch03")] == lin[("2023-01-01-rationalised", "ch02")] == "L03"
+
+
+def test_short_label_adds_months_and_words_only_when_needed():
+    from ncert_diff.site.build import short_label
+
+    eds = [_edition("b", i, [], n) for n, i in enumerate(["2014-07-28", "2019-03-12", "2019-05-04", "2022-08-04-ocr", "2023-12-23-rationalised", "2025-partial", "rungtaias-undated", "live-2026-10-18"])]
+    labels = [short_label(e, eds) for e in eds]
+    assert labels == ["2014", "2019 Mar", "2019 May", "2022 scanned", "2023 rationalised", "2025 partial", "undated mirror", "2026 live"]
+
+
+def test_search_catalogue_lists_editions_and_lineages():
+    from ncert_diff.site.build import search_catalogue
+    from ncert_diff.sources import Book
+
+    eds = [_edition("b", "2014-01-01", [(1, "ONE"), (2, "Two")], 0), _edition("b", "2023-01-01", [(1, "One, Renamed")], 1)]
+    lineages = {"b": {("2014-01-01", "ch01"): "L01", ("2014-01-01", "ch02"): "L02", ("2023-01-01", "ch01"): "L01"}}
+    book = Book(id="b", title="Book", klass=7, subject="history", language="en", codes=[], first_chapter={}, snapshots=[])
+    cat = search_catalogue({"b": book}, {"b": eds}, lineages)
+    b = cat["books"][0]
+    assert [e["short"] for e in b["editions"]] == ["2014", "2023"]
+    assert b["lineages"][0] == {"id": "L01", "title": "One, Renamed", "chapters": {"2014-01-01": "ch01", "2023-01-01": "ch01"}}
+    assert b["lineages"][1]["chapters"] == {"2014-01-01": "ch02"}

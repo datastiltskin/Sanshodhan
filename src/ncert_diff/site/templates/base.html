@@ -15,6 +15,7 @@
       <a href="/changes/"{% if active == 'changes' %} class="active"{% endif %}>What changed</a>
       <a href="/method/"{% if active == 'method' %} class="active"{% endif %}>Method</a>
     </span>
+    {% if active != 'search' %}<form class="nav-search" action="/search/" role="search"><input type="search" name="q" placeholder="Search the books" aria-label="Search the textbooks"></form>{% endif %}
   </div>
 </nav>
 <main class="{% block mainclass %}{% endblock %}">

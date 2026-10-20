@@ -9,6 +9,7 @@ dependencies = [
     "jinja2>=3.1",
     "markdown>=3.6",
     "ocrmac>=1.0.1 ; sys_platform == 'darwin'",
+    "pagefind[bin]>=1.5,<2",
     "pillow>=10",
     "pymupdf>=1.24",
     "pyspellchecker>=0.9.1",
