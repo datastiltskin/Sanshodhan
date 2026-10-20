@@ -12,9 +12,10 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch04.pdf"
 source_sha256: "82734b433ad002c2add5b3b3e62dc3203ce2927b7f90495c9e8a86da890e3512"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "004c381cef11b7e902441cb1f5bd646ca3f83eba5e8f1a5a2ba4731dfafa9180"
+body_fingerprint: "868e879b65bb7682cb930135c885caa726708e906d26384f0c5dd5537037cc91"
 overrides:
   - "doubled semicolon in the Elsewhere box on page 57, the page has one"
+  - "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -171,7 +172,7 @@ While Akbar was at Fatehpur Sikri during the 1570s he started discussions on rel
 
 > [note] Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
 
-As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
+> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
 
 > [caption] Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.
 

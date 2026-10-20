@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch03.pdf"
 source_sha256: "4e420932015a742948f0686c141e30201ccfde30049586359bd35cded764759d"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "d819707fa47436c9859150e32b11780b5c65259aac5c05b62c4d494d92ea2562"
+body_fingerprint: "c9ba00d5b30b9a537b539ded91b0b6b0a44f0f6b28be57543aa95effbcbe0299"
+overrides:
+  - "page 43: the italic name's overhang left a space before the apostrophe (browser review 2026-10-20)"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -259,7 +261,7 @@ Knights and the Crusades
 
 ### Imagine
 
-You are a peasant in Alauddin Khalji ’s
+You are a peasant in Alauddin Khalji’s
 
 or Muhammad Tughluq’s reign and you cannot pay the taxes demanded by the Sultan. What will you do?
 

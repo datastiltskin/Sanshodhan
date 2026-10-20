@@ -10,7 +10,9 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch08.pdf"
 source_sha256: "48b34591e223542e72a3f32d6a2fd4ca784cff6378a8626ebd878939c9df3a71"
 pdf_pages: 18
 printed_pages: "104-121"
-body_fingerprint: "9da5e6fc93bf94982ba126463a79b0b11ee9c0bb7f19eacc006ec257e904d3c1"
+body_fingerprint: "9de8bd87787eb5607c2810bbbff9848e2a4139473fec41ddc4eec4879b337ff9"
+overrides:
+  - "page 115: Mirabai's song is a quoted source, one block as in the later printings (browser review 2026-10-20)"
 ---
 
 <!-- page 104 (pdf 1) -->
@@ -171,9 +173,7 @@ A unique feature of most of the saints is that their works were composed in regi
 
 > [note] This is a song composed by Mirabai:
 
-Ranaji, I have left your norms of shame, and false decorum of the princely life. I have left your town. And yet Rana why have you kept up enmity against me?
-
-Rana you gave me a cup of poison. I drank it laughing. Rana I will not be destroyed by you. And yet Rana why have you kept up enmity against me?
+> [source] Ranaji, I have left your norms of shame, and false decorum of the princely life. I have left your town. And yet Rana why have you kept up enmity against me? Rana you gave me a cup of poison. I drank it laughing. Rana I will not be destroyed by you. And yet Rana why have you kept up enmity against me?
 
 > [note] Why do you think Mirabai left the Rana’s palace?
 

@@ -12,7 +12,9 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch06.pdf"
 source_sha256: "b677932871196927d7c0ceab29b38b652db88b945c0d53afa4f3e78a65ae7deb"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "a4339868f3093edafd2864ee1ea137721661432bfd910befc2dfcffb174d2e71"
+body_fingerprint: "62838930a25d1ede18c55fed7ff6c2377611a4dcb541a0e631f76c2b94cf9c81"
+overrides:
+  - "page 88: the Imagine box text is one paragraph (browser review 2026-10-20)"
 ---
 
 <!-- page 75 (pdf 1) -->
@@ -211,9 +213,7 @@ Vasco da Gama and Christopher Columbus
 
 ### Imagine
 
-You are planning a journey from Surat
-
-to West Asia in the seventeenth century. What are the arrangements you will make?
+You are planning a journey from Surat to West Asia in the seventeenth century. What are the arrangements you will make?
 
 > [caption] The search for sea routes to India had another, unexpected fallout. On the assumption that the earth was round, Christopher Columbus, an Italian, decided to sail westwards across the Atlantic Ocean to find a route to India. He landed in the West Indies (which got their name because of this confusion) in 1492. He was followed by sailors and conquerors from Spain and Portugal, who occupied large parts of Central and South America, often destroying earlier settlements in the area.
 

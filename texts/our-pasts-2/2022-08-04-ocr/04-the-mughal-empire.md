@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch04.pdf"
 source_sha256: "dd093909165e906dccd974513391c6d3c833d032ee5b18cf612637968f36a7aa"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "d1937ae11db9f7402ccb9b75a3be03e8dae09722bf921dc5150b396deb265df9"
+body_fingerprint: "a4f6be1fb828103b5a22a90f07da9a22772801c45f3200f8ba4778a81d931252"
 ocr: true
 ocr_confidence: 94.5
 overrides:
@@ -19,6 +19,7 @@ overrides:
   - "OCR misread of Salim in Table 1 on page 48"
   - "text of the box and caption from page 53 spliced into the paragraph on page 52, which reads 'used one term – zamindars – to describe all intermediaries'"
   - "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it"
+  - "page 49: text wrapped around three portraits was read as table and caption rows with headings made of body lines, rebuilt from the page image"
 ---
 
 <!-- page 45 (pdf 1) -->
@@ -87,33 +88,19 @@ Bairam Khan and other members of his domestic staff. : Military campaigns were l
 
 <!-- page 49 (pdf 5) -->
 
-> [table] Jahangir 1605-1627
+### Jahangir 1605-1627
 
-The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E
+Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.
 
-> [caption] Shah Jahan 1627-1658
+### Shah Jahan 1627-1658
 
-Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.
+Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.
 
-> [caption] Aurangzeb 1658-1707
+### Aurangzeb 1658-1707
 
-## (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in }
+(1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the Marathas and the Deccan Sultanate. He finally fled to Safavid Iran.
 
-> [table] the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the
-
-> [table] ~ succession and internal politics of the Rathor Rajputs of . Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But
-
-## Aurangzeb insulted Shivaji who escaped from Agra, cama himself an independent king and resumed his
-
-> [table] campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the
-
-\ ys Marathas and the Deccan Sultanate. He finally fled to yo Safavid Iran.
-
-## hy _.. (2) After Akbar’s rebellion Aurangzeb sent armies against »
-
-> [table] ' the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally F managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east
-
-> [caption] of the Ahoms and in the Deccan of the Marathas. His death was followed
+(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons.
 
 <!-- page 50 (pdf 6) -->
 

@@ -9,13 +9,13 @@
   "body": {
    "deleted": 177,
    "inserted": 1,
-   "modified": 35,
+   "modified": 34,
    "moved": 1,
    "typographic": 30,
    "restreamed": 10,
    "resplit": 1,
    "unreadable": 5,
-   "punctuation": 51
+   "punctuation": 52
   },
   "other_streams": {
    "deleted": 168,
@@ -13262,8 +13262,8 @@
        "type": "equal",
        "stream": "source",
        "similarity": 1.0,
-       "old": "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
-       "new": "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
+       "old": "> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
+       "new": "> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
        "old_page": 55,
        "new_page": 45,
        "words": [],
@@ -24936,13 +24936,13 @@
      "counts": {
       "deleted": 57,
       "inserted": 0,
-      "modified": 8,
+      "modified": 7,
       "moved": 0,
       "typographic": 2,
       "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
-      "punctuation": 7
+      "punctuation": 8
      },
      "hunks": [
       {
@@ -25208,11 +25208,11 @@
        "new_pos": 18
       },
       {
-       "type": "modified",
+       "type": "punctuation",
        "stream": "body",
        "similarity": 0.998,
        "old": "The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713-1719) and Alamgir II (1754-1759) were assassinated, and two others Ahmad Shah (1748-1754) and Shah Alam II (1759-1816) were blinded by their nobles.",
-       "new": "The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713 –1719) and Alamgir II (1754 –1759) were assassinated, and two others, Ahmad Shah (1748 –1754) and Shah Alam II (1759 –1816) were blinded by their nobles.",
+       "new": "The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713–1719) and Alamgir II (1754–1759) were assassinated, and two others, Ahmad Shah (1748–1754) and Shah Alam II (1759–1816) were blinded by their nobles.",
        "old_page": 141,
        "new_page": 97,
        "words": [
@@ -25226,7 +25226,7 @@
         ],
         [
          "+",
-         "(1713 –1719)"
+         "(1713–1719)"
         ],
         [
          "=",
@@ -25238,7 +25238,7 @@
         ],
         [
          "+",
-         "(1754 –1759)"
+         "(1754–1759)"
         ],
         [
          "=",
@@ -25262,7 +25262,7 @@
         ],
         [
          "+",
-         "(1748 –1754)"
+         "(1748–1754)"
         ],
         [
          "=",
@@ -25274,7 +25274,7 @@
         ],
         [
          "+",
-         "(1759 –1816)"
+         "(1759–1816)"
         ],
         [
          "=",

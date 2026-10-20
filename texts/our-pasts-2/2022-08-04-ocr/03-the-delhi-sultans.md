@@ -10,11 +10,15 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch03.pdf"
 source_sha256: "047c1dc27df9b24ab72a10038bef31422279bfc31150231aa589ca91e325170f"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "29c6b9b900ba8fdf792146ca7e338934fdbfd31d9511ef10d92bab9b1132617c"
+body_fingerprint: "73a09b91bd3be407dfa9632ed058ede9f93b5a38ba91a7ebac48e7c63dfb41c1"
 ocr: true
 ocr_confidence: 94.2
 overrides:
   - "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
+  - "page 37: the paragraph wrapped around two figures was read as a caption in pieces with the figure captions mixed in, rebuilt from the page image"
+  - "'Tughluqs' read as 'Tughluqgs' in the heading on page 37"
+  - "'Iltutmish' read with a bracket on page 37"
+  - "captions of Figs. 4 and 5 on page 37 were folded into the paragraph"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -161,21 +165,17 @@ During prayer, Muslims stand facing Mecca. In India this is to the west. This is
 
 <!-- page 37 (pdf 8) -->
 
-> [caption] The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers Moth ki Masjid, built — in the reign of Sikandar Lodi by his minister.
+The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.
 
-who shared a belief
+> [note] Compare Figures 2, 3, 4 and 5. What similarities and differences do you notice amongst the mosques? The mosques in Figures 3, 4 and 5 show an evolution in architectural tradition that culminates in Shah Jahan’s mosque in Delhi (see Fig. 7 in Chapter 5).
 
-system and a code of conduct. It was necessary to reinforce this idea of a community because
+## A Closer Look: Administration and Consolidation under the Khaljis and Tughluqs
 
-Muslims came from a Fig-5 ; iety. of Mosque of Jamali backgrounds. late 1520s.
+The consolidation of a kingdom as vast as the Delhi Sultanate needed reliable governors and administrators. Rather than appointing aristocrats and landed chieftains as governors, the early Delhi Sultans, especially Iltutmish, favoured their special slaves purchased for military service, called bandagan in Persian. They were carefully trained to man some of the most important political offices in the kingdom. Since they were totally dependent upon their master, the Sultan could trust and rely upon them.
 
-variety O Kamali, built in the
+> [caption] Fig. 4 Moth ki Masjid, built in the reign of Sikandar Lodi by his minister.
 
-““ Compare Figures 2, 3, 4 and 5. What similarities and differences do you notice amongst the mosques? The mosques in Figures 3, 4.and 5 show an evolution in architectural tradition that culminates in Shah Jahan’s mosque in Delhi (see Fig. 7 in Chapter 5).
-
-## A Closer Look: Administration and Consolidation under the Khaljis and Tughluqgs
-
-The consolidation of a kingdom as vast as the Delhi Sultanate needed reliable governors and administrators. Rather than appointing aristocrats and landed chieftains as governors, the early Delhi Sultans, especially [ltutmish, favoured their special slaves purchased for military service, called bandagan in Persian. They were carefully trained to man some of the most important political offices in the kingdom. Since they were totally dependent upon their master, the Sultan could trust and rely upon them.
+> [caption] Fig. 5 Mosque of Jamali Kamali, built in the late 1520s.
 
 <!-- page 38 (pdf 9) -->
 

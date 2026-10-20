@@ -10,42 +10,60 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch01.pdf"
 source_sha256: "ab8424cf182be51c45571239102ccc71bae13066b98f5338f4e5138a169b8564"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "b72326044dbc2c5aa3b1bf2cb4f1f3e9ad076ca4dc24d6697e4ec3ffbd4cd58c"
+body_fingerprint: "1e2669f2b46c03f65ff8cf4491a5e1f2b5b527d12e536d25f9f8da3fbd8e1bc4"
 ocr: true
 ocr_confidence: 94.3
 overrides:
   - "drop capital T lost and small-capital CE read in lower case on page 1"
+  - "chapter title split into two headings on page 1, the page prints one title"
+  - "QR code label dropped and the Map 1 label and caption merged into one caption on page 1"
+  - "stray 'A' from the map border removed and the question box on page 2 is a note"
+  - "Map 2 label and caption merged on page 2 and 'l’Isle' read as U'Isle"
+  - "heading 'New and Old Terminologies' lost and spaced dash misread on page 3"
+  - "section heading on page 4 not marked as a heading"
+  - "box title 'The value of paper' ran into the paragraph on page 4 and the box was read as body text and a heading"
+  - "spaced dash and 'a word' run together on page 5"
+  - "Fig. 1 label merged with its caption and 'of a', 'cm in', 'called a' read run together on page 5"
+  - "'Fig. 2' label lost from the caption on page 6"
+  - "'of a' read as 'ofa' on page 7"
+  - "side-column glossary entry 'Habitat' on page 8 was not read, and the question box is a note"
+  - "'Tughluqs' read as 'Tughlugs' on page 9"
+  - "Map 3 caption read as table rows and split in three on page 9, 'ANDAMAN & NICOBAR ISLANDS' is a label inside the map and dropped, the printed legend of the 24 provinces re-read from the page image"
+  - "box on page 10: title not marked, the quoted line is a source in italics, the rest are notes, 'Ma‘bari' and 'know' misread"
+  - "side-column question on page 10 is a note"
+  - "page 12 prints a spaced en dash"
+  - "'Shafi’i' lost its last letter on page 12"
+  - "heading 'Thinking about Time and Historical Periods' read as noise on page 12 and the spaced dash is an en dash"
+  - "page 12 prints spaced en dashes"
+  - "page 12 prints a spaced en dash"
+  - "activity heading 'Let’s recall' lost on page 14"
+  - "page 14 exercises: question stems tagged as captions, Keywords box words run into the answers, blanks lost, all re-read from the page image"
+  - "activity heading 'Let’s understand' lost on page 15"
+  - "activity heading 'Let’s discuss' lost on page 15"
+  - "activity heading 'Let’s do' lost on page 15"
 ---
 
 <!-- page 1 (pdf 1) -->
 
-### TRACING CHANGES THROUGH
-
-### A THOUSAND YEARS
+# TRACING CHANGES THROUGH A THOUSAND YEARS
 
 Take a look at Maps 1 and 2. Map 1 was made in 1154 CE by the Arab geographer Al-Idrisi. The section reproduced here is a detail of the Indian subcontinent from his larger map of the world. Map 2 was made in the 1720s by a French cartographer. The two maps are quite different even though they are of the same area. In al-Idrisi’s map, south India is where we would expect to find north India and Sri Lanka is the island at the top. Place-names are marked in Arabic, and there are some well-known names like Kanauj in Uttar Pradesh (spelt in the map as Qanauj). Map 2 was made nearly 600 years after Map 1, during which time information about the subcontinent had changed considerably. This map seems more familiar to us and the coastal areas in particular are surprisingly detailed. This map was used by European sailors and merchants on their voyages (see Chapter 6).
 
-> [caption] 0760CHO1
-
-> [caption] Map 1
-
-> [caption] A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.
+> [caption] Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea.
 
 > [note] Cartographer A person who makes maps.
 
 <!-- page 2 (pdf 2) -->
 
-> [caption] A
+> [note] Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
 
-Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
-
-> [caption] Map 2
-
-> [caption] The subcontinent, from the early-eighteenth-century Atlas Nouveau of Guillaume de U'Isle.
+> [caption] Map 2 The subcontinent, from the early-eighteenth-century Atlas Nouveau of Guillaume de l’Isle.
 
 <!-- page 3 (pdf 3) -->
 
-Equally important is the fact that the science of cartography differed in the two periods. When historians read documents, maps and texts from the past they have to be sensitive to the different historical backgrounds - the contexts —- in which information about the past was produced.
+Equally important is the fact that the science of cartography differed in the two periods. When historians read documents, maps and texts from the past they have to be sensitive to the different historical backgrounds – the contexts – in which information about the past was produced.
+
+## New and Old Terminologies
 
 If the context in which information is produced changes with time, what about language and meanings? Historical records exist in a variety of languages which have changed considerably over the years. Medieval Persian, for example, is different from modern Persian. The difference is not just with regard to grammar and vocabulary; the meanings of words also change over time.
 
@@ -57,33 +75,33 @@ Can you think of any other words whose meanings change in different contexts?
 
 <!-- page 4 (pdf 4) -->
 
-Historians and their Sources
+## Historians and their Sources
 
 Historians use different types of sources to learn about the past depending upon the period of their study and the nature of their investigation. Last year, for example, you read about rulers of the Gupta dynasty and Harshavardhana. In this book we will read about the following thousand years, from roughly 700 to 1750.
 
-You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more The value of paper
+You will notice some continuity in the sources used by historians for the study of this period. They still rely on coins, inscriptions, architecture and textual records for information. But there is also considerable discontinuity. The number and variety of textual records increased dramatically during this period. They slowly displaced other types of available information. Through this period paper gradually became cheaper and more
 
-Compare the following:
+### The value of paper
 
-(1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
+> [note] Compare the following:
 
-(2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.
+> [note] (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
 
-# ?) When was paper more expensive and easily available °/ - inthe thirteenth or the fourteenth century?
+> [note] (2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.
+
+> [note] When was paper more expensive and easily available – in the thirteenth or the fourteenth century?
 
 <!-- page 5 (pdf 5) -->
 
 widely available. People used it to write holy texts, chronicles of rulers, letters and teachings of saints, petitions and judicial records, and for registers of accounts and taxes. Manuscripts were collected by wealthy people, rulers, monasteries and temples. They were placed in libraries and archives. These manuscripts and documents provide a lot of detailed information to historians but they are also difficult to use.
 
-There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes —aword here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result historians have to read different manuscript versions of the same text to guess what the author had originally written.
+There was no printing press in those days so scribes copied manuscripts by hand. If you have ever copied a friend’s homework you would know that this is not a simple exercise. Sometimes you cannot read your friend’s handwriting and are forced to guess what is written. As a result there are small but significant differences in your copy of your friend’s work. Manuscript copying is somewhat similar. As scribes copied manuscripts, they also introduced small changes – a word here, a sentence there. These small differences grew over centuries of copying until manuscripts of the same text became substantially different from one another. This is a serious problem because we rarely find the original manuscript of the author today. We are totally dependent upon the copies made by later scribes. As a result historians have to read different manuscript versions of the same text to guess what the author had originally written.
 
 > [caption] Archive
 
 > [caption] A place where documents and manuscripts are stored. Today all national and state governments have archives where they keep all their old official records and transactions.
 
-> [caption] Fig. 1
-
-> [caption] A painting of a scribe making a copy ofa manuscript. This painting is only 10.5 cm by 7.1 cmin size. Because of its size it is calleda miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
+> [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature. Miniature paintings were sometimes used to illustrate the texts of manuscripts. They were so beautiful that later collectors often took the manuscripts apart and sold just the miniatures.
 
 <!-- page 6 (pdf 6) -->
 
@@ -93,11 +111,11 @@ On occasion authors revised their chronicles at different times. The fourteenth-
 
 The study of the thousand years between 700 and 1750 is a huge challenge to historians largely because of the scale and variety of developments that occurred over the period. At different moments in this period new technologies made their appearance — like the Persian wheel in irrigation, the spinning wheel in weaving, and firearms in combat. New foods and beverages arrived in the subcontinent — potatoes, corn, chillies, tea and coffee. Remember that all these innovations — new technologies and crops — came along with people, who brought other ideas with them as well. As a result, this was a period of economic, political, social and cultural changes. You will learn about some of these changes in Chapters 5, 6 and 7.
 
-> [caption] Different kinds of handwriting could make the reading of Persian and Arabic difficult. The nastaliq style (on the left) is cursive and easy to read, the shikaste (on the right) is denser and more difficult.
+> [caption] Fig. 2 Different kinds of handwriting could make the reading of Persian and Arabic difficult. The nastaliq style (on the left) is cursive and easy to read, the shikaste (on the right) is denser and more difficult.
 
 <!-- page 7 (pdf 7) -->
 
-This was also a period of great mobility. Groups of people travelled long distances in search of opportunity. The subcontinent held immense wealth and the possibilities for people to carve a fortune. One group of people who became important in this period were the Rajputs, a name derived from “Rajaputra”, the son ofa ruler. Between the eighth and fourteenth centuries the term was applied more generally to a group of warriors who claimed Kshatriya caste status. The term included not just rulers and chieftains but also soldiers and commanders who served in the armies of different monarchs all over the subcontinent. A chivalric code of conduct — extreme valour and a great sense of loyalty — were the qualities attributed to Rajputs by their poets and bards. Other groups of people such as the Marathas, Sikhs, Jats, Ahoms and Kayasthas (a caste of scribes and secretaries) also used the opportunities of the age to become politically important.
+This was also a period of great mobility. Groups of people travelled long distances in search of opportunity. The subcontinent held immense wealth and the possibilities for people to carve a fortune. One group of people who became important in this period were the Rajputs, a name derived from “Rajaputra”, the son of a ruler. Between the eighth and fourteenth centuries the term was applied more generally to a group of warriors who claimed Kshatriya caste status. The term included not just rulers and chieftains but also soldiers and commanders who served in the armies of different monarchs all over the subcontinent. A chivalric code of conduct — extreme valour and a great sense of loyalty — were the qualities attributed to Rajputs by their poets and bards. Other groups of people such as the Marathas, Sikhs, Jats, Ahoms and Kayasthas (a caste of scribes and secretaries) also used the opportunities of the age to become politically important.
 
 > [caption] Fig. 3 The Persian wheel.
 
@@ -107,39 +125,37 @@ Throughout this period there was a gradual clearing of forests and the extension
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
 
-Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
+Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
+
+> [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
 <!-- page 9 (pdf 9) -->
 
 ## Region and Empire
 
-Large states like those of the Cholas (Chapter 2), Tughlugs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions — Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat — apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
+Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions — Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat — apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
 
-> [table] — Map 3
+> [caption] Map 3 Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source Masalik al-Absar fi Mamalik al-Amsar of Shihabuddin Umari.
 
-> [table] 2 \ Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source
-
-> [caption] me Masalik al-Absar fi a eS Mamalik al-Amsar of _ Shihabuddin Umari.
-
-> [caption] ANDAMAN & NICOBAR ISLANDS
-
-> [caption] Siwistan VIL Sarsuti XII = Kara XIX = Gujarat 1 Uchch Vill Kuhram XIV. = Awadh XX ~— Devagiri Ti = Multan IX Hansi XV Bihar XXI_—Tilingana TV Kalanaur X Delhi XVI Lakhnauti XX Talanj V___Lahor XI Badayun XVII Jajnagar XXIII Dvarasamudra VI Samana XI Qannauj XVIII Malwa XXTY Ma'bar
+> [caption] I Siwistan II Uchch III Multan IV Kalanaur V Lahor VI Samana VII Sarsuti VIII Kuhram IX Hansi X Delhi XI Badayun XII Qannauj XIII Kara XIV Awadh XV Bihar XVI Lakhnauti XVII Jajnagar XVIII Malwa XIX Gujarat XX Devagiri XXI Tilingana XXII Talanj XXIII Dvarasamudra XXIV Ma‘bar
 
 <!-- page 10 (pdf 10) -->
 
-Language and region
+### Language and region
 
-In 1318 the poet Amir Khusrau noted that there was a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma ‘bari (in Tamil Nadu), Gauri, (in Bengal)... Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).
+> [note] In 1318 the poet Amir Khusrau noted that there was
 
-Amir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not Rnow it, only the Brahmanas do”.
+> [source] a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma‘bari (in Tamil Nadu), Gauri, (in Bengal) … Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).
 
-Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.
+> [note] Amir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not know it, only the Brahmanas do”.
 
-Did you notice that the names by which languages are known have changed over time?
+> [note] Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.
+
+> [note] Did you notice that the names by which languages are known have changed over time?
 
 By 700 many regions already possessed distinct geographical dimensions and their own language and cultural characteristics. You will learn more about these in Chapter 9. They were also associated with specific ruling dynasties. There was considerable conflict between these states. Occasionally dynasties like the Cholas, Khaljis, Tughluqs and Mughals were able to build an empire that was pan-regional — spanning diverse regions. Not all these empires were equally stable or successful. Compare, for example, Table 1 in Chapters 3 and 4. What was the duration of rule of the Khalji and Mughal dynasties?
 
-> [caption] Why do you think rulers made such claims?
+> [note] Why do you think rulers made such claims?
 
 <!-- page 11 (pdf 11) -->
 
@@ -171,11 +187,13 @@ Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and B
 
 This was also the period when new religions appeared in the subcontinent. Merchants and migrants first brought the teachings of the holy Quran to India in the seventh century. Muslims regard the Quran as their holy book and accept the sovereignty of the one God, Allah, whose love, mercy and bounty embrace all those who believe in Him, without regard to social background.
 
-Many rulers were patrons of Islam and the ulama — learned theologians and jurists. And like Hinduism, Islam was interpreted in a variety of ways by its followers. There were the Shia Muslims who believed that the Prophet Muhammad’s son-in-law, Ali, was the legitimate leader of the Muslim community, and the Sunni Muslims who accepted the authority of the early leaders (Khalifas) of the community, and the succeeding Khalifas. There were other important differences between the various schools of law (Hanafi and Shafi’ mainly in India), and in theology and mystic traditions.
+Many rulers were patrons of Islam and the ulama – learned theologians and jurists. And like Hinduism, Islam was interpreted in a variety of ways by its followers. There were the Shia Muslims who believed that the Prophet Muhammad’s son-in-law, Ali, was the legitimate leader of the Muslim community, and the Sunni Muslims who accepted the authority of the early leaders (Khalifas) of the community, and the succeeding Khalifas. There were other important differences between the various schools of law (Hanafi and Shafi’i mainly in India), and in theology and mystic traditions.
 
-iC 10 mean LO ‘IC >| p Cc Historians do not see time just as a passing of hours, days or years — as a clock or a calendar. Time also reflects changes in social and economic organisation, in the persistence and transformation of ideas and beliefs. The study of time is made somewhat easier by dividing the past into large segments — periods — that possess shared characteristics.
+## Thinking about Time and Historical Periods
 
-In the middle of the nineteenth century British historians divided the history of India into three periods: “Hindu”, “Muslim” and “British”. This division was based on the idea that the religion of rulers was the only important historical change, and that there were no other significant developments - in the economy, society or culture. Such a division also ignored the rich diversity of the subcontinent.
+Historians do not see time just as a passing of hours, days or years – as a clock or a calendar. Time also reflects changes in social and economic organisation, in the persistence and transformation of ideas and beliefs. The study of time is made somewhat easier by dividing the past into large segments – periods – that possess shared characteristics.
+
+In the middle of the nineteenth century British historians divided the history of India into three periods: “Hindu”, “Muslim” and “British”. This division was based on the idea that the religion of rulers was the only important historical change, and that there were no other significant developments – in the economy, society or culture. Such a division also ignored the rich diversity of the subcontinent.
 
 <!-- page 13 (pdf 13) -->
 
@@ -191,29 +209,45 @@ During these thousand years the societies of the subcontinent were transformed o
 
 You are a historian. Choose one of the themes mentioned in this chapter, such as economic, social or political history, and discuss why you think it would be interesting to find out the history of that theme.
 
+### Let’s recall
+
 1. Who was considered a “foreigner” in the past?
 
-> [caption] 2. State whether true or false:
+2. State whether true or false:
 
-(a) We do not find inscriptions for the period after KEYWORDS 700. (b) The Marathas asserted their political importance
+(a) We do not find inscriptions for the period after 700.
 
-. during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural; settlements. region
+(b) The Marathas asserted their political importance during this period.
 
-(d) Sultan Ghiyasuddin Balban controlled Assam, periodisation Manipur and Kashmir.
+(c) Forest-dwellers were sometimes pushed out of their lands with the spread of agricultural settlements.
 
-> [caption] 3. Fill in the blanks:
+(d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.
 
-(a) Archives are places where are kept.
+3. Fill in the blanks:
 
-(b) ———————- was a fourteenth-century chronicler.
+(a) Archives are places where ——————— are kept.
 
-some of the new crops introduced into the subcontinent during this period.
+(b) —————— was a fourteenth-century chronicler.
+
+(c) ——, ———, ———, ——— and ——— were some of the new crops introduced into the subcontinent during this period.
 
 4. List some of the technological changes associated with this period.
+
+### Keywords
+
+- manuscript
+
+- jati
+
+- region
+
+- periodisation
 
 <!-- page 15 (pdf 15) -->
 
 5. What were some of the major religious developments during this period?
+
+### Let’s understand
 
 6. In what ways has the meaning of the term “Hindustan” changed over the centuries?
 
@@ -221,9 +255,13 @@ some of the new crops introduced into the subcontinent during this period.
 
 8. What does the term pan-regional empire mean?
 
+### Let’s discuss
+
 9. What are the difficulties historians face in using manuscripts?
 
 10. How do historians divide the past into periods? Do they face any problems in doing so?
+
+### Let’s do
 
 11. Compare either Map 1 or Map 2 with the present-day map of the subcontinent, listing as many similarities and differences as you can find.
 

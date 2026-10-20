@@ -10,7 +10,10 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch05.pdf"
 source_sha256: "97f89dc6e7bf6b1f656ecc33d7af1f3f2e12b6b3fd7a12fc9dd9b6453734eb39"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "17f4ed5bdd4b553a8be57b709b86acbfd4f70827c80575106c523d50d1cb0647"
+body_fingerprint: "5d18a84c87e2954ec1b168ba61b9e0542ca73fa3141c55dcae06036f1faf1138"
+overrides:
+  - "page 62 to 63: the box title 'Temple Construction in the Early Eleventh Century' was glued to the next paragraph (browser review 2026-10-20)"
+  - "page 72: the Fig. 17 caption was glued to the end of the body paragraph (browser review 2026-10-20)"
 ---
 
 <!-- page 60 (pdf 2) -->
@@ -47,7 +50,9 @@ Superstructure The part of a building above the ground floor.
 
 <!-- page 62 (pdf 4) -->
 
-Temple Construction in the Early Eleventh Century Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”.
+> [note] Temple Construction in the Early Eleventh Century
+
+Two technological and stylistic developments are noticeable from the twelfth century. (1) The weight of the superstructure above the doors and windows was sometimes carried by arches. This architectural form was called “arcuate”.
 
 > [caption] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by King Dhangadeva of the Chandela dynasty. Fig. 3b is the plan of the temple. An ornamented gateway led to an entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
@@ -161,7 +166,9 @@ The creation of large empires that brought different regions under their rule he
 
 Mughal rulers were particularly skilled in adapting regional architectural styles in the construction of their own buildings. In Bengal, for example, the local rulers had developed a roof that was designed to resemble a thatched hut. The Mughals liked this “Bangla dome” (see Fig. ... in Chapter 9) so much that they used it in their architecture. The impact of other regions was also evident. In Akbar’s capital at Fatehpur Sikri many of the buildings bear the impact of the architectural styles of Gujarat and Malwa.
 
-Even though the authority of the Mughal rulers waned in the eighteenth century, the architectural styles developed under their patronage were constantly used and adapted by other rulers whenever they tried to establish their own kingdoms. Fig. 17 Decorated pillars and struts holding the extension of the roof in Jodh Bai palace in Fatehpur Sikri. These follow architectural traditions of the Gujarat region.
+Even though the authority of the Mughal rulers waned in the eighteenth century, the architectural styles developed under their patronage were constantly used and adapted by other rulers whenever they tried to establish their own kingdoms.
+
+> [caption] Fig. 17 Decorated pillars and struts holding the extension of the roof in Jodh Bai palace in Fatehpur Sikri. These follow architectural traditions of the Gujarat region.
 
 Churches that touched the skies
 

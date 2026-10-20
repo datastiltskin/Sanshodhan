@@ -10,7 +10,12 @@ source_pdf: "pdfs/our-pasts-2/2023-12-23/ch08.pdf"
 source_sha256: "b0553e52730a973ecc90b0c221d46604c20672669f407191360020f8645f93f2"
 pdf_pages: 13
 printed_pages: "94-106"
-body_fingerprint: "d801f6191eb29f88ba4db8372714cb2bcb9b4db65da6bf921d07207929f21bbf"
+body_fingerprint: "0083655ceccaacf70dfa738c030c1fdeaf453010e096c47760bb81b299abceda"
+overrides:
+  - "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+  - "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+  - "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+  - "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
 ---
 
 <!-- page 94 (pdf 1) -->
@@ -59,7 +64,7 @@ In the midst of this economic and political crisis, the ruler of Iran, Nadir Sha
 
 > [source] (those) … who had been masters were now in dire straits; and those who had been revered couldn’t even (get water to) quench their thirst. The recluses were pulled out of their corners. The wealthy were turned into beggars. Those who once set the style in clothes now went naked; and those who owned property were now homeless … The New City (Shahjahanabad) was turned into rubble. (Nadir Shah) then attacked the Old quarters of the city and destroyed a whole world that existed there …
 
-Already under severe pressure from all sides, the empire was further weakened by competition amongst different groups of nobles. They were divided into two major groups or factions, the Iranis and Turanis (nobles of Turkish descent). For a long time, the later Mughal emperors were puppets in the hands of either one or the other of these two powerful groups. The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713 –1719) and Alamgir II (1754 –1759) were assassinated, and two others, Ahmad Shah (1748 –1754) and Shah Alam II (1759 –1816) were blinded by their nobles.
+Already under severe pressure from all sides, the empire was further weakened by competition amongst different groups of nobles. They were divided into two major groups or factions, the Iranis and Turanis (nobles of Turkish descent). For a long time, the later Mughal emperors were puppets in the hands of either one or the other of these two powerful groups. The worst possible humiliation came when two Mughal emperors, Farrukh Siyar (1713–1719) and Alamgir II (1754–1759) were assassinated, and two others, Ahmad Shah (1748–1754) and Shah Alam II (1759–1816) were blinded by their nobles.
 
 > [caption] Fig. 1 A 1779 portrait of Nadir Shah.
 

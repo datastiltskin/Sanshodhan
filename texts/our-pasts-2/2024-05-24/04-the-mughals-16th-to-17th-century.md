@@ -11,11 +11,12 @@ source_pdf: "pdfs/our-pasts-2/2024-05-24/ch04.pdf"
 source_sha256: "c50ba0c363586bddb4834f2883d378fa848e6c2239836a5f6057a376f97a7f0b"
 pdf_pages: 10
 printed_pages: "39-48"
-body_fingerprint: "69467e7a97c61860f36c08cbae8f8d45258dc5a828901707010467d2a2e5a47c"
+body_fingerprint: "0f9bc5ccc811b74052e2f1bcbdddc4f1d0e8d4340060aa488e26b4075cf89961"
 overrides:
   - "paragraph opening read as a heading and words out of order on page 40, the page reads 'succeeded to the throne of Ferghana in 1494 when he was only 12 years old.'"
   - "apostrophe lost on page 45"
   - "stray colon after an italic word on page 47"
+  - "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -112,7 +113,7 @@ The adjoining document is an order (farman) of Nur Jahan. The square seal states
 
 Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
 
-As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
+> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
 
 ## The Mughal Empire in the Seventeenth Century and After
 

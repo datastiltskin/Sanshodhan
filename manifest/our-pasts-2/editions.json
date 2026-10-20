@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "a3097b6ccb955dcd7c3b8da35b75a7f94c79f7dc36a90ad32d1677cfae85ccaa",
+      "fingerprint": "1f82559f76a4d63cb25fab1c215bfea228dd17618db79eb065ea31355dac8e6f",
       "snapshots": [
         "2014-07-28"
       ],
@@ -82,7 +82,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "d819707fa47436c9859150e32b11780b5c65259aac5c05b62c4d494d92ea2562",
+          "fingerprint": "c9ba00d5b30b9a537b539ded91b0b6b0a44f0f6b28be57543aa95effbcbe0299",
           "role_counts": {
             "footer": 30,
             "dropcap": 1,
@@ -99,7 +99,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 43: the italic name's overhang left a space before the apostrophe (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2014-07-28/03-the-delhi-sultans.md"
         },
         {
@@ -136,7 +138,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "17f4ed5bdd4b553a8be57b709b86acbfd4f70827c80575106c523d50d1cb0647",
+          "fingerprint": "5d18a84c87e2954ec1b168ba61b9e0542ca73fa3141c55dcae06036f1faf1138",
           "role_counts": {
             "footer": 22,
             "dropcap": 1,
@@ -153,7 +155,10 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 62 to 63: the box title 'Temple Construction in the Early Eleventh Century' was glued to the next paragraph (browser review 2026-10-20)",
+            "page 72: the Fig. 17 caption was glued to the end of the body paragraph (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2014-07-28/05-rulers-and-buildings.md"
         },
         {
@@ -163,7 +168,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "a4339868f3093edafd2864ee1ea137721661432bfd910befc2dfcffb174d2e71",
+          "fingerprint": "62838930a25d1ede18c55fed7ff6c2377611a4dcb541a0e631f76c2b94cf9c81",
           "role_counts": {
             "footer": 30,
             "dropcap": 1,
@@ -178,7 +183,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 88: the Imagine box text is one paragraph (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2014-07-28/06-towns-traders-and-craftspersons.md"
         },
         {
@@ -213,7 +220,7 @@
           "pdf": "pdfs/our-pasts-2/2014-07-28/ch08.pdf",
           "pdf_pages": 18,
           "printed_pages": "104-121",
-          "fingerprint": "9da5e6fc93bf94982ba126463a79b0b11ee9c0bb7f19eacc006ec257e904d3c1",
+          "fingerprint": "9de8bd87787eb5607c2810bbbff9848e2a4139473fec41ddc4eec4879b337ff9",
           "role_counts": {
             "footer": 36,
             "dropcap": 1,
@@ -228,7 +235,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 115: Mirabai's song is a quoted source, one block as in the later printings (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2014-07-28/08-devotional-paths-to-the-divine.md"
         },
         {
@@ -286,7 +295,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "6cc630eef77fc01e9d75b9d27992f9e30392a4073fb7c80548cb22d4d07bf4f9",
+      "fingerprint": "b2cd1e582577b8813f6492194e34b2b7180419673cd98129d1cc148e74ffc50d",
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16",
@@ -374,7 +383,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "d819707fa47436c9859150e32b11780b5c65259aac5c05b62c4d494d92ea2562",
+          "fingerprint": "c9ba00d5b30b9a537b539ded91b0b6b0a44f0f6b28be57543aa95effbcbe0299",
           "role_counts": {
             "footer": 30,
             "dropcap": 1,
@@ -391,7 +400,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 43: the italic name's overhang left a space before the apostrophe (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2016-09-10/03-the-delhi-sultans.md"
         },
         {
@@ -401,7 +412,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "004c381cef11b7e902441cb1f5bd646ca3f83eba5e8f1a5a2ba4731dfafa9180",
+          "fingerprint": "868e879b65bb7682cb930135c885caa726708e906d26384f0c5dd5537037cc91",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
@@ -419,7 +430,8 @@
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": [
-            "doubled semicolon in the Elsewhere box on page 57, the page has one"
+            "doubled semicolon in the Elsewhere box on page 57, the page has one",
+            "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
           ],
           "file": "texts/our-pasts-2/2016-09-10/04-the-mughal-empire.md"
         },
@@ -430,7 +442,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "3fb01c3ecde6792b518427d55f0b50c3b12c10d18cb0cee38a381e4b1ec4a17b",
+          "fingerprint": "b47f98ffa3ad2c7ba6528ead3f55bcfa3a49a89020751bcf1c0664287d231e23",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
@@ -446,7 +458,11 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 62: the Fig. 4 caption runs on past the side question to 'Village of the Incline' and is one caption (browser review 2026-10-20)",
+            "page 73: the Imagine box text is one paragraph (browser review 2026-10-20)",
+            "page 64: 'W' is the west point of the compass drawing, not a caption (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2016-09-10/05-rulers-and-buildings.md"
         },
         {
@@ -456,7 +472,7 @@
           "pdf": "pdfs/our-pasts-2/2016-09-10/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "a4339868f3093edafd2864ee1ea137721661432bfd910befc2dfcffb174d2e71",
+          "fingerprint": "62838930a25d1ede18c55fed7ff6c2377611a4dcb541a0e631f76c2b94cf9c81",
           "role_counts": {
             "footer": 30,
             "dropcap": 1,
@@ -471,7 +487,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 88: the Imagine box text is one paragraph (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2016-09-10/06-towns-traders-and-craftspersons.md"
         },
         {
@@ -579,7 +597,7 @@
     },
     {
       "id": "2019-05-04",
-      "fingerprint": "ee6fdce7c9750dcaa5661d6b633a2165b028bda11eb67ee4f336bcf393593da3",
+      "fingerprint": "5345610e095dafe75dfa40da7d8b10b97dc3b289d6440e46314a15d2a5f018bc",
       "snapshots": [
         "2019-05-04",
         "2020-06-16",
@@ -716,7 +734,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2019-05-04/04-the-mughal-empire.md"
         },
         {
@@ -726,7 +746,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch05.pdf",
           "pdf_pages": 15,
           "printed_pages": "60-74",
-          "fingerprint": "0430e705d358e68cc25199410c18beb3d5d17d3761d3cce0d43211217b8608dc",
+          "fingerprint": "dc8f0b5ae00d9fc1a6c011513df3a9fe7f73b4ae5e213ba0ae4dc79cfb5a551f",
           "role_counts": {
             "footer": 45,
             "dropcap": 1,
@@ -742,7 +762,12 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 62: the Fig. 4 caption runs on past the side question to 'Village of the Incline' and is one caption (browser review 2026-10-20)",
+            "page 73: the Imagine box text is one paragraph (browser review 2026-10-20)",
+            "page 61: the 'Labour for the Agra Fort' box is a note, as the 2007 printing has it (browser review 2026-10-20)",
+            "page 64: 'W' is the west point of the compass drawing, not a caption (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2019-05-04/05-rulers-and-buildings.md"
         },
         {
@@ -752,7 +777,7 @@
           "pdf": "pdfs/our-pasts-2/2019-05-04/ch06.pdf",
           "pdf_pages": 16,
           "printed_pages": "75-90",
-          "fingerprint": "f977d3f3dde6e1aca616e6c10d64a1961b1a72e987565e457d80ed5b49897345",
+          "fingerprint": "fcedc7e91700823c0a6411bde41165fd412a70762658b369a99f168dbd20963f",
           "role_counts": {
             "footer": 48,
             "dropcap": 1,
@@ -768,7 +793,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 88: the Imagine box text is one paragraph (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2019-05-04/06-towns-traders-and-craftspersons.md"
         },
         {
@@ -878,7 +905,7 @@
     },
     {
       "id": "2022-08-04-ocr",
-      "fingerprint": "168091928289ebc37ef169e1080268c0e0dcb3fb3c7e8956c78d51fe834c166e",
+      "fingerprint": "2bd4540d35530b30ff97014f2ed174478a43f9990791e36201f1c11acbf61aea",
       "snapshots": [
         "2022-08-04"
       ],
@@ -921,7 +948,7 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch01.pdf",
           "pdf_pages": 15,
           "printed_pages": "1-15",
-          "fingerprint": "b72326044dbc2c5aa3b1bf2cb4f1f3e9ad076ca4dc24d6697e4ec3ffbd4cd58c",
+          "fingerprint": "1e2669f2b46c03f65ff8cf4491a5e1f2b5b527d12e536d25f9f8da3fbd8e1bc4",
           "role_counts": {
             "h3": 3,
             "body": 69,
@@ -936,7 +963,33 @@
           "ocr_confidence": 94.3,
           "ocr_pages": null,
           "overrides": [
-            "drop capital T lost and small-capital CE read in lower case on page 1"
+            "drop capital T lost and small-capital CE read in lower case on page 1",
+            "chapter title split into two headings on page 1, the page prints one title",
+            "QR code label dropped and the Map 1 label and caption merged into one caption on page 1",
+            "stray 'A' from the map border removed and the question box on page 2 is a note",
+            "Map 2 label and caption merged on page 2 and 'l’Isle' read as U'Isle",
+            "heading 'New and Old Terminologies' lost and spaced dash misread on page 3",
+            "section heading on page 4 not marked as a heading",
+            "box title 'The value of paper' ran into the paragraph on page 4 and the box was read as body text and a heading",
+            "spaced dash and 'a word' run together on page 5",
+            "Fig. 1 label merged with its caption and 'of a', 'cm in', 'called a' read run together on page 5",
+            "'Fig. 2' label lost from the caption on page 6",
+            "'of a' read as 'ofa' on page 7",
+            "side-column glossary entry 'Habitat' on page 8 was not read, and the question box is a note",
+            "'Tughluqs' read as 'Tughlugs' on page 9",
+            "Map 3 caption read as table rows and split in three on page 9, 'ANDAMAN & NICOBAR ISLANDS' is a label inside the map and dropped, the printed legend of the 24 provinces re-read from the page image",
+            "box on page 10: title not marked, the quoted line is a source in italics, the rest are notes, 'Ma‘bari' and 'know' misread",
+            "side-column question on page 10 is a note",
+            "page 12 prints a spaced en dash",
+            "'Shafi’i' lost its last letter on page 12",
+            "heading 'Thinking about Time and Historical Periods' read as noise on page 12 and the spaced dash is an en dash",
+            "page 12 prints spaced en dashes",
+            "page 12 prints a spaced en dash",
+            "activity heading 'Let’s recall' lost on page 14",
+            "page 14 exercises: question stems tagged as captions, Keywords box words run into the answers, blanks lost, all re-read from the page image",
+            "activity heading 'Let’s understand' lost on page 15",
+            "activity heading 'Let’s discuss' lost on page 15",
+            "activity heading 'Let’s do' lost on page 15"
           ],
           "title_borrowed_from": "2021-08-13",
           "file": "texts/our-pasts-2/2022-08-04-ocr/01-tracing-changes-through-a-thousand-years.md"
@@ -976,7 +1029,7 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch03.pdf",
           "pdf_pages": 15,
           "printed_pages": "30-44",
-          "fingerprint": "29c6b9b900ba8fdf792146ca7e338934fdbfd31d9511ef10d92bab9b1132617c",
+          "fingerprint": "73a09b91bd3be407dfa9632ed058ede9f93b5a38ba91a7ebac48e7c63dfb41c1",
           "role_counts": {
             "caption": 31,
             "h2": 7,
@@ -991,7 +1044,11 @@
           "ocr_confidence": 94.2,
           "ocr_pages": null,
           "overrides": [
-            "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat"
+            "OCR doubled the letter in the Fig. 2 caption on page 36, the page reads Quwwat",
+            "page 37: the paragraph wrapped around two figures was read as a caption in pieces with the figure captions mixed in, rebuilt from the page image",
+            "'Tughluqs' read as 'Tughluqgs' in the heading on page 37",
+            "'Iltutmish' read with a bracket on page 37",
+            "captions of Figs. 4 and 5 on page 37 were folded into the paragraph"
           ],
           "title_borrowed_from": "2021-08-13",
           "file": "texts/our-pasts-2/2022-08-04-ocr/03-the-delhi-sultans.md"
@@ -1003,7 +1060,7 @@
           "pdf": "pdfs/our-pasts-2/2022-08-04/ch04.pdf",
           "pdf_pages": 15,
           "printed_pages": "45-59",
-          "fingerprint": "d1937ae11db9f7402ccb9b75a3be03e8dae09722bf921dc5150b396deb265df9",
+          "fingerprint": "a4f6be1fb828103b5a22a90f07da9a22772801c45f3200f8ba4778a81d931252",
           "role_counts": {
             "h2": 10,
             "body": 78,
@@ -1021,7 +1078,8 @@
             "stray OCR token in Table 1 on page 48, the page reads 'after an accident'",
             "OCR misread of Salim in Table 1 on page 48",
             "text of the box and caption from page 53 spliced into the paragraph on page 52, which reads 'used one term – zamindars – to describe all intermediaries'",
-            "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it"
+            "end of the Akbar Nama and Ain-i Akbari box on page 53, moved here from the page 52 paragraph where it had been spliced, with the Fig. 7 caption as the page prints it",
+            "page 49: text wrapped around three portraits was read as table and caption rows with headings made of body lines, rebuilt from the page image"
           ],
           "title_borrowed_from": "2021-08-13",
           "file": "texts/our-pasts-2/2022-08-04-ocr/04-the-mughal-empire.md"
@@ -1188,7 +1246,7 @@
     },
     {
       "id": "2023-12-23-rationalised",
-      "fingerprint": "d0f8cae7d8fda008b603118323725a87a620816eef76817152866eb7c05d53f8",
+      "fingerprint": "ac95cb169f4c5984b6d95d32e81f10f05fb42ce4b798caebfe6dcffe13ebc774",
       "snapshots": [
         "2023-12-23"
       ],
@@ -1326,7 +1384,9 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2023-12-23-rationalised/04-the-mughals-16th-to-17th-century.md"
         },
         {
@@ -1415,7 +1475,7 @@
           "pdf": "pdfs/our-pasts-2/2023-12-23/ch08.pdf",
           "pdf_pages": 13,
           "printed_pages": "94-106",
-          "fingerprint": "d801f6191eb29f88ba4db8372714cb2bcb9b4db65da6bf921d07207929f21bbf",
+          "fingerprint": "0083655ceccaacf70dfa738c030c1fdeaf453010e096c47760bb81b299abceda",
           "role_counts": {
             "footer": 30,
             "chapter-number": 1,
@@ -1431,14 +1491,19 @@
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
-          "overrides": null,
+          "overrides": [
+            "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)",
+            "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)",
+            "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)",
+            "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+          ],
           "file": "texts/our-pasts-2/2023-12-23-rationalised/08-eighteenth-century-political-formations.md"
         }
       ]
     },
     {
       "id": "2024-05-24",
-      "fingerprint": "f05c50aad2817d44c6efe34fb264293b7a664a3e971d35e5fb968908ed05f057",
+      "fingerprint": "4b5721bb88676f07f37ecd29fc1e72273eee2a21f044ffb17bebdbf7a9ff48c0",
       "snapshots": [
         "2024-05-24",
         "live-2026-10-18"
@@ -1572,7 +1637,7 @@
           "pdf": "pdfs/our-pasts-2/2024-05-24/ch04.pdf",
           "pdf_pages": 10,
           "printed_pages": "39-48",
-          "fingerprint": "69467e7a97c61860f36c08cbae8f8d45258dc5a828901707010467d2a2e5a47c",
+          "fingerprint": "0f9bc5ccc811b74052e2f1bcbdddc4f1d0e8d4340060aa488e26b4075cf89961",
           "role_counts": {
             "footer": 25,
             "dropcap": 1,
@@ -1589,7 +1654,8 @@
           "overrides": [
             "paragraph opening read as a heading and words out of order on page 40, the page reads 'succeeded to the throne of Ferghana in 1494 when he was only 12 years old.'",
             "apostrophe lost on page 45",
-            "stray colon after an italic word on page 47"
+            "stray colon after an italic word on page 47",
+            "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
           ],
           "file": "texts/our-pasts-2/2024-05-24/04-the-mughals-16th-to-17th-century.md"
         },

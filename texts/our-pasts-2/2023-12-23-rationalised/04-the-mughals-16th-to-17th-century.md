@@ -11,6 +11,8 @@ source_sha256: "e3f56c65af2e2d925e5024a62b81c111f77ab3e08e7819fadf98bf085154f717
 pdf_pages: 10
 printed_pages: "39-48"
 body_fingerprint: "fc6699f720e269e095a8d67942143780e4a243da9b0c922147bc809e8108cb7b"
+overrides:
+  - "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
 ---
 
 <!-- page 39 (pdf 1) -->
@@ -109,7 +111,7 @@ In some areas, the zamindars exercised a great deal of power. The exploitation b
 
 > [note] Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
 
-> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
+> [source] > [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
 
 ## The Mughal Empire in the Seventeenth Century and After
 

@@ -9,10 +9,10 @@
   "body": {
    "deleted": 3,
    "inserted": 20,
-   "modified": 43,
+   "modified": 42,
    "moved": 0,
    "typographic": 18,
-   "restreamed": 54,
+   "restreamed": 51,
    "resplit": 0,
    "unreadable": 0,
    "punctuation": 3
@@ -20,10 +20,10 @@
   "other_streams": {
    "deleted": 5,
    "inserted": 37,
-   "modified": 20,
+   "modified": 21,
    "moved": 1,
    "typographic": 26,
-   "restreamed": 24,
+   "restreamed": 22,
    "resplit": 6,
    "unreadable": 0,
    "punctuation": 3
@@ -6054,7 +6054,7 @@
     "title": "THE DELHI SULTANS",
     "file": "texts/our-pasts-2/2019-05-04/03-the-delhi-sultans.md"
    },
-   "similarity": 0.913,
+   "similarity": 0.923,
    "status": "matched",
    "streams": {
     "heading": {
@@ -6405,7 +6405,7 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 9,
+      "modified": 8,
       "moved": 0,
       "typographic": 16,
       "restreamed": 1,
@@ -8007,31 +8007,6 @@
        "new_pos": 119
       },
       {
-       "type": "modified",
-       "stream": "body",
-       "similarity": 0.987,
-       "old": "You are a peasant in Alauddin Khalji ’s",
-       "new": "You are a peasant in Alauddin Khalji’s",
-       "old_page": 43,
-       "new_page": 43,
-       "words": [
-        [
-         "=",
-         "You are a peasant in Alauddin"
-        ],
-        [
-         "-",
-         "Khalji ’s"
-        ],
-        [
-         "+",
-         "Khalji’s"
-        ]
-       ],
-       "old_pos": 123,
-       "new_pos": 122
-      },
-      {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
@@ -8054,6 +8029,18 @@
        "words": [],
        "old_pos": 122,
        "new_pos": 121
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "You are a peasant in Alauddin Khalji’s",
+       "new": "You are a peasant in Alauddin Khalji’s",
+       "old_page": 43,
+       "new_page": 43,
+       "words": [],
+       "old_pos": 123,
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -10398,7 +10385,7 @@
       "modified": 2,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 3,
+      "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
@@ -12035,7 +12022,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 132,
        "new_pos": 132
       },
       {
@@ -12047,7 +12034,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 133,
        "new_pos": 133
       },
       {
@@ -12059,7 +12046,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 137,
+       "old_pos": 134,
        "new_pos": 134
       },
       {
@@ -12071,7 +12058,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 135,
        "new_pos": 135
       },
       {
@@ -12083,7 +12070,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 139,
+       "old_pos": 136,
        "new_pos": 136
       },
       {
@@ -12095,7 +12082,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 137,
        "new_pos": 137
       },
       {
@@ -12107,7 +12094,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 138,
        "new_pos": 138
       },
       {
@@ -12119,7 +12106,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 142,
+       "old_pos": 139,
        "new_pos": 139
       },
       {
@@ -12131,7 +12118,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 143,
+       "old_pos": 140,
        "new_pos": 140
       },
       {
@@ -12143,7 +12130,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 144,
+       "old_pos": 141,
        "new_pos": 141
       },
       {
@@ -12155,7 +12142,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 142,
        "new_pos": 142
       },
       {
@@ -12167,7 +12154,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 146,
+       "old_pos": 143,
        "new_pos": 143
       },
       {
@@ -12179,7 +12166,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 144,
        "new_pos": 144
       },
       {
@@ -12191,7 +12178,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 145,
        "new_pos": 145
       },
       {
@@ -12203,7 +12190,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 146,
        "new_pos": 146
       },
       {
@@ -12215,7 +12202,7 @@
        "old_page": 56,
        "new_page": 56,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 147,
        "new_pos": 147
       },
       {
@@ -12227,7 +12214,7 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 151,
+       "old_pos": 148,
        "new_pos": 148
       },
       {
@@ -12239,7 +12226,7 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 152,
+       "old_pos": 149,
        "new_pos": 149
       },
       {
@@ -12251,7 +12238,7 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 153,
+       "old_pos": 150,
        "new_pos": 150
       },
       {
@@ -12263,44 +12250,8 @@
        "old_page": 57,
        "new_page": 57,
        "words": [],
-       "old_pos": 154,
+       "old_pos": 151,
        "new_pos": 151
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>source",
-       "similarity": 1.0,
-       "old": "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
-       "new": "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [],
-       "old_pos": 132,
-       "new_pos": 0
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>source",
-       "similarity": 1.0,
-       "old": "Sunnis and Shias met in one mosque and Christians and Jews in one church to pray.",
-       "new": "Sunnis and Shias met in one mosque and Christians and Jews in one church to pray.",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [],
-       "old_pos": 133,
-       "new_pos": 1
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>source",
-       "similarity": 1.0,
-       "old": "He consistently followed the principle of “universal peace” (sulh-i kul).",
-       "new": "He consistently followed the principle of “universal peace” (sulh-i kul).",
-       "old_page": 55,
-       "new_page": 55,
-       "words": [],
-       "old_pos": 134,
-       "new_pos": 2
       }
      ]
     },
@@ -13001,7 +12952,7 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 0,
+      "modified": 1,
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
@@ -13009,7 +12960,53 @@
       "unreadable": 0,
       "punctuation": 0
      },
-     "hunks": []
+     "hunks": [
+      {
+       "type": "modified",
+       "stream": "source",
+       "similarity": 0.983,
+       "old": "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
+       "new": "> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed.",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [
+        [
+         "+",
+         "> [source]"
+        ],
+        [
+         "=",
+         "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed."
+        ]
+       ],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "source",
+       "similarity": 1.0,
+       "old": "Sunnis and Shias met in one mosque and Christians and Jews in one church to pray.",
+       "new": "Sunnis and Shias met in one mosque and Christians and Jews in one church to pray.",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "source",
+       "similarity": 1.0,
+       "old": "He consistently followed the principle of “universal peace” (sulh-i kul).",
+       "new": "He consistently followed the principle of “universal peace” (sulh-i kul).",
+       "old_page": 55,
+       "new_page": 55,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      }
+     ]
     },
     "exercises": {
      "counts": {
@@ -13603,7 +13600,7 @@
     "title": "RULERS AND BUILDINGS",
     "file": "texts/our-pasts-2/2019-05-04/05-rulers-and-buildings.md"
    },
-   "similarity": 0.983,
+   "similarity": 0.982,
    "status": "matched",
    "streams": {
     "heading": {
@@ -14125,7 +14122,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 25,
-       "new_pos": 26
+       "new_pos": 24
       },
       {
        "type": "equal",
@@ -14137,7 +14134,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 26,
-       "new_pos": 27
+       "new_pos": 25
       },
       {
        "type": "equal",
@@ -14149,7 +14146,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 27,
-       "new_pos": 28
+       "new_pos": 26
       },
       {
        "type": "equal",
@@ -14161,7 +14158,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 28,
-       "new_pos": 29
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -14173,7 +14170,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 29,
-       "new_pos": 30
+       "new_pos": 28
       },
       {
        "type": "equal",
@@ -14185,7 +14182,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 30,
-       "new_pos": 31
+       "new_pos": 29
       },
       {
        "type": "equal",
@@ -14197,7 +14194,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 31,
-       "new_pos": 32
+       "new_pos": 30
       },
       {
        "type": "equal",
@@ -14209,7 +14206,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 32,
-       "new_pos": 33
+       "new_pos": 31
       },
       {
        "type": "equal",
@@ -14221,7 +14218,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 33,
-       "new_pos": 34
+       "new_pos": 32
       },
       {
        "type": "equal",
@@ -14233,7 +14230,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 34,
-       "new_pos": 35
+       "new_pos": 33
       },
       {
        "type": "equal",
@@ -14245,7 +14242,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 35,
-       "new_pos": 36
+       "new_pos": 34
       },
       {
        "type": "equal",
@@ -14257,7 +14254,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 36,
-       "new_pos": 37
+       "new_pos": 35
       },
       {
        "type": "equal",
@@ -14269,7 +14266,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 37,
-       "new_pos": 38
+       "new_pos": 36
       },
       {
        "type": "equal",
@@ -14281,7 +14278,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 38,
-       "new_pos": 39
+       "new_pos": 37
       },
       {
        "type": "equal",
@@ -14293,7 +14290,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 39,
-       "new_pos": 40
+       "new_pos": 38
       },
       {
        "type": "equal",
@@ -14305,7 +14302,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 40,
-       "new_pos": 41
+       "new_pos": 39
       },
       {
        "type": "equal",
@@ -14317,7 +14314,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 41,
-       "new_pos": 42
+       "new_pos": 40
       },
       {
        "type": "equal",
@@ -14329,7 +14326,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 42,
-       "new_pos": 43
+       "new_pos": 41
       },
       {
        "type": "equal",
@@ -14341,7 +14338,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 43,
-       "new_pos": 44
+       "new_pos": 42
       },
       {
        "type": "equal",
@@ -14353,7 +14350,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 44,
-       "new_pos": 45
+       "new_pos": 43
       },
       {
        "type": "equal",
@@ -14365,7 +14362,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 45,
-       "new_pos": 46
+       "new_pos": 44
       },
       {
        "type": "equal",
@@ -14377,7 +14374,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 46,
-       "new_pos": 47
+       "new_pos": 45
       },
       {
        "type": "equal",
@@ -14389,7 +14386,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 47,
-       "new_pos": 48
+       "new_pos": 46
       },
       {
        "type": "equal",
@@ -14401,7 +14398,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 48,
-       "new_pos": 49
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -14413,7 +14410,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 49,
-       "new_pos": 50
+       "new_pos": 48
       },
       {
        "type": "equal",
@@ -14425,7 +14422,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 50,
-       "new_pos": 51
+       "new_pos": 49
       },
       {
        "type": "equal",
@@ -14437,7 +14434,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 51,
-       "new_pos": 52
+       "new_pos": 50
       },
       {
        "type": "equal",
@@ -14449,7 +14446,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 52,
-       "new_pos": 53
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -14461,7 +14458,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 53,
-       "new_pos": 54
+       "new_pos": 52
       },
       {
        "type": "equal",
@@ -14473,7 +14470,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 54,
-       "new_pos": 55
+       "new_pos": 53
       },
       {
        "type": "equal",
@@ -14485,7 +14482,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 55,
-       "new_pos": 56
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -14497,7 +14494,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 56,
-       "new_pos": 57
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -14509,7 +14506,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 57,
-       "new_pos": 58
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -14521,7 +14518,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 58,
-       "new_pos": 59
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -14533,7 +14530,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 59,
-       "new_pos": 60
+       "new_pos": 58
       },
       {
        "type": "equal",
@@ -14545,7 +14542,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 60,
-       "new_pos": 61
+       "new_pos": 59
       },
       {
        "type": "equal",
@@ -14557,7 +14554,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 61,
-       "new_pos": 62
+       "new_pos": 60
       },
       {
        "type": "modified",
@@ -14582,7 +14579,7 @@
         ]
        ],
        "old_pos": 65,
-       "new_pos": 68
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -14594,7 +14591,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 62,
-       "new_pos": 65
+       "new_pos": 63
       },
       {
        "type": "equal",
@@ -14606,7 +14603,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 63,
-       "new_pos": 66
+       "new_pos": 64
       },
       {
        "type": "equal",
@@ -14618,7 +14615,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 64,
-       "new_pos": 67
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -14630,7 +14627,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 66,
-       "new_pos": 69
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -14642,7 +14639,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 67,
-       "new_pos": 70
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -14654,7 +14651,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 68,
-       "new_pos": 71
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -14666,7 +14663,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 69,
-       "new_pos": 74
+       "new_pos": 72
       },
       {
        "type": "equal",
@@ -14678,7 +14675,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 70,
-       "new_pos": 75
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -14690,7 +14687,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 71,
-       "new_pos": 76
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -14702,7 +14699,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 72,
-       "new_pos": 77
+       "new_pos": 75
       },
       {
        "type": "equal",
@@ -14714,7 +14711,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 73,
-       "new_pos": 78
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -14726,7 +14723,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 74,
-       "new_pos": 79
+       "new_pos": 77
       },
       {
        "type": "equal",
@@ -14738,7 +14735,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 75,
-       "new_pos": 80
+       "new_pos": 78
       },
       {
        "type": "equal",
@@ -14750,7 +14747,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 76,
-       "new_pos": 81
+       "new_pos": 79
       },
       {
        "type": "equal",
@@ -14762,7 +14759,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 77,
-       "new_pos": 82
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -14774,7 +14771,7 @@
        "new_page": 67,
        "words": [],
        "old_pos": 78,
-       "new_pos": 83
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -14786,7 +14783,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 79,
-       "new_pos": 84
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -14798,7 +14795,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 80,
-       "new_pos": 85
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -14810,7 +14807,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 81,
-       "new_pos": 86
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -14822,7 +14819,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 82,
-       "new_pos": 87
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -14834,7 +14831,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 83,
-       "new_pos": 88
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -14846,7 +14843,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 84,
-       "new_pos": 89
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -14858,7 +14855,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 85,
-       "new_pos": 90
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -14870,7 +14867,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 86,
-       "new_pos": 91
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -14882,7 +14879,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 87,
-       "new_pos": 92
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -14894,7 +14891,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 88,
-       "new_pos": 93
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -14906,7 +14903,7 @@
        "new_page": 68,
        "words": [],
        "old_pos": 89,
-       "new_pos": 94
+       "new_pos": 92
       },
       {
        "type": "equal",
@@ -14918,7 +14915,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 90,
-       "new_pos": 95
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -14930,7 +14927,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 91,
-       "new_pos": 96
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -14942,7 +14939,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 92,
-       "new_pos": 97
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -14954,7 +14951,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 93,
-       "new_pos": 98
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -14966,7 +14963,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 94,
-       "new_pos": 99
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -14978,7 +14975,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 95,
-       "new_pos": 100
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -14990,7 +14987,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 96,
-       "new_pos": 101
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -15002,7 +14999,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 97,
-       "new_pos": 102
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -15014,7 +15011,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 98,
-       "new_pos": 103
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -15026,7 +15023,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 99,
-       "new_pos": 104
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -15038,7 +15035,7 @@
        "new_page": 69,
        "words": [],
        "old_pos": 100,
-       "new_pos": 105
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -15050,7 +15047,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 101,
-       "new_pos": 106
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -15062,7 +15059,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 102,
-       "new_pos": 107
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -15074,7 +15071,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 103,
-       "new_pos": 108
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -15086,7 +15083,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 104,
-       "new_pos": 109
+       "new_pos": 107
       },
       {
        "type": "equal",
@@ -15098,7 +15095,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 105,
-       "new_pos": 110
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -15110,7 +15107,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 106,
-       "new_pos": 111
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -15122,7 +15119,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 107,
-       "new_pos": 112
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -15134,7 +15131,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 108,
-       "new_pos": 113
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -15146,7 +15143,7 @@
        "new_page": 71,
        "words": [],
        "old_pos": 109,
-       "new_pos": 114
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -15158,7 +15155,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 110,
-       "new_pos": 115
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -15170,43 +15167,19 @@
        "new_page": 72,
        "words": [],
        "old_pos": 111,
-       "new_pos": 116
+       "new_pos": 114
       },
       {
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "You are an artisan standing on a tiny",
-       "new": "You are an artisan standing on a tiny",
+       "old": "You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground.",
+       "new": "You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground.",
        "old_page": 73,
        "new_page": 73,
        "words": [],
        "old_pos": 112,
-       "new_pos": 117
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "wooden platform held together by",
-       "new": "wooden platform held together by",
-       "old_page": 73,
-       "new_page": 73,
-       "words": [],
-       "old_pos": 113,
-       "new_pos": 118
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
-       "old": "bamboo and rope fifty metres above the ground.",
-       "new": "bamboo and rope fifty metres above the ground.",
-       "old_page": 73,
-       "new_page": 73,
-       "words": [],
-       "old_pos": 114,
-       "new_pos": 119
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -15217,8 +15190,8 @@
        "old_page": 73,
        "new_page": 73,
        "words": [],
-       "old_pos": 115,
-       "new_pos": 120
+       "old_pos": 113,
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -15229,8 +15202,8 @@
        "old_page": 73,
        "new_page": 73,
        "words": [],
-       "old_pos": 116,
-       "new_pos": 121
+       "old_pos": 114,
+       "new_pos": 117
       }
      ]
     },
@@ -15241,12 +15214,36 @@
       "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 7,
+      "restreamed": 5,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
      },
      "hunks": [
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Labour for the Agra Fort",
+       "new": "Labour for the Agra Fort",
+       "old_page": 61,
+       "new_page": 61,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.",
+       "new": "Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.",
+       "old_page": 61,
+       "new_page": 61,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
       {
        "type": "equal",
        "stream": "note",
@@ -15257,7 +15254,7 @@
        "new_page": 62,
        "words": [],
        "old_pos": 2,
-       "new_pos": 0
+       "new_pos": 2
       },
       {
        "type": "equal",
@@ -15269,7 +15266,7 @@
        "new_page": 62,
        "words": [],
        "old_pos": 3,
-       "new_pos": 1
+       "new_pos": 3
       },
       {
        "type": "equal",
@@ -15281,7 +15278,7 @@
        "new_page": 62,
        "words": [],
        "old_pos": 4,
-       "new_pos": 2
+       "new_pos": 4
       },
       {
        "type": "equal",
@@ -15293,7 +15290,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 5,
-       "new_pos": 3
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -15305,7 +15302,7 @@
        "new_page": 63,
        "words": [],
        "old_pos": 6,
-       "new_pos": 4
+       "new_pos": 6
       },
       {
        "type": "equal",
@@ -15317,7 +15314,7 @@
        "new_page": 64,
        "words": [],
        "old_pos": 7,
-       "new_pos": 5
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -15329,7 +15326,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 12,
-       "new_pos": 6
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -15341,7 +15338,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 13,
-       "new_pos": 7
+       "new_pos": 9
       },
       {
        "type": "equal",
@@ -15353,7 +15350,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 14,
-       "new_pos": 8
+       "new_pos": 10
       },
       {
        "type": "equal",
@@ -15365,31 +15362,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 15,
-       "new_pos": 9
-      },
-      {
-       "type": "restreamed",
-       "stream": "note>body",
-       "similarity": 1.0,
-       "old": "Labour for the Agra Fort",
-       "new": "Labour for the Agra Fort",
-       "old_page": 61,
-       "new_page": 61,
-       "words": [],
-       "old_pos": 0,
-       "new_pos": 24
-      },
-      {
-       "type": "restreamed",
-       "stream": "note>body",
-       "similarity": 1.0,
-       "old": "Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.",
-       "new": "Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.",
-       "old_page": 61,
-       "new_page": 61,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 25
+       "new_pos": 11
       },
       {
        "type": "restreamed",
@@ -15401,7 +15374,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 8,
-       "new_pos": 63
+       "new_pos": 61
       },
       {
        "type": "restreamed",
@@ -15413,7 +15386,7 @@
        "new_page": 65,
        "words": [],
        "old_pos": 9,
-       "new_pos": 64
+       "new_pos": 62
       },
       {
        "type": "restreamed",
@@ -15425,7 +15398,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 10,
-       "new_pos": 72
+       "new_pos": 70
       },
       {
        "type": "restreamed",
@@ -15437,7 +15410,7 @@
        "new_page": 66,
        "words": [],
        "old_pos": 11,
-       "new_pos": 73
+       "new_pos": 71
       },
       {
        "type": "restreamed",
@@ -15449,7 +15422,7 @@
        "new_page": 72,
        "words": [],
        "old_pos": 16,
-       "new_pos": 63
+       "new_pos": 60
       }
      ]
     },
@@ -15734,8 +15707,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "The path started more than",
-       "new": "The path started more than",
+       "old": "The path started more than 4 km away so that it would not be too steep.",
+       "new": "The path started more than 4 km away so that it would not be too steep.",
        "old_page": 62,
        "new_page": 62,
        "words": [],
@@ -15746,8 +15719,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "4 km away so that it would not be too steep.",
-       "new": "4 km away so that it would not be too steep.",
+       "old": "This was dismantled after the temple was constructed.",
+       "new": "This was dismantled after the temple was constructed.",
        "old_page": 62,
        "new_page": 62,
        "words": [],
@@ -15758,8 +15731,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "This was dismantled after the temple was constructed.",
-       "new": "This was dismantled after the temple was constructed.",
+       "old": "But the residents of the area remembered the experience of the construction of the temple for a long time.",
+       "new": "But the residents of the area remembered the experience of the construction of the temple for a long time.",
        "old_page": 62,
        "new_page": 62,
        "words": [],
@@ -15770,8 +15743,8 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "But the residents of the area remembered the experience of the construction of the temple for a long time.",
-       "new": "But the residents of the area remembered the experience of the construction of the temple for a long time.",
+       "old": "Even now a village near the temple is called Charupallam, the “Village of the Incline”.",
+       "new": "Even now a village near the temple is called Charupallam, the “Village of the Incline”.",
        "old_page": 62,
        "new_page": 62,
        "words": [],
@@ -15782,37 +15755,13 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Even now a village near the temple is called Charupallam, the",
-       "new": "Even now a village near the temple is called Charupallam, the",
-       "old_page": 62,
-       "new_page": 62,
-       "words": [],
-       "old_pos": 24,
-       "new_pos": 26
-      },
-      {
-       "type": "equal",
-       "stream": "caption",
-       "similarity": 1.0,
-       "old": "“Village of the Incline”.",
-       "new": "“Village of the Incline”.",
-       "old_page": 62,
-       "new_page": 62,
-       "words": [],
-       "old_pos": 25,
-       "new_pos": 27
-      },
-      {
-       "type": "equal",
-       "stream": "caption",
-       "similarity": 1.0,
        "old": "KEYSTONE",
        "new": "KEYSTONE",
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 26,
-       "new_pos": 28
+       "old_pos": 24,
+       "new_pos": 26
       },
       {
        "type": "equal",
@@ -15823,8 +15772,8 @@
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 27,
-       "new_pos": 29
+       "old_pos": 25,
+       "new_pos": 27
       },
       {
        "type": "equal",
@@ -15835,8 +15784,8 @@
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 30
+       "old_pos": 26,
+       "new_pos": 28
       },
       {
        "type": "equal",
@@ -15847,8 +15796,8 @@
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 29,
-       "new_pos": 31
+       "old_pos": 27,
+       "new_pos": 29
       },
       {
        "type": "equal",
@@ -15859,8 +15808,8 @@
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 30,
-       "new_pos": 32
+       "old_pos": 28,
+       "new_pos": 30
       },
       {
        "type": "equal",
@@ -15871,20 +15820,8 @@
        "old_page": 63,
        "new_page": 63,
        "words": [],
-       "old_pos": 31,
-       "new_pos": 33
-      },
-      {
-       "type": "equal",
-       "stream": "caption",
-       "similarity": 1.0,
-       "old": "W",
-       "new": "W",
-       "old_page": 64,
-       "new_page": 64,
-       "words": [],
-       "old_pos": 32,
-       "new_pos": 34
+       "old_pos": 29,
+       "new_pos": 31
       },
       {
        "type": "equal",
@@ -15895,8 +15832,8 @@
        "old_page": 64,
        "new_page": 64,
        "words": [],
-       "old_pos": 33,
-       "new_pos": 35
+       "old_pos": 30,
+       "new_pos": 32
       },
       {
        "type": "equal",
@@ -15907,8 +15844,8 @@
        "old_page": 64,
        "new_page": 64,
        "words": [],
-       "old_pos": 34,
-       "new_pos": 36
+       "old_pos": 31,
+       "new_pos": 33
       },
       {
        "type": "equal",
@@ -15919,8 +15856,8 @@
        "old_page": 65,
        "new_page": 65,
        "words": [],
-       "old_pos": 35,
-       "new_pos": 37
+       "old_pos": 32,
+       "new_pos": 34
       },
       {
        "type": "equal",
@@ -15931,8 +15868,8 @@
        "old_page": 66,
        "new_page": 66,
        "words": [],
-       "old_pos": 36,
-       "new_pos": 38
+       "old_pos": 33,
+       "new_pos": 35
       },
       {
        "type": "equal",
@@ -15943,8 +15880,8 @@
        "old_page": 66,
        "new_page": 66,
        "words": [],
-       "old_pos": 37,
-       "new_pos": 39
+       "old_pos": 34,
+       "new_pos": 36
       },
       {
        "type": "equal",
@@ -15955,8 +15892,8 @@
        "old_page": 66,
        "new_page": 66,
        "words": [],
-       "old_pos": 38,
-       "new_pos": 40
+       "old_pos": 35,
+       "new_pos": 37
       },
       {
        "type": "equal",
@@ -15967,8 +15904,8 @@
        "old_page": 66,
        "new_page": 66,
        "words": [],
-       "old_pos": 39,
-       "new_pos": 41
+       "old_pos": 36,
+       "new_pos": 38
       },
       {
        "type": "equal",
@@ -15979,8 +15916,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 40,
-       "new_pos": 42
+       "old_pos": 37,
+       "new_pos": 39
       },
       {
        "type": "equal",
@@ -15991,8 +15928,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 41,
-       "new_pos": 43
+       "old_pos": 38,
+       "new_pos": 40
       },
       {
        "type": "equal",
@@ -16003,8 +15940,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 42,
-       "new_pos": 44
+       "old_pos": 39,
+       "new_pos": 41
       },
       {
        "type": "equal",
@@ -16015,8 +15952,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 43,
-       "new_pos": 45
+       "old_pos": 40,
+       "new_pos": 42
       },
       {
        "type": "equal",
@@ -16027,8 +15964,8 @@
        "old_page": 68,
        "new_page": 68,
        "words": [],
-       "old_pos": 44,
-       "new_pos": 46
+       "old_pos": 41,
+       "new_pos": 43
       },
       {
        "type": "equal",
@@ -16039,8 +15976,8 @@
        "old_page": 69,
        "new_page": 69,
        "words": [],
-       "old_pos": 45,
-       "new_pos": 47
+       "old_pos": 42,
+       "new_pos": 44
       },
       {
        "type": "equal",
@@ -16051,8 +15988,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 46,
-       "new_pos": 48
+       "old_pos": 43,
+       "new_pos": 45
       },
       {
        "type": "equal",
@@ -16063,8 +16000,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 47,
-       "new_pos": 49
+       "old_pos": 44,
+       "new_pos": 46
       },
       {
        "type": "equal",
@@ -16075,8 +16012,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 48,
-       "new_pos": 50
+       "old_pos": 45,
+       "new_pos": 47
       },
       {
        "type": "equal",
@@ -16087,8 +16024,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 49,
-       "new_pos": 51
+       "old_pos": 46,
+       "new_pos": 48
       },
       {
        "type": "equal",
@@ -16099,8 +16036,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 50,
-       "new_pos": 52
+       "old_pos": 47,
+       "new_pos": 49
       },
       {
        "type": "equal",
@@ -16111,8 +16048,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 52,
-       "new_pos": 53
+       "old_pos": 49,
+       "new_pos": 50
       },
       {
        "type": "equal",
@@ -16123,8 +16060,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 53,
-       "new_pos": 54
+       "old_pos": 50,
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -16135,8 +16072,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 54,
-       "new_pos": 55
+       "old_pos": 51,
+       "new_pos": 52
       },
       {
        "type": "equal",
@@ -16147,8 +16084,8 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 55,
-       "new_pos": 56
+       "old_pos": 52,
+       "new_pos": 53
       },
       {
        "type": "equal",
@@ -16159,8 +16096,8 @@
        "old_page": 71,
        "new_page": 71,
        "words": [],
-       "old_pos": 56,
-       "new_pos": 57
+       "old_pos": 53,
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -16171,8 +16108,8 @@
        "old_page": 71,
        "new_page": 71,
        "words": [],
-       "old_pos": 57,
-       "new_pos": 58
+       "old_pos": 54,
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -16183,8 +16120,8 @@
        "old_page": 71,
        "new_page": 71,
        "words": [],
-       "old_pos": 58,
-       "new_pos": 59
+       "old_pos": 55,
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -16195,8 +16132,8 @@
        "old_page": 71,
        "new_page": 71,
        "words": [],
-       "old_pos": 59,
-       "new_pos": 60
+       "old_pos": 56,
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -16207,8 +16144,8 @@
        "old_page": 72,
        "new_page": 72,
        "words": [],
-       "old_pos": 60,
-       "new_pos": 61
+       "old_pos": 57,
+       "new_pos": 58
       },
       {
        "type": "equal",
@@ -16219,8 +16156,8 @@
        "old_page": 72,
        "new_page": 72,
        "words": [],
-       "old_pos": 61,
-       "new_pos": 62
+       "old_pos": 58,
+       "new_pos": 59
       },
       {
        "type": "restreamed",
@@ -16231,7 +16168,7 @@
        "old_page": 70,
        "new_page": 70,
        "words": [],
-       "old_pos": 51,
+       "old_pos": 48,
        "new_pos": 0
       }
      ]
@@ -16570,7 +16507,7 @@
      {
       "page": 62,
       "new_page": 62,
-      "sentences": 21,
+      "sentences": 19,
       "score": 1.0,
       "suspect": false
      },
@@ -16584,7 +16521,7 @@
      {
       "page": 64,
       "new_page": 64,
-      "sentences": 13,
+      "sentences": 12,
       "score": 1.0,
       "suspect": false
      },
@@ -16647,7 +16584,7 @@
      {
       "page": 73,
       "new_page": 73,
-      "sentences": 20,
+      "sentences": 18,
       "score": 1.0,
       "suspect": false
      },
@@ -18531,8 +18468,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "You are planning a journey from Surat",
-       "new": "You are planning a journey from Surat",
+       "old": "You are planning a journey from Surat to West Asia in the seventeenth century.",
+       "new": "You are planning a journey from Surat to West Asia in the seventeenth century.",
        "old_page": 88,
        "new_page": 88,
        "words": [],
@@ -18543,25 +18480,13 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "to West Asia in the seventeenth century.",
-       "new": "to West Asia in the seventeenth century.",
-       "old_page": 88,
-       "new_page": 88,
-       "words": [],
-       "old_pos": 126,
-       "new_pos": 122
-      },
-      {
-       "type": "equal",
-       "stream": "body",
-       "similarity": 1.0,
        "old": "What are the arrangements you will make?",
        "new": "What are the arrangements you will make?",
        "old_page": 88,
        "new_page": 88,
        "words": [],
-       "old_pos": 127,
-       "new_pos": 123
+       "old_pos": 126,
+       "new_pos": 122
       },
       {
        "type": "restreamed",
@@ -19975,7 +19900,7 @@
      {
       "page": 88,
       "new_page": 88,
-      "sentences": 16,
+      "sentences": 15,
       "score": 1.0,
       "suspect": false
      },

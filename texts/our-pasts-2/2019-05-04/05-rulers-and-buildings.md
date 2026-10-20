@@ -13,7 +13,12 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch05.pdf"
 source_sha256: "fa4bfd70b322e0cb3491cdc53755f6d8370d3823164586e84d5670dce36330d3"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "0430e705d358e68cc25199410c18beb3d5d17d3761d3cce0d43211217b8608dc"
+body_fingerprint: "dc8f0b5ae00d9fc1a6c011513df3a9fe7f73b4ae5e213ba0ae4dc79cfb5a551f"
+overrides:
+  - "page 62: the Fig. 4 caption runs on past the side question to 'Village of the Incline' and is one caption (browser review 2026-10-20)"
+  - "page 73: the Imagine box text is one paragraph (browser review 2026-10-20)"
+  - "page 61: the 'Labour for the Agra Fort' box is a note, as the 2007 printing has it (browser review 2026-10-20)"
+  - "page 64: 'W' is the west point of the compass drawing, not a caption (browser review 2026-10-20)"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -40,9 +45,9 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [caption] Fig. 2a
 
-Labour for the Agra Fort
+> [note] Labour for the Agra Fort
 
-Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
+> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
 > [caption] Raniji ki baori or the ‘Queen’s Stepwell’, located in Bundi in Rajasthan is the largest among the fifty step wells that were built to meet the need for water. Known for its architectural beauty, the baori was constructed in 1699 C.E. by Rani Nathavat Ji, the queen of Raja Anirudh Singh of Bundi.
 
@@ -60,13 +65,9 @@ Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lim
 
 > [caption] Fig. 3b
 
-> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than
+> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the “Village of the Incline”.
 
 > [note] What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
-
-> [caption] 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
-
-> [caption] “Village of the Incline”.
 
 <!-- page 63 (pdf 4) -->
 
@@ -95,8 +96,6 @@ Temples and mosques were beautifully constructed because they were places of wor
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Quwwat al-Islam mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great lawgivers of the past. The greatest lawgiver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
-
-> [caption] W
 
 > [caption] Qibla (Direction towards Mecca)
 
@@ -212,11 +211,7 @@ Churches that touched the skies
 
 ### Imagine
 
-You are an artisan standing on a tiny
-
-wooden platform held together by
-
-bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
+You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground. You have to place an inscription under the first balcony of the Qutb Minar. How would you do this?
 
 <!-- section: exercises -->
 
