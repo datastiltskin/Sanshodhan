@@ -1,7 +1,7 @@
 [project]
 name = "ncert-diff"
 version = "0.1.0"
-description = "Track what changes between editions of NCERT history textbooks."
+description = "Sanshodhan: see what changed in NCERT textbooks over the years."
 readme = "README.md"
 requires-python = ">=3.12"
 license = { text = "MIT" }

@@ -1,7 +1,9 @@
-# ncert-textbook-git-diff
+# Sanshodhan
 
-Tracks what changes between editions of NCERT (India) history textbooks, so that additions,
-deletions, and rewordings over the years can be seen side by side with the original pages.
+See what changed in NCERT textbooks over the years. A `git diff` for NCERT textbooks: every
+edition of a book is laid out beside the next, with the additions, deletions, and rewordings
+between printings shown next to the original pages. Sanshodhan (संशोधन) is the Hindi word
+for a revision or an amendment.
 
 Current scope: history and civics for the middle classes. Class 7 "Our Pasts II" (2007 to
 2025) and "Social and Political Life II", Class 8 "Our Pasts III" and "Social and Political

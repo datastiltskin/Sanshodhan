@@ -1,8 +1,8 @@
 {% extends "base.html" %}
 {% block content %}
 <div class="title-block">
-  <h1>How India's school history books have changed</h1>
-  <p class="subtitle">Every edition of these NCERT textbooks since 2007, page by page, with the words that were added, removed, or rewritten between one printing and the next.</p>
+  <h1>See what changed in NCERT textbooks over the years</h1>
+  <p class="subtitle">A <code>git diff</code> for NCERT textbooks. Every edition of these books since 2007, page by page, with the words that were added, removed, or rewritten between one printing and the next.</p>
 </div>
 <div class="cards">
 {% for id, b in books.items() if id in editions %}
