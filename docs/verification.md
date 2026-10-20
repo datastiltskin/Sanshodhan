@@ -72,6 +72,36 @@ the book itself misspells ("recieves" in the 2007 Our Pasts II) is accepted into
 or an override like any other finding. A spelling pass is cheap enough to run after every
 rule change, alongside `scripts/text_changes.py`.
 
+## The 2015-16 ePubs as a reference
+
+`scripts/epub_check.py <book> [<edition>] [--roles] [--all]` compares the extracted text of
+one edition with NCERT's own ePub of the 2015-16 printing (docs/sources.md, "ePubs"). The
+ePub is reflowable XHTML from the same InDesign files, so its paragraphs are an independent
+reading of the same text, with the role of each in a class name. The edition compared is
+the one whose sentences overlap the ePub most, unless named. Per chapter the report lists:
+
+- sentences the ePub has and our text lacks ("ePub only"): a lost paragraph, a page the
+  extractor dropped, or text the 2015-16 revision added that our nearest printing lacks;
+- sentences our text has and the ePub lacks ("ours only"): a glued caption, a speech
+  bubble the ePub left in its image, an insert page, or junk;
+- the same sentence in different words ("worded differently", listed with `--all`): the
+  revision between printings, or a stray space the ePub export left;
+- the same sentence under different roles (`--roles`).
+
+Matching ignores spaces and punctuation, and a sentence contained in a longer unit on the
+other side counts as present, so sentence splitting does not raise the counts. The counts
+are places to open, not faults: a whole chapter with no matches is a fault (the first run
+found the 2014 to 2024 India and the Contemporary World I editions with chapter 3 missing
+and its last page filed as chapter 6, because an 80 pt question-mark ornament had made an
+exercise line pass for a chapter number), a few "ePub only" sentences per chapter are
+usually the 2015-16 revision (the Rani Avantibai sentences of Our Pasts III chapter 5
+appear in 2019, not 2014), and the "ours only" count of a civics book is mostly its comic
+strips, whose speech bubbles the ePub keeps as pictures.
+
+Limits: one printing per book, no page numbers (reports print the PDF page as "pdfN"
+where the printing has no printed numbers), and the Our Pasts II bundle's chapter 10 is a
+geography chapter packed in by mistake.
+
 ## After changing a rule
 
 A change to the extractor or the OCR re-makes the texts of every edition it touches, and a

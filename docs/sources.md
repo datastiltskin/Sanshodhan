@@ -355,10 +355,19 @@ through the app). Checked 20 October 2026:
   upschub.com from the app; it is kept under `pdfs/_epub/2016-epathshala/<book>.epub`,
   outside git. The current session's ePubs would have to come from the app itself.
 
+- Two faults in the set: the Our Pasts II bundle's `5223_10.epub` holds a geography chapter
+  ("Life in the Deserts", from Our Environment), not "Eighteenth-Century Political
+  Formations", and the text is the 2015-16 revision, which sits between our 2014 and 2019
+  printings (it has the Rani Avantibai sentences of Our Pasts III that 2014 lacks, and
+  "Kitab al-Hind" where 2019 prints "Kitab ul-Hind"). The 2016 zips on the Wayback Machine
+  hold older PDFs than the ePubs of the same session.
+
 So ePubs cannot replace the PDFs for the comparison across years: they exist for two points
 in time against eight to eleven PDF editions a book. What they can do is serve as a
 structural reference for the 2015-16 printing of every book, to check or calibrate the
 roles the extractor infers from page geometry, and as a cleaner source of that one edition.
+`scripts/epub_check.py` does that comparison (docs/verification.md, "The 2015-16 ePubs as
+a reference").
 
 ## Other places that hold copies
 
