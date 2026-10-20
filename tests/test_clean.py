@@ -66,3 +66,10 @@ def test_rupee_backtick_becomes_the_rupee_sign():
 def test_list_item_does_not_run_into_the_next_paragraph():
     assert not clean.continues("- The decline of crafts and growth of industries", "On the basis of what you have read")
     assert clean.continues("- The decline of crafts and growth of", "industries in the nineteenth century")
+
+
+def test_no_space_before_a_closing_bracket():
+    from ncert_diff.clean import normalise_text
+    assert normalise_text("an example of a prashasti ) praising the") == "an example of a prashasti) praising the"
+    assert normalise_text("(see Chapter 2)") == "(see Chapter 2)"
+    assert normalise_text("a criminal court ( faujdari adalat ) and") == "a criminal court (faujdari adalat) and"

@@ -7,6 +7,8 @@ import unicodedata
 
 _WS = re.compile(r"[ \t ]+")
 _SOFT_HYPHEN = "­"
+_SPACE_BEFORE_CLOSE = re.compile(r"(?<=\w) \)")
+_SPACE_AFTER_OPEN = re.compile(r"\( (?=\w)")
 _SENTENCE_END = re.compile(r"[.!?:;\"”’)\]…]$")
 _BROKEN_HYPHEN = re.compile(r"(?<=[A-Za-z])- (?=[a-z])")
 _LIST_ITEM = re.compile(r"^(\d{1,2}\.|\(?[a-z]\)|\(?[ivx]+\))\s")
@@ -22,7 +24,10 @@ def normalise_text(text: str) -> str:
     """NFC, drop soft hyphens, squeeze whitespace."""
     text = unicodedata.normalize("NFC", text).replace(_SOFT_HYPHEN, "")
     text = text.replace(" ", " ").replace(" ", " ")
-    return _WS.sub(" ", text).strip()
+    text = _WS.sub(" ", text).strip()
+    # An italic word's overhang leaves a space between it and its brackets in the text layer
+    # ("prashasti )", "( faujdari adalat )"). The page prints none.
+    return _SPACE_AFTER_OPEN.sub("(", _SPACE_BEFORE_CLOSE.sub(")", text))
 
 
 def collapse_repeats(text: str) -> str:
