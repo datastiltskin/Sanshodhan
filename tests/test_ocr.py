@@ -104,3 +104,13 @@ def test_low_confidence_lettering_on_a_map_is_dropped():
     blocks, conf = blocks_from_tsv("\n".join([header, *junk, *real]), 72.0 / 300)
     assert [b.text for b in blocks] == ["The two maps are quite different even though they are of the same area."]
     assert conf > 90
+
+
+
+def test_vision_call_that_never_returns_is_abandoned():
+    import threading, time
+    from ncert_diff.ocr import VisionHung, _with_timeout
+    assert _with_timeout(lambda: "sawar", 1.0) == "sawar"
+    import pytest
+    with pytest.raises(VisionHung):
+        _with_timeout(lambda: time.sleep(5), 0.2)

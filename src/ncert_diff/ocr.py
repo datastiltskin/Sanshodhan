@@ -273,6 +273,41 @@ def vision_available() -> bool:
     return True
 
 
+VISION_TIMEOUT_SECONDS = 90.0
+_vision_hung = False  # set once a Vision request never returned; tesseract is used from then on
+
+
+class VisionHung(RuntimeError):
+    """A Vision request did not return in time."""
+
+
+def _with_timeout(fn, seconds: float):
+    """Run `fn()` on a worker thread and return its result, or raise VisionHung after `seconds`.
+
+    Vision's recognition request has been seen to block for ever on the framework's own
+    dispatch queue after some thousands of calls in one process (20 October 2026, in the
+    prelims of Democratic Politics I). The worker is a daemon thread, so a hung request is
+    abandoned rather than waited on."""
+    import threading
+
+    box: dict = {}
+
+    def run():
+        try:
+            box["result"] = fn()
+        except Exception as exc:  # noqa: BLE001 - re-raised on the calling thread
+            box["error"] = exc
+
+    worker = threading.Thread(target=run, daemon=True)
+    worker.start()
+    worker.join(seconds)
+    if worker.is_alive():
+        raise VisionHung(f"Vision did not answer within {seconds:.0f} s")
+    if "error" in box:
+        raise box["error"]
+    return box["result"]
+
+
 def _read_with_vision(page: pymupdf.Page, clip: pymupdf.Rect) -> str:
     """One outlined run read by Apple Vision. It reads italic outlines that tesseract garbles
     ("sawar", "pardesi", "flocks and herds.") and takes about 50 ms a run once warm."""
@@ -281,7 +316,7 @@ def _read_with_vision(page: pymupdf.Page, clip: pymupdf.Rect) -> str:
 
     pix = page.get_pixmap(dpi=600, clip=clip, colorspace=pymupdf.csRGB)
     image = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
-    lines = ocrmac.OCR(image, recognition_level="accurate", language_preference=["en-US"]).recognize()
+    lines = _with_timeout(lambda: ocrmac.OCR(image, recognition_level="accurate", language_preference=["en-US"]).recognize(), VISION_TIMEOUT_SECONDS)
     lines.sort(key=lambda item: (-round(item[2][1], 2), item[2][0]))  # top to bottom, then left to right
     return " ".join(item[0] for item in lines)
 
@@ -300,7 +335,7 @@ def outlined_reader(pdf_path: Path, vocab: set[str] | None = None):
     runs up to about eight characters, which reads "sawar" where line mode gave "SQAUWAaT").
     The cache key names the engine and mode, so a reading made another way is not reused.
     With `vocab` (words the book uses elsewhere) the reading is snapped to known words."""
-    use_vision = vision_available()
+    use_vision = vision_available() and not _vision_hung
     if not use_vision and not available():
         return None
     cache_path = pdf_path.parent / "ocr" / f"{pdf_path.stem}-outlined.json"
@@ -318,10 +353,19 @@ def outlined_reader(pdf_path: Path, vocab: set[str] | None = None):
             cache[key] = ""
             return None
         cache_path.parent.mkdir(parents=True, exist_ok=True)
-        if use_vision:
-            raw = _read_with_vision(page, clip)
+        global _vision_hung
+        if use_vision and not _vision_hung:
+            try:
+                raw = _read_with_vision(page, clip)
+            except VisionHung as exc:
+                # Once Vision hangs it stays hung for the process: fall back to tesseract for
+                # the rest of the run, under tesseract's own cache keys.
+                _vision_hung = True
+                print(f"  outlined words: {exc}, using tesseract from here on")
+                raw = _read_with_tesseract(page, clip, cache_path.parent / f"{pdf_path.stem}-outlined.png", single_word) if available() else ""
+                key = key.replace(":v", ":w" if single_word else "")
         else:
-            raw = _read_with_tesseract(page, clip, cache_path.parent / f"{pdf_path.stem}-outlined.png", single_word)
+            raw = _read_with_tesseract(page, clip, cache_path.parent / f"{pdf_path.stem}-outlined.png", single_word) if available() else ""
         word = clean_outlined(raw)
         cache[key] = word  # the raw reading is cached; snapping happens on the way out
         cache_path.write_text(json.dumps(cache, ensure_ascii=False, indent=0))
