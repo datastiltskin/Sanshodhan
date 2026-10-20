@@ -41,7 +41,12 @@ The book number is not stable across subjects, so always confirm the title from 
 
 The archive has no chapter PDF captures for Our Pasts II before 2014. The 2010 capture of the
 listing page exists, but its PDF links were never saved. The 2014 whole-book zip contains PDFs
-whose creation dates are 30 March and 18 April 2007, so it is the first edition text.
+whose creation dates are 30 March and 18 April 2007, so it is the first edition text. Those
+files are not complete pages: in chapter 5 (pages 62 to 72 at least) the outer margin is cut
+off at the page edge, so the figures and captions set there are missing from the image and
+only their last letters reach the text layer. The extractor drops those slivers. A caption
+that the compare view shows in a later printing and not in the 2007 one on those pages is a
+defect of the 2007 file, not of the extraction, and cannot be recovered from it.
 
 Whole-book zips with distinct content (these are what `sources.yaml` lists):
 
