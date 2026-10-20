@@ -30,9 +30,10 @@ editions only for now.
 - `texts/` holds the extracted and cleaned Markdown, one file per chapter per edition, with
   page markers so text can later be shown beside the page image.
 - `diffs/` holds the edition comparisons (JSON for machines, HTML for reading).
-- `src/ncert_diff/site/` builds the website: Jinja templates, one stylesheet on top of Pico CSS,
-  and a few lines of JavaScript for the change toggles. No framework, no build step beyond
-  `ncert-diff build`.
+- `src/ncert_diff/site/` builds the website: Jinja templates, one hand-written stylesheet,
+  and a little vanilla JavaScript (change toggles, the compare view, the search page). No
+  framework, no build step beyond `ncert-diff build`, which also writes the search index
+  with Pagefind. `docs/search.md` describes the search feature end to end.
 - `docs/adding-a-book.md` is the step-by-step process for bringing in another book.
 - `docs/sources.md` has the research behind all of this: book codes, URL eras, archive coverage,
   the 1967 to 2025 lineage, and NCERT's own list of what was cut in 2022-23.
@@ -55,11 +56,12 @@ uv run ncert-diff editions         # which snapshots collapsed into which editio
 uv run ncert-diff diff             # compare consecutive editions -> diffs/<book>/*.json and .html
 uv run ncert-diff render-pages     # one WebP per printed page -> site/images/<book>/<edition>/<chapter>/
 uv run ncert-diff build            # the website -> site/ (images expected at --images-base, default /images)
+                                   # also the search index -> site/pagefind/ (skip with --no-search)
 uv run pytest
 ```
 
 To preview the site locally: `python3 -m http.server 8765 -d site` and open
-http://127.0.0.1:8765/. To review it, `uv run python scripts/annotate_server.py` serves the
+http://127.0.0.1:8765/. Search works there too, since the index is plain files. To review it, `uv run python scripts/annotate_server.py` serves the
 same pages with a flagging layer (select text, press Flag) that writes to
 `review/annotations.jsonl`. In production the HTML is deployed to GitHub Pages by
 `.github/workflows/site.yml` and the page images are uploaded to a Cloudflare R2 bucket by

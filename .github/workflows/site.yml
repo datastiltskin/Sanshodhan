@@ -20,6 +20,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: astral-sh/setup-uv@v5
+      # uv sync also installs pagefind[bin], the search indexer that `ncert-diff build` runs.
       - run: uv sync --no-dev
       # Page images are served from object storage, see scripts/upload-images.sh.
       # Set the IMAGES_BASE repository variable to the public bucket URL.
