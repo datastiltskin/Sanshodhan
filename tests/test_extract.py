@@ -969,3 +969,28 @@ def test_two_line_overprinted_label_with_its_paragraph_beside_it():
     assert [b.text[:24] for b in blocks] == [BODY[:24], "AKBAR 1556-1605", "Akbar was 13 years old w"]
     extract.classify(blocks, 595.0, 842.0, 13.0)
     assert [b.role for b in blocks] == ["body", "h3", "body"]
+
+
+
+def test_decorative_glyph_does_not_make_an_exercise_line_a_chapter_number():
+    # 2014 Class 9 history, last page of the Nazism chapter: an 80 pt "?" ornament shares the
+    # line with question 6, so the block's largest span is huge but carries no number.
+    def span(text, size, font, x0, y0, x1, y1):
+        return {"text": text, "size": size, "font": font, "flags": 0, "bbox": (x0, y0, x1, y1)}
+
+    q6 = [span("6. In what ways did the Nazi state seek to establish total control over its people?", 11, "Arial", 78, 304, 460, 317),
+          span("?", 80, "Tahoma", 464, 304, 502, 400)]
+    textpage = {"blocks": [
+        {"type": 0, "bbox": (72, 289, 161, 311), "lines": [{"dir": (1.0, 0.0), "bbox": (72, 289, 161, 311), "spans": [span("Questions", 18, "Tahoma,Bold", 72, 289, 161, 311)]}]},
+        {"type": 0, "bbox": (78, 357, 500, 370), "lines": [{"dir": (1.0, 0.0), "bbox": (78, 357, 500, 370), "spans": [span("1. Describe the problems faced by the Weimar Republic.", 11, "Arial", 78, 357, 500, 370)]}]},
+        {"type": 0, "bbox": (78, 304, 502, 400), "lines": [{"dir": (1.0, 0.0), "bbox": (78, 304, 502, 400), "spans": q6}]},
+    ]}
+    blocks = extract.blocks_from_dict(textpage)
+    extract.classify(blocks, 612.0, 792.0, 11.0)
+    assert [b.role for b in blocks if b.text.startswith("6.")] == ["body"]
+    # A real opener still passes: the digit sits in the oversized span.
+    opener = {"blocks": [{"type": 0, "bbox": (60, 60, 400, 140), "lines": [{"dir": (1.0, 0.0), "bbox": (60, 60, 400, 140), "spans": [
+        span("3", 80, "Tahoma", 60, 60, 110, 140), span("Nazism and the Rise of Hitler", 30, "RotisSansSerif-ExtraBold", 120, 100, 400, 136)]}]}]}
+    blocks = extract.blocks_from_dict(opener)
+    extract.classify(blocks, 612.0, 792.0, 11.0)
+    assert blocks[0].role == "chapter-number"

@@ -73,6 +73,7 @@ class Block:
     text: str
     max_size: float = 0.0
     role: str = "unknown"
+    big_text: str = ""  # what the largest spans say, so a decorative glyph cannot pass a line off as a chapter number
 
     @property
     def centre_x(self) -> float:
@@ -566,6 +567,7 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
         line_text_x: list[float] = []  # where each line's text starts, after any bullet
         line_boxes: list[tuple] = []
         max_size = 0.0
+        big_spans: list[str] = []
         for ln in lines:
             for sp in ln["spans"]:
                 if _is_bullet_span(sp):
@@ -595,7 +597,10 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
             line_text_x.append(next((sp["bbox"][0] for sp in inked if sp["text"].strip() != BULLET), spans[0]["bbox"][0] if spans else raw["bbox"][0]))
             line_boxes.append(tuple(pymupdf.Rect(spans[0]["bbox"]) | pymupdf.Rect(spans[-1]["bbox"])) if spans else raw["bbox"])
             for s in spans:
-                max_size = max(max_size, s["size"])
+                if s["size"] > max_size + 0.1:
+                    max_size, big_spans = s["size"], [s["text"]]
+                elif abs(s["size"] - max_size) <= 0.1:
+                    big_spans.append(s["text"])
                 n = len(s["text"].strip())
                 if n:
                     sizes[round(s["size"], 1)] += n
@@ -663,7 +668,7 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
             if rest and clean.has_content(rest):
                 out.append(Block(x0, line_boxes[1][1], x1, y1, font, size, bold, italic, rest, max_size))
             continue
-        out.append(Block(x0, y0, x1, y1, font, size, bold, italic, text, max_size))
+        out.append(Block(x0, y0, x1, y1, font, size, bold, italic, text, max_size, big_text=" ".join(big_spans).strip()))
     return out
 
 
@@ -1013,7 +1018,9 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         if b.size >= 2 * body_size and len(b.text) <= 2 and not b.text.isdigit():
             b.role = "dropcap"
             continue
-        if (b.max_size >= 2 * body_size and CHAPTER_NUMBER.search(b.text) and b.y0 < TITLE_BAND * height) or (
+        # The number must sit in the oversized spans themselves: on an exercises page a decorative
+        # 80 pt "?" shares a line with "6. In what ways did the Nazi state..." (2014 Class 9 history).
+        if (b.max_size >= 2 * body_size and CHAPTER_NUMBER.search(b.big_text or b.text) and b.y0 < TITLE_BAND * height) or (
             CHAPTER_LABEL.match(b.text) and b.size >= body_size + 2 and b.y0 < TITLE_BAND * height
         ):
             b.role = "chapter-number"

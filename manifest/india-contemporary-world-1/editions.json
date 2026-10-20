@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "813ab77aeeae1e569b2a311e81a6e6ea79d7aef47fe81fcb74d55e90296a73f9",
+      "fingerprint": "36615ff771c8e1bc0540f01cfc1787b5466de0fba4ec523909dea6f93b5f2d01",
       "snapshots": [
         "2014-07-28",
         "2016-09-10",
@@ -28,7 +28,7 @@
           "pages": 13
         }
       },
-      "chapter_count": 7,
+      "chapter_count": 8,
       "ocr": false,
       "chapters": [
         {
@@ -77,6 +77,28 @@
         },
         {
           "part": null,
+          "number": 3,
+          "title": "Nazism and the Rise of Hitler",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch03.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "49-74",
+          "fingerprint": "b37050d622de1232eb6dd2bfeb5b405a896bd3968467f52578e2bd685997e7c8",
+          "role_counts": {
+            "footer": 26,
+            "body": 120,
+            "h2": 17,
+            "caption": 103,
+            "h3": 17,
+            "table": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/03-nazism-and-the-rise-of-hitler.md"
+        },
+        {
+          "part": null,
           "number": 4,
           "title": "SECTION II",
           "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch04.pdf",
@@ -120,22 +142,24 @@
         {
           "part": null,
           "number": 6,
-          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
-          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch03.pdf",
-          "pdf_pages": 1,
-          "printed_pages": "74-74",
-          "fingerprint": "88ab2c58539c749bf4f5a005ecfe7fca79b3b167c0ae917ffb6cb5cf6d23e311",
+          "title": "Peasants and Farmers",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch06.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "117-138",
+          "fingerprint": "8a3cae4e8a169cc6307dd97bc6b020a2f3058651f1547f0daa4856686c334b22",
           "role_counts": {
-            "footer": 1,
-            "h2": 2,
-            "body": 9,
-            "chapter-number": 1
+            "footer": 22,
+            "h2": 12,
+            "body": 95,
+            "caption": 78,
+            "h3": 4,
+            "note": 2
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": null,
-          "file": "texts/india-contemporary-world-1/2014-07-28/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+          "file": "texts/india-contemporary-world-1/2014-07-28/06-peasants-and-farmers.md"
         },
         {
           "part": null,
@@ -184,7 +208,7 @@
     },
     {
       "id": "2019-03-12",
-      "fingerprint": "150536f6646d02ed721b45f90570b58907c12f76c5b19cea674a2626919c8253",
+      "fingerprint": "80d177c2d08ee43e58330f3c0f0d1cbbab0408826f82722d2307fcbda90cb5c1",
       "snapshots": [
         "2019-03-12",
         "2018-partial",
@@ -215,7 +239,7 @@
           "pages": 12
         }
       },
-      "chapter_count": 7,
+      "chapter_count": 8,
       "ocr": false,
       "chapters": [
         {
@@ -263,6 +287,28 @@
         },
         {
           "part": null,
+          "number": 3,
+          "title": "Nazism and the Rise of Hitler",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch03.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "49-74",
+          "fingerprint": "0fba8e654ed3a298eae8714cb77d0c7d328b993eea05a627cabd4cd833adafe3",
+          "role_counts": {
+            "footer": 52,
+            "body": 133,
+            "h2": 17,
+            "caption": 109,
+            "table": 4,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/03-nazism-and-the-rise-of-hitler.md"
+        },
+        {
+          "part": null,
           "number": 4,
           "title": "SECTION II",
           "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch04.pdf",
@@ -305,22 +351,23 @@
         {
           "part": null,
           "number": 6,
-          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
-          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch03.pdf",
-          "pdf_pages": 1,
-          "printed_pages": "74-74",
-          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
+          "title": "Peasants and Farmers",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch06.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "117-138",
+          "fingerprint": "534bae8c22d28b5bbfc6506a6e3f08f76cc916dca1984f603e8b63528c18786f",
           "role_counts": {
-            "footer": 2,
-            "h2": 2,
-            "body": 9,
-            "chapter-number": 1
+            "footer": 44,
+            "h2": 12,
+            "body": 99,
+            "caption": 79,
+            "note": 2
           },
           "ocr": false,
           "ocr_confidence": null,
           "ocr_pages": null,
           "overrides": null,
-          "file": "texts/india-contemporary-world-1/2019-03-12/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+          "file": "texts/india-contemporary-world-1/2019-03-12/06-peasants-and-farmers.md"
         },
         {
           "part": null,
@@ -368,7 +415,7 @@
     },
     {
       "id": "2021-08-15",
-      "fingerprint": "bdedfeefeda73fc789986699bac25fbac3a3880162c3d48d22cf7a211f8b08df",
+      "fingerprint": "09ab5c6ebc974e2ec85f855950bb2a9be72bd3d58b6e0b7ae96c1e8dfb75a824",
       "snapshots": [
         "2021-08-15",
         "2022-08-02",
@@ -452,6 +499,28 @@
         },
         {
           "part": null,
+          "number": 3,
+          "title": "Nazism and the Rise of Hitler",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch03.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "49-74",
+          "fingerprint": "0fba8e654ed3a298eae8714cb77d0c7d328b993eea05a627cabd4cd833adafe3",
+          "role_counts": {
+            "footer": 52,
+            "body": 133,
+            "h2": 17,
+            "caption": 109,
+            "table": 4,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/03-nazism-and-the-rise-of-hitler.md"
+        },
+        {
+          "part": null,
           "number": 4,
           "title": "SECTION II",
           "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch04.pdf",
@@ -490,32 +559,12 @@
           "ocr_pages": null,
           "overrides": null,
           "file": "texts/india-contemporary-world-1/2021-08-15/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
-        },
-        {
-          "part": null,
-          "number": 6,
-          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
-          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch03.pdf",
-          "pdf_pages": 1,
-          "printed_pages": "74-74",
-          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
-          "role_counts": {
-            "footer": 2,
-            "h2": 2,
-            "body": 9,
-            "chapter-number": 1
-          },
-          "ocr": false,
-          "ocr_confidence": null,
-          "ocr_pages": null,
-          "overrides": null,
-          "file": "texts/india-contemporary-world-1/2021-08-15/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
         }
       ]
     },
     {
       "id": "2024-08-04",
-      "fingerprint": "faac16df2355c33e731f650ad66a9c36b1c595bb9e04911de3003c0c9c6c045f",
+      "fingerprint": "25e35cc1d631a5cc150a95e85e04e638e253aefdd458adae258eae3cd9af41e0",
       "snapshots": [
         "2024-08-04"
       ],
@@ -598,6 +647,28 @@
         },
         {
           "part": null,
+          "number": 3,
+          "title": "Nazism and the Rise of Hitler",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch03.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "49-74",
+          "fingerprint": "0fba8e654ed3a298eae8714cb77d0c7d328b993eea05a627cabd4cd833adafe3",
+          "role_counts": {
+            "footer": 52,
+            "body": 133,
+            "h2": 17,
+            "caption": 109,
+            "table": 4,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/03-nazism-and-the-rise-of-hitler.md"
+        },
+        {
+          "part": null,
           "number": 4,
           "title": "SECTION II",
           "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch04.pdf",
@@ -636,26 +707,6 @@
           "ocr_pages": null,
           "overrides": null,
           "file": "texts/india-contemporary-world-1/2024-08-04/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
-        },
-        {
-          "part": null,
-          "number": 6,
-          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
-          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch03.pdf",
-          "pdf_pages": 1,
-          "printed_pages": "74-74",
-          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
-          "role_counts": {
-            "footer": 2,
-            "h2": 2,
-            "body": 9,
-            "chapter-number": 1
-          },
-          "ocr": false,
-          "ocr_confidence": null,
-          "ocr_pages": null,
-          "overrides": null,
-          "file": "texts/india-contemporary-world-1/2024-08-04/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
         }
       ]
     }
