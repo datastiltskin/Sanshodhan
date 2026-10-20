@@ -226,3 +226,228 @@
   find: "Bhagavata Purana1. He also encouraged the establishment fo satra monasteries"
   replace: "Bhagavata Purana. He also encouraged the establishment of satra or monasteries"
   note: "note on page 71 reads 'Bhagavata Purana. He also encouraged the establishment of satra or monasteries', the '1' is a stray mark and 'of' was misread as 'fo' with 'or' lost"
+- snapshot: "*"
+  chapter: 4
+  find: "As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul)."
+  replace: "> [source] As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul)."
+  note: "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 5
+  find: "> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than\n\n> [note] What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?\n\n> [caption] 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the\n\n> [caption] “Village of the Incline”."
+  replace: "> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the “Village of the Incline”.\n\n> [note] What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?"
+  note: "page 62: the Fig. 4 caption runs on past the side question to 'Village of the Incline' and is one caption (browser review 2026-10-20)"
+- snapshot: "2014-07-28"
+  chapter: 5
+  find: "Temple Construction in the Early Eleventh Century Two technological and stylistic developments"
+  replace: "> [note] Temple Construction in the Early Eleventh Century\n\nTwo technological and stylistic developments"
+  note: "page 62 to 63: the box title 'Temple Construction in the Early Eleventh Century' was glued to the next paragraph (browser review 2026-10-20)"
+- snapshot: "2014-07-28"
+  chapter: 5
+  find: "Even though the authority of the Mughal rulers waned in the eighteenth century, the architectural styles developed under their patronage were constantly used and adapted by other rulers whenever they tried to establish their own kingdoms. Fig. 17 Decorated pillars and struts holding the extension of the roof in Jodh Bai palace in Fatehpur Sikri. These follow architectural traditions of the Gujarat region."
+  replace: "Even though the authority of the Mughal rulers waned in the eighteenth century, the architectural styles developed under their patronage were constantly used and adapted by other rulers whenever they tried to establish their own kingdoms.\n\n> [caption] Fig. 17 Decorated pillars and struts holding the extension of the roof in Jodh Bai palace in Fatehpur Sikri. These follow architectural traditions of the Gujarat region."
+  note: "page 72: the Fig. 17 caption was glued to the end of the body paragraph (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 5
+  find: "You are an artisan standing on a tiny\n\nwooden platform held together by\n\nbamboo and rope fifty metres above the ground."
+  replace: "You are an artisan standing on a tiny wooden platform held together by bamboo and rope fifty metres above the ground."
+  note: "page 73: the Imagine box text is one paragraph (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 3
+  find: "You are a peasant in Alauddin Khalji ’s"
+  replace: "You are a peasant in Alauddin Khalji’s"
+  note: "page 43: the italic name's overhang left a space before the apostrophe (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 5
+  find: "Labour for the Agra Fort\n\nBuilt by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers."
+  replace: "> [note] Labour for the Agra Fort\n\n> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers."
+  note: "page 61: the 'Labour for the Agra Fort' box is a note, as the 2007 printing has it (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 5
+  find: "> [caption] W\n\n"
+  replace: ""
+  note: "page 64: 'W' is the west point of the compass drawing, not a caption (browser review 2026-10-20)"
+- snapshot: "*"
+  chapter: 6
+  find: "You are planning a journey from Surat\n\nto West Asia in the seventeenth century."
+  replace: "You are planning a journey from Surat to West Asia in the seventeenth century."
+  note: "page 88: the Imagine box text is one paragraph (browser review 2026-10-20)"
+- snapshot: "2014-07-28"
+  chapter: 8
+  find: "Ranaji, I have left your norms of shame, and false decorum of the princely life. I have left your town. And yet Rana why have you kept up enmity against me?\n\nRana you gave me a cup of poison. I drank it laughing. Rana I will not be destroyed by you. And yet Rana why have you kept up enmity against me?"
+  replace: "> [source] Ranaji, I have left your norms of shame, and false decorum of the princely life. I have left your town. And yet Rana why have you kept up enmity against me? Rana you gave me a cup of poison. I drank it laughing. Rana I will not be destroyed by you. And yet Rana why have you kept up enmity against me?"
+  note: "page 115: Mirabai's song is a quoted source, one block as in the later printings (browser review 2026-10-20)"
+- snapshot: "2023-12-23"
+  chapter: 8
+  find: "(1713 –1719)"
+  replace: "(1713–1719)"
+  note: "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+- snapshot: "2023-12-23"
+  chapter: 8
+  find: "(1754 –1759)"
+  replace: "(1754–1759)"
+  note: "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+- snapshot: "2023-12-23"
+  chapter: 8
+  find: "(1748 –1754)"
+  replace: "(1748–1754)"
+  note: "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+- snapshot: "2023-12-23"
+  chapter: 8
+  find: "(1759 –1816)"
+  replace: "(1759–1816)"
+  note: "page 141: a thin space before the dash of a date range that the page prints closed up (browser review 2026-10-20)"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "### TRACING CHANGES THROUGH\n\n### A THOUSAND YEARS"
+  replace: "# TRACING CHANGES THROUGH A THOUSAND YEARS"
+  note: "chapter title split into two headings on page 1, the page prints one title"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] 0760CHO1\n\n> [caption] Map 1\n\n> [caption] A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea."
+  replace: "> [caption] Map 1 A section of the world map drawn by the geographer al-Idrisi in the twelfth century showing the Indian subcontinent from land to sea."
+  note: "QR code label dropped and the Map 1 label and caption merged into one caption on page 1"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] A\n\nLook at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?"
+  replace: "> [note] Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?"
+  note: "stray 'A' from the map border removed and the question box on page 2 is a note"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] Map 2\n\n> [caption] The subcontinent, from the early-eighteenth-century Atlas Nouveau of Guillaume de U'Isle."
+  replace: "> [caption] Map 2 The subcontinent, from the early-eighteenth-century Atlas Nouveau of Guillaume de l’Isle."
+  note: "Map 2 label and caption merged on page 2 and 'l’Isle' read as U'Isle"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "backgrounds - the contexts —- in which information about the past was produced.\n\nIf the context"
+  replace: "backgrounds – the contexts – in which information about the past was produced.\n\n## New and Old Terminologies\n\nIf the context"
+  note: "heading 'New and Old Terminologies' lost and spaced dash misread on page 3"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "Historians and their Sources\n\nHistorians use"
+  replace: "## Historians and their Sources\n\nHistorians use"
+  note: "section heading on page 4 not marked as a heading"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "more The value of paper\n\nCompare the following:\n\n(1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.\n\n(2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.\n\n# ?) When was paper more expensive and easily available °/ - inthe thirteenth or the fourteenth century?"
+  replace: "more\n\n### The value of paper\n\n> [note] Compare the following:\n\n> [note] (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.\n\n> [note] (2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.\n\n> [note] When was paper more expensive and easily available – in the thirteenth or the fourteenth century?"
+  note: "box title 'The value of paper' ran into the paragraph on page 4 and the box was read as body text and a heading"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "small changes —aword here"
+  replace: "small changes – a word here"
+  note: "spaced dash and 'a word' run together on page 5"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] Fig. 1\n\n> [caption] A painting of a scribe making a copy ofa manuscript. This painting is only 10.5 cm by 7.1 cmin size. Because of its size it is calleda miniature."
+  replace: "> [caption] Fig. 1 A painting of a scribe making a copy of a manuscript. This painting is only 10.5 cm by 7.1 cm in size. Because of its size it is called a miniature."
+  note: "Fig. 1 label merged with its caption and 'of a', 'cm in', 'called a' read run together on page 5"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] Different kinds of handwriting"
+  replace: "> [caption] Fig. 2 Different kinds of handwriting"
+  note: "'Fig. 2' label lost from the caption on page 6"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "the son ofa ruler"
+  replace: "the son of a ruler"
+  note: "'of a' read as 'ofa' on page 7"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "Of the technological, economic"
+  replace: "Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.\n\n> [note] Of the technological, economic"
+  note: "side-column glossary entry 'Habitat' on page 8 was not read, and the question box is a note"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "Tughlugs (Chapter 3)"
+  replace: "Tughluqs (Chapter 3)"
+  note: "'Tughluqs' read as 'Tughlugs' on page 9"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [table] — Map 3\n\n> [table] 2 \\ Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source\n\n> [caption] me Masalik al-Absar fi a eS Mamalik al-Amsar of _ Shihabuddin Umari.\n\n> [caption] ANDAMAN & NICOBAR ISLANDS\n\n> [caption] Siwistan VIL Sarsuti XII = Kara XIX = Gujarat 1 Uchch Vill Kuhram XIV. = Awadh XX ~— Devagiri Ti = Multan IX Hansi XV Bihar XXI_—Tilingana TV Kalanaur X Delhi XVI Lakhnauti XX Talanj V___Lahor XI Badayun XVII Jajnagar XXIII Dvarasamudra VI Samana XI Qannauj XVIII Malwa XXTY Ma'bar"
+  replace: "> [caption] Map 3 Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source Masalik al-Absar fi Mamalik al-Amsar of Shihabuddin Umari.\n\n> [caption] I Siwistan II Uchch III Multan IV Kalanaur V Lahor VI Samana VII Sarsuti VIII Kuhram IX Hansi X Delhi XI Badayun XII Qannauj XIII Kara XIV Awadh XV Bihar XVI Lakhnauti XVII Jajnagar XVIII Malwa XIX Gujarat XX Devagiri XXI Tilingana XXII Talanj XXIII Dvarasamudra XXIV Ma‘bar"
+  note: "Map 3 caption read as table rows and split in three on page 9, 'ANDAMAN & NICOBAR ISLANDS' is a label inside the map and dropped, the printed legend of the 24 provinces re-read from the page image"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "Language and region\n\nIn 1318 the poet Amir Khusrau noted that there was a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma ‘bari (in Tamil Nadu), Gauri, (in Bengal)... Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).\n\nAmir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not Rnow it, only the Brahmanas do”.\n\nMake a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.\n\nDid you notice that the names by which languages are known have changed over time?"
+  replace: "### Language and region\n\n> [note] In 1318 the poet Amir Khusrau noted that there was\n\n> [source] a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma‘bari (in Tamil Nadu), Gauri, (in Bengal) … Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).\n\n> [note] Amir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not know it, only the Brahmanas do”.\n\n> [note] Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.\n\n> [note] Did you notice that the names by which languages are known have changed over time?"
+  note: "box on page 10: title not marked, the quoted line is a source in italics, the rest are notes, 'Ma‘bari' and 'know' misread"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] Why do you think rulers made such claims?"
+  replace: "> [note] Why do you think rulers made such claims?"
+  note: "side-column question on page 10 is a note"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "ulama — learned theologians"
+  replace: "ulama – learned theologians"
+  note: "page 12 prints a spaced en dash"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "(Hanafi and Shafi’ mainly"
+  replace: "(Hanafi and Shafi’i mainly"
+  note: "'Shafi’i' lost its last letter on page 12"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "iC 10 mean LO ‘IC >| p Cc Historians do not see time just as a passing of hours, days or years — as a clock"
+  replace: "## Thinking about Time and Historical Periods\n\nHistorians do not see time just as a passing of hours, days or years – as a clock"
+  note: "heading 'Thinking about Time and Historical Periods' read as noise on page 12 and the spaced dash is an en dash"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "segments — periods — that"
+  replace: "segments – periods – that"
+  note: "page 12 prints spaced en dashes"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "developments - in the economy"
+  replace: "developments – in the economy"
+  note: "page 12 prints a spaced en dash"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "that theme.\n\n1. Who was considered"
+  replace: "that theme.\n\n### Let’s recall\n\n1. Who was considered"
+  note: "activity heading 'Let’s recall' lost on page 14"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "> [caption] 2. State whether true or false:\n\n(a) We do not find inscriptions for the period after KEYWORDS 700. (b) The Marathas asserted their political importance\n\n. during this period. manuscript — (c) Forest-dwellers were sometimes pushed out of Jati their lands with the spread of agricultural; settlements. region\n\n(d) Sultan Ghiyasuddin Balban controlled Assam, periodisation Manipur and Kashmir.\n\n> [caption] 3. Fill in the blanks:\n\n(a) Archives are places where are kept.\n\n(b) ———————- was a fourteenth-century chronicler.\n\nsome of the new crops introduced into the subcontinent during this period.\n\n4. List some of the technological changes associated with this period."
+  replace: "2. State whether true or false:\n\n(a) We do not find inscriptions for the period after 700.\n\n(b) The Marathas asserted their political importance during this period.\n\n(c) Forest-dwellers were sometimes pushed out of their lands with the spread of agricultural settlements.\n\n(d) Sultan Ghiyasuddin Balban controlled Assam, Manipur and Kashmir.\n\n3. Fill in the blanks:\n\n(a) Archives are places where ——————— are kept.\n\n(b) —————— was a fourteenth-century chronicler.\n\n(c) ——, ———, ———, ——— and ——— were some of the new crops introduced into the subcontinent during this period.\n\n4. List some of the technological changes associated with this period.\n\n### Keywords\n\n- manuscript\n\n- jati\n\n- region\n\n- periodisation"
+  note: "page 14 exercises: question stems tagged as captions, Keywords box words run into the answers, blanks lost, all re-read from the page image"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "period?\n\n6. In what ways"
+  replace: "period?\n\n### Let’s understand\n\n6. In what ways"
+  note: "activity heading 'Let’s understand' lost on page 15"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "pan-regional empire mean?\n\n9. What"
+  replace: "pan-regional empire mean?\n\n### Let’s discuss\n\n9. What"
+  note: "activity heading 'Let’s discuss' lost on page 15"
+- snapshot: "2022-08-04"
+  chapter: 1
+  find: "doing so?\n\n11. Compare"
+  replace: "doing so?\n\n### Let’s do\n\n11. Compare"
+  note: "activity heading 'Let’s do' lost on page 15"
+- snapshot: "2022-08-04"
+  chapter: 3
+  find: "> [caption] The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers Moth ki Masjid, built — in the reign of Sikandar Lodi by his minister.\n\nwho shared a belief\n\nsystem and a code of conduct. It was necessary to reinforce this idea of a community because\n\nMuslims came from a Fig-5 ; iety. of Mosque of Jamali backgrounds. late 1520s.\n\nvariety O Kamali, built in the\n\n““ Compare Figures 2, 3, 4 and 5. What similarities and differences do you notice amongst the mosques? The mosques in Figures 3, 4.and 5 show an evolution in architectural tradition that culminates in Shah Jahan’s mosque in Delhi (see Fig. 7 in Chapter 5)."
+  replace: "The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.\n\n> [note] Compare Figures 2, 3, 4 and 5. What similarities and differences do you notice amongst the mosques? The mosques in Figures 3, 4 and 5 show an evolution in architectural tradition that culminates in Shah Jahan’s mosque in Delhi (see Fig. 7 in Chapter 5)."
+  note: "page 37: the paragraph wrapped around two figures was read as a caption in pieces with the figure captions mixed in, rebuilt from the page image"
+- snapshot: "2022-08-04"
+  chapter: 3
+  find: "Tughluqgs"
+  replace: "Tughluqs"
+  note: "'Tughluqs' read as 'Tughluqgs' in the heading on page 37"
+- snapshot: "2022-08-04"
+  chapter: 3
+  find: "especially [ltutmish"
+  replace: "especially Iltutmish"
+  note: "'Iltutmish' read with a bracket on page 37"
+- snapshot: "2022-08-04"
+  chapter: 3
+  find: "rely upon them.\n\n<!-- page 38"
+  replace: "rely upon them.\n\n> [caption] Fig. 4 Moth ki Masjid, built in the reign of Sikandar Lodi by his minister.\n\n> [caption] Fig. 5 Mosque of Jamali Kamali, built in the late 1520s.\n\n<!-- page 38"
+  note: "captions of Figs. 4 and 5 on page 37 were folded into the paragraph"
+- snapshot: "2022-08-04"
+  chapter: 4
+  find: "> [table] Jahangir 1605-1627\n\nThe Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s_ wife, to marginalise him were unsuccessful. E\n\n> [caption] Shah Jahan 1627-1658\n\nMughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize | Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was _ imprisoned for the rest of his life in Agra.\n\n> [caption] Aurangzeb 1658-1707\n\n## (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in }\n\n> [table] the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the\n\n> [table] ~ succession and internal politics of the Rathor Rajputs of . Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But\n\n## Aurangzeb insulted Shivaji who escaped from Agra, cama himself an independent king and resumed his\n\n> [table] campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the\n\n\\ ys Marathas and the Deccan Sultanate. He finally fled to yo Safavid Iran.\n\n## hy _.. (2) After Akbar’s rebellion Aurangzeb sent armies against »\n\n> [table] ' the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally F managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east\n\n> [caption] of the Ahoms and in the Deccan of the Marathas. His death was followed"
+  replace: "### Jahangir 1605-1627\n\nMilitary campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.\n\n### Shah Jahan 1627-1658\n\nMughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.\n\n### Aurangzeb 1658-1707\n\n(1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled against Aurangzeb and received support from the Marathas and the Deccan Sultanate. He finally fled to Safavid Iran.\n\n(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons."
+  note: "page 49: text wrapped around three portraits was read as table and caption rows with headings made of body lines, rebuilt from the page image"
