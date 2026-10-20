@@ -57,7 +57,9 @@ uv run pytest
 ```
 
 To preview the site locally: `python3 -m http.server 8765 -d site` and open
-http://127.0.0.1:8765/. In production the HTML is deployed to GitHub Pages by
+http://127.0.0.1:8765/. To review it, `uv run python scripts/annotate_server.py` serves the
+same pages with a flagging layer (select text, press Flag) that writes to
+`review/annotations.jsonl`. In production the HTML is deployed to GitHub Pages by
 `.github/workflows/site.yml` and the page images are uploaded to a Cloudflare R2 bucket by
 `scripts/upload-images.sh`, with the bucket's public URL in the `IMAGES_BASE` repository
 variable.

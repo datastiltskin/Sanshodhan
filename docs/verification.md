@@ -46,6 +46,16 @@ a scan comes from layout and roles, not from word reading, and that is where the
 work. The one place the model reads better is a table (the Mughal emperors table in
 chapter 4, where tesseract drops most of the dates), so it is worth a second reading there.
 
+## Flagging from the browser
+
+`uv run python scripts/annotate_server.py` serves `site/` on port 8765 with an annotation
+layer on every page. Select any text, press the Flag button that appears, pick what kind of
+fault it is (extraction, wrong role, wrong diff, the book's own) and say what it should be.
+The flag lands in `review/annotations.jsonl` with the page address, the printed page and
+side it came from, the selected text and its sentence. A panel at the bottom right lists the
+page's flags and deletes them. Nothing in `site/` changes, so the deployed site never carries
+the layer. The file is the input to a fix pass, the same way a review file is.
+
 ## A spelling pass
 
 `scripts/spellcheck.py [<book> [<edition>]]` lists the words in the texts that no dictionary
