@@ -326,6 +326,40 @@ found, in English, of the 2007 first editions of India and the Contemporary Worl
 Democratic Politics II (the archive has only their Hindi versions, items 12379 and 12380,
 and archive.org and library catalogues list no file).
 
+## ePubs
+
+NCERT publishes its textbooks as ePubs too, through the ePathshala app (and, in 2015 to 2019,
+the ePathshala website, which has since moved from epathshala.nic.in to
+epathshala.ncert.gov.in and now offers flipbooks and PDFs on its pages, with ePubs only
+through the app). Checked 20 October 2026:
+
+- Each book is a bundle of one ePub per chapter (file names like `5223_1.epub`, the book's
+  id in ePathshala's catalogue and the chapter number), reflowable XHTML exported from the
+  InDesign files with the images, not page scans. The text is the same text as the PDFs'
+  (113 of 143 body sentences of Our Pasts II chapter 1 identical to the PDF text of the same
+  printing, and 27 of the other 30 the same sentence with a stray space, as in
+  "discon tinuity" and "prashast i )", which the export leaves at hyphenation and italic
+  boundaries). There are no page numbers.
+- The structure is the gain: paragraphs, headings, captions, glossary entries, activity
+  boxes, maps and exercises each carry a class name. The vocabulary differs by book, from
+  the InDesign style names of each typesetter: Our Pasts I and II, Our Pasts III part 2,
+  Social and Political Life II and both Class 9 and 10 history books use names such as
+  `BodyText`, `topicHeading`, `caption`, `activityBox`, `newWordsBox`, `Excercise`;
+  Democratic Politics II, Social and Political Life I and III use generic names
+  (`No-Paragraph-Style`, `char-style-override-39`, `para-Normal-Local-17`) whose meaning is
+  only in the stylesheet's font sizes and weights.
+- Coverage is the limit. No ePub of any year is in the Wayback Machine under any of the
+  ePathshala hosts or NCERT's own, the app's old vendor host (ep.intentlabs.com) is gone,
+  and archive.org has no uploads. The one set found is the 2016 session (ePub dates March to
+  September 2015, the 2015-16 printing) for all ten books, re-hosted on Google Drive by
+  upschub.com from the app; it is kept under `pdfs/_epub/2016-epathshala/<book>.epub`,
+  outside git. The current session's ePubs would have to come from the app itself.
+
+So ePubs cannot replace the PDFs for the comparison across years: they exist for two points
+in time against eight to eleven PDF editions a book. What they can do is serve as a
+structural reference for the 2015-16 printing of every book, to check or calibrate the
+roles the extractor infers from page geometry, and as a cleaner source of that one edition.
+
 ## Other places that hold copies
 
 Checked again on 20 October 2026 for the ten history and civics books of classes 6 to 10.
