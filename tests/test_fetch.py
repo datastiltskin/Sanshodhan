@@ -29,3 +29,24 @@ def test_looks_valid_checks_magic_of_destination(tmp_path: Path):
     whole = tmp_path / "ch04.pdf"
     whole.write_bytes(b"%PDF-1.4" + b"\0" * 4000 + b"\n%%EOF\n")
     assert fetch.looks_valid(whole)
+
+
+def test_pdf_with_its_eof_marker_before_a_cut_update_is_kept(tmp_path: Path):
+    # A linearised PDF whose appended cross-reference update was cut off: the marker of the
+    # complete first revision is far from the end, and the file still opens.
+    cut = tmp_path / "ch08.pdf"
+    cut.write_bytes(b"%PDF-1.4\n" + b"x" * 3000 + b"%%EOF\n" + b"0000928480 00000 n\r\n" * 200)
+    assert fetch.looks_valid(cut)
+    stump = tmp_path / "ch09.pdf"
+    stump.write_bytes(b"%PDF-1.4\n" + b"x" * 5000)
+    assert not fetch.looks_valid(stump)
+
+
+def test_member_names_with_three_digits_and_the_fees101_slip():
+    assert fetch.readable_member_name("fess1010.pdf", "fess1", None) == "ch10.pdf"
+    assert fetch.readable_member_name("fess1011.pdf", "fess1", None) == "ch11.pdf"
+    assert fetch.readable_member_name("fees101.pdf", "fess1", None) == "ch01.pdf"
+    assert fetch.readable_member_name("fees101.pdf", "gess1", None) == "fees101.pdf"
+    assert fetch.readable_member_name("jess4 ps.pdf", "jess4", None) == "prelims.pdf"
+    assert fetch.readable_member_name("iess1ps.pdf", "iess3", None) == "prelims.pdf"
+    assert fetch.readable_member_name("iess1ps.pdf", "iess1", None) == "prelims.pdf"

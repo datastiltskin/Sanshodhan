@@ -86,9 +86,12 @@ def looks_valid(path: Path, like: Path | None = None) -> bool:
     with path.open("rb") as fh:
         head = fh.read(4)
         if kind == PDF_MAGIC:
-            fh.seek(max(0, path.stat().st_size - 2048))
-            tail = fh.read()
-            if b"%%EOF" not in tail:
+            # A stump has no end-of-file marker at all. A marker that is not in the tail is a
+            # PDF whose incremental update was cut off (a mirror's copy of fess108.pdf ends
+            # inside an appended cross-reference table), and its earlier, complete revision
+            # still opens, so the file is kept.
+            fh.seek(0)
+            if b"%%EOF" not in fh.read():
                 return False
     if kind == JPEG_MAGIC:
         return head.startswith(kind) or head.startswith(PNG_MAGIC)  # NCERT serves one cover as PNG under a .jpg name
@@ -167,11 +170,17 @@ def readable_member_name(member: str, code: str, part: int | None) -> str | None
     if not base or base.startswith(".") or base.startswith("__MACOSX"):
         return None
     prefix = f"part{part}-" if part else ""
-    m = re.fullmatch(rf"{re.escape(code)}(\d\d)\.pdf", base, re.IGNORECASE)
+    # NCERT's own naming slips: chapters 10 and 11 of the 2020 Our Pasts I zip are
+    # "fess1010.pdf" and "fess1011.pdf", and its chapter 1 is "fees101.pdf".
+    if code == "fess1" and base.lower() == "fees101.pdf":
+        return f"{prefix}ch01.pdf"
+    if code == "iess3" and base.lower() == "iess1ps.pdf":
+        return f"{prefix}prelims.pdf"  # the 2025 zip packs the book's own prelims under the geography book's name
+    m = re.fullmatch(rf"{re.escape(code)}(\d{{2,3}})\.pdf", base, re.IGNORECASE)
     if m:
-        return f"{prefix}ch{m.group(1)}.pdf"
-    if re.fullmatch(rf"{re.escape(code)}ps\.pdf", base, re.IGNORECASE):
-        return f"{prefix}prelims.pdf"
+        return f"{prefix}ch{int(m.group(1)):02d}.pdf"
+    if re.fullmatch(rf"{re.escape(code)}\s*ps\.pdf", base, re.IGNORECASE):
+        return f"{prefix}prelims.pdf"  # "jess4 ps.pdf" in the 2023 Democratic Politics II zip
     if re.fullmatch(rf"{re.escape(code)}dd\.pdf", base, re.IGNORECASE):
         return f"{prefix}whole-book.pdf"  # some zips hold the book as one PDF instead of chapters
     if re.fullmatch(rf"{re.escape(code)}rf\.pdf", base, re.IGNORECASE):
@@ -338,10 +347,19 @@ def fetch_covers(book: Book, *, log=print) -> list[FileRecord]:
 
 def fetch_book(book: Book, *, log=print) -> Path:
     records = load_manifest(book.id)
+    failed: list[str] = []
     for snap in book.snapshots:
-        for rec in fetch_snapshot(book, snap, log=log):
-            records[rec.path] = asdict(rec)
+        try:
+            for rec in fetch_snapshot(book, snap, log=log):
+                records[rec.path] = asdict(rec)
+        except FetchError as exc:
+            # One unreachable or unusable file must not stop the rest of the book from being
+            # fetched and recorded. It is reported at the end and can be retried later.
+            log(f"  FAILED {snap.label}: {exc}")
+            failed.append(f"{snap.label} ({snap.url})")
     for rec in fetch_covers(book, log=log):
         records[rec.path] = asdict(rec)
     records = {path: rec for path, rec in records.items() if (PDF_DIR.parent / path).exists()}
+    if failed:
+        log(f"{book.id}: {len(failed)} snapshot file(s) failed, run fetch again to retry: " + "; ".join(failed))
     return save_manifest(book, records)
