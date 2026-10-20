@@ -63,6 +63,12 @@ Whole-book zips with distinct content (these are what `sources.yaml` lists):
 | Our Pasts III | 2014-07-28, 2016-09-10, 2019-03-12, 2020-10-15, 2021-08-14, 2022-08-02, 2023-12-23, 2024-08-04 | |
 | Social and Political Life III | 2014-07-28, 2016-09-10, 2019-05-04, 2020-06-16, 2021-08-14, 2022-08-02, 2023-02-10 (truncated), 2023-12-23, 2024-05-24 | 2020-06-16 and 2020-10-11 share a digest |
 | Social and Political Life II | 2014-07-28, 2016-09-10, 2019-05-04, 2020-05-08, 2022-08-02, 2023-12-23, 2024-05-24 | no 2021 zip; three captures on 2022-08-02, two of them cut short; 2024-05-24 identical through 2026 |
+| Our Pasts I (fess1) | 2014-06-28, 2015-04-02, 2019-03-12, 2019-05-04, 2020-06-16, 2023-12-23 | added 2026-10-20; the live site no longer serves the Class 6 books |
+| Social and Political Life I (fess3) | 2014-06-28, 2015-04-01, 2019-05-04, 2020-06-16, 2022-10-13, 2023-12-23 | added 2026-10-20 |
+| India and the Contemporary World I (iess3) | 2014-07-28, 2016-09-10, 2019-03-12, 2021-08-15, 2022-08-02, 2023-12-23, 2024-08-04, 2025-04-27 | added 2026-10-20; code to be confirmed from the prelims |
+| India and the Contemporary World II (jess3) | 2011-10-17, 2014-09-07, 2019-03-12, 2019-05-04, 2020-05-17, 2022-08-24, 2023-12-23, 2025-02-12, 2025-04-22, 2026-05-08 | added 2026-10-20; the 2011 zip is the earliest in the project |
+| Democratic Politics I (iess4) | 2014-07-28, 2016-09-11, 2019-05-04, 2020-06-16, 2021-08-14, 2022-09-09, 2023-12-23, 2024-05-24, 2025-04-27 | added 2026-10-20 |
+| Democratic Politics II (jess4) | 2011-10-17, 2013-02-19, 2014-09-07, 2015-04-01, 2019-05-04, 2020-05-17, 2022-08-03, 2023-02-28, 2023-12-23, 2024-05-24, 2025-04-26, 2026-05-08 | added 2026-10-20 |
 
 What the downloaded zips turned out to contain:
 
@@ -134,6 +140,47 @@ Access notes: plain HTTP clients work for both ncert.nic.in (send a browser User
 web.archive.org. There is no bot blocking. The archive is intermittently down (504, or a
 "Temporarily Offline" HTML page served with status 200), so retries with backoff are needed
 and the fetcher checks that a download is actually a zip or PDF.
+
+Oddities in the new books' zips, as of 20 October 2026:
+
+- The 2022-10-13 Social and Political Life I zip is cut short inside chapter 7. Chapters 1
+  to 6 were salvaged, and chapter 9 and the prelims came from per-chapter captures of the
+  same 2022-23 printing (their footers agree), so the snapshot is `2022-10-13-partial` with
+  seven of nine chapters. Chapter 7's only capture is a 1 MiB stump and chapter 8's transfer
+  breaks off before its end, so those two are still missing.
+- The 2023-02-28 Democratic Politics II zip is cut inside chapter 4: chapters 1 to 3
+  salvaged, snapshot `2023-02-28-partial`.
+- The 2025-04-27 India and the Contemporary World I zip packs the book's own prelims under
+  the geography book's file name (`iess1ps.pdf`, "Reprint 2025-26"); the 2025-04-21 capture
+  of `iess3ps.pdf` is byte-identical and is listed so the snapshot has a `prelims.pdf`.
+- The 2025-02-12 India and the Contemporary World II zip has the five chapters and no
+  prelims, and no 2024-25 prelims survives anywhere: the one capture of that session is a
+  stump whose original length equals the 2023-24 prelims. Nothing was added rather than
+  misdate it.
+- NCERT's zips carry slips of naming that the fetcher maps to the right chapter: the 2020
+  Our Pasts I zip (and the archive.org upload of the same printing) names chapters 10 and
+  11 `fess1010.pdf` and `fess1011.pdf` and chapter 1 `fees101.pdf`; the 2023 Democratic
+  Politics II zip has `jess4 ps.pdf` with a space; the 2025 India and the Contemporary
+  World I zip has its prelims as `iess1ps.pdf`. A member the fetcher does not recognise is
+  kept under its own name and ignored by the extractor, so an edition with fewer chapters
+  than its zip has files is the sign to look for.
+- The live site answers 404 for the Class 6 books, the Class 9 history book and Democratic
+  Politics I, under every path and name tried, so their `live` entries fetch nothing. The
+  Class 10 books are still served (files dated 27 March 2026).
+
+Captures of single chapter files are often cut at exactly 1 MiB (sometimes 5 MiB) by the
+archive's crawler. Before listing one, check its length against the other captures of the
+same file, or ask for a byte range and read the total size the archive reports. The index's
+digest is the base32 SHA-1 of the file, so a capture can be compared with files already on
+disk without downloading it: of 105 gap-year candidates for the six new books, 66 were
+byte-identical to held files and 39 were new. The gap-year partial snapshots added this way
+(one label per year, `<year>-partial`, or `<year>-ncerts-partial` when both URL paths have
+captures that year) are: Our Pasts I 2016 to 2018, 2021, 2022, 2024; Social and Political
+Life I 2016 to 2018, 2021, 2024; India and the Contemporary World I 2017, 2018, 2020; India
+and the Contemporary World II 2013, 2015, 2016, 2018, 2021, 2024; Democratic Politics I 2012,
+2017; Democratic Politics II 2016 to 2018, 2021; Our Pasts II 2015, 2025, 2026; Our Pasts III
+2015, 2017, 2018, 2025, 2026; Social and Political Life III 2015, 2017, 2018; Social and
+Political Life II 2017, 2018, 2021, 2025, 2026.
 
 ## Cover images
 
@@ -208,7 +255,119 @@ archive as far as we can tell. Getting them means a scan or a request to the lib
 Class 8 for reference: 1980 History and Civics, 1989 Modern India, 2004 India and the World,
 2008 Our Pasts III, 2025 Exploring Society Parts 1 and 2.
 
+## The Azim Premji University School Books Archive
+
+schoolbooksarchive.azimpremjiuniversity.edu.in holds scans of Indian school textbooks from
+the 1860s on, NCERT's among them (1,323 items under NCERT as publisher, checked 20 October
+2026). Every file looked at is a 2021 flatbed scan (ScanSnap SV600) with an invisible OCR
+text layer, split into parts of about 10 MB. The scans are clean and sharp, the OCR layer
+reads body text well and headings and contents pages badly. There are no born-digital PDFs,
+so for text the archive is another OCR source, and its value to this project is different:
+it has the first editions of the NCF-2005 books (2006 to 2008), one printing of each, and
+the whole pre-2005 lineage that the library catalogue lists and that no other site has,
+including the 2002 and 2003 "India and the World" books. Later printings of one title are
+not there.
+
+The site is DSpace 6.2 behind a scripted front end. Its item pages load by script, its
+REST and OAI endpoints are off, and its browse and search paging drop and repeat items. What
+answers reliably, with a browser-like User-Agent: `GET /dspace-mvc/getItemSearch` with the
+publisher filter (`filtername=publisher`, `filtertype=contains`, `filterquery=National
+Council of Educational Research`) and one class at a time (`filter_field_1=educationlevelclass`,
+`filter_type_1=equals`, `filter_value_1=Class 9`), which fits on one page of `rpp=500`;
+`GET /dspace-mvc/getMetaDataValues?itemID=<uuid>&configProp=metadata.ItemDisplay` for
+publisher, year and edition; `GET /dspace-mvc/getItemBitstream?handle=20.500.12497/<n>` for
+the file ids; and `GET /dspace-mvc/retrieve?bitstreamID=<id>` for the PDF itself. Downloaded
+parts live under `pdfs/_apu/<handle>/partN.pdf`, outside git.
+
+NCERT history and civics items for classes 6 to 10 (class and year as the archive records them):
+
+| Class | Year | Title | Files | Item |
+|---|---|---|---|---|
+| Class 6 | 1980 | History and civics : a textbook for class VI | 5 | [4282](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/4282) |
+| Class 6 | 1987 | Our civic life : a textbook of civics for class VI | 1 | [11075](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/11075) |
+| Class 6 | 1987 | Our civic life : a textbook of civics for class VI | 1 | [8177](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/8177) |
+| Class 6 | 1990 | Ancient India : a textbook of history for class VI | 3 | [2300](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2300) |
+| Class 6 | 1991 | Ancient India : a textbook of history for class VI | 1 | [10932](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/10932) |
+| Class 6 | 2002 | India and the World : social sciences textbook for class VI | 5 | [2154](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2154) |
+| Class 6 | 2003 | History in the new NCERT textbooks : fallacies in the IHC report | 1 | [6686](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/6686) |
+| Class 6 | 2006 | Our pasts I : class VI | 4 | [5853](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/5853) |
+| Class 6 | 2006 | Social science, social and political life part I : textbook for class VI | 3 | [1414](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1414) |
+| Class 7 | 1988 | How we govern ourselves : a textbook of civics for class VII | 1 | [10992](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/10992) |
+| Class 7 | 1988 | Medieval India : history textbook for class VII | 1 | [3164](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/3164) |
+| Class 7 | 1989 | How we govern ourselves : a textbook of civics for class VII | 2 | [1263](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1263) |
+| Class 7 | 2003 | India and the World : a social science textbook for class VII | 6 | [1991](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1991) |
+| Class 7 | 2007 | Our pasts part II : textbook in history for class VII | 4 | [1415](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1415) |
+| Class 7 | 2007 | Social science social and political life - II : textbook for class VII | 3 | [1418](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1418) |
+| Class 8 | 1980 | History and civics : a textbook for class VIII | 1 | [10897](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/10897) |
+| Class 8 | 1981 | History and civics : a textbook for class VIII | 9 | [1990](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1990) |
+| Class 8 | 1989 | Modern India : a history of textbook for class VIII | 8 | [2236](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2236) |
+| Class 8 | 1989 | Our country today : problems and challenges, a textbook in civics for class VIII | 2 | [8184](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/8184) |
+| Class 8 | 1989 | Our country today : problems and challenges, a textbook in civics for class VIII | 1 | [11077](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/11077) |
+| Class 8 | 2006 | Social science part II, India and the World : textbook for class VII | 5 | [1416](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1416) |
+| Class 8 | 2008 | Our Pasts part I : class VIII | 3 | [5854](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/5854) |
+| Class 8 | 2013 | Social and political life III : textbook for class VIII | 3 | [1395](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/1395) |
+| Class 9 | 1988 | Medieval India : history textbook for class VII | 1 | [11008](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/11008) |
+| Class 9 | 1990 | The story of civilization : volume 1, a history textbook for class IX | 3 | [11146](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/11146) |
+| Class 9 | 1998 | India constitution and government : a textbook in civics for classes IX and X | 3 | [2290](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2290) |
+| Class 9 | 2006 | Democratic politics : I, textbook in political science for class IX | 4 | [2244](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2244) |
+| Class 9 | 2006 | Social science India and the contemporary World - I : textbook in history for class IX | 5 | [2245](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/2245) |
+| Class 10 | 1989 | Our government : how it functions, a textbook in civics for class - X | 1 | [11078](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/11078) |
+| Class 10 | 1989 | Our government : how it functions, a textbook in civics for class X | 2 | [8189](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/8189) |
+| Class 10 | 1989 | The story of civilization part 1 : textbook in history for class X | 1 | [3171](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/3171) |
+| Class 10 | 1989 | The story of civilization part volume two : history textbook for class X | 1 | [3172](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/3172) |
+| Class 10 | 2002 | The story of civilization, history : textbook for class X, volume two | 1 | [9347](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/9347) |
+| Class 10 | 2005 | Social science, part I : textbook in history for class X | 1 | [6614](https://schoolbooksarchive.azimpremjiuniversity.edu.in/handle/20.500.12497/6614) |
+
+The first editions are whole-book scans, not chapter files, so wiring them into the
+pipeline needs a split by chapter from the contents page and an OCR edition each. That is
+deferred: the project's aim is the text-layer printings, and those are on the Wayback
+Machine from 2011 (the Class 10 books) or 2014 (the rest) onwards. No copy at all has been
+found, in English, of the 2007 first editions of India and the Contemporary World II and
+Democratic Politics II (the archive has only their Hindi versions, items 12379 and 12380,
+and archive.org and library catalogues list no file).
+
 ## Other places that hold copies
+
+Checked again on 20 October 2026 for the ten history and civics books of classes 6 to 10.
+Every copy found is listed in `sources.yaml` and downloaded, whatever its quality: the
+pipeline groups snapshots by their text, so a duplicate costs nothing and a different
+printing is a find. The rule for a copy from outside NCERT and the Wayback Machine is that
+its label says what is known about its date, and no more.
+
+- **archive.org, items `ncert-<code>`** (uploaded 26 and 27 June 2021 by one user, one item
+  per book, chapter files plus prelims): every file's first-page footer reads 2020-21, so
+  they are the 2020-21 session printing. Labelled `archive-org-2020-21`. Item `jess3dd`
+  (March 2021) holds the whole-book zip of the August 2019 reprint of India and the
+  Contemporary World II, labelled `archive-org-2019-reprint`. The `ncert-fess1` item lacks
+  chapter 1 and 12 and carries a stray `fees101.pdf`, which is skipped. File lists come from
+  `https://archive.org/metadata/<item>`; downloads from
+  `https://archive.org/download/<item>/<file>`. The site is fast and sets no rate limit
+  that a two-second pause does not respect.
+- **rungtaias.org/free-resources** (an IAS coaching site): chapter files for classes 6 to
+  12 under `public/uploads/NCERT TEXT BOOKS/Class N/<book folder>/<code>NN.pdf`. The Class 7
+  and 8 files carry a 2015-16 footer and are labelled so. The Class 6, 9 and 10 files carry
+  no footer, and are byte-identical to files NCERT served on `ncerts/l` between 2013 and
+  2017, so they are copies of those printings. They are labelled `rungtaias-undated` and
+  dated by the editions step from their prelims. One of them, Our Pasts I chapter 8, is cut
+  short on the mirror itself after a complete first revision, which the fetcher keeps.
+- **archive.org, item `OldNCERTBooks`** (February 2026): whole-book zips of nine of the ten
+  books, every file byte-identical to a snapshot already held. Listed anyway as
+  `archive-org-oldncert-<session>` snapshots, since a duplicate confirms a printing. Item
+  `class910deletedhistorychapters` holds six chapters cut from the Class 9 and 10 history
+  books, all identical to held files, and is not listed. An Arvind Gupta collection scan of
+  Our Pasts III part 1 (January 2009 reprint) is kept at
+  `pdfs/_archive-org/our-pasts-3-part1-2009-01-scan.pdf`, not wired in. Two scans sit in the
+  archive's lending library and need a browser borrow:
+  https://archive.org/details/ourpasts3part2te0000ncer (Our Pasts III part 2, dated 2016) and
+  https://archive.org/details/bwb_W8-BHV-450 (Social and Political Life III, 2012).
+- **selfstudys.com/books/ncert-old-book** lists chapter PDFs of a "2015-2016" set and of
+  the 2019-20, 2020-21, 2021-22 and 2022-23 sessions, but hands out a download link only by
+  e-mail after a sign-up, and the viewer renders pages without exposing the file. Not used.
+- **iasexamportal.com** sells "old NCERT" kits (the pre-2005 books) without stating years.
+  Not used.
+- **The Azim Premji University School Books Archive** (section above): first editions and
+  the pre-2005 lineage as scans with an OCR layer. Downloaded under `pdfs/_apu/`, not wired
+  into the pipeline.
 
 - archive.org has user uploads named after NCERT codes (`ncert-gess2`, `ncert-ghss1`, and so on)
   and the Digital Library of India scans listed above. Useful as a cross-check, not a primary

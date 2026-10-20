@@ -30,6 +30,55 @@ site, with the traps met on the way. Follow them in order for each new book.
   (`https://ncert.nic.in/ncertldd/collection/pdf/Textbooks.pdf`) in `docs/sources.md`, so
   the pre-2007 books are known even when no digital copy exists.
 
+- When the listing page does not name the books (it only carries the codes and chapter
+  counts), the quickest confirmation is the archive.org item `ncert-<code>`, whose title
+  names the book, or an archived prelims capture
+  (`cdx/search/cdx?url=ncert.nic.in/textbook/pdf/<code>ps.pdf`). For classes 6, 9 and 10:
+  fess1 Our Pasts I, fess2 The Earth Our Habitat, fess3 Social and Political Life I, iess1
+  Contemporary India, iess3 India and the Contemporary World I, iess4 Democratic Politics I,
+  jess3 India and the Contemporary World II, jess4 Democratic Politics II.
+
+## 1b. Find copies elsewhere
+
+Every copy is worth having: snapshots are grouped by their text, so a duplicate costs only
+disk and a different printing is a new edition. Look in this order, and record what each
+site turned out to hold in `docs/sources.md`.
+
+- **archive.org.** `https://archive.org/advancedsearch.php?q=identifier%3A(ncert-<code>*)&fl[]=identifier&fl[]=title&output=json`
+  finds the 2021 uploads named after the codes; `https://archive.org/metadata/<item>` lists
+  the files; `https://archive.org/download/<item>/<file>` fetches them. Whole-book zips turn
+  up under other names (`jess3dd`), so also search the code without the `ncert-` prefix.
+- **rungtaias.org/free-resources.** One page lists every file; grep it for `/<code>` to get
+  the folder and file names. Files for the classes added later carry no session footer.
+- **The Azim Premji University School Books Archive** for first editions and the pre-2005
+  books, as scans. `docs/sources.md` has the endpoints that work and the holdings.
+- **A web search** for the code's file names (`gess101.pdf`) and for "old NCERT" plus the
+  title. Most hits are sites that re-host the current printing behind a sign-up
+  (selfstudys.com) or sell kits (iasexamportal.com); note them and move on.
+
+Per-chapter captures in years without a zip are worth a query each, but many are stumps:
+the crawler cuts files at exactly 1 MiB or 5 MiB. Screen a capture by its length against
+the other captures of the same file, or by a byte-range request that returns the archive's
+total size. The index's `digest` field is the base32 SHA-1 of the file, so compare it with
+the SHA-1 of files already on disk before fetching: most gap-year captures turn out to be
+the printing already held.
+
+A copy's label says what is known about its date, no more: the session footer on the first
+page ("2020-21") when there is one, the site and "undated" when there is none. The editions
+step dates an undated copy from its prelims when they are included, so fetch the `<code>ps.pdf`
+with the chapters.
+
+## 1c. Download one stream per host
+
+Each site rate-limits on its own, so a stall on one must not hold the others. Run the
+Wayback Machine fetch (`uv run ncert-diff fetch <book>`, which paces itself) as one
+background job, and plain-URL copies from other hosts as separate background scripts that
+write straight into the paths the fetcher uses (`pdfs/<book>/<label>/chNN.pdf`,
+`prelims.pdf`), with a couple of seconds between files. The fetcher skips files that exist,
+so a later `fetch` pass records them in `manifest/<book>/files.json` without downloading
+again. Never run two fetchers on the same book at the same time: both write the same
+`.part` file.
+
 ## 2. Describe it in sources.yaml
 
 One entry per book with class, subject, title, code (or `parts` with a code each and
@@ -68,7 +117,8 @@ Things seen so far:
 - Fonts that map letters into the private-use range U+F0xx (2022 Social and Political Life
   III). Decoded automatically; if a new file shows `[unreadable]` or empty chapters, check
   the span text in PyMuPDF for `\uf0..` characters.
-- A zip the archive cut short (2023-02 Social and Political Life III). Run
+- A zip the archive cut short (2023-02 Social and Political Life III, 2022-10 Social and
+  Political Life I). Run
   `uv run python scripts/salvage_truncated_zip.py <zip>` to pull out the complete members,
   rename them to `chNN.pdf`, give the snapshot a `-partial` label in `sources.yaml`, and look
   for per-chapter captures of the same months to fill the gaps.

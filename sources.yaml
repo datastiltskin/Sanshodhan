@@ -37,6 +37,18 @@ books:
       # Same digest is served through 2025 and 2026 captures.
       - { label: "2024-05-24", wayback: "20240524024822", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess1dd.zip" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess101.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess102.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess103.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess104.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess105.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess106.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess107.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess108.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess109.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess110.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess1/gess1ps.pdf" }
       # No whole-book zip survives for the 2016-17 to 2018-19 printings (the 2019-03-12 zip
       # turned out to hold other books). These are the only per-chapter captures from those
       # years. "partial" snapshots form partial editions and are compared chapter by chapter.
@@ -60,6 +72,17 @@ books:
       - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess109.pdf" }
       - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess110.pdf" }
       - { label: "rungtaias-2015-16", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%207/Class%207%20History-Our%20Pasts%20II/gess1ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2024-05-24 zip (footer 2024-25).
+      - { label: "archive-org-oldncert-2024-25", url: "https://archive.org/download/OldNCERTBooks/Class%207/gess1dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2015-partial", wayback: "20151123110323", url: "http://ncert.nic.in/ncerts/l/gess104.pdf" }
+      - { label: "2015-partial", wayback: "20151106061051", url: "http://ncert.nic.in/ncerts/l/gess108.pdf" }
+      - { label: "2025-partial", wayback: "20250223114708", url: "https://ncert.nic.in/textbook/pdf/gess101.pdf" }
+      - { label: "2025-partial", wayback: "20250720120926", url: "https://ncert.nic.in/textbook/pdf/gess104.pdf" }
+      - { label: "2026-partial", wayback: "20260213152326", url: "https://ncert.nic.in/textbook/pdf/gess102.pdf" }
 
   our-pasts-3:
     class: 8
@@ -89,6 +112,41 @@ books:
       - { label: "2023-12-23", wayback: "20231223073402", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
       - { label: "2024-08-04", wayback: "20240804102308", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess2dd.zip" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess201.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess202.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess203.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess204.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess205.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess206.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess207.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess208.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess209.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess210.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-hess2/hess2ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2019-03-12 part 1 zip (footer 2018-19) and to the 2024-08-04 zip (footer 2024-25).
+      - { label: "archive-org-oldncert-2018-19", part: 1, url: "https://archive.org/download/OldNCERTBooks/Class%208/hess1dd.zip" }
+      - { label: "archive-org-oldncert-2024-25", url: "https://archive.org/download/OldNCERTBooks/Class%208/hess2dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2015-partial", part: 2, wayback: "20150807044117", url: "http://ncert.nic.in/ncerts/l/hess205.pdf" }
+      - { label: "2017-partial", part: 1, wayback: "20170712222119", url: "http://ncert.nic.in/ncerts/l/hess101.pdf" }
+      - { label: "2017-partial", part: 1, wayback: "20170712161058", url: "http://ncert.nic.in/ncerts/l/hess102.pdf" }
+      - { label: "2017-partial", part: 1, wayback: "20170809051839", url: "http://ncert.nic.in/ncerts/l/hess105.pdf" }
+      - { label: "2017-partial", part: 1, wayback: "20171117204834", url: "http://ncert.nic.in/ncerts/l/hess106.pdf" }
+      - { label: "2017-partial", part: 2, wayback: "20171031082002", url: "http://ncert.nic.in/ncerts/l/hess201.pdf" }
+      - { label: "2017-partial", part: 2, wayback: "20170712233724", url: "http://ncert.nic.in/ncerts/l/hess203.pdf" }
+      - { label: "2017-partial", part: 2, wayback: "20170329023627", url: "http://ncert.nic.in/ncerts/l/hess2ps.pdf" }
+      - { label: "2018-partial", part: 2, wayback: "20181223042240", url: "https://ncert.nic.in/textbook/pdf/hess201.pdf" }
+      - { label: "2018-ncerts-partial", part: 1, wayback: "20180827023055", url: "http://ncert.nic.in/ncerts/l/hess103.pdf" }
+      - { label: "2018-ncerts-partial", part: 1, wayback: "20180329091037", url: "http://ncert.nic.in/ncerts/l/hess1ps.pdf" }
+      - { label: "2018-ncerts-partial", part: 2, wayback: "20180329084947", url: "http://ncert.nic.in/ncerts/l/hess202.pdf" }
+      - { label: "2018-ncerts-partial", part: 2, wayback: "20180127184243", url: "http://ncert.nic.in/ncerts/l/hess204.pdf" }
+      - { label: "2018-ncerts-partial", part: 2, wayback: "20180219023758", url: "http://ncert.nic.in/ncerts/l/hess206.pdf" }
+      - { label: "2025-partial", wayback: "20250613111113", url: "https://ncert.nic.in/textbook/pdf/hess207.pdf" }
+      - { label: "2026-partial", wayback: "20260412004439", url: "https://ncert.nic.in/textbook/pdf/hess2ps.pdf" }
 
   social-political-life-3:
     class: 8
@@ -132,6 +190,23 @@ books:
       # Same digest is served through 2025 and 2026 captures.
       - { label: "2024-05-24", wayback: "20240524024219", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/hess3dd.zip" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2024-05-24 zip (footer 2024-25).
+      - { label: "archive-org-oldncert-2024-25", url: "https://archive.org/download/OldNCERTBooks/Class%208/hess3dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2015-partial", wayback: "20151010054502", url: "http://ncert.nic.in/ncerts/l/hess308.pdf" }
+      - { label: "2017-partial", wayback: "20170712185410", url: "http://ncert.nic.in/ncerts/l/hess302.pdf" }
+      - { label: "2017-partial", wayback: "20170713033500", url: "http://ncert.nic.in/ncerts/l/hess303.pdf" }
+      - { label: "2017-partial", wayback: "20171118151442", url: "http://ncert.nic.in/ncerts/l/hess305.pdf" }
+      - { label: "2017-partial", wayback: "20170809051840", url: "http://ncert.nic.in/ncerts/l/hess306.pdf" }
+      - { label: "2017-partial", wayback: "20171118155557", url: "http://ncert.nic.in/ncerts/l/hess307.pdf" }
+      - { label: "2017-partial", wayback: "20170712185417", url: "http://ncert.nic.in/ncerts/l/hess310.pdf" }
+      - { label: "2017-partial", wayback: "20170809015026", url: "http://ncert.nic.in/ncerts/l/hess3ps.pdf" }
+      - { label: "2018-partial", wayback: "20180712231428", url: "http://ncert.nic.in/ncerts/l/hess301.pdf" }
+      - { label: "2018-partial", wayback: "20180219024407", url: "http://ncert.nic.in/ncerts/l/hess304.pdf" }
+      - { label: "2018-partial", wayback: "20180712233520", url: "http://ncert.nic.in/ncerts/l/hess309.pdf" }
 
   social-political-life-2:
     class: 7
@@ -168,6 +243,44 @@ books:
       # Same digest is served through 2025 and 2026 captures.
       - { label: "2024-05-24", wayback: "20240524024834", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
       - { label: "live", url: "https://ncert.nic.in/textbook/pdf/gess3dd.zip" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess301.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess302.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess303.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess304.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess305.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess306.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess307.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess308.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess309.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-gess3/gess3ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2024-05-24 zip (footer 2024-25).
+      - { label: "archive-org-oldncert-2024-25", url: "https://archive.org/download/OldNCERTBooks/Class%207/gess3dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2017-partial", wayback: "20170809001639", url: "http://ncert.nic.in/ncerts/l/gess301.pdf" }
+      - { label: "2017-partial", wayback: "20170918065830", url: "http://ncert.nic.in/ncerts/l/gess305.pdf" }
+      - { label: "2017-partial", wayback: "20170329111806", url: "http://ncert.nic.in/ncerts/l/gess306.pdf" }
+      - { label: "2018-partial", wayback: "20181222103724", url: "http://ncert.nic.in/ncerts/l/gess302.pdf" }
+      - { label: "2018-partial", wayback: "20180827054427", url: "http://ncert.nic.in/ncerts/l/gess303.pdf" }
+      - { label: "2018-partial", wayback: "20180516195228", url: "http://ncert.nic.in/ncerts/l/gess304.pdf" }
+      - { label: "2018-partial", wayback: "20181222213817", url: "http://ncert.nic.in/ncerts/l/gess307.pdf" }
+      - { label: "2018-partial", wayback: "20181222221707", url: "http://ncert.nic.in/ncerts/l/gess308.pdf" }
+      - { label: "2018-partial", wayback: "20180219035209", url: "http://ncert.nic.in/ncerts/l/gess310.pdf" }
+      - { label: "2021-partial", wayback: "20211018060715", url: "https://ncert.nic.in/textbook/pdf/gess301.pdf" }
+      - { label: "2021-partial", wayback: "20211018060756", url: "https://ncert.nic.in/textbook/pdf/gess302.pdf" }
+      - { label: "2021-partial", wayback: "20211018060727", url: "https://ncert.nic.in/textbook/pdf/gess303.pdf" }
+      - { label: "2021-partial", wayback: "20211018061327", url: "https://ncert.nic.in/textbook/pdf/gess304.pdf" }
+      - { label: "2021-partial", wayback: "20211018060740", url: "https://ncert.nic.in/textbook/pdf/gess305.pdf" }
+      - { label: "2021-partial", wayback: "20211018060736", url: "https://ncert.nic.in/textbook/pdf/gess306.pdf" }
+      - { label: "2021-partial", wayback: "20211018064157", url: "https://ncert.nic.in/textbook/pdf/gess307.pdf" }
+      - { label: "2021-partial", wayback: "20211018060858", url: "https://ncert.nic.in/textbook/pdf/gess308.pdf" }
+      - { label: "2021-partial", wayback: "20211018060755", url: "https://ncert.nic.in/textbook/pdf/gess309.pdf" }
+      - { label: "2025-partial", wayback: "20250114203610", url: "https://ncert.nic.in/textbook/pdf/gess301.pdf" }
+      - { label: "2025-partial", wayback: "20250806050058", url: "https://ncert.nic.in/textbook/pdf/gess3ps.pdf" }
+      - { label: "2026-partial", wayback: "20260710081113", url: "https://ncert.nic.in/textbook/pdf/gess302.pdf" }
 
   exploring-society-7:
     class: 7
@@ -183,3 +296,414 @@ books:
     snapshots:
       - { label: "live", part: 1, url: "https://ncert.nic.in/textbook/pdf/gees1dd.zip" }
       - { label: "live", part: 2, url: "https://ncert.nic.in/textbook/pdf/gees2dd.zip" }
+
+  # Class 6, 9 and 10 history and civics, added 2026-10-20. Snapshots are one per distinct
+  # whole-book zip in the Wayback index (first capture of each digest). The live site no
+  # longer serves the Class 6 books (replaced by Exploring Society), so their "live" entry
+  # may fail; the fetcher reports it. The 2006 to 2008 first editions exist only as scans in
+  # the Azim Premji University School Books Archive (see docs/sources.md) and are not
+  # listed here yet.
+  our-pasts-1:
+    class: 6
+    subject: history
+    language: en
+    title: "Our Pasts I"
+    code: fess1
+    covers:
+      - { label: "2014-12-27", wayback: "20141227142328", url: "http://ncert.nic.in/ncerts/l/fess1cc.jpg" }
+      - { label: "2021-08-31", wayback: "20210831132705", url: "https://ncert.nic.in/textbook/pdf/fess1cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/fess1cc.jpg" }
+    snapshots:
+      - { label: "2014-06-28", wayback: "20140628094416", url: "http://ncert.nic.in/ncerts/l/fess1dd.zip" }
+      - { label: "2015-04-02", wayback: "20150402014437", url: "http://ncert.nic.in/ncerts/l/fess1dd.zip" }
+      - { label: "2019-03-12", wayback: "20190312174631", url: "https://ncert.nic.in/textbook/pdf/fess1dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504055640", url: "https://ncert.nic.in/textbook/pdf/fess1dd.zip" }
+      - { label: "2020-06-16", wayback: "20200616235132", url: "https://ncert.nic.in/textbook/pdf/fess1dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223073812", url: "https://ncert.nic.in/textbook/pdf/fess1dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/fess1dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess101.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess102.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess103.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess104.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess105.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess106.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess107.pdf" }
+      # fess108.pdf on rungtaias.org is cut short after its first, complete revision (the mirror's own
+      # copy ends inside an appended cross-reference table). The fetcher keeps such a file.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess108.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess109.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess110.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess111.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess112.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess1ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      # chapter 1 of this upload carries NCERT's own slip of a name, "fees101.pdf"
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fees101.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess102.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess103.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess104.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess105.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess106.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess107.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess108.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess109.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess1010.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess1011.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess1/fess1ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2023-12-23 zip (footer 2023-24).
+      - { label: "archive-org-oldncert-2023-24", url: "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2016-partial", wayback: "20160705012634", url: "http://ncert.nic.in/ncerts/l/fess101.pdf" }
+      - { label: "2016-partial", wayback: "20160909024318", url: "http://ncert.nic.in/ncerts/l/fess105.pdf" }
+      - { label: "2016-partial", wayback: "20160109071139", url: "http://ncert.nic.in/ncerts/l/fess109.pdf" }
+      - { label: "2016-partial", wayback: "20160222040931", url: "http://ncert.nic.in/ncerts/l/fess110.pdf" }
+      - { label: "2016-partial", wayback: "20160804043123", url: "http://ncert.nic.in/ncerts/l/fess1ps.pdf" }
+      - { label: "2017-partial", wayback: "20170918175005", url: "http://ncert.nic.in/ncerts/l/fess104.pdf" }
+      - { label: "2017-partial", wayback: "20170829074933", url: "http://ncert.nic.in/ncerts/l/fess107.pdf" }
+      - { label: "2017-partial", wayback: "20171118091340", url: "http://ncert.nic.in/ncerts/l/fess111.pdf" }
+      - { label: "2017-partial", wayback: "20170922000950", url: "http://ncert.nic.in/ncerts/l/fess112.pdf" }
+      - { label: "2018-partial", wayback: "20180827054743", url: "https://ncert.nic.in/textbook/pdf/fess102.pdf" }
+      - { label: "2018-partial", wayback: "20181223042234", url: "https://ncert.nic.in/textbook/pdf/fess103.pdf" }
+      - { label: "2018-partial", wayback: "20181222221547", url: "https://ncert.nic.in/textbook/pdf/fess106.pdf" }
+      - { label: "2021-partial", wayback: "20210820045914", url: "https://ncert.nic.in/textbook/pdf/fess101.pdf" }
+      - { label: "2021-partial", wayback: "20211018060720", url: "https://ncert.nic.in/textbook/pdf/fess102.pdf" }
+      - { label: "2021-partial", wayback: "20210419155621", url: "https://ncert.nic.in/textbook/pdf/fess103.pdf" }
+      - { label: "2021-partial", wayback: "20211018060829", url: "https://ncert.nic.in/textbook/pdf/fess104.pdf" }
+      - { label: "2021-partial", wayback: "20210821211827", url: "https://ncert.nic.in/textbook/pdf/fess105.pdf" }
+      - { label: "2021-partial", wayback: "20211018061132", url: "https://ncert.nic.in/textbook/pdf/fess106.pdf" }
+      - { label: "2021-partial", wayback: "20210809203232", url: "https://ncert.nic.in/textbook/pdf/fess107.pdf" }
+      - { label: "2021-partial", wayback: "20211018061542", url: "https://ncert.nic.in/textbook/pdf/fess108.pdf" }
+      - { label: "2021-partial", wayback: "20211018060725", url: "https://ncert.nic.in/textbook/pdf/fess109.pdf" }
+      - { label: "2021-partial", wayback: "20211018060900", url: "https://ncert.nic.in/textbook/pdf/fess110.pdf" }
+      - { label: "2021-partial", wayback: "20211018060838", url: "https://ncert.nic.in/textbook/pdf/fess111.pdf" }
+      - { label: "2021-partial", wayback: "20211124062729", url: "https://ncert.nic.in/textbook/pdf/fess1ps.pdf" }
+      - { label: "2022-partial", wayback: "20220521220605", url: "https://ncert.nic.in/textbook/pdf/fess101.pdf" }
+      - { label: "2024-partial", wayback: "20240416135826", url: "https://ncert.nic.in/textbook/pdf/fess105.pdf" }
+      - { label: "2024-partial", wayback: "20240418171826", url: "https://ncert.nic.in/textbook/pdf/fess109.pdf" }
+
+  social-political-life-1:
+    class: 6
+    subject: civics
+    language: en
+    title: "Social and Political Life I"
+    code: fess3
+    covers:
+      - { label: "2014-12-27", wayback: "20141227144736", url: "http://ncert.nic.in/ncerts/l/fess3cc.jpg" }
+      - { label: "2021-08-31", wayback: "20210831132753", url: "https://ncert.nic.in/textbook/pdf/fess3cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/fess3cc.jpg" }
+    snapshots:
+      - { label: "2014-06-28", wayback: "20140628065728", url: "http://ncert.nic.in/ncerts/l/fess3dd.zip" }
+      - { label: "2015-04-01", wayback: "20150401193154", url: "http://ncert.nic.in/ncerts/l/fess3dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504054842", url: "https://ncert.nic.in/textbook/pdf/fess3dd.zip" }
+      - { label: "2020-06-16", wayback: "20200616082100", url: "https://ncert.nic.in/textbook/pdf/fess3dd.zip" }
+      # The archive cut this zip short inside chapter 7; chapters 1 to 6 were salvaged with
+      # scripts/salvage_truncated_zip.py, so it is a partial snapshot.
+      - { label: "2022-10-13-partial", wayback: "20221013013108", url: "https://ncert.nic.in/textbook/pdf/fess3dd.zip" }
+      # Per-chapter captures from the same session fill in chapter 9 and the prelims. The only capture
+      # of chapter 7 from these months (2022-10-06) is a 1 MiB stump, and the archive's copy of the
+      # one chapter 8 capture (2023-02-23) breaks off before its end, so chapters 7 and 8 stay missing.
+      - { label: "2022-10-13-partial", wayback: "20230221165310", url: "https://ncert.nic.in/textbook/pdf/fess309.pdf" }
+      - { label: "2022-10-13-partial", wayback: "20221208053523", url: "https://ncert.nic.in/textbook/pdf/fess3ps.pdf" }
+      - { label: "2023-12-23", wayback: "20231223073750", url: "https://ncert.nic.in/textbook/pdf/fess3dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/fess3dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess301.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess302.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess303.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess304.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess305.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess306.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess307.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess308.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess309.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess3ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess301.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess302.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess303.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess304.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess305.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess306.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess307.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess308.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess309.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess3ps.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-fess3/fess3rf.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2023-12-23 zip (footer 2023-24).
+      - { label: "archive-org-oldncert-2023-24", url: "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2016-partial", wayback: "20161213072701", url: "http://ncert.nic.in/ncerts/l/fess305.pdf" }
+      - { label: "2017-partial", wayback: "20170809023947", url: "http://ncert.nic.in/ncerts/l/fess301.pdf" }
+      - { label: "2017-partial", wayback: "20170809051338", url: "http://ncert.nic.in/ncerts/l/fess302.pdf" }
+      - { label: "2017-partial", wayback: "20170918171259", url: "http://ncert.nic.in/ncerts/l/fess303.pdf" }
+      - { label: "2017-partial", wayback: "20170918193217", url: "http://ncert.nic.in/ncerts/l/fess304.pdf" }
+      - { label: "2018-partial", wayback: "20181223065131", url: "http://ncert.nic.in/ncerts/l/fess306.pdf" }
+      - { label: "2021-partial", wayback: "20211018060746", url: "https://ncert.nic.in/textbook/pdf/fess301.pdf" }
+      - { label: "2021-partial", wayback: "20211018060711", url: "https://ncert.nic.in/textbook/pdf/fess303.pdf" }
+      - { label: "2021-partial", wayback: "20211018060757", url: "https://ncert.nic.in/textbook/pdf/fess304.pdf" }
+      - { label: "2021-partial", wayback: "20211018060714", url: "https://ncert.nic.in/textbook/pdf/fess305.pdf" }
+      - { label: "2021-partial", wayback: "20211018060733", url: "https://ncert.nic.in/textbook/pdf/fess306.pdf" }
+      - { label: "2021-partial", wayback: "20211018060930", url: "https://ncert.nic.in/textbook/pdf/fess307.pdf" }
+      - { label: "2021-partial", wayback: "20211018060859", url: "https://ncert.nic.in/textbook/pdf/fess308.pdf" }
+      - { label: "2021-partial", wayback: "20211018060735", url: "https://ncert.nic.in/textbook/pdf/fess309.pdf" }
+      - { label: "2024-partial", wayback: "20240511024227", url: "https://ncert.nic.in/textbook/pdf/fess302.pdf" }
+      - { label: "2024-partial", wayback: "20240511014549", url: "https://ncert.nic.in/textbook/pdf/fess303.pdf" }
+      - { label: "2024-partial", wayback: "20240511014601", url: "https://ncert.nic.in/textbook/pdf/fess306.pdf" }
+      - { label: "2024-partial", wayback: "20240216122900", url: "https://ncert.nic.in/textbook/pdf/fess3ps.pdf" }
+
+  india-contemporary-world-1:
+    class: 9
+    subject: history
+    language: en
+    title: "India and the Contemporary World I"
+    code: iess3
+    covers:
+      - { label: "2012-01-01", wayback: "20120101155621", url: "http://ncert.nic.in/ncerts/l/iess3cc.jpg" }
+      - { label: "2022-03-05", wayback: "20220305171016", url: "https://ncert.nic.in/textbook/pdf/iess3cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/iess3cc.jpg" }
+    snapshots:
+      - { label: "2014-07-28", wayback: "20140728050513", url: "http://ncert.nic.in/ncerts/l/iess3dd.zip" }
+      - { label: "2016-09-10", wayback: "20160910184827", url: "http://ncert.nic.in/ncerts/l/iess3dd.zip" }
+      - { label: "2019-03-12", wayback: "20190312152844", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      - { label: "2021-08-15", wayback: "20210815191839", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      - { label: "2022-08-02", wayback: "20220802180638", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223073658", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      - { label: "2024-08-04", wayback: "20240804102321", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      - { label: "2025-04-27", wayback: "20250427024529", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      # The zip above packs the geography book's prelims, so the book's own prelims come from a
+      # capture of the separate file six days earlier.
+      - { label: "2025-04-27", wayback: "20250421130452", url: "https://ncert.nic.in/textbook/pdf/iess3ps.pdf" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/iess3dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess301.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess302.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess303.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess304.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess305.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess306.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess307.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess308.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20History%20-%20India%20and%20the%20Contempoarary%20World-I/iess3ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess301.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess302.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess303.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess304.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess305.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess3/iess3ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2025-04-27 zip (footer 2025-26), including the stray geography prelims iess1ps.pdf.
+      - { label: "archive-org-oldncert-2025-26", url: "https://archive.org/download/OldNCERTBooks/Class%209/iess3dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2017-partial", wayback: "20170712185753", url: "http://ncert.nic.in/ncerts/l/iess302.pdf" }
+      - { label: "2017-partial", wayback: "20170517013937", url: "http://ncert.nic.in/ncerts/l/iess303.pdf" }
+      - { label: "2017-partial", wayback: "20171013145627", url: "http://ncert.nic.in/ncerts/l/iess305.pdf" }
+      - { label: "2017-partial", wayback: "20170516190350", url: "http://ncert.nic.in/ncerts/l/iess3ps.pdf" }
+      - { label: "2018-partial", wayback: "20180516214453", url: "https://ncert.nic.in/textbook/pdf/iess301.pdf" }
+      - { label: "2018-partial", wayback: "20180712231526", url: "https://ncert.nic.in/textbook/pdf/iess302.pdf" }
+      - { label: "2018-partial", wayback: "20180516201131", url: "https://ncert.nic.in/textbook/pdf/iess303.pdf" }
+      - { label: "2018-partial", wayback: "20180516200440", url: "https://ncert.nic.in/textbook/pdf/iess306.pdf" }
+      - { label: "2018-ncerts-partial", wayback: "20181222103304", url: "http://ncert.nic.in/ncerts/l/iess304.pdf" }
+      - { label: "2018-ncerts-partial", wayback: "20180712231955", url: "http://ncert.nic.in/ncerts/l/iess308.pdf" }
+      - { label: "2020-partial", wayback: "20200110111551", url: "https://ncert.nic.in/textbook/pdf/iess303.pdf" }
+
+  india-contemporary-world-2:
+    class: 10
+    subject: history
+    language: en
+    title: "India and the Contemporary World II"
+    code: jess3
+    covers:
+      - { label: "2015-12-20", wayback: "20151220202815", url: "http://ncert.nic.in/ncerts/l/jess3cc.jpg" }
+      - { label: "2022-08-09", wayback: "20220809155421", url: "https://ncert.nic.in/textbook/pdf/jess3cc.jpg" }
+      - { label: "2026-08-16", wayback: "20260816135443", url: "https://ncert.nic.in/textbook/pdf/jess3cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/jess3cc.jpg" }
+    snapshots:
+      # The 2011 capture is the earliest whole-book zip of any book in the project.
+      - { label: "2011-10-17", wayback: "20111017032327", url: "http://ncert.nic.in/ncerts/l/jess3dd.zip" }
+      - { label: "2014-09-07", wayback: "20140907124444", url: "http://ncert.nic.in/ncerts/l/jess3dd.zip" }
+      - { label: "2019-03-12", wayback: "20190312174053", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504054805", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2020-05-17", wayback: "20200517154230", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2022-08-24", wayback: "20220824131503", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223073634", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2025-02-12", wayback: "20250212190631", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2025-04-22", wayback: "20250422205455", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "2026-05-08", wayback: "20260508225525", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/jess3dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess301.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess302.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess303.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess304.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess305.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess306.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess307.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess308.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess3ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess301.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess302.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess303.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess304.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess305.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess3/jess3ps.pdf" }
+      # archive.org item "jess3dd" (uploaded March 2021): the whole-book zip of the August 2019 reprint.
+      - { label: "archive-org-2019-reprint", url: "https://archive.org/download/jess3dd/jess3dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2013-partial", wayback: "20130612080841", url: "http://ncert.nic.in/ncerts/l/jess305.pdf" }
+      - { label: "2013-partial", wayback: "20130717211914", url: "http://ncert.nic.in/ncerts/l/jess306.pdf" }
+      - { label: "2013-partial", wayback: "20131019055228", url: "http://ncert.nic.in/ncerts/l/jess308.pdf" }
+      - { label: "2015-partial", wayback: "20150225231204", url: "http://ncert.nic.in/ncerts/l/jess303.pdf" }
+      - { label: "2016-partial", wayback: "20160327150557", url: "http://ncert.nic.in/ncerts/l/jess301.pdf" }
+      - { label: "2016-partial", wayback: "20161213040725", url: "http://ncert.nic.in/ncerts/l/jess302.pdf" }
+      - { label: "2016-partial", wayback: "20160705033846", url: "http://ncert.nic.in/ncerts/l/jess304.pdf" }
+      - { label: "2016-partial", wayback: "20160909212649", url: "http://ncert.nic.in/ncerts/l/jess307.pdf" }
+      - { label: "2016-partial", wayback: "20161019210213", url: "http://ncert.nic.in/ncerts/l/jess308.pdf" }
+      - { label: "2016-partial", wayback: "20160615225107", url: "http://ncert.nic.in/ncerts/l/jess3ps.pdf" }
+      - { label: "2018-partial", wayback: "20180712233005", url: "https://ncert.nic.in/textbook/pdf/jess301.pdf" }
+      - { label: "2018-partial", wayback: "20180921044138", url: "https://ncert.nic.in/textbook/pdf/jess306.pdf" }
+      - { label: "2018-partial", wayback: "20181223001829", url: "https://ncert.nic.in/textbook/pdf/jess308.pdf" }
+      - { label: "2021-partial", wayback: "20211018060915", url: "https://ncert.nic.in/textbook/pdf/jess301.pdf" }
+      - { label: "2021-partial", wayback: "20210815060515", url: "https://ncert.nic.in/textbook/pdf/jess302.pdf" }
+      - { label: "2021-partial", wayback: "20211018060720", url: "https://ncert.nic.in/textbook/pdf/jess303.pdf" }
+      - { label: "2021-partial", wayback: "20211018060826", url: "https://ncert.nic.in/textbook/pdf/jess304.pdf" }
+      - { label: "2021-partial", wayback: "20211018060808", url: "https://ncert.nic.in/textbook/pdf/jess305.pdf" }
+      - { label: "2024-partial", wayback: "20240726102737", url: "https://ncert.nic.in/textbook/pdf/jess302.pdf" }
+      - { label: "2024-partial", wayback: "20240608104115", url: "https://ncert.nic.in/textbook/pdf/jess304.pdf" }
+      - { label: "2024-partial", wayback: "20240110072800", url: "https://ncert.nic.in/textbook/pdf/jess305.pdf" }
+      - { label: "2024-partial", wayback: "20240110155555", url: "https://ncert.nic.in/textbook/pdf/jess3ps.pdf" }
+
+  democratic-politics-1:
+    class: 9
+    subject: civics
+    language: en
+    title: "Democratic Politics I"
+    code: iess4
+    covers:
+      - { label: "2011-12-05", wayback: "20111205044839", url: "http://ncert.nic.in/ncerts/l/iess4cc.jpg" }
+      - { label: "2020-08-05", wayback: "20200805181434", url: "https://ncert.nic.in/textbook/pdf/iess4cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/iess4cc.jpg" }
+    snapshots:
+      - { label: "2014-07-28", wayback: "20140728064808", url: "http://ncert.nic.in/ncerts/l/iess4dd.zip" }
+      - { label: "2016-09-11", wayback: "20160911004318", url: "http://ncert.nic.in/ncerts/l/iess4dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504055514", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2020-06-16", wayback: "20200616220107", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2021-08-14", wayback: "20210814004017", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2022-09-09", wayback: "20220909215049", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223074111", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2024-05-24", wayback: "20240524024811", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "2025-04-27", wayback: "20250427024533", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/iess4dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess401.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess402.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess403.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess404.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess405.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess406.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%209/Class%209%20-%20Politcal%20Science%20-%20Democratic%20Politics/iess4ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess401.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess402.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess403.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess404.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess405.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-iess4/iess4ps.pdf" }
+      # archive.org item OldNCERTBooks (uploaded February 2026): whole-book zip, every file byte-identical
+      # to the 2025-04-27 zip (footer 2025-26).
+      - { label: "archive-org-oldncert-2025-26", url: "https://archive.org/download/OldNCERTBooks/Class%209/iess4dd.zip" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2012-partial", wayback: "20120515155131", url: "http://ncert.nic.in/ncerts/l/iess401.pdf" }
+      - { label: "2017-partial", wayback: "20170712234253", url: "http://ncert.nic.in/ncerts/l/iess401.pdf" }
+      - { label: "2017-partial", wayback: "20170221233302", url: "http://ncert.nic.in/ncerts/l/iess402.pdf" }
+      - { label: "2017-partial", wayback: "20170712225234", url: "http://ncert.nic.in/ncerts/l/iess403.pdf" }
+      - { label: "2017-partial", wayback: "20171013020955", url: "http://ncert.nic.in/ncerts/l/iess405.pdf" }
+      - { label: "2017-partial", wayback: "20171118160737", url: "http://ncert.nic.in/ncerts/l/iess406.pdf" }
+      - { label: "2017-partial", wayback: "20170329101834", url: "http://ncert.nic.in/ncerts/l/iess4ps.pdf" }
+
+  democratic-politics-2:
+    class: 10
+    subject: civics
+    language: en
+    title: "Democratic Politics II"
+    code: jess4
+    covers:
+      - { label: "2015-08-26", wayback: "20150826051953", url: "http://ncert.nic.in/ncerts/l/jess4cc.jpg" }
+      - { label: "2022-09-18", wayback: "20220918220504", url: "https://ncert.nic.in/textbook/pdf/jess4cc.jpg" }
+      - { label: "2026-07-11", wayback: "20260711142252", url: "https://ncert.nic.in/textbook/pdf/jess4cc.jpg" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/jess4cc.jpg" }
+    snapshots:
+      - { label: "2011-10-17", wayback: "20111017024647", url: "http://ncert.nic.in/ncerts/l/jess4dd.zip" }
+      - { label: "2013-02-19", wayback: "20130219080031", url: "http://ncert.nic.in/ncerts/l/jess4dd.zip" }
+      - { label: "2014-09-07", wayback: "20140907121804", url: "http://ncert.nic.in/ncerts/l/jess4dd.zip" }
+      - { label: "2015-04-01", wayback: "20150401130924", url: "http://ncert.nic.in/ncerts/l/jess4dd.zip" }
+      - { label: "2019-05-04", wayback: "20190504055401", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2020-05-17", wayback: "20200517045511", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2022-08-03", wayback: "20220803135039", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      # The archive cut this zip short inside chapter 4; chapters 1 to 3 were salvaged with
+      # scripts/salvage_truncated_zip.py, so it is a partial snapshot.
+      - { label: "2023-02-28-partial", wayback: "20230228030318", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2023-12-23", wayback: "20231223074046", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2024-05-24", wayback: "20240524022950", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2025-04-26", wayback: "20250426120052", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "2026-05-08", wayback: "20260508225526", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      - { label: "live", url: "https://ncert.nic.in/textbook/pdf/jess4dd.zip" }
+      # rungtaias.org mirror: these chapter files carry no session footer (creation dates 2006 to
+      # 2014 in the PDF metadata), so the prelims must date them. See docs/sources.md.
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess401.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess402.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess403.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess404.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess405.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess406.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess407.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess408.pdf" }
+      - { label: "rungtaias-undated", url: "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess4ps.pdf" }
+      # archive.org uploads of June 2021 (items ncert-<code>): every file's footer reads 2020-21.
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess401.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess402.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess403.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess404.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess405.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess406.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess407.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess408.pdf" }
+      - { label: "archive-org-2020-21", url: "https://archive.org/download/ncert-jess4/jess4ps.pdf" }
+      # Per-chapter captures from years with no whole-book zip, one "<year>-partial" label per year
+      # (2018-ncerts-partial: the old ncerts/l path in the year both paths were live). A file whose only
+      # capture in a year repeats one already listed, or is a 1 MiB stump, is left out.
+      - { label: "2016-partial", wayback: "20160705133632", url: "http://ncert.nic.in/ncerts/l/jess401.pdf" }
+      - { label: "2016-partial", wayback: "20160327150618", url: "http://ncert.nic.in/ncerts/l/jess405.pdf" }
+      - { label: "2016-partial", wayback: "20161213030210", url: "http://ncert.nic.in/ncerts/l/jess406.pdf" }
+      - { label: "2016-partial", wayback: "20161213040729", url: "http://ncert.nic.in/ncerts/l/jess408.pdf" }
+      - { label: "2016-partial", wayback: "20160527233756", url: "http://ncert.nic.in/ncerts/l/jess4ps.pdf" }
+      - { label: "2017-partial", wayback: "20170329101122", url: "http://ncert.nic.in/ncerts/l/jess402.pdf" }
+      - { label: "2017-partial", wayback: "20170516194512", url: "http://ncert.nic.in/ncerts/l/jess404.pdf" }
+      - { label: "2018-partial", wayback: "20180219122323", url: "http://ncert.nic.in/ncerts/l/jess403.pdf" }
+      - { label: "2018-partial", wayback: "20180219024307", url: "http://ncert.nic.in/ncerts/l/jess407.pdf" }
+      - { label: "2021-partial", wayback: "20211018061101", url: "https://ncert.nic.in/textbook/pdf/jess401.pdf" }
+      - { label: "2021-partial", wayback: "20210505103225", url: "https://ncert.nic.in/textbook/pdf/jess402.pdf" }
+      - { label: "2021-partial", wayback: "20211018061746", url: "https://ncert.nic.in/textbook/pdf/jess404.pdf" }
+      - { label: "2021-partial", wayback: "20211018060727", url: "https://ncert.nic.in/textbook/pdf/jess405.pdf" }
+      - { label: "2021-partial", wayback: "20210508170214", url: "https://ncert.nic.in/textbook/pdf/jess406.pdf" }
+      - { label: "2021-partial", wayback: "20211018061246", url: "https://ncert.nic.in/textbook/pdf/jess407.pdf" }
+      - { label: "2021-partial", wayback: "20211018060928", url: "https://ncert.nic.in/textbook/pdf/jess408.pdf" }
