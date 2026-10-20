@@ -252,3 +252,22 @@ def test_keywords_list_parses_into_the_glossary_stream():
     md = "# T\n\nBody.\n\n### Keywords\n\n- iqta\n\n- garrison\n"
     _, units = parse_chapter(md)
     assert [(u.stream, u.text) for u in units][-2:] == [("glossary", "iqta"), ("glossary", "garrison")]
+
+
+def test_lettered_statements_after_the_glossary_heading_are_exercises():
+    from ncert_diff.textparse import annotate_sections, parse_chapter
+    md = "\n\n".join([
+        "---\nbook: x\n---",
+        "EXERCISES",
+        "> [note] 1. Are the statements given alongside true or false.",
+        "Glossary",
+        "> [note] a. All societies do not think similarly about the roles that boys and girls play.",
+        "> [note] d. The work that women do is less valued than that of men.",
+        "> [note] Identity: Identity is a sense of self-awareness of who one is.",
+    ]) + "\n"
+    annotated = annotate_sections(md)
+    assert annotated.count("<!-- section: exercises -->") == 2 and annotated.count("<!-- section: glossary -->") == 2
+    _, units = parse_chapter(annotated)
+    by_text = {u.text[:12]: u.section for u in units}
+    assert by_text["All societie"] == "exercises" and by_text["The work tha"] == "exercises"
+    assert by_text["Identity: Id"] == "glossary"

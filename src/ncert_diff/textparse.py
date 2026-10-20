@@ -26,6 +26,10 @@ SECTIONS = tuple(name for _, name in SECTION_STARTS)
 # A marker with this name closes the current section. The diff engine writes it between two
 # chapters it compares as one, so the first chapter's exercises do not run on into the second.
 NO_SECTION = "none"
+# The civics books set a question's lettered statements in a side box beside the glossary box,
+# and the reading order (column first, then the side) puts them after the "Glossary" heading.
+EXERCISE_ITEM = re.compile(r"^(\(?[a-h]\)|[a-h]\.|\d{1,2}\.)\s+\S")
+GLOSSARY_ENTRY = re.compile(r"^[A-Z][A-Za-z’' -]{1,40}:\s+\S")
 
 
 def section_start(line: str) -> str | None:
@@ -48,16 +52,29 @@ def annotate_sections(markdown: str) -> str:
     Idempotent: lines that already have their marker are left alone."""
     out: list[str] = []
     current: str | None = None
+    seen: set[str] = set()
     for line in markdown.splitlines():
         m = SECTION_MARKER.match(line)
         if m:
             current = m.group(1)
         name = section_start(line)
+        if not name and current in ("glossary", "exercises") and {"glossary", "exercises"} <= seen | {current}:
+            # A lettered statement after the glossary heading belongs to the exercises beside
+            # it, and a "Term: meaning" line after that belongs to the glossary again.
+            text = line.strip()
+            m2 = ASIDE.match(text)
+            if m2:
+                text = m2.group(2).strip()
+            if current == "glossary" and EXERCISE_ITEM.match(text) and not GLOSSARY_ENTRY.match(text) and "exercises" in seen:
+                name = "exercises"
+            elif current == "exercises" and GLOSSARY_ENTRY.match(text) and "glossary" in seen:
+                name = "glossary"
         if name and name != current:
             # "Let's recall", "Let's discuss" and "Let's do" all open the exercises: one marker.
             out.append(f"<!-- section: {name} -->")
             out.append("")
             current = name
+            seen.add(name)
         elif current == "teachers-note" and not name:
             m = HEADING.match(line)
             if m and len(m.group(1)) <= 2:
