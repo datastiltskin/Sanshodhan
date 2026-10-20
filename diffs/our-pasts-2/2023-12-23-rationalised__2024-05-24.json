@@ -19,12 +19,12 @@
   },
   "other_streams": {
    "deleted": 8,
-   "inserted": 30,
+   "inserted": 29,
    "modified": 12,
    "moved": 1,
-   "typographic": 26,
-   "restreamed": 200,
-   "resplit": 15,
+   "typographic": 25,
+   "restreamed": 201,
+   "resplit": 16,
    "unreadable": 1,
    "punctuation": 2
   },
@@ -1361,15 +1361,15 @@
       {
        "type": "modified",
        "stream": "body",
-       "similarity": 0.746,
-       "old": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
+       "similarity": 0.748,
+       "old": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
        "new": "explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
        "old_page": 9,
        "new_page": 9,
        "words": [
         [
          "-",
-         "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287)"
+         "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287)"
         ],
         [
          "=",
@@ -2749,8 +2749,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 15,
-       "new_pos": 16
+       "old_pos": 16,
+       "new_pos": 17
       },
       {
        "type": "typographic",
@@ -2761,8 +2761,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 14,
-       "new_pos": 15
+       "old_pos": 15,
+       "new_pos": 16
       },
       {
        "type": "resplit",
@@ -2773,8 +2773,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 11,
-       "new_pos": 13
+       "old_pos": 12,
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -2785,8 +2785,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 18,
-       "new_pos": 19
+       "old_pos": 19,
+       "new_pos": 20
       },
       {
        "type": "equal",
@@ -2797,8 +2797,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 17,
-       "new_pos": 18
+       "old_pos": 18,
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -2809,8 +2809,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 19,
-       "new_pos": 20
+       "old_pos": 20,
+       "new_pos": 21
       },
       {
        "type": "equal",
@@ -2821,8 +2821,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 16,
-       "new_pos": 17
+       "old_pos": 17,
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -2833,8 +2833,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 13,
-       "new_pos": 14
+       "old_pos": 14,
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -2845,8 +2845,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 21,
-       "new_pos": 22
+       "old_pos": 22,
+       "new_pos": 23
       },
       {
        "type": "equal",
@@ -2857,8 +2857,20 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 23,
-       "new_pos": 24
+       "old_pos": 24,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "5. What were some of the major religious developments during this period?",
+       "new": "5. What were some of the major religious developments during this period?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -2869,8 +2881,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 24,
-       "new_pos": 25
+       "old_pos": 25,
+       "new_pos": 26
       },
       {
        "type": "equal",
@@ -2881,8 +2893,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 22,
-       "new_pos": 23
+       "old_pos": 23,
+       "new_pos": 24
       },
       {
        "type": "equal",
@@ -2893,8 +2905,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 20,
-       "new_pos": 21
+       "old_pos": 21,
+       "new_pos": 22
       }
      ]
     },
@@ -2958,18 +2970,6 @@
        "words": [],
        "old_pos": 2,
        "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "5. What were some of the major religious developments during this period?",
-       "new": "5. What were some of the major religious developments during this period?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
       }
      ]
     },
@@ -10127,8 +10127,8 @@
       "modified": 2,
       "moved": 0,
       "typographic": 3,
-      "restreamed": 0,
-      "resplit": 1,
+      "restreamed": 1,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 1
      },
@@ -10376,13 +10376,49 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "Do you think that they are as important today?",
+       "new": "Do you think that they are as important today?",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "Find out if it had any impact in the city, village or region in which you live.",
        "new": "Find out if it had any impact in the city, village or region in which you live.",
        "old_page": 48,
        "new_page": 48,
        "words": [],
-       "old_pos": 18,
-       "new_pos": 19
+       "old_pos": 23,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
+       "new": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "11. Peasants were vital for the economy of the Mughal Empire.",
+       "new": "11. Peasants were vital for the economy of the Mughal Empire.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -10393,8 +10429,32 @@
        "old_page": 48,
        "new_page": 48,
        "words": [],
+       "old_pos": 22,
+       "new_pos": 21
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "Does this pose a challenge to national integration?",
+       "new": "Does this pose a challenge to national integration?",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 11
+      },
+      {
+       "type": "resplit",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
+       "new": "Like the Mughal Empire, India today is also made up of many social and cultural units. 10.",
+       "old_page": 48,
+       "new_page": 48,
+       "words": [],
        "old_pos": 17,
-       "new_pos": 18
+       "new_pos": 10
       },
       {
        "type": "resplit",
@@ -10413,10 +10473,10 @@
     "glossary": {
      "counts": {
       "deleted": 0,
-      "inserted": 1,
+      "inserted": 0,
       "modified": 0,
       "moved": 0,
-      "typographic": 1,
+      "typographic": 0,
       "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
@@ -10542,78 +10602,6 @@
        "words": [],
        "old_pos": 3,
        "new_pos": 3
-      },
-      {
-       "type": "inserted",
-       "stream": "glossary",
-       "similarity": null,
-       "old": null,
-       "new": "10.",
-       "old_page": null,
-       "new_page": 48,
-       "words": [],
-       "old_pos": null,
-       "new_pos": 12
-      },
-      {
-       "type": "typographic",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
-       "new": "Like the Mughal Empire, India today is also made up of many social and cultural units.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Do you think that they are as important today?",
-       "new": "Do you think that they are as important today?",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Does this pose a challenge to national integration?",
-       "new": "Does this pose a challenge to national integration?",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
-       "new": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "11. Peasants were vital for the economy of the Mughal Empire.",
-       "new": "11. Peasants were vital for the economy of the Mughal Empire.",
-       "old_page": 48,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 13
       }
      ]
     },
@@ -13803,8 +13791,8 @@
          "society?"
         ]
        ],
-       "old_pos": 12,
-       "new_pos": 13
+       "old_pos": 14,
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -13815,8 +13803,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 19,
-       "new_pos": 20
+       "old_pos": 21,
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -13827,8 +13815,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 20,
-       "new_pos": 21
+       "old_pos": 22,
+       "new_pos": 23
       },
       {
        "type": "equal",
@@ -13839,8 +13827,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 18,
-       "new_pos": 19
+       "old_pos": 20,
+       "new_pos": 21
       },
       {
        "type": "equal",
@@ -13851,8 +13839,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 13,
-       "new_pos": 14
+       "old_pos": 15,
+       "new_pos": 16
       },
       {
        "type": "equal",
@@ -13863,8 +13851,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 11,
-       "new_pos": 12
+       "old_pos": 13,
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -13875,8 +13863,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 15,
-       "new_pos": 16
+       "old_pos": 17,
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -13887,8 +13875,20 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 17,
-       "new_pos": 18
+       "old_pos": 19,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
+       "new": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
+       "old_page": 60,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 12
       },
       {
        "type": "equal",
@@ -13899,8 +13899,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 14,
-       "new_pos": 15
+       "old_pos": 16,
+       "new_pos": 17
       },
       {
        "type": "equal",
@@ -13911,8 +13911,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 16,
-       "new_pos": 17
+       "old_pos": 18,
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -13923,8 +13923,20 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 21,
-       "new_pos": 22
+       "old_pos": 23,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
+       "new": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
+       "old_page": 60,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -13935,8 +13947,8 @@
        "old_page": 60,
        "new_page": 60,
        "words": [],
-       "old_pos": 22,
-       "new_pos": 23
+       "old_pos": 24,
+       "new_pos": 25
       },
       {
        "type": "resplit",
@@ -14084,30 +14096,6 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
-       "new": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
-       "old_page": 60,
-       "new_page": 60,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
-       "new": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
-       "old_page": 60,
-       "new_page": 60,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 11
       }
      ]
     },

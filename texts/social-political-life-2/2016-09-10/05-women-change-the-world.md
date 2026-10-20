@@ -238,6 +238,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?
 
 > [note] 2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.
@@ -245,6 +247,8 @@ Glossary
 > [note] 3. “Poor girls drop out of school because they are not interested in getting an education.” Re-read the last paragraph on page 62 and explain why this statement is not true.
 
 > [note] 4. Can you describe two methods of struggle that the women’s movement used to raise issues? If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about? Why would you choose this particular method?
+
+<!-- section: glossary -->
 
 > [note] Stereotype: When we believe that people belonging to particular groups based on religion, wealth, language are bound to have certain fixed characteristics or can only do a certain type of work, we create a stereotype. For example, in this chapter, we saw how boys and girls are made to take certain subjects not because he or she has an aptitude for it, but because they are either boys or girls. Stereotypes prevent us from looking at people as unique individuals.
 

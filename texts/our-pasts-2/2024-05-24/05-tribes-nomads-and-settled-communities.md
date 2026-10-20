@@ -232,11 +232,11 @@ tanda chaurasi labourer caravan clan Garha Katanga Sib Singh Ahom state paik Dur
 
 <!-- page 60 (pdf 12) -->
 
+<!-- section: exercises -->
+
 (d) The Bhils lived in the north-eastern part of the subcontinent.
 
 4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?
-
-<!-- section: exercises -->
 
 ### Let’s understand
 

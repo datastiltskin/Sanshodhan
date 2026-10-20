@@ -264,7 +264,11 @@ Coalition: A temporary alliance of groups or parties. In this chapter, it refers
 
 2. In this 2004 map of Parliamentary constituencies alongside, roughly identify the constituencies in your State. What is the name of the MP from your constituency? How many MPs does your state have? Why are certain constituencies coloured green while others are coloured blue?
 
+<!-- section: glossary -->
+
 > [caption] Source: www.eci.gov.in
+
+<!-- section: exercises -->
 
 3. You have read in Chapter 1 that the ‘Parliamentary form of government’ that exists in India has three tiers. This includes the Parliament (central government) and the various State Legislatures (state governments). Fill in the following table with information on the various representatives from your area:
 

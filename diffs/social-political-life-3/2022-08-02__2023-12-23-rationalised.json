@@ -23,7 +23,7 @@
    "modified": 12,
    "moved": 1,
    "typographic": 2,
-   "restreamed": 1,
+   "restreamed": 8,
    "resplit": 0,
    "unreadable": 0,
    "punctuation": 0
@@ -10776,7 +10776,7 @@
       "modified": 0,
       "moved": 0,
       "typographic": 1,
-      "restreamed": 0,
+      "restreamed": 7,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
@@ -10791,7 +10791,7 @@
        "old_page": 41,
        "new_page": 45,
        "words": [],
-       "old_pos": 8,
+       "old_pos": 7,
        "new_pos": 7
       },
       {
@@ -10810,18 +10810,6 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
-       "old": "How many women representatives are there (from your state)?",
-       "new": "How many women representatives are there (from your state)?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
        "old": "2. In this 2004 map of Parliamentary constituencies alongside, roughly identify the constituencies in your State.",
        "new": "2. In this 2004 map of Parliamentary constituencies alongside, roughly identify the constituencies in your State.",
        "old_page": 41,
@@ -10834,36 +10822,12 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
-       "old": "Source: www.eci.gov.in",
-       "new": "Source: www.eci.gov.in",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 8
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "State Government Central Government",
-       "new": "State Government Central Government",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 9,
-       "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
        "old": "This includes the Parliament (central government) and the various State Legislatures (state governments).",
        "new": "This includes the Parliament (central government) and the various State Legislatures (state governments).",
        "old_page": 41,
        "new_page": 45,
        "words": [],
-       "old_pos": 7,
+       "old_pos": 6,
        "new_pos": 6
       },
       {
@@ -10877,66 +10841,6 @@
        "words": [],
        "old_pos": 2,
        "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "When were elections last held?",
-       "new": "When were elections last held?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 13
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "When will the next elections be held?",
-       "new": "When will the next elections be held?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "Which political parties currently form the Opposition?",
-       "new": "Which political parties currently form the Opposition?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 12
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "Which political party/parties is/are currently in power?",
-       "new": "Which political party/parties is/are currently in power?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
-       "old": "Who (name) is the current representative from your area?",
-       "new": "Who (name) is the current representative from your area?",
-       "old_page": 41,
-       "new_page": 45,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
       },
       {
        "type": "equal",
@@ -10971,7 +10875,7 @@
        "old_page": 41,
        "new_page": 45,
        "words": [],
-       "old_pos": 6,
+       "old_pos": 5,
        "new_pos": 5
       },
       {
@@ -10983,7 +10887,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 17,
+       "old_pos": 16,
        "new_pos": null
       },
       {
@@ -10995,7 +10899,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 18,
+       "old_pos": 17,
        "new_pos": null
       },
       {
@@ -11007,7 +10911,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 21,
+       "old_pos": 20,
        "new_pos": null
       },
       {
@@ -11019,7 +10923,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 16,
+       "old_pos": 15,
        "new_pos": null
       },
       {
@@ -11031,8 +10935,8 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 19,
-       "new_pos": 16
+       "old_pos": 18,
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -11043,8 +10947,92 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 20,
+       "old_pos": 19,
+       "new_pos": 9
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "How many women representatives are there (from your state)?",
+       "new": "How many women representatives are there (from your state)?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 22
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "State Government Central Government",
+       "new": "State Government Central Government",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 16
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "When were elections last held?",
+       "new": "When were elections last held?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 20
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "When will the next elections be held?",
+       "new": "When will the next elections be held?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 21
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "Which political parties currently form the Opposition?",
+       "new": "Which political parties currently form the Opposition?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 19
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "Which political party/parties is/are currently in power?",
+       "new": "Which political party/parties is/are currently in power?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 9,
        "new_pos": 17
+      },
+      {
+       "type": "restreamed",
+       "stream": "exercises>glossary",
+       "similarity": 1.0,
+       "old": "Who (name) is the current representative from your area?",
+       "new": "Who (name) is the current representative from your area?",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 18
       }
      ]
     },
@@ -11161,12 +11149,24 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
+       "old": "Source: www.eci.gov.in",
+       "new": "Source: www.eci.gov.in",
+       "old_page": 41,
+       "new_page": 45,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "glossary",
+       "similarity": 1.0,
        "old": "Criticise: To find fault with or disapprove of a person or thing.",
        "new": "Criticise: To find fault with or disapprove of a person or thing.",
        "old_page": 51,
        "new_page": 44,
        "words": [],
-       "old_pos": 8,
+       "old_pos": 9,
        "new_pos": 4
       },
       {
@@ -11178,7 +11178,7 @@
        "old_page": 51,
        "new_page": 44,
        "words": [],
-       "old_pos": 10,
+       "old_pos": 11,
        "new_pos": 6
       },
       {
@@ -11190,7 +11190,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 13,
+       "old_pos": 14,
        "new_pos": 9
       },
       {
@@ -11202,7 +11202,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 17,
+       "old_pos": 18,
        "new_pos": 13
       },
       {
@@ -11214,7 +11214,7 @@
        "old_page": 51,
        "new_page": 44,
        "words": [],
-       "old_pos": 11,
+       "old_pos": 12,
        "new_pos": 7
       },
       {
@@ -11226,7 +11226,7 @@
        "old_page": 51,
        "new_page": 44,
        "words": [],
-       "old_pos": 9,
+       "old_pos": 10,
        "new_pos": 5
       },
       {
@@ -11238,7 +11238,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 16,
+       "old_pos": 17,
        "new_pos": 12
       },
       {
@@ -11250,7 +11250,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 12,
+       "old_pos": 13,
        "new_pos": 8
       },
       {
@@ -11262,7 +11262,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 15,
+       "old_pos": 16,
        "new_pos": 11
       },
       {
@@ -11274,7 +11274,7 @@
        "old_page": 51,
        "new_page": 45,
        "words": [],
-       "old_pos": 14,
+       "old_pos": 15,
        "new_pos": 10
       }
      ]
@@ -29154,8 +29154,8 @@
        "type": "equal",
        "stream": "references",
        "similarity": 1.0,
-       "old": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,( www.countercurrents.org (Accessed on 12 November 2007)",
-       "new": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,( www.countercurrents.org (Accessed on 12 November 2007)",
+       "old": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,(www.countercurrents.org (Accessed on 12 November 2007)",
+       "new": "Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,(www.countercurrents.org (Accessed on 12 November 2007)",
        "old_page": 134,
        "new_page": 114,
        "words": [],

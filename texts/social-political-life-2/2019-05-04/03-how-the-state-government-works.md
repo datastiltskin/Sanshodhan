@@ -225,14 +225,14 @@ This wallpaper about the 2006 dengue epidemic was prepared by children of Class 
 
 > [note] Glossary
 
-> [table] Constituency: A particular area from which all the voters living there choose their representatives.
+> [note] Constituency: A particular area from which all the voters living there choose their representatives.
 
-> [table] This could be, for example, a panchayat ward or an area that chooses an MLA.
+> [note] This could be, for example, a panchayat ward or an area that chooses an MLA.
 
-> [table] Majority: This is a situation when more than half the number in a group supports a decision or an
+> [note] Majority: This is a situation when more than half the number in a group supports a decision or an
 
 > [caption] idea. This is also called a simple majority.
 
-> [table] Opposition: This refers to elected representatives who are not members of the ruling party and who play the role of questioning government decisions and actions as well as raise new issues for consideration in the Assembly.
+> [note] Opposition: This refers to elected representatives who are not members of the ruling party and who play the role of questioning government decisions and actions as well as raise new issues for consideration in the Assembly.
 
-> [table] Press Conference: A gathering of journalists from the media who are invited to hear about and ask questions on a particular issue and are then expected to report on this to the larger public.
+> [note] Press Conference: A gathering of journalists from the media who are invited to hear about and ask questions on a particular issue and are then expected to report on this to the larger public.

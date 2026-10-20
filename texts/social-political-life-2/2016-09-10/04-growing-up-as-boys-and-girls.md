@@ -196,6 +196,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. Are the statements given alongside true or false. Support your answer with the use of an example – a. All societies do not think similarly about the roles that boys and girls play.
 
 > [note] 2. Housework is invisible and unpaid work.
@@ -217,6 +219,8 @@ Glossary
 > [note] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
 
 > [note] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
+
+<!-- section: glossary -->
 
 > [note] Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several identities. For example, a person can be a girl, a sister and a musician.
 

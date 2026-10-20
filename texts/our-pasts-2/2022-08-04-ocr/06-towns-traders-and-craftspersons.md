@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2022-08-04/ch06.pdf"
 source_sha256: "f74076df40ed6da1f739a3b3f7d2744a7663cbbfd710572ac623b65552a7357c"
 pdf_pages: 16
 printed_pages: "75-90"
-body_fingerprint: "fcc4a6a7a4bc57e8b8b42cd4dc99aa5ff5cd6469a55eb98bbc04411bf3887a58"
+body_fingerprint: "df3f5adc19abe414e7e3ab080e1383e101b87d43d7caa584cbeb0a1a7073d506"
 ocr: true
 ocr_confidence: 94.1
 ---
@@ -21,7 +21,7 @@ ocr_confidence: 94.1
 
 What would a traveller visiting a medieval town expect to find? This would depend on what kind of a town it was —- a temple town, an administrative centre, a commercial town or a port town to name just some possibilities. In fact, many towns combined several functions — they were administrative centres, temple towns, as well as centres of commercial activities and craft production.
 
-s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer ) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL. nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram, Svamimalai 3) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS Administrative Centres You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
+s Kabul Vrindavan « °», Pushkar ° oe. *s Ajmer) 745 Murshidabad ® => e Ahmedabad : h Calcuttae ie Somnath aH \ bd ‘e|Surat (aS; BERAR Bombay ARABIAN | Bidar BAY OF SEA \ Bijapur Golconda BENGAL. nna : \ wy e|Masulipatnam] [Hampila, Kamalapuram, Svamimalai 3) eTitupati fh \ Kanchipuram e 2 Madras - 4 Tiruvannamalaie ,” Mahabalipuram hy %. P Thanjavur ‘4 ’ “9% Uraiyur LAKSHADWEEP ss \Madutai) ANDAMAN & NICOBAR ISLANDS Administrative Centres You read about the Chola dynasty in Chapter 2. Let’s travel in our imagination to Thanjavur, the capital of the Cholas, as it was a thousand years ago.
 
 > [caption] 0760CHO6
 

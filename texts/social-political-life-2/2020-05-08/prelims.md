@@ -56,7 +56,7 @@ Assistant Editor: Shashi Chadha
 
 Production Assistant: Om Prakash
 
-Cover, Layout
+### Cover, Layout
 
 Orijit Sen with Splash! Communications
 

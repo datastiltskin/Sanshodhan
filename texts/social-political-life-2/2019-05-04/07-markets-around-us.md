@@ -45,13 +45,13 @@ We go to the market to buy many things – vegetables, soap, toothpaste, masala,
 
 <!-- page 84 (pdf 5) -->
 
-> [table] Why do people go to a weekly market? Give three reasons.
+> [note] Why do people go to a weekly market? Give three reasons.
 
-> [table] Who are the sellers in a weekly market? Why don’t we find big business persons in these markets?
+> [note] Who are the sellers in a weekly market? Why don’t we find big business persons in these markets?
 
-> [table] Why are things cheap in the weekly market?
+> [note] Why are things cheap in the weekly market?
 
-> [table] Explain with an example how people bargain in the market. Can you think of a situation where the bargain would be unfair?
+> [note] Explain with an example how people bargain in the market. Can you think of a situation where the bargain would be unfair?
 
 Sameer: Seller of clothes
 
@@ -75,19 +75,19 @@ On the top left shelf there were different brands of detergent cakes. Another sh
 
 It took almost 20 minutes to weigh and pack all the groceries. Then Sujata showed her “notebook.” The woman noted the amount of ₹ 3000 in the notebook and gave it back. She also noted the amount in her big register. Then Sujata took the heavy bags out of the shop. Her family will pay for the purchases in the first week of next month.
 
-> [table] Why did Sujata carry a notebook? Do you think this system is
+> [note] Why did Sujata carry a notebook? Do you think this system is
 
 shops. Many of these are permanent shops, while others are roadside stalls such as that of the vegetable hawker, the fruit vendor, the mechanic, etc.
 
-> [table] useful? Can there be problems?
+> [note] useful? Can there be problems?
 
-> [table] What are the different kinds of shops that you find in your
+> [note] What are the different kinds of shops that you find in your
 
 Shops in the neighbourhood are useful in many ways. They are near our home and we can go there on any day of the week. Usually, the buyer and seller know each other and these shops also provide goods on credit. This means that you can pay for the purchases later, as we saw in Sujata’s case, for example.
 
-> [table] neighbourhood? What do you purchase from them?
+> [note] neighbourhood? What do you purchase from them?
 
-> [table] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
+> [note] Why are goods sold in permanent shops costlier than those sold in the weekly markets or by roadside hawkers?
 
 <!-- page 86 (pdf 7) -->
 
@@ -99,11 +99,11 @@ While wandering about on the third floor they entered a shop that was selling br
 
 Shopping complexes and malls
 
-> [table] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What
+> [note] Why do you think the guard wanted to stop Kavita and Sujata from entering the shop? What
 
 So far we have seen two kinds of marketplaces – weekly markets and markets in our neighbourhood. There are other markets in the urban area that have many shops, popularly called shopping complexes. These days, in many urban areas, you also have large multi-storeyed air-conditioned buildings with shops on different floors, known as malls. In these urban markets, you get both branded and non-branded goods. As you have read in the chapter on advertising, branded goods are expensive, often promoted by advertising and claims of better quality. The companies producing these products sell them through shops in large urban markets and, at times, through special showrooms. As compared to non-branded goods, fewer people can afford to buy branded ones.
 
-> [table] would you say if someone stops you from entering a shop in a market?
+> [note] would you say if someone stops you from entering a shop in a market?
 
 <!-- page 87 (pdf 8) -->
 
@@ -115,11 +115,11 @@ The people in between the producer and the final consumer are the traders. The w
 
 We can understand this with the help of the following examples – Every city has areas for wholesale markets. This is where goods first reach and are then supplied to other traders. The roadside hawker whom you read about earlier would have purchased a large quantity of plastic items from a wholesale trader in the town. He, in turn, might have bought these from another, even bigger wholesale trader in the city. The city wholesale trader would have bought a large quantity of plastic items from the factory and stored them in a godown. In this way, a chain of markets is set up. When we purchase, we may not be aware of the chain of markets through which these goods travel before they reach us.
 
-> [table] Why do people not bargain in shops located in malls whereas they bargain in weekly markets?
+> [note] Why do people not bargain in shops located in malls whereas they bargain in weekly markets?
 
-> [table] How do you think your neighbourhood shop gets its goods? Find out and explain with some examples.
+> [note] How do you think your neighbourhood shop gets its goods? Find out and explain with some examples.
 
-> [table] Why is a wholesale trader necessary?
+> [note] Why is a wholesale trader necessary?
 
 > [table] Azadpur
 

@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch01.pdf"
 source_sha256: "dc7291a8eb857ceedb0fb154309e2a5b9536aad5e0b49d05d3891cc81fb4244b"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "cbe30c0e07397d227df4aed285005e0c75598d53084cc1bb0303c54a091d82a6"
+body_fingerprint: "c3f99d3e1098a140902b76394ac6cbeaf86bebbc0b70ef7aa16f5a8b8c3727ff"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -27,7 +27,7 @@ Take a look at Maps 1 and 2. Map 1 was made in 1154 CE by the Arab geographer Al
 
 <!-- page 2 (pdf 2) -->
 
-Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
+> [note] Look at the areas in the interior of the subcontinent on Map 2. Are they as detailed as those on the coast? Follow the course of the River Ganga and see how it is shown. Why do you think there is a difference in the level of detail and accuracy between the coastal and inland areas in this map?
 
 > [caption] Map 2 The subcontinent, from the early-eighteenth-century Atlas Nouveau of Guillaume de l’Isle.
 
@@ -43,7 +43,7 @@ Take the term “Hindustan”, for example. Today we understand it as “India�
 
 Historians today have to be careful about the terms they use because they meant different things in the past. Take, for example, a simple term like “foreigner”. It is used today to mean someone who is not an Indian. In the medieval period a “foreigner” was any stranger who appeared say in a given village, someone who was not a part of that society or culture. (In Hindi the term pardesi might be used to describe such a person and in Persian, ajnabi.) A city-dweller, therefore, might have regarded a forest-dweller as a “foreigner”, but two peasants living in the same village were not foreigners to each other, even though they may have had different religious or caste backgrounds.
 
-Can you think of any other words whose meanings change in different contexts?
+> [note] Can you think of any other words whose meanings change in different contexts?
 
 <!-- page 4 (pdf 4) -->
 
@@ -55,13 +55,13 @@ You will notice some continuity in the sources used by historians for the study 
 
 ### The value of paper
 
-Compare the following:
+> [note] Compare the following:
 
-(1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
+> [note] (1) In the middle of the thirteenth century a scholar wanted to copy a book. But he did not have enough paper. So he washed the writing off a manuscript he did not want, dried the paper and used it.
 
-(2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.
+> [note] (2) A century later, if you bought some food in the market you could be lucky and have the shopkeeper wrap it for you in some paper.
 
-When was paper more expensive and easily available – in the thirteenth or the fourteenth century?
+> [note] When was paper more expensive and easily available – in the thirteenth or the fourteenth century?
 
 <!-- page 5 (pdf 5) -->
 
@@ -89,19 +89,19 @@ This was also a period of great mobility. Groups of people travelled long distan
 
 <!-- page 8 (pdf 8) -->
 
-Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
-
-Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
-
 Throughout this period there was a gradual clearing of forests and the extension of agriculture, a change faster and more complete in some areas than in others. Changes in their habitat forced many forest-dwellers to migrate. Others started tilling the land and became peasants. These new peasant groups gradually began to be influenced by regional markets, chieftains, priests, monasteries and temples. They became part of large, complex societies, and were required to pay taxes and offer goods and services to local lords. As a result, significant economic and social differences emerged amongst peasants. Some possessed more productive land, others also kept cattle, and some combined artisanal work with agricultural activity during the lean season. As society became more differentiated, people were grouped into jatis or sub-castes and ranked on the basis of their backgrounds and their occupations. Ranks were not fixed permanently, and varied according to the power, influence and resources controlled by members of the jati. The status of the same jati could vary from area to area.
 
 Jatis framed their own rules and regulations to manage the conduct of their members. These regulations were enforced by an assembly of elders, described in some areas as the jati panchayat. But jatis were also required to follow the rules of their villages. Several villages were governed by a chieftain. Together they were only one small unit of a state.
+
+Habitat Refers to the environment of a region and the social and economic lifestyle of its residents.
+
+> [note] Of the technological, economic, social and cultural changes described in this section, which do you think were most significant in the town or village in which you live?
 
 <!-- page 9 (pdf 9) -->
 
 ## Region and Empire
 
-Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat – apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
+Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat – apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
 
 > [caption] Map 3 Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source Masalik al-Absar fi Mamalik al-Amsar of Shihabuddin Umari.
 
@@ -109,17 +109,19 @@ Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mugha
 
 ### Language and region
 
-In 1318 the poet Amir Khusrau noted that there was a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma‘bari (in Tamil Nadu), Gauri, (in Bengal) … Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).
+> [note] In 1318 the poet Amir Khusrau noted that there was
 
-Amir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not know it, only the Brahmanas do”.
+a different language in every region of this land: Sindhi, Lahori, Kashmiri, Dvarsamudri (in southern Karnataka), Telangani (in Andhra Pradesh), Gujari (in Gujarat), Ma‘bari (in Tamil Nadu), Gauri, (in Bengal) … Awadhi (in eastern Uttar Pradesh) and Hindawi (in the area around Delhi).
 
-Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.
+> [note] Amir Khusrau went on to explain that in contrast to these languages there was Sanskrit which did not belong to any region. It was an old language and “common people do not know it, only the Brahmanas do”.
 
-Did you notice that the names by which languages are known have changed over time?
+> [note] Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today in the regions he mentioned. Underline names that are similar and circle those that are different.
+
+> [note] Did you notice that the names by which languages are known have changed over time?
 
 By 700 many regions already possessed distinct geographical dimensions and their own language and cultural characteristics. You will learn more about these in Chapter 9. They were also associated with specific ruling dynasties. There was considerable conflict between these states. Occasionally dynasties like the Cholas, Khaljis, Tughluqs and Mughals were able to build an empire that was pan-regional – spanning diverse regions. Not all these empires were equally stable or successful. Compare, for example, Table 1 in Chapters 3 and 4. What was the duration of rule of the Khalji and Mughal dynasties?
 
-Why do you think rulers made such claims?
+> [note] Why do you think rulers made such claims?
 
 <!-- page 11 (pdf 11) -->
 
@@ -135,9 +137,9 @@ Their knowledge of Sanskrit texts earned the Brahmanas a lot of respect in socie
 
 One of the major developments of this period was the emergence of the idea of bhakti – of a loving, personal deity that devotees could reach without the aid of priests or elaborate rituals. You will be learning about this, and other traditions, in Chapter 8.
 
-Find out whether and for how long your state was part of these pan-regional empires.
+> [note] Find out whether and for how long your state was part of these pan-regional empires.
 
-Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
+> [note] Do you remember what Amir Khusrau had to say regarding Sanskrit, knowledge and Brahmanas ?
 
 Patron An influential, wealthy individual who supports another person – an artiste, a craftsperson, a learned man, or a noble.
 
@@ -207,9 +209,9 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 <!-- page 15 (pdf 15) -->
 
-5. What were some of the major religious developments during this period?
-
 <!-- section: exercises -->
+
+5. What were some of the major religious developments during this period?
 
 ### Let’s understand
 

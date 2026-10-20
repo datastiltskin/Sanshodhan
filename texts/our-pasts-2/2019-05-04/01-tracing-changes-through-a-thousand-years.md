@@ -13,7 +13,7 @@ source_pdf: "pdfs/our-pasts-2/2019-05-04/ch01.pdf"
 source_sha256: "53edf19e7d01625337b03c02cf40ce7ff4d680c2f909cc894ced17a0f35bd234"
 pdf_pages: 15
 printed_pages: "1-15"
-body_fingerprint: "b22baf5d8063b232211761ad4a4711db376fe04926b44b5f2a798b52326af250"
+body_fingerprint: "8a151203efe61609a8bea33b5eeac44c18bdf9da819d750e030436dae1b605bd"
 ---
 
 <!-- page 1 (pdf 1) -->
@@ -102,7 +102,7 @@ Habitat Refers to the environment of a region and the social and economic lifest
 
 ## Region and Empire
 
-Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat – apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
+Large states like those of the Cholas (Chapter 2), Tughluqs (Chapter 3) or Mughals (Chapter 4) encompassed many regions. A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida). People of different regions – Gauda, Andhra, Kerala, Karnataka, Maharashtra and Gujarat – apparently fled before his armies. Historians regard these as exaggerated claims of conquests. At the same time, they try to understand why rulers kept claiming to have control over different parts of the subcontinent.
 
 > [caption] Map 3 Provinces of the Delhi Sultanate during Muhammad Tughluq’s reign according to the Egyptian source Masalik al-Absar fi Mamalik al-Amsar of Shihabuddin Umari.
 
@@ -210,9 +210,9 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 <!-- page 15 (pdf 15) -->
 
-5. What were some of the major religious developments during this period?
-
 <!-- section: exercises -->
+
+5. What were some of the major religious developments during this period?
 
 ### Let’s understand
 

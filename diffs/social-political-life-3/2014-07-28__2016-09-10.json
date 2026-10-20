@@ -10217,8 +10217,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 8,
-       "new_pos": 8
+       "old_pos": 7,
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -10241,8 +10241,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 15,
-       "new_pos": 15
+       "old_pos": 14,
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -10260,25 +10260,13 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
-       "old": "Source: www.eci.gov.in",
-       "new": "Source: www.eci.gov.in",
-       "old_page": 41,
-       "new_page": 41,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "equal",
-       "stream": "exercises",
-       "similarity": 1.0,
        "old": "State Government Central Government",
        "new": "State Government Central Government",
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 9,
-       "new_pos": 9
+       "old_pos": 8,
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -10289,8 +10277,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 7,
-       "new_pos": 7
+       "old_pos": 6,
+       "new_pos": 6
       },
       {
        "type": "equal",
@@ -10313,8 +10301,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 13,
-       "new_pos": 13
+       "old_pos": 12,
+       "new_pos": 12
       },
       {
        "type": "equal",
@@ -10325,8 +10313,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 14,
-       "new_pos": 14
+       "old_pos": 13,
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -10337,8 +10325,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 12,
-       "new_pos": 12
+       "old_pos": 11,
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -10349,8 +10337,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 10,
-       "new_pos": 10
+       "old_pos": 9,
+       "new_pos": 9
       },
       {
        "type": "equal",
@@ -10361,8 +10349,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 11,
-       "new_pos": 11
+       "old_pos": 10,
+       "new_pos": 10
       },
       {
        "type": "equal",
@@ -10385,8 +10373,8 @@
        "old_page": 41,
        "new_page": 41,
        "words": [],
-       "old_pos": 6,
-       "new_pos": 6
+       "old_pos": 5,
+       "new_pos": 5
       }
      ]
     },
@@ -10498,6 +10486,18 @@
        "words": [],
        "old_pos": 6,
        "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "glossary",
+       "similarity": 1.0,
+       "old": "Source: www.eci.gov.in",
+       "new": "Source: www.eci.gov.in",
+       "old_page": 41,
+       "new_page": 41,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
       }
      ]
     },

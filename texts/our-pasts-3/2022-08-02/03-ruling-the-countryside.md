@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2022-08-02/ch03.pdf"
 source_sha256: "5f141b98a81b6246359808ee81c8cf7b92f2b9093be83f4bfe876c50238704ef"
 pdf_pages: 13
 printed_pages: "26-38"
-body_fingerprint: "8cdabae9d8defb32262f8bfdbb42ba30b46e5619067800378ae520a02710df87"
+body_fingerprint: "404b6277bd5b7a51b585e2cb7638534391f7d4e67ec66438e7be0543c3df4240"
 ---
 
 <!-- page 26 (pdf 1) -->
@@ -83,7 +83,7 @@ In the North Western Provinces of the Bengal Presidency (most of this area is no
 
 ### The Munro system
 
-In the British territories in the south there was a similar move away from the idea of Permanent Settlement. The new system that was devised came to be known as the ryotwar (or ryotwari ). It was tried on a small scale by Captain Alexander Read in some of the areas that were taken over by the Company after the wars with Tipu Sultan. Subsequently developed by Thomas Munro, this system was gradually extended all over south India.
+In the British territories in the south there was a similar move away from the idea of Permanent Settlement. The new system that was devised came to be known as the ryotwar (or ryotwari). It was tried on a small scale by Captain Alexander Read in some of the areas that were taken over by the Company after the wars with Tipu Sultan. Subsequently developed by Thomas Munro, this system was gradually extended all over south India.
 
 Read and Munro felt that in the south there were no traditional zamindars. The settlement, they argued, had to be made directly with the cultivators (ryots) who had tilled the land for generations. Their fields had to be carefully and separately surveyed before the revenue assessment was made. Munro thought that the British should act as paternal father figures protecting the ryots under their charge.
 

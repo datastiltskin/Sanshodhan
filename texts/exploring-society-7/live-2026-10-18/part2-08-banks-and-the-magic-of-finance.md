@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf"
 source_sha256: "ed08c46a27f2f3f2a8a944fdcd967c144b6ff69db8fb24e4f8e0c50ceb6ee4de"
 pdf_pages: 20
 printed_pages: "193-212"
-body_fingerprint: "cfb04118af110540928e8e25611ccf7b9488ce2a34256e67a4c64243c3d4d615"
+body_fingerprint: "46ba60b891918edb545211153245222e4f6b1f96839baf701e5034deea9a4c39"
 overrides:
   - "part 2 chapter 8, page 206: xxxxxx is the dummy phone number from the app drawing"
   - "part 2 chapter 8, page 206: two interleaved sentences of the Fig. 8.18 flow chart re-threaded"
@@ -350,7 +350,7 @@ Suppose you own a small restaurant and wish to expand it with a variety of cuisi
 
 <!-- page 208 (pdf 16) -->
 
-The actual buying and selling of shares takes place at the stock exchange. In India, the Bombay Stock Exchange (BSE) was established in 1875 and is one of the oldest stock exchanges in the world. Back then, the share transactions were conducted manually using paper tickets (Fig. 8.20 ), which in the modern world have been replaced by digital transactions using advanced computers and other devices.
+The actual buying and selling of shares takes place at the stock exchange. In India, the Bombay Stock Exchange (BSE) was established in 1875 and is one of the oldest stock exchanges in the world. Back then, the share transactions were conducted manually using paper tickets (Fig. 8.20), which in the modern world have been replaced by digital transactions using advanced computers and other devices.
 
 > [caption] Fig. 8.19. Bombay Stock Exchange
 

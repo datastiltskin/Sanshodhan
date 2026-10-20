@@ -24,7 +24,7 @@
    "moved": 0,
    "typographic": 1,
    "restreamed": 55,
-   "resplit": 8,
+   "resplit": 15,
    "unreadable": 0,
    "punctuation": 0
   },
@@ -2661,6 +2661,18 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "Do you think the above law is being implemented in his case?",
+       "new": "Do you think the above law is being implemented in his case?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "EXERCISES",
        "new": "EXERCISES",
        "old_page": 15,
@@ -2668,6 +2680,150 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "How would his being carried down the stairs affect his dignity as well as his safety?",
+       "new": "How would his being carried down the stairs affect his dignity as well as his safety?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. In a democracy why is universal adult franchise important?",
+       "new": "1. In a democracy why is universal adult franchise important?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "3. In what ways was Omprakash Valmiki’s experience similar to that of the Ansaris?",
+       "new": "3. In what ways was Omprakash Valmiki’s experience similar to that of the Ansaris?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Look at the photograph and think about the boy who is being carried down the stairs.",
+       "new": "Look at the photograph and think about the boy who is being carried down the stairs.",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
+       "new": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "The government has to provide free education and integrate children with disabilities into mainstream schools.",
+       "new": "The government has to provide free education and integrate children with disabilities into mainstream schools.",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "5. The Government of India passed the Disabilities Act in 1995.",
+       "new": "5. The Government of India passed the Disabilities Act in 1995.",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
+       "new": "This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "This law states that persons with disabilities have equal rights, and that the government should make possible their full participation in society.",
+       "new": "This law states that persons with disabilities have equal rights, and that the government should make possible their full participation in society.",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. What do you understand by the term “all persons are equal before the law”?",
+       "new": "4. What do you understand by the term “all persons are equal before the law”?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What needs to be done to make the building more accessible for him?",
+       "new": "What needs to be done to make the building more accessible for him?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Why do you think it is important in a democracy?",
+       "new": "Why do you think it is important in a democracy?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
       }
      ]
     },
@@ -2693,8 +2849,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 18,
-       "new_pos": 18
+       "old_pos": 5,
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -2705,8 +2861,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 17,
-       "new_pos": 17
+       "old_pos": 4,
+       "new_pos": 4
       },
       {
        "type": "equal",
@@ -2717,20 +2873,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 16,
-       "new_pos": 16
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Do you think the above law is being implemented in his case?",
-       "new": "Do you think the above law is being implemented in his case?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
+       "old_pos": 3,
+       "new_pos": 3
       },
       {
        "type": "equal",
@@ -2748,68 +2892,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "How would his being carried down the stairs affect his dignity as well as his safety?",
-       "new": "How would his being carried down the stairs affect his dignity as well as his safety?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 13
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "1. In a democracy why is universal adult franchise important?",
-       "new": "1. In a democracy why is universal adult franchise important?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 1
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "3. In what ways was Omprakash Valmiki’s experience similar to that of the Ansaris?",
-       "new": "3. In what ways was Omprakash Valmiki’s experience similar to that of the Ansaris?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 3,
-       "new_pos": 3
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.",
        "new": "It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Look at the photograph and think about the boy who is being carried down the stairs.",
-       "new": "Look at the photograph and think about the boy who is being carried down the stairs.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
-       "new": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
        "old_page": 15,
        "new_page": 15,
        "words": [],
@@ -2820,97 +2904,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "The government has to provide free education and integrate children with disabilities into mainstream schools.",
-       "new": "The government has to provide free education and integrate children with disabilities into mainstream schools.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 8,
-       "new_pos": 8
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "5. The Government of India passed the Disabilities Act in 1995.",
-       "new": "5. The Government of India passed the Disabilities Act in 1995.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 6,
-       "new_pos": 6
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
-       "new": "This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 9,
-       "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "This law states that persons with disabilities have equal rights, and that the government should make possible their full participation in society.",
-       "new": "This law states that persons with disabilities have equal rights, and that the government should make possible their full participation in society.",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Universal adult franchise: This is a very important aspect of democratic societies.",
        "new": "Universal adult franchise: This is a very important aspect of democratic societies.",
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. What do you understand by the term “all persons are equal before the law”?",
-       "new": "4. What do you understand by the term “all persons are equal before the law”?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What needs to be done to make the building more accessible for him?",
-       "new": "What needs to be done to make the building more accessible for him?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 12
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Why do you think it is important in a democracy?",
-       "new": "Why do you think it is important in a democracy?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
+       "old_pos": 1,
+       "new_pos": 1
       }
      ]
     },
@@ -3349,7 +3349,7 @@
       },
       {
        "type": "restreamed",
-       "stream": "heading>body",
+       "stream": "heading>note",
        "similarity": 1.0,
        "old": "The story of Hakim Sheik",
        "new": "The story of Hakim Sheik",
@@ -3357,7 +3357,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 3,
-       "new_pos": 50
+       "new_pos": 0
       }
      ]
     },
@@ -3924,7 +3924,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 45,
-       "new_pos": 51
+       "new_pos": 50
       },
       {
        "type": "equal",
@@ -3936,7 +3936,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 46,
-       "new_pos": 52
+       "new_pos": 51
       },
       {
        "type": "equal",
@@ -3948,7 +3948,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 47,
-       "new_pos": 53
+       "new_pos": 52
       },
       {
        "type": "equal",
@@ -3960,7 +3960,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 48,
-       "new_pos": 54
+       "new_pos": 53
       },
       {
        "type": "equal",
@@ -3972,7 +3972,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 49,
-       "new_pos": 55
+       "new_pos": 54
       },
       {
        "type": "equal",
@@ -3984,7 +3984,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 50,
-       "new_pos": 56
+       "new_pos": 55
       },
       {
        "type": "equal",
@@ -3996,7 +3996,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 51,
-       "new_pos": 57
+       "new_pos": 56
       },
       {
        "type": "equal",
@@ -4008,7 +4008,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 52,
-       "new_pos": 58
+       "new_pos": 57
       },
       {
        "type": "equal",
@@ -4020,7 +4020,7 @@
        "new_page": 21,
        "words": [],
        "old_pos": 53,
-       "new_pos": 59
+       "new_pos": 58
       },
       {
        "type": "modified",
@@ -4049,7 +4049,7 @@
         ]
        ],
        "old_pos": 55,
-       "new_pos": 61
+       "new_pos": 60
       },
       {
        "type": "modified",
@@ -4078,7 +4078,7 @@
         ]
        ],
        "old_pos": 54,
-       "new_pos": 60
+       "new_pos": 59
       },
       {
        "type": "modified",
@@ -4107,7 +4107,7 @@
         ]
        ],
        "old_pos": 67,
-       "new_pos": 73
+       "new_pos": 72
       },
       {
        "type": "modified",
@@ -4136,7 +4136,7 @@
         ]
        ],
        "old_pos": 70,
-       "new_pos": 76
+       "new_pos": 75
       },
       {
        "type": "modified",
@@ -4165,7 +4165,7 @@
         ]
        ],
        "old_pos": 73,
-       "new_pos": 79
+       "new_pos": 78
       },
       {
        "type": "modified",
@@ -4194,7 +4194,7 @@
         ]
        ],
        "old_pos": 74,
-       "new_pos": 98
+       "new_pos": 97
       },
       {
        "type": "equal",
@@ -4206,7 +4206,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 56,
-       "new_pos": 62
+       "new_pos": 61
       },
       {
        "type": "equal",
@@ -4218,7 +4218,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 57,
-       "new_pos": 63
+       "new_pos": 62
       },
       {
        "type": "equal",
@@ -4230,7 +4230,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 58,
-       "new_pos": 64
+       "new_pos": 63
       },
       {
        "type": "equal",
@@ -4242,7 +4242,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 59,
-       "new_pos": 65
+       "new_pos": 64
       },
       {
        "type": "equal",
@@ -4254,7 +4254,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 60,
-       "new_pos": 66
+       "new_pos": 65
       },
       {
        "type": "equal",
@@ -4266,7 +4266,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 61,
-       "new_pos": 67
+       "new_pos": 66
       },
       {
        "type": "equal",
@@ -4278,7 +4278,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 62,
-       "new_pos": 68
+       "new_pos": 67
       },
       {
        "type": "equal",
@@ -4290,7 +4290,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 63,
-       "new_pos": 69
+       "new_pos": 68
       },
       {
        "type": "equal",
@@ -4302,7 +4302,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 64,
-       "new_pos": 70
+       "new_pos": 69
       },
       {
        "type": "equal",
@@ -4314,7 +4314,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 65,
-       "new_pos": 71
+       "new_pos": 70
       },
       {
        "type": "equal",
@@ -4326,7 +4326,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 66,
-       "new_pos": 72
+       "new_pos": 71
       },
       {
        "type": "equal",
@@ -4338,7 +4338,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 68,
-       "new_pos": 74
+       "new_pos": 73
       },
       {
        "type": "equal",
@@ -4350,7 +4350,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 69,
-       "new_pos": 75
+       "new_pos": 74
       },
       {
        "type": "equal",
@@ -4362,7 +4362,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 71,
-       "new_pos": 77
+       "new_pos": 76
       },
       {
        "type": "equal",
@@ -4374,7 +4374,7 @@
        "new_page": 24,
        "words": [],
        "old_pos": 72,
-       "new_pos": 78
+       "new_pos": 77
       },
       {
        "type": "modified",
@@ -4399,7 +4399,7 @@
         ]
        ],
        "old_pos": 89,
-       "new_pos": 94
+       "new_pos": 93
       },
       {
        "type": "equal",
@@ -4411,7 +4411,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 75,
-       "new_pos": 80
+       "new_pos": 79
       },
       {
        "type": "equal",
@@ -4423,7 +4423,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 76,
-       "new_pos": 81
+       "new_pos": 80
       },
       {
        "type": "equal",
@@ -4435,7 +4435,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 77,
-       "new_pos": 82
+       "new_pos": 81
       },
       {
        "type": "equal",
@@ -4447,7 +4447,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 78,
-       "new_pos": 83
+       "new_pos": 82
       },
       {
        "type": "equal",
@@ -4459,7 +4459,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 79,
-       "new_pos": 84
+       "new_pos": 83
       },
       {
        "type": "equal",
@@ -4471,7 +4471,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 80,
-       "new_pos": 85
+       "new_pos": 84
       },
       {
        "type": "equal",
@@ -4483,7 +4483,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 81,
-       "new_pos": 86
+       "new_pos": 85
       },
       {
        "type": "equal",
@@ -4495,7 +4495,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 82,
-       "new_pos": 87
+       "new_pos": 86
       },
       {
        "type": "equal",
@@ -4507,7 +4507,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 83,
-       "new_pos": 88
+       "new_pos": 87
       },
       {
        "type": "equal",
@@ -4519,7 +4519,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 84,
-       "new_pos": 89
+       "new_pos": 88
       },
       {
        "type": "equal",
@@ -4531,7 +4531,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 85,
-       "new_pos": 90
+       "new_pos": 89
       },
       {
        "type": "equal",
@@ -4543,7 +4543,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 86,
-       "new_pos": 91
+       "new_pos": 90
       },
       {
        "type": "equal",
@@ -4555,7 +4555,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 87,
-       "new_pos": 92
+       "new_pos": 91
       },
       {
        "type": "equal",
@@ -4567,7 +4567,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 88,
-       "new_pos": 93
+       "new_pos": 92
       },
       {
        "type": "equal",
@@ -4579,7 +4579,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 90,
-       "new_pos": 95
+       "new_pos": 94
       },
       {
        "type": "equal",
@@ -4591,7 +4591,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 91,
-       "new_pos": 96
+       "new_pos": 95
       },
       {
        "type": "equal",
@@ -4603,7 +4603,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 92,
-       "new_pos": 97
+       "new_pos": 96
       },
       {
        "type": "equal",
@@ -4615,7 +4615,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 93,
-       "new_pos": 99
+       "new_pos": 98
       },
       {
        "type": "equal",
@@ -4627,7 +4627,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 94,
-       "new_pos": 100
+       "new_pos": 99
       },
       {
        "type": "equal",
@@ -4639,7 +4639,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 95,
-       "new_pos": 101
+       "new_pos": 100
       },
       {
        "type": "equal",
@@ -4651,7 +4651,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 96,
-       "new_pos": 102
+       "new_pos": 101
       },
       {
        "type": "equal",
@@ -4663,7 +4663,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 97,
-       "new_pos": 103
+       "new_pos": 102
       },
       {
        "type": "equal",
@@ -4675,7 +4675,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 98,
-       "new_pos": 104
+       "new_pos": 103
       },
       {
        "type": "equal",
@@ -4687,7 +4687,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 99,
-       "new_pos": 105
+       "new_pos": 104
       },
       {
        "type": "equal",
@@ -4699,7 +4699,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 100,
-       "new_pos": 106
+       "new_pos": 105
       },
       {
        "type": "equal",
@@ -4711,7 +4711,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 101,
-       "new_pos": 107
+       "new_pos": 106
       },
       {
        "type": "equal",
@@ -4723,7 +4723,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 102,
-       "new_pos": 108
+       "new_pos": 107
       },
       {
        "type": "equal",
@@ -4735,7 +4735,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 103,
-       "new_pos": 109
+       "new_pos": 108
       },
       {
        "type": "equal",
@@ -4747,7 +4747,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 104,
-       "new_pos": 110
+       "new_pos": 109
       },
       {
        "type": "equal",
@@ -4759,7 +4759,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 105,
-       "new_pos": 111
+       "new_pos": 110
       },
       {
        "type": "equal",
@@ -4771,7 +4771,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 106,
-       "new_pos": 112
+       "new_pos": 111
       },
       {
        "type": "equal",
@@ -4783,7 +4783,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 107,
-       "new_pos": 113
+       "new_pos": 112
       },
       {
        "type": "equal",
@@ -4795,7 +4795,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 108,
-       "new_pos": 114
+       "new_pos": 113
       },
       {
        "type": "equal",
@@ -4807,7 +4807,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 109,
-       "new_pos": 115
+       "new_pos": 114
       },
       {
        "type": "equal",
@@ -4819,7 +4819,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 110,
-       "new_pos": 116
+       "new_pos": 115
       },
       {
        "type": "equal",
@@ -4831,7 +4831,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 111,
-       "new_pos": 117
+       "new_pos": 116
       },
       {
        "type": "equal",
@@ -4843,7 +4843,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 112,
-       "new_pos": 118
+       "new_pos": 117
       },
       {
        "type": "equal",
@@ -4855,7 +4855,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 113,
-       "new_pos": 119
+       "new_pos": 118
       },
       {
        "type": "equal",
@@ -4867,7 +4867,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 114,
-       "new_pos": 120
+       "new_pos": 119
       },
       {
        "type": "equal",
@@ -4879,7 +4879,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 115,
-       "new_pos": 121
+       "new_pos": 120
       },
       {
        "type": "equal",
@@ -4891,7 +4891,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 116,
-       "new_pos": 122
+       "new_pos": 121
       },
       {
        "type": "equal",
@@ -4903,7 +4903,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 117,
-       "new_pos": 123
+       "new_pos": 122
       },
       {
        "type": "equal",
@@ -4915,7 +4915,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 118,
-       "new_pos": 124
+       "new_pos": 123
       },
       {
        "type": "equal",
@@ -4927,7 +4927,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 119,
-       "new_pos": 125
+       "new_pos": 124
       },
       {
        "type": "equal",
@@ -4939,7 +4939,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 120,
-       "new_pos": 126
+       "new_pos": 125
       },
       {
        "type": "equal",
@@ -4951,7 +4951,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 121,
-       "new_pos": 127
+       "new_pos": 126
       },
       {
        "type": "equal",
@@ -4963,7 +4963,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 122,
-       "new_pos": 128
+       "new_pos": 127
       },
       {
        "type": "equal",
@@ -4975,7 +4975,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 123,
-       "new_pos": 129
+       "new_pos": 128
       },
       {
        "type": "equal",
@@ -4987,7 +4987,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 124,
-       "new_pos": 130
+       "new_pos": 129
       },
       {
        "type": "equal",
@@ -4999,7 +4999,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 125,
-       "new_pos": 131
+       "new_pos": 130
       },
       {
        "type": "equal",
@@ -5011,7 +5011,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 126,
-       "new_pos": 132
+       "new_pos": 131
       },
       {
        "type": "equal",
@@ -5023,7 +5023,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 127,
-       "new_pos": 133
+       "new_pos": 132
       },
       {
        "type": "equal",
@@ -5035,7 +5035,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 128,
-       "new_pos": 134
+       "new_pos": 133
       },
       {
        "type": "equal",
@@ -5047,7 +5047,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 129,
-       "new_pos": 135
+       "new_pos": 134
       },
       {
        "type": "equal",
@@ -5059,7 +5059,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 130,
-       "new_pos": 136
+       "new_pos": 135
       },
       {
        "type": "equal",
@@ -5071,7 +5071,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 131,
-       "new_pos": 137
+       "new_pos": 136
       },
       {
        "type": "equal",
@@ -5083,7 +5083,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 132,
-       "new_pos": 138
+       "new_pos": 137
       },
       {
        "type": "equal",
@@ -5095,7 +5095,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 133,
-       "new_pos": 139
+       "new_pos": 138
       },
       {
        "type": "equal",
@@ -5107,7 +5107,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 134,
-       "new_pos": 140
+       "new_pos": 139
       },
       {
        "type": "equal",
@@ -5119,7 +5119,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 135,
-       "new_pos": 141
+       "new_pos": 140
       },
       {
        "type": "equal",
@@ -5131,7 +5131,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 136,
-       "new_pos": 142
+       "new_pos": 141
       },
       {
        "type": "equal",
@@ -5143,7 +5143,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 137,
-       "new_pos": 143
+       "new_pos": 142
       },
       {
        "type": "equal",
@@ -5155,7 +5155,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 138,
-       "new_pos": 144
+       "new_pos": 143
       },
       {
        "type": "equal",
@@ -5167,7 +5167,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 139,
-       "new_pos": 145
+       "new_pos": 144
       },
       {
        "type": "equal",
@@ -5179,7 +5179,7 @@
        "new_page": 27,
        "words": [],
        "old_pos": 140,
-       "new_pos": 146
+       "new_pos": 145
       },
       {
        "type": "modified",
@@ -5204,7 +5204,7 @@
         ]
        ],
        "old_pos": 142,
-       "new_pos": 148
+       "new_pos": 147
       },
       {
        "type": "equal",
@@ -5216,7 +5216,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 141,
-       "new_pos": 147
+       "new_pos": 146
       },
       {
        "type": "equal",
@@ -5228,7 +5228,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 143,
-       "new_pos": 149
+       "new_pos": 148
       },
       {
        "type": "equal",
@@ -5240,7 +5240,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 144,
-       "new_pos": 150
+       "new_pos": 149
       },
       {
        "type": "equal",
@@ -5252,7 +5252,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 145,
-       "new_pos": 151
+       "new_pos": 150
       },
       {
        "type": "equal",
@@ -5264,7 +5264,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 146,
-       "new_pos": 152
+       "new_pos": 151
       },
       {
        "type": "equal",
@@ -5276,7 +5276,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 147,
-       "new_pos": 153
+       "new_pos": 152
       },
       {
        "type": "equal",
@@ -5288,7 +5288,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 148,
-       "new_pos": 154
+       "new_pos": 153
       },
       {
        "type": "equal",
@@ -5300,7 +5300,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 149,
-       "new_pos": 155
+       "new_pos": 154
       },
       {
        "type": "equal",
@@ -5312,7 +5312,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 150,
-       "new_pos": 156
+       "new_pos": 155
       },
       {
        "type": "equal",
@@ -5324,7 +5324,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 151,
-       "new_pos": 157
+       "new_pos": 156
       },
       {
        "type": "equal",
@@ -5336,7 +5336,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 152,
-       "new_pos": 158
+       "new_pos": 157
       },
       {
        "type": "equal",
@@ -5348,7 +5348,7 @@
        "new_page": 28,
        "words": [],
        "old_pos": 153,
-       "new_pos": 159
+       "new_pos": 158
       }
      ]
     },
@@ -5639,7 +5639,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 26,
-       "new_pos": 25
+       "new_pos": 17
       },
       {
        "type": "modified",
@@ -5664,7 +5664,7 @@
         ]
        ],
        "old_pos": 27,
-       "new_pos": 26
+       "new_pos": 18
       },
       {
        "type": "modified",
@@ -5697,7 +5697,7 @@
        "new_page": 25,
        "words": [],
        "old_pos": 28,
-       "new_pos": 27
+       "new_pos": 19
       },
       {
        "type": "resplit",
@@ -5721,7 +5721,7 @@
        "new_page": 26,
        "words": [],
        "old_pos": 30,
-       "new_pos": 28
+       "new_pos": 20
       }
      ]
     },
@@ -5880,7 +5880,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 0,
-      "resplit": 1,
+      "resplit": 8,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -5895,7 +5895,7 @@
        "new_page": 22,
        "words": [],
        "old_pos": 9,
-       "new_pos": 12
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -5907,31 +5907,7 @@
        "new_page": 22,
        "words": [],
        "old_pos": 8,
-       "new_pos": 11
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.",
-       "new": "After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.",
-       "old_page": 22,
-       "new_page": 22,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.",
-       "new": "Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.",
-       "old_page": 22,
-       "new_page": 22,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 8
+       "new_pos": 6
       },
       {
        "type": "equal",
@@ -5943,7 +5919,7 @@
        "new_page": 22,
        "words": [],
        "old_pos": 3,
-       "new_pos": 6
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -5979,31 +5955,7 @@
        "new_page": 22,
        "words": [],
        "old_pos": 10,
-       "new_pos": 13
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.",
-       "new": "The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.",
-       "old_page": 22,
-       "new_page": 22,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!",
-       "new": "The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!",
-       "old_page": 22,
-       "new_page": 22,
-       "words": [],
-       "old_pos": 6,
-       "new_pos": 10
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -6015,19 +5967,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 18,
-       "new_pos": 21
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!",
-       "new": "...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 18
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -6039,7 +5979,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 14,
-       "new_pos": 17
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -6051,7 +5991,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 19,
-       "new_pos": 22
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -6063,7 +6003,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 21,
-       "new_pos": 24
+       "new_pos": 16
       },
       {
        "type": "equal",
@@ -6075,7 +6015,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 17,
-       "new_pos": 20
+       "new_pos": 12
       },
       {
        "type": "equal",
@@ -6087,7 +6027,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 20,
-       "new_pos": 23
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -6099,31 +6039,7 @@
        "new_page": 23,
        "words": [],
        "old_pos": 12,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "We got the test results after three days...and went back to the hospital. There was a different doctor that day.",
-       "new": "We got the test results after three days...and went back to the hospital. There was a different doctor that day.",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 16,
-       "new_pos": 19
-      },
-      {
-       "type": "equal",
-       "stream": "table",
-       "similarity": 1.0,
-       "old": "When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.",
-       "new": "When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.",
-       "old_page": 23,
-       "new_page": 23,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 16
+       "new_pos": 10
       },
       {
        "type": "equal",
@@ -6135,7 +6051,55 @@
        "new_page": 23,
        "words": [],
        "old_pos": 11,
-       "new_pos": 14
+       "new_pos": 9
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!",
+       "new": "...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 18
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.",
+       "new": "When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.",
+       "new": "After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.",
+       "old_page": 22,
+       "new_page": 22,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 8
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!",
+       "new": "The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!",
+       "old_page": 22,
+       "new_page": 22,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 11
       },
       {
        "type": "resplit",
@@ -6148,6 +6112,42 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 1
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.",
+       "new": "Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.",
+       "old_page": 22,
+       "new_page": 22,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 6
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.",
+       "new": "The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.",
+       "old_page": 22,
+       "new_page": 22,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 3
+      },
+      {
+       "type": "resplit",
+       "stream": "table>note",
+       "similarity": 1.0,
+       "old": "We got the test results after three days...and went back to the hospital. There was a different doctor that day.",
+       "new": "We got the test results after three days...and went back to the hospital. There was a different doctor that day.",
+       "old_page": 23,
+       "new_page": 23,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
       }
      ]
     },
@@ -12136,6 +12136,78 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "‘invisible’, ‘physically demanding’, and ‘time consuming’?",
+       "new": "‘invisible’, ‘physically demanding’, and ‘time consuming’?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "All societies do not think similarly about the roles that boys and girls play.",
+       "new": "All societies do not think similarly about the roles that boys and girls play.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. Are the statements given alongside true or false.",
+       "new": "1. Are the statements given alongside true or false.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "b.",
+       "new": "b.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "d.",
+       "new": "d.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Does this have any relationship to the roles children have to play as adults?",
+       "new": "Does this have any relationship to the roles children have to play as adults?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "EXERCISES",
        "new": "EXERCISES",
        "old_page": 53,
@@ -12143,6 +12215,198 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Give one example of each based on the household tasks undertaken by women in your home.",
+       "new": "Give one example of each based on the household tasks undertaken by women in your home.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. Housework is invisible and unpaid work.",
+       "new": "2. Housework is invisible and unpaid work.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Housework is physically demanding.",
+       "new": "Housework is physically demanding.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Housework is time consuming.",
+       "new": "Housework is time consuming.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "How many hours does she work?",
+       "new": "How many hours does she work?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "How much does she get paid?",
+       "new": "How much does she get paid?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "If there is a difference between the two lists, can you think of some reasons why this is so?",
+       "new": "If there is a difference between the two lists, can you think of some reasons why this is so?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members?",
+       "new": "4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "3. Make a list of toys and games that boys typically play and another for girls.",
+       "new": "3. Make a list of toys and games that boys typically play and another for girls.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Our society does not make distinctions between boys and girls when they are growing up.",
+       "new": "Our society does not make distinctions between boys and girls when they are growing up.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Support your answer with the use of an example – a.",
+       "new": "Support your answer with the use of an example – a.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "The work that women do is less valued than that of men.",
+       "new": "The work that women do is less valued than that of men.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Where is her home?",
+       "new": "Where is her home?",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "c. Women who stay at home do not work.",
+       "new": "c. Women who stay at home do not work.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Write a small story based on these details.",
+       "new": "Write a small story based on these details.",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Write in your own words what is meant by the terms",
+       "new": "Write in your own words what is meant by the terms",
+       "old_page": 53,
+       "new_page": 53,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
       }
      ]
     },
@@ -12163,61 +12427,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "‘invisible’, ‘physically demanding’, and ‘time consuming’?",
-       "new": "‘invisible’, ‘physically demanding’, and ‘time consuming’?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "All societies do not think similarly about the roles that boys and girls play.",
-       "new": "All societies do not think similarly about the roles that boys and girls play.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 3,
-       "new_pos": 3
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "1. Are the statements given alongside true or false.",
-       "new": "1. Are the statements given alongside true or false.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 1
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "b.",
-       "new": "b.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Besides physical tasks, they also involve a strong emotional aspect.",
        "new": "Besides physical tasks, they also involve a strong emotional aspect.",
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 30,
-       "new_pos": 30
+       "old_pos": 8,
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -12228,20 +12444,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 29,
-       "new_pos": 29
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "d.",
-       "new": "d.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 13
+       "old_pos": 7,
+       "new_pos": 7
       },
       {
        "type": "equal",
@@ -12252,20 +12456,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 31,
-       "new_pos": 31
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Does this have any relationship to the roles children have to play as adults?",
-       "new": "Does this have any relationship to the roles children have to play as adults?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 17,
-       "new_pos": 17
+       "old_pos": 9,
+       "new_pos": 9
       },
       {
        "type": "equal",
@@ -12276,8 +12468,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 26,
-       "new_pos": 26
+       "old_pos": 4,
+       "new_pos": 4
       },
       {
        "type": "equal",
@@ -12288,8 +12480,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 25,
-       "new_pos": 25
+       "old_pos": 3,
+       "new_pos": 3
       },
       {
        "type": "equal",
@@ -12300,20 +12492,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 32,
-       "new_pos": 32
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Give one example of each based on the household tasks undertaken by women in your home.",
-       "new": "Give one example of each based on the household tasks undertaken by women in your home.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 12
+       "old_pos": 10,
+       "new_pos": 10
       },
       {
        "type": "equal",
@@ -12331,97 +12511,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "2. Housework is invisible and unpaid work.",
-       "new": "2. Housework is invisible and unpaid work.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Housework is physically demanding.",
-       "new": "Housework is physically demanding.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Housework is time consuming.",
-       "new": "Housework is time consuming.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 8,
-       "new_pos": 8
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "How many hours does she work?",
-       "new": "How many hours does she work?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 20,
-       "new_pos": 20
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "How much does she get paid?",
-       "new": "How much does she get paid?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 21,
-       "new_pos": 21
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Identity: Identity is a sense of self-awareness of who one is.",
        "new": "Identity: Identity is a sense of self-awareness of who one is.",
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 23,
-       "new_pos": 23
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "If there is a difference between the two lists, can you think of some reasons why this is so?",
-       "new": "If there is a difference between the two lists, can you think of some reasons why this is so?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 16,
-       "new_pos": 16
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members?",
-       "new": "4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 18,
-       "new_pos": 18
+       "old_pos": 1,
+       "new_pos": 1
       },
       {
        "type": "equal",
@@ -12432,56 +12528,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 28
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "3. Make a list of toys and games that boys typically play and another for girls.",
-       "new": "3. Make a list of toys and games that boys typically play and another for girls.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Our society does not make distinctions between boys and girls when they are growing up.",
-       "new": "Our society does not make distinctions between boys and girls when they are growing up.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
        "old_pos": 6,
        "new_pos": 6
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Support your answer with the use of an example – a.",
-       "new": "Support your answer with the use of an example – a.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "The work that women do is less valued than that of men.",
-       "new": "The work that women do is less valued than that of men.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 14
       },
       {
        "type": "equal",
@@ -12492,8 +12540,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 27,
-       "new_pos": 27
+       "old_pos": 5,
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -12504,56 +12552,8 @@
        "old_page": 53,
        "new_page": 53,
        "words": [],
-       "old_pos": 24,
-       "new_pos": 24
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Where is her home?",
-       "new": "Where is her home?",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 19,
-       "new_pos": 19
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "c. Women who stay at home do not work.",
-       "new": "c. Women who stay at home do not work.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 9,
-       "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Write a small story based on these details.",
-       "new": "Write a small story based on these details.",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 22,
-       "new_pos": 22
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Write in your own words what is meant by the terms",
-       "new": "Write in your own words what is meant by the terms",
-       "old_page": 53,
-       "new_page": 53,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
+       "old_pos": 2,
+       "new_pos": 2
       }
      ]
     },
@@ -15810,6 +15810,30 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "3. “Poor girls drop out of school because they are not interested in getting an education.",
+       "new": "3. “Poor girls drop out of school because they are not interested in getting an education.",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. Can you describe two methods of struggle that the women’s movement used to raise issues?",
+       "new": "4. Can you describe two methods of struggle that the women’s movement used to raise issues?",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "EXERCISES",
        "new": "EXERCISES",
        "old_page": 67,
@@ -15817,6 +15841,66 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?",
+       "new": "1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about?",
+       "new": "If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about?",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.",
+       "new": "2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Re-read the last paragraph on page 62 and explain why this statement is not true.",
+       "new": "Re-read the last paragraph on page 62 and explain why this statement is not true.",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Why would you choose this particular method?",
+       "new": "Why would you choose this particular method?",
+       "old_page": 67,
+       "new_page": 67,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
       }
      ]
     },
@@ -15837,37 +15921,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "3. “Poor girls drop out of school because they are not interested in getting an education.",
-       "new": "3. “Poor girls drop out of school because they are not interested in getting an education.",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 3,
-       "new_pos": 3
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. Can you describe two methods of struggle that the women’s movement used to raise issues?",
-       "new": "4. Can you describe two methods of struggle that the women’s movement used to raise issues?",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Discrimination usually takes place when we treat some one differently or make a distinction.",
        "new": "Discrimination usually takes place when we treat some one differently or make a distinction.",
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 13,
-       "new_pos": 13
+       "old_pos": 6,
+       "new_pos": 6
       },
       {
        "type": "equal",
@@ -15878,8 +15938,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 11,
-       "new_pos": 11
+       "old_pos": 4,
+       "new_pos": 4
       },
       {
        "type": "equal",
@@ -15890,8 +15950,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 9,
-       "new_pos": 9
+       "old_pos": 2,
+       "new_pos": 2
       },
       {
        "type": "equal",
@@ -15909,61 +15969,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?",
-       "new": "1. How do you think stereotypes, about what women can or cannot do, affect women’s right to equality?",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 1
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about?",
-       "new": "If you had to organise a struggle against stereotypes, about what women can or cannot do, what method would you employ from the ones that you have read about?",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 6,
-       "new_pos": 6
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "It happens when people or organisations act on their prejudices.",
        "new": "It happens when people or organisations act on their prejudices.",
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 12,
-       "new_pos": 12
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.",
-       "new": "2. List one reason why learning the alphabet was so important to women like Rashsundari Devi, Ramabai and Rokeya.",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Re-read the last paragraph on page 62 and explain why this statement is not true.",
-       "new": "Re-read the last paragraph on page 62 and explain why this statement is not true.",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
+       "old_pos": 5,
+       "new_pos": 5
       },
       {
        "type": "equal",
@@ -15974,8 +15986,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 15,
-       "new_pos": 15
+       "old_pos": 8,
+       "new_pos": 8
       },
       {
        "type": "equal",
@@ -15986,8 +15998,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 8,
-       "new_pos": 8
+       "old_pos": 1,
+       "new_pos": 1
       },
       {
        "type": "equal",
@@ -15998,8 +16010,8 @@
        "old_page": 67,
        "new_page": 67,
        "words": [],
-       "old_pos": 10,
-       "new_pos": 10
+       "old_pos": 3,
+       "new_pos": 3
       },
       {
        "type": "equal",
@@ -16007,18 +16019,6 @@
        "similarity": 1.0,
        "old": "Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can say that he or she has committed a violation.",
        "new": "Violation: When someone forcefully breaks the law or a rule or openly shows disrespect, we can say that he or she has committed a violation.",
-       "old_page": 67,
-       "new_page": 67,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Why would you choose this particular method?",
-       "new": "Why would you choose this particular method?",
        "old_page": 67,
        "new_page": 67,
        "words": [],
@@ -18286,6 +18286,90 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "advertise their products",
+       "new": "advertise their products",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Also watch the coverage of this topic on TV news.",
+       "new": "Also watch the coverage of this topic on TV news.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this.",
+       "new": "4. As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "BIG BUSINESS HOUSES",
+       "new": "BIG BUSINESS HOUSES",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. Can you give this diagram a title?",
+       "new": "2. Can you give this diagram a title?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Compare two newspapers and write down the similarity and differences in their reports.",
+       "new": "Compare two newspapers and write down the similarity and differences in their reports.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "d.",
+       "new": "d.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "diagram?",
        "new": "diagram?",
        "old_page": 79,
@@ -18305,6 +18389,210 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "c. From whose point of view is the article being written?",
+       "new": "c. From whose point of view is the article being written?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. In what ways does the media play an important role in a democracy?",
+       "new": "1. In what ways does the media play an important role in a democracy?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "It might help to ask the following questions– MEDIA a.",
+       "new": "It might help to ask the following questions– MEDIA a.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Money, therefore, flows back to big business houses",
+       "new": "Money, therefore, flows back to big business houses",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "People buy products seen in the media.",
+       "new": "People buy products seen in the media.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "promotes products through advertisements",
+       "new": "promotes products through advertisements",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Provide two examples to support your point of view.",
+       "new": "Provide two examples to support your point of view.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "READERS,",
+       "new": "READERS,",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Some own radio, TV, newspaper",
+       "new": "Some own radio, TV, newspaper",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "the agenda’.",
+       "new": "the agenda’.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "VIEWERS, LISTENERS b.",
+       "new": "VIEWERS, LISTENERS b.",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What do you understand about the link between media and big business from this",
+       "new": "What do you understand about the link between media and big business from this",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What information is it leaving out?",
+       "new": "What information is it leaving out?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What information is this article providing?",
+       "new": "What information is this article providing?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What kind of effect does this have in a democracy?",
+       "new": "What kind of effect does this have in a democracy?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Whose point of view is being left out and why?",
+       "new": "Whose point of view is being left out and why?",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "3. You have read about the ways in which the media ‘sets",
+       "new": "3. You have read about the ways in which the media ‘sets",
+       "old_page": 79,
+       "new_page": 79,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
       }
      ]
     },
@@ -18325,68 +18613,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "advertise their products",
-       "new": "advertise their products",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 9,
-       "new_pos": 9
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Also watch the coverage of this topic on TV news.",
-       "new": "Also watch the coverage of this topic on TV news.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this.",
-       "new": "4. As a class project, decide to focus on a particular news topic and cut out stories from different newspapers on this.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 13
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "BIG BUSINESS HOUSES",
-       "new": "BIG BUSINESS HOUSES",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Broadcast: In this chapter this word is used to refer to a TV or radio programme that is widely transmitted.",
        "new": "Broadcast: In this chapter this word is used to refer to a TV or radio programme that is widely transmitted.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 27,
-       "new_pos": 27
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "2. Can you give this diagram a title?",
-       "new": "2. Can you give this diagram a title?",
        "old_page": 79,
        "new_page": 79,
        "words": [],
@@ -18402,44 +18630,8 @@
        "old_page": 79,
        "new_page": 79,
        "words": [],
-       "old_pos": 26,
-       "new_pos": 26
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Compare two newspapers and write down the similarity and differences in their reports.",
-       "new": "Compare two newspapers and write down the similarity and differences in their reports.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "d.",
-       "new": "d.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 23,
-       "new_pos": 23
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "c. From whose point of view is the article being written?",
-       "new": "c. From whose point of view is the article being written?",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 22,
-       "new_pos": 22
+       "old_pos": 2,
+       "new_pos": 2
       },
       {
        "type": "equal",
@@ -18457,128 +18649,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "1. In what ways does the media play an important role in a democracy?",
-       "new": "1. In what ways does the media play an important role in a democracy?",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 1
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "It might help to ask the following questions– MEDIA a.",
-       "new": "It might help to ask the following questions– MEDIA a.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 16,
-       "new_pos": 16
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Money, therefore, flows back to big business houses",
-       "new": "Money, therefore, flows back to big business houses",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Organising a rally, starting a signature campaign, blocking roads etc. are some of the ways in which this is done.",
        "new": "Organising a rally, starting a signature campaign, blocking roads etc. are some of the ways in which this is done.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 29,
-       "new_pos": 29
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "People buy products seen in the media.",
-       "new": "People buy products seen in the media.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 6,
-       "new_pos": 6
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "promotes products through advertisements",
-       "new": "promotes products through advertisements",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 18,
-       "new_pos": 18
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Provide two examples to support your point of view.",
-       "new": "Provide two examples to support your point of view.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 12
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Public protest: When a large number of people come together and openly state their opposition to some issue.",
-       "new": "Public protest: When a large number of people come together and openly state their opposition to some issue.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 28,
-       "new_pos": 28
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.",
-       "new": "Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 25,
-       "new_pos": 25
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "READERS,",
-       "new": "READERS,",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 19,
-       "new_pos": 19
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Some own radio, TV, newspaper",
-       "new": "Some own radio, TV, newspaper",
        "old_page": 79,
        "new_page": 79,
        "words": [],
@@ -18589,32 +18661,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "the agenda’.",
-       "new": "the agenda’.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "VIEWERS, LISTENERS b.",
-       "new": "VIEWERS, LISTENERS b.",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 20,
-       "new_pos": 20
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What do you understand about the link between media and big business from this",
-       "new": "What do you understand about the link between media and big business from this",
+       "old": "Public protest: When a large number of people come together and openly state their opposition to some issue.",
+       "new": "Public protest: When a large number of people come together and openly state their opposition to some issue.",
        "old_page": 79,
        "new_page": 79,
        "words": [],
@@ -18625,61 +18673,13 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "What information is it leaving out?",
-       "new": "What information is it leaving out?",
+       "old": "Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.",
+       "new": "Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.",
        "old_page": 79,
        "new_page": 79,
        "words": [],
-       "old_pos": 21,
-       "new_pos": 21
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What information is this article providing?",
-       "new": "What information is this article providing?",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 17,
-       "new_pos": 17
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What kind of effect does this have in a democracy?",
-       "new": "What kind of effect does this have in a democracy?",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Whose point of view is being left out and why?",
-       "new": "Whose point of view is being left out and why?",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 24,
-       "new_pos": 24
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "3. You have read about the ways in which the media ‘sets",
-       "new": "3. You have read about the ways in which the media ‘sets",
-       "old_page": 79,
-       "new_page": 79,
-       "words": [],
-       "old_pos": 8,
-       "new_pos": 8
+       "old_pos": 1,
+       "new_pos": 1
       }
      ]
     },
@@ -21067,6 +21067,78 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "a.",
+       "new": "a.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "b.",
+       "new": "b.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "3. Can you explain two ways in which you think advertising affects issues of equality in a democracy?",
+       "new": "3. Can you explain two ways in which you think advertising affects issues of equality in a democracy?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. Choose two of your favourite print advertisements.",
+       "new": "2. Choose two of your favourite print advertisements.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "d.",
+       "new": "d.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Divide the class into small groups and each group create an advertisement for this watch.",
+       "new": "Divide the class into small groups and each group create an advertisement for this watch.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "EXERCISES",
        "new": "EXERCISES",
        "old_page": 91,
@@ -21074,6 +21146,150 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "If you could not afford the brand that is being advertised how would you feel?",
+       "new": "If you could not afford the brand that is being advertised how would you feel?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Let us imagine a situation in which a manufacturer has just made a new watch.",
+       "new": "Let us imagine a situation in which a manufacturer has just made a new watch.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "List two reasons why building brands is central to advertising?",
+       "new": "List two reasons why building brands is central to advertising?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. Making an advertisement requires a lot of creativity.",
+       "new": "4. Making an advertisement requires a lot of creativity.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Now, look at each of these and answer the following questions:",
+       "new": "Now, look at each of these and answer the following questions:",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Share it with the class.",
+       "new": "Share it with the class.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "She comes to your class and asks you all to create a brand name as well as an advertisement for the watch.",
+       "new": "She comes to your class and asks you all to create a brand name as well as an advertisement for the watch.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "She says that she wants to sell this watch to school children.",
+       "new": "She says that she wants to sell this watch to school children.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. What do you understand by the word brand?",
+       "new": "1. What do you understand by the word brand?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What values are being promoted in these advertisements?",
+       "new": "What values are being promoted in these advertisements?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "What visuals and text is being used in these advertisements to attract my attention?",
+       "new": "What visuals and text is being used in these advertisements to attract my attention?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "c. Who is this advertisement speaking to and who is it leaving out?",
+       "new": "c. Who is this advertisement speaking to and who is it leaving out?",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
       }
      ]
     },
@@ -21094,56 +21310,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "a.",
-       "new": "a.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 5,
-       "new_pos": 5
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "b.",
-       "new": "b.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 7,
-       "new_pos": 7
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Brand: This refers to a special identification or name that is associated with a product.",
        "new": "Brand: This refers to a special identification or name that is associated with a product.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 21,
-       "new_pos": 21
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "3. Can you explain two ways in which you think advertising affects issues of equality in a democracy?",
-       "new": "3. Can you explain two ways in which you think advertising affects issues of equality in a democracy?",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 12,
-       "new_pos": 12
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "2. Choose two of your favourite print advertisements.",
-       "new": "2. Choose two of your favourite print advertisements.",
        "old_page": 91,
        "new_page": 91,
        "words": [],
@@ -21159,32 +21327,8 @@
        "old_page": 91,
        "new_page": 91,
        "words": [],
-       "old_pos": 20,
-       "new_pos": 20
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "d.",
-       "new": "d.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 10,
-       "new_pos": 10
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Divide the class into small groups and each group create an advertisement for this watch.",
-       "new": "Divide the class into small groups and each group create an advertisement for this watch.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 17,
-       "new_pos": 17
+       "old_pos": 2,
+       "new_pos": 2
       },
       {
        "type": "equal",
@@ -21202,176 +21346,8 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "If you could not afford the brand that is being advertised how would you feel?",
-       "new": "If you could not afford the brand that is being advertised how would you feel?",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 11
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Let us imagine a situation in which a manufacturer has just made a new watch.",
-       "new": "Let us imagine a situation in which a manufacturer has just made a new watch.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 14,
-       "new_pos": 14
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
        "old": "Lifestyle: In this chapter, this word refers to people’s lives being identified by the products they own, the clothes they wear, the places they eat in, etc.",
        "new": "Lifestyle: In this chapter, this word refers to people’s lives being identified by the products they own, the clothes they wear, the places they eat in, etc.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 24,
-       "new_pos": 24
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "List two reasons why building brands is central to advertising?",
-       "new": "List two reasons why building brands is central to advertising?",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "4. Making an advertisement requires a lot of creativity.",
-       "new": "4. Making an advertisement requires a lot of creativity.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 13
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Now, look at each of these and answer the following questions:",
-       "new": "Now, look at each of these and answer the following questions:",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Product: This refers to a thing or service that has been made for being sold in the market.",
-       "new": "Product: This refers to a thing or service that has been made for being sold in the market.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 19,
-       "new_pos": 19
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Share it with the class.",
-       "new": "Share it with the class.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 18,
-       "new_pos": 18
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "She comes to your class and asks you all to create a brand name as well as an advertisement for the watch.",
-       "new": "She comes to your class and asks you all to create a brand name as well as an advertisement for the watch.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 16,
-       "new_pos": 16
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "She says that she wants to sell this watch to school children.",
-       "new": "She says that she wants to sell this watch to school children.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 15,
-       "new_pos": 15
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "Such identification is created through the process of advertising.",
-       "new": "Such identification is created through the process of advertising.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 22,
-       "new_pos": 22
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "To influence: This refers to the power to change what someone believes or does.",
-       "new": "To influence: This refers to the power to change what someone believes or does.",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 23,
-       "new_pos": 23
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "1. What do you understand by the word brand?",
-       "new": "1. What do you understand by the word brand?",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 1,
-       "new_pos": 1
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What values are being promoted in these advertisements?",
-       "new": "What values are being promoted in these advertisements?",
-       "old_page": 91,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 8,
-       "new_pos": 8
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "What visuals and text is being used in these advertisements to attract my attention?",
-       "new": "What visuals and text is being used in these advertisements to attract my attention?",
        "old_page": 91,
        "new_page": 91,
        "words": [],
@@ -21382,13 +21358,37 @@
        "type": "equal",
        "stream": "glossary",
        "similarity": 1.0,
-       "old": "c. Who is this advertisement speaking to and who is it leaving out?",
-       "new": "c. Who is this advertisement speaking to and who is it leaving out?",
+       "old": "Product: This refers to a thing or service that has been made for being sold in the market.",
+       "new": "Product: This refers to a thing or service that has been made for being sold in the market.",
        "old_page": 91,
        "new_page": 91,
        "words": [],
-       "old_pos": 9,
-       "new_pos": 9
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "glossary",
+       "similarity": 1.0,
+       "old": "Such identification is created through the process of advertising.",
+       "new": "Such identification is created through the process of advertising.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "glossary",
+       "similarity": 1.0,
+       "old": "To influence: This refers to the power to change what someone believes or does.",
+       "new": "To influence: This refers to the power to change what someone believes or does.",
+       "old_page": 91,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
       }
      ]
     },

@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch02.pdf"
 source_sha256: "d53249402fae54c6e8d24c09b14a9a075e02e37f676cf64cd2983eace7c7cd99"
 pdf_pages: 13
 printed_pages: "95-107"
-body_fingerprint: "4b70f6007b826199c1dce43537a96d97d965b93516cd119595f8f1e2c9d6b652"
+body_fingerprint: "99bd4bf6160b1cb2ebdbb9db9125efea6272a29b314479ed115a6acc6f6168ff"
 ---
 
 <!-- page 95 (pdf 1) -->
@@ -122,17 +122,17 @@ We must emphatically declare that the education which we desire to see extended 
 
 <!-- page 100 (pdf 6) -->
 
-The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
-
-Until 1813, the East India Company was opposed to missionary activities in India. It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India. Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company. A printing press was set up in 1800 and a college established in 1818.
-
-Over the nineteenth century, missionary schools were set up all over India. After 1857, however, the British government in India was reluctant to directly support missionary education. There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.
-
-> [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
-
 ### The demand for moral education
 
 > [caption] Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission
+
+> [caption] Fig. 7 – Serampore College on the banks of the river Hooghly near Calcutta
+
+> [note] The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century. The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.
+
+> [note] Until 1813, the East India Company was opposed to missionary activities in India. It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India. Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company. A printing press was set up in 1800 and a college established in 1818.
+
+> [note] Over the nineteenth century, missionary schools were set up all over India. After 1857, however, the British government in India was reluctant to directly support missionary education. There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.
 
 <!-- page 101 (pdf 7) -->
 

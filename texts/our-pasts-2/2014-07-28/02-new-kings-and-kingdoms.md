@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-2/2014-07-28/ch02.pdf"
 source_sha256: "24a01092286211039ab75f0105d11bcb0479880235968fc3aad0eb5a2c543ff6"
 pdf_pages: 14
 printed_pages: "16-29"
-body_fingerprint: "af617e8cf19853660912fc7999a861c72d94c9261e76c553135c84cc1113f503"
+body_fingerprint: "05bd3d3ed00d1b927c87a1e9c4ed32cc7e734deb0f3343263d1b3780a83ea190"
 ---
 
 <!-- page 16 (pdf 1) -->
@@ -115,7 +115,7 @@ Sultan is an Arabic term meaning ruler.
 
 ## A closer look–The Cholas
 
-From Uraiyur to Thanjavur
+### From Uraiyur to Thanjavur
 
 How did the Cholas rise to power? A minor chiefly family known as the Muttaraiyar held power in the Kaveri delta. They were subordinate to the Pallava kings of Kanchipuram. Vijayalaya, who belonged to the ancient chiefly family of the Cholas from Uraiyur, captured the delta from the Muttaraiyar in the middle of the ninth century. He built the town of Thanjavur and a temple for goddess Nishumbhasudini there.
 
@@ -127,7 +127,7 @@ The successors of Vijayalaya conquered neighbouring regions and the kingdom grew
 
 Rajaraja I, considered the most powerful Chola ruler, became king in 985 and expanded control over most of these areas. He also reorganised the administration of the empire. Rajaraja’s son Rajendra I continued his policies and even raided the Ganga valley, Sri Lanka and countries of Southeast Asia, developing a navy for these expeditions.
 
-Splendid temples and bronze sculpture
+### Splendid temples and bronze sculpture
 
 The big temples of Thanjavur and Gangaikonda-cholapuram, built by Rajaraja and Rajendra, are architectural and sculptural marvels.
 
@@ -155,7 +155,7 @@ Although agriculture had developed earlier in other parts of Tamil Nadu, it was 
 
 In many cases it was necessary to water crops artificially. A variety of methods were used for irrigation. In some areas wells were dug. In other places huge tanks were constructed to collect rainwater. Remember that irrigation works require planning – organising labour and resources, maintaining these works and deciding on how water is to be shared. Most of the new rulers, as well as people living in villages, took an active interest in these activities.
 
-The administration of the empire
+### The administration of the empire
 
 How was the administration organised? Settlements of peasants, known as ur, became prosperous with the spread of irrigation agriculture. Groups of such villages formed larger units called nadu. The village council and the nadu had several administrative functions including dispensing justice and collecting taxes.
 

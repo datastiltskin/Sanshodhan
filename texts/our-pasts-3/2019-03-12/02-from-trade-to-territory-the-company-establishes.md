@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part1-ch02.pdf"
 source_sha256: "c29c3cb33e35876cf0d0aa3f6ea760793263b07733cffe5ae0b5a22174c6e1b0"
 pdf_pages: 17
 printed_pages: "9-25"
-body_fingerprint: "622b471c7c763af31c7f06387c4526c46ff96bebd3040dc521687a578e13be8e"
+body_fingerprint: "4e16286eca1590f32e31f1e19d26138fb9d503e3bf50f47cceafe9f2bec1a4a1"
 ---
 
 <!-- page 9 (pdf 1) -->
@@ -60,7 +60,7 @@ Puppet – Literally, a toy that you can move with strings. The term is used dis
 
 Did you know?
 
-Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
+> [note] Did you know how Plassey got its name? Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.
 
 ### How trade led to battles
 
@@ -182,7 +182,7 @@ Fig. 9 – Cornwallis receiving the sons of Tipu Sultan as hostages, painted by 
 
 ### The legend of Tipu
 
-Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally he was able to kill the tiger in the battle. After this he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
+> [note] Kings are often surrounded by legend and their powers glorified through folklore. Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782. It is said that once he went hunting in the forest with a French friend. There he came face to face with a tiger. His gun did not work and his dagger fell to the ground. He battled with the tiger unarmed until he managed to reach down and pick up the dagger. Finally he was able to kill the tiger in the battle. After this he came to be known as the “Tiger of Mysore”. He had the image of the tiger on his flag.
 
 <!-- page 18 (pdf 10) -->
 
@@ -242,7 +242,7 @@ Imagine that you are a nawab’s nephew and have been brought up thinking that y
 
 Warren Hastings (Governor-General from 1773 to 1785) was one of the many important figures who played a significant role in the expansion of Company power. By his time the Company had acquired power not only in Bengal, but also in Bombay and Madras. British territories were broadly divided into administrative units called Presidencies. There were three Presidencies: Bengal, Madras and Bombay. Each was ruled by a Governor. The supreme head of the administration was the Governor-General. Warren Hastings, the first Governor-General, introduced several administrative reforms, notably in the sphere of justice.
 
-From 1772 a new system of justice was established. Each district was to have two courts – a criminal court ( faujdari adalat ) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
+From 1772 a new system of justice was established. Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat). Maulvis and Hindu pandits interpreted Indian laws for the European district collectors who presided over civil courts. The criminal courts were still under a qazi and a mufti but under the supervision of the collectors.
 
 > [caption] Fig. 15 – The trial of Warren Hastings, painted by R.G. Pollard, 1789
 

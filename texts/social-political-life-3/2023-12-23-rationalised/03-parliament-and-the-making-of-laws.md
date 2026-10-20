@@ -345,6 +345,8 @@ Repressive: To control severely in order to prevent free and natural development
 
 3. You have read in Chapter 1 that the ‘Parliamentary form of government’ that exists in India has three tiers. This includes the Parliament (central government) and the various State Legislatures (state governments). Fill in the following table with information on the various representatives from your area:
 
+<!-- section: glossary -->
+
 > [caption] Source: www.eci.gov.in
 
 > [table] State Government Central Government
@@ -360,5 +362,7 @@ Repressive: To control severely in order to prevent free and natural development
 > [table] When will the next elections be held?
 
 > [table] How many women representatives are there (from your state)?
+
+<!-- section: exercises -->
 
 > [table] 4. Re-read the storyboard on how a new law on domestic violence got passed. Describe in your own words the different ways in which women’s groups worked to make this happen.

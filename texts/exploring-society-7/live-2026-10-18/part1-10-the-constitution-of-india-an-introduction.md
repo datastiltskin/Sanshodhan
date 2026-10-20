@@ -11,7 +11,7 @@ source_pdf: "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf"
 source_sha256: "95b0b011965ec53f99a3e70b58e3c53b1473d9bcb7a47d8befd2454bcfae117b"
 pdf_pages: 20
 printed_pages: "209-228"
-body_fingerprint: "28eafa93ecd7965942583c1e59b10e3eee469362be97ad1de3bc08320d5702f6"
+body_fingerprint: "a98dc825c62be77540a3badb64e338c36fa9389247bc8b4abe899e5dd967ac84"
 overrides:
   - "part 1 chapter 10, page 222: the Fig. 10.14 columns had been read line by line across each other, rebuilt from the page image"
   - "part 1 chapter 10, page 225: the Preamble box was outlined type read as OCR noise and run together with the margin notes, rebuilt from the page image"
@@ -128,7 +128,7 @@ The initial text of the Constitution was prepared by a Drafting Committee chaire
 
 ### LET’S EXPLORE
 
-In small groups, try to find out the names of people from your region who may have participated in the making of the Constitution. What sources can you use to gather this information? (Hint: Look for books in your school or local library. You could also ask your teacher, parents and other elders in the neighbourhood. Explore https://sansad.in/ls/ about/constituent-assembly )
+In small groups, try to find out the names of people from your region who may have participated in the making of the Constitution. What sources can you use to gather this information? (Hint: Look for books in your school or local library. You could also ask your teacher, parents and other elders in the neighbourhood. Explore https://sansad.in/ls/ about/constituent-assembly)
 
 ## What Shaped and Influenced the Indian Constitution?
 

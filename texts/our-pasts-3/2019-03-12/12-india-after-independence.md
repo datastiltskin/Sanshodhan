@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch06.pdf"
 source_sha256: "292aaeb765772c3b77ec811ad1ea2c7c607daacc6e2d955f867933800c110b51"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "ef3890f56dbd6385ee962b88a0b459785d5dec89906a7239487d27b7114819e1"
+body_fingerprint: "4248715981cbc77550d4a34fc6a32c0d6d6b2e92fe88eb88e9dd082f0d2aaa96"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -170,11 +170,11 @@ Discuss in your class whether Mira Behn was right in her view that science and m
 
 ### The search for an independent foreign policy
 
-India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
+> [note] India gained freedom soon after the devastations of the Second World War. At that time a new international body – the United Nations – formed in 1945 was in its infancy. The 1950s and 1960s saw the emergence of the Cold War, that is, power rivalries and ideological conflicts between the USA and the USSR, with both countries creating military alliances. This was also the period when colonial empires were collapsing and many countries were attaining independence. Prime Minister Jawaharlal Nehru, who was also the foreign minister of newly independent India, developed free India’s foreign policy in this context. Non-alignment formed the bedrock of this foreign policy.
 
-Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war—often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
+> [note] Led by statesmen from Egypt, Yugoslavia, Indonesia, Ghana and India, the non-aligned movement urged countries not to join either of the two major alliances. But this policy of staying away from alliances was not a matter of remaining “isolated” or “neutral”. The former means remaining aloof from world affairs whereas non-aligned countries such as India played an active role in mediating between the American and Soviet alliances. They tried to prevent war—often taking a humanitarian and moral stand against war. However, for one reason or another, many non-aligned countries including India got involved in wars.
 
-By the 1970s, a large number of countries had joined the non-aligned movement.
+> [note] By the 1970s, a large number of countries had joined the non-aligned movement.
 
 > [caption] Fig. 9 – Jawaharlal Nehru and Krishna Menon arriving at the United Nations Krishna Menon led the Indian delegation to the UN between 1952 and 1962 and argued for a policy of non-alignment.
 
@@ -288,7 +288,7 @@ Aman Nath and Jay Vithalani, Horizons: The Tata-India Century, 1904-2004 (Ch. 7,
 
 C.A. Bayly, ed., An Illustrated History of Modern India, 1600-1947
 
-(Ch. 7, Fig.11; Ch. 8, Figs. 2, 4, 6; Ch. 10, Figs. 6, 7, 17, 22; Ch. 11, Figs. 3, 4, 5, 10 )
+(Ch. 7, Fig.11; Ch. 8, Figs. 2, 4, 6; Ch. 10, Figs. 6, 7, 17, 22; Ch. 11, Figs. 3, 4, 5, 10)
 
 Jan Breman, Labour Bondage in Western India (Ch. 9, Fig. 11)
 

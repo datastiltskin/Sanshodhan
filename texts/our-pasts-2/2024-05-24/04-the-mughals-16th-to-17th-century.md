@@ -204,9 +204,9 @@ Like the Mughal Empire, India today is also made up of many social and cultural 
 
 > [caption] 10.
 
-11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
-
 <!-- section: exercises -->
+
+11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
 
 ### Let’s do
 

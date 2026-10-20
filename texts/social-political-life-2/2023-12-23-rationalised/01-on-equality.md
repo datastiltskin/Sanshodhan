@@ -119,6 +119,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. In a democracy why is universal adult franchise important?
 
 > [note] 2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?
@@ -132,6 +134,8 @@ Glossary
 > [note] free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.
 
 > [note] Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?
+
+<!-- section: glossary -->
 
 > [note] Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.
 

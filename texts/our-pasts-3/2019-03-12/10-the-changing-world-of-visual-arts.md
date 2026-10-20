@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch04.pdf"
 source_sha256: "d35871d0492cc3b45091655152b9955723ce685996b6470ae640b1f7fa41e923"
 pdf_pages: 18
 printed_pages: "123-140"
-body_fingerprint: "a3724cb90707737718ca29639f0b8c4ecd32b524d6bf5166bfac59a0971f2502"
+body_fingerprint: "a1755716db0c0081c522649c0faaf31eb57ea05c1f0354ed70cb0ab43ff9feba"
 overrides:
   - "hidden stray text on page 127 between the nawab paragraph and the heading Painting history, nothing is printed there"
 ---
@@ -200,17 +200,17 @@ These types of popular pictures were printed and circulated in other parts of In
 
 ### Photographing India
 
-You have seen how European painters created a variety of images of India. Such images were being produced by photographers as well.
+> [caption] Fig. 20 – Sati Chaura Ghat, Kanpur, photograph by Samuel Bourne, 1865
 
-By the mid-nineteenth century photographers from Europe began travelling to India, taking pictures, setting up studios, and establishing photographic societies to promote the art of photography. Some of them were portrait painters who began taking photographs of imperial officials, presenting them as figures of authority and power. Others travelled around the country searching for ruined buildings and picturesque landscapes, very much like some of the painters we have discussed. Yet others recorded moments of British military triumph. There were also those who recorded the cultural diversity of India in ways that tried to show how India was a primitive country.
+> [caption] Samuel Bourne came to India in the early 1860s and set up one of the most famous photographic studios in Calcutta, known as Bourne and Shephard. Compare this photograph with Fig. 2. Notice how the painter and the photographer are both fascinated by the image of ruins.
+
+> [note] You have seen how European painters created a variety of images of India. Such images were being produced by photographers as well.
+
+> [note] By the mid-nineteenth century photographers from Europe began travelling to India, taking pictures, setting up studios, and establishing photographic societies to promote the art of photography. Some of them were portrait painters who began taking photographs of imperial officials, presenting them as figures of authority and power. Others travelled around the country searching for ruined buildings and picturesque landscapes, very much like some of the painters we have discussed. Yet others recorded moments of British military triumph. There were also those who recorded the cultural diversity of India in ways that tried to show how India was a primitive country.
 
 > [caption] Fig. 19 – The Horse Regiment led by William Hodson, which played an important role in suppressing the 1857 revolt, photograph by Felice Bearto, 1858
 
 > [caption] Notice the way the British officer is shown at the centre, standing in an assertive and authoritative way, while his soldiers gather around him.
-
-> [caption] Fig. 20 – Sati Chaura Ghat, Kanpur, photograph by Samuel Bourne, 1865
-
-> [caption] Samuel Bourne came to India in the early 1860s and set up one of the most famous photographic studios in Calcutta, known as Bourne and Shephard. Compare this photograph with Fig. 2. Notice how the painter and the photographer are both fascinated by the image of ruins.
 
 > [caption] Fig. 21 – A nationlist demonstration in a Bombay street, photograph by Vikar By the late nineteenth century Indian photographers began taking pictures that often offer us a different image of India. They recorded the nationalist marches and meetings, as well as the everyday life of the people.
 
@@ -218,9 +218,9 @@ By the mid-nineteenth century photographers from Europe began travelling to Indi
 
 ### New buildings and new styles
 
-With British rule, architectural styles also changed. New styles were introduced as new cities were built, new buildings came up.
+> [note] With British rule, architectural styles also changed. New styles were introduced as new cities were built, new buildings came up.
 
-Look at Fig. 22. The pointed arches in the buildings and the elongated structures are typical of a style known as Gothic. The new buildings that came up in the mid-nineteenth century in Bombay, were mostly in this style. Now compare this building with that in Fig. 23. The rounded arches and the pillars that you see were typical of another style that the British used in Calcutta. It was borrowed from the Classical style of Greece and Rome. The British wanted their buildings to express their power and glory, and their cultural achievements.
+> [note] Look at Fig. 22. The pointed arches in the buildings and the elongated structures are typical of a style known as Gothic. The new buildings that came up in the mid-nineteenth century in Bombay, were mostly in this style. Now compare this building with that in Fig. 23. The rounded arches and the pillars that you see were typical of another style that the British used in Calcutta. It was borrowed from the Classical style of Greece and Rome. The British wanted their buildings to express their power and glory, and their cultural achievements.
 
 > [caption] Fig. 23 – Central Post Office, Calcutta, built in the1860s
 
@@ -272,11 +272,11 @@ The effort to define what ought to be an authentic Indian style of art continued
 
 ### Kakuzo and the movement for an Asian art
 
-In 1904, Okakura Kakuzo published a book in Japan called The Ideals of the East. This book is famous for its opening lines: “Asia is one.” Okakura argued that Asia had been humiliated by the West and Asian nations had to collectively resist Western domination.
+> [note] In 1904, Okakura Kakuzo published a book in Japan called The Ideals of the East. This book is famous for its opening lines: “Asia is one.” Okakura argued that Asia had been humiliated by the West and Asian nations had to collectively resist Western domination.
 
-Okakura researched on Japanese art and emphasised the need to save traditional techniques of traditional Japanese art at a time they were being replaced by Western-style painting. He tried to define what modern art could be and how tradition could be retained and modernised. He was the principal founder of the first Japanese art academy.
+> [note] Okakura researched on Japanese art and emphasised the need to save traditional techniques of traditional Japanese art at a time they were being replaced by Western-style painting. He tried to define what modern art could be and how tradition could be retained and modernised. He was the principal founder of the first Japanese art academy.
 
-Okakura visited Santiniketan and had a powerful influence on Rabindranath Tagore and Abanindranath Tagore.
+> [note] Okakura visited Santiniketan and had a powerful influence on Rabindranath Tagore and Abanindranath Tagore.
 
 > [caption] Fig. 28 Pine trees, painted by Hasegawa Tohaku, sixteenth century
 

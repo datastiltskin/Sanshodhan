@@ -4,7 +4,7 @@
   "editions": [
     {
       "id": "live-2026-10-18",
-      "fingerprint": "950a2de560a1543eb6093ff9d311de4a07e468eb8c7b651075c76c1d2ea75015",
+      "fingerprint": "a3509c680fe7a8ebf5d4b889c03ae38d86220d021bcd186c4c4ec77844c171a8",
       "snapshots": [
         "live-2026-10-18"
       ],
@@ -273,7 +273,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part1-ch10.pdf",
           "pdf_pages": 20,
           "printed_pages": "209-228",
-          "fingerprint": "28eafa93ecd7965942583c1e59b10e3eee469362be97ad1de3bc08320d5702f6",
+          "fingerprint": "a98dc825c62be77540a3badb64e338c36fa9389247bc8b4abe899e5dd967ac84",
           "role_counts": {
             "footer": 43,
             "h2": 21,
@@ -530,7 +530,7 @@
           "pdf": "pdfs/exploring-society-7/live-2026-10-18/part2-ch08.pdf",
           "pdf_pages": 20,
           "printed_pages": "193-212",
-          "fingerprint": "cfb04118af110540928e8e25611ccf7b9488ce2a34256e67a4c64243c3d4d615",
+          "fingerprint": "46ba60b891918edb545211153245222e4f6b1f96839baf701e5034deea9a4c39",
           "role_counts": {
             "footer": 40,
             "h2": 12,

@@ -249,9 +249,9 @@ Durgawati paik
 
 <!-- page 103 (pdf 13) -->
 
-7. How did tribal societies change after being organised into a state?
-
 <!-- section: exercises -->
+
+7. How did tribal societies change after being organised into a state?
 
 ### Let’s discuss
 

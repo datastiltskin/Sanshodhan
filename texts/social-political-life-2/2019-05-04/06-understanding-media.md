@@ -53,15 +53,15 @@ Newspapers, television and radio can reach millions of people because they use c
 
 Changing technology, or machines, and making technology more modern, helps media to reach more people. It also improves the quality of sound and the images that you see. But technology does more than this. It also changes the ways in which we think about our lives. For example, today it is quite difficult for us to think of our lives without television. Television has enabled us to think of ourselves as members of a larger global world. Television images travel huge distances through satellites and cables. This allows us to view news and entertainment channels from other parts of the world. Most of the cartoons that you see on television are mostly from Japan or the United States. We can now be sitting in Chennai or Jammu and can see images of a storm that has hit the coast of Florida in the United States. Television has brought the world closer to us.
 
-> [table] Look at the collage on the left and list six various kinds of media that you see.
+> [note] Look at the collage on the left and list six various kinds of media that you see.
 
 An artist’s impression of Gutenberg printing the first sheet of the Bible.
 
-> [table] Ask older members of your family about what they used to listen to on the radio when there was no TV around. Find out from them when the first TV came to your area. When was cable TV introduced?
+> [note] Ask older members of your family about what they used to listen to on the radio when there was no TV around. Find out from them when the first TV came to your area. When was cable TV introduced?
 
-> [table] How many people in your neighbourhood use the Internet?
+> [note] How many people in your neighbourhood use the Internet?
 
-> [table] List three things that you know about some other part of the world from watching television?
+> [note] List three things that you know about some other part of the world from watching television?
 
 <!-- page 72 (pdf 5) -->
 
@@ -69,11 +69,11 @@ With electronic typerwriters, journalism underwent a sea-change in the 1940s.
 
 John L. Baird sits in front of the apparatus with which he demonstrated to the Royal Institute, his invention, the ‘televisor’, an early television.
 
-> [table] Can you list three different products that are advertised during your favourite TV programme?
+> [note] Can you list three different products that are advertised during your favourite TV programme?
 
-> [table] Take a newspaper and count the number of advertisements in it.
+> [note] Take a newspaper and count the number of advertisements in it.
 
-> [table] Some people say that newspapers have too many advertisements. Do you think this is true and why?
+> [note] Some people say that newspapers have too many advertisements. Do you think this is true and why?
 
 Media and money
 
@@ -117,23 +117,23 @@ units are not legal.
 
 The fact is that if you had read either newspaper you would only know one side of the story. If you had read the News of India, you would most likely think of the protestors as a nuisance. Their disrupting traffic and continually polluting the city with their factories leaves you with a bad impression about them. But on the other hand, if you had read the story in the India Daily, you would know that the protests are because a lot of livelihoods will be lost if the factories close because the relocation efforts have not been adequate. Neither of these stories is a balanced report. A balanced report is one that discusses all points of view of a particular story and then leaves it to the readers to make up their minds.
 
-> [table] Are the above stories in the two newspapers similar? And if not, why not? What, in your view, are the similarities and the differences?
+> [note] Are the above stories in the two newspapers similar? And if not, why not? What, in your view, are the similarities and the differences?
 
-> [table] If you read the story in the News of India, what would you think about the issue?
+> [note] If you read the story in the News of India, what would you think about the issue?
 
 Writing a balanced report, however, depends on the media being independent. An independent media means that no one should control and influence its coverage of news. No one should tell the media what can be included and what should not be included in a news story. An independent media is important in a democracy. As you read above, it is on the basis of the information that the media provides that we take action as citizens, so it is important that this information is reliable and not biased.
 
 <!-- page 75 (pdf 8) -->
 
-> [table] Do you think it is important to know both sides of the story?
+> [note] Do you think it is important to know both sides of the story?
 
-> [table] Why?
+> [note] Why?
 
-> [table] Pretend that you are a journalist for a newspaper and write a
+> [note] Pretend that you are a journalist for a newspaper and write a
 
 However, the reality is that media is far from independent. This is mainly because of two reasons. The first is the control that the government has on the media. When the government prevents either a news item, or scenes from a movie, or the lyrics of a song from being shared with the larger public, this is referred to as censorship. There have been periods in Indian history when the government censored the media. The worst of these was the Emergency between 1975-1977.
 
-> [table] balanced story from the two news reports.
+> [note] balanced story from the two news reports.
 
 What does TV do to us and what can we do with TV?
 
@@ -159,13 +159,13 @@ There are several instances when the media fails to focus on issues that are sig
 
 Fashion shows are very popular with the media.
 
-> [table] What is the consequence of the media ‘setting the agenda’ by reporting on the Fashion Week rather than the slum demolitions?
+> [note] What is the consequence of the media ‘setting the agenda’ by reporting on the Fashion Week rather than the slum demolitions?
 
-> [table] Can you think of an issue that
+> [note] Can you think of an issue that
 
 As citizens of a democracy, the media has a very important role to play in our lives because it is through the media that we hear about issues related Local media Recognising that the media will not be interested in covering ‘small’ issues that involve ordinary people and their daily lives, several local groups have come forward to start their own media. Several people use community radio to tell farmers about the prices of different crops and advise them on the use of seeds and fertilisers. Others make documentary films with fairly cheap and easily available video cameras on real-life conditions faced by different poor communities, and, at times, have even given the poor these video cameras to make films on their own lives.
 
-> [table] does not seem important to you because it is never featured in the media?
+> [note] does not seem important to you because it is never featured in the media?
 
 Another example is a newspaper called Khabar Lahriya which is a fortnightly that is run by eight Dalit women in Chitrakoot district in Uttar Pradesh. Written in the local language, Bundeli, this eight-page newspaper reports on Dalit issues and cases of violence against women and political corruption. The newspaper reaches farmers, shopkeepers, panchayat members, school teachers and women who have recently learnt to read and write.
 

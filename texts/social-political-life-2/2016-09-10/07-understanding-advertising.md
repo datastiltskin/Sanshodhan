@@ -198,6 +198,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. What do you understand by the word brand? List two reasons why building brands is central to advertising?
 
 > [note] 2. Choose two of your favourite print advertisements. Now, look at each of these and answer the following questions:
@@ -213,6 +215,8 @@ Glossary
 > [note] 3. Can you explain two ways in which you think advertising affects issues of equality in a democracy?
 
 > [note] 4. Making an advertisement requires a lot of creativity. Let us imagine a situation in which a manufacturer has just made a new watch. She says that she wants to sell this watch to school children. She comes to your class and asks you all to create a brand name as well as an advertisement for the watch. Divide the class into small groups and each group create an advertisement for this watch. Share it with the class.
+
+<!-- section: glossary -->
 
 > [note] Product: This refers to a thing or service that has been made for being sold in the market.
 

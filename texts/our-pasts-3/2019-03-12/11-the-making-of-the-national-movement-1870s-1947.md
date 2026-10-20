@@ -11,7 +11,7 @@ source_pdf: "pdfs/our-pasts-3/2019-03-12/part2-ch05.pdf"
 source_sha256: "385c71f82a236e525ff31c59cc927ecdde85d20c362d3e76474b9b830b975a48"
 pdf_pages: 19
 printed_pages: "141-159"
-body_fingerprint: "a2cb026c01d26f77f164b86b7b558e9cd27bd0da55fdeab00c063e247b84506a"
+body_fingerprint: "14d0bee38beafc27f34334960d59e4ba006d5f066e1953fc4acfef931d799571"
 ---
 
 <!-- page 141 (pdf 1) -->
@@ -246,11 +246,11 @@ The decade closed with the Congress resolving to fight for Purna Swaraj (complet
 
 “It takes a loud voice to make the deaf hear. Inquilab Zindabad !”
 
-Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants. For this purpose they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi. On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.
+> [note] Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants. For this purpose they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi. On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.
 
-On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly. The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.
+> [note] On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly. The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.
 
-Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931. Bhagat Singh’s age at that time was only 23.
+> [note] Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931. Bhagat Singh’s age at that time was only 23.
 
 > [caption] Fig. 11 – Bhagat Singh
 
@@ -266,13 +266,13 @@ Gandhiji and his followers marched for over 240 miles from Sabarmati to the coas
 
 ### Women in the freedom struggle: Ambabai from Karnataka
 
-Women from diverse backgrounds participated in the national movement. Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes. Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.
+> [note] Women from diverse backgrounds participated in the national movement. Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes. Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.
 
-Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force. Participation in the freedom movement brought women out of their homes. It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.
+> [note] Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force. Participation in the freedom movement brought women out of their homes. It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.
 
-What such participation meant for women is best recounted by them. Ambabai of Karnataka had been married at age twelve. Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi. She was arrested, served a sentence and was rearrested. Between prison terms she made speeches, taught spinning, and organised prabhat pheris. Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.
+> [note] What such participation meant for women is best recounted by them. Ambabai of Karnataka had been married at age twelve. Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi. She was arrested, served a sentence and was rearrested. Between prison terms she made speeches, taught spinning, and organised prabhat pheris. Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.
 
-Women, however, had to fight for their right to participate in the movement. During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation. Sarojini Naidu had to persuade him to allow women to join the movement.
+> [note] Women, however, had to fight for their right to participate in the movement. During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation. Sarojini Naidu had to persuade him to allow women to join the movement.
 
 <!-- page 154 (pdf 14) -->
 
@@ -322,7 +322,7 @@ From the late 1930s, the League began viewing the Muslims as a separate “natio
 
 > [caption] Fig. 15 – Subhas Chandra Bose
 
-A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”. In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA). To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed. The INA members were imprisoned and tried. People across the country, from all walks of life, participated in the movement against the INA trials.
+> [note] A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”. In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA). To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed. The INA members were imprisoned and tried. People across the country, from all walks of life, participated in the movement against the INA trials.
 
 <!-- page 156 (pdf 16) -->
 

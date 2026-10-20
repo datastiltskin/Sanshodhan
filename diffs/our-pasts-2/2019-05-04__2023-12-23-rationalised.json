@@ -7,7 +7,7 @@
   "chapters_dropped": 2,
   "chapters_added": 0,
   "body": {
-   "deleted": 176,
+   "deleted": 177,
    "inserted": 1,
    "modified": 35,
    "moved": 1,
@@ -18,12 +18,12 @@
    "punctuation": 51
   },
   "other_streams": {
-   "deleted": 165,
+   "deleted": 168,
    "inserted": 12,
    "modified": 26,
    "moved": 5,
    "typographic": 34,
-   "restreamed": 9,
+   "restreamed": 1,
    "resplit": 3,
    "unreadable": 5,
    "punctuation": 6
@@ -1511,8 +1511,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
-       "new": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti ) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
+       "old": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
+       "new": "A Sanskrit prashasti (see Chapter 2 for an example of a prashasti) praising the Delhi Sultan Ghiyasuddin Balban (1266-1287) explained that he was the ruler of a vast empire that stretched from Bengal (Gauda) in the east to Ghazni (Gajjana) in Afghanistan in the west and included all of south India (Dravida).",
        "old_page": 9,
        "new_page": 9,
        "words": [],
@@ -3060,8 +3060,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 11,
-       "new_pos": 11
+       "old_pos": 12,
+       "new_pos": 12
       },
       {
        "type": "equal",
@@ -3072,8 +3072,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 17,
-       "new_pos": 18
+       "old_pos": 18,
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -3084,8 +3084,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 16,
-       "new_pos": 17
+       "old_pos": 17,
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -3096,8 +3096,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 18,
-       "new_pos": 19
+       "old_pos": 19,
+       "new_pos": 20
       },
       {
        "type": "equal",
@@ -3108,8 +3108,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 15,
-       "new_pos": 16
+       "old_pos": 16,
+       "new_pos": 17
       },
       {
        "type": "equal",
@@ -3120,8 +3120,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 12,
-       "new_pos": 13
+       "old_pos": 13,
+       "new_pos": 14
       },
       {
        "type": "equal",
@@ -3132,8 +3132,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 20,
-       "new_pos": 21
+       "old_pos": 21,
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -3144,8 +3144,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 14,
-       "new_pos": 15
+       "old_pos": 15,
+       "new_pos": 16
       },
       {
        "type": "equal",
@@ -3156,8 +3156,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 13,
-       "new_pos": 14
+       "old_pos": 14,
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -3168,8 +3168,20 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 22,
-       "new_pos": 23
+       "old_pos": 23,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "5. What were some of the major religious developments during this period?",
+       "new": "5. What were some of the major religious developments during this period?",
+       "old_page": 15,
+       "new_page": 15,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -3180,8 +3192,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 23,
-       "new_pos": 24
+       "old_pos": 24,
+       "new_pos": 25
       },
       {
        "type": "equal",
@@ -3192,8 +3204,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 21,
-       "new_pos": 22
+       "old_pos": 22,
+       "new_pos": 23
       },
       {
        "type": "equal",
@@ -3204,8 +3216,8 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 19,
-       "new_pos": 20
+       "old_pos": 20,
+       "new_pos": 21
       }
      ]
     },
@@ -3269,18 +3281,6 @@
        "words": [],
        "old_pos": 2,
        "new_pos": 2
-      },
-      {
-       "type": "equal",
-       "stream": "glossary",
-       "similarity": 1.0,
-       "old": "5. What were some of the major religious developments during this period?",
-       "new": "5. What were some of the major religious developments during this period?",
-       "old_page": 15,
-       "new_page": 15,
-       "words": [],
-       "old_pos": 4,
-       "new_pos": 4
       }
      ]
     },
@@ -10112,7 +10112,7 @@
    "streams": {
     "heading": {
      "counts": {
-      "deleted": 4,
+      "deleted": 9,
       "inserted": 1,
       "modified": 0,
       "moved": 1,
@@ -10196,6 +10196,66 @@
        "new_pos": null
       },
       {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "BABUR 1526-1530",
+       "new": null,
+       "old_page": 48,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "HUMAYUN 1530-1540, 1555-1556",
+       "new": null,
+       "old_page": 48,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "Jahangir 1605-1627",
+       "new": null,
+       "old_page": 49,
+       "new_page": null,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "Shah Jahan 1627-1658",
+       "new": null,
+       "old_page": 49,
+       "new_page": null,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "Aurangzeb 1658-1707",
+       "new": null,
+       "old_page": 49,
+       "new_page": null,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": null
+      },
+      {
        "type": "equal",
        "stream": "heading",
        "similarity": 1.0,
@@ -10204,7 +10264,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 5,
+       "old_pos": 10,
        "new_pos": 3
       },
       {
@@ -10216,7 +10276,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 6,
+       "old_pos": 11,
        "new_pos": 4
       },
       {
@@ -10228,7 +10288,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 7,
+       "old_pos": 12,
        "new_pos": 5
       },
       {
@@ -10240,7 +10300,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 8,
+       "old_pos": 13,
        "new_pos": 6
       },
       {
@@ -10252,7 +10312,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 9,
+       "old_pos": 14,
        "new_pos": 7
       },
       {
@@ -10264,7 +10324,7 @@
        "old_page": 53,
        "new_page": null,
        "words": [],
-       "old_pos": 11,
+       "old_pos": 16,
        "new_pos": null
       },
       {
@@ -10276,7 +10336,7 @@
        "old_page": 53,
        "new_page": 44,
        "words": [],
-       "old_pos": 10,
+       "old_pos": 15,
        "new_pos": 8
       },
       {
@@ -10288,7 +10348,7 @@
        "old_page": 54,
        "new_page": 44,
        "words": [],
-       "old_pos": 12,
+       "old_pos": 17,
        "new_pos": 9
       },
       {
@@ -10300,7 +10360,7 @@
        "old_page": 55,
        "new_page": 45,
        "words": [],
-       "old_pos": 13,
+       "old_pos": 18,
        "new_pos": 10
       },
       {
@@ -10312,7 +10372,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 14,
+       "old_pos": 19,
        "new_pos": 11
       },
       {
@@ -10324,7 +10384,7 @@
        "old_page": 57,
        "new_page": 46,
        "words": [],
-       "old_pos": 15,
+       "old_pos": 20,
        "new_pos": 12
       },
       {
@@ -10336,7 +10396,7 @@
        "old_page": 57,
        "new_page": 46,
        "words": [],
-       "old_pos": 16,
+       "old_pos": 21,
        "new_pos": 13
       },
       {
@@ -10348,7 +10408,7 @@
        "old_page": 58,
        "new_page": 47,
        "words": [],
-       "old_pos": 17,
+       "old_pos": 22,
        "new_pos": 14
       },
       {
@@ -10360,7 +10420,7 @@
        "old_page": 58,
        "new_page": 47,
        "words": [],
-       "old_pos": 18,
+       "old_pos": 23,
        "new_pos": 16
       },
       {
@@ -10372,7 +10432,7 @@
        "old_page": 59,
        "new_page": 47,
        "words": [],
-       "old_pos": 19,
+       "old_pos": 24,
        "new_pos": 15
       },
       {
@@ -10384,14 +10444,14 @@
        "old_page": 59,
        "new_page": 48,
        "words": [],
-       "old_pos": 20,
+       "old_pos": 25,
        "new_pos": 17
       }
      ]
     },
     "body": {
      "counts": {
-      "deleted": 73,
+      "deleted": 74,
       "inserted": 0,
       "modified": 2,
       "moved": 0,
@@ -10781,7 +10841,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father.",
+       "old": "(1) Humayun divided his inheritance according to the will of his father.",
        "new": null,
        "old_page": 48,
        "new_page": null,
@@ -10997,7 +11057,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "Jahangir 1605-1627 Military campaigns started by Akbar continued.",
+       "old": "Military campaigns started by Akbar continued.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11153,7 +11213,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "against Aurangzeb and received support from the Marathas and the Deccan Sultanate.",
+       "old": "(1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11165,7 +11225,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "He finally fled to Safavid Iran.",
+       "old": "Campaigns in the north-west against the Yusufzai and the Sikhs against Aurangzeb and received support from the Marathas and the Deccan Sultanate.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11177,7 +11237,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates.",
+       "old": "He finally fled to Safavid Iran.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11189,7 +11249,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "Bijapur was annexed in 1685 and Golconda in 1687.",
+       "old": "(2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11201,7 +11261,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare.",
+       "old": "Bijapur was annexed in 1685 and Golconda in 1687.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11213,7 +11273,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas.",
+       "old": "From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11225,7 +11285,7 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
-       "old": "His death was followed by a succession conflict amongst his sons.",
+       "old": "Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas.",
        "new": null,
        "old_page": 49,
        "new_page": null,
@@ -11237,12 +11297,24 @@
        "type": "deleted",
        "stream": "body",
        "similarity": null,
+       "old": "His death was followed by a succession conflict amongst his sons.",
+       "new": null,
+       "old_page": 49,
+       "new_page": null,
+       "words": [],
+       "old_pos": 65,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "body",
+       "similarity": null,
        "old": "Follow the highlighted passages in Table 1, and note the evidence for rebellions by Mughal princes.",
        "new": null,
        "old_page": 50,
        "new_page": null,
        "words": [],
-       "old_pos": 67,
+       "old_pos": 68,
        "new_pos": null
       },
       {
@@ -11254,7 +11326,7 @@
        "old_page": 50,
        "new_page": null,
        "words": [],
-       "old_pos": 69,
+       "old_pos": 70,
        "new_pos": null
       },
       {
@@ -11279,7 +11351,7 @@
          "Mughal rulers campaigned constantly against rulers who refused to accept their authority."
         ]
        ],
-       "old_pos": 70,
+       "old_pos": 71,
        "new_pos": 20
       },
       {
@@ -11291,7 +11363,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 68,
+       "old_pos": 69,
        "new_pos": 19
       },
       {
@@ -11303,7 +11375,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 65,
+       "old_pos": 66,
        "new_pos": 17
       },
       {
@@ -11315,7 +11387,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 66,
+       "old_pos": 67,
        "new_pos": 18
       },
       {
@@ -11327,7 +11399,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 71,
+       "old_pos": 72,
        "new_pos": 21
       },
       {
@@ -11339,7 +11411,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 72,
+       "old_pos": 73,
        "new_pos": 22
       },
       {
@@ -11351,7 +11423,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 73,
+       "old_pos": 74,
        "new_pos": 23
       },
       {
@@ -11363,7 +11435,7 @@
        "old_page": 50,
        "new_page": 41,
        "words": [],
-       "old_pos": 74,
+       "old_pos": 75,
        "new_pos": 24
       },
       {
@@ -11375,7 +11447,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 79,
+       "old_pos": 80,
        "new_pos": null
       },
       {
@@ -11387,7 +11459,7 @@
        "old_page": 51,
        "new_page": null,
        "words": [],
-       "old_pos": 80,
+       "old_pos": 81,
        "new_pos": null
       },
       {
@@ -11416,7 +11488,7 @@
          "the Mughals recruited diverse bodies of people."
         ]
        ],
-       "old_pos": 81,
+       "old_pos": 82,
        "new_pos": 29
       },
       {
@@ -11428,7 +11500,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 75,
+       "old_pos": 76,
        "new_pos": 25
       },
       {
@@ -11440,7 +11512,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 76,
+       "old_pos": 77,
        "new_pos": 26
       },
       {
@@ -11452,7 +11524,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 77,
+       "old_pos": 78,
        "new_pos": 27
       },
       {
@@ -11464,7 +11536,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 78,
+       "old_pos": 79,
        "new_pos": 28
       },
       {
@@ -11476,7 +11548,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 82,
+       "old_pos": 83,
        "new_pos": 30
       },
       {
@@ -11488,7 +11560,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 83,
+       "old_pos": 84,
        "new_pos": 31
       },
       {
@@ -11500,7 +11572,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 84,
+       "old_pos": 85,
        "new_pos": 32
       },
       {
@@ -11512,7 +11584,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 85,
+       "old_pos": 86,
        "new_pos": 33
       },
       {
@@ -11524,7 +11596,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 86,
+       "old_pos": 87,
        "new_pos": 34
       },
       {
@@ -11536,7 +11608,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 87,
+       "old_pos": 88,
        "new_pos": 35
       },
       {
@@ -11548,7 +11620,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 88,
+       "old_pos": 89,
        "new_pos": 36
       },
       {
@@ -11560,7 +11632,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 89,
+       "old_pos": 90,
        "new_pos": 37
       },
       {
@@ -11572,7 +11644,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 90,
+       "old_pos": 91,
        "new_pos": 38
       },
       {
@@ -11584,7 +11656,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 91,
+       "old_pos": 92,
        "new_pos": 39
       },
       {
@@ -11596,7 +11668,7 @@
        "old_page": 51,
        "new_page": 42,
        "words": [],
-       "old_pos": 92,
+       "old_pos": 93,
        "new_pos": 40
       },
       {
@@ -11608,7 +11680,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 102,
+       "old_pos": 103,
        "new_pos": 50
       },
       {
@@ -11637,7 +11709,7 @@
          "these jagirs were carefully assessed so that their revenues were roughly equal to the salary of the mansabdar."
         ]
        ],
-       "old_pos": 93,
+       "old_pos": 94,
        "new_pos": 41
       },
       {
@@ -11666,7 +11738,7 @@
          "this was no longer the case and the actual revenue collected was often less than the granted sum."
         ]
        ],
-       "old_pos": 94,
+       "old_pos": 95,
        "new_pos": 42
       },
       {
@@ -11695,7 +11767,7 @@
          "such as Gujarat and Bengal."
         ]
        ],
-       "old_pos": 107,
+       "old_pos": 108,
        "new_pos": 55
       },
       {
@@ -11707,7 +11779,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 95,
+       "old_pos": 96,
        "new_pos": 43
       },
       {
@@ -11719,7 +11791,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 96,
+       "old_pos": 97,
        "new_pos": 44
       },
       {
@@ -11731,7 +11803,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 97,
+       "old_pos": 98,
        "new_pos": 45
       },
       {
@@ -11743,7 +11815,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 98,
+       "old_pos": 99,
        "new_pos": 46
       },
       {
@@ -11755,7 +11827,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 99,
+       "old_pos": 100,
        "new_pos": 47
       },
       {
@@ -11767,7 +11839,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 100,
+       "old_pos": 101,
        "new_pos": 48
       },
       {
@@ -11779,7 +11851,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 101,
+       "old_pos": 102,
        "new_pos": 49
       },
       {
@@ -11791,7 +11863,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 103,
+       "old_pos": 104,
        "new_pos": 51
       },
       {
@@ -11803,7 +11875,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 104,
+       "old_pos": 105,
        "new_pos": 52
       },
       {
@@ -11815,7 +11887,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 106,
        "new_pos": 53
       },
       {
@@ -11827,7 +11899,7 @@
        "old_page": 52,
        "new_page": 43,
        "words": [],
-       "old_pos": 106,
+       "old_pos": 107,
        "new_pos": 54
       },
       {
@@ -11839,7 +11911,7 @@
        "old_page": 53,
        "new_page": null,
        "words": [],
-       "old_pos": 112,
+       "old_pos": 113,
        "new_pos": null
       },
       {
@@ -11851,7 +11923,7 @@
        "old_page": 53,
        "new_page": null,
        "words": [],
-       "old_pos": 113,
+       "old_pos": 114,
        "new_pos": null
       },
       {
@@ -11863,7 +11935,7 @@
        "old_page": 53,
        "new_page": null,
        "words": [],
-       "old_pos": 114,
+       "old_pos": 115,
        "new_pos": null
       },
       {
@@ -11875,7 +11947,7 @@
        "old_page": 53,
        "new_page": null,
        "words": [],
-       "old_pos": 115,
+       "old_pos": 116,
        "new_pos": null
       },
       {
@@ -11904,7 +11976,7 @@
          "the zamindars exercised a great deal of power."
         ]
        ],
-       "old_pos": 108,
+       "old_pos": 109,
        "new_pos": 56
       },
       {
@@ -11916,7 +11988,7 @@
        "old_page": 53,
        "new_page": 44,
        "words": [],
-       "old_pos": 109,
+       "old_pos": 110,
        "new_pos": 57
       },
       {
@@ -11928,7 +12000,7 @@
        "old_page": 53,
        "new_page": 44,
        "words": [],
-       "old_pos": 110,
+       "old_pos": 111,
        "new_pos": 58
       },
       {
@@ -11940,7 +12012,7 @@
        "old_page": 53,
        "new_page": 44,
        "words": [],
-       "old_pos": 111,
+       "old_pos": 112,
        "new_pos": 59
       },
       {
@@ -11952,7 +12024,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 116,
+       "old_pos": 117,
        "new_pos": null
       },
       {
@@ -11964,7 +12036,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 117,
+       "old_pos": 118,
        "new_pos": null
       },
       {
@@ -11976,7 +12048,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 118,
+       "old_pos": 119,
        "new_pos": null
       },
       {
@@ -11988,7 +12060,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 119,
+       "old_pos": 120,
        "new_pos": null
       },
       {
@@ -12000,7 +12072,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 120,
+       "old_pos": 121,
        "new_pos": null
       },
       {
@@ -12012,7 +12084,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 121,
+       "old_pos": 122,
        "new_pos": null
       },
       {
@@ -12024,7 +12096,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 122,
+       "old_pos": 123,
        "new_pos": null
       },
       {
@@ -12036,7 +12108,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 123,
+       "old_pos": 124,
        "new_pos": null
       },
       {
@@ -12048,7 +12120,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 124,
+       "old_pos": 125,
        "new_pos": null
       },
       {
@@ -12060,7 +12132,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 125,
+       "old_pos": 126,
        "new_pos": null
       },
       {
@@ -12072,7 +12144,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 126,
+       "old_pos": 127,
        "new_pos": null
       },
       {
@@ -12084,7 +12156,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 127,
+       "old_pos": 128,
        "new_pos": null
       },
       {
@@ -12096,7 +12168,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 128,
+       "old_pos": 129,
        "new_pos": null
       },
       {
@@ -12108,7 +12180,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 129,
+       "old_pos": 130,
        "new_pos": null
       },
       {
@@ -12120,7 +12192,7 @@
        "old_page": 54,
        "new_page": null,
        "words": [],
-       "old_pos": 130,
+       "old_pos": 131,
        "new_pos": null
       },
       {
@@ -12132,7 +12204,7 @@
        "old_page": 56,
        "new_page": null,
        "words": [],
-       "old_pos": 146,
+       "old_pos": 147,
        "new_pos": null
       },
       {
@@ -12157,7 +12229,7 @@
          "command of provinces like Hyderabad and Awadh."
         ]
        ],
-       "old_pos": 144,
+       "old_pos": 145,
        "new_pos": 73
       },
       {
@@ -12169,7 +12241,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 132,
        "new_pos": 60
       },
       {
@@ -12181,7 +12253,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 133,
        "new_pos": 61
       },
       {
@@ -12193,7 +12265,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 134,
        "new_pos": 62
       },
       {
@@ -12205,7 +12277,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 135,
        "new_pos": 63
       },
       {
@@ -12217,7 +12289,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 136,
        "new_pos": 64
       },
       {
@@ -12229,7 +12301,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 137,
        "new_pos": 65
       },
       {
@@ -12241,7 +12313,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 137,
+       "old_pos": 138,
        "new_pos": 66
       },
       {
@@ -12253,7 +12325,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 139,
        "new_pos": 67
       },
       {
@@ -12265,7 +12337,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 139,
+       "old_pos": 140,
        "new_pos": 68
       },
       {
@@ -12277,7 +12349,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 141,
        "new_pos": 69
       },
       {
@@ -12289,7 +12361,7 @@
        "old_page": 56,
        "new_page": 45,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 142,
        "new_pos": 70
       },
       {
@@ -12301,7 +12373,7 @@
        "old_page": 56,
        "new_page": 46,
        "words": [],
-       "old_pos": 142,
+       "old_pos": 143,
        "new_pos": 71
       },
       {
@@ -12313,7 +12385,7 @@
        "old_page": 56,
        "new_page": 46,
        "words": [],
-       "old_pos": 143,
+       "old_pos": 144,
        "new_pos": 72
       },
       {
@@ -12325,7 +12397,7 @@
        "old_page": 56,
        "new_page": 46,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 146,
        "new_pos": 74
       },
       {
@@ -12337,7 +12409,7 @@
        "old_page": 57,
        "new_page": null,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 148,
        "new_pos": null
       },
       {
@@ -12349,7 +12421,7 @@
        "old_page": 57,
        "new_page": 46,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 149,
        "new_pos": 75
       },
       {
@@ -12361,7 +12433,7 @@
        "old_page": 57,
        "new_page": 46,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 150,
        "new_pos": 76
       },
       {
@@ -12373,7 +12445,7 @@
        "old_page": 57,
        "new_page": 46,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 151,
        "new_pos": 77
       }
      ]
@@ -13148,7 +13220,7 @@
     },
     "table": {
      "counts": {
-      "deleted": 3,
+      "deleted": 1,
       "inserted": 0,
       "modified": 0,
       "moved": 0,
@@ -13163,36 +13235,12 @@
        "type": "deleted",
        "stream": "table",
        "similarity": null,
-       "old": "BABUR 1526-1530",
+       "old": "were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled",
        "new": null,
-       "old_page": 48,
+       "old_page": 49,
        "new_page": null,
        "words": [],
        "old_pos": 0,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "table",
-       "similarity": null,
-       "old": "Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled",
-       "new": null,
-       "old_page": 49,
-       "new_page": null,
-       "words": [],
-       "old_pos": 2,
-       "new_pos": null
-      },
-      {
-       "type": "deleted",
-       "stream": "table",
-       "similarity": null,
-       "old": "Shah Jahan 1627-1658",
-       "new": null,
-       "old_page": 49,
-       "new_page": null,
-       "words": [],
-       "old_pos": 1,
        "new_pos": null
       }
      ]
@@ -13255,7 +13303,7 @@
       "modified": 4,
       "moved": 0,
       "typographic": 3,
-      "restreamed": 5,
+      "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
@@ -13272,56 +13320,6 @@
        "words": [],
        "old_pos": 6,
        "new_pos": null
-      },
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.811,
-       "old": "Rathor Rajput Mewar",
-       "new": "Rathor Rajput rank",
-       "old_page": 57,
-       "new_page": 46,
-       "words": [
-        [
-         "=",
-         "Rathor Rajput"
-        ],
-        [
-         "-",
-         "Mewar"
-        ],
-        [
-         "+",
-         "rank"
-        ]
-       ],
-       "old_pos": 4,
-       "new_pos": 4
-      },
-      {
-       "type": "modified",
-       "stream": "exercises",
-       "similarity": 0.81,
-       "old": "Sisodiya Rajput Uzbeg",
-       "new": "Sisodiya Rajput Mewar",
-       "old_page": 57,
-       "new_page": 46,
-       "words": [
-        [
-         "=",
-         "Sisodiya Rajput"
-        ],
-        [
-         "-",
-         "Uzbeg"
-        ],
-        [
-         "+",
-         "Mewar"
-        ]
-       ],
-       "old_pos": 3,
-       "new_pos": 3
       },
       {
        "type": "modified",
@@ -13372,6 +13370,56 @@
        ],
        "old_pos": 2,
        "new_pos": 2
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.811,
+       "old": "Rathor Rajput Mewar",
+       "new": "Rathor Rajput rank",
+       "old_page": 57,
+       "new_page": 46,
+       "words": [
+        [
+         "=",
+         "Rathor Rajput"
+        ],
+        [
+         "-",
+         "Mewar"
+        ],
+        [
+         "+",
+         "rank"
+        ]
+       ],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.81,
+       "old": "Sisodiya Rajput Uzbeg",
+       "new": "Sisodiya Rajput Mewar",
+       "old_page": 57,
+       "new_page": 46,
+       "words": [
+        [
+         "=",
+         "Sisodiya Rajput"
+        ],
+        [
+         "-",
+         "Uzbeg"
+        ],
+        [
+         "+",
+         "Mewar"
+        ]
+       ],
+       "old_pos": 3,
+       "new_pos": 3
       },
       {
        "type": "equal",
@@ -13521,13 +13569,49 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "Do you think that they are as important today?",
+       "new": "Do you think that they are as important today?",
+       "old_page": 59,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Does this pose a challenge to national integration?",
+       "new": "Does this pose a challenge to national integration?",
+       "old_page": 59,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "Find out if it had any impact in the city, village or region in which you live.",
        "new": "Find out if it had any impact in the city, village or region in which you live.",
        "old_page": 59,
        "new_page": 48,
        "words": [],
        "old_pos": 25,
-       "new_pos": 18
+       "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
+       "new": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
+       "old_page": 59,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 21
       },
       {
        "type": "equal",
@@ -13545,13 +13629,37 @@
        "type": "equal",
        "stream": "exercises",
        "similarity": 1.0,
+       "old": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
+       "new": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
+       "old_page": 59,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "11. Peasants were vital for the economy of the Mughal Empire.",
+       "new": "11. Peasants were vital for the economy of the Mughal Empire.",
+       "old_page": 59,
+       "new_page": 48,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
        "old": "12. The Mughal Empire left its impact on the different regions of the subcontinent in a variety of ways.",
        "new": "12. The Mughal Empire left its impact on the different regions of the subcontinent in a variety of ways.",
        "old_page": 59,
        "new_page": 48,
        "words": [],
        "old_pos": 24,
-       "new_pos": 17
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -13564,66 +13672,6 @@
        "words": [],
        "old_pos": 18,
        "new_pos": 16
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "Do you think that they are as important today?",
-       "new": "Do you think that they are as important today?",
-       "old_page": 59,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 22,
-       "new_pos": 13
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "Does this pose a challenge to national integration?",
-       "new": "Does this pose a challenge to national integration?",
-       "old_page": 59,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 20,
-       "new_pos": 11
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
-       "new": "Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?",
-       "old_page": 59,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 23,
-       "new_pos": 14
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
-       "new": "10. Like the Mughal Empire, India today is also made up of many social and cultural units.",
-       "old_page": 59,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 19,
-       "new_pos": 10
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "11. Peasants were vital for the economy of the Mughal Empire.",
-       "new": "11. Peasants were vital for the economy of the Mughal Empire.",
-       "old_page": 59,
-       "new_page": 48,
-       "words": [],
-       "old_pos": 21,
-       "new_pos": 12
       }
      ]
     },
@@ -13817,14 +13865,14 @@
      {
       "page": 48,
       "new_page": null,
-      "sentences": 24,
+      "sentences": 25,
       "score": 0.0,
       "suspect": true
      },
      {
       "page": 49,
       "new_page": null,
-      "sentences": 22,
+      "sentences": 25,
       "score": 0.0,
       "suspect": true
      },
@@ -16880,7 +16928,7 @@
       "modified": 0,
       "moved": 0,
       "typographic": 1,
-      "restreamed": 2,
+      "restreamed": 0,
       "resplit": 1,
       "unreadable": 0,
       "punctuation": 0
@@ -16956,7 +17004,7 @@
        "new_page": 60,
        "words": [],
        "old_pos": 18,
-       "new_pos": 11
+       "new_pos": 13
       },
       {
        "type": "equal",
@@ -16981,6 +17029,18 @@
        "words": [],
        "old_pos": 10,
        "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
+       "new": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
+       "old_page": 102,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 11
       },
       {
        "type": "equal",
@@ -17028,6 +17088,18 @@
        "new_page": 60,
        "words": [],
        "old_pos": 19,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
+       "new": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
+       "old_page": 102,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 17,
        "new_pos": 12
       },
       {
@@ -17039,8 +17111,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 25,
-       "new_pos": 19
+       "old_pos": 26,
+       "new_pos": 21
       },
       {
        "type": "equal",
@@ -17051,8 +17123,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 26,
-       "new_pos": 20
+       "old_pos": 27,
+       "new_pos": 22
       },
       {
        "type": "equal",
@@ -17063,8 +17135,20 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 24,
-       "new_pos": 18
+       "old_pos": 25,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "7. How did tribal societies change after being organised into a state?",
+       "new": "7. How did tribal societies change after being organised into a state?",
+       "old_page": 103,
+       "new_page": 60,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 15
       },
       {
        "type": "equal",
@@ -17075,8 +17159,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 21,
-       "new_pos": 15
+       "old_pos": 22,
+       "new_pos": 17
       },
       {
        "type": "equal",
@@ -17087,8 +17171,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 23,
-       "new_pos": 17
+       "old_pos": 24,
+       "new_pos": 19
       },
       {
        "type": "equal",
@@ -17099,8 +17183,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 20,
-       "new_pos": 14
+       "old_pos": 21,
+       "new_pos": 16
       },
       {
        "type": "equal",
@@ -17111,8 +17195,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 22,
-       "new_pos": 16
+       "old_pos": 23,
+       "new_pos": 18
       },
       {
        "type": "equal",
@@ -17123,8 +17207,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 27,
-       "new_pos": 21
+       "old_pos": 28,
+       "new_pos": 23
       },
       {
        "type": "equal",
@@ -17135,32 +17219,8 @@
        "old_page": 103,
        "new_page": 60,
        "words": [],
-       "old_pos": 28,
-       "new_pos": 22
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
-       "new": "(d) The Bhils lived in the north-eastern part of the subcontinent.",
-       "old_page": 102,
-       "new_page": 60,
-       "words": [],
-       "old_pos": 16,
-       "new_pos": 11
-      },
-      {
-       "type": "restreamed",
-       "stream": "exercises>glossary",
-       "similarity": 1.0,
-       "old": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
-       "new": "4. What kinds of exchanges took place between nomadic pastoralists and settled agriculturists?",
-       "old_page": 102,
-       "new_page": 60,
-       "words": [],
-       "old_pos": 17,
-       "new_pos": 12
+       "old_pos": 29,
+       "new_pos": 24
       },
       {
        "type": "resplit",
@@ -17183,7 +17243,7 @@
       "modified": 0,
       "moved": 0,
       "typographic": 0,
-      "restreamed": 1,
+      "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
       "punctuation": 0
@@ -17320,18 +17380,6 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
-      },
-      {
-       "type": "restreamed",
-       "stream": "glossary>exercises",
-       "similarity": 1.0,
-       "old": "7. How did tribal societies change after being organised into a state?",
-       "new": "7. How did tribal societies change after being organised into a state?",
-       "old_page": 103,
-       "new_page": 60,
-       "words": [],
-       "old_pos": 11,
-       "new_pos": 13
       }
      ]
     },

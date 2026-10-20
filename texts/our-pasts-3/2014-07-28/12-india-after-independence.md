@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-3/2014-07-28/part2-ch06.pdf"
 source_sha256: "b983a28bfc030939e289043f4b3d81994d9a1438e54214e487fbe4ff1e207cf5"
 pdf_pages: 15
 printed_pages: "160-174"
-body_fingerprint: "6edbff6bfb4f36d93025f9e31561a9f79ecc841150f3973e507066eeb1def9d2"
+body_fingerprint: "00465295461fa7d8679565ea7984a86c0be8e01d77d4dcd1449202c02615a4d2"
 ---
 
 <!-- page 160 (pdf 1) -->
@@ -283,7 +283,7 @@ The Illustrated London News (Ch. 9, Fig. 15)
 
 Aman Nath and Jay Vithalani, Horizons: The Tata-India Century, 1904-2004 (Ch. 7, Figs. 10, 14, 15)
 
-C.A. Bayly, ed., An Illustrated History of Modern India, 1600-1947 (Ch. 7, Fig.11; Ch. 8, Figs. 2, 4, 6; Ch. 10, Figs. 6, 7, 17, 22; Ch. 11, Figs. 3, 4, 5, 10 )
+C.A. Bayly, ed., An Illustrated History of Modern India, 1600-1947 (Ch. 7, Fig.11; Ch. 8, Figs. 2, 4, 6; Ch. 10, Figs. 6, 7, 17, 22; Ch. 11, Figs. 3, 4, 5, 10)
 
 Jan Breman, Labour Bondage in Western India (Ch. 9, Fig. 11)
 

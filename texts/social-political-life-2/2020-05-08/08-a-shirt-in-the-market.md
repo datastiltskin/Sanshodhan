@@ -81,23 +81,23 @@ However, this dependence on the merchants both for raw materials and markets mea
 
 1. This is a merchant’s shop in the bazaar. Over the years, these traders have developed extensive contacts with garment firms around the country from whom they get orders. These traders purchase the yarn (thread) from others. 2. The weavers live in villages around and take the yarn supplied by these traders to their homes where the looms are located in sheds adjacent to their houses. This photograph shows a powerloom in one such home. The weavers and their families spend long hours working on these looms. Most weaving units have about 2–8 powerlooms on which the yarn is woven into cloth. A variety of sarees, towels, shirting, ladies dress material and bedsheets are produced in these looms. 3. They then bring back the finished cloth to the traders. Here, they can be seen getting ready to go to the merchant in the town. The trader keeps an account of the yarn given and pays them money for weaving this into cloth.
 
-> [table] What are the following people doing at the Erode cloth market– merchants, weavers, exporters?
+> [note] What are the following people doing at the Erode cloth market– merchants, weavers, exporters?
 
-> [table] In what ways are weavers dependent on cloth merchants?
+> [note] In what ways are weavers dependent on cloth merchants?
 
 <!-- page 96 (pdf 5) -->
 
-> [table] If the weavers were to buy yarn on their own and sell cloth, they would probably earn three times more. Do you think this is possible? How? Discuss.
+> [note] If the weavers were to buy yarn on their own and sell cloth, they would probably earn three times more. Do you think this is possible? How? Discuss.
 
 Weavers invest all their savings or borrow money at high interest rates to buy looms. Each loom costs ₹ 20,000, so a small weaver with two looms has to invest ₹ 40,000. The work on these looms cannot be done alone. The weaver and another adult member of his family work upto 12 hours a day to produce cloth. For all this work, they earn about ₹ 3,500 per month.
 
-> [table] Do you find similar ‘putting-out’ arrangements in making papads, masalas, beedis? Find out about this in your area and discuss in class.
+> [note] Do you find similar ‘putting-out’ arrangements in making papads, masalas, beedis? Find out about this in your area and discuss in class.
 
-> [table] You might have heard of cooperatives in your area. It could be in milk, provisions, paddy, etc. Find out for whose benefit they
+> [note] You might have heard of cooperatives in your area. It could be in milk, provisions, paddy, etc. Find out for whose benefit they
 
 The arrangement between the merchant and the weavers is an example of putting-out system, whereby the merchant supplies the raw material and receives the finished product. It is prevalent in the weaving industry in most regions of India.
 
-> [table] were set up?
+> [note] were set up?
 
 Weaver’s cooperative
 
@@ -115,9 +115,9 @@ Faced with such pressures from the buyers, the garment exporting factories, in t
 
 Women workers sewing buttons in a garment factory.
 
-> [table] What are the demands foreign buyers make on the garment exporters? Why do the garment exporters agree to these demands?
+> [note] What are the demands foreign buyers make on the garment exporters? Why do the garment exporters agree to these demands?
 
-> [table] How do the garment exporters meet the conditions set by the foreign buyers?
+> [note] How do the garment exporters meet the conditions set by the foreign buyers?
 
 <!-- page 98 (pdf 7) -->
 

@@ -228,9 +228,9 @@ List some of the technological changes associated with this period.
 
 <!-- page 15 (pdf 15) -->
 
-5. What were some of the major religious developments during this period?
-
 <!-- section: exercises -->
+
+5. What were some of the major religious developments during this period?
 
 ### Let’s understand
 

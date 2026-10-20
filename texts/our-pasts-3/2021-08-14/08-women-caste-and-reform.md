@@ -10,7 +10,7 @@ source_pdf: "pdfs/our-pasts-3/2021-08-14/ch08.pdf"
 source_sha256: "024a982968cf2ed2af7894d060c562a15a011f5b4bf6c0d3c90646cacd5ee054"
 pdf_pages: 15
 printed_pages: "94-108"
-body_fingerprint: "c1cefd0e91ff78fba8a8c7edea1e4dc05f2a01826f2b4a67f77b3a0402d49b73"
+body_fingerprint: "72dbd9702f9acf2489cdd257d600af54cc37d94ebf6352162885160f4751d0fa"
 overrides:
   - "page 122 prints \"opened up\" with a very tight space on a justified line, the extractor lost it"
 ---
@@ -127,7 +127,7 @@ Isn’t a woman’s life as dear to her as yours is to you? It’s as if women a
 
 ### Law against child marriage
 
-With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength. People challenged another established custom – that of child marriage. There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage. In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen. According to the Act no man below the age of 18 and woman below the age of 16 could marry. Subsequently these limits were raised to 21 for men and 18 for women.
+> [note] With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength. People challenged another established custom – that of child marriage. There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage. In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen. According to the Act no man below the age of 18 and woman below the age of 16 could marry. Subsequently these limits were raised to 21 for men and 18 for women.
 
 > [caption] Fig. 8 – Bride at the age of eight
 
@@ -143,21 +143,23 @@ At the same time, the poor began leaving their villages to look for jobs that we
 
 <!-- page 101 (pdf 8) -->
 
-Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
-
 Who could produce shoes?
 
-Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
-
-> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
+> [caption] Madigas were an important untouchable caste of present-day Andhra Pradesh. They were experts at cleaning hides, tanning them for use, and sewing sandals.
 
 There were other jobs too. The army, for instance, offered opportunities. A number of Mahar people, who were regarded as untouchable, found jobs in the Mahar Regiment. The father of B.R. Ambedkar, the leader of the Dalit movement, taught at an army school.
+
+Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour. Most of these labourers were from low castes.
+
+> [note] Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting. During the First World War, however, there was a huge demand for shoes for the armies. Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes. So they could ask for high prices and gain impressive profits.
+
+> [caption] Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh
 
 <!-- page 102 (pdf 9) -->
 
 ### No place inside the classroom
 
-In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
+> [note] In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools. When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.
 
 Activity 1. Imagine that you are one of the students sitting in the school veranda and listening to the lessons. What kind of questions would be rising in your mind? 2. Some people thought this situation was better than the total lack of education for untouchable people. Would you agree with this view?
 
@@ -255,41 +257,41 @@ Activity Why does caste remain such a controversial issue today? What do you thi
 
 ### Organising for reform
 
-The Brahmo Samaj
+> [note] The Brahmo Samaj
 
-The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
+> [note] The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices. It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.
 
 > [caption] Fig. 16 – Keshub Chunder Sen – one of the main leaders of the Brahmo Samaj
 
-Derozio and Young Bengal
+> [note] Derozio and Young Bengal
 
-Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
+> [note] Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority. Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.
 
 > [caption] Fig. 17 Henry Derozio
 
-The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
+> [note] The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.
 
-Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world. After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”. Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale. But his mission was not simply to talk of religion. He was extremely pained at the poverty and the misery of his country men. He firmly believed that any reform could become successful only by uplifting the condition of the masses. Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation. By sending out this call he made a signal contribution to the nascent nationalism of India. His sense of nationalism was, however, not narrow in its conception. He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing. Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage. In this exhortation he became truly ‘the symbol of a new spirit and a source of strength for the future’.
+> [note] Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world. After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”. Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale. But his mission was not simply to talk of religion. He was extremely pained at the poverty and the misery of his country men. He firmly believed that any reform could become successful only by uplifting the condition of the masses. Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation. By sending out this call he made a signal contribution to the nascent nationalism of India. His sense of nationalism was, however, not narrow in its conception. He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing. Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage. In this exhortation he became truly ‘the symbol of a new spirit and a source of strength for the future’.
 
 > [caption] Fig. 18 Swami Vivekananda
 
-The Prarthana Samaj
+> [note] The Prarthana Samaj
 
-Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
+> [note] Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage. Its religious meetings drew upon Hindu, Buddhist and Christian texts.
 
 The Veda Samaj
 
-Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
+> [note] Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj. It worked to abolish caste distinctions and promote widow remarriage and women’s education. Its members believed in one God. They condemned the superstitions and rituals of orthodox Hinduism.
 
 <!-- page 107 (pdf 14) -->
 
-The Aligarh Movement
+> [note] The Aligarh Movement
 
-The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
+> [note] The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University. The institution offered modern education, including Western science, to Muslims. The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.
 
-The Singh Sabha Movement
+> [note] The Singh Sabha Movement
 
-Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
+> [note] Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879. The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh. They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.
 
 > [caption] Fig. 19 Sayyid Ahmed Khan
 

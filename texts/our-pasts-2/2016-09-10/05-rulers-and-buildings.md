@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch05.pdf"
 source_sha256: "fcd39ebf47c2760db06f1e4aa86de40a731b6df8758ab15f94a612163ca1f301"
 pdf_pages: 15
 printed_pages: "60-74"
-body_fingerprint: "498edb826dacdb7cc68e9c139457ceb6b9c38901582f971effbfa2f4e1401f68"
+body_fingerprint: "3fb01c3ecde6792b518427d55f0b50c3b12c10d18cb0cee38a381e4b1ec4a17b"
 ---
 
 <!-- page 60 (pdf 1) -->
@@ -39,9 +39,9 @@ Between the seventh and tenth centuries architects started adding more rooms, do
 
 > [caption] Fig. 2a
 
-Labour for the Agra Fort
+> [note] Labour for the Agra Fort
 
-Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
+> [note] Built by Akbar, the Agra Fort required 2,000 stone-cutters, 2,000 cement and lime-makers and 8,000 labourers.
 
 Superstructure The part of a building above the ground floor.
 
@@ -51,17 +51,19 @@ Superstructure The part of a building above the ground floor.
 
 <!-- page 62 (pdf 3) -->
 
-> [caption] Fig. 3b
-
-What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
-
 > [note] Temple Construction in the Early Eleventh Century
 
 > [caption] The Kandariya Mahadeva temple dedicated to Shiva was constructed in 999 by the king Dhangadeva of the Chandela dynasty. Fig. 3b is the plan of the temple. An ornamented gateway led to an entrance, and the main hall (mahamandapa) where dances were performed. The image of the chief deity was kept in the main shrine (garbhagriha). This was the place for ritual worship where only the king, his immediate family and priests gathered. The Khajuraho complex contained royal temples where commoners were not allowed entry. The temples were decorated with elaborately carved sculptures.
 
 > [caption] Fig. 3a
 
-> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
+> [caption] Fig. 3b
+
+> [caption] Fig. 4 The Rajarajeshvara temple at Thanjavur had the tallest shikhara amongst temples of its time. Constructing it was not easy because there were no cranes in those days and the 90 tonne stone for the top of the shikhara was too heavy to lift manually. So the architects built an inclined path to the top of the temple, placed the boulder on rollers and rolled it all the way to the top. The path started more than
+
+> [note] What differences do you notice between the shikharas of the two temples? Can you make out that the shikhara of the Rajarajeshvara temple is twice as high as that of the Kandariya Mahadeva?
+
+> [caption] 4 km away so that it would not be too steep. This was dismantled after the temple was constructed. But the residents of the area remembered the experience of the construction of the temple for a long time. Even now a village near the temple is called Charupallam, the
 
 > [caption] “Village of the Incline”.
 
@@ -73,11 +75,11 @@ Two technological and stylistic developments are noticeable from the twelfth cen
 
 > [caption] Fig. 5a A “true” arch. The “keystone” at the centre of the arch transferred the weight of the superstructure to the base of the arch.
 
-Compare Figures 2a and 2b with Figures 5a and 5b.
+> [note] Compare Figures 2a and 2b with Figures 5a and 5b.
 
 (2) Limestone cement was increasingly used in construction. This was very high-quality cement, which, when mixed with stone chips hardened into concrete. This made construction of large structures easier and faster. Take a look at the construction site in Figure 6.
 
-Describe what the labourers are doing, the tools shown, and the means of carrying stones.
+> [note] Describe what the labourers are doing, the tools shown, and the means of carrying stones.
 
 ## Building Temples, Mosques and Tanks
 
@@ -89,12 +91,6 @@ Temples and mosques were beautifully constructed because they were places of wor
 
 <!-- page 64 (pdf 5) -->
 
-### A royal architect
-
-The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
-
-> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
-
 The largest temples were all constructed by kings. The other, lesser deities in the temple were gods and goddesses of the allies and subordinates of the ruler. The temple was a miniature model of the world ruled by the king and his allies. As they worshipped their deities together in the royal temples, it seemed as if they brought the just rule of the gods on earth.
 
 Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian court chronicles described the Sultan as the “Shadow of God”. An inscription in the Quwwat al-Islam mosque explained that God chose Alauddin as a king because he had the qualities of Moses and Solomon, the great lawgivers of the past. The greatest lawgiver and architect was God Himself. He created the world out of chaos and introduced order and symmetry.
@@ -102,6 +98,12 @@ Muslim Sultans and Padshahs did not claim to be incarnations of god but Persian 
 > [caption] W
 
 > [caption] Qibla (Direction towards Mecca)
+
+### A royal architect
+
+> [note] The Mughal emperor Shah Jahan’s chro-nicler declared that the ruler was the “architect of the workshop of empire and religion”.
+
+> [caption] Fig. 7 Plan of the Jami Masjid built by Shah Jahan in his new capital at Shahjahanabad, 1650-1656.
 
 <!-- page 65 (pdf 6) -->
 
@@ -113,9 +115,9 @@ It was widely believed that the rule of a just king would be an age of plenty wh
 
 Because kings built temples to demonstrate their devotion to God and their power and wealth, it is not surprising that when they attacked one another’s kingdoms they often targeted these buildings. In the early ninth century when the Pandyan king Shrimara Shrivallabha invaded Sri Lanka and defeated the king, Sena I (831-851), the Buddhist monk and chronicler Dhammakitti noted: “he removed all the valuables ... The statue of the Buddha made entirely of gold in the Jewel Palace ... and the golden images in the various monasteries – all these he seized.” The blow to the pride of the Sinhalese ruler had to be avenged and the next Sinhalese ruler, Sena II, ordered his general to invade Madurai, the capital of the Pandyas. The Buddhist chronicler noted that the expedition made a special effort to find and restore the gold statue of the Buddha.
 
-Importance of water
+> [note] Importance of water
 
-The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
+> [note] The Persian terms abad, populated, prosperous, and abadi, flourishing, are both derived from the word ab, meaning water.
 
 > [caption] Fig. 8 Harmandar Sahib (Golden Temple) with the holy sarovar (tank) in Amritsar.
 
@@ -125,7 +127,7 @@ Similarly in the early eleventh century, when the Chola king Rajendra I built a 
 
 Sultan Mahmud of Ghazni was a contemporary of Rajendra I. During his campaigns in the subcontinent he also attacked the temples of defeated kings and looted their wealth and idols. Sultan Mahmud was not a very important ruler at that time. But by destroying temples – especially the one at Somnath – he tried to win credit as a great hero of Islam. In the political culture of the Middle Ages most rulers displayed their political might and military success by attacking and looting the places of worship of defeated rulers.
 
-In what ways do you think the policies of Rajendra I and Mahmud of Ghazni were a product of their times? How were the actions of the two rulers different?
+> [note] In what ways do you think the policies of Rajendra I and Mahmud of Ghazni were a product of their times? How were the actions of the two rulers different?
 
 ## Gardens, Tombs and Forts
 
@@ -199,11 +201,11 @@ Even though the authority of the Mughal rulers waned in the eighteenth century, 
 
 Churches that touched the skies
 
-> [table] From the twelfth century onwards, attempts began in France to build churches that were taller and lighter than earlier buildings. This architectural style, known as Gothic, was distinguished by high pointed arches, the use of stained glass, often painted with scenes drawn from the Bible, and flying buttresses. Tall spires and bell towers which were visible from a distance were added to the church.
+> [note] From the twelfth century onwards, attempts began in France to build churches that were taller and lighter than earlier buildings. This architectural style, known as Gothic, was distinguished by high pointed arches, the use of stained glass, often painted with scenes drawn from the Bible, and flying buttresses. Tall spires and bell towers which were visible from a distance were added to the church.
 
-> [table] One of the best-known examples of this architectural style is the church of Notre Dame in Paris, which was constructed through several decades in the twelfth and thirteenth centuries.
+> [note] One of the best-known examples of this architectural style is the church of Notre Dame in Paris, which was constructed through several decades in the twelfth and thirteenth centuries.
 
-> [table] Look at the illustration and try and identify the bell towers.
+> [note] Look at the illustration and try and identify the bell towers.
 
 <!-- page 73 (pdf 14) -->
 

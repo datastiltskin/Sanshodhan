@@ -185,6 +185,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. In what ways does the media play an important role in a democracy?
 
 > [note] BIG BUSINESS HOUSES
@@ -216,6 +218,8 @@ Glossary
 > [note] d. Whose point of view is being left out and why?
 
 > [note] 5. Do projects (solo, pair or group) about types of advertisements. Create commercial advertisements about some products and social advertisements about public health, road safety and the need to save water and energy.
+
+<!-- section: glossary -->
 
 > [note] Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
 

@@ -315,7 +315,7 @@ The various chapters in this book have tried to make clear to you the democratic
 
 > [caption] Subhash Kumar vs. State of Bihar (1991) 1 SCC 598.
 
-> [caption] Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,( www.countercurrents.org (Accessed on 12 November 2007)
+> [caption] Bhopal Gas Tragedy, http://www.studentsforbhopal.org/WhatHappened.htm (Accessed on C.K. Janu,(www.countercurrents.org (Accessed on 12 November 2007)
 
 > [caption] Democracy in Nepal, http://www.himalmag.com (Accessed on 15 December 2007)
 

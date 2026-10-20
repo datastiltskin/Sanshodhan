@@ -195,11 +195,11 @@ Nur Jahan Jahangir
 
 <!-- page 48 (pdf 10) -->
 
+<!-- section: exercises -->
+
 10. Like the Mughal Empire, India today is also made up of many social and cultural units. Does this pose a challenge to national integration?
 
 11. Peasants were vital for the economy of the Mughal Empire. Do you think that they are as important today? Has the gap in the income between the rich and the poor in India changed a great deal from the period of the Mughals?
-
-<!-- section: exercises -->
 
 ### Let’s do
 

@@ -53,7 +53,7 @@ From Class VI onwards, boys and girls went to separate schools. The girls’ sch
 
 A Class VII Samoan child in his school uniform.
 
-> [table] In what ways do the experiences of Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
+> [note] In what ways do the experiences of Samoan children and teenagers differ from your own experiences of growing up? Is there anything in this experience that you wish was part of your growing up?
 
 Why do girls like to go to school together in groups?
 
@@ -165,13 +165,13 @@ Haryana 23 30? 38 2? Tamil Nadu 19 35? 40 4?
 
 Women’s work and equality
 
-> [table] What are the total number of work hours spent by women in Haryana
+> [note] What are the total number of work hours spent by women in Haryana
 
 As we have seen the low value attached to women’s household and care-giving work is not an individual or family matter. It is part of a larger system of inequality between men and women. It, therefore, has to be dealt with through actions not just at the level of the individual or the family but also by the government. As we now know, equality is an important principle of our Constitution. The Constitution says that being male or female should not become a reason for discrimination. In reality, inequality between the sexes exists. The government is, therefore, committed to understanding the reasons for this and taking positive steps to remedy the situation. For example, it recognises that burden of child-care and housework falls on women and girls.
 
-> [table] and Tamil Nadu each week?
+> [note] and Tamil Nadu each week?
 
-> [table] How does this compare with the total number of work hours spent by men?
+> [note] How does this compare with the total number of work hours spent by men?
 
 Many women like Shonali’s mother in the story and the women in Tamil Nadu and Haryana who were surveyed work both inside and outside the home. This is often referred to as the double burden of women’s work.
 
@@ -195,36 +195,42 @@ Children at an Anganwadi centre in a village in Madhya Pradesh.
 
 EXERCISES
 
-> [table] 1. Are the statements given alongside true or false. Support your answer with the use of an example – a. All societies do not think similarly about the roles that boys and girls play.
+> [note] 1. Are the statements given alongside true or false. Support your answer with the use of an example –
 
-> [table] 2. Housework is invisible and unpaid work.
+> [note] 2. Housework is invisible and unpaid work.
 
-> [table] b. Our society does not make distinctions between boys and Housework is physically demanding.
-
-> [table] girls when they are growing up.
+> [table] Housework is physically demanding.
 
 > [table] Housework is time consuming.
 
-> [table] c. Women who stay at home do not work.
+> [note] Write in your own words what is meant by the terms
 
-> [table] Write in your own words what is meant by the terms
+> [note] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks undertaken by women in your home.
 
-> [table] ‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks d. The work that women do is less undertaken by women in your home.
+> [note] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
 
-> [table] valued than that of men.
-
-> [table] 3. Make a list of toys and games that boys typically play and another for girls. If there is a difference between the two lists, can you think of some reasons why this is so? Does this have any relationship to the roles children have to play as adults?
-
-> [table] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
+> [note] 4. If you have someone working as a domestic help in your house or locality talk to her and find out a little bit more about her life – Who are her family members? Where is her home? How many hours does she work? How much does she get paid? Write a small story based on these details.
 
 <!-- section: glossary -->
 
 Glossary
 
-> [table] Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several identities. For example, a person can be a girl, a sister and a musician.
+> [note] identities. For example, a person can be a girl, a sister and a musician.
 
-> [table] Double-burden: Literally means a double load. This term is commonly used to describe the women’s work situation. It has emerged from a recognition that women typically labour both inside the home (housework) and outside.
+<!-- section: exercises -->
 
-> [table] Care-giving: Care-giving refers to a range of tasks related to looking after and nurturing. Besides physical tasks, they also involve a strong emotional aspect.
+> [note] a. All societies do not think similarly about the roles that boys and girls play.
 
-> [table] De-valued: When someone is not given due recognition for a task or job they have done, they can feel de-valued. For example, if a boy has put in a lot of effort into making a special birthday gift for his friend and this friend does not say anything about this, then the boy may feel de-valued.
+> [note] b. Our society does not make distinctions between boys and girls when they are growing up.
+
+> [note] c. Women who stay at home do not work.
+
+> [note] d. The work that women do is less valued than that of men.
+
+<!-- section: glossary -->
+
+> [note] Identity: Identity is a sense of self-awareness of who one is. Typically, a person can have several Double-burden: Literally means a double load. This term is commonly used to describe the women’s work situation. It has emerged from a recognition that women typically labour both inside the home (housework) and outside.
+
+> [note] Care-giving: Care-giving refers to a range of tasks related to looking after and nurturing. Besides physical tasks, they also involve a strong emotional aspect.
+
+> [note] De-valued: When someone is not given due recognition for a task or job they have done, they can feel de-valued. For example, if a boy has put in a lot of effort into making a special birthday gift for his friend and this friend does not say anything about this, then the boy may feel de-valued.

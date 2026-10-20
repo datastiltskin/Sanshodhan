@@ -262,7 +262,7 @@
     },
     {
       "id": "2016-09-10",
-      "fingerprint": "bdc6e0f890216d0cd5a6ee061ef146951fe68b3311b713e58b69475543f28593",
+      "fingerprint": "64f15c52b41ed8af49d072fa01ff1769cc5f350b2721c04b7fe4540a3af6a2c2",
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16"
@@ -312,15 +312,15 @@
           "pdf": "pdfs/social-political-life-2/2016-09-10/ch02.pdf",
           "pdf_pages": 12,
           "printed_pages": "18-29",
-          "fingerprint": "ba2151678232347bf8d21d8b7a073a6afb292a387dc075855e04fc79daa6aa3a",
+          "fingerprint": "8d61c1de567430343d42736f9971747882b5e6b58fb55476dba30eee7a3bcefa",
           "role_counts": {
-            "body": 57,
+            "body": 56,
             "chapter-number": 1,
             "h2": 2,
             "footer": 24,
             "caption": 18,
-            "table": 37,
-            "note": 2
+            "table": 29,
+            "note": 11
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -611,9 +611,9 @@
             "chapter-number": 1,
             "caption": 27,
             "footer": 24,
-            "table": 27,
+            "table": 21,
             "decoration": 2,
-            "note": 6
+            "note": 12
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -634,9 +634,9 @@
             "footer": 24,
             "body": 35,
             "chapter-number": 1,
-            "table": 60,
+            "note": 32,
             "caption": 11,
-            "note": 1
+            "table": 29
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -658,8 +658,9 @@
             "chapter-number": 1,
             "footer": 26,
             "caption": 12,
-            "table": 32,
-            "decoration": 6
+            "table": 18,
+            "decoration": 6,
+            "note": 14
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -680,8 +681,9 @@
             "h2": 5,
             "body": 82,
             "chapter-number": 1,
-            "table": 56,
-            "caption": 5
+            "note": 30,
+            "caption": 5,
+            "table": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -702,7 +704,8 @@
             "h2": 4,
             "body": 51,
             "chapter-number": 1,
-            "table": 41,
+            "note": 25,
+            "table": 16,
             "caption": 2
           },
           "ocr": false,
@@ -725,9 +728,9 @@
             "chapter-number": 1,
             "footer": 23,
             "caption": 20,
-            "note": 7,
+            "note": 24,
             "decoration": 4,
-            "table": 24
+            "table": 7
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -854,9 +857,9 @@
             "chapter-number": 1,
             "caption": 27,
             "footer": 24,
-            "table": 27,
+            "table": 21,
             "decoration": 2,
-            "note": 6
+            "note": 12
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -877,9 +880,9 @@
             "footer": 24,
             "body": 35,
             "chapter-number": 1,
-            "table": 60,
+            "note": 32,
             "caption": 11,
-            "note": 1
+            "table": 29
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -901,8 +904,9 @@
             "chapter-number": 1,
             "footer": 26,
             "caption": 12,
-            "table": 32,
-            "decoration": 6
+            "table": 18,
+            "decoration": 6,
+            "note": 14
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -923,8 +927,9 @@
             "h2": 5,
             "body": 82,
             "chapter-number": 1,
-            "table": 56,
-            "caption": 5
+            "note": 30,
+            "caption": 5,
+            "table": 26
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -945,7 +950,8 @@
             "h2": 4,
             "body": 51,
             "chapter-number": 1,
-            "table": 41,
+            "note": 25,
+            "table": 16,
             "caption": 2
           },
           "ocr": false,
@@ -968,9 +974,9 @@
             "chapter-number": 1,
             "footer": 23,
             "caption": 20,
-            "note": 7,
+            "note": 24,
             "decoration": 4,
-            "table": 24
+            "table": 7
           },
           "ocr": false,
           "ocr_confidence": null,
@@ -1004,7 +1010,7 @@
     },
     {
       "id": "2022-08-02-ocr",
-      "fingerprint": "1da35a1ff609d2a6622ce1dc1c28f24937326330a6a5b68d003fb39bf4939644",
+      "fingerprint": "9834bdac776ab321f0c469f57589bba547a8de8e56d4c56950c658e730c94a4e",
       "snapshots": [
         "2022-08-02"
       ],
@@ -1047,7 +1053,7 @@
           "pdf": "pdfs/social-political-life-2/2022-08-02/ch01.pdf",
           "pdf_pages": 14,
           "printed_pages": "2-15",
-          "fingerprint": "702b010eb9b069b4b7f9f8295e06a13391a7860c470fe0efd3516ff3984f3202",
+          "fingerprint": "91cf7e2b0209ee180480470267969e6a030ad3d7a4a0b9a90fc3cd937191980c",
           "role_counts": {
             "table": 5,
             "body": 71,

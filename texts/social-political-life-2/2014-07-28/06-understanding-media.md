@@ -183,6 +183,8 @@ EXERCISES
 
 Glossary
 
+<!-- section: exercises -->
+
 > [note] 1. In what ways does the media play an important role in a democracy?
 
 > [note] BIG BUSINESS HOUSES
@@ -212,6 +214,8 @@ Glossary
 > [note] c. From whose point of view is the article being written?
 
 > [note] d. Whose point of view is being left out and why?
+
+<!-- section: glossary -->
 
 > [note] Publish: This refers to newsreports, articles, interviews, stories, etc., that are printed in newspapers, magazines and books for a wide audience to read.
 

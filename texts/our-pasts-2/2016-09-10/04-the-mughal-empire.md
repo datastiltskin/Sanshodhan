@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch04.pdf"
 source_sha256: "82734b433ad002c2add5b3b3e62dc3203ce2927b7f90495c9e8a86da890e3512"
 pdf_pages: 15
 printed_pages: "45-59"
-body_fingerprint: "1af0de32731029f8973c808a109667028ac8d29178b4f4b67a66e5c7f53f6800"
+body_fingerprint: "004c381cef11b7e902441cb1f5bd646ca3f83eba5e8f1a5a2ba4731dfafa9180"
 overrides:
   - "doubled semicolon in the Elsewhere box on page 57, the page has one"
 ---
@@ -33,7 +33,7 @@ The Mughals were descendants of two great lineages of rulers. From their mother�
 
 > [caption] Fig. 2 A miniature painting (dated 1702-1712) of Timur, his descendants and the Mughal emperors. Timur is in the centre and on his right is his son Miran Shah (the first Mughal emperor Babur’s great-great-grandfather) and then Abu Said (Babur’s grandfather). To the left of Timur are Sultan Muhammad Mirza (Babur’s great-grandfather) and Umar Shaikh (Babur’s father). The Mughal emperors Babur, Akbar and Shah Jahan are the third, fourth and fifth individuals on Timur’s right and on his left, in the same order, are Humayun, Jahangir and Aurangzeb.
 
-Do you think this painting suggests that the Mughals claimed kingship as a birthright?
+> [note] Do you think this painting suggests that the Mughals claimed kingship as a birthright?
 
 <!-- page 47 (pdf 3) -->
 
@@ -57,25 +57,31 @@ Note the relationship between the Mughals and the Ahoms (see also Chapter 7), th
 
 ## Major campaigns and events
 
-> [table] BABUR 1526-1530
+### BABUR 1526-1530
 
 1526 – defeated Ibrahim Lodi and his Afghan supporters at Panipat. 1527 – defeated Rana Sanga, Rajput rulers and allies at Khanua. 1528 – defeated the Rajputs at Chanderi; Established control over Agra and Delhi before his death.
 
-HUMAYUN 1530-1540, 1555-1556 (1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died the next year after an accident in this building.
+### HUMAYUN 1530-1540, 1555-1556
+
+(1) Humayun divided his inheritance according to the will of his father. His brothers were each given a province. The ambitions of his brother Mirza Kamran weakened Humayun’s cause against Afghan competitors. Sher Khan defeated Humayun at Chausa (1539) and Kanauj (1540), forcing him to flee to Iran. (2) In Iran Humayun received help from the Safavid Shah. He recaptured Delhi in 1555 but died the next year after an accident in this building.
 
 AKBAR 1556-1605 Akbar was 13 years old when he became emperor. His reign can be divided into three periods. (1) 1556-1570 – Akbar became independent of the regent Bairam Khan and other members of his domestic staff. Military campaigns were launched against the Suris and other Afghans, against the neighbouring kingdoms of Malwa and Gondwana, and to suppress the revolt of his half-brother Mirza Hakim and the Uzbegs. In 1568 the Sisodiya capital of Chittor was seized and in 1569 Ranthambhor. (2) 1570-1585 – military campaigns in Gujarat were followed by campaigns in the east in Bihar, Bengal and Orissa. These campaigns were complicated by the 1579-1580 revolt in support of Mirza Hakim. (3) 1585-1605 – expansion of Akbar’s empire. Campaigns were launched in the north-west. Qandahar was seized from the Safavids, Kashmir was annexed, as also Kabul, after the death of Mirza Hakim. Campaigns in the Deccan started and Berar, Khandesh and parts of Ahmadnagar were annexed. In the last years of his reign Akbar was distracted by the rebellion of Prince Salim, the future Emperor Jahangir.
 
 <!-- page 49 (pdf 5) -->
 
-Jahangir 1605-1627 Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.
+### Jahangir 1605-1627
 
-> [table] Shah Jahan 1627-1658
+Military campaigns started by Akbar continued. The Sisodiya ruler of Mewar, Amar Singh, accepted Mughal service. Less successful campaigns against the Sikhs, the Ahoms and Ahmadnagar followed. Prince Khurram, the future Emperor Shah Jahan, rebelled in the last years of his reign. The efforts of Nur Jahan, Jahangir’s wife, to marginalise him were unsuccessful.
+
+### Shah Jahan 1627-1658
 
 Mughal campaigns continued in the Deccan under Shah Jahan. The Afghan noble Khan Jahan Lodi rebelled and was defeated. Campaigns were launched against Ahmadnagar; the Bundelas were defeated and Orchha seized. In the north-west, the campaign to seize Balkh from the Uzbegs was unsuccessful and Qandahar was lost to the Safavids. In 1632 Ahmadnagar was finally annexed and the Bijapur forces sued for peace. In 1657-1658, there was conflict over succession amongst Shah Jahan’s sons. Aurangzeb was victorious and his three brothers, including Dara Shukoh, were killed. Shah Jahan was imprisoned for the rest of his life in Agra.
 
-> [table] Aurangzeb 1658-1707 (1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled
+### Aurangzeb 1658-1707
 
-against Aurangzeb and received support from the Marathas and the Deccan Sultanate. He finally fled to Safavid Iran. (2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons.
+(1) In the north-east, the Ahoms were defeated in 1663, but rebelled again in the 1680s. Campaigns in the north-west against the Yusufzai and the Sikhs against Aurangzeb and received support from the Marathas and the Deccan Sultanate. He finally fled to Safavid Iran. (2) After Akbar’s rebellion Aurangzeb sent armies against the Deccan Sultanates. Bijapur was annexed in 1685 and Golconda in 1687. From 1698 Aurangzeb personally managed campaigns in the Deccan against the Marathas who started guerrilla warfare. Aurangzeb also had to face the rebellion in north India of the Sikhs, Jats and Satnamis, in the north-east of the Ahoms and in the Deccan of the Marathas. His death was followed by a succession conflict amongst his sons.
+
+> [table] were temporarily successful. Mughal intervention in the succession and internal politics of the Rathor Rajputs of Marwar led to their rebellion. Campaigns against the Maratha chieftain Shivaji were initially successful. But Aurangzeb insulted Shivaji who escaped from Agra, declared himself an independent king and resumed his campaigns against the Mughals. Prince Akbar rebelled
 
 <!-- page 50 (pdf 6) -->
 
@@ -109,7 +115,7 @@ Mansabdars received their salaries as revenue assignments called jagirs which we
 
 ### Zat ranking
 
-Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
+> [note] Nobles with a zat of 5,000 were ranked higher than those of 1,000. In Akbar’s reign there were 29 mansabdars with a rank of 5,000 zat; by Aurangzeb’s reign the number of mansabdars had increased to 79. Would this have meant more expenditure for the state?
 
 <!-- page 52 (pdf 8) -->
 
@@ -131,7 +137,7 @@ In some areas the zamindars exercised a great deal of power. The exploitation by
 
 ### Akbar Nama and Ain-i Akbari
 
-Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar’s reign, titled Akbar Nama. The first volume dealt with Akbar’s ancestors and the second volume recorded the events of Akbar’s reign. The third volume is the Ain-i Akbari. It deals with Akbar’s administration, household, army, the revenues and the geography of his empire. It also provides rich details about the traditions and culture of the people living in India. The most interesting aspect about the Ain-i Akbari is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.
+> [note] Akbar ordered one of his close friends and courtiers, Abul Fazl, to write a history of his reign. Abul Fazl wrote a three-volume history of Akbar’s reign, titled Akbar Nama. The first volume dealt with Akbar’s ancestors and the second volume recorded the events of Akbar’s reign. The third volume is the Ain-i Akbari. It deals with Akbar’s administration, household, army, the revenues and the geography of his empire. It also provides rich details about the traditions and culture of the people living in India. The most interesting aspect about the Ain-i Akbari is its rich statistical details about things as diverse as crops, yields, prices, wages and revenues.
 
 ## A Closer Look: Akbar’s Policies
 
@@ -151,9 +157,9 @@ Bigot An individual who is intolerant of another person’s religious beliefs or
 
 ### Nur Jahan’s influence in Jahangir’s court
 
-Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
+> [note] Mehrunnisa married the Emperor Jahangir in 1611 and received the title Nur Jahan. She remained extremely loyal and supportive to the monarch. As a mark of honour, Jahangir struck silver coins bearing his own titles on one side and on the other the inscription “struck in the name of the Queen Begum, Nur Jahan”.
 
-The adjoining document is an order (farman) of Nur Jahan. The square seal states, “Command of her most Sublime and Elevated Majesty Nur Jahan Padshah Begum”. The round seal states, “by the sun of Shah Jahangir she became as brilliant as the moon; may Nur Jahan Padshah be the lady of the age”.
+> [note] The adjoining document is an order (farman) of Nur Jahan. The square seal states, “Command of her most Sublime and Elevated Majesty Nur Jahan Padshah Begum”. The round seal states, “by the sun of Shah Jahangir she became as brilliant as the moon; may Nur Jahan Padshah be the lady of the age”.
 
 Akbar’s nobles commanded large armies and had access to large amounts of revenue. While they were loyal the empire functioned efficiently but by the end of the seventeenth century many nobles had built independent networks of their own. Their loyalties to the empire were weakened by their own self-interest.
 
@@ -163,13 +169,13 @@ While Akbar was at Fatehpur Sikri during the 1570s he started discussions on rel
 
 ### Sulh-i kul
 
-Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
+> [note] Jahangir, Akbar’s son, described his father’s policy of sulh-i kul in the following words:
 
 As in the wide expanse of the divine compassion there is room for all classes and the followers of all creeds, so … in his Imperial dominions, which on all sides were limited only by the sea, there was room for the professors of opposite religions, and for beliefs, good and bad, and the road to intolerance was closed. Sunnis and Shias met in one mosque and Christians and Jews in one church to pray. He consistently followed the principle of “universal peace” (sulh-i kul).
 
 > [caption] Fig. 9 Akbar holding discussions with learned individuals of different faiths in the ibadat khana.
 
-Can you identify the Jesuit priests in this picture?
+> [note] Can you identify the Jesuit priests in this picture?
 
 <!-- page 56 (pdf 12) -->
 
@@ -185,11 +191,11 @@ The enormous wealth and resources commanded by the Mughal elite made them an ext
 
 Kings and queens
 
-> [table] There were several great monarchs – all near-contemporaries – in different parts of the world in the sixteenth century.
+> [note] There were several great monarchs – all near-contemporaries – in different parts of the world in the sixteenth century.
 
-These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
+> [note] These included the ruler of Ottoman Turkey, Sultan Suleyman 1520-1566. During his rule the Ottoman state expanded into Europe, seizing Hungary and besieging Austria. His armies also seized Baghdad and Iraq. Much of north Africa, all the way into Morocco, acknowledged Ottoman authority. Suleyman also reconstructed the Ottoman navy. Its domination over the eastern Mediterranean brought the navy into competition with Spain. In the Arabian Sea it challenged the Portuguese. The monarch was given the title of “al-Qanuni” (the “lawgiver”) because of the large number of regulations (qanun) passed during his reign. These were aimed to standardise administrative procedures throughout the expanding domains of the empire and specifically to protect the peasantry from forced labour and extraordinary taxes. Later, in the seventeenth century, when public order declined in the Ottoman domains, the reign of Suleyman Qanuni was remembered as a period of ideal governance.
 
-Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
+> [note] Find out more about Akbar’s other contemporaries – the ruler of England, Queen Elizabeth I (1558-1603); the Safavid ruler of Iran, Shah Abbas (1588-1629); and the more controversial Russian ruler, Czar Ivan IV Vasilyevich, also called “Ivan the Terrible” (1530-1584).
 
 ### Imagine
 

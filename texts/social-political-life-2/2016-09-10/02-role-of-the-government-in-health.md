@@ -11,7 +11,7 @@ source_pdf: "pdfs/social-political-life-2/2016-09-10/ch02.pdf"
 source_sha256: "08028e311cd9ad1e5bf2d90c6ff5132d6e0d1b18ad59c6ba74423301ca1dc901"
 pdf_pages: 12
 printed_pages: "18-29"
-body_fingerprint: "ba2151678232347bf8d21d8b7a073a6afb292a387dc075855e04fc79daa6aa3a"
+body_fingerprint: "8d61c1de567430343d42736f9971747882b5e6b58fb55476dba30eee7a3bcefa"
 ---
 
 <!-- page 18 (pdf 1) -->
@@ -60,7 +60,7 @@ However, the second column points out how poor the health situation in our count
 
 Patients usually have to wait in long queues in public hospitals, like this one.
 
-The story of Hakim Sheik
+> [note] The story of Hakim Sheik
 
 Hakim Sheik was a member of the Paschim Banga Khet Mazdoor Samity (PBKMS), an organisation of agricultural labourers in West Bengal. One evening in 1992, he accidentally fell off a running train and suffered head injuries. He was in a very serious condition and needed immediate treatment.
 
@@ -72,23 +72,19 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 <!-- page 22 (pdf 5) -->
 
-## THE COST OF A CURE
-
 > [table] Oh! Me, too! I just got back to school on Monday. My Daddy took me to see the doctor at the new hospital in Kingsway. It was very exciting!
 
 > [table] I had viral fever and had to go to the hospital...
 
-> [table] Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
+> [note] Aman and Ranjan are good friends. While Ranjan comes from a well-to-do family, Aman’s parents have to struggle to make ends meet...
 
 > [table] Hi Aman! Good to see you back! How have you been?
 
-> [table] The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.
+> [note] The building looked so posh. I thought it was a five star hotel! Daddy said that was because it was a private hospital, with the best of facilities.
 
-> [table] Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.
+> [note] Daddy had to pay Rs 500 at the reception counter itself – before we even met the doctor! There was nice music playing and everything was really clean and shiny.
 
-> [table] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.
-
-> [table] The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!
+> [note] After the test results came, we went back to the doctor. He looked through them and said everything was fine, and I only had viral fever. He prescribed lots of medicines and rest.
 
 > [table] ...and so young man – this pink pill should be taken three times a day, and the white tablet once before bed time – that’s for the bodyache! This one is a syrup – don’t worry, it’s tasty
 
@@ -96,19 +92,21 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 
 > [table] Thank you Doctor...I feel better already!
 
+## THE COST OF A CURE
+
+> [note] The doctor asked for many tests...but everyone was so friendly! The lady who took my blood for testing told me so many jokes that I forgot to feel the pain!
+
 <!-- page 23 (pdf 6) -->
 
 > [table] You see, I’ve been dying to tell you all about it! But what about you? Which hospital did you go to?
 
 > [table] Um...it wasn’t as nice as your’s at all! At first, Abba didn’t want to take me because he said it would take too much time...
 
-> [table] When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.
+> [note] When our turn came, the doctor examined me, and asked for a blood test. Then we had to go and stand in another long queue! People were crowding around in the testing room too.
 
 > [table] He seems to be suffering from a bout of viral fever – nothing to worry about. All he needs is this one fever-reducing medicine.
 
-> [table] ...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!
-
-> [table] We got the test results after three days...and went back to the hospital. There was a different doctor that day.
+> [note] We got the test results after three days...and went back to the hospital. There was a different doctor that day.
 
 > [table] Show me his OPD card...and the test results
 
@@ -119,6 +117,8 @@ Finally, he was admitted in a private hospital, where he received treatment. He 
 > [table] That much! My treatment cost just
 
 > [table] Rs 150!
+
+> [note] ...and it really did! We went to a big Government Hospital. We had to wait in a long queue at the OPD counter. I was feeling so sick that I had to lean on Abba all the time!
 
 <!-- page 24 (pdf 7) -->
 

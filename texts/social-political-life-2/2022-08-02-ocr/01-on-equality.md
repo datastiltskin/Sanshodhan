@@ -10,7 +10,7 @@ source_pdf: "pdfs/social-political-life-2/2022-08-02/ch01.pdf"
 source_sha256: "1437856c5f5e069787c4889b15dac1053d1772120a932f50a06da7a692bc053b"
 pdf_pages: 14
 printed_pages: "2-15"
-body_fingerprint: "702b010eb9b069b4b7f9f8295e06a13391a7860c470fe0efd3516ff3984f3202"
+body_fingerprint: "91cf7e2b0209ee180480470267969e6a030ad3d7a4a0b9a90fc3cd937191980c"
 ocr: true
 ocr_confidence: 88.2
 overrides:
@@ -65,7 +65,7 @@ Trader Kanta Devi
 
 On election day, Kanta and her friend Sujata are waiting to cast their votes...
 
-Isn’t it good Suja that we can all vote as equal citizens of our country? Even Jain ) Saheb is standing in the line with us!
+Isn’t it good Suja that we can all vote as equal citizens of our country? Even Jain) Saheb is standing in the line with us!
 
 I will vote for the candidate who has promised to bring pipe water to our area.
 

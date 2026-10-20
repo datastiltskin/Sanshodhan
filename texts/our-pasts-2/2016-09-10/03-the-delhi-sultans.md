@@ -12,7 +12,7 @@ source_pdf: "pdfs/our-pasts-2/2016-09-10/ch03.pdf"
 source_sha256: "4e420932015a742948f0686c141e30201ccfde30049586359bd35cded764759d"
 pdf_pages: 15
 printed_pages: "30-44"
-body_fingerprint: "6646260ec4f0834e2ea463f3bb83529c79cc6ef9ef4b7ac0861f6b21c043fad3"
+body_fingerprint: "d819707fa47436c9859150e32b11780b5c65259aac5c05b62c4d494d92ea2562"
 ---
 
 <!-- page 30 (pdf 1) -->
@@ -35,7 +35,7 @@ The Delhi Sultans built many cities in the area that we now know as Delhi. Look 
 
 Table 1
 
-RAJPUT DYNASTIES
+### RAJPUT DYNASTIES
 
 Tomaras early twelfth century - 1165
 
@@ -45,7 +45,7 @@ Chauhans 1165 -1192
 
 Prithviraj Chauhan 1175 -1192
 
-EARLY TURKISH RULERS 1206-1290
+### EARLY TURKISH RULERS 1206-1290
 
 Qutbuddin Aybak 1206 -1210
 
@@ -57,13 +57,13 @@ Ghiyasuddin Balban 1266 -1287
 
 > [caption] Iltutmish’s tomb
 
-KHALJI DYNASTY 1290 - 1320
+### KHALJI DYNASTY 1290 - 1320
 
 Jalaluddin Khalji 1290 - 1296
 
 Alauddin Khalji 1296 -1316
 
-TUGHLUQ DYNASTY 1320 - 1414
+### TUGHLUQ DYNASTY 1320 - 1414
 
 Ghiyasuddin Tughluq 1320 -1324
 
@@ -73,11 +73,11 @@ Firuz Shah Tughluq 1351 -1388
 
 > [caption] Alai Darwaza
 
-SAYYID DYNASTY 1414 - 1451
+### SAYYID DYNASTY 1414 - 1451
 
 Khizr Khan 1414 -1421
 
-LODI DYNASTY 1451 - 1526
+### LODI DYNASTY 1451 - 1526
 
 Bahlul Lodi 1451 -1489
 
@@ -151,7 +151,7 @@ By the end of Muhammad Tughluq’s reign, 150 years after somewhat humble beginn
 
 <!-- page 36 (pdf 7) -->
 
-The Masjid
+### The Masjid
 
 A mosque is called a masjid in Arabic, literally a place where a Muslim prostrates in reverence to Allah. In a “congregational mosque” (masjid-i jami or jama masjid) Muslims read their prayers (namaz) together. Members of the congregation choose the most respected, learned male as their leader (imam) for the rituals of prayer. He also delivers the sermon (khutba) during the Friday prayer.
 
@@ -163,11 +163,9 @@ During prayer, Muslims stand facing Mecca. In India this is to the west. This is
 
 <!-- page 37 (pdf 8) -->
 
-The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers
+The Delhi Sultans built several mosques in cities all over the subcontinent. These demonstrated their claims to be protectors of Islam and Muslims. Mosques also helped to create the sense of a community of believers who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.
 
 > [caption] Fig. 4 Moth ki Masjid, built in the reign of Sikandar Lodi by his minister.
-
-who shared a belief system and a code of conduct. It was necessary to reinforce this idea of a community because Muslims came from a variety of backgrounds.
 
 > [caption] Fig. 5 Mosque of Jamali Kamali, built in the late 1520s.
 

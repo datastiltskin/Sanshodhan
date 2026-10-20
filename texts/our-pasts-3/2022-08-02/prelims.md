@@ -184,7 +184,7 @@ Aman Nath and Jay Vithalani, Horizons: The Tata-India Century, 1904-2004 (Ch. 6,
 
 C.A. Bayly, ed., An Illustrated History of Modern India, 1600-1947
 
-(Ch. 6, Fig.11; Ch. 7, Figs. 2, 4, 6; Ch. 9, Figs. 3, 4, 5, 10 )
+(Ch. 6, Fig.11; Ch. 7, Figs. 2, 4, 6; Ch. 9, Figs. 3, 4, 5, 10)
 
 Jan Breman, Labour Bondage in Western India (Ch. 8, Fig. 11)
 

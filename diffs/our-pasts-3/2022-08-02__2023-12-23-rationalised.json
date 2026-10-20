@@ -9,24 +9,24 @@
   "body": {
    "deleted": 61,
    "inserted": 0,
-   "modified": 27,
+   "modified": 25,
    "moved": 3,
    "typographic": 11,
-   "restreamed": 111,
+   "restreamed": 20,
    "resplit": 24,
    "unreadable": 0,
-   "punctuation": 114
+   "punctuation": 113
   },
   "other_streams": {
    "deleted": 25,
    "inserted": 6,
-   "modified": 17,
-   "moved": 6,
-   "typographic": 9,
+   "modified": 19,
+   "moved": 8,
+   "typographic": 11,
    "restreamed": 27,
-   "resplit": 8,
+   "resplit": 9,
    "unreadable": 0,
-   "punctuation": 7
+   "punctuation": 14
   },
   "suspect_pages": 5
  },
@@ -3076,7 +3076,7 @@
     "title": "From Trade to Territory The Company Establishes Power",
     "file": "texts/our-pasts-3/2023-12-23-rationalised/02-from-trade-to-territory-the-company-establishes.md"
    },
-   "similarity": 0.88,
+   "similarity": 0.885,
    "status": "matched",
    "streams": {
     "heading": {
@@ -3485,10 +3485,10 @@
       "modified": 2,
       "moved": 0,
       "typographic": 4,
-      "restreamed": 13,
+      "restreamed": 2,
       "resplit": 1,
       "unreadable": 0,
-      "punctuation": 26
+      "punctuation": 25
      },
      "hunks": [
       {
@@ -4101,7 +4101,7 @@
          "the conflict between the Company and the nawabs of Bengal intensified."
         ]
        ],
-       "old_pos": 48,
+       "old_pos": 46,
        "new_pos": 46
       },
       {
@@ -4130,7 +4130,7 @@
          "it had to enlarge its settlements, buy up villages, and rebuild its forts."
         ]
        ],
-       "old_pos": 56,
+       "old_pos": 54,
        "new_pos": 54
       },
       {
@@ -4178,7 +4178,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 49,
+       "old_pos": 47,
        "new_pos": 47
       },
       {
@@ -4190,7 +4190,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 50,
+       "old_pos": 48,
        "new_pos": 48
       },
       {
@@ -4202,7 +4202,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 51,
+       "old_pos": 49,
        "new_pos": 49
       },
       {
@@ -4214,7 +4214,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 52,
+       "old_pos": 50,
        "new_pos": 50
       },
       {
@@ -4226,7 +4226,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 53,
+       "old_pos": 51,
        "new_pos": 51
       },
       {
@@ -4238,7 +4238,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 54,
+       "old_pos": 52,
        "new_pos": 52
       },
       {
@@ -4250,7 +4250,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 55,
+       "old_pos": 53,
        "new_pos": 53
       },
       {
@@ -4262,7 +4262,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 57,
+       "old_pos": 55,
        "new_pos": 55
       },
       {
@@ -4274,7 +4274,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 58,
+       "old_pos": 56,
        "new_pos": 56
       },
       {
@@ -4286,7 +4286,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 59,
+       "old_pos": 57,
        "new_pos": 57
       },
       {
@@ -4298,7 +4298,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 60,
+       "old_pos": 58,
        "new_pos": 58
       },
       {
@@ -4310,7 +4310,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 61,
+       "old_pos": 59,
        "new_pos": 59
       },
       {
@@ -4322,7 +4322,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 62,
+       "old_pos": 60,
        "new_pos": 60
       },
       {
@@ -4334,7 +4334,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 63,
+       "old_pos": 61,
        "new_pos": 61
       },
       {
@@ -4346,7 +4346,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 64,
+       "old_pos": 62,
        "new_pos": 62
       },
       {
@@ -4358,7 +4358,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 65,
+       "old_pos": 63,
        "new_pos": 63
       },
       {
@@ -4370,7 +4370,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 66,
+       "old_pos": 64,
        "new_pos": 64
       },
       {
@@ -4382,7 +4382,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 67,
+       "old_pos": 65,
        "new_pos": 65
       },
       {
@@ -4394,7 +4394,7 @@
        "old_page": 12,
        "new_page": 12,
        "words": [],
-       "old_pos": 68,
+       "old_pos": 66,
        "new_pos": 66
       },
       {
@@ -4406,7 +4406,7 @@
        "old_page": 13,
        "new_page": 13,
        "words": [],
-       "old_pos": 69,
+       "old_pos": 67,
        "new_pos": 67
       },
       {
@@ -4418,7 +4418,7 @@
        "old_page": 13,
        "new_page": 13,
        "words": [],
-       "old_pos": 70,
+       "old_pos": 68,
        "new_pos": 68
       },
       {
@@ -4430,7 +4430,7 @@
        "old_page": 13,
        "new_page": 13,
        "words": [],
-       "old_pos": 71,
+       "old_pos": 69,
        "new_pos": 69
       },
       {
@@ -4442,7 +4442,7 @@
        "old_page": 13,
        "new_page": 13,
        "words": [],
-       "old_pos": 72,
+       "old_pos": 70,
        "new_pos": 70
       },
       {
@@ -4454,7 +4454,7 @@
        "old_page": 13,
        "new_page": 13,
        "words": [],
-       "old_pos": 73,
+       "old_pos": 71,
        "new_pos": 71
       },
       {
@@ -4483,7 +4483,7 @@
          "they rob and plunder and carry great number of the king’s subjects of both sexes into slavery into their own country …"
         ]
        ],
-       "old_pos": 76,
+       "old_pos": 74,
        "new_pos": 74
       },
       {
@@ -4512,7 +4512,7 @@
          "500,000 every month but the Company wanted more money to finance its wars, and meet the demands of trade and its other expenses."
         ]
        ],
-       "old_pos": 87,
+       "old_pos": 85,
        "new_pos": 85
       },
       {
@@ -4537,7 +4537,7 @@
          "ourselves”."
         ]
        ],
-       "old_pos": 90,
+       "old_pos": 88,
        "new_pos": 88
       },
       {
@@ -4566,7 +4566,7 @@
          "the mood of the Company had changed."
         ]
        ],
-       "old_pos": 89,
+       "old_pos": 87,
        "new_pos": 87
       },
       {
@@ -4595,7 +4595,7 @@
          "its trade with India had expanded."
         ]
        ],
-       "old_pos": 94,
+       "old_pos": 92,
        "new_pos": 92
       },
       {
@@ -4607,7 +4607,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 74,
+       "old_pos": 72,
        "new_pos": 72
       },
       {
@@ -4619,7 +4619,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 75,
+       "old_pos": 73,
        "new_pos": 73
       },
       {
@@ -4631,7 +4631,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 77,
+       "old_pos": 75,
        "new_pos": 75
       },
       {
@@ -4643,7 +4643,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 78,
+       "old_pos": 76,
        "new_pos": 76
       },
       {
@@ -4655,7 +4655,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 79,
+       "old_pos": 77,
        "new_pos": 77
       },
       {
@@ -4667,7 +4667,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 80,
+       "old_pos": 78,
        "new_pos": 78
       },
       {
@@ -4679,7 +4679,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 81,
+       "old_pos": 79,
        "new_pos": 79
       },
       {
@@ -4691,7 +4691,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 82,
+       "old_pos": 80,
        "new_pos": 80
       },
       {
@@ -4703,7 +4703,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 83,
+       "old_pos": 81,
        "new_pos": 81
       },
       {
@@ -4715,7 +4715,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 84,
+       "old_pos": 82,
        "new_pos": 82
       },
       {
@@ -4727,7 +4727,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 85,
+       "old_pos": 83,
        "new_pos": 83
       },
       {
@@ -4739,7 +4739,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 86,
+       "old_pos": 84,
        "new_pos": 84
       },
       {
@@ -4751,7 +4751,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 88,
+       "old_pos": 86,
        "new_pos": 86
       },
       {
@@ -4763,7 +4763,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 91,
+       "old_pos": 89,
        "new_pos": 89
       },
       {
@@ -4775,7 +4775,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 92,
+       "old_pos": 90,
        "new_pos": 90
       },
       {
@@ -4787,7 +4787,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 93,
+       "old_pos": 91,
        "new_pos": 91
       },
       {
@@ -4799,7 +4799,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 95,
+       "old_pos": 93,
        "new_pos": 93
       },
       {
@@ -4811,7 +4811,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 96,
+       "old_pos": 94,
        "new_pos": 94
       },
       {
@@ -4823,7 +4823,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 97,
+       "old_pos": 95,
        "new_pos": 95
       },
       {
@@ -4835,7 +4835,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 98,
+       "old_pos": 96,
        "new_pos": 96
       },
       {
@@ -4847,7 +4847,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 99,
+       "old_pos": 97,
        "new_pos": 97
       },
       {
@@ -4859,7 +4859,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 100,
+       "old_pos": 98,
        "new_pos": 98
       },
       {
@@ -4871,7 +4871,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 101,
+       "old_pos": 99,
        "new_pos": 99
       },
       {
@@ -4883,7 +4883,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 102,
+       "old_pos": 100,
        "new_pos": 100
       },
       {
@@ -4895,7 +4895,7 @@
        "old_page": 14,
        "new_page": 14,
        "words": [],
-       "old_pos": 103,
+       "old_pos": 101,
        "new_pos": 101
       },
       {
@@ -4907,7 +4907,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 126,
+       "old_pos": 124,
        "new_pos": 124
       },
       {
@@ -4936,7 +4936,7 @@
          "the actual nawabs of Bengal were forced to give land and vast sums of money as personal gifts to Company officials."
         ]
        ],
-       "old_pos": 104,
+       "old_pos": 102,
        "new_pos": 102
       },
       {
@@ -4965,7 +4965,7 @@
          "his Indian fortune was worth £401,102."
         ]
        ],
-       "old_pos": 106,
+       "old_pos": 104,
        "new_pos": 104
       },
       {
@@ -4994,7 +4994,7 @@
          "and it would not be right to regard all of them as corrupt and dishonest."
         ]
        ],
-       "old_pos": 110,
+       "old_pos": 108,
        "new_pos": 108
       },
       {
@@ -5019,7 +5019,7 @@
          "the Company forced the states into a “subsidiary alliance”."
         ]
        ],
-       "old_pos": 122,
+       "old_pos": 120,
        "new_pos": 120
       },
       {
@@ -5031,7 +5031,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 103,
        "new_pos": 103
       },
       {
@@ -5043,7 +5043,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 107,
+       "old_pos": 105,
        "new_pos": 105
       },
       {
@@ -5055,7 +5055,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 108,
+       "old_pos": 106,
        "new_pos": 106
       },
       {
@@ -5067,7 +5067,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 109,
+       "old_pos": 107,
        "new_pos": 107
       },
       {
@@ -5079,7 +5079,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 111,
+       "old_pos": 109,
        "new_pos": 109
       },
       {
@@ -5091,7 +5091,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 112,
+       "old_pos": 110,
        "new_pos": 110
       },
       {
@@ -5103,7 +5103,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 113,
+       "old_pos": 111,
        "new_pos": 111
       },
       {
@@ -5115,7 +5115,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 114,
+       "old_pos": 112,
        "new_pos": 112
       },
       {
@@ -5127,7 +5127,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 115,
+       "old_pos": 113,
        "new_pos": 113
       },
       {
@@ -5139,7 +5139,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 116,
+       "old_pos": 114,
        "new_pos": 114
       },
       {
@@ -5151,7 +5151,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 117,
+       "old_pos": 115,
        "new_pos": 115
       },
       {
@@ -5163,7 +5163,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 118,
+       "old_pos": 116,
        "new_pos": 116
       },
       {
@@ -5175,7 +5175,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 119,
+       "old_pos": 117,
        "new_pos": 117
       },
       {
@@ -5187,7 +5187,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 120,
+       "old_pos": 118,
        "new_pos": 118
       },
       {
@@ -5199,7 +5199,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 121,
+       "old_pos": 119,
        "new_pos": 119
       },
       {
@@ -5211,7 +5211,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 123,
+       "old_pos": 121,
        "new_pos": 121
       },
       {
@@ -5223,7 +5223,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 124,
+       "old_pos": 122,
        "new_pos": 122
       },
       {
@@ -5235,7 +5235,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 125,
+       "old_pos": 123,
        "new_pos": 123
       },
       {
@@ -5247,7 +5247,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 127,
+       "old_pos": 125,
        "new_pos": 125
       },
       {
@@ -5259,7 +5259,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 128,
+       "old_pos": 126,
        "new_pos": 126
       },
       {
@@ -5271,7 +5271,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 129,
+       "old_pos": 127,
        "new_pos": 127
       },
       {
@@ -5283,7 +5283,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 130,
+       "old_pos": 128,
        "new_pos": 128
       },
       {
@@ -5295,7 +5295,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 129,
        "new_pos": 129
       },
       {
@@ -5307,7 +5307,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 130,
        "new_pos": 130
       },
       {
@@ -5319,7 +5319,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 131,
        "new_pos": 131
       },
       {
@@ -5331,7 +5331,7 @@
        "old_page": 15,
        "new_page": 15,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 132,
        "new_pos": 132
       },
       {
@@ -5360,7 +5360,7 @@
          "Tipu Sultan stopped the export of sandalwood, pepper and cardamom through the ports of his kingdom, and disallowed local merchants from trading with the Company."
         ]
        ],
-       "old_pos": 142,
+       "old_pos": 140,
        "new_pos": 140
       },
       {
@@ -5372,7 +5372,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 133,
        "new_pos": 133
       },
       {
@@ -5384,7 +5384,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 134,
        "new_pos": 134
       },
       {
@@ -5396,7 +5396,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 137,
+       "old_pos": 135,
        "new_pos": 135
       },
       {
@@ -5408,7 +5408,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 136,
        "new_pos": 136
       },
       {
@@ -5420,7 +5420,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 139,
+       "old_pos": 137,
        "new_pos": 137
       },
       {
@@ -5432,7 +5432,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 138,
        "new_pos": 138
       },
       {
@@ -5444,7 +5444,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 139,
        "new_pos": 139
       },
       {
@@ -5456,7 +5456,7 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 143,
+       "old_pos": 141,
        "new_pos": 141
       },
       {
@@ -5468,7 +5468,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 146,
+       "old_pos": 144,
        "new_pos": 144
       },
       {
@@ -5480,7 +5480,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 144,
+       "old_pos": 142,
        "new_pos": 142
       },
       {
@@ -5492,7 +5492,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 143,
        "new_pos": 143
       },
       {
@@ -5504,7 +5504,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 145,
        "new_pos": 145
       },
       {
@@ -5516,7 +5516,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 146,
        "new_pos": 146
       },
       {
@@ -5528,7 +5528,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 172,
+       "old_pos": 161,
        "new_pos": 158
       },
       {
@@ -5540,7 +5540,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 173,
+       "old_pos": 162,
        "new_pos": 159
       },
       {
@@ -5569,7 +5569,7 @@
          "the Company also sought to curb and eventually destroy Maratha power."
         ]
        ],
-       "old_pos": 165,
+       "old_pos": 154,
        "new_pos": 151
       },
       {
@@ -5598,7 +5598,7 @@
          "the Company pursued an aggressive policy of territorial expansion."
         ]
        ],
-       "old_pos": 176,
+       "old_pos": 165,
        "new_pos": 162
       },
       {
@@ -5627,7 +5627,7 @@
          "a new policy of “paramountcy” was initiated."
         ]
        ],
-       "old_pos": 177,
+       "old_pos": 166,
        "new_pos": 163
       },
       {
@@ -5656,7 +5656,7 @@
          "it was justified in annexing or threatening to annex any Indian kingdom."
         ]
        ],
-       "old_pos": 179,
+       "old_pos": 168,
        "new_pos": 165
       },
       {
@@ -5685,7 +5685,7 @@
          "he destroyed many British camps and records."
         ]
        ],
-       "old_pos": 185,
+       "old_pos": 174,
        "new_pos": 171
       },
       {
@@ -5697,7 +5697,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 161,
+       "old_pos": 150,
        "new_pos": 147
       },
       {
@@ -5709,7 +5709,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 162,
+       "old_pos": 151,
        "new_pos": 148
       },
       {
@@ -5721,7 +5721,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 163,
+       "old_pos": 152,
        "new_pos": 149
       },
       {
@@ -5733,7 +5733,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 164,
+       "old_pos": 153,
        "new_pos": 150
       },
       {
@@ -5745,7 +5745,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 166,
+       "old_pos": 155,
        "new_pos": 152
       },
       {
@@ -5757,7 +5757,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 167,
+       "old_pos": 156,
        "new_pos": 153
       },
       {
@@ -5769,7 +5769,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 168,
+       "old_pos": 157,
        "new_pos": 154
       },
       {
@@ -5781,7 +5781,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 169,
+       "old_pos": 158,
        "new_pos": 155
       },
       {
@@ -5793,7 +5793,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 170,
+       "old_pos": 159,
        "new_pos": 156
       },
       {
@@ -5805,7 +5805,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 171,
+       "old_pos": 160,
        "new_pos": 157
       },
       {
@@ -5817,7 +5817,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 174,
+       "old_pos": 163,
        "new_pos": 160
       },
       {
@@ -5829,7 +5829,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 175,
+       "old_pos": 164,
        "new_pos": 161
       },
       {
@@ -5841,7 +5841,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 178,
+       "old_pos": 167,
        "new_pos": 164
       },
       {
@@ -5853,7 +5853,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 180,
+       "old_pos": 169,
        "new_pos": 166
       },
       {
@@ -5865,7 +5865,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 181,
+       "old_pos": 170,
        "new_pos": 167
       },
       {
@@ -5877,7 +5877,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 182,
+       "old_pos": 171,
        "new_pos": 168
       },
       {
@@ -5889,7 +5889,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 183,
+       "old_pos": 172,
        "new_pos": 169
       },
       {
@@ -5901,7 +5901,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 184,
+       "old_pos": 173,
        "new_pos": 170
       },
       {
@@ -5913,7 +5913,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 186,
+       "old_pos": 175,
        "new_pos": 172
       },
       {
@@ -5925,7 +5925,7 @@
        "old_page": 18,
        "new_page": 18,
        "words": [],
-       "old_pos": 187,
+       "old_pos": 176,
        "new_pos": 173
       },
       {
@@ -5950,7 +5950,7 @@
          "part of Company territory."
         ]
        ],
-       "old_pos": 199,
+       "old_pos": 188,
        "new_pos": 185
       },
       {
@@ -5979,7 +5979,7 @@
          "the East India Company became worried about Russia."
         ]
        ],
-       "old_pos": 188,
+       "old_pos": 177,
        "new_pos": 174
       },
       {
@@ -6008,7 +6008,7 @@
          "and established indirect Company rule there."
         ]
        ],
-       "old_pos": 191,
+       "old_pos": 180,
        "new_pos": 177
       },
       {
@@ -6020,7 +6020,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 189,
+       "old_pos": 178,
        "new_pos": 175
       },
       {
@@ -6032,7 +6032,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 190,
+       "old_pos": 179,
        "new_pos": 176
       },
       {
@@ -6044,7 +6044,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 192,
+       "old_pos": 181,
        "new_pos": 178
       },
       {
@@ -6056,7 +6056,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 193,
+       "old_pos": 182,
        "new_pos": 179
       },
       {
@@ -6068,7 +6068,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 194,
+       "old_pos": 183,
        "new_pos": 180
       },
       {
@@ -6080,7 +6080,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 195,
+       "old_pos": 184,
        "new_pos": 181
       },
       {
@@ -6092,7 +6092,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 196,
+       "old_pos": 185,
        "new_pos": 182
       },
       {
@@ -6104,7 +6104,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 197,
+       "old_pos": 186,
        "new_pos": 183
       },
       {
@@ -6116,7 +6116,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 198,
+       "old_pos": 187,
        "new_pos": 184
       },
       {
@@ -6128,7 +6128,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 200,
+       "old_pos": 189,
        "new_pos": 186
       },
       {
@@ -6140,7 +6140,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 201,
+       "old_pos": 190,
        "new_pos": 187
       },
       {
@@ -6152,7 +6152,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 202,
+       "old_pos": 191,
        "new_pos": 188
       },
       {
@@ -6164,7 +6164,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 203,
+       "old_pos": 192,
        "new_pos": 189
       },
       {
@@ -6176,7 +6176,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 204,
+       "old_pos": 193,
        "new_pos": 190
       },
       {
@@ -6188,7 +6188,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 205,
+       "old_pos": 194,
        "new_pos": 191
       },
       {
@@ -6200,7 +6200,7 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 206,
+       "old_pos": 195,
        "new_pos": 192
       },
       {
@@ -6212,37 +6212,8 @@
        "old_page": 19,
        "new_page": 19,
        "words": [],
-       "old_pos": 207,
+       "old_pos": 196,
        "new_pos": 193
-      },
-      {
-       "type": "punctuation",
-       "stream": "body",
-       "similarity": 0.991,
-       "old": "Each district was to have two courts – a criminal court ( faujdari adalat ) and a civil court (diwani adalat).",
-       "new": "Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat).",
-       "old_page": 21,
-       "new_page": 21,
-       "words": [
-        [
-         "=",
-         "Each district was to have two courts – a criminal court"
-        ],
-        [
-         "-",
-         "( faujdari adalat )"
-        ],
-        [
-         "+",
-         "(faujdari adalat)"
-        ],
-        [
-         "=",
-         "and a civil court (diwani adalat)."
-        ]
-       ],
-       "old_pos": 216,
-       "new_pos": 202
       },
       {
        "type": "equal",
@@ -6253,7 +6224,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 208,
+       "old_pos": 197,
        "new_pos": 194
       },
       {
@@ -6265,7 +6236,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 209,
+       "old_pos": 198,
        "new_pos": 195
       },
       {
@@ -6277,7 +6248,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 210,
+       "old_pos": 199,
        "new_pos": 196
       },
       {
@@ -6289,7 +6260,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 211,
+       "old_pos": 200,
        "new_pos": 197
       },
       {
@@ -6301,7 +6272,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 212,
+       "old_pos": 201,
        "new_pos": 198
       },
       {
@@ -6313,7 +6284,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 213,
+       "old_pos": 202,
        "new_pos": 199
       },
       {
@@ -6325,7 +6296,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 214,
+       "old_pos": 203,
        "new_pos": 200
       },
       {
@@ -6337,8 +6308,20 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 215,
+       "old_pos": 204,
        "new_pos": 201
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat).",
+       "new": "Each district was to have two courts – a criminal court (faujdari adalat) and a civil court (diwani adalat).",
+       "old_page": 21,
+       "new_page": 21,
+       "words": [],
+       "old_pos": 205,
+       "new_pos": 202
       },
       {
        "type": "equal",
@@ -6349,7 +6332,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 217,
+       "old_pos": 206,
        "new_pos": 203
       },
       {
@@ -6361,7 +6344,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 218,
+       "old_pos": 207,
        "new_pos": 204
       },
       {
@@ -6373,7 +6356,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 219,
+       "old_pos": 208,
        "new_pos": 205
       },
       {
@@ -6385,7 +6368,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 220,
+       "old_pos": 209,
        "new_pos": 206
       },
       {
@@ -6397,7 +6380,7 @@
        "old_page": 21,
        "new_page": 21,
        "words": [],
-       "old_pos": 221,
+       "old_pos": 210,
        "new_pos": 207
       },
       {
@@ -6426,7 +6409,7 @@
          "a code of Muslim laws was also compiled for the benefit of European judges."
         ]
        ],
-       "old_pos": 232,
+       "old_pos": 221,
        "new_pos": 218
       },
       {
@@ -6455,7 +6438,7 @@
          "the British began to develop a uniform military culture."
         ]
        ],
-       "old_pos": 247,
+       "old_pos": 236,
        "new_pos": 233
       },
       {
@@ -6467,7 +6450,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 222,
+       "old_pos": 211,
        "new_pos": 208
       },
       {
@@ -6479,7 +6462,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 223,
+       "old_pos": 212,
        "new_pos": 209
       },
       {
@@ -6491,7 +6474,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 224,
+       "old_pos": 213,
        "new_pos": 210
       },
       {
@@ -6503,7 +6486,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 225,
+       "old_pos": 214,
        "new_pos": 211
       },
       {
@@ -6515,7 +6498,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 226,
+       "old_pos": 215,
        "new_pos": 212
       },
       {
@@ -6527,7 +6510,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 227,
+       "old_pos": 216,
        "new_pos": 213
       },
       {
@@ -6539,7 +6522,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 228,
+       "old_pos": 217,
        "new_pos": 214
       },
       {
@@ -6551,7 +6534,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 229,
+       "old_pos": 218,
        "new_pos": 215
       },
       {
@@ -6563,7 +6546,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 230,
+       "old_pos": 219,
        "new_pos": 216
       },
       {
@@ -6575,7 +6558,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 231,
+       "old_pos": 220,
        "new_pos": 217
       },
       {
@@ -6587,7 +6570,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 233,
+       "old_pos": 222,
        "new_pos": 219
       },
       {
@@ -6599,7 +6582,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 234,
+       "old_pos": 223,
        "new_pos": 220
       },
       {
@@ -6611,7 +6594,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 235,
+       "old_pos": 224,
        "new_pos": 221
       },
       {
@@ -6623,7 +6606,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 236,
+       "old_pos": 225,
        "new_pos": 222
       },
       {
@@ -6635,7 +6618,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 237,
+       "old_pos": 226,
        "new_pos": 223
       },
       {
@@ -6647,7 +6630,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 238,
+       "old_pos": 227,
        "new_pos": 224
       },
       {
@@ -6659,7 +6642,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 239,
+       "old_pos": 228,
        "new_pos": 225
       },
       {
@@ -6671,7 +6654,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 240,
+       "old_pos": 229,
        "new_pos": 226
       },
       {
@@ -6683,7 +6666,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 241,
+       "old_pos": 230,
        "new_pos": 227
       },
       {
@@ -6695,7 +6678,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 242,
+       "old_pos": 231,
        "new_pos": 228
       },
       {
@@ -6707,7 +6690,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 243,
+       "old_pos": 232,
        "new_pos": 229
       },
       {
@@ -6719,7 +6702,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 244,
+       "old_pos": 233,
        "new_pos": 230
       },
       {
@@ -6731,7 +6714,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 245,
+       "old_pos": 234,
        "new_pos": 231
       },
       {
@@ -6743,7 +6726,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 246,
+       "old_pos": 235,
        "new_pos": 232
       },
       {
@@ -6755,7 +6738,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 248,
+       "old_pos": 237,
        "new_pos": 234
       },
       {
@@ -6767,7 +6750,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 249,
+       "old_pos": 238,
        "new_pos": 235
       },
       {
@@ -6779,7 +6762,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 250,
+       "old_pos": 239,
        "new_pos": 236
       },
       {
@@ -6791,7 +6774,7 @@
        "old_page": 22,
        "new_page": 22,
        "words": [],
-       "old_pos": 251,
+       "old_pos": 240,
        "new_pos": 237
       },
       {
@@ -6820,7 +6803,7 @@
          "the Company came to exercise direct rule over about 63 per cent of the territory and 78 per cent of the population of the Indian subcontinent."
         ]
        ],
-       "old_pos": 260,
+       "old_pos": 249,
        "new_pos": 246
       },
       {
@@ -6832,7 +6815,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 252,
+       "old_pos": 241,
        "new_pos": 238
       },
       {
@@ -6844,7 +6827,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 253,
+       "old_pos": 242,
        "new_pos": 239
       },
       {
@@ -6856,7 +6839,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 254,
+       "old_pos": 243,
        "new_pos": 240
       },
       {
@@ -6868,7 +6851,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 255,
+       "old_pos": 244,
        "new_pos": 241
       },
       {
@@ -6880,7 +6863,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 256,
+       "old_pos": 245,
        "new_pos": 242
       },
       {
@@ -6892,7 +6875,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 257,
+       "old_pos": 246,
        "new_pos": 243
       },
       {
@@ -6904,7 +6887,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 258,
+       "old_pos": 247,
        "new_pos": 244
       },
       {
@@ -6916,7 +6899,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 259,
+       "old_pos": 248,
        "new_pos": 245
       },
       {
@@ -6928,7 +6911,7 @@
        "old_page": 23,
        "new_page": 23,
        "words": [],
-       "old_pos": 261,
+       "old_pos": 250,
        "new_pos": 247
       },
       {
@@ -6940,7 +6923,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 262,
+       "old_pos": 251,
        "new_pos": null
       },
       {
@@ -6952,7 +6935,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 263,
+       "old_pos": 252,
        "new_pos": null
       },
       {
@@ -6964,7 +6947,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 264,
+       "old_pos": 253,
        "new_pos": null
       },
       {
@@ -6976,7 +6959,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 265,
+       "old_pos": 254,
        "new_pos": null
       },
       {
@@ -6988,7 +6971,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 266,
+       "old_pos": 255,
        "new_pos": null
       },
       {
@@ -7000,7 +6983,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 267,
+       "old_pos": 256,
        "new_pos": null
       },
       {
@@ -7012,7 +6995,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 268,
+       "old_pos": 257,
        "new_pos": null
       },
       {
@@ -7024,7 +7007,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 269,
+       "old_pos": 258,
        "new_pos": null
       },
       {
@@ -7036,7 +7019,7 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 270,
+       "old_pos": 259,
        "new_pos": null
       },
       {
@@ -7048,32 +7031,8 @@
        "old_page": 24,
        "new_page": null,
        "words": [],
-       "old_pos": 271,
+       "old_pos": 260,
        "new_pos": null
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Did you know how Plassey got its name?",
-       "new": "Did you know how Plassey got its name?",
-       "old_page": 12,
-       "new_page": 12,
-       "words": [],
-       "old_pos": 46,
-       "new_pos": 1
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.",
-       "new": "Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.",
-       "old_page": 12,
-       "new_page": 12,
-       "words": [],
-       "old_pos": 47,
-       "new_pos": 2
       },
       {
        "type": "restreamed",
@@ -7084,7 +7043,7 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 148,
        "new_pos": 22
       },
       {
@@ -7096,92 +7055,8 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 151,
+       "old_pos": 149,
        "new_pos": 23
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Kings are often surrounded by legend and their powers glorified through folklore.",
-       "new": "Kings are often surrounded by legend and their powers glorified through folklore.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 152,
-       "new_pos": 5
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782.",
-       "new": "Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 153,
-       "new_pos": 6
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "It is said that once he went hunting in the forest with a French friend.",
-       "new": "It is said that once he went hunting in the forest with a French friend.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 154,
-       "new_pos": 7
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "There he came face to face with a tiger.",
-       "new": "There he came face to face with a tiger.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 155,
-       "new_pos": 8
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "His gun did not work and his dagger fell to the ground.",
-       "new": "His gun did not work and his dagger fell to the ground.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 156,
-       "new_pos": 9
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "He battled with the tiger unarmed until he managed to reach down and pick up the dagger.",
-       "new": "He battled with the tiger unarmed until he managed to reach down and pick up the dagger.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 157,
-       "new_pos": 10
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "He had the image of the tiger on his flag.",
-       "new": "He had the image of the tiger on his flag.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 160,
-       "new_pos": 13
       },
       {
        "type": "resplit",
@@ -7192,32 +7067,8 @@
        "old_page": 17,
        "new_page": 17,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 147,
        "new_pos": 20
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "After this he came to be known as the “Tiger of Mysore”.",
-       "new": "After this, he came to be known as the “Tiger of Mysore”.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 159,
-       "new_pos": 12
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Finally he was able to kill the tiger in the battle.",
-       "new": "Finally, he was able to kill the tiger in the battle.",
-       "old_page": 17,
-       "new_page": 17,
-       "words": [],
-       "old_pos": 158,
-       "new_pos": 11
       }
      ]
     },
@@ -7231,7 +7082,7 @@
       "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
-      "punctuation": 0
+      "punctuation": 2
      },
      "hunks": [
       {
@@ -7250,12 +7101,36 @@
        "type": "equal",
        "stream": "note",
        "similarity": 1.0,
+       "old": "Did you know how Plassey got its name?",
+       "new": "Did you know how Plassey got its name?",
+       "old_page": 12,
+       "new_page": 12,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.",
+       "new": "Plassey is an anglicised pronunciation of Palashi and the place derived its name from the palash tree known for its beautiful red flowers that yield gulal, the powder used in the festival of Holi.",
+       "old_page": 12,
+       "new_page": 12,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
        "old": "Injunction – Instruction",
        "new": "Injunction – Instruction",
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 1,
+       "old_pos": 3,
        "new_pos": 3
       },
       {
@@ -7267,8 +7142,146 @@
        "old_page": 16,
        "new_page": 16,
        "words": [],
-       "old_pos": 2,
+       "old_pos": 4,
        "new_pos": 4
+      },
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.991,
+       "old": "After this he came to be known as the “Tiger of Mysore”.",
+       "new": "After this, he came to be known as the “Tiger of Mysore”.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [
+        [
+         "=",
+         "After"
+        ],
+        [
+         "-",
+         "this"
+        ],
+        [
+         "+",
+         "this,"
+        ],
+        [
+         "=",
+         "he came to be known as the “Tiger of Mysore”."
+        ]
+       ],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.99,
+       "old": "Finally he was able to kill the tiger in the battle.",
+       "new": "Finally, he was able to kill the tiger in the battle.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [
+        [
+         "-",
+         "Finally"
+        ],
+        [
+         "+",
+         "Finally,"
+        ],
+        [
+         "=",
+         "he was able to kill the tiger in the battle."
+        ]
+       ],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Kings are often surrounded by legend and their powers glorified through folklore.",
+       "new": "Kings are often surrounded by legend and their powers glorified through folklore.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782.",
+       "new": "Here is a legend about Tipu Sultan who became the ruler of Mysore in 1782.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "It is said that once he went hunting in the forest with a French friend.",
+       "new": "It is said that once he went hunting in the forest with a French friend.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "There he came face to face with a tiger.",
+       "new": "There he came face to face with a tiger.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "His gun did not work and his dagger fell to the ground.",
+       "new": "His gun did not work and his dagger fell to the ground.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "He battled with the tiger unarmed until he managed to reach down and pick up the dagger.",
+       "new": "He battled with the tiger unarmed until he managed to reach down and pick up the dagger.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "He had the image of the tiger on his flag.",
+       "new": "He had the image of the tiger on his flag.",
+       "old_page": 17,
+       "new_page": 17,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
       }
      ]
     },
@@ -9643,8 +9656,8 @@
        "type": "equal",
        "stream": "body",
        "similarity": 1.0,
-       "old": "The new system that was devised came to be known as the ryotwar (or ryotwari ).",
-       "new": "The new system that was devised came to be known as the ryotwar (or ryotwari ).",
+       "old": "The new system that was devised came to be known as the ryotwar (or ryotwari).",
+       "new": "The new system that was devised came to be known as the ryotwar (or ryotwari).",
        "old_page": 29,
        "new_page": 29,
        "words": [],
@@ -20788,7 +20801,7 @@
       "modified": 2,
       "moved": 0,
       "typographic": 1,
-      "restreamed": 14,
+      "restreamed": 5,
       "resplit": 2,
       "unreadable": 0,
       "punctuation": 16
@@ -21982,7 +21995,7 @@
          "classes were held under a banyan tree, in other places in the corner of a village shop or temple, or at the guru’s home."
         ]
        ],
-       "old_pos": 106,
+       "old_pos": 97,
        "new_pos": 97
       },
       {
@@ -21994,7 +22007,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 92,
+       "old_pos": 83,
        "new_pos": 83
       },
       {
@@ -22006,7 +22019,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 93,
+       "old_pos": 84,
        "new_pos": 84
       },
       {
@@ -22018,7 +22031,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 94,
+       "old_pos": 85,
        "new_pos": 85
       },
       {
@@ -22030,7 +22043,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 95,
+       "old_pos": 86,
        "new_pos": 86
       },
       {
@@ -22042,7 +22055,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 96,
+       "old_pos": 87,
        "new_pos": 87
       },
       {
@@ -22054,7 +22067,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 97,
+       "old_pos": 88,
        "new_pos": 88
       },
       {
@@ -22066,7 +22079,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 98,
+       "old_pos": 89,
        "new_pos": 89
       },
       {
@@ -22078,7 +22091,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 99,
+       "old_pos": 90,
        "new_pos": 90
       },
       {
@@ -22090,7 +22103,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 100,
+       "old_pos": 91,
        "new_pos": 91
       },
       {
@@ -22102,7 +22115,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 101,
+       "old_pos": 92,
        "new_pos": 92
       },
       {
@@ -22114,7 +22127,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 102,
+       "old_pos": 93,
        "new_pos": 93
       },
       {
@@ -22126,7 +22139,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 103,
+       "old_pos": 94,
        "new_pos": 94
       },
       {
@@ -22138,7 +22151,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 104,
+       "old_pos": 95,
        "new_pos": 95
       },
       {
@@ -22150,7 +22163,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 105,
+       "old_pos": 96,
        "new_pos": 96
       },
       {
@@ -22162,7 +22175,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 107,
+       "old_pos": 98,
        "new_pos": 98
       },
       {
@@ -22174,7 +22187,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 108,
+       "old_pos": 99,
        "new_pos": 99
       },
       {
@@ -22186,7 +22199,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 109,
+       "old_pos": 100,
        "new_pos": 100
       },
       {
@@ -22198,7 +22211,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 110,
+       "old_pos": 101,
        "new_pos": 101
       },
       {
@@ -22210,7 +22223,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 111,
+       "old_pos": 102,
        "new_pos": 102
       },
       {
@@ -22222,7 +22235,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 112,
+       "old_pos": 103,
        "new_pos": 103
       },
       {
@@ -22234,7 +22247,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 113,
+       "old_pos": 104,
        "new_pos": 104
       },
       {
@@ -22246,7 +22259,7 @@
        "old_page": 87,
        "new_page": 71,
        "words": [],
-       "old_pos": 114,
+       "old_pos": 105,
        "new_pos": 105
       },
       {
@@ -22275,7 +22288,7 @@
          "There were other Indians, however, who reacted against Western education."
         ]
        ],
-       "old_pos": 146,
+       "old_pos": 137,
        "new_pos": 132
       },
       {
@@ -22304,7 +22317,7 @@
          "the Company decided to improve the system of vernacular education."
         ]
        ],
-       "old_pos": 126,
+       "old_pos": 117,
        "new_pos": 112
       },
       {
@@ -22333,7 +22346,7 @@
          "gurus who wanted to retain their independence found it difficult to compete with the government aided and regulated pathshalas."
         ]
        ],
-       "old_pos": 137,
+       "old_pos": 128,
        "new_pos": 123
       },
       {
@@ -22362,7 +22375,7 @@
          "children from poor peasant families had been able to go to pathshalas, since the timetable was flexible."
         ]
        ],
-       "old_pos": 139,
+       "old_pos": 130,
        "new_pos": 125
       },
       {
@@ -22391,7 +22404,7 @@
          "many thinkers from different parts of India began to talk of the need for a wider spread of education."
         ]
        ],
-       "old_pos": 143,
+       "old_pos": 134,
        "new_pos": 129
       },
       {
@@ -22403,7 +22416,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 116,
+       "old_pos": 107,
        "new_pos": 107
       },
       {
@@ -22415,7 +22428,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 117,
+       "old_pos": 108,
        "new_pos": 108
       },
       {
@@ -22427,7 +22440,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 118,
+       "old_pos": 109,
        "new_pos": 109
       },
       {
@@ -22439,7 +22452,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 124,
+       "old_pos": 115,
        "new_pos": 110
       },
       {
@@ -22451,7 +22464,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 125,
+       "old_pos": 116,
        "new_pos": 111
       },
       {
@@ -22463,7 +22476,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 127,
+       "old_pos": 118,
        "new_pos": 113
       },
       {
@@ -22475,7 +22488,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 128,
+       "old_pos": 119,
        "new_pos": 114
       },
       {
@@ -22487,7 +22500,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 129,
+       "old_pos": 120,
        "new_pos": 115
       },
       {
@@ -22499,7 +22512,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 130,
+       "old_pos": 121,
        "new_pos": 116
       },
       {
@@ -22511,7 +22524,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 122,
        "new_pos": 117
       },
       {
@@ -22523,7 +22536,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 123,
        "new_pos": 118
       },
       {
@@ -22535,7 +22548,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 124,
        "new_pos": 119
       },
       {
@@ -22547,7 +22560,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 125,
        "new_pos": 120
       },
       {
@@ -22559,7 +22572,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 126,
        "new_pos": 121
       },
       {
@@ -22571,7 +22584,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 127,
        "new_pos": 122
       },
       {
@@ -22583,7 +22596,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 129,
        "new_pos": 124
       },
       {
@@ -22595,7 +22608,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 131,
        "new_pos": 126
       },
       {
@@ -22607,7 +22620,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 132,
        "new_pos": 127
       },
       {
@@ -22619,7 +22632,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 142,
+       "old_pos": 133,
        "new_pos": 128
       },
       {
@@ -22631,7 +22644,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 144,
+       "old_pos": 135,
        "new_pos": 130
       },
       {
@@ -22643,7 +22656,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 136,
        "new_pos": 131
       },
       {
@@ -22655,7 +22668,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 138,
        "new_pos": 133
       },
       {
@@ -22684,7 +22697,7 @@
          "he urged students to leave educational institutions in order to show to the British that Indians were no longer willing to be enslaved."
         ]
        ],
-       "old_pos": 154,
+       "old_pos": 145,
        "new_pos": 140
       },
       {
@@ -22696,7 +22709,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 148,
+       "old_pos": 139,
        "new_pos": 134
       },
       {
@@ -22708,7 +22721,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 149,
+       "old_pos": 140,
        "new_pos": 135
       },
       {
@@ -22720,7 +22733,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 150,
+       "old_pos": 141,
        "new_pos": 136
       },
       {
@@ -22732,7 +22745,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 151,
+       "old_pos": 142,
        "new_pos": 137
       },
       {
@@ -22744,7 +22757,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 152,
+       "old_pos": 143,
        "new_pos": 138
       },
       {
@@ -22756,7 +22769,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 153,
+       "old_pos": 144,
        "new_pos": 139
       },
       {
@@ -22768,7 +22781,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 155,
+       "old_pos": 146,
        "new_pos": 141
       },
       {
@@ -22780,7 +22793,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 156,
+       "old_pos": 147,
        "new_pos": 142
       },
       {
@@ -22792,7 +22805,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 157,
+       "old_pos": 148,
        "new_pos": 143
       },
       {
@@ -22804,7 +22817,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 158,
+       "old_pos": 149,
        "new_pos": 144
       },
       {
@@ -22816,7 +22829,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 159,
+       "old_pos": 150,
        "new_pos": 145
       },
       {
@@ -22828,7 +22841,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 160,
+       "old_pos": 151,
        "new_pos": 146
       },
       {
@@ -22840,7 +22853,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 161,
+       "old_pos": 152,
        "new_pos": 147
       },
       {
@@ -22852,7 +22865,7 @@
        "old_page": 89,
        "new_page": 73,
        "words": [],
-       "old_pos": 162,
+       "old_pos": 153,
        "new_pos": 148
       },
       {
@@ -22864,7 +22877,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 163,
+       "old_pos": 154,
        "new_pos": 149
       },
       {
@@ -22876,7 +22889,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 164,
+       "old_pos": 155,
        "new_pos": 150
       },
       {
@@ -22888,7 +22901,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 165,
+       "old_pos": 156,
        "new_pos": 151
       },
       {
@@ -22900,7 +22913,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 166,
+       "old_pos": 157,
        "new_pos": 152
       },
       {
@@ -22912,7 +22925,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 167,
+       "old_pos": 158,
        "new_pos": 153
       },
       {
@@ -22924,7 +22937,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 168,
+       "old_pos": 159,
        "new_pos": 154
       },
       {
@@ -22936,7 +22949,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 169,
+       "old_pos": 160,
        "new_pos": 155
       },
       {
@@ -22948,7 +22961,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 170,
+       "old_pos": 161,
        "new_pos": 156
       },
       {
@@ -22960,7 +22973,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 171,
+       "old_pos": 162,
        "new_pos": 157
       },
       {
@@ -22972,7 +22985,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 172,
+       "old_pos": 163,
        "new_pos": 158
       },
       {
@@ -22984,7 +22997,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 173,
+       "old_pos": 164,
        "new_pos": 159
       },
       {
@@ -22996,7 +23009,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 174,
+       "old_pos": 165,
        "new_pos": 160
       },
       {
@@ -23008,7 +23021,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 175,
+       "old_pos": 166,
        "new_pos": 161
       },
       {
@@ -23020,7 +23033,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 176,
+       "old_pos": 167,
        "new_pos": 162
       },
       {
@@ -23032,7 +23045,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 177,
+       "old_pos": 168,
        "new_pos": 163
       },
       {
@@ -23044,7 +23057,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 178,
+       "old_pos": 169,
        "new_pos": 164
       },
       {
@@ -23056,7 +23069,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 179,
+       "old_pos": 170,
        "new_pos": 165
       },
       {
@@ -23068,7 +23081,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 180,
+       "old_pos": 171,
        "new_pos": 166
       },
       {
@@ -23080,7 +23093,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 181,
+       "old_pos": 172,
        "new_pos": 167
       },
       {
@@ -23092,7 +23105,7 @@
        "old_page": 90,
        "new_page": 74,
        "words": [],
-       "old_pos": 182,
+       "old_pos": 173,
        "new_pos": 168
       },
       {
@@ -23121,7 +23134,7 @@
          "Tagore and Mahatma Gandhi thought about education in similar ways."
         ]
        ],
-       "old_pos": 186,
+       "old_pos": 177,
        "new_pos": 172
       },
       {
@@ -23133,7 +23146,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 183,
+       "old_pos": 174,
        "new_pos": 169
       },
       {
@@ -23145,7 +23158,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 184,
+       "old_pos": 175,
        "new_pos": 170
       },
       {
@@ -23157,7 +23170,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 185,
+       "old_pos": 176,
        "new_pos": 171
       },
       {
@@ -23169,7 +23182,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 187,
+       "old_pos": 178,
        "new_pos": 173
       },
       {
@@ -23181,7 +23194,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 188,
+       "old_pos": 179,
        "new_pos": 174
       },
       {
@@ -23193,7 +23206,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 189,
+       "old_pos": 180,
        "new_pos": 175
       },
       {
@@ -23205,7 +23218,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 190,
+       "old_pos": 181,
        "new_pos": 176
       },
       {
@@ -23217,7 +23230,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 191,
+       "old_pos": 182,
        "new_pos": 177
       },
       {
@@ -23229,7 +23242,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 192,
+       "old_pos": 183,
        "new_pos": 178
       },
       {
@@ -23241,7 +23254,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 193,
+       "old_pos": 184,
        "new_pos": 179
       },
       {
@@ -23253,7 +23266,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 194,
+       "old_pos": 185,
        "new_pos": 180
       },
       {
@@ -23265,7 +23278,7 @@
        "old_page": 91,
        "new_page": 75,
        "words": [],
-       "old_pos": 195,
+       "old_pos": 186,
        "new_pos": 181
       },
       {
@@ -23277,7 +23290,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 196,
+       "old_pos": 187,
        "new_pos": null
       },
       {
@@ -23289,7 +23302,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 197,
+       "old_pos": 188,
        "new_pos": null
       },
       {
@@ -23301,7 +23314,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 198,
+       "old_pos": 189,
        "new_pos": null
       },
       {
@@ -23313,7 +23326,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 199,
+       "old_pos": 190,
        "new_pos": null
       },
       {
@@ -23325,7 +23338,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 200,
+       "old_pos": 191,
        "new_pos": null
       },
       {
@@ -23337,7 +23350,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 201,
+       "old_pos": 192,
        "new_pos": null
       },
       {
@@ -23349,7 +23362,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 202,
+       "old_pos": 193,
        "new_pos": null
       },
       {
@@ -23361,7 +23374,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 203,
+       "old_pos": 194,
        "new_pos": null
       },
       {
@@ -23373,7 +23386,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 204,
+       "old_pos": 195,
        "new_pos": null
       },
       {
@@ -23385,7 +23398,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 205,
+       "old_pos": 196,
        "new_pos": null
       },
       {
@@ -23397,7 +23410,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 206,
+       "old_pos": 197,
        "new_pos": null
       },
       {
@@ -23409,7 +23422,7 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 207,
+       "old_pos": 198,
        "new_pos": null
       },
       {
@@ -23421,116 +23434,8 @@
        "old_page": 92,
        "new_page": null,
        "words": [],
-       "old_pos": 208,
+       "old_pos": 199,
        "new_pos": null
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century.",
-       "new": "The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 83,
-       "new_pos": 0
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.",
-       "new": "The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 84,
-       "new_pos": 1
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Until 1813, the East India Company was opposed to missionary activities in India.",
-       "new": "Until 1813, the East India Company was opposed to missionary activities in India.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 85,
-       "new_pos": 2
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India.",
-       "new": "It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 86,
-       "new_pos": 3
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company.",
-       "new": "Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 87,
-       "new_pos": 4
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "A printing press was set up in 1800 and a college established in 1818.",
-       "new": "A printing press was set up in 1800 and a college established in 1818.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 88,
-       "new_pos": 5
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Over the nineteenth century, missionary schools were set up all over India.",
-       "new": "Over the nineteenth century, missionary schools were set up all over India.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 89,
-       "new_pos": 6
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "After 1857, however, the British government in India was reluctant to directly support missionary education.",
-       "new": "After 1857, however, the British government in India was reluctant to directly support missionary education.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 90,
-       "new_pos": 7
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.",
-       "new": "There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.",
-       "old_page": 86,
-       "new_page": 70,
-       "words": [],
-       "old_pos": 91,
-       "new_pos": 8
       },
       {
        "type": "restreamed",
@@ -23541,7 +23446,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 119,
+       "old_pos": 110,
        "new_pos": 18
       },
       {
@@ -23553,7 +23458,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 120,
+       "old_pos": 111,
        "new_pos": 19
       },
       {
@@ -23565,7 +23470,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 121,
+       "old_pos": 112,
        "new_pos": 20
       },
       {
@@ -23577,7 +23482,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 122,
+       "old_pos": 113,
        "new_pos": 21
       },
       {
@@ -23589,7 +23494,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 123,
+       "old_pos": 114,
        "new_pos": 22
       },
       {
@@ -23601,7 +23506,7 @@
        "old_page": 88,
        "new_page": 72,
        "words": [],
-       "old_pos": 115,
+       "old_pos": 106,
        "new_pos": 13
       },
       {
@@ -23630,14 +23535,123 @@
       "unreadable": 0,
       "punctuation": 0
      },
-     "hunks": []
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century.",
+       "new": "The argument for practical education was strongly criticised by the Christian missionaries in India in the nineteenth century.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.",
+       "new": "The missionaries felt that education should attempt to improve the moral character of the people, and morality could be improved only through Christian education.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Until 1813, the East India Company was opposed to missionary activities in India.",
+       "new": "Until 1813, the East India Company was opposed to missionary activities in India.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India.",
+       "new": "It feared that missionary activities would provoke reaction amongst the local population and make them suspicious of British presence in India.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company.",
+       "new": "Unable to establish an institution within British-controlled territories, the missionaries set up a mission at Serampore in an area under the control of the Danish East India Company.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "A printing press was set up in 1800 and a college established in 1818.",
+       "new": "A printing press was set up in 1800 and a college established in 1818.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Over the nineteenth century, missionary schools were set up all over India.",
+       "new": "Over the nineteenth century, missionary schools were set up all over India.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "After 1857, however, the British government in India was reluctant to directly support missionary education.",
+       "new": "After 1857, however, the British government in India was reluctant to directly support missionary education.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.",
+       "new": "There was a feeling that any strong attack on local customs, practices, beliefs and religious ideas might enrage “native” opinion.",
+       "old_page": 86,
+       "new_page": 70,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      }
+     ]
     },
     "caption": {
      "counts": {
       "deleted": 0,
       "inserted": 0,
       "modified": 0,
-      "moved": 1,
+      "moved": 0,
       "typographic": 0,
       "restreamed": 0,
       "resplit": 0,
@@ -23754,7 +23768,7 @@
        "new_pos": 11
       },
       {
-       "type": "moved",
+       "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
        "old": "Fig. 6 – William Carey was a Scottish missionary who helped establish the Serampore Mission",
@@ -23762,7 +23776,7 @@
        "old_page": 86,
        "new_page": 70,
        "words": [],
-       "old_pos": 10,
+       "old_pos": 9,
        "new_pos": 12
       },
       {
@@ -23774,7 +23788,7 @@
        "old_page": 86,
        "new_page": 70,
        "words": [],
-       "old_pos": 9,
+       "old_pos": 10,
        "new_pos": 13
       },
       {
@@ -24600,10 +24614,10 @@
      "counts": {
       "deleted": 10,
       "inserted": 0,
-      "modified": 4,
+      "modified": 2,
       "moved": 0,
       "typographic": 1,
-      "restreamed": 49,
+      "restreamed": 5,
       "resplit": 6,
       "unreadable": 0,
       "punctuation": 4
@@ -26058,7 +26072,7 @@
          "Think of the new demands of labour this created."
         ]
        ],
-       "old_pos": 137,
+       "old_pos": 131,
        "new_pos": 128
       },
       {
@@ -26070,7 +26084,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 126,
+       "old_pos": 120,
        "new_pos": 117
       },
       {
@@ -26082,7 +26096,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 127,
+       "old_pos": 121,
        "new_pos": 118
       },
       {
@@ -26094,7 +26108,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 128,
+       "old_pos": 122,
        "new_pos": 119
       },
       {
@@ -26106,7 +26120,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 129,
+       "old_pos": 123,
        "new_pos": 120
       },
       {
@@ -26118,7 +26132,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 130,
+       "old_pos": 124,
        "new_pos": 121
       },
       {
@@ -26130,7 +26144,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 131,
+       "old_pos": 125,
        "new_pos": 122
       },
       {
@@ -26142,7 +26156,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 132,
+       "old_pos": 126,
        "new_pos": 123
       },
       {
@@ -26154,7 +26168,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 133,
+       "old_pos": 127,
        "new_pos": 124
       },
       {
@@ -26166,7 +26180,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 134,
+       "old_pos": 128,
        "new_pos": 125
       },
       {
@@ -26178,7 +26192,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 135,
+       "old_pos": 129,
        "new_pos": 126
       },
       {
@@ -26190,7 +26204,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 136,
+       "old_pos": 130,
        "new_pos": 127
       },
       {
@@ -26202,7 +26216,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 138,
+       "old_pos": 132,
        "new_pos": 129
       },
       {
@@ -26214,7 +26228,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 139,
+       "old_pos": 133,
        "new_pos": 130
       },
       {
@@ -26226,7 +26240,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 140,
+       "old_pos": 134,
        "new_pos": 131
       },
       {
@@ -26238,7 +26252,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 141,
+       "old_pos": 135,
        "new_pos": 132
       },
       {
@@ -26250,7 +26264,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 142,
+       "old_pos": 136,
        "new_pos": 133
       },
       {
@@ -26262,7 +26276,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 143,
+       "old_pos": 137,
        "new_pos": 134
       },
       {
@@ -26274,7 +26288,7 @@
        "old_page": 100,
        "new_page": 84,
        "words": [],
-       "old_pos": 144,
+       "old_pos": 138,
        "new_pos": 135
       },
       {
@@ -26286,7 +26300,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 147,
+       "old_pos": 139,
        "new_pos": 136
       },
       {
@@ -26298,7 +26312,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 152,
+       "old_pos": 140,
        "new_pos": 137
       },
       {
@@ -26310,7 +26324,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 153,
+       "old_pos": 141,
        "new_pos": 138
       },
       {
@@ -26322,7 +26336,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 154,
+       "old_pos": 142,
        "new_pos": 139
       },
       {
@@ -26334,7 +26348,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 155,
+       "old_pos": 143,
        "new_pos": 140
       },
       {
@@ -26346,7 +26360,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 159,
+       "old_pos": 147,
        "new_pos": 142
       },
       {
@@ -26358,7 +26372,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 160,
+       "old_pos": 148,
        "new_pos": 143
       },
       {
@@ -26370,7 +26384,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 161,
+       "old_pos": 149,
        "new_pos": 144
       },
       {
@@ -26382,7 +26396,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 162,
+       "old_pos": 150,
        "new_pos": 145
       },
       {
@@ -26394,7 +26408,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 163,
+       "old_pos": 151,
        "new_pos": 146
       },
       {
@@ -26406,7 +26420,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 164,
+       "old_pos": 152,
        "new_pos": 147
       },
       {
@@ -26418,7 +26432,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 165,
+       "old_pos": 153,
        "new_pos": 148
       },
       {
@@ -26430,7 +26444,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 166,
+       "old_pos": 154,
        "new_pos": 149
       },
       {
@@ -26442,7 +26456,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 167,
+       "old_pos": 155,
        "new_pos": 150
       },
       {
@@ -26454,7 +26468,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 168,
+       "old_pos": 156,
        "new_pos": 151
       },
       {
@@ -26466,7 +26480,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 169,
+       "old_pos": 157,
        "new_pos": 152
       },
       {
@@ -26478,7 +26492,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 170,
+       "old_pos": 158,
        "new_pos": 153
       },
       {
@@ -26490,7 +26504,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 171,
+       "old_pos": 159,
        "new_pos": 154
       },
       {
@@ -26502,7 +26516,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 172,
+       "old_pos": 160,
        "new_pos": 155
       },
       {
@@ -26531,7 +26545,7 @@
          "he developed his own ideas about the injustices of caste society."
         ]
        ],
-       "old_pos": 175,
+       "old_pos": 163,
        "new_pos": 158
       },
       {
@@ -26560,7 +26574,7 @@
          "there existed a golden age when warrior-peasants tilled the land and ruled the Maratha countryside in just and fair ways."
         ]
        ],
-       "old_pos": 180,
+       "old_pos": 168,
        "new_pos": 163
       },
       {
@@ -26572,7 +26586,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 174,
+       "old_pos": 162,
        "new_pos": 157
       },
       {
@@ -26584,7 +26598,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 176,
+       "old_pos": 164,
        "new_pos": 159
       },
       {
@@ -26596,7 +26610,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 177,
+       "old_pos": 165,
        "new_pos": 160
       },
       {
@@ -26608,7 +26622,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 178,
+       "old_pos": 166,
        "new_pos": 161
       },
       {
@@ -26620,7 +26634,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 179,
+       "old_pos": 167,
        "new_pos": 162
       },
       {
@@ -26632,7 +26646,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 181,
+       "old_pos": 169,
        "new_pos": 164
       },
       {
@@ -26644,7 +26658,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 182,
+       "old_pos": 170,
        "new_pos": 165
       },
       {
@@ -26656,7 +26670,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 183,
+       "old_pos": 171,
        "new_pos": 166
       },
       {
@@ -26668,7 +26682,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 184,
+       "old_pos": 172,
        "new_pos": 167
       },
       {
@@ -26680,7 +26694,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 185,
+       "old_pos": 173,
        "new_pos": 168
       },
       {
@@ -26692,7 +26706,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 186,
+       "old_pos": 174,
        "new_pos": 169
       },
       {
@@ -26704,7 +26718,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 187,
+       "old_pos": 175,
        "new_pos": 170
       },
       {
@@ -26716,7 +26730,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 188,
+       "old_pos": 176,
        "new_pos": 171
       },
       {
@@ -26728,7 +26742,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 189,
+       "old_pos": 177,
        "new_pos": 172
       },
       {
@@ -26740,7 +26754,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 190,
+       "old_pos": 178,
        "new_pos": 173
       },
       {
@@ -26752,7 +26766,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 192,
+       "old_pos": 180,
        "new_pos": 175
       },
       {
@@ -26764,7 +26778,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 193,
+       "old_pos": 181,
        "new_pos": 176
       },
       {
@@ -26776,7 +26790,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 194,
+       "old_pos": 182,
        "new_pos": 177
       },
       {
@@ -26788,7 +26802,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 195,
+       "old_pos": 183,
        "new_pos": 178
       },
       {
@@ -26800,7 +26814,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 196,
+       "old_pos": 184,
        "new_pos": 179
       },
       {
@@ -26812,7 +26826,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 197,
+       "old_pos": 185,
        "new_pos": 181
       },
       {
@@ -26824,7 +26838,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 198,
+       "old_pos": 186,
        "new_pos": 182
       },
       {
@@ -26836,7 +26850,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 199,
+       "old_pos": 187,
        "new_pos": 183
       },
       {
@@ -26848,7 +26862,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 200,
+       "old_pos": 188,
        "new_pos": 184
       },
       {
@@ -26860,7 +26874,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 201,
+       "old_pos": 189,
        "new_pos": 185
       },
       {
@@ -26872,7 +26886,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 202,
+       "old_pos": 190,
        "new_pos": 186
       },
       {
@@ -26884,7 +26898,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 203,
+       "old_pos": 191,
        "new_pos": 187
       },
       {
@@ -26896,7 +26910,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 204,
+       "old_pos": 192,
        "new_pos": 188
       },
       {
@@ -26908,7 +26922,7 @@
        "old_page": 104,
        "new_page": 88,
        "words": [],
-       "old_pos": 205,
+       "old_pos": 193,
        "new_pos": 189
       },
       {
@@ -26920,7 +26934,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 206,
+       "old_pos": 194,
        "new_pos": 190
       },
       {
@@ -26932,7 +26946,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 207,
+       "old_pos": 195,
        "new_pos": 191
       },
       {
@@ -26944,7 +26958,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 208,
+       "old_pos": 196,
        "new_pos": 192
       },
       {
@@ -26956,7 +26970,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 209,
+       "old_pos": 197,
        "new_pos": 193
       },
       {
@@ -26968,7 +26982,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 210,
+       "old_pos": 198,
        "new_pos": 194
       },
       {
@@ -26980,7 +26994,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 211,
+       "old_pos": 199,
        "new_pos": 195
       },
       {
@@ -26992,7 +27006,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 212,
+       "old_pos": 200,
        "new_pos": 196
       },
       {
@@ -27004,7 +27018,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 213,
+       "old_pos": 201,
        "new_pos": 197
       },
       {
@@ -27016,7 +27030,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 214,
+       "old_pos": 202,
        "new_pos": 198
       },
       {
@@ -27028,7 +27042,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 215,
+       "old_pos": 203,
        "new_pos": 199
       },
       {
@@ -27040,7 +27054,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 216,
+       "old_pos": 204,
        "new_pos": 200
       },
       {
@@ -27052,7 +27066,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 217,
+       "old_pos": 205,
        "new_pos": 201
       },
       {
@@ -27064,7 +27078,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 218,
+       "old_pos": 206,
        "new_pos": 202
       },
       {
@@ -27076,7 +27090,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 219,
+       "old_pos": 207,
        "new_pos": 203
       },
       {
@@ -27088,7 +27102,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 220,
+       "old_pos": 208,
        "new_pos": 204
       },
       {
@@ -27100,7 +27114,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 221,
+       "old_pos": 209,
        "new_pos": 205
       },
       {
@@ -27112,7 +27126,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 222,
+       "old_pos": 210,
        "new_pos": 206
       },
       {
@@ -27124,7 +27138,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 223,
+       "old_pos": 211,
        "new_pos": 207
       },
       {
@@ -27136,7 +27150,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 224,
+       "old_pos": 212,
        "new_pos": 208
       },
       {
@@ -27148,7 +27162,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 225,
+       "old_pos": 213,
        "new_pos": 209
       },
       {
@@ -27160,7 +27174,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 226,
+       "old_pos": 214,
        "new_pos": 210
       },
       {
@@ -27172,7 +27186,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 228,
+       "old_pos": 216,
        "new_pos": 212
       },
       {
@@ -27184,7 +27198,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 264,
+       "old_pos": 218,
        "new_pos": null
       },
       {
@@ -27196,7 +27210,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 265,
+       "old_pos": 219,
        "new_pos": null
       },
       {
@@ -27208,7 +27222,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 266,
+       "old_pos": 220,
        "new_pos": null
       },
       {
@@ -27220,7 +27234,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 267,
+       "old_pos": 221,
        "new_pos": null
       },
       {
@@ -27232,7 +27246,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 268,
+       "old_pos": 222,
        "new_pos": null
       },
       {
@@ -27244,7 +27258,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 269,
+       "old_pos": 223,
        "new_pos": null
       },
       {
@@ -27256,7 +27270,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 270,
+       "old_pos": 224,
        "new_pos": null
       },
       {
@@ -27268,7 +27282,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 271,
+       "old_pos": 225,
        "new_pos": null
       },
       {
@@ -27280,7 +27294,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 272,
+       "old_pos": 226,
        "new_pos": null
       },
       {
@@ -27292,7 +27306,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 273,
+       "old_pos": 227,
        "new_pos": null
       },
       {
@@ -27321,54 +27335,6 @@
       },
       {
        "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength.",
-       "new": "With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 120,
-       "new_pos": 0
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "People challenged another established custom – that of child marriage.",
-       "new": "People challenged another established custom – that of child marriage.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 121,
-       "new_pos": 1
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage.",
-       "new": "There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 122,
-       "new_pos": 2
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Subsequently these limits were raised to 21 for men and 18 for women.",
-       "new": "Subsequently these limits were raised to 21 for men and 18 for women.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 125,
-       "new_pos": 5
-      },
-      {
-       "type": "restreamed",
        "stream": "body>caption",
        "similarity": 1.0,
        "old": "Fig. 9 – A coolie ship, nineteenth century This coolie ship – named John Allen – carried many Indian labourers to Mauritius where they did a variety of forms of hard labour.",
@@ -27376,7 +27342,7 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 145,
+       "old_pos": 144,
        "new_pos": 20
       },
       {
@@ -27388,296 +27354,8 @@
        "old_page": 101,
        "new_page": 85,
        "words": [],
-       "old_pos": 146,
+       "old_pos": 145,
        "new_pos": 21
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting.",
-       "new": "Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting.",
-       "old_page": 101,
-       "new_page": 85,
-       "words": [],
-       "old_pos": 148,
-       "new_pos": 6
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "During the First World War, however, there was a huge demand for shoes for the armies.",
-       "new": "During the First World War, however, there was a huge demand for shoes for the armies.",
-       "old_page": 101,
-       "new_page": 85,
-       "words": [],
-       "old_pos": 149,
-       "new_pos": 7
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes.",
-       "new": "Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes.",
-       "old_page": 101,
-       "new_page": 85,
-       "words": [],
-       "old_pos": 150,
-       "new_pos": 8
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "So they could ask for high prices and gain impressive profits.",
-       "new": "So they could ask for high prices and gain impressive profits.",
-       "old_page": 101,
-       "new_page": 85,
-       "words": [],
-       "old_pos": 151,
-       "new_pos": 9
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools.",
-       "new": "In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools.",
-       "old_page": 102,
-       "new_page": 86,
-       "words": [],
-       "old_pos": 156,
-       "new_pos": 10
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.",
-       "new": "When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.",
-       "old_page": 102,
-       "new_page": 86,
-       "words": [],
-       "old_pos": 157,
-       "new_pos": 11
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Brahmo Samaj",
-       "new": "The Brahmo Samaj",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 229,
-       "new_pos": 12
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices.",
-       "new": "The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 230,
-       "new_pos": 34
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.",
-       "new": "It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 231,
-       "new_pos": 35
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Derozio and Young Bengal",
-       "new": "Derozio and Young Bengal",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 232,
-       "new_pos": 13
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority.",
-       "new": "Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 233,
-       "new_pos": 14
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.",
-       "new": "Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 234,
-       "new_pos": 15
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”.",
-       "new": "After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 237,
-       "new_pos": 17
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale.",
-       "new": "Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 238,
-       "new_pos": 18
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "But his mission was not simply to talk of religion.",
-       "new": "But his mission was not simply to talk of religion.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 239,
-       "new_pos": 19
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "He was extremely pained at the poverty and the misery of his country men.",
-       "new": "He was extremely pained at the poverty and the misery of his country men.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 240,
-       "new_pos": 20
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "He firmly believed that any reform could become successful only by uplifting the condition of the masses.",
-       "new": "He firmly believed that any reform could become successful only by uplifting the condition of the masses.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 241,
-       "new_pos": 21
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation.",
-       "new": "Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 242,
-       "new_pos": 22
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "His sense of nationalism was, however, not narrow in its conception.",
-       "new": "His sense of nationalism was, however, not narrow in its conception.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 244,
-       "new_pos": 24
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing.",
-       "new": "He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 245,
-       "new_pos": 25
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage.",
-       "new": "Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 246,
-       "new_pos": 26
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Prarthana Samaj",
-       "new": "The Prarthana Samaj",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 248,
-       "new_pos": 37
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage.",
-       "new": "Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 249,
-       "new_pos": 28
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Its religious meetings drew upon Hindu, Buddhist and Christian texts.",
-       "new": "Its religious meetings drew upon Hindu, Buddhist and Christian texts.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 250,
-       "new_pos": 29
       },
       {
        "type": "restreamed",
@@ -27688,194 +27366,8 @@
        "old_page": 106,
        "new_page": 90,
        "words": [],
-       "old_pos": 251,
+       "old_pos": 217,
        "new_pos": 38
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj.",
-       "new": "Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 252,
-       "new_pos": 30
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "It worked to abolish caste distinctions and promote widow remarriage and women’s education.",
-       "new": "It worked to abolish caste distinctions and promote widow remarriage and women’s education.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 253,
-       "new_pos": 31
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Its members believed in one God.",
-       "new": "Its members believed in one God.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 254,
-       "new_pos": 32
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "They condemned the superstitions and rituals of orthodox Hinduism.",
-       "new": "They condemned the superstitions and rituals of orthodox Hinduism.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 255,
-       "new_pos": 33
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Aligarh Movement",
-       "new": "The Aligarh Movement",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 256,
-       "new_pos": 39
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University.",
-       "new": "The Mohammedan Anglo‐Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 257,
-       "new_pos": 40
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The institution offered modern education, including Western science, to Muslims.",
-       "new": "The institution offered modern education, including Western science, to Muslims.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 258,
-       "new_pos": 41
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.",
-       "new": "The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 259,
-       "new_pos": 42
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Singh Sabha Movement",
-       "new": "The Singh Sabha Movement",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 260,
-       "new_pos": 43
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879.",
-       "new": "Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 261,
-       "new_pos": 44
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh.",
-       "new": "The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non‐Sikh.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 262,
-       "new_pos": 45
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.",
-       "new": "They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.",
-       "old_page": 107,
-       "new_page": 91,
-       "words": [],
-       "old_pos": 263,
-       "new_pos": 46
-      },
-      {
-       "type": "modified",
-       "stream": "body>note",
-       "similarity": 0.895,
-       "old": "Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world.",
-       "new": "The Ramakrishna Mission and Swami Vivekananda Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [
-        [
-         "+",
-         "The Ramakrishna Mission and Swami Vivekananda"
-        ],
-        [
-         "=",
-         "Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world."
-        ]
-       ],
-       "old_pos": 236,
-       "new_pos": 16
-      },
-      {
-       "type": "modified",
-       "stream": "body>note",
-       "similarity": 0.874,
-       "old": "The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.",
-       "new": "Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [
-        [
-         "-",
-         "The Ramakrishna Mission and Swami Vivekananda"
-        ],
-        [
-         "=",
-         "Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action."
-        ]
-       ],
-       "old_pos": 235,
-       "new_pos": 36
       },
       {
        "type": "resplit",
@@ -27888,18 +27380,6 @@
        "words": [],
        "old_pos": 38,
        "new_pos": 2
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen.",
-       "new": "In 1929, the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 123,
-       "new_pos": 3
       },
       {
        "type": "resplit",
@@ -27922,7 +27402,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 158,
+       "old_pos": 146,
        "new_pos": 11
       },
       {
@@ -27934,44 +27414,8 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 191,
+       "old_pos": 179,
        "new_pos": 14
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "In this exhortation he became truly ‘the symbol of a new spirit and a source of strength for the future’.",
-       "new": "In this exhortation, he became truly ‘the symbol of a new spirit and a source of strength for the future’.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 247,
-       "new_pos": 27
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "According to the Act no man below the age of 18 and woman below the age of 16 could marry.",
-       "new": "According to the Act, no man below the age of 18 and woman below the age of 16 could marry.",
-       "old_page": 100,
-       "new_page": 84,
-       "words": [],
-       "old_pos": 124,
-       "new_pos": 4
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "By sending out this call he made a signal contribution to the nascent nationalism of India.",
-       "new": "By sending out this call, he made a signal contribution to the nascent nationalism of India.",
-       "old_page": 106,
-       "new_page": 90,
-       "words": [],
-       "old_pos": 243,
-       "new_pos": 23
       },
       {
        "type": "resplit",
@@ -27994,7 +27438,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 227,
+       "old_pos": 215,
        "new_pos": 18
       }
      ]
@@ -28003,15 +27447,654 @@
      "counts": {
       "deleted": 0,
       "inserted": 0,
-      "modified": 0,
-      "moved": 0,
-      "typographic": 0,
+      "modified": 2,
+      "moved": 3,
+      "typographic": 2,
       "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
-      "punctuation": 0
+      "punctuation": 4
      },
-     "hunks": []
+     "hunks": [
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.996,
+       "old": "In 1929 the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen.",
+       "new": "In 1929, the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [
+        [
+         "=",
+         "In"
+        ],
+        [
+         "-",
+         "1929"
+        ],
+        [
+         "+",
+         "1929,"
+        ],
+        [
+         "=",
+         "the Child Marriage Restraint Act was passed without the kind of bitter debates and struggles that earlier laws had seen."
+        ]
+       ],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.994,
+       "old": "According to the Act no man below the age of 18 and woman below the age of 16 could marry.",
+       "new": "According to the Act, no man below the age of 18 and woman below the age of 16 could marry.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [
+        [
+         "=",
+         "According to the"
+        ],
+        [
+         "-",
+         "Act"
+        ],
+        [
+         "+",
+         "Act,"
+        ],
+        [
+         "=",
+         "no man below the age of 18 and woman below the age of 16 could marry."
+        ]
+       ],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength.",
+       "new": "With the growth of women’s organisations and writings on these issues, the momentum for reform gained strength.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "People challenged another established custom – that of child marriage.",
+       "new": "People challenged another established custom – that of child marriage.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage.",
+       "new": "There were a number of Indian legislators in the Central Legislative Assembly who fought to make a law preventing child marriage.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Subsequently these limits were raised to 21 for men and 18 for women.",
+       "new": "Subsequently these limits were raised to 21 for men and 18 for women.",
+       "old_page": 100,
+       "new_page": 84,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting.",
+       "new": "Leatherworkers have been traditionally held in contempt since they work with dead animals which are seen as dirty and polluting.",
+       "old_page": 101,
+       "new_page": 85,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "During the First World War, however, there was a huge demand for shoes for the armies.",
+       "new": "During the First World War, however, there was a huge demand for shoes for the armies.",
+       "old_page": 101,
+       "new_page": 85,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes.",
+       "new": "Caste prejudice against leather work meant that only the traditional leather workers and shoemakers were ready to supply army shoes.",
+       "old_page": 101,
+       "new_page": 85,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "So they could ask for high prices and gain impressive profits.",
+       "new": "So they could ask for high prices and gain impressive profits.",
+       "old_page": 101,
+       "new_page": 85,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools.",
+       "new": "In the Bombay Presidency, as late as 1829, untouchables were not allowed into even government schools.",
+       "old_page": 102,
+       "new_page": 86,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.",
+       "new": "When some of them pressed hard for that right, they were allowed to sit on the veranda outside the classroom and listen to the lessons, without “polluting” the room where upper-caste boys were taught.",
+       "old_page": 102,
+       "new_page": 86,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "modified",
+       "stream": "note",
+       "similarity": 0.895,
+       "old": "Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world.",
+       "new": "The Ramakrishna Mission and Swami Vivekananda Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [
+        [
+         "+",
+         "The Ramakrishna Mission and Swami Vivekananda"
+        ],
+        [
+         "=",
+         "Swami Vivekananda (1863-1902), whose original name was Narendra Nath Dutta, combined the simple teachings of Sri Ramakrishna with his well founded modern outlook and spread them all over the world."
+        ]
+       ],
+       "old_pos": 19,
+       "new_pos": 16
+      },
+      {
+       "type": "modified",
+       "stream": "note",
+       "similarity": 0.874,
+       "old": "The Ramakrishna Mission and Swami Vivekananda Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.",
+       "new": "Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [
+        [
+         "-",
+         "The Ramakrishna Mission and Swami Vivekananda"
+        ],
+        [
+         "=",
+         "Named after Ramakrishna Paramhansa, Swami Vivekananda’s guru, the Ramakrishna Mission stressed the ideal of salvation through social service and selfless action."
+        ]
+       ],
+       "old_pos": 18,
+       "new_pos": 36
+      },
+      {
+       "type": "moved",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices.",
+       "new": "The Brahmo Samaj, formed in 1830, prohibited all forms of idolatry and sacrifice, believed in the Upanishads, and forbade its members from criticising other religious practices.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 34
+      },
+      {
+       "type": "moved",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.",
+       "new": "It critically drew upon the ideals of religions – especially of Hinduism and Christianity – looking at their negative and positive dimensions.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 35
+      },
+      {
+       "type": "moved",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Prarthana Samaj",
+       "new": "The Prarthana Samaj",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 31,
+       "new_pos": 37
+      },
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.994,
+       "old": "By sending out this call he made a signal contribution to the nascent nationalism of India.",
+       "new": "By sending out this call, he made a signal contribution to the nascent nationalism of India.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [
+        [
+         "=",
+         "By sending out this"
+        ],
+        [
+         "-",
+         "call"
+        ],
+        [
+         "+",
+         "call,"
+        ],
+        [
+         "=",
+         "he made a signal contribution to the nascent nationalism of India."
+        ]
+       ],
+       "old_pos": 26,
+       "new_pos": 23
+      },
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.995,
+       "old": "In this exhortation he became truly ‘the symbol of a new spirit and a source of strength for the future’.",
+       "new": "In this exhortation, he became truly ‘the symbol of a new spirit and a source of strength for the future’.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [
+        [
+         "=",
+         "In this"
+        ],
+        [
+         "-",
+         "exhortation"
+        ],
+        [
+         "+",
+         "exhortation,"
+        ],
+        [
+         "=",
+         "he became truly ‘the symbol of a new spirit and a source of strength for the future’."
+        ]
+       ],
+       "old_pos": 30,
+       "new_pos": 27
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Brahmo Samaj",
+       "new": "The Brahmo Samaj",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Derozio and Young Bengal",
+       "new": "Derozio and Young Bengal",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority.",
+       "new": "Henry Louis Vivian Derozio, a teacher at Hindu College, Calcutta, in the 1820s, promoted radical ideas and encouraged his pupils to question all authority.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.",
+       "new": "Referred to as the Young Bengal Movement, his students attacked tradition and custom, demanded education for women and campaigned for the freedom of thought and expression.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”.",
+       "new": "After hearing him in the World Parliament of Religions at Chicago in 1893, the New York Herald reported, “We feel how foolish it is to send missionaries to this learned nation”.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale.",
+       "new": "Indeed, Swami Vivekananda was the first Indian in modern times, who re-established the spiritual pre-eminence of the Vedanta philosophy on a global scale.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "But his mission was not simply to talk of religion.",
+       "new": "But his mission was not simply to talk of religion.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "He was extremely pained at the poverty and the misery of his country men.",
+       "new": "He was extremely pained at the poverty and the misery of his country men.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "He firmly believed that any reform could become successful only by uplifting the condition of the masses.",
+       "new": "He firmly believed that any reform could become successful only by uplifting the condition of the masses.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation.",
+       "new": "Therefore, his clarion call to the people of India was to rise above the narrow confines of their ‘religion of the kitchen’ and come together in the service of the nation.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "His sense of nationalism was, however, not narrow in its conception.",
+       "new": "His sense of nationalism was, however, not narrow in its conception.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 27,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing.",
+       "new": "He was convinced that many of the problems facing the mankind could only be overcome if the nations of the world come together on an equal footing.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage.",
+       "new": "Therefore, his exhortation to the youth was to unite on the basis of a common spiritual heritage.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 29,
+       "new_pos": 26
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage.",
+       "new": "Established in 1867 at Bombay, the Prarthana Samaj sought to remove caste restrictions, abolish child marriage, encourage the education of women, and end the ban on widow remarriage.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 32,
+       "new_pos": 28
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Its religious meetings drew upon Hindu, Buddhist and Christian texts.",
+       "new": "Its religious meetings drew upon Hindu, Buddhist and Christian texts.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 33,
+       "new_pos": 29
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj.",
+       "new": "Established in Madras (Chennai) in 1864, the Veda Samaj was inspired by the Brahmo Samaj.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 30
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "It worked to abolish caste distinctions and promote widow remarriage and women’s education.",
+       "new": "It worked to abolish caste distinctions and promote widow remarriage and women’s education.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 35,
+       "new_pos": 31
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Its members believed in one God.",
+       "new": "Its members believed in one God.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 36,
+       "new_pos": 32
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "They condemned the superstitions and rituals of orthodox Hinduism.",
+       "new": "They condemned the superstitions and rituals of orthodox Hinduism.",
+       "old_page": 106,
+       "new_page": 90,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 33
+      },
+      {
+       "type": "typographic",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Mohammedan Anglo-Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University.",
+       "new": "The Mohammedan Anglo‐Oriental College, founded by Sayyid Ahmed Khan in 1875 at Aligarh, later became the Aligarh Muslim University.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 40
+      },
+      {
+       "type": "typographic",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non-Sikh.",
+       "new": "The Sabhas sought to rid Sikhism of superstitions, caste distinctions and practices seen by them as non‐Sikh.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 44,
+       "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Aligarh Movement",
+       "new": "The Aligarh Movement",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The institution offered modern education, including Western science, to Muslims.",
+       "new": "The institution offered modern education, including Western science, to Muslims.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.",
+       "new": "The Aligarh Movement, as it was known, had an enormous impact in the area of educational reform.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 42
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The Singh Sabha Movement",
+       "new": "The Singh Sabha Movement",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 42,
+       "new_pos": 43
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879.",
+       "new": "Reform organisations of the Sikhs, the first Singh Sabhas were formed at Amritsar in 1873 and at Lahore in 1879.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 44
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.",
+       "new": "They promoted education among the Sikhs, often combining modern instruction with Sikh teachings.",
+       "old_page": 107,
+       "new_page": 91,
+       "words": [],
+       "old_pos": 45,
+       "new_pos": 46
+      }
+     ]
     },
     "caption": {
      "counts": {
@@ -28021,7 +28104,7 @@
       "moved": 0,
       "typographic": 0,
       "restreamed": 2,
-      "resplit": 1,
+      "resplit": 2,
       "unreadable": 0,
       "punctuation": 0
      },
@@ -28186,18 +28269,6 @@
        "type": "equal",
        "stream": "caption",
        "similarity": 1.0,
-       "old": "Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh.",
-       "new": "Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh.",
-       "old_page": 101,
-       "new_page": 85,
-       "words": [],
-       "old_pos": 13,
-       "new_pos": 18
-      },
-      {
-       "type": "equal",
-       "stream": "caption",
-       "similarity": 1.0,
        "old": "They were experts at cleaning hides, tanning them for use, and sewing sandals.",
        "new": "They were experts at cleaning hides, tanning them for use, and sewing sandals.",
        "old_page": 101,
@@ -28215,7 +28286,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 15,
+       "old_pos": 16,
        "new_pos": 22
       },
       {
@@ -28227,7 +28298,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 16,
+       "old_pos": 17,
        "new_pos": 23
       },
       {
@@ -28239,7 +28310,7 @@
        "old_page": 102,
        "new_page": 86,
        "words": [],
-       "old_pos": 17,
+       "old_pos": 18,
        "new_pos": 24
       },
       {
@@ -28251,7 +28322,7 @@
        "old_page": 103,
        "new_page": 87,
        "words": [],
-       "old_pos": 18,
+       "old_pos": 19,
        "new_pos": 25
       },
       {
@@ -28263,7 +28334,7 @@
        "old_page": 105,
        "new_page": 89,
        "words": [],
-       "old_pos": 19,
+       "old_pos": 20,
        "new_pos": 28
       },
       {
@@ -28275,7 +28346,7 @@
        "old_page": 106,
        "new_page": 90,
        "words": [],
-       "old_pos": 20,
+       "old_pos": 21,
        "new_pos": 31
       },
       {
@@ -28287,7 +28358,7 @@
        "old_page": 106,
        "new_page": 90,
        "words": [],
-       "old_pos": 21,
+       "old_pos": 22,
        "new_pos": 32
       },
       {
@@ -28299,7 +28370,7 @@
        "old_page": 106,
        "new_page": 90,
        "words": [],
-       "old_pos": 22,
+       "old_pos": 23,
        "new_pos": 33
       },
       {
@@ -28311,7 +28382,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 25,
+       "old_pos": 26,
        "new_pos": null
       },
       {
@@ -28323,7 +28394,7 @@
        "old_page": 107,
        "new_page": null,
        "words": [],
-       "old_pos": 26,
+       "old_pos": 27,
        "new_pos": null
       },
       {
@@ -28335,7 +28406,7 @@
        "old_page": 107,
        "new_page": 91,
        "words": [],
-       "old_pos": 23,
+       "old_pos": 24,
        "new_pos": 6
       },
       {
@@ -28347,8 +28418,20 @@
        "old_page": 107,
        "new_page": 91,
        "words": [],
-       "old_pos": 24,
+       "old_pos": 25,
        "new_pos": 10
+      },
+      {
+       "type": "resplit",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Madigas were an important untouchable caste of present-day Andhra Pradesh. Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh",
+       "new": "Fig. 10 – Madigas making shoes, nineteenth-century Andhra Pradesh Madigas were an important untouchable caste of present-day Andhra Pradesh.",
+       "old_page": 101,
+       "new_page": 85,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 18
       }
      ]
     },
@@ -29422,7 +29505,7 @@
       "modified": 4,
       "moved": 1,
       "typographic": 1,
-      "restreamed": 34,
+      "restreamed": 7,
       "resplit": 7,
       "unreadable": 0,
       "punctuation": 24
@@ -32170,7 +32253,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 219,
+       "old_pos": 212,
        "new_pos": 212
       },
       {
@@ -32182,7 +32265,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 220,
+       "old_pos": 213,
        "new_pos": 213
       },
       {
@@ -32194,7 +32277,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 221,
+       "old_pos": 214,
        "new_pos": 214
       },
       {
@@ -32206,7 +32289,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 222,
+       "old_pos": 215,
        "new_pos": 215
       },
       {
@@ -32218,7 +32301,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 223,
+       "old_pos": 216,
        "new_pos": 216
       },
       {
@@ -32230,7 +32313,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 224,
+       "old_pos": 217,
        "new_pos": 217
       },
       {
@@ -32242,7 +32325,7 @@
        "old_page": 121,
        "new_page": 105,
        "words": [],
-       "old_pos": 225,
+       "old_pos": 218,
        "new_pos": 218
       },
       {
@@ -32254,7 +32337,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 241,
+       "old_pos": 219,
        "new_pos": 219
       },
       {
@@ -32266,7 +32349,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 242,
+       "old_pos": 220,
        "new_pos": 220
       },
       {
@@ -32278,7 +32361,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 243,
+       "old_pos": 221,
        "new_pos": 221
       },
       {
@@ -32290,7 +32373,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 244,
+       "old_pos": 222,
        "new_pos": 222
       },
       {
@@ -32302,7 +32385,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 245,
+       "old_pos": 223,
        "new_pos": 223
       },
       {
@@ -32314,7 +32397,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 246,
+       "old_pos": 224,
        "new_pos": 224
       },
       {
@@ -32326,7 +32409,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 247,
+       "old_pos": 225,
        "new_pos": 225
       },
       {
@@ -32338,7 +32421,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 248,
+       "old_pos": 226,
        "new_pos": 226
       },
       {
@@ -32350,7 +32433,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 249,
+       "old_pos": 227,
        "new_pos": 227
       },
       {
@@ -32362,7 +32445,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 250,
+       "old_pos": 228,
        "new_pos": 228
       },
       {
@@ -32374,7 +32457,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 251,
+       "old_pos": 229,
        "new_pos": 229
       },
       {
@@ -32386,7 +32469,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 252,
+       "old_pos": 230,
        "new_pos": 230
       },
       {
@@ -32398,7 +32481,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 253,
+       "old_pos": 231,
        "new_pos": 231
       },
       {
@@ -32410,7 +32493,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 254,
+       "old_pos": 232,
        "new_pos": 232
       },
       {
@@ -32422,7 +32505,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 255,
+       "old_pos": 233,
        "new_pos": 233
       },
       {
@@ -32434,7 +32517,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 256,
+       "old_pos": 234,
        "new_pos": 234
       },
       {
@@ -32446,7 +32529,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 257,
+       "old_pos": 235,
        "new_pos": 235
       },
       {
@@ -32458,7 +32541,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 258,
+       "old_pos": 236,
        "new_pos": 236
       },
       {
@@ -32470,7 +32553,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 259,
+       "old_pos": 237,
        "new_pos": 237
       },
       {
@@ -32482,7 +32565,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 260,
+       "old_pos": 238,
        "new_pos": 238
       },
       {
@@ -32494,7 +32577,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 261,
+       "old_pos": 239,
        "new_pos": 239
       },
       {
@@ -32506,7 +32589,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 262,
+       "old_pos": 240,
        "new_pos": 240
       },
       {
@@ -32518,7 +32601,7 @@
        "old_page": 122,
        "new_page": 106,
        "words": [],
-       "old_pos": 263,
+       "old_pos": 241,
        "new_pos": 241
       },
       {
@@ -32547,7 +32630,7 @@
          "over 90,000 people were arrested, and around 1,000 killed in police firing."
         ]
        ],
-       "old_pos": 272,
+       "old_pos": 250,
        "new_pos": 250
       },
       {
@@ -32576,7 +32659,7 @@
          "orders were given to machine-gun crowds from airplanes."
         ]
        ],
-       "old_pos": 273,
+       "old_pos": 251,
        "new_pos": 251
       },
       {
@@ -32605,7 +32688,7 @@
          "it may have been influenced by the history of tension between some Hindu and Muslim groups in the 1920s and 1930s."
         ]
        ],
-       "old_pos": 279,
+       "old_pos": 257,
        "new_pos": 257
       },
       {
@@ -32617,7 +32700,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 264,
+       "old_pos": 242,
        "new_pos": 242
       },
       {
@@ -32629,7 +32712,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 265,
+       "old_pos": 243,
        "new_pos": 243
       },
       {
@@ -32641,7 +32724,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 266,
+       "old_pos": 244,
        "new_pos": 244
       },
       {
@@ -32653,7 +32736,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 267,
+       "old_pos": 245,
        "new_pos": 245
       },
       {
@@ -32665,7 +32748,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 268,
+       "old_pos": 246,
        "new_pos": 246
       },
       {
@@ -32677,7 +32760,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 269,
+       "old_pos": 247,
        "new_pos": 247
       },
       {
@@ -32689,7 +32772,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 270,
+       "old_pos": 248,
        "new_pos": 248
       },
       {
@@ -32701,7 +32784,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 271,
+       "old_pos": 249,
        "new_pos": 249
       },
       {
@@ -32713,7 +32796,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 274,
+       "old_pos": 252,
        "new_pos": 252
       },
       {
@@ -32725,7 +32808,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 275,
+       "old_pos": 253,
        "new_pos": 253
       },
       {
@@ -32737,7 +32820,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 276,
+       "old_pos": 254,
        "new_pos": 254
       },
       {
@@ -32749,7 +32832,7 @@
        "old_page": 123,
        "new_page": 107,
        "words": [],
-       "old_pos": 277,
+       "old_pos": 255,
        "new_pos": 255
       },
       {
@@ -32761,7 +32844,7 @@
        "old_page": 123,
        "new_page": 109,
        "words": [],
-       "old_pos": 278,
+       "old_pos": 256,
        "new_pos": 256
       },
       {
@@ -32773,7 +32856,7 @@
        "old_page": 123,
        "new_page": 109,
        "words": [],
-       "old_pos": 280,
+       "old_pos": 258,
        "new_pos": 258
       },
       {
@@ -32785,7 +32868,7 @@
        "old_page": 123,
        "new_page": 109,
        "words": [],
-       "old_pos": 281,
+       "old_pos": 259,
        "new_pos": 259
       },
       {
@@ -32797,7 +32880,7 @@
        "old_page": 123,
        "new_page": 109,
        "words": [],
-       "old_pos": 282,
+       "old_pos": 260,
        "new_pos": 260
       },
       {
@@ -32809,7 +32892,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 303,
+       "old_pos": 276,
        "new_pos": 282
       },
       {
@@ -32838,7 +32921,7 @@
          "the British cabinet sent a three-member mission to Delhi to examine this demand and to suggest a suitable political framework for a free India."
         ]
        ],
-       "old_pos": 298,
+       "old_pos": 271,
        "new_pos": 269
       },
       {
@@ -32850,7 +32933,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 290,
+       "old_pos": 263,
        "new_pos": 261
       },
       {
@@ -32862,7 +32945,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 291,
+       "old_pos": 264,
        "new_pos": 262
       },
       {
@@ -32874,7 +32957,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 292,
+       "old_pos": 265,
        "new_pos": 263
       },
       {
@@ -32886,7 +32969,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 293,
+       "old_pos": 266,
        "new_pos": 264
       },
       {
@@ -32898,7 +32981,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 294,
+       "old_pos": 267,
        "new_pos": 265
       },
       {
@@ -32910,7 +32993,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 295,
+       "old_pos": 268,
        "new_pos": 266
       },
       {
@@ -32922,7 +33005,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 296,
+       "old_pos": 269,
        "new_pos": 267
       },
       {
@@ -32934,7 +33017,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 297,
+       "old_pos": 270,
        "new_pos": 268
       },
       {
@@ -32946,7 +33029,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 299,
+       "old_pos": 272,
        "new_pos": 270
       },
       {
@@ -32958,7 +33041,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 300,
+       "old_pos": 273,
        "new_pos": 271
       },
       {
@@ -32970,7 +33053,7 @@
        "old_page": 125,
        "new_page": 109,
        "words": [],
-       "old_pos": 301,
+       "old_pos": 274,
        "new_pos": 272
       },
       {
@@ -32982,7 +33065,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 313,
+       "old_pos": 286,
        "new_pos": null
       },
       {
@@ -32994,7 +33077,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 314,
+       "old_pos": 287,
        "new_pos": null
       },
       {
@@ -33006,7 +33089,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 315,
+       "old_pos": 288,
        "new_pos": null
       },
       {
@@ -33018,7 +33101,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 316,
+       "old_pos": 289,
        "new_pos": null
       },
       {
@@ -33030,7 +33113,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 317,
+       "old_pos": 290,
        "new_pos": null
       },
       {
@@ -33042,7 +33125,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 318,
+       "old_pos": 291,
        "new_pos": null
       },
       {
@@ -33054,7 +33137,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 319,
+       "old_pos": 292,
        "new_pos": null
       },
       {
@@ -33066,7 +33149,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 320,
+       "old_pos": 293,
        "new_pos": null
       },
       {
@@ -33078,7 +33161,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 321,
+       "old_pos": 294,
        "new_pos": null
       },
       {
@@ -33090,7 +33173,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 322,
+       "old_pos": 295,
        "new_pos": null
       },
       {
@@ -33102,7 +33185,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 323,
+       "old_pos": 296,
        "new_pos": null
       },
       {
@@ -33114,7 +33197,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 324,
+       "old_pos": 297,
        "new_pos": null
       },
       {
@@ -33126,7 +33209,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 325,
+       "old_pos": 298,
        "new_pos": null
       },
       {
@@ -33138,7 +33221,7 @@
        "old_page": 126,
        "new_page": null,
        "words": [],
-       "old_pos": 326,
+       "old_pos": 299,
        "new_pos": null
       },
       {
@@ -33167,7 +33250,7 @@
          "violence spread to different parts of northern India."
         ]
        ],
-       "old_pos": 307,
+       "old_pos": 280,
        "new_pos": 276
       },
       {
@@ -33179,7 +33262,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 304,
+       "old_pos": 277,
        "new_pos": 273
       },
       {
@@ -33191,7 +33274,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 305,
+       "old_pos": 278,
        "new_pos": 274
       },
       {
@@ -33203,7 +33286,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 306,
+       "old_pos": 279,
        "new_pos": 275
       },
       {
@@ -33215,7 +33298,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 308,
+       "old_pos": 281,
        "new_pos": 277
       },
       {
@@ -33227,7 +33310,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 309,
+       "old_pos": 282,
        "new_pos": 278
       },
       {
@@ -33239,7 +33322,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 310,
+       "old_pos": 283,
        "new_pos": 279
       },
       {
@@ -33251,7 +33334,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 311,
+       "old_pos": 284,
        "new_pos": 280
       },
       {
@@ -33263,7 +33346,7 @@
        "old_page": 126,
        "new_page": 109,
        "words": [],
-       "old_pos": 312,
+       "old_pos": 285,
        "new_pos": 281
       },
       {
@@ -33316,318 +33399,6 @@
       },
       {
        "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants.",
-       "new": "Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 212,
-       "new_pos": 0
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.",
-       "new": "On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 214,
-       "new_pos": 2
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly.",
-       "new": "On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 215,
-       "new_pos": 3
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.",
-       "new": "The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 216,
-       "new_pos": 4
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931.",
-       "new": "Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 217,
-       "new_pos": 5
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Bhagat Singh’s age at that time was only 23.",
-       "new": "Bhagat Singh’s age at that time was only 23.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 218,
-       "new_pos": 6
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Women from diverse backgrounds participated in the national movement.",
-       "new": "Women from diverse backgrounds participated in the national movement.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 226,
-       "new_pos": 7
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes.",
-       "new": "Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 227,
-       "new_pos": 8
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.",
-       "new": "Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 228,
-       "new_pos": 9
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force.",
-       "new": "Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 229,
-       "new_pos": 10
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Participation in the freedom movement brought women out of their homes.",
-       "new": "Participation in the freedom movement brought women out of their homes.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 230,
-       "new_pos": 11
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.",
-       "new": "It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 231,
-       "new_pos": 12
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "What such participation meant for women is best recounted by them.",
-       "new": "What such participation meant for women is best recounted by them.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 232,
-       "new_pos": 13
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Ambabai of Karnataka had been married at age twelve.",
-       "new": "Ambabai of Karnataka had been married at age twelve.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 233,
-       "new_pos": 14
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi.",
-       "new": "Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 234,
-       "new_pos": 15
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "She was arrested, served a sentence and was rearrested.",
-       "new": "She was arrested, served a sentence and was rearrested.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 235,
-       "new_pos": 16
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Between prison terms she made speeches, taught spinning, and organised prabhat pheris.",
-       "new": "Between prison terms she made speeches, taught spinning, and organised prabhat pheris.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 236,
-       "new_pos": 17
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.",
-       "new": "Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 237,
-       "new_pos": 18
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Women, however, had to fight for their right to participate in the movement.",
-       "new": "Women, however, had to fight for their right to participate in the movement.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 238,
-       "new_pos": 19
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation.",
-       "new": "During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 239,
-       "new_pos": 20
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "Sarojini Naidu had to persuade him to allow women to join the movement.",
-       "new": "Sarojini Naidu had to persuade him to allow women to join the movement.",
-       "old_page": 121,
-       "new_page": 105,
-       "words": [],
-       "old_pos": 240,
-       "new_pos": 21
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”.",
-       "new": "A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”.",
-       "old_page": 123,
-       "new_page": 107,
-       "words": [],
-       "old_pos": 283,
-       "new_pos": 22
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA).",
-       "new": "In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA).",
-       "old_page": 123,
-       "new_page": 107,
-       "words": [],
-       "old_pos": 284,
-       "new_pos": 23
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed.",
-       "new": "To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed.",
-       "old_page": 123,
-       "new_page": 107,
-       "words": [],
-       "old_pos": 285,
-       "new_pos": 24
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "The INA members were imprisoned and tried.",
-       "new": "The INA members were imprisoned and tried.",
-       "old_page": 123,
-       "new_page": 107,
-       "words": [],
-       "old_pos": 286,
-       "new_pos": 25
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "People across the country, from all walks of life, participated in the movement against the INA trials.",
-       "new": "People across the country, from all walks of life, participated in the movement against the INA trials.",
-       "old_page": 123,
-       "new_page": 107,
-       "words": [],
-       "old_pos": 287,
-       "new_pos": 26
-      },
-      {
-       "type": "restreamed",
        "stream": "body>caption",
        "similarity": 1.0,
        "old": "A foremost organiser of the freedom movement from 1918 onwards, Patel served as President of the Congress in 1931.",
@@ -33635,7 +33406,7 @@
        "old_page": 124,
        "new_page": 108,
        "words": [],
-       "old_pos": 289,
+       "old_pos": 262,
        "new_pos": 42
       },
       {
@@ -33656,7 +33427,7 @@
          "Gandhiji’s disciple, a Congress Socialist, and an internationalist, Nehru was a leading architect of the national movement and of free India’s economy and polity."
         ]
        ],
-       "old_pos": 302,
+       "old_pos": 275,
        "new_pos": 33
       },
       {
@@ -33693,7 +33464,7 @@
          "1945–47"
         ]
        ],
-       "old_pos": 288,
+       "old_pos": 261,
        "new_pos": 40
       },
       {
@@ -33743,18 +33514,6 @@
        "words": [],
        "old_pos": 171,
        "new_pos": 16
-      },
-      {
-       "type": "restreamed",
-       "stream": "body>note",
-       "similarity": 1.0,
-       "old": "For this purpose they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi.",
-       "new": "For this purpose, they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi.",
-       "old_page": 120,
-       "new_page": 104,
-       "words": [],
-       "old_pos": 213,
-       "new_pos": 1
       },
       {
        "type": "restreamed",
@@ -33828,9 +33587,351 @@
       "restreamed": 0,
       "resplit": 0,
       "unreadable": 0,
-      "punctuation": 0
+      "punctuation": 1
      },
-     "hunks": []
+     "hunks": [
+      {
+       "type": "punctuation",
+       "stream": "note",
+       "similarity": 0.996,
+       "old": "For this purpose they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi.",
+       "new": "For this purpose, they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [
+        [
+         "=",
+         "For this"
+        ],
+        [
+         "-",
+         "purpose"
+        ],
+        [
+         "+",
+         "purpose,"
+        ],
+        [
+         "=",
+         "they founded the Hindustan Socialist Republican Association (HSRA) in 1928 at Ferozeshah Kotla in Delhi."
+        ]
+       ],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants.",
+       "new": "Revolutionary nationalists such as Bhagat Singh, Chandra Shekhar Azad, Sukhdev and others wanted to fight against the colonial rule and the rich exploiting classes through a revolution of workers and peasants.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.",
+       "new": "On 17 December, 1928, Bhagat Singh, Azad and Rajguru assassinated Saunders, a police officer who was involved in the lathi-charge that had caused the death of Lala Lajpat Rai.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly.",
+       "new": "On 8 April, 1929, Bhagat Singh and B.K. Dutt threw a bomb in the Central Legislative Assembly.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.",
+       "new": "The aim, as their leaflet explained, was not to kill but “to make the deaf hear”, and to remind the foreign government of its callous exploitation.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931.",
+       "new": "Bhagat Singh, Sukhdev and Rajguru were executed on March 23, 1931.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Bhagat Singh’s age at that time was only 23.",
+       "new": "Bhagat Singh’s age at that time was only 23.",
+       "old_page": 120,
+       "new_page": 104,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Women from diverse backgrounds participated in the national movement.",
+       "new": "Women from diverse backgrounds participated in the national movement.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes.",
+       "new": "Young and old, single and married, they came from rural and urban areas, from both conservative and liberal homes.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.",
+       "new": "Their involvement was significant for the freedom struggle, for the women’s movement, and for themselves personally.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force.",
+       "new": "Both British officials and Indian nationalists felt that women’s participation gave the national struggle an immense force.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Participation in the freedom movement brought women out of their homes.",
+       "new": "Participation in the freedom movement brought women out of their homes.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.",
+       "new": "It gave them a place in the professions, in the governance of India, and it could pave the way for equality with men.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "What such participation meant for women is best recounted by them.",
+       "new": "What such participation meant for women is best recounted by them.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Ambabai of Karnataka had been married at age twelve.",
+       "new": "Ambabai of Karnataka had been married at age twelve.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi.",
+       "new": "Widowed at sixteen, she picketed foreign cloth and liquor shops in Udipi.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "She was arrested, served a sentence and was rearrested.",
+       "new": "She was arrested, served a sentence and was rearrested.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Between prison terms she made speeches, taught spinning, and organised prabhat pheris.",
+       "new": "Between prison terms she made speeches, taught spinning, and organised prabhat pheris.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.",
+       "new": "Ambabai regarded these as the happiest days of her life because they gave it a new purpose and commitment.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Women, however, had to fight for their right to participate in the movement.",
+       "new": "Women, however, had to fight for their right to participate in the movement.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation.",
+       "new": "During the Salt Satyagraha, for instance, even Mahatma Gandhi was initially opposed to women’s participation.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "Sarojini Naidu had to persuade him to allow women to join the movement.",
+       "new": "Sarojini Naidu had to persuade him to allow women to join the movement.",
+       "old_page": 121,
+       "new_page": 105,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”.",
+       "new": "A radical nationalist, with socialist leanings, Bose did not share Gandhiji’s ideal of ahimsa, though he respected him as the “Father of the Nation”.",
+       "old_page": 123,
+       "new_page": 107,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA).",
+       "new": "In January 1941, he secretly left his Calcutta home, went to Singapore, via Germany, and raised the Azad Hind Fauj or the Indian National Army (INA).",
+       "old_page": 123,
+       "new_page": 107,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed.",
+       "new": "To free India from British control, in 1944, the INA tried to enter India through Imphal and Kohima but the campaign failed.",
+       "old_page": 123,
+       "new_page": 107,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "The INA members were imprisoned and tried.",
+       "new": "The INA members were imprisoned and tried.",
+       "old_page": 123,
+       "new_page": 107,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "note",
+       "similarity": 1.0,
+       "old": "People across the country, from all walks of life, participated in the movement against the INA trials.",
+       "new": "People across the country, from all walks of life, participated in the movement against the INA trials.",
+       "old_page": 123,
+       "new_page": 107,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": 26
+      }
+     ]
     },
     "caption": {
      "counts": {

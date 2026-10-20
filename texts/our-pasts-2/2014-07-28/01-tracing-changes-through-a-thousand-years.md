@@ -207,9 +207,9 @@ You are a historian. Choose one of the themes mentioned in this chapter, such as
 
 <!-- page 15 (pdf 15) -->
 
-5. What were some of the major religious developments during this period?
-
 <!-- section: exercises -->
+
+5. What were some of the major religious developments during this period?
 
 ### Let’s understand
 
