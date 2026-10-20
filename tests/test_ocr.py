@@ -114,3 +114,16 @@ def test_vision_call_that_never_returns_is_abandoned():
     import pytest
     with pytest.raises(VisionHung):
         _with_timeout(lambda: time.sleep(5), 0.2)
+
+
+def test_number_in_band_text_ignores_session_labels_and_years():
+    assert ocr.number_in("4 / Social and Political Life") == 4
+    assert ocr.number_in("OUR PASTS-I\n2", "bottom") == 2
+    assert ocr.number_in("2018-19") is None
+    assert ocr.number_in("Reprinted 2020") is None
+    assert ocr.number_in("") is None
+    # Body text under the folio line is ignored, and a slash read as 7 loses to the edge token.
+    assert ocr.number_in("36 Z Social and Political Life\nwhites spoke. He said 24 things") == 36
+    assert ocr.number_in("44 7 Social and Political Life") == 44
+    assert ocr.number_in("Panchayati Raj / 45") == 45
+    assert ocr.number_in("Fig. 3 shows 12 huts") is None  # two candidates, neither at an edge

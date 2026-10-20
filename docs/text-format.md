@@ -101,6 +101,16 @@ front of the next chapter, and their markers name the file they came from, as in
 A few pages inside an otherwise normal file can be flat images. They are read with OCR and
 listed as `ocr_pages` in the front matter.
 
+A folio is printed once, so the same number on several pages is discarded (the "20" of a
+"2019–20" print-run label set with an en dash). When fewer than half of a file's pages
+carry a number the footer rule can see, two fallbacks run: a bare number beside a bullet
+just above the footer band (Our Pasts I, "3 n"), and then tesseract on the top and bottom
+bands of each page, for printings that draw the folio as a graphic (Social and Political
+Life I). The band reads are cached as `<pdf dir>/ocr/<stem>-folios.json`. Pages that stay
+unnumbered get `<!-- pdf page 3 -->` and have no image on the site. A file that runs on
+into the next chapter (the 2020 Our Pasts I ch03.pdf holds chapter 4 too) is cut where the
+next file's first page begins.
+
 ## Run-in headings
 
 Some printings set a sub-heading as the bold first line of its paragraph rather than as a

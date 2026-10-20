@@ -384,3 +384,64 @@ def extract_chapter_ocr(pdf_path: Path) -> tuple[str, dict]:
     meta["ocr"] = True
     meta["ocr_confidence"] = round(conf, 1)
     return md, meta
+
+
+# Page numbers drawn as graphics. Some printings (the 2014 to 2020 Class 6 history and
+# civics books) set the folio as an outline or an image, so the text layer has no number on
+# any page. Only the top and bottom bands are read, as digits, and the result is cached.
+BAND = 0.15  # of the page height: the folio of the Class 6 civics book sits a seventh of the way down
+PAGE_NUMBER_TOKEN = re.compile(r"(?<![\d-])(\d{1,3})(?![\d-])")
+
+
+def number_in(text: str, edge: str = "top") -> int | None:
+    """The folio in a band's OCR text: the outermost line of the band (first line at the
+    top, last at the bottom) holds it, body text under it may hold other numbers. One 1 to 3
+    digit token that is not part of a session label ("2018-19") or a year; with several, the
+    one at the line's edge ("44 7 Social and Political Life", where the slash read as 7)."""
+    lines = [ln.strip() for ln in text.splitlines() if ln.strip()]
+    if not lines:
+        return None
+    line = lines[0] if edge == "top" else lines[-1]
+    hits = [m for m in PAGE_NUMBER_TOKEN.finditer(line) if 1 <= int(m.group(1)) <= 400]
+    if len(hits) == 1:
+        return int(hits[0].group(1))
+    if len(hits) > 1:
+        at_start = re.match(r"^\W*\d", line) is not None
+        at_end = re.search(r"\d\W*$", line) is not None
+        if at_start and not at_end:
+            return int(hits[0].group(1))
+        if at_end and not at_start:
+            return int(hits[-1].group(1))
+    return None
+
+
+def page_numbers(pdf_path: Path, indices: list[int]) -> dict[int, int]:
+    """Folio read from the top or bottom band of each page, for pages whose text layer has
+    none. Cached in <pdf dir>/ocr/<stem>-folios.json."""
+    if not available():
+        return {}
+    cache_dir = pdf_path.parent / "ocr"
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cache = cache_dir / f"{pdf_path.stem}-folios.json"
+    found: dict[str, int | None] = json.loads(cache.read_text()) if cache.exists() else {}
+    todo = [i for i in indices if str(i) not in found]
+    if todo:
+        with pymupdf.open(pdf_path) as doc:
+            for i in todo:
+                page = doc[i]
+                r = page.rect
+                result = None
+                for edge, clip in (("top", pymupdf.Rect(r.x0, r.y0, r.x1, r.y0 + BAND * r.height)), ("bottom", pymupdf.Rect(r.x0, r.y1 - BAND * r.height, r.x1, r.y1))):
+                    png = cache_dir / f"{pdf_path.stem}-p{i + 1:02d}-band.png"
+                    page.get_pixmap(dpi=2 * DPI, colorspace=pymupdf.csGRAY, clip=clip).save(png)  # small folios need the detail
+                    proc = subprocess.run([TESSERACT, str(png), "stdout", "--psm", "6", "-l", "eng"], capture_output=True, text=True)
+                    png.unlink(missing_ok=True)
+                    result = number_in(proc.stdout, edge)
+                    if result is not None:
+                        break
+                found[str(i)] = result
+        cache.write_text(json.dumps(found, indent=0))
+    out = {i: found[str(i)] for i in indices if found.get(str(i)) is not None}
+    # The same number on several pages is a misread (a stray mark beside "2018-19"), not a folio.
+    counts = Counter(out.values())
+    return {i: n for i, n in out.items() if counts[n] == 1}

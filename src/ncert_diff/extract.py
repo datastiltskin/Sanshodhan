@@ -1273,8 +1273,37 @@ def _read_all_pages(pdf_path: Path, vocab: set[str] | None = None) -> tuple[list
         else:
             printed = classify(blocks, w, h, body_size, running, side_fonts)
         pages.append(Page(i, printed, blocks, ocr=i in rasterised))
+    _drop_repeated_folios(pages)
+    numbered = sum(p.printed_number is not None for p in pages)
+    if len(pages) > 1 and numbered * 2 < len(pages):
+        # Few or no pages carry a folio the footer rule can see. The 2014 to 2020 Our Pasts I sets
+        # it as a bare number with a square bullet just above the footer band ("3 n"); the
+        # Social and Political Life I printings draw it as a graphic, so the page bands are
+        # read with tesseract as a last resort.
+        for (_, blocks, _, h), page in zip(raw, pages):
+            page.printed_number = page.printed_number or _loose_folio(blocks, h)
+        if sum(p.printed_number is not None for p in pages) * 2 < len(pages):
+            from . import ocr  # lazy: tesseract is optional
+
+            for i, number in ocr.page_numbers(pdf_path, [p.index for p in pages]).items():
+                pages[i].printed_number = pages[i].printed_number or number
+        _drop_repeated_folios(pages)
     fix_page_numbers(pages)
     return pages, width
+
+
+LOOSE_FOLIO = re.compile(r"^\W*(\d{1,3})\W*$")
+
+
+def _loose_folio(blocks: list[Block], height: float) -> int | None:
+    """A bare 1 to 3 digit block in the top or bottom fifth of the page, marked as a footer."""
+    for b in blocks:
+        if (b.y0 > 0.8 * height or b.y1 < 0.12 * height) and len(b.text) <= 6:
+            m = LOOSE_FOLIO.match(b.text.replace("n", "").replace("\x84", ""))
+            if m:
+                b.role = "footer"
+                return int(m.group(1))
+    return None
 
 
 def _commonest_size(blocks: list[Block]) -> float | None:
@@ -1541,6 +1570,15 @@ def chapter_title(pages: list[Page]) -> tuple[str | None, str | None]:
         title = re.sub(r"\s*\)", ")", title)
         title = re.sub(r"(\d+)\s*(st|nd|rd|th)\b", r"\1\2", title)
     return number, title
+
+
+def _drop_repeated_folios(pages: list[Page]) -> None:
+    """A folio is printed on one page only. The same number on several pages came from
+    something else, such as the "20" of a "2019–20" print-run label set with an en dash."""
+    counts = Counter(p.printed_number for p in pages if p.printed_number is not None)
+    for p in pages:
+        if p.printed_number is not None and counts[p.printed_number] > 1:
+            p.printed_number = None
 
 
 def fix_page_numbers(pages: list[Page]) -> None:

@@ -994,3 +994,20 @@ def test_decorative_glyph_does_not_make_an_exercise_line_a_chapter_number():
     blocks = extract.blocks_from_dict(opener)
     extract.classify(blocks, 612.0, 792.0, 11.0)
     assert blocks[0].role == "chapter-number"
+
+
+def test_loose_folio_reads_a_bare_number_near_the_page_edge():
+    # 2020 Our Pasts I: "3 n" (the n is a square bullet glyph) sits just above the footer band.
+    blocks, _ = _page([("3 n", 12, 60, 672, "Bookman-Light"), ("WHAT, WHERE, HOW AND WHEN?", 8.4, 400, 696, "Bookman-Light"), (BODY, 12, 60, 100, "Bookman-Light")])
+    assert extract._loose_folio(blocks, 800.0) == 3
+    assert blocks[0].role == "footer"
+    # A number inside the text area, or a longer block, is not a folio.
+    blocks, _ = _page([("12,000 years", 12, 60, 672, "Bookman-Light"), ("7", 12, 60, 400, "Bookman-Light")])
+    assert extract._loose_folio(blocks, 800.0) is None
+
+
+def test_repeated_folios_are_dropped_before_the_vote():
+    pages = [extract.Page(i, 20, []) for i in range(4)]  # "2019–20" read as page 20 everywhere
+    pages[2].printed_number = 13
+    extract._drop_repeated_folios(pages)
+    assert [p.printed_number for p in pages] == [None, None, 13, None]

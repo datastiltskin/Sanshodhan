@@ -21,7 +21,7 @@ from . import MANIFEST_DIR, PDF_DIR, TEXTS_DIR
 from .clean import normalise_text, slugify
 from . import ocr
 from .extract import LABEL_HEADING, body_text, extract_chapter, extract_chapter_file, extract_whole_book, has_text_layer
-from .textparse import annotate_sections
+from .textparse import PAGE_MARKER, annotate_sections
 from .fetch import load_manifest
 from .sources import Book
 
@@ -53,6 +53,22 @@ def _date_key(month_year: str) -> tuple[int, int]:
     if not m:
         return (0, 0)
     return int(m.group(2)), MONTHS.split("|").index(m.group(1))
+
+
+def trim_overlap(markdown: str, next_printed: str | None) -> tuple[str, str, int] | None:
+    """The chapter text cut before the page where the next chapter starts, with its new
+    printed range and page count, or None when the two do not overlap."""
+    if not next_printed:
+        return None
+    start = int(next_printed.split("-")[0])
+    lines = markdown.splitlines()
+    pages = [(i, int(m.group(1))) for i, ln in enumerate(lines) if (m := PAGE_MARKER.match(ln)) and m.group(1)]
+    if len(pages) < 2 or pages[0][1] >= start or pages[-1][1] < start:
+        return None
+    cut = next(i for i, number in pages if number >= start)
+    kept = [number for _, number in pages if number < start]
+    text = "\n".join(lines[:cut]).rstrip() + "\n"
+    return text, f"{min(kept)}-{max(kept)}", len(kept)
 
 
 def contents_titles(pdf_path: Path, max_pages: int | None = None) -> dict[int, str]:
@@ -382,6 +398,16 @@ def process_book(book: Book, *, log=print) -> Path:
             log("  no chapter PDFs, skipped")
             continue
         chapters.sort(key=lambda c: (c["part"] or 0, c["number"]))
+        for cur, nxt in zip(chapters, chapters[1:]):
+            # NCERT sometimes packs the next chapter into a file as well (the 2020 Our Pasts I
+            # ch03.pdf runs on through chapter 4). The next file carries that chapter, so the
+            # copy is cut where the next chapter's first page begins.
+            if cur["part"] == nxt["part"]:
+                cut = trim_overlap(cur["markdown"], nxt["printed_pages"])
+                if cut:
+                    cur["markdown"], cur["printed_pages"], cur["pdf_pages"] = cut
+                    cur["fingerprint"] = _sha(body_text(cur["markdown"]))
+                    log(f"  chapter {cur['number']}: cut at page {nxt['printed_pages'].split('-')[0]}, where chapter {nxt['number']} begins")
         fingerprint = _sha("\n".join(c["fingerprint"] for c in chapters))
         extracted[label] = {"chapters": chapters, "prelims": prelims_meta, "fingerprint": fingerprint}
         signatures[signature] = label

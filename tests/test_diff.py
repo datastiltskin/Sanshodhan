@@ -271,3 +271,14 @@ def test_lettered_statements_after_the_glossary_heading_are_exercises():
     by_text = {u.text[:12]: u.section for u in units}
     assert by_text["All societie"] == "exercises" and by_text["The work tha"] == "exercises"
     assert by_text["Identity: Id"] == "glossary"
+
+
+def test_trim_overlap_cuts_a_file_that_runs_into_the_next_chapter():
+    from ncert_diff.editions import trim_overlap
+
+    md = "<!-- page 24 (pdf 1) -->\n\nChapter three text.\n\n<!-- page 34 (pdf 11) -->\n\nLast page of three.\n\n<!-- page 35 (pdf 12) -->\n\nChapter four starts.\n"
+    text, printed, count = trim_overlap(md, "35-45")
+    assert "Chapter four" not in text and "Last page of three." in text
+    assert (printed, count) == ("24-34", 2)
+    assert trim_overlap(md, "46-56") is None  # no overlap
+    assert trim_overlap(md, None) is None
