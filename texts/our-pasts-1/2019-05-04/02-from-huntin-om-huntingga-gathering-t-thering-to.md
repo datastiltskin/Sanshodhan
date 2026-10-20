@@ -9,11 +9,11 @@ title: "FROM HUNTIN OM HUNTING–GA GATHERING T THERING TO GROWING F WING FOOD"
 source_pdf: "pdfs/our-pasts-1/2019-05-04/ch02.pdf"
 source_sha256: "004a0ddea4224a6d75245216a5308788c594a67dfac6bb90d963e78629725ea1"
 pdf_pages: 13
-printed_pages: "20-20"
+printed_pages: "11-23"
 body_fingerprint: "0023340ba83e5189691be1e274921fb6e6b750986b2208952dd73ecddeb1a7f1"
 ---
 
-<!-- page 20 (pdf 1) -->
+<!-- page 11 (pdf 1) -->
 
 # FROM HUNTIN OM HUNTING–GA GATHERING T THERING TO GROWING F WING FOOD
 
@@ -31,9 +31,7 @@ First, if they had stayed at one place for a long time, they would have eaten up
 
 Second, animals move from place to place — either in search of smaller prey, or, in the case of deer and wild cattle, in search of grass and leaves. That is why those who hunted them had to follow their movements.
 
-> [caption] 11 n
-
-<!-- page 20 (pdf 2) -->
+<!-- page 12 (pdf 2) -->
 
 Third, plants and trees bear fruit in different seasons. So, people may have moved from season to season in search of different kinds of plants.
 
@@ -47,17 +45,15 @@ Some of these stone tools were used to cut meat and bone, scrape bark (from tree
 
 > [caption] Stone tools may also have been used for : Left : Digging the ground to collect edible roots. Right : Stitching clothes made out of animal skin.
 
-> [caption] n 12
-
-<!-- page 20 (pdf 3) -->
+<!-- page 13 (pdf 3) -->
 
 ### Choosing a place to live in
 
 Look at Map 2 below. All the places marked with red triangles are sites from which archaeologists have found evidence of hunter-gatherers. (Hunter-gatherers lived in many more places. Only some are shown on the map). Many sites were located near sources of water, such as rivers and lakes.
 
-> [caption] MAP : 2 Some Important Archaeological Sites 13 n
+> [caption] MAP : 2 Some Important Archaeological Sites
 
-<!-- page 20 (pdf 4) -->
+<!-- page 14 (pdf 4) -->
 
 As stone tools were important, people tried to find places where good quality stone was easily available.
 
@@ -69,9 +65,7 @@ Many of the caves in which these early people lived have paintings on the walls.
 
 > [caption] Bhimbetka (in present-day Madhya Pradesh). This is an old site with caves and rock shelters. People chose these natural caves because they provided shelter from the rain, heat and wind. These rock shelters are close to the Narmada valley. Can you think of why people chose to live here?
 
-> [caption] n 14
-
-<!-- page 20 (pdf 5) -->
+<!-- page 15 (pdf 5) -->
 
 ### Sites
 
@@ -91,9 +85,7 @@ The period when we find environmental changes, beginning about 12,000 years ago 
 
 We have also mentioned the names of some places. You will find the names of many more places in later chapters. Very often, we use present-day names of the places where people lived in the past, because we do not know what they called them.
 
-> [caption] 15 n
-
-<!-- page 20 (pdf 6) -->
+<!-- page 16 (pdf 6) -->
 
 ### A changing envir vironment
 
@@ -109,9 +101,7 @@ People could also attract and then tame animals by leaving food for them near th
 
 Can you think of any reasons why the dog was perhaps the first animal to be tamed?
 
-> [caption] n 16
-
-<!-- page 20 (pdf 7) -->
+<!-- page 17 (pdf 7) -->
 
 ### Domestication
 
@@ -135,9 +125,7 @@ If you plant a seed, you will notice that it takes some time to grow. This may b
 
 > [caption] AS GIFTS
 
-> [caption] 17 n
-
-<!-- page 20 (pdf 8) -->
+<!-- page 18 (pdf 8) -->
 
 As grain had to be stored for both food and seed, people had to think of ways of storing it. In many areas, they began making large clay pots, or wove baskets, or dug pits into the ground. Do you think hunter-gatherers would have made and used pots? Give reasons for your answer.
 
@@ -157,9 +145,7 @@ To find out whether these sites were settlements of farmers and herders, scienti
 
 Archaeologists have found traces of huts or houses at some sites. For instance, in Burzahom (in
 
-> [caption] n 18
-
-<!-- page 20 (pdf 9) -->
+<!-- page 19 (pdf 9) -->
 
 present-day Kashmir) people built pit-houses, which were dug into the ground, with steps leading into them. These may have provided shelter in cold weather. Archaeologists have also found cooking hearths both inside and outside the huts, which suggests that, depending on the weather, people could cook food either indoors or outdoors.
 
@@ -168,8 +154,6 @@ Draw a pit house. Stone tools have been found from many sites as well. Many of t
 Many kinds of earthen pots have also been found. These were sometimes decorated, and were used for storing things. People began using pots for cooking food, especially grains like rice, wheat and lentils that now became an important part of
 
 > [caption] New stone tools.
-
-> [caption] 19 n
 
 <!-- page 20 (pdf 10) -->
 
@@ -191,9 +175,7 @@ When people die, their relatives and friends generally pay respect to them. Peop
 
 > [caption] A house in Mehrgarh. This is what a house in Mehrgarh may have looked like. In what ways is this house similar to the one in which you live?
 
-> [caption] n 20
-
-<!-- page 20 (pdf 11) -->
+<!-- page 21 (pdf 11) -->
 
 them, perhaps in the belief that there is some form of life after death. Burial is one such arrangement. Several burial sites have been found at Mehrgarh. In one instance, the dead person was buried with goats, which were probably meant to serve as food in the next world.
 
@@ -205,27 +187,17 @@ These colours were made from minerals like ochre or iron ore, and charcoal. It i
 
 > [table] Can you think of any other reasons?
 
-> [caption] 21 n
+<!-- page 22 (pdf 12) -->
 
-<!-- page 20 (pdf 12) -->
-
-> [table] KEYWORDS hunter-gatherer
+> [table] KEYWORDS hunter-gatherer site habitation factory Palaeolithic Mesolithic microliths domestication farmers herders Neolithic burials
 
 ### Elsewhere
 
 ### A Neolitchic site
 
-> [table] site habitation
-
 Find Turkey in your atlas. One of the most famous Neolithic sites, Catal Huyuk, was found in Turkey. Several things were brought from great distances —flint from Syria, cowries from the Red Sea, shells from the Mediterranean Sea — and used in the settlement. Remember, there were no carts — most things would have been carried on the backs of pack animals such as cattle or by people.
 
-> [table] factory Palaeolithic
-
-> [table] Mesolithic microliths domestication
-
 > [table] What do you think cowries and shells would have been used for?
-
-> [table] farmers herders Neolithic burials
 
 ### Imagine
 
@@ -243,9 +215,7 @@ You live in a rock shelter like the one shown on page14 about 12,000 years ago. 
 
 > [table] 3. Why do archaeologists think that many people who lived in Mehrgarh were hunters to start with and that herding became more important later?
 
-> [table] n 22
-
-<!-- page 20 (pdf 13) -->
+<!-- page 23 (pdf 13) -->
 
 ### Let’s discuss
 
@@ -276,5 +246,3 @@ You live in a rock shelter like the one shown on page14 about 12,000 years ago. 
 > [caption] u the beginning of the
 
 > [caption] Neolithic (10,000 years ago)
-
-> [table] 23 n

@@ -11,10 +11,11 @@ title: "Urban Administration"
 source_pdf: "pdfs/social-political-life-1/2014-06-28/ch07.pdf"
 source_sha256: "5185ffe10e096ab9aa6d68435df638d391b85b37770deeaf1cd756be3533e692"
 pdf_pages: 8
+printed_pages: "57-64"
 body_fingerprint: "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 57 (pdf 1) -->
 
 Chapter 7
 
@@ -32,7 +33,7 @@ Shankar had bowled a good over and although he nearly managed to get Rehana out,
 
 Rehana's house was the closest and they ran and told her mother what had happened. Rehana's mother said, "I don't really know these things in great detail but I do know that it is the Municipal Corporation of the city that takes care of replacing lights. The best person to ask would be Yasmin Khala. She just retired from the Municipal Corporation. Go and ask her, and Rehana come back home soon."
 
-<!-- pdf page 2 -->
+<!-- page 58 (pdf 2) -->
 
 > [table] 58 / Social and Political Life
 
@@ -50,7 +51,7 @@ List at least four different tasks that the Municipality does: 1. 2. 3. 4.
 
 "No Rehana, I was working in the accounts office of the Corporation so I just worked on pay slips. Cities are usually quite large so the Municipal Corporation has to make a lot of decisions as well as do a lot of work to keep the city clean. The decisions like where a park or a new hospital should go are usually made by the Ward Councillors."
 
-<!-- pdf page 3 -->
+<!-- page 59 (pdf 3) -->
 
 The city is divided into different wards and ward councillors get elected. The complicated decisions that affect the entire city are taken by groups of councillors who form commi-ttees to decide and debate issues. For example, if bus stands need to be improved, or a crowded market-place needs to have its garbage cleared more regularly, or there is a 'nala' or drain that cuts through the city that needs cleaning etc. It is these committees for water, garbage collection, street lighting etc. that decide on the work to be done.
 
@@ -72,7 +73,7 @@ How does the Municipal Corporation get its money? Providing and running so many 
 
 There are also taxes for education and other amenities. If you own a hotel or shop then you have to pay a tax for this as well. Also the next time you go to see a movie look carefully at your ticket because you pay a tax for this as well. Thus while rich people account for property taxes, a much wider population pays more general taxes.
 
-<!-- pdf page 4 -->
+<!-- page 60 (pdf 4) -->
 
 > [table] 60 / Social and Political Life
 
@@ -88,7 +89,7 @@ Jehangir ate his kababs at top speed and as he wolfed them down he asked loudly 
 
 Yasmin Khala continued, "The women were very unhappy about the situation and even came to me for advice. I said I could try and speak with some officer in the department but I wasn't sure how long it would take. Then it was Gangabai who said that it is the Ward Councillor who we should go to and protest since we are the ones who elected him. She gathered a small group of women and went to his house. They began shouting slogans in front of his house and he came out and asked them what was wrong.
 
-<!-- pdf page 5 -->
+<!-- page 61 (pdf 5) -->
 
 What has changed since Khala retired?
 
@@ -112,7 +113,7 @@ The next morning a large group of women and the Ward Councillor and the sanitati
 
 What was Gangabai protesting about? Why do you think Gangabai decided to approach the Ward Councillor? What did Gangabai say when the Commissioner said that there were not enough trucks in the city?
 
-<!-- pdf page 6 -->
+<!-- page 62 (pdf 6) -->
 
 > [table] 62 / Social and Political Life
 
@@ -130,7 +131,7 @@ Do you know when and how often garbage gets collected in your neighbourhood? Do 
 
 Did you know that your taxes enable the government to provide roads, bridges, parks, and street lights? List three more benefits that the taxes help in funding, after discussing with your family: 1. 2. 3.
 
-<!-- pdf page 7 -->
+<!-- page 63 (pdf 7) -->
 
 > [table] Urban Administration / 63
 
@@ -150,7 +151,7 @@ QUESTIONS
 
 > [caption] Photo 1
 
-<!-- pdf page 8 -->
+<!-- page 64 (pdf 8) -->
 
 > [table] 64 / Social and Political Life
 

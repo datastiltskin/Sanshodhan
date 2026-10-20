@@ -9,10 +9,11 @@ title: "Rural Administration"
 source_pdf: "pdfs/social-political-life-1/2015-04-01/ch06.pdf"
 source_sha256: "87019f070723d901114ba941d3a3942ebf745ac71268fdc8617f9809d6e0efa0"
 pdf_pages: 8
+printed_pages: "49-56"
 body_fingerprint: "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 49 (pdf 1) -->
 
 Chapter 6
 
@@ -34,7 +35,7 @@ After much discussion it was decided that Mohan would go to the police station a
 
 One morning Mohan noticed that Raghu had shifted the bund by a few feet. By doing so, he had managed to On the way to the police station one of the neighbours asked, "Why don't we spend some more money and go to the main police station in the town?"
 
-<!-- pdf page 2 -->
+<!-- page 50 (pdf 2) -->
 
 > [table] 50 / Social and Political Life
 
@@ -60,7 +61,7 @@ Mohan was puzzled and did not know what to do. He was not sure why his complaint
 
 Show the above situation in the police station through a skit. Then talk about how you felt playing Mohan's role or that of the S.H.O or the neighbours. Could the S.H.O have handled the situation differently?
 
-<!-- pdf page 3 -->
+<!-- page 51 (pdf 3) -->
 
 ### Maintenance of Land Records
 
@@ -84,7 +85,7 @@ How do people in the village contact him/her?
 
 The Patwari is also responsible for organising the collection of land revenue from the farmers and providing information to the govern-ment about the crops grown in this area. This is done from the records that are kept, and this is why it's important for the Patwari to regularly update these. Farmers may change the crops grown on their fields or someone may dig a well somewhere, and keeping track of all this is the work of the revenue department of the government. Senior people in this department supervise the Patwari's work.
 
-<!-- pdf page 4 -->
+<!-- page 52 (pdf 4) -->
 
 > [table] 52 / Social and Political Life
 
@@ -122,7 +123,7 @@ The Patwari is also responsible for organising the collection of land revenue fr
 
 > [caption] Sketch map – not to scale
 
-<!-- pdf page 5 -->
+<!-- page 53 (pdf 5) -->
 
 All states in India are divided into districts. For managing matters relating to land these districts are further sub-divided. These sub-divisions of a district are known by different names such as tehsil, taluka, etc. At the head is the District Collector and under her are the revenue officers, also known as tehsildars. They have to hear disputes. They also supervise the work of the Patwaris and ensure that records are properly kept and land revenue is collected. They make sure that the farmers can easily obtain a copy of their record, students can obtain their caste certificates etc. The Tehsildar's office is where land disputes are also heard.
 
@@ -138,7 +139,7 @@ Father inherited our house from his father And everyone says he'll leave it to b
 
 > [caption] Anjali Monteiro,TISS)
 
-<!-- pdf page 6 -->
+<!-- page 54 (pdf 6) -->
 
 > [table] 54 / Social and Political Life
 
@@ -158,11 +159,11 @@ Other Public Services - A survey
 
 This chapter has looked at some of the administrative work of the government, especially for rural areas. The first example related to maintaining law and order and the second to maintaining land records. In the first case we examined the role of the police and in the second that of the Patwari. This work is supervised by other people in the department, such as the Tehsildar or the Superintendent of Police. We have also seen how people use these services, and some of the problems that they face. These services have to be used and made to function according to the laws that have been framed for them. You have probably seen many other public services and facilities provided by various departments of the government. Do the following exercise for your village/by visiting a nearby village or looking at your own area. List the public services in the village/area such as: the milk society, the fair price shop, the bank, the police station, the agricultural society for seeds and fertiliser, the post office or sub post office, the anganwadi, crèche, government school/s, health centre or government hospital etc. Collect information on three public services and discuss with your teacher how improvements can be made in their functioning. One example has been worked out.
 
-<!-- pdf page 7 -->
+<!-- page 55 (pdf 7) -->
 
 > [table] Rural Administration / 55
 
-<!-- pdf page 8 -->
+<!-- page 56 (pdf 8) -->
 
 > [table] 56 / Social and Political Life
 

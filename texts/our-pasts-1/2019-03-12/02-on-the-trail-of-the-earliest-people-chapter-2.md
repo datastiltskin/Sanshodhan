@@ -10,10 +10,11 @@ title: "ON THE TRAIL OF THE EARLIEST PEOPLE CHAPTER 2"
 source_pdf: "pdfs/our-pasts-1/2019-03-12/ch02.pdf"
 source_sha256: "dd53afbb48474094074ce1469f7203303ca8192be105efe87a7d0f84754f9a8c"
 pdf_pages: 11
+printed_pages: "11-21"
 body_fingerprint: "f1a038f294036b6301c3f09306971f30a58f1eb8d5a58ca4ef047f0cacbff958"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 11 (pdf 1) -->
 
 # ON THE TRAIL OF THE EARLIEST PEOPLE CHAPTER 2
 
@@ -27,9 +28,7 @@ We know about people who lived in the subcontinent as early as two million years
 
 None of these things was easy to do. There are several animals that run faster than us, many that are stronger. To hunt animals or catch fish and birds, people need to be alert, quick, and have lots of presence of mind. To collect plant produce, you need to find out which plants or parts of plants are edible, that is, can be eaten, as many can be poisonous. You also need to find out about the seasons when the fruits ripen.
 
-> [caption] 11 n
-
-<!-- pdf page 2 -->
+<!-- page 12 (pdf 2) -->
 
 List the skills and knowledge that the children of these communities had.
 
@@ -51,9 +50,7 @@ How do we know about these people?
 
 Archaeologists have found some of the things hunter-gatherers made and used. It is likely that people made and used tools of stone, wood and bone, of which stone tools have survived best.
 
-> [caption] n 12
-
-<!-- pdf page 3 -->
+<!-- page 13 (pdf 3) -->
 
 > [table] B
 
@@ -73,17 +70,15 @@ Some of these stone tools were used to cut meat and bone, scrape bark (from tree
 
 > [caption] Stone tools may also have been used for : Left : Digging the ground to collect edible roots. Right : Stitching clothes made out of animal skin.
 
-> [caption] 13 n
-
-<!-- pdf page 4 -->
+<!-- page 14 (pdf 4) -->
 
 ### Choosing a place to live in
 
 Look at Map 2 below. All the places marked with red triangles are sites from which archaeologists have found evidence of hunter-gatherers. (Hunter-gatherers lived in many more places. Only some are shown on the map). Many sites were located near sources of water, such as rivers and lakes.
 
-> [caption] MAP : 2 Some Important Archaeological Sites n 14
+> [caption] MAP : 2 Some Important Archaeological Sites
 
-<!-- pdf page 5 -->
+<!-- page 15 (pdf 5) -->
 
 As stone tools were important, people tried to find places where good quality stone was easily available. Places where stone was found and where people made tools are known as factory sites.
 
@@ -95,9 +90,7 @@ If you had to describe the place you live in, which of the terms would you choos
 
 > [caption] Bhimbetka (in present-day Madhya Pradesh). Some sites, known as habitation sites, are places where people lived. These include caves and rock shelters such as the one shown here. People chose these natural caves because they provided shelter from the rain, heat and wind. Natural caves and rock shelters are found in the Vindhyas and the Deccan plateau. These rock shelters are close to the Narmada valley. Can you think of why people chose to live here?
 
-> [caption] 15 n
-
-<!-- pdf page 6 -->
+<!-- page 16 (pdf 6) -->
 
 ### Sites
 
@@ -119,9 +112,7 @@ Around 12,000 years ago, there were major changes in the climate of the world, w
 
 > [caption] How stone tools were made : one of the two techniques is shown in the illustration. Try and identify it.
 
-> [caption] n 16
-
-<!-- pdf page 7 -->
+<!-- page 17 (pdf 7) -->
 
 Those who hunted these animals now followed them, learning about their food habits and their breeding seasons. It is likely that this helped people to start thinking about herding and rearing these animals themselves. Fishing also became important.
 
@@ -139,9 +130,7 @@ The period when we find environmental changes, beginning about 12,000 years ago 
 
 What do you think the term Neolithic means? We have also mentioned the names of some places. You will find the names of many more places in later chapters. Very often, we use present-day names of the places where people lived in the past, because we do not know what they called them.
 
-> [caption] 17 n
-
-<!-- pdf page 8 -->
+<!-- page 18 (pdf 8) -->
 
 ### Rock paintings and what they tell us
 
@@ -165,9 +154,7 @@ Find Hunsgi on Map 2 (page14). A number of early Palaeolithic sites were found h
 
 > [caption] A painting from a rock shelter. Describe the painting.
 
-> [caption] n 18
-
-<!-- pdf page 9 -->
+<!-- page 19 (pdf 9) -->
 
 Can you think of a term for the second type of sites?
 
@@ -179,23 +166,17 @@ These colours were made from minerals like ochre or iron ore, and charcoal. It i
 
 > [table] Can you think of any other reasons?
 
-> [caption] 19 n
+<!-- page 20 (pdf 10) -->
 
-<!-- pdf page 10 -->
+> [table] KEYWORDS hunter-gatherer site habitation factory Palaeolithic Mesolithic microliths
 
 ### Imagine
 
-> [table] KEYWORDS hunter-gatherer
-
 You live in a rock shelter like the one shown on page15 about 12,000 years ago. Your uncle is painting one of the inner walls of the cave and you want to help him. Will you mix the colours, draw the lines, fill in the colours? What are the stories he might tell you?
-
-> [table] site habitation factory Palaeolithic
 
 <!-- section: exercises -->
 
 ### Let’s recall
-
-> [table] Mesolithic microliths
 
 > [table] 1. Complete the sentences:
 
@@ -215,9 +196,7 @@ You live in a rock shelter like the one shown on page15 about 12,000 years ago. 
 
 > [table] 5. List three ways in which hunter-gatherers used fire (see page16). Would you use fire for any of these purposes today?
 
-> [table] n 20
-
-<!-- pdf page 11 -->
+<!-- page 21 (pdf 11) -->
 
 ### Let’s do
 
@@ -238,5 +217,3 @@ You live in a rock shelter like the one shown on page15 about 12,000 years ago. 
 > [caption] u the beginning of the
 
 > [caption] Neolithic (10,000 years ago)
-
-> [table] 21 n

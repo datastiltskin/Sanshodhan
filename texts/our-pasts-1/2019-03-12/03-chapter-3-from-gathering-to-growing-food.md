@@ -10,10 +10,11 @@ title: "CHAPTER 3 FROM GATHERING TO GROWING FOOD"
 source_pdf: "pdfs/our-pasts-1/2019-03-12/ch03.pdf"
 source_sha256: "2c26554eb2992cd6d0042491bb868b061143142c6b33a33bb4fffc6b66d44b15"
 pdf_pages: 10
+printed_pages: "22-31"
 body_fingerprint: "94b5d4eb50c21784a8897f58ce5f5e3ea107dbb51102c5759c49372847227624"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 22 (pdf 1) -->
 
 # CHAPTER 3 FROM GATHERING TO GROWING FOOD
 
@@ -29,9 +30,7 @@ Today, most of our food such as fruit, vegetables, grain, milk and meat comes fr
 
 We have seen in Chapter 2 that the climate of the world was changing, and so were plants and animals that people used as food. Men, women and children probably observed several things: the places where edible plants were found, how seeds broke off stalks, fell on the ground, and new plants sprouted from them. Perhaps they began looking after plants — protecting them from birds and animals so that they could grow and the seeds could ripen. In this way people became farmers.
 
-> [caption] n 22
-
-<!-- pdf page 2 -->
+<!-- page 23 (pdf 2) -->
 
 Women, men and children could also attract and then tame animals by leaving food for them near their shelters. The first animal to be tamed was the wild ancestor of the dog. Later, people encouraged animals that were relatively gentle to come near the camps where they lived. These animals such as sheep, goat, cattle and also the pig lived in herds, and most of them ate grass. Often, people protected these animals from attacks by other wild animals. This is how they became herders.
 
@@ -47,9 +46,7 @@ Amongst animals, those that are relatively gentle are selected for breeding. As 
 
 Domestication was a gradual process that took place in many parts of the world. It began about 12,000 years ago. Virtually all the plant and animal produce that we use as food today is a result of domestication. Some of the earliest plants to be domesticated were wheat and barley. The earliest domesticated animals include sheep and goat.
 
-> [caption] 23 n
-
-<!-- pdf page 3 -->
+<!-- page 24 (pdf 3) -->
 
 ### A new way of life
 
@@ -79,9 +76,9 @@ To find out whether these sites were settlements of farmers and herders, scienti
 
 > [caption] AS GIFTS
 
-> [caption] STORED FOR FOOD n 24
+> [caption] STORED FOR FOOD
 
-<!-- pdf page 4 -->
+<!-- page 25 (pdf 4) -->
 
 Look at the table below to see where evidence of grain and bones of domesticated animals have been found.
 
@@ -97,9 +94,7 @@ Look at the table below to see where evidence of grain and bones of domesticated
 
 These are just some of the sites from which grain and bones have been found.
 
-> [table] 25 n
-
-<!-- pdf page 5 -->
+<!-- page 26 (pdf 5) -->
 
 ### Towards a settled life
 
@@ -111,9 +106,7 @@ Many kinds of earthen pots have also been found. These were sometimes decorated,
 
 > [caption] New stone tools. Compare these with the tools shown on page 13 (Chapter 2). Can you see any similarities or differences?
 
-> [caption] n 26
-
-<!-- pdf page 6 -->
+<!-- page 27 (pdf 6) -->
 
 Did things change everywhere and all at once? Not quite. In many areas, men and women still continued to hunt and gather food, and elsewhere people adopted farming and herding slowly, over several thousand years. Besides, in some cases people tried to combine these activities, doing different things during different seasons.
 
@@ -131,9 +124,7 @@ Archaeology does not tell us directly about these. Scholars have studied the liv
 
 > [caption] 27 n
 
-> [caption] 27 n
-
-<!-- pdf page 7 -->
+<!-- page 28 (pdf 7) -->
 
 > [table] - Some men are regarded as leaders. They may be old and experienced, or young, brave warriors, or priests. Old women are respected for their wisdom and experience.
 
@@ -153,9 +144,7 @@ Find Mehrgarh on Map 2 (page14). This site is located in a fertile plain, near t
 
 Archaeologists who excavated the site found evidence of many kinds of animal bones from the earliest levels. These included bones of wild animals such as the deer and pig. In later levels, they found more bones of sheep and goat, and in still later levels, cattle bones are most common, suggesting that this was the animal that was generally kept by the people.
 
-> [caption] n 28
-
-<!-- pdf page 8 -->
+<!-- page 29 (pdf 8) -->
 
 ### Earlier and later levels
 
@@ -175,9 +164,7 @@ When people die, their relatives and friends generally pay respect to them. Peop
 
 > [caption] A burial from Mehrgarh. Can you identify the skeletons of the goats?
 
-> [caption] 29 n
-
-<!-- pdf page 9 -->
+<!-- page 30 (pdf 9) -->
 
 ### A closer look — (b) Daojali Hading
 
@@ -193,9 +180,9 @@ Find Turkey in your atlas. One of the most famous Neolithic sites, Catal Huyuk, 
 
 You are in charge of a small plot of land and have to decide what food crops to grow. What are the plants you would choose? Where would you get the seeds from? How would you plant them? How would you look after your plants? And when would they be ready for harvesting?
 
-> [caption] KEYWORDS domestication farmers herders Neolithic pots tribes village houses burials n 30
+> [caption] KEYWORDS domestication farmers herders Neolithic pots tribes village houses burials
 
-<!-- pdf page 10 -->
+<!-- page 31 (pdf 10) -->
 
 <!-- section: exercises -->
 
@@ -236,5 +223,3 @@ You are in charge of a small plot of land and have to decide what food crops to 
 > [caption] u Beginnings of domestication (about 12,000 years ago)
 
 > [caption] u Beginning of settlement at Mehrgarh (about 8000 years ago)
-
-> [table] 31 n

@@ -258,7 +258,7 @@ A textbook is important but only one among many sources that can be used in a cl
 
 > [caption] Not bad! One of the taps in the nearby village must be getting water!
 
-<!-- pdf page 13 -->
+<!-- page 7 (pdf 13) -->
 
 ## CONTENTS
 

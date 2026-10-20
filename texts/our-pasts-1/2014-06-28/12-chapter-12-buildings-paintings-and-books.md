@@ -13,10 +13,11 @@ title: "CHAPTER 12 BUILDINGS, PAINTINGS AND BOOKS"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch12.pdf"
 source_sha256: "ec10e7eb0ef4bc41e4cbbcaed9c6bc1e6e675e704c419854add94c1fd5923636"
 pdf_pages: 12
-body_fingerprint: "8627a2ce88eb7687d3b32a07c40650cfb9daa4b81978321cb3edc98093dc5ef8"
+printed_pages: "122-133"
+body_fingerprint: "8862a6ed0debdd6ebfb545df06d97bf56d9abad6d3b3fdf0b9338e02659b384f"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 122 (pdf 1) -->
 
 # CHAPTER 12 BUILDINGS, PAINTINGS AND BOOKS
 
@@ -36,9 +37,7 @@ This box, known as a relic casket, was covered with earth. Later, a layer of mud
 
 > [caption] The iron pillar
 
-> [caption] 122
-
-<!-- pdf page 2 -->
+<!-- page 123 (pdf 2) -->
 
 Often, a path, known as the pradakshina patha, was laid around the stupa. This was surrounded with railings. Entrance to the path was through gateways. Devotees walked around the stupa, in a clockwise direction, as a mark of devotion. Both railings and gateways were often decorated with sculpture.
 
@@ -52,9 +51,7 @@ Often, as at Bhitargaon, a tower, known as the shikhara, was built on top of the
 
 > [caption] Top : The Great Stupa at Sanchi, Madhya Pradesh. Stupas like this one were built over several centuries. While the brick mound probably dates to the time of Ashoka (Chapter 8), the railings and gateways were added during the time of later rulers. Left : Sculpture from Amaravati. Look at the picture and describe what you see.
 
-> [caption] 123
-
-<!-- pdf page 3 -->
+<!-- page 124 (pdf 3) -->
 
 Find Mahabalipuram and Aihole on Map 7 (page 113). Some of the finest stone temples were built in these towns. Some of these are shown here.
 
@@ -64,9 +61,7 @@ Find Mahabalipuram and Aihole on Map 7 (page 113). Some of the finest stone temp
 
 > [caption] Right : The Durga temple at Aihole, built about 1400 years ago.
 
-> [caption] 124
-
-<!-- pdf page 4 -->
+<!-- page 125 (pdf 4) -->
 
 How were stupas and temples built?
 
@@ -80,9 +75,7 @@ Among the others who paid for decorations were merchants, farmers, garland maker
 
 > [caption] Below : A sculpture from the National Museum, New Delhi. Can you see how some of the caves may have been hollowed out?
 
-> [caption] 125
-
-<!-- pdf page 5 -->
+<!-- page 126 (pdf 5) -->
 
 Make a diagram like the one on page 88 (Chapter 9) to show the stages in the building of a temple or stupa.
 
@@ -92,9 +85,7 @@ Find Ajanta on Map 7 (page 113). This is a place where several caves were hollow
 
 > [caption] Paintings from Ajanta. Describe what you see in each of these paintings.
 
-> [caption] 126
-
-<!-- pdf page 6 -->
+<!-- page 127 (pdf 6) -->
 
 ### The world of books
 
@@ -110,13 +101,11 @@ A famous Tamil epic, the Silappadikaram, was composed by a poet named Ilango, ar
 
 Another Tamil epic, the Manimekalai was composed by Sattanar around 1400 years ago. This describes the story of the daughter of Kovalan and Madhavi. These beautiful compositions were lost to scholars for many centuries, till their manuscripts were rediscovered, about a hundred years ago.
 
-> [table] 127
-
 Other writers, such as Kalidasa, (about whom you read in Chapter 11) wrote in Sanskrit. BUILDINGS, PAINTINGS A number of Hindu religious stories that were in circulation earlier were written down around the same time. These include the Puranas. Purana literally mean old. The Puranas contain stories about gods and goddesses, such as Vishnu, Shiva, Durga or Parvati. They also contain details on how they were to be worshipped. Besides, there are accounts about the creation of the world, and about kings.
 
 > [caption] AND BOOKS
 
-<!-- pdf page 7 -->
+<!-- page 128 (pdf 7) -->
 
 ### A verse from the Meghaduta
 
@@ -132,9 +121,7 @@ The Puranas were written in simple Sanskrit verse, and were meant to be heard by
 
 Two Sanskrit epics, the Mahabharata and Ramayana had been popular for a very long time. Some of you may be familiar with these stories. The Mahabharata is about a war fought between the Kauravas and Pandavas, who were cousins.
 
-> [caption] 128
-
-<!-- pdf page 8 -->
+<!-- page 129 (pdf 8) -->
 
 This was a war to gain control of the throne of the Kurus, and their capital, Hastinapur. The story itself was an old one, but was written down in the form in which we know it today, about 1500 years ago. Both the Puranas and the Mahabharata are supposed to have been compiled by Vyasa. The Bhagavad Gita, about which you learnt in Chapter 10, was also included in the Mahabharata. The Ramayana is about Rama, a prince of Kosala, who was sent into exile. His wife Sita was abducted by the king of Lanka, named Ravana, and Rama had to fight a battle to get her back. He won and returned to Ayodhya, the capital of Kosala, after his victory. Like the Mahabharata, this was an old story that was now written down. Valmiki is recognised as the author of the Sanskrit Ramayana.
 
@@ -144,9 +131,7 @@ There are several versions (many of which are performed) of the Mahabharata and 
 
 Ordinary people also told stories, composed poems and songs, sang, danced, and performed plays. Some of these are preserved in collections of stories such as the Jatakas and the Panchatantra, which were written down around this time. Stories from the Jatakas were often shown on the railings of stupas and in paintings in places such as Ajanta. Here is one such story:
 
-> [caption] 129
-
-<!-- pdf page 9 -->
+<!-- page 130 (pdf 9) -->
 
 ### The story of the monkey king
 
@@ -158,9 +143,7 @@ Once upon a time there was a great monkey king, who lived on the banks of the Ga
 
 > [table] Why do you think these were chosen? 130
 
-> [table] 130
-
-<!-- pdf page 10 -->
+<!-- page 131 (pdf 10) -->
 
 ### Writing books on science
 
@@ -200,43 +183,25 @@ The technique of making paper was a closely guarded secret for centuries. It rea
 
 - mathematics
 
-> [caption] 131
-
-<!-- pdf page 11 -->
+<!-- page 132 (pdf 11) -->
 
 ### Imagine
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
 > [table] You are sitting in a mandapa of a temple. Describe the scene around you.
-
-> [caption] beginning of stupa building (2300 years ago)
 
 <!-- section: exercises -->
 
 ### Let’s recall
 
-> [caption] Amaravati (2000 years ago)
-
 > [table] 1. Match the following
 
 > [table] Stupa Place where the image of the deity is installed
 
-> [caption] Kalidasa (1600 years ago)
-
 > [caption] Shikhara Mound
-
-> [caption] Iron pillar, Temple at
-
-> [caption] Bhitargaon, Paintings at Ajanta, Aryabhata (1500 years ago)
 
 > [table] Mandapa Circular path around the stupa
 
 > [table] Garbhagriha Place in temples where people could assemble
-
-> [caption] Durga temple (1400 years ago)
 
 > [caption] Pradakshina patha Tower
 
@@ -258,9 +223,23 @@ The technique of making paper was a closely guarded secret for centuries. It rea
 
 > [table] 4. Read the story on page 130. In what ways is the monkey king similar to or different from the kings you read about in Chapters 6 and 11?
 
-> [table] 132
+> [caption] SOME IMPORTANT
 
-<!-- pdf page 12 -->
+### DATES
+
+> [caption] beginning of stupa building (2300 years ago)
+
+> [caption] Amaravati (2000 years ago)
+
+> [caption] Kalidasa (1600 years ago)
+
+> [caption] Iron pillar, Temple at
+
+> [caption] Bhitargaon, Paintings at Ajanta, Aryabhata (1500 years ago)
+
+> [caption] Durga temple (1400 years ago)
+
+<!-- page 133 (pdf 12) -->
 
 > [table] 5. Find out more and tell a story from one of the epics.
 
@@ -271,5 +250,3 @@ The technique of making paper was a closely guarded secret for centuries. It rea
 > [table] 7. Try and list as many uses of paper as you can.
 
 > [table] 8. If you could visit any one of the places described in this chapter, which would you choose and why?
-
-> [table] 133

@@ -13,10 +13,11 @@ title: "CHAPTER 5 WHAT BOOKS AND BURIALS TELL US"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch05.pdf"
 source_sha256: "d3ed92ea375f2e1ec94a2faa52d3e72b5cf5d343f37afb9db5e3c489b4f0bded"
 pdf_pages: 11
-body_fingerprint: "88742b47b4f1274094b6a7bb03e65d180e11767f20dfe8b159f971625cb1d3a8"
+printed_pages: "43-53"
+body_fingerprint: "aef4680e9da61fbec0eeb38031d3229731f491fbd578d9f205f769ce0c3e0e8e"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 43 (pdf 1) -->
 
 # CHAPTER 5 WHAT BOOKS AND BURIALS TELL US
 
@@ -30,9 +31,7 @@ You may have heard about the Vedas. There are four of them – the Rigveda, Sama
 
 These hymns were composed by sages (rishis). Priests taught students to recite and memorise each syllable, word, and sentence, bit by bit, with great care. Most of the hymns were composed, taught and learnt by men. A few were composed by women. The Rigveda is in old or Vedic Sanskrit, which is different from the Sanskrit you learn in school these days.
 
-> [caption] 43
-
-<!-- pdf page 2 -->
+<!-- page 44 (pdf 2) -->
 
 ### Sanskrit and other languages
 
@@ -52,9 +51,7 @@ Some of the hymns in the Rigveda are in the form of dialogues. This is part of o
 
 Find the rivers on Map 1 (page 2), then read on:
 
-> [table] 44
-
-<!-- pdf page 3 -->
+<!-- page 45 (pdf 3) -->
 
 > [caption] A page from a manuscript of the Rigveda. This manuscript of the Rigveda, on birch bark, was found in Kashmir. About 150 years ago, it was used to prepare one of the earliest printed texts of the Rigveda, as well as an English translation. It is now preserved in a library in Pune, Maharashtra.
 
@@ -76,9 +73,7 @@ Other rivers, especially the Indus and its other tributaries, and the Sarasvati,
 
 Look at Map 1 (page 2) and list 5 rivers that are not mentioned in the Rigveda.
 
-> [table] 45
-
-<!-- pdf page 4 -->
+<!-- page 46 (pdf 4) -->
 
 ### Cattle, horses and chariots
 
@@ -96,9 +91,7 @@ There are two groups who are described in terms of their work — the priests, s
 
 These rajas were not like the ones you will be learning about later. They did not have capital cities, palaces or armies, nor did they collect taxes.
 
-> [caption] 46
-
-<!-- pdf page 5 -->
+<!-- page 47 (pdf 5) -->
 
 Generally, sons did not automatically succeed fathers as rajas.
 
@@ -118,9 +111,7 @@ Look at the illustration on the next page.
 
 These stone boulders are known as megaliths (literally big stones). These were carefully arranged by people, and were used to mark burial sites. The practice of erecting megaliths began about 3000 years ago, and was prevalent throughout the Deccan, south India, in the north-east and Kashmir.
 
-> [caption] 47
-
-<!-- pdf page 6 -->
+<!-- page 48 (pdf 6) -->
 
 Some important megalithic sites are shown on Map 2 (page14). While some megaliths can be seen on the surface, other megalithic burials are often underground.
 
@@ -136,9 +127,7 @@ Was iron used in the Harappan cities?
 
 > [caption] Top : This type of megalith is known as a cist. Some cists, like the one shown here, have port-holes which could be used as an entrance.
 
-> [caption] 48
-
-<!-- pdf page 7 -->
+<!-- page 49 (pdf 7) -->
 
 ### Finding out about social differences
 
@@ -154,9 +143,7 @@ Find Inamgaon on Map 2 (page14). It is a site on the river Ghod, a tributary of 
 
 One man was found buried in a large, four legged clay jar in the courtyard of a five-roomed house (one of the largest houses at the site), in the centre of the settlement. This house also had a granary. The body was placed in a cross-legged position.
 
-> [caption] 49
-
-<!-- pdf page 8 -->
+<!-- page 50 (pdf 8) -->
 
 Do you think this was the body of a chief? Give reasons for your answer.
 
@@ -178,9 +165,7 @@ How do you think he found out about the human body in such great detail?
 
 Archaeologists have found seeds of wheat, barley, rice, pulses, millets, peas and sesame. Bones of a number of animals, many bearing cut marks that show they may have been used as food, have also been found. These include cattle, buffalo, goat, sheep, dog, horse, ass, pig, sambhar, spotted deer, blackbuck, antelope, hare, and mongoose, besides birds, crocodile, turtle, crab and fish. There is evidence that fruits such as ber, amla, jamun, dates and a variety of berries were collected.
 
-> [table] 50
-
-<!-- pdf page 9 -->
+<!-- page 51 (pdf 9) -->
 
 Use this evidence to list the possible occupations of the people at Inamgaon.
 
@@ -218,27 +203,17 @@ You live in Inamgaon, 3000 years ago, and the chief has died last night. Today, 
 
 - iron
 
-> [caption] 51
-
-<!-- pdf page 10 -->
-
-> [caption] SOME IMPORTANT
+<!-- page 52 (pdf 10) -->
 
 <!-- section: exercises -->
 
 ### Let’s recall
 
-### DATES
-
 > [table] 1. Match the columns
-
-> [caption] Beginning of the composition of the Vedas (about 3500 years ago)
 
 > [table] Sukta Stone boulder
 
 > [table] Chariots Sacrifice
-
-> [caption] Beginning of the building of megaliths (about 3000 years ago)
 
 > [table] Yajna Well-said
 
@@ -246,15 +221,9 @@ You live in Inamgaon, 3000 years ago, and the chief has died last night. Today, 
 
 > [table] Megalith Slave
 
-> [caption] Settlement at
-
-> [caption] Inamgaon (between 3600 and 2700 years ago)
-
 > [table] 2. Complete the sentences:
 
 > [table] (a) Slaves were used for ———————— (b) Megaliths are found in ———————— (c) Stone circles or boulders on the surface were used to ———————— (d) Port-holes were used for ———————— (e) People at Inamgaon ate ————————
-
-> [caption] Charaka (about 2000 years ago)
 
 ### Let’s discuss
 
@@ -264,9 +233,21 @@ You live in Inamgaon, 3000 years ago, and the chief has died last night. Today, 
 
 > [table] 5. In what ways do you think that the life of a raja was different from that of a dasa or dasi?
 
-> [table] 52
+> [caption] SOME IMPORTANT
 
-<!-- pdf page 11 -->
+### DATES
+
+> [caption] Beginning of the composition of the Vedas (about 3500 years ago)
+
+> [caption] Beginning of the building of megaliths (about 3000 years ago)
+
+> [caption] Settlement at
+
+> [caption] Inamgaon (between 3600 and 2700 years ago)
+
+> [caption] Charaka (about 2000 years ago)
+
+<!-- page 53 (pdf 11) -->
 
 ### Let’s do
 
@@ -277,5 +258,3 @@ You live in Inamgaon, 3000 years ago, and the chief has died last night. Today, 
 8. In the Rigveda, people were described in terms of the work they did and the languages they spoke. In the table below, fill in the names of six people you know, choosing three men and three women. For each of them, mention the work they do and the language they speak. Would you like to add anything else to the description?
 
 > [table] NAME WORK LANGUAGE ANYTHING ELSE
-
-> [table] 53

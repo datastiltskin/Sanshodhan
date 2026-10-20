@@ -10,10 +10,11 @@ title: "Diversity and Discrimination"
 source_pdf: "pdfs/social-political-life-1/2020-06-16/ch02.pdf"
 source_sha256: "429f6bdacdb7f353e3319a8f940c29bd5dc866bece6ecc71c4ec303f022d6de5"
 pdf_pages: 12
+printed_pages: "13-24"
 body_fingerprint: "c24f1343d54cb4d8b1d374cedabf6b7492106dd6f75b09548e265f9dfb12923f"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 13 (pdf 1) -->
 
 Chapter 2
 
@@ -37,7 +38,7 @@ You will get an idea of how diverse India is if you look even briefly at the fol
 
 There are eight major religions in the world. Every single one of them is practised in India. We have more than On Rural People On Urban People Some of these statements see villagers as ignorant and see people in cities as money-minded and lazy. When our opinions about certain people are always negative – seeing them as lazy, stingy – as some of these statements, then these become prejudices that we carry about them.
 
-<!-- pdf page 2 -->
+<!-- page 14 (pdf 2) -->
 
 > [table] 14 / Social and Political Life
 
@@ -69,7 +70,7 @@ Prejudice means to judge other people negatively or see them as inferior. When w
 
 We can be prejudiced about many things: people's religious beliefs, the colour of their skin, the region they come from, the accent they speak in, the clothes they wear etc. Often, our prejudices about others are so strong that we don't want to form friendships with them. At times, we may even act in ways that hurt them.
 
-<!-- pdf page 3 -->
+<!-- page 15 (pdf 3) -->
 
 > [table] Diversity and Discrimination / 15
 
@@ -87,7 +88,7 @@ Now check, with your teacher's help, who has put which statement where. Find out
 
 are brave, they don't cry." As children grow up they start believing that boys do not cry so that even if a boy feels like crying he stops himself from doing so. He also believes that crying is a sign of weakness. So, even though both boys and girls sometimes want to cry, especially if they are angry or in If we take the statement ''They don't cry", you'll see that this is a quality that is generally associated with boys and men. As babies or children when boys fall and hurt themselves, their parents and other family members often console them by saying "Don't cry. You are a boy. Boys pain, as they grow older boys learn or teach themselves not to cry. If a grown boy cries, then he feels that others will either tease him or laugh at him, and so he stops himself from doing so in front of others.
 
-<!-- pdf page 4 -->
+<!-- page 16 (pdf 4) -->
 
 > [table] 16 / Social and Political Life
 
@@ -97,7 +98,7 @@ Discuss what these children are saying about stereotypes regarding them and why.
 
 Do you think children with special needs should be a part of regular schools or study in a separate school? Give reasons for your answer. Source: Why are you afraid to hold my hand, by Sheila Dhir
 
-<!-- pdf page 5 -->
+<!-- page 17 (pdf 5) -->
 
 This is the way boys are and this is how girls are: these are statements we hear constantly and accept without even thinking, and we start believing that each one of us must behave accordingly. We fit all boys and all girls into an image that society creates around us.
 
@@ -117,7 +118,7 @@ Discrimination can take place because of several reasons. You probably recall fr
 
 Another difference between the two Samirs was in their economic backgrounds. Samir Do was poor. This difference, as you have read earlier, is not a form of diversity but of inequality. People who are poor do not have the resources or the money to meet their basic needs of food, clothing and shelter. They experience discrimination in offices, in hospitals, schools etc., where they are treated badly because they are poor.
 
-<!-- pdf page 6 -->
+<!-- page 18 (pdf 6) -->
 
 > [table] 18 / Social and Political Life
 
@@ -129,7 +130,7 @@ Some people may experience both kinds of dis-crimination. They are poor and they
 
 People are engaged in different kinds of work like teaching, carpentry, pottery, weaving, fishing, farming etc. to earn a livelihood. However, certain kinds of work are valued more than others. Activities like cleaning, wash-ing, cutting hair, picking garbage are seen as tasks that are of less value and people who do this work are seen as dirty or impure. This belief is an important aspect of the caste system. In the caste system, communities/ groups of people were placed in a sort of ladder where each caste was either above or below the other. Those who placed themselves at the top of this ladder called themselves upper caste and saw themselves as superior. The groups who were placed at the bottom of the ladder were seen as unworthy and called "untou-chables".
 
-<!-- pdf page 7 -->
+<!-- page 19 (pdf 7) -->
 
 Dalit is a term that people belonging to so-called lower castes use to address themselves. They prefer this word to 'untouchable'. Dalit means those who have been 'broken'. This word according to Dalits shows how social prejudices and discrimination have 'broken' the Dalit people. The govern-ment refers to this group of people as Scheduled Castes (SC).
 
@@ -149,7 +150,7 @@ Long did we wait, but no one turned up. An hour elapsed and the station-master c
 
 We were well-dressed children. From our dress or talk no one could make out that we were children of the untouchables. Indeed the station-master was quite sure we were Brahmin children and was extremely touched at the plight in which he found us. As is usual among the Hindus, the stationmaster asked us who we were. Without a moment's thought I blurted out that we were Mahars. (Mahar is one of the communities which were treated as untouchables in the Bombay Presidency.) He was stunned. His face underwent a sudden change. We could see that he was overpowered by a strange feeling of repulsion. As soon as he heard my reply, he went away to his room and we stood where we were. Fifteen to twenty minutes elapsed; the sun was almost setting. Our father had not turned up nor had he sent his servant, and now the stationmaster had also left us. We were quite bewildered, and the joy and happiness, which we felt at the beginning of the journey, gave way to a feeling of extreme sadness.
 
-<!-- pdf page 8 -->
+<!-- page 20 (pdf 8) -->
 
 > [table] 20 / Social and Political Life
 
@@ -161,7 +162,7 @@ Dr Bhim Rao Ambedkar (1891-1956) is considered the father of the Indian Constitu
 
 Dr Ambedkar was the first person from his caste who completed his college education and went to England to become a lawyer. He encouraged Dalits to send their children to school and college. He also urged Dalits to take on different kinds of government jobs in order to move out of the caste system. He led many efforts of Dalits to gain entry into temples. Later in life he converted to Buddhism in his search for a religion that treated all members equally. Dr Ambedkar believed that Dalits must fight the caste system and work towards a society based on respect not just for a few but for all persons.
 
-<!-- pdf page 9 -->
+<!-- page 21 (pdf 9) -->
 
 Despite the children offering money the cartmen refused them. Why?
 
@@ -193,7 +194,7 @@ As pointed out earlier, many Dalits organised themselves to gain entry into temp
 
 When India became a nation in 1947 our leaders too were concerned about the different kinds of inequalities that existed. Those who wrote the Constitution of India, a document that laid out the rules by which the nation would function, were aware of the ways in which discrimination had been practised in our society and how people had struggled against this. Many leaders of these struggles such as Dr Ambedkar had also fought for the rights of the Dalits.
 
-<!-- pdf page 10 -->
+<!-- page 22 (pdf 10) -->
 
 > [table] 22 / Social and Political Life
 
@@ -207,7 +208,7 @@ Therefore, India became a secular country where people of different religions an
 
 > [caption] Some of the members who wrote the Constitution of India.
 
-<!-- pdf page 11 -->
+<!-- page 23 (pdf 11) -->
 
 > [table] Diversity and Discrimination / 23
 
@@ -237,7 +238,7 @@ QUESTIONS
 
 > [table] d. She was not that well-off but had a dream
 
-<!-- pdf page 12 -->
+<!-- page 24 (pdf 12) -->
 
 > [table] 24 / Social and Political Life
 

@@ -9,10 +9,11 @@ title: "Urban Administration"
 source_pdf: "pdfs/social-political-life-1/2024-partial/ch06.pdf"
 source_sha256: "cf19fd24f0c9b1312e4f77e7a35a359ada06975d66ade2f4eeae0d785923e24f"
 pdf_pages: 8
-body_fingerprint: "26769c340758257b4581b8fd1feca779d093cc9cba4b1baaa31816a82eece8b7"
+printed_pages: "90-97"
+body_fingerprint: "b40c860cdf42994bb20a542bd099d0672cdb5f8833022c03bb2a2e15c2b3ecf0"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 90 (pdf 1) -->
 
 Chapter 6
 
@@ -28,7 +29,7 @@ Last week they had broken Nirmala Mausi’s window and had spent their pocket mo
 
 Rehana’s house was the closest and they ran and told her mother what had happened. Rehana’s mother said, “I don’t really know these things in great detail but I do know that it is the Municipal Corporation of the city that takes care of replacing lights. The best person to ask would be Yasmin Khala. She just retired from the Municipal Corporation. Go and ask her, and Rehana come back home soon.”
 
-<!-- pdf page 2 -->
+<!-- page 91 (pdf 2) -->
 
 Yasmin Khala lived in the same lane and she and Rehana’s mother were good friends. The children ran to Khala’s house and when she opened the door they began to tell her what had happened all at once! When they asked about the street light, Yasmin Khala laughed and said, “There is no one person that you can pay the money to. There is a big organisation called the Municipal Corporation that takes care of street lights, garbage collection, water supply, keeping the streets and the market clean.”
 
@@ -38,8 +39,6 @@ Yasmin Khala lived in the same lane and she and Rehana’s mother were good frie
 
 List at least four different tasks that the Municipality does: 1.
 
-2.
-
 3.
 
 > [table] Urban Administration / 51
@@ -48,7 +47,7 @@ The Ward Councillor and Administrative Staff “Yasmin Khala, I’m curious. Who
 
 “No Rehana, I was working in the accounts office of the Corporation so I just worked on pay slips. Cities are usually quite large so the Municipal Corporation has to make a lot of decisions as well as do a lot of work to keep the city clean. The decisions like where a park or a new hospital should go are usually made by the Ward Councillors.”
 
-<!-- pdf page 3 -->
+<!-- page 92 (pdf 3) -->
 
 > [table] 52 / Social and Political Life
 
@@ -70,7 +69,7 @@ How does the Municipal Corporation get its money? Providing and running so many 
 
 There are also taxes for education and other amenities. If you own a hotel or shop then you have to pay a tax for this as well. Also the next time you go to see a movie look carefully at your ticket because you pay a tax for this as well. Thus while rich people account for property taxes, a much wider population pays more general taxes.
 
-<!-- pdf page 4 -->
+<!-- page 93 (pdf 4) -->
 
 “But the city is so large. It must take a lot of people to look after it. Does the Municipal Corporation have a lot of workers?” asked Shankar curiously. He had by now luckily forgotten about the cricket match and his incomplete over.
 
@@ -86,7 +85,7 @@ Jehangir ate his kababs at top speed and as he wolfed them down he asked loudly 
 
 Yasmin Khala continued, “The women were very unhappy about the situation and even came to me for advice. I said I could try and speak with some officer in the department but I wasn’t sure how long it would take. Then it was Gangabai who said that it is the Ward Councillor who we should go to and protest since we are the ones who elected him. She gathered a small group of women and went to his house. They began shouting slogans in front of his house and he came out and asked them what was wrong.
 
-<!-- pdf page 5 -->
+<!-- page 94 (pdf 5) -->
 
 > [table] 54 / Social and Political Life
 
@@ -114,7 +113,7 @@ Why do you think Gangabai decided to approach the Ward Councillor?
 
 What did Gangabai say when the Commissioner said that there were not enough trucks in the city?
 
-<!-- pdf page 6 -->
+<!-- page 95 (pdf 6) -->
 
 > [table] Urban Administration / 55
 
@@ -134,11 +133,9 @@ Did you know that your taxes enable the government to provide roads, bridges, pa
 
 1.
 
-2.
-
 3.
 
-<!-- pdf page 7 -->
+<!-- page 96 (pdf 7) -->
 
 > [table] 56 / Social and Political Life
 
@@ -168,7 +165,7 @@ ii) What are the dangers of collecting garbage in the manner shown in the first 
 
 iii) Why do you think that proper ways of disposing garbage are not available to those who work in municipalities?
 
-<!-- pdf page 8 -->
+<!-- page 97 (pdf 8) -->
 
 > [table] Urban Administration / 57
 

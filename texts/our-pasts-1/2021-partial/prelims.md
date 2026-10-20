@@ -208,7 +208,7 @@ CONTENTS
 
 ### 11. BUILDINGS, PAINTINGS AND BOOKS 114
 
-<!-- pdf page 12 -->
+<!-- page 4 (pdf 12) -->
 
 > [note] LOOK OUT FOR THESE
 

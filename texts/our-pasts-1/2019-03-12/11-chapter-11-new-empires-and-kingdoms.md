@@ -10,10 +10,11 @@ title: "CHAPTER 11 NEW EMPIRES AND KINGDOMS"
 source_pdf: "pdfs/our-pasts-1/2019-03-12/ch11.pdf"
 source_sha256: "216452b6232aae45cabfbe48f78e92d3c07e70053c0bb54d2aa7900d6626792f"
 pdf_pages: 11
+printed_pages: "111-121"
 body_fingerprint: "c77c9b6a22414a7f458f263609cb34af9610ac28ead9461c31e9b1735b6f0995"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 111 (pdf 1) -->
 
 # CHAPTER 11 NEW EMPIRES AND KINGDOMS
 
@@ -31,9 +32,7 @@ This inscription is of a special kind known as a prashasti, a Sanskrit word, mea
 
 Let us see what Samudragupta’s prashasti tells us. The poet praised the king in glowing terms — as a warrior, as a king who won victories in battle, who was learned and the best of poets. He is also described as equal to the gods. The prashasti was composed in very long sentences. Here is part of one such sentence:
 
-> [caption] 111 n
-
-<!-- pdf page 2 -->
+<!-- page 112 (pdf 2) -->
 
 ### Samudragupta the warrior
 
@@ -55,9 +54,7 @@ This map is based on the information provided in the prashasti. Harishena descri
 
 > [caption] The king who played the veena. Some other qualities of Samudragupta are shown on coins such as this one, where he is shown playing the veena.
 
-> [caption] n 112
-
-<!-- pdf page 3 -->
+<!-- page 113 (pdf 3) -->
 
 Find Prayaga (the old name for Allahabad), Ujjain and Pataliputra (Patna) on the map. These were important centres of the Gupta rulers.
 
@@ -69,9 +66,7 @@ Can you suggest any reasons for this difference?
 
 > [caption] Kingdoms
 
-> [caption] 113 n
-
-<!-- pdf page 4 -->
+<!-- page 114 (pdf 4) -->
 
 ### Genealogies
 
@@ -87,9 +82,7 @@ While we can learn about the Gupta rulers from their inscriptions and coins, we 
 
 > [caption] The era beginning in the 58 BCE is traditionally associated with Gupta king, Chandragupta II, who had founded it as a mark of victory over the Shakas and assumed the title of Vikramaditya. The Vikram Samvat has also been adopted alongside the Gregorian calendar as the national calendar by independent India.
 
-> [caption] n 114
-
-<!-- pdf page 5 -->
+<!-- page 115 (pdf 5) -->
 
 Harsha was not the eldest son of his father, but became king of Thanesar after both his father and elder brother died. His brother-in-law was the ruler of Kanauj (see Map 7) and he was killed by the ruler of Bengal. Harsha took over the kingdom of Kanauj, and then led an army against the ruler of Bengal.
 
@@ -105,9 +98,7 @@ Aihole, the capital of the Chalukyas, was an important trading centre (see Map 7
 
 The best-known Chalukya ruler was Pulakeshin II. We know about him from a prashasti, composed by his court poet Ravikirti. This tells us about his ancestors, who are traced back through four generations from father to son. Pulakeshin evidently got the kingdom from his uncle.
 
-> [caption] 115 n
-
-<!-- pdf page 6 -->
+<!-- page 116 (pdf 6) -->
 
 According to Ravikirti, he led expeditions along both the west and the east coasts. Besides, he checked the advance of Harsha. There is an interesting play of words in the poem. Harsha means happiness. The poet says that after this defeat, Harsha was no longer Harsha! Pulakeshin also attacked the Pallava king, who took shelter behind the walls of Kanchipuram.
 
@@ -127,9 +118,7 @@ There were some new developments as well. Kings adopted a number of steps to win
 
 > [table] - Besides, important men probably had a say in local administration. These included the nagara-shreshthi or chief banker or merchant of the city, the sarthavaha or leader of the merchant caravans,
 
-> [caption] n 116
-
-<!-- pdf page 7 -->
+<!-- page 117 (pdf 7) -->
 
 > [table] the prathama-kulika or the chief craftsman, and the head of the kayasthas or scribes.
 
@@ -147,9 +136,7 @@ The inscriptions of the Pallavas mention a number of local assemblies. These inc
 
 The ur was a village assembly found in areas where the land owners were not brahmins. And the nagaram was an organisation of merchants. It is likely that these assemblies were controlled by rich and powerful landowners and merchants. Many of these local assemblies continued to function for centuries.
 
-> [caption] 117 n
-
-<!-- pdf page 8 -->
+<!-- page 118 (pdf 8) -->
 
 ### Ordinary people in the kingdoms
 
@@ -165,9 +152,7 @@ A fisherman found a precious ring, which the king had given to Shakuntala, but w
 
 > [table] Name a famous man who taught in Prakrit and a king who issued inscriptions in Prakrit (hint: see Chapters 7 and 8)
 
-> [caption] n 118
-
-<!-- pdf page 9 -->
+<!-- page 119 (pdf 9) -->
 
 The Chinese pilgrim Fa Xian noticed the plight of those who were treated as untouchables by the high and mighty. They were expected to live on the outskirts of the city. He writes: “If such a man enters a town or a market place, he strikes a piece of wood, in order to keep himself separate; people, hearing this sound, know what it means and avoid touching him or brushing against him.”
 
@@ -187,9 +172,7 @@ Villagers had to provide hospitality along the way. They came with gifts of curd
 
 > [table] What did the villagers bring for the king?
 
-> [caption] 119 n
-
-<!-- pdf page 10 -->
+<!-- page 120 (pdf 10) -->
 
 ### Elsewhere
 
@@ -217,11 +200,9 @@ Within a hundred years Islam spread to north Africa, Spain, Iran and India. Arab
 
 > [table] (b) The rulers of Aryavarta brought tribute for Samudragupta.
 
-> [table] n 120
-
 > [table] (c) There were twelve rulers in Dakshinapatha.
 
-<!-- pdf page 11 -->
+<!-- page 121 (pdf 11) -->
 
 > [table] (d) Taxila and Madurai were important centres under the control of the Gupta rulers.
 
@@ -260,5 +241,3 @@ Within a hundred years Islam spread to north Africa, Spain, Iran and India. Arab
 - nagaram
 
 > [caption] SOME IMPORTANT DATES u Beginning of the Gupta dynasty (about 1700 years ago) u The rule of Harshavardhana (about 1400 years ago)
-
-> [table] 121 n

@@ -10,10 +10,11 @@ title: "CHAPTER 9 VITAL VILLAGES, THRIVING TOWNS"
 source_pdf: "pdfs/our-pasts-1/2019-03-12/ch09.pdf"
 source_sha256: "3f1ae511a761baa8d1adc791112125ea3ea326d2fc76a3e47de6e93d9aca2505"
 pdf_pages: 12
-body_fingerprint: "6065bedc5f81a798b6c81bcdd8163dbaaffa75d542d847a95c276543b9e2ae4f"
+printed_pages: "87-98"
+body_fingerprint: "6086b1c47189de4f4e948029a3677a77e5d3997d9eb5cb68e9c1b1aff34830b1"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 87 (pdf 1) -->
 
 # CHAPTER 9 VITAL VILLAGES, THRIVING TOWNS
 
@@ -33,11 +34,9 @@ Around 2500 years ago, there is evidence for the growing use of iron tools. Thes
 
 The kings and kingdoms you have been reading about could not have existed without the support of flourishing villages. While new tools and the system of transplantation (Chapter 6) increased production, irrigation was also used. Irrigation works that were built during this time included canals, wells, tanks, and artificial lakes.
 
-> [caption] 87 n
-
 > [caption] VITAL VILLAGES,
 
-<!-- pdf page 2 -->
+<!-- page 88 (pdf 2) -->
 
 If you look at the chart, you will find that some of the stages in the construction of irrigation works are mentioned.
 
@@ -65,9 +64,7 @@ Who lived in the villages?
 
 There were at least three different kinds of people living in most villages in the southern and northern parts of the subcontinent. In the Tamil region, large landowners were known as vellalar, ordinary ploughmen were known as uzhavar, and landless labourers, including slaves, were known as kadaisiyar and adimai.
 
-> [table] n 88
-
-<!-- pdf page 3 -->
+<!-- page 89 (pdf 3) -->
 
 In the northern part of the country, the village headman was known as the grama bhojaka. Usually, men from the same family held the position for generations. In other words, the post was hereditary. The grama bhojaka was often the largest landowner. Generally, he had slaves and hired workers to cultivate the land. Besides, as he was powerful, the king often used him to collect taxes from the village. He also functioned as a judge, and sometimes as a policeman.
 
@@ -83,9 +80,7 @@ Finding out about cities: stories, travellers, sculpture and archaeology
 
 You may have heard of the Jatakas. These were stories that were probably composed by ordinary people, and then written down and preserved by Buddhist monks. Here is part of a Jataka story, which tells us how a poor man gradually became rich. VITAL VILLAGES,
 
-> [table] 89 n
-
-<!-- pdf page 4 -->
+<!-- page 90 (pdf 4) -->
 
 ### The clever poor man
 
@@ -109,9 +104,7 @@ We can use other kinds of evidence to find out about life in some of these early
 
 > [caption] Facing Page : Ring well found in Delhi. In what ways do you think this system of drainage was different from that of the Harappans?
 
-> [caption] n 90
-
-<!-- pdf page 5 -->
+<!-- page 91 (pdf 5) -->
 
 Many of the cities that developed from about 2500 years ago were capitals of the mahajanapadas that you learnt about in Chapter 6. As we had seen, some of these cities were surrounded by massive fortification walls.
 
@@ -123,9 +116,7 @@ Another way of finding out about early cities is from the accounts of sailors an
 
 > [caption] Below : A sculpture from Sanchi. This is a sculpture from Sanchi, a site with stupas, in Madhya Pradesh, showing the scene in a city. You will learn more about Sanchi in Chapter 12. Notice the way walls are shown. Are they made of brick, wood or stone? Now look at the railings. Are they made of wood? Describe the roofs of the buildings.
 
-> [caption] 91 n
-
-<!-- pdf page 6 -->
+<!-- page 92 (pdf 6) -->
 
 Bharuch on Map 7 (page 113) and then read his description of the city.
 
@@ -153,9 +144,7 @@ You may have noticed how wealth is measured in terms of coins in the story on pa
 
 > [caption] Punch-marked coins were generally rectangular or sometimes square or round in shape, either cut out of metal sheets or made out of flattened metal globules (a small spherical body). The coins were not inscribed, but were stamped with symbols using dies or punches. Hence, they are called punch-marked coins. These coins are found over most parts of the subcontinent and remained in circulation till the early centuries CE.
 
-> [caption] n 92
-
-<!-- pdf page 7 -->
+<!-- page 93 (pdf 7) -->
 
 ### Other means of exchange
 
@@ -177,11 +166,9 @@ Around 2000 years ago Mathura became the second capital of the Kushanas, about w
 
 Several inscriptions on surfaces such as stone slabs and statues have been found in Mathura.
 
-> [caption] 93 n
-
 > [caption] VITAL VILLAGES,
 
-<!-- pdf page 8 -->
+<!-- page 94 (pdf 8) -->
 
 Generally, these are short inscriptions, recording gifts made by men (and sometimes women) to monasteries and shrines. These were made by kings and queens, officers, merchants, and crafts persons who lived in the city. For instance, inscriptions from Mathura mention goldsmiths, blacksmiths, weavers, basket makers, garland makers, perfumers.
 
@@ -199,9 +186,7 @@ Many crafts persons and merchants now formed associations known as shrenis. Thes
 
 > [caption] NBPW is a hard, wheel made, metallic looking ware with a shiny black surface. The potter used to expose the earthenware to very high temperature in his kiln which resulted in the blackening of its outer surface. A fine black slip was also applied on this, which gave the pottery a mirror-like shine.
 
-> [caption] n 94
-
-<!-- pdf page 9 -->
+<!-- page 95 (pdf 9) -->
 
 ### Rules for spinning and weaving
 
@@ -223,9 +208,7 @@ Women who can visit the workshop should go at dawn to give their work and receiv
 
 Find Arikamedu (in Puducherry) on Map 7 (page 113), and read the box on Rome on page 96. Between 2200 and 1900 years ago, Arikamedu was a coastal settlement where ships unloaded goods from distant lands. A massive brick structure, which may have been a warehouse, was found at the site. Other finds include pottery from the Mediterranean region, such as amphorae (tall double-handled jars that contained liquids such as wine or oil) and stamped red-glazed pottery, known as Arretine Ware, which was named after a city in Italy. This was made by pressing wet clay into a stamped mould. There was yet another kind of pottery which was made locally, though Roman designs were used. Roman lamps, glassware and gems have also been found at the site. VITAL VILLAGES,
 
-> [table] 95 n
-
-<!-- pdf page 10 -->
+<!-- page 96 (pdf 10) -->
 
 Small tanks have been found that were probably dyeing vats,
 
@@ -245,9 +228,7 @@ They also built huge amphitheatres — open arenas surrounded by tiers of seats 
 
 > [table] Why do you think the amphitheatres and aqueducts have survived?
 
-> [caption] n 96
-
-<!-- pdf page 11 -->
+<!-- page 97 (pdf 11) -->
 
 ### Imagine
 
@@ -303,25 +284,17 @@ They also built huge amphitheatres — open arenas surrounded by tiers of seats 
 
 - city shreni Sangam
 
-> [table] 97 n
-
 - VITAL VILLAGES,
 
-<!-- pdf page 12 -->
+<!-- page 98 (pdf 12) -->
 
 <!-- section: exercises -->
 
 > [table] (c) Mathura was an important:
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
 > [table] 1. village
 
 > [table] 2. port
-
-> [caption] u Beginning of the use of iron in the subcontinent (about 3000 years ago)
 
 > [table] 3. religious centre
 
@@ -329,23 +302,15 @@ They also built huge amphitheatres — open arenas surrounded by tiers of seats 
 
 > [table] (d) Shrenis were associations of:
 
-> [caption] u Increase in the use of iron, cities, punch marked coins (about 2500 years ago)
-
 > [table] 1. rulers
 
 > [table] 2. crafts persons
 
 > [table] 3. farmers
 
-> [caption] u Beginning of the composition of Sangam literature (about 2300 years ago)
-
 > [table] 4. herders
 
 ### Let’s discuss
-
-> [caption] u Settlement in
-
-> [caption] Arikamedu (between 2200 and 1900 years ago)
 
 > [table] 5. Which of the iron tools shown on page 87 would have been important for agriculture? What would the other tools have been used for?
 
@@ -357,4 +322,16 @@ They also built huge amphitheatres — open arenas surrounded by tiers of seats 
 
 > [table] 8. List the functions performed by men and women who live in your city or village. In what ways are these similar to those performed by people who lived in Mathura? In what ways are they different?
 
-> [table] n 98
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] u Beginning of the use of iron in the subcontinent (about 3000 years ago)
+
+> [caption] u Increase in the use of iron, cities, punch marked coins (about 2500 years ago)
+
+> [caption] u Beginning of the composition of Sangam literature (about 2300 years ago)
+
+> [caption] u Settlement in
+
+> [caption] Arikamedu (between 2200 and 1900 years ago)

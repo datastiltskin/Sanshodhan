@@ -8,10 +8,11 @@ chapter: 4
 title: "Key Elements of a Democratic Government"
 source_pdf: "pdfs/social-political-life-1/2022-10-13-partial/ch04.pdf"
 pdf_pages: 6
+printed_pages: "35-40"
 body_fingerprint: "f15679e6ddd3c518cdffe091109627355711d71ff60465289da3643564fd5c29"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 35 (pdf 1) -->
 
 Chapter 4
 
@@ -33,7 +34,7 @@ Maya Naidoo, an eleven-year old South African girl living in the town of Johanne
 
 Maya could not believe her ears. Maya’s mother sounded angry when she spoke about life under apartheid. She told Maya that in those days hospitals were separate and so were ambulances. An ambulance meant for white people would always be well equipped while one meant for black people was not. There were separate trains and buses. Even the busstops were different for black and white people.
 
-<!-- pdf page 2 -->
+<!-- page 36 (pdf 2) -->
 
 > [table] 36 / Social and Political Life
 
@@ -49,7 +50,7 @@ Let us now try to understand what a democratic government means to all of us.
 
 PARTICIPATION Why do we have regular elections? You’ve already read in the previous chapter that people make the decisions in a democracy. Through voting in elections people elect leaders to represent them. These representatives take decisions on behalf of the people.
 
-<!-- pdf page 3 -->
+<!-- page 37 (pdf 3) -->
 
 > [table] Key Elements of a Democratic Government / 37
 
@@ -77,7 +78,7 @@ What approval or disapproval is being expressed here?
 
 > [caption] Not bad! One of the taps in the nearby village must be getting water!
 
-<!-- pdf page 4 -->
+<!-- page 38 (pdf 4) -->
 
 > [table] 38 / Social and Political Life
 
@@ -99,7 +100,7 @@ Conflicts occur when people of different cultures, religions, regions or economi
 
 Let’s read about some of the conflicts in our society and the role of the government in resolving them.
 
-<!-- pdf page 5 -->
+<!-- page 39 (pdf 5) -->
 
 The Indian Constitution lays down the basic rules or laws that have to be followed by everyone. These laws are for both the government and the people. Conflicts and differences have to be resolved according to these laws. We will read more about this in later classes.
 
@@ -113,7 +114,7 @@ Rivers too can become a source of conflict between states. A river may begin in 
 
 A conflict arises because both dams are on the same river. The downstream dam in Tamil Nadu can only be filled up if water is released from the upstream one located in Karnataka. Therefore, both states can’t get as much water as they need for people in their states. This leads to conflict. The central government has to step in and see that a fair distribution is worked out for both states.
 
-<!-- pdf page 6 -->
+<!-- page 40 (pdf 6) -->
 
 > [table] 40 / Social and Political Life
 

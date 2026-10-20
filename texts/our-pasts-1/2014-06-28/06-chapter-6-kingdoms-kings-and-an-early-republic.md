@@ -13,10 +13,11 @@ title: "CHAPTER 6 KINGDOMS, KINGS AND AN EARLY REPUBLIC"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch06.pdf"
 source_sha256: "0103c2c1121b30ca8f6321d9fa7cff5a4a8058c4bd1d1a7f43ad0e5c94205ed4"
 pdf_pages: 11
-body_fingerprint: "9ea56135193cd3f57d24167c8d036a3ceefabec42a267a6f872b271279d5e1cf"
+printed_pages: "54-64"
+body_fingerprint: "1c9bdeaa8f689fe35e56b3d2395134382c93422069bd76c89e1db023dd75617b"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 54 (pdf 1) -->
 
 # CHAPTER 6 KINGDOMS, KINGS AND AN EARLY REPUBLIC
 
@@ -32,9 +33,7 @@ The ashvamedha or horse sacrifice was one such ritual. A horse was let loose to 
 
 The raja was a central figure in these rituals. He often had a special seat, a throne or a tiger skin. His charioteer, who was his companion in the battle field and witnessed his exploits, chanted tales of his glory. His relatives, especially his wives and sons, had to perform a variety of minor rituals. The other rajas were simply spectators who had to sit and watch the performance of the sacrifice. Priests performed the rituals including the sprinkling of sacred water on the king. The ordinary people, the vish or vaishya, also brought gifts. However, some people, such as those who were regarded as shudras by the priests, were excluded from many rituals.
 
-> [caption] 54
-
-<!-- pdf page 2 -->
+<!-- page 55 (pdf 2) -->
 
 Make a list of all those who would be present at the sacrifice. Which are the categories that are described in terms of their occupation?
 
@@ -52,9 +51,7 @@ In the second place were the rulers, also known as kshatriyas. They were expecte
 
 Third were the vish or the vaishyas. They were expected to be farmers, herders, and traders. Both the kshatriyas and the vaishyas could perform sacrifices.
 
-> [table] 55
-
-<!-- pdf page 3 -->
+<!-- page 56 (pdf 3) -->
 
 Last were the shudras, who had to serve the other three groups and could not perform any rituals. Often, women were also grouped with the shudras. Both women and shudras were not allowed to study the Vedas.
 
@@ -74,9 +71,7 @@ Archaeologists have excavated a number of settlements in these janapadas, such a
 
 Is there a crop in this list that was not mentioned in Chapter 4?
 
-> [table] 56
-
-<!-- pdf page 4 -->
+<!-- page 57 (pdf 4) -->
 
 They made earthen pots. Some of these were grey in colour, others were red. One special type of pottery found at these sites is known as Painted Grey Ware. As is obvious from the name, these grey pots had painted designs, usually simple lines and geometric patterns.
 
@@ -88,17 +83,13 @@ About 2500 years ago, some janapadas became more important than others, and were
 
 > [caption] 57
 
-> [caption] 57
-
-<!-- pdf page 5 -->
+<!-- page 58 (pdf 5) -->
 
 Forts were probably built because people were afraid of attacks from other kings and needed protection. It is also likely that some rulers wanted to show how rich and powerful they were by building really large, tall and impressive walls around their cities. Also in this way, the land and the people living inside the fortified area could be controlled more easily by the king. Building such huge walls required a great deal of planning. Thousands, if not lakhs of bricks or stone had to be prepared. This in turn meant enormous labour, provided, possibly, by thousands of men, women and children. And resources had to be found for all of this.
 
 > [caption] The fortification wall at Kaushambi. This is a picture of remains of a wall made of brick, found near present-day Allahabad (Uttar Pradesh). A part of it was probably built about 2500 years ago.
 
-> [caption] 58
-
-<!-- pdf page 6 -->
+<!-- page 59 (pdf 6) -->
 
 The new rajas now began maintaining armies. Soldiers were paid regular salaries and maintained by the king throughout the year. Some payments were probably made using punch marked coins (see the illustration on page 92). You will read more about these coins in Chapter 9.
 
@@ -120,9 +111,7 @@ As the rulers of the mahajanapadas were (a) building huge forts (b) maintaining 
 
 What do you think would have been provided by hunters and gatherers?
 
-> [caption] 59
-
-<!-- pdf page 7 -->
+<!-- page 60 (pdf 7) -->
 
 ### Changes in agriculture
 
@@ -136,9 +125,7 @@ Find Magadha on Map 4 (page 57). Magadha became the most important mahajanapada 
 
 Magadha had two very powerful rulers, Bimbisara and Ajatasattu, who used all possible means to conquer other janapadas. Mahapadma Nanda was another important ruler. He extended his control up to the north-west part of the subcontinent. Rajagriha (present-day Rajgir) in Bihar was the capital of Magadha for several years.
 
-> [caption] 60
-
-<!-- pdf page 8 -->
+<!-- page 61 (pdf 8) -->
 
 Later the capital was shifted to Pataliputra (present-day Patna).
 
@@ -162,9 +149,7 @@ Both the Buddha and Mahavira (about whom you will read in Chapter 7) belonged to
 
 > [caption] Means organisation or association.
 
-> [caption] 61
-
-<!-- pdf page 9 -->
+<!-- page 62 (pdf 9) -->
 
 This is an account of the Vajjis from the Digha Nikaya, a famous Buddhist book, which contains some of the speeches of the Buddha. These were written down about 2300 years ago.
 
@@ -196,9 +181,9 @@ Rajas of powerful kingdoms tried to conquer the sanghas. Nevertheless, these las
 
 ### Keywords
 
-> [caption] raja ashvamedha varna janapada mahajanapada fortification army tax transplantation gana or sangha democracy 62
+> [caption] raja ashvamedha varna janapada mahajanapada fortification army tax transplantation gana or sangha democracy
 
-<!-- pdf page 10 -->
+<!-- page 63 (pdf 10) -->
 
 ### Elsewhere
 
@@ -230,35 +215,17 @@ You are peeping through a crack in the walls of the assembly of Vaishali, where 
 
 > [table] (c) Archaeologists have found palaces in the settlements of the janapadas.
 
-> [table] (d) Pots to store grain were made out of Painted 63
+> [table] (d) Pots to store grain were made out of Painted Grey Ware.
 
-> [table] Grey Ware.
-
-<!-- pdf page 11 -->
+<!-- page 64 (pdf 11) -->
 
 > [table] 2. Fill in the chart given below with the terms: hunter-gatherers, farmers, traders, crafts persons, herders.
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
-> [caption] New kinds of rajas
-
-> [caption] (about 3000 years ago)
-
 > [caption] THOSE WHO PAID TAXES
-
-> [caption] Mahajanapadas (about
-
-> [caption] 2500 years ago)
 
 > [caption] THE RAJA OF THE
 
-> [caption] Alexander’s invasion, composition of the Digha Nikaya (about 2300 years ago)
-
 > [caption] MAHAJANAPADA
-
-> [caption] End of the ganas or sanghas (about 1500 years ago)
 
 > [table] 3. Who were the groups who could not participate in the assemblies of the ganas?
 
@@ -276,4 +243,18 @@ You are peeping through a crack in the walls of the assembly of Vaishali, where 
 
 > [table] 8. Find out whether the groups mentioned in answer 3 have voting rights at present.
 
-> [table] 64
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] New kinds of rajas
+
+> [caption] (about 3000 years ago)
+
+> [caption] Mahajanapadas (about
+
+> [caption] 2500 years ago)
+
+> [caption] Alexander’s invasion, composition of the Digha Nikaya (about 2300 years ago)
+
+> [caption] End of the ganas or sanghas (about 1500 years ago)

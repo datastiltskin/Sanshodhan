@@ -4,7 +4,7 @@ edition: "2019-05-04"
 source_pdf: "pdfs/our-pasts-1/2019-05-04/prelims.pdf"
 ---
 
-<!-- page 20 (pdf 1) -->
+<!-- pdf page 1 -->
 
 # Social Science
 
@@ -16,7 +16,7 @@ source_pdf: "pdfs/our-pasts-1/2019-05-04/prelims.pdf"
 
 > [caption] NATIONAL COUNCIL
 
-<!-- page 20 (pdf 2) -->
+<!-- pdf page 2 -->
 
 > [caption] ISBN 81-7450-493-1
 
@@ -50,7 +50,7 @@ source_pdf: "pdfs/our-pasts-1/2019-05-04/prelims.pdf"
 
 > [caption] Arrt Creations, New Delhi
 
-<!-- page 20 (pdf 3) -->
+<!-- pdf page 3 -->
 
 FOREWORD
 
@@ -60,7 +60,7 @@ The success of this effort depends on the steps that school principals and teach
 
 These aims imply considerable change in school routines and mode of functioning. Flexibility in the daily time-table is as necessary as rigour in implementing the annual calendar so that the required number of teaching days are actually devoted to teaching. The methods used for teaching and evaluation will also determine how effective this textbook proves to be for making children’s life at school a happy experience, rather than a source of stress or boredom. Syllabus designers have tried to address the problem of curricular burden by restructuring and reorienting knowledge at different stages with greater consideration for child psychology and the time available for teaching. The textbook attempts to enhance this endeavour by giving higher priority and space to opportunities for contemplation and wondering, discussion in small groups, and activities requiring hands-on experience.
 
-<!-- page 20 (pdf 4) -->
+<!-- pdf page 4 -->
 
 (iv)
 
@@ -70,7 +70,7 @@ Director National Council of Educational
 
 Research and Training New Delhi 20 December 2005
 
-<!-- page 20 (pdf 5) -->
+<!-- pdf page 5 -->
 
 TEXTBOOK DEVELOPMENT COMMITTEE
 
@@ -88,13 +88,13 @@ Anil Sethi, Former Professor, Department of Education in Social Sciences, NCERT 
 
 > [caption] MEMBER-COORDINATOR
 
-<!-- page 20 (pdf 6) -->
+<!-- pdf page 6 -->
 
 ## Our National Anthem
 
 Jana-gar un.8-0 PL i-gana-mana adhinayaka, jay a, jaya he Pu Bharata-bhagya-vianata. Punjab-Sindh-Gujarat-MarathaBharata-bhagya-vidhata. tha Dravida-Utkala-Banga Uchchhala-jaladhi-taranga. Tava shubha name jage, Tava shubha asisa mage, Gahe tava jaya gatha. JaGane tava jaya garna. Jana-gana-mangala-dayaka jaya he Bharata-bhagya-vidhata. Jas Jayaa eJaa eja ne, Jaya jaya jaya, jaya he! Sassa n Our National Anthem, composed originally in Bangla by Rabindranath Tagore, was adopted in its Hindi version by the Constituent Assembly as the national anthem of India on 24 January 1950.
 
-<!-- page 20 (pdf 7) -->
+<!-- pdf page 7 -->
 
 WHY STUDY HISTORY?
 
@@ -108,7 +108,7 @@ You may shrug your shoulders and say “Why should we bother about pasts that ar
 
 But history is not just about the past. It is about the present. The society we live in has been fashioned by those who came before us. The joys and sorrows of their daily lives, their attempt to grapple with the problems of their time, their discoveries and inventions, slowly transformed human societies. These changes were often so gradual, so seemingly small, that their impact was not noticed by people at that time. Only later, when we return to the past, when we study history, can we begin to see how these changes happened, and we can observe their long-term effect. By reading history we can understand how the modern world has emerged over long centuries of development.
 
-<!-- page 20 (pdf 8) -->
+<!-- pdf page 8 -->
 
 (viii)
 
@@ -128,7 +128,7 @@ Neeladri Bhattacharya
 
 > [caption] HISTORY
 
-<!-- page 20 (pdf 9) -->
+<!-- pdf page 9 -->
 
 ACKNOWLEDGEMENTS
 
@@ -138,7 +138,7 @@ We have greatly benefited from the insightful and incisive comments and suggesti
 
 We are also grateful to the Director General, Archaeological Survey of India, Surendra Kaul, Director General, Centre for Cultural Resources and Training, New Delhi, Purnima Mehta and the staff of the Photo Archives, American Institute of Indian Studies, Gurgaon, Haryana, K.P. Rao, University of Hyderabad, and Bharati Jagannathan for providing photographs of inscriptions, coins, monuments, sculpture, painting, including illustrations of archaeological and historical sites and artefacts, such as pottery, tools and associated finds. We would like to thank Geetanjali Surendran and the members of the National Manuscript Mission, New Delhi for photographs of manuscripts. Catherine Jarrige kindly granted us permission to reproduce the sketches of Mehrgarh. We would also like to thank those who provided us with pictures of children — Umesh Matta of UNICEF, New Delhi, R.C. Das of CIET, NCERT, and Springdales School, New Delhi.
 
-<!-- page 20 (pdf 10) -->
+<!-- pdf page 10 -->
 
 (x)
 
@@ -154,7 +154,7 @@ Thanks are due to Shveta Uppal, Chief Editor, NCERT and Vandana R. Singh, Consul
 
 The Council also gratefully acknowledges the contributions of Arvind Sharma, DTP Operator; during the preparation of the book and Incharge DTP Cell, Bijnan Sutar in shaping this book. The efforts of the Publication Department, NCERT are also highly appreciated.
 
-<!-- page 20 (pdf 11) -->
+<!-- page 2 (pdf 11) -->
 
 CONTENTS
 
@@ -184,7 +184,7 @@ CONTENTS
 
 ### 11. BUILDINGS, PAINTINGS AND BOOKS 114
 
-<!-- page 20 (pdf 12) -->
+<!-- pdf page 12 -->
 
 > [note] LOOK OUT FOR THESE
 

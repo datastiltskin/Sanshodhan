@@ -9,11 +9,11 @@ title: "CHAPTER 11 BUILDINGS, PAINTINGS AND BOOK AINTINGS AND BOOKS"
 source_pdf: "pdfs/our-pasts-1/2019-05-04/ch11.pdf"
 source_sha256: "a40b30ba6861d69ebaf8ccd19f9d00f6a169154d3ad556aebab512a37770c77e"
 pdf_pages: 15
-printed_pages: "20-20"
-body_fingerprint: "2aefe981ff6dad9efc61b0843e71bf7d0a000d342023fd134924e938419758f7"
+printed_pages: "114-128"
+body_fingerprint: "fe366900d74a3d08b1583a3737d4160584a851274d184781b4e4495ec92282fd"
 ---
 
-<!-- page 20 (pdf 1) -->
+<!-- page 114 (pdf 1) -->
 
 # CHAPTER 11 BUILDINGS, PAINTINGS AND BOOK AINTINGS AND BOOKS
 
@@ -35,9 +35,7 @@ Ancient Indian metallurgists made major contributions to the metallurgical histo
 
 The skills of our crafts persons are also apparent in the buildings that have survived, such as stupas. The word stupa means a mound. While there are several kinds of stupas, round and tall, big and small, these have certain common features. Generally, there is a small box placed at the centre or heart of the stupa. This may contain bodily remains (such as teeth, bone or ashes) of the Buddha or his followers, or things they used, as well as precious stones, and coins.
 
-> [caption] n 114
-
-<!-- page 20 (pdf 2) -->
+<!-- page 115 (pdf 2) -->
 
 This box, known as a relic casket, was covered with earth. Later, a layer of mud brick or baked brick was added on top. And then, the dome like structure was sometimes covered with carved stone slabs.
 
@@ -51,9 +49,7 @@ Some of the earliest Hindu temples were also built at this time. Deities such as
 
 > [caption] Top : The Great Stupa at Sanchi, Madhya Pradesh. Stupas like this one were built over several centuries. While the brick mound probably dates to the time of Ashoka (Chapter 7), the railings and gateways were added during the time of later rulers. Left : Sculpture from Amaravati. Look at the picture and describe what you see.
 
-> [caption] 115 n
-
-<!-- page 20 (pdf 3) -->
+<!-- page 116 (pdf 3) -->
 
 Often, as at Bhitargaon, a tower, known as the shikhara, was built on top of the garbhagriha, to mark this out as a sacred place. Building shikharas required careful planning. Most temples also had a space known as the mandapa. It was a hall where people could assemble.
 
@@ -63,9 +59,7 @@ Find Mahabalipuram and Aihole on Map 7 (page 105). Some of the finest stone temp
 
 > [caption] Right : The Durga temple at Aihole, built about 1400 years ago.
 
-> [caption] n 116
-
-<!-- page 20 (pdf 4) -->
+<!-- page 117 (pdf 4) -->
 
 How w w wer ere stupas and temples built?
 
@@ -79,9 +73,7 @@ Among the others who paid for decorations were merchants, farmers, garland maker
 
 > [caption] Below : A sculpture from the National Museum, New Delhi. Can you see how some of the caves may have been hollowed out?
 
-> [caption] 117 n
-
-<!-- page 20 (pdf 5) -->
+<!-- page 118 (pdf 5) -->
 
 Make a diagram like the one on page 88 (Chapter 8) to show the stages in the building of a temple or stupa.
 
@@ -91,9 +83,7 @@ Find Ajanta on Map 7 (page 105). This is a place where several caves were hollow
 
 > [caption] Paintings from Ajanta. Describe what you see in each of these paintings.
 
-> [caption] n 118
-
-<!-- page 20 (pdf 6) -->
+<!-- page 119 (pdf 6) -->
 
 ### The world of books
 
@@ -109,11 +99,9 @@ A famous Tamil epic, the Silappadikaram, was composed by a poet named Ilango, ar
 
 Another Tamil epic, the Manimekalai was composed by Sattanar around 1400 years ago. This describes the story of the daughter of Kovalan and Madhavi. These beautiful compositions were lost to scholars for many centuries, till their manuscripts were rediscovered, about a hundred years ago.
 
-> [caption] 119 n
-
 Other writers, such as Kalidasa, (about whom you read in Chapter 10) wrote in Sanskrit.
 
-<!-- page 20 (pdf 7) -->
+<!-- page 120 (pdf 7) -->
 
 ### A verse fr erse from the Meghaduta
 
@@ -131,9 +119,7 @@ The Puranas were written in simple Sanskrit verse, and were meant to be heard by
 
 Two Sanskrit epics, the Mahabharata and Ramayana had been popular for a very long time. Some of you may be familiar with these stories. The Mahabharata is about a war fought between the Kauravas and Pandavas, who were cousins.
 
-> [caption] n 120
-
-<!-- page 20 (pdf 8) -->
+<!-- page 121 (pdf 8) -->
 
 This was a war to gain control of the throne of the Kurus, and their capital, Hastinapura. The story itself was an old one, but was written down in the form in which we know it today, about 1500 years ago. Both the Puranas and the Mahabharata are supposed to have been compiled by Vyasa. The Bhagavad Gita, about which you learnt in Chapter 9, was also included in the Mahabharata.
 
@@ -145,9 +131,7 @@ There are several versions (many of which are performed) of the Mahabharata and 
 
 Ordinary people also told stories, composed poems and songs, sang, danced, and performed plays. Some of these are preserved in collections of stories such as the Jatakas and the Panchatantra, which were written down around this time. Stories from the Jatakas were often shown on the railings of stupas and in paintings in places such as Ajanta. Here is one such story:
 
-> [caption] 121 n
-
-<!-- page 20 (pdf 9) -->
+<!-- page 122 (pdf 9) -->
 
 ### The story of the monk y of the monkey king
 
@@ -157,9 +141,9 @@ Once upon a time there was a great monkey king, who lived on the banks of the Ga
 
 > [table] However, the king of the monkeys worked out a This story is shown on a piece of sculpture found from a stupa at Bharhut in central India. Can you identify which parts of the story are shown in the sculpture?
 
-> [table] Why do you think these were chosen? n 122 n 122
+> [table] Why do you think these were chosen? n 122
 
-<!-- page 20 (pdf 10) -->
+<!-- page 123 (pdf 10) -->
 
 ### Writing books on science
 
@@ -185,35 +169,17 @@ While numerals had been used earlier, mathematicians in India now invented a spe
 
 Paper has become a part of our daily lives. The books we read are printed on paper, and we use paper for writing. Paper was invented in China about 1900 years ago, by a man named Cai Lun. He beat plant fibres, cloth, rope and the bark of trees, soaked these in water, and then pressed, drained and dried the pulp to create paper. Even today, hand made paper is made through a similar process. BUILDINGS, PAINTINGS AND BOOKS The technique of making paper was a closely guarded secret for centuries. It reached Korea about 1400 years ago, and spread to Japan soon after. It was known in Baghdad about 1800 years ago. From Baghdad it spread to Europe, Africa, and other parts of Asia including the subcontinent.
 
-> [caption] 123 n
-
-<!-- page 20 (pdf 11) -->
-
-> [caption] SOME IMPORTANT
-
-### DATES
-
-> [caption] u beginning of stupa building (2300 years ago)
+<!-- page 124 (pdf 11) -->
 
 > [table] What were manuscripts in early India made out of ? (Hint: See Chapter 1)
 
-> [caption] u Amaravati (2000 years ago)
-
-> [caption] u Kalidasa (1600 years ago)
-
 ### Imagine
 
-> [caption] u Iron pillar, Temple at
-
 > [table] You are sitting in a mandapa of a temple. Describe the scene around you.
-
-> [caption] Bhitargaon, Paintings at Ajanta, Aryabhata (1500 years ago)
 
 <!-- section: exercises -->
 
 ### Let’s recall
-
-> [caption] u Durga temple (1400 years ago)
 
 > [table] 1. Match the following
 
@@ -237,9 +203,23 @@ Paper has become a part of our daily lives. The books we read are printed on pap
 
 > [table] (d) ———————— and ———————— are two Tamil epics.
 
-> [table] n 124
+> [caption] SOME IMPORTANT
 
-<!-- page 20 (pdf 12) -->
+### DATES
+
+> [caption] u beginning of stupa building (2300 years ago)
+
+> [caption] u Amaravati (2000 years ago)
+
+> [caption] u Kalidasa (1600 years ago)
+
+> [caption] u Iron pillar, Temple at
+
+> [caption] Bhitargaon, Paintings at Ajanta, Aryabhata (1500 years ago)
+
+> [caption] u Durga temple (1400 years ago)
+
+<!-- page 125 (pdf 12) -->
 
 ### Let’s discuss
 
@@ -257,9 +237,7 @@ Paper has become a part of our daily lives. The books we read are printed on pap
 
 > [table] 8. If you could visit any one of the places described in this chapter, which would you choose and why?
 
-> [table] 125 n
-
-<!-- page 20 (pdf 13) -->
+<!-- page 126 (pdf 13) -->
 
 ### A quick look at dates
 
@@ -273,18 +251,12 @@ Throughout the book, we have used approximate dates to give you a rough idea of 
 
 In some cases, for example, the date from when Ashoka began to rule, you may find that more than one date is shown. This is because historians have not been able to agree on which is the correct date. Dates with question marks after them indicate that these are uncertian.
 
-> [table] n 126
-
-<!-- page 20 (pdf 14) -->
+<!-- page 127 (pdf 14) -->
 
 <!-- section: glossary -->
 
 > [table] MAP : 8 Political Map of India
 
-> [table] 127 n
-
-<!-- page 20 (pdf 15) -->
+<!-- page 128 (pdf 15) -->
 
 ## NOTES ______________________________
-
-> [table] n 128

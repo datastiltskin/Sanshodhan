@@ -9,11 +9,11 @@ title: "CHAPTER 9 TRADERS, KINGS AND PILGRIMS"
 source_pdf: "pdfs/our-pasts-1/2019-05-04/ch09.pdf"
 source_sha256: "447a165c619fc34ae83a42cc310477f83b0c0648b14249862773cae95dea6927"
 pdf_pages: 12
-printed_pages: "20-20"
-body_fingerprint: "ef8db63125da3ee3d52c1c1578ae4a5459729ac9909d97c0e6f5398cbe21e21e"
+printed_pages: "91-102"
+body_fingerprint: "bebb51882e3165f42b380e24b46f9af1c51c8055b576e6db47e889308fb457fa"
 ---
 
-<!-- page 20 (pdf 1) -->
+<!-- page 91 (pdf 1) -->
 
 # CHAPTER 9 TRADERS, KINGS AND PILGRIMS
 
@@ -29,9 +29,7 @@ South India was famous for gold, spices, especially pepper, and precious stones.
 
 Can you think of how and why these reached India?
 
-> [caption] 91 n
-
-<!-- page 20 (pdf 2) -->
+<!-- page 92 (pdf 2) -->
 
 ### A poem about trade
 
@@ -49,9 +47,7 @@ Traders explored several sea routes. Some of these followed the coasts. There we
 
 The southern half of the subcontinent is marked by a long coastline, and with hills, plateaus, and river valleys. Amongst the river valleys, that of the Kaveri is the most fertile. Chiefs and kings who controlled the river valleys and the coasts became rich and powerful. Sangam poems mention the muvendar. This is a Tamil word meaning three chiefs, used for the heads of three
 
-> [caption] n 92
-
-<!-- page 20 (pdf 3) -->
+<!-- page 93 (pdf 3) -->
 
 ruling families, the Cholas, Cheras, and Pandyas (see Map 7, page 105), who became powerful in south India around 2300 years ago.
 
@@ -67,9 +63,7 @@ Why do you think he wanted to control the coasts?
 
 The rich, glossy colours of silk, as well as its smooth texture, make it a highly valued fabric in most societies. Making silk is a complicated process. Raw silk has to be extracted from the
 
-> [caption] 93 n
-
-<!-- page 20 (pdf 4) -->
+<!-- page 94 (pdf 4) -->
 
 cocoons of silk worms, spun into thread and then woven into cloth. Techniques of making silk were first invented in China around 7000 years ago. While the methods remained a closely guarded secret for thousands of years, some people from China who went to distant lands on foot, horseback, and on camels, carried silk with them. The paths they followed came to be known as the Silk Route.
 
@@ -79,9 +73,7 @@ Look at Map 6 (pages 76-77) which shows the Silk Route and its branches. Some ki
 
 The best-known of the rulers who controlled the Silk Route were the Kushanas, who ruled over central Asia and north-west India around 2000 years ago. Their two major centres of power were Peshawar and Mathura. Taxila was also included in their kingdom. During their rule, a branch of the Silk Route extended from Central Asia down to the seaports at the mouth of the river Indus, from where silk was shipped westwards to the Roman Empire. The Kushanas were amongst the earliest rulers of the subcontinent to issue gold
 
-> [caption] n 94
-
-<!-- page 20 (pdf 5) -->
+<!-- page 95 (pdf 5) -->
 
 coins. These were used by traders along the Silk Route.
 
@@ -101,9 +93,7 @@ The second change was a belief in Bodhisattvas. These were supposed to be person
 
 > [caption] A sculpture from the stupa at Sanchi. Look at the tree and the empty seat below it. Sculptors carved this to indicate that the Buddha had attained enlightenment while meditating under the tree.
 
-> [caption] 95 n
-
-<!-- page 20 (pdf 6) -->
+<!-- page 96 (pdf 6) -->
 
 isolation and meditate in peace. However, instead of doing that, they remained in the world to teach and help other people. The worship of Bodhisattvas became very popular, and spread throughout Central Asia, China, and later to Korea and Japan.
 
@@ -113,9 +103,7 @@ Some of these caves were made on the orders of kings and queens, others by merch
 
 > [caption] Below left : An image of the Buddha from Mathura. Right : An image of the Buddha from Taxila. Look at these and note the similarities and differences that you may find.
 
-> [caption] n 96
-
-<!-- page 20 (pdf 7) -->
+<!-- page 97 (pdf 7) -->
 
 halted in these cave monasteries during their travels.
 
@@ -137,9 +125,7 @@ Each of these pilgrims left an account of his journey. They wrote of the dangers
 
 > [caption] A cave at Karle, Maharashtra
 
-> [caption] 97 n
-
-<!-- page 20 (pdf 8) -->
+<!-- page 98 (pdf 8) -->
 
 ### How F w Fa Xian r a Xian returned to China
 
@@ -159,11 +145,9 @@ Xuan Zang, who took the land route back to China (through the north-west, and Ce
 
 “The teachers are men of the highest ability and talent. They follow the teachings of the Buddha in all sincerity. The rules of the monastery are strict, and everyone has to follow them. Discussions are held throughout the day, and the old and the young mutually help one another. Learned men from different cities come here to settle their doubts. The gatekeeper asks new entrants difficult questions. They are allowed to enter only after they have been able to answer these. Seven or eight out of every ten are not able to answer.”
 
-> [caption] n 98
-
 > [table] List the reasons why Xuan Zang wanted to study in Nalanda.
 
-<!-- page 20 (pdf 9) -->
+<!-- page 99 (pdf 9) -->
 
 ### The beginning of Bhakti
 
@@ -179,9 +163,7 @@ According to this system of belief, if a devotee worships the chosen deity with 
 
 > [caption] Vishnu as Varaha — an image from Eran, Madhya Pradesh. This magnificent statue is of a special form of Vishnu, the Varaha or boar. According to the Puranas (see Chapter 11) Vishnu took the shape of a boar in order to rescue the earth, which had sunk into water. Here the earth is shown as a woman.
 
-> [caption] 99 n
-
-<!-- page 20 (pdf 10) -->
+<!-- page 100 (pdf 10) -->
 
 ### Bhakti
 
@@ -199,9 +181,7 @@ Bhakti inspired some of the best expressions in art — sculpture, poetry and ar
 
 The word ‘Hindu’, like the term ‘India’ is derived from the river Indus. It was used by Arabs and Iranians to refer to people who lived to the east of the river, and to their cultural practices, including religious beliefs.
 
-> [caption] n 100
-
-<!-- page 20 (pdf 11) -->
+<!-- page 101 (pdf 11) -->
 
 ### Elsewhere
 
@@ -259,46 +239,42 @@ About 2000 years ago, Christianity emerged in West Asia. Jesus Christ was born i
 
 > [caption] Xuan Zang Cholas, Cheras and Pandyas
 
-> [table] 101 n
-
-<!-- page 20 (pdf 12) -->
+<!-- page 102 (pdf 12) -->
 
 > [table] 2. Why did kings want to control the Silk Route?
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
 > [table] 3. What kinds of evidence do historians use to find out about trade and trade routes?
-
-> [caption] u Discovery of silk making (about 7000 years ago)
 
 > [table] 4. What were the main features of Bhakti?
 
-> [caption] uThe Cholas, Cheras and Pandyas (about 2300 years ago)
-
 ### Let’s discuss
-
-> [caption] u Growing demand for silk in the Roman Empire (about 2000 years ago)
 
 > [table] 5. Discuss the reasons why the Chinese pilgrims came to India.
 
 > [table] 6. Why do you think ordinary people were attracted to Bhakti?
 
-> [caption] u Kanishka, the Kushana ruler (about 1900 years ago)
-
 ### Let’s do
+
+> [table] 7. List five things that you buy from the market. Which of these are made in the city/village in which you live, and which are brought by traders from other areas?
+
+8. There are several major pilgrimages performed by people in India today. Find out about any one of them, and write a short description. (Hint: who can go on the pilgrimage — men, women or children? How long does it take? How do people travel? What do they take with them? What do they do when they reach the holy place? Do they bring anything back with them?)
+
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] u Discovery of silk making (about 7000 years ago)
+
+> [caption] uThe Cholas, Cheras and Pandyas (about 2300 years ago)
+
+> [caption] u Growing demand for silk in the Roman Empire (about 2000 years ago)
+
+> [caption] u Kanishka, the Kushana ruler (about 1900 years ago)
 
 > [caption] u Fa Xian comes to
 
 > [caption] India (about 1600 years ago)
 
-> [table] 7. List five things that you buy from the market. Which of these are made in the city/village in which you live, and which are brought by traders from other areas?
-
 > [caption] u Xuan Zang comes to
 
 > [caption] India, Appar composes devotional poems in praise of Shiva (about 1400 years ago)
-
-8. There are several major pilgrimages performed by people in India today. Find out about any one of them, and write a short description. (Hint: who can go on the pilgrimage — men, women or children? How long does it take? How do people travel? What do they take with them? What do they do when they reach the holy place? Do they bring anything back with them?)
-
-> [table] n 102

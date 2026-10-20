@@ -10,10 +10,11 @@ title: "CHAPTER 6 NEW QUESTIONS AND IDEAS"
 source_pdf: "pdfs/our-pasts-1/2020-06-16/ch06.pdf"
 source_sha256: "fbd38c07d444d592a1039f5e4c17c5c7cdedd4948e25b48e12839d21403c5216"
 pdf_pages: 10
-body_fingerprint: "87c9ec2de9f54c30d47d0fb5170be3ded4cc00b9354fcdc2f5cd049c72587c24"
+printed_pages: "57-66"
+body_fingerprint: "4178ae1917e28e466c21ec66d04d336c4a15a617356f8129edeb166dd8381a73"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 57 (pdf 1) -->
 
 # CHAPTER 6 NEW QUESTIONS AND IDEAS
 
@@ -27,9 +28,7 @@ Siddhartha, also known as Gautama, the founder of Buddhism, was born about 2500 
 
 The Buddha belonged to a small gana known as the Sakya gana, and was a kshatriya. When he was a young man, he left the comforts of his home in search of knowledge. He wandered for several years, meeting and holding discussions with other thinkers. He finally decided to find his own path to realisation, and meditated for days on end under a peepal tree at Bodh Gaya in Bihar, where he attained enlightenment. After that, he was known as the Buddha or the Wise One. He then went to Sarnath, near Varanasi, where he taught for the first time. He spent the rest of his life travelling on foot, going from place to place, teaching people, till he passed away at Kusinara.
 
-> [caption] 57 n
-
-<!-- pdf page 2 -->
+<!-- page 58 (pdf 2) -->
 
 The Buddha taught that life is full of suffering and unhappiness. This is caused because we have cravings and desires (which often cannot be fulfilled). Sometimes, even if we get what we want, we are not satisfied, and want even more (or want other things). The Buddha described this as thirst or tanha. He taught that this constant craving could be removed by following moderation in everything.
 
@@ -41,9 +40,7 @@ He also encouraged people to think for themselves rather than to simply accept w
 
 > [caption] The stupa at Sarnath. This building, known as a stupa, was built to mark the place where the Buddha first taught his message. You will learn more about stupas in Chapter 11.
 
-> [caption] n 58
-
-<!-- pdf page 3 -->
+<!-- page 59 (pdf 3) -->
 
 ### The story of Kisagotami
 
@@ -69,9 +66,7 @@ Around the time that the Buddha was preaching and perhaps a little earlier, othe
 
 Many of their ideas were recorded in the Upanishads. These were part of the later Vedic texts. Upanishad literally means ‘approaching and sitting near’ and the texts contain conversations between teachers and students. Often, ideas were presented through simple dialogues.
 
-> [caption] 59 n
-
-<!-- pdf page 4 -->
+<!-- page 60 (pdf 4) -->
 
 ### The wise beggar
 
@@ -91,9 +86,7 @@ Many of their ideas were recorded in the Upanishads. These were part of the late
 
 Most Upanishadic thinkers were men, especially brahmins and rajas. Occasionally, there is mention of women thinkers, such as Gargi, who was famous for her learning, and participated in debates held in royal courts. Poor people rarely took part in these discussions. One famous exception was Satyakama Jabala, who was named after his mother, the slave woman Jabali. He had a deep desire to learn about reality, was accepted as a student by a brahmin teacher named Gautama, and became one of the best-known thinkers of the time. Many of the ideas of the Upanishads were later developed by the famous thinker Shankaracharya, about whom you will read in Class VII.
 
-> [caption] n 60
-
-<!-- pdf page 5 -->
+<!-- page 61 (pdf 5) -->
 
 ### Panini, the gr anini, the grammarian
 
@@ -107,9 +100,7 @@ He taught a simple doctrine: men and women who wished to know the truth must lea
 
 Followers of Mahavira, who were known as Jainas, had to lead very simple lives, begging for food. They had to be absolutely honest, and were especially asked not to steal. Also, they had to observe celibacy. And men had to give up everything, including their clothes.
 
-> [caption] 61 n
-
-<!-- pdf page 6 -->
+<!-- page 62 (pdf 6) -->
 
 It was very difficult for most men and women to follow these strict rules. Nevertheless, thousands left their homes to learn and teach this new way of life. Many more remained behind and supported those who became monks and nuns, providing them with food.
 
@@ -127,9 +118,7 @@ Men and women who joined the sangha led simple lives. They meditated for most of
 
 > [caption] The word Jaina comes from the term Jina, meaning conqueror. Why do you think the term Jina was used for Mahavira?
 
-> [caption] n 62
-
-<!-- pdf page 7 -->
+<!-- page 63 (pdf 7) -->
 
 and bhikkhunis. They taught others, and helped one another. They also held meetings to settle any quarrels that took place within the sangha.
 
@@ -145,9 +134,7 @@ As time went on, many supporters of the monks and nuns, and they themselves, fel
 
 > [caption] A cave hollowed out in the hills. This is a cave in Karle, present-day Maharashtra. Monks and nuns lived and meditated in these shelters.
 
-> [caption] 63 n
-
-<!-- pdf page 8 -->
+<!-- page 64 (pdf 8) -->
 
 ### A Buddhist text tells us:
 
@@ -169,9 +156,7 @@ Very often, the land on which the vihara was built was donated by a rich merchan
 
 > [caption] In what way was the system of ashramas different from life in the sangha? What are the varnas mentioned here? Were all four varnas allowed to participate in the system of ashramas?
 
-> [caption] n 64
-
-<!-- pdf page 9 -->
+<!-- page 65 (pdf 9) -->
 
 ### Elsewhere
 
@@ -219,29 +204,17 @@ For more than a thousand years, Zoroastrianism was a major religion in Iran. Lat
 
 - ashrama
 
-> [table] 65 n
-
-<!-- pdf page 10 -->
+<!-- page 66 (pdf 10) -->
 
 <!-- section: exercises -->
 
 > [table] e. Upanishadic thinkers believed that the atman and brahman were ultimately one.
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
 > [table] 3. What were the questions that Upanishadic thinkers wanted to answer?
-
-> [caption] u Upanishadic thinkers, the Jaina teacher Mahavira and the Buddha (about 2500 years ago)
 
 > [table] 4. What were the main teachings of the Mahavira?
 
 ### Let’s discuss
-
-> [caption] u Writing down of the
-
-> [caption] Jaina texts (about 1500 years ago)
 
 > [table] 5. Why do you think Anagha’s mother wanted her to know the story of the Buddha?
 
@@ -253,4 +226,12 @@ For more than a thousand years, Zoroastrianism was a major religion in Iran. Lat
 
 > [table] 8. Find out more about men and women who renounce the world today. Where do they live, what kinds of clothes do they wear, what do they eat? Why do they renounce the world?
 
-> [table] n 66
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] u Upanishadic thinkers, the Jaina teacher Mahavira and the Buddha (about 2500 years ago)
+
+> [caption] u Writing down of the
+
+> [caption] Jaina texts (about 1500 years ago)

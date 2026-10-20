@@ -100,7 +100,7 @@ This present edition, is a reformatted version after carrying out the changes gi
 
 <!-- pdf page 6 -->
 
-<!-- pdf page 7 -->
+<!-- page 8 (pdf 7) -->
 
 Textbook Development Committee
 
@@ -180,7 +180,7 @@ We have greatly benefited from the insightful and incisive comments and suggesti
 
 We are also grateful to the Director General, Archaeological Survey of India, Surendra Kaul, Director General, Centre for Cultural Resources and Training, New Delhi, Purnima Mehta and the staff of the Photo Archives, American Institute of Indian Studies, Gurgaon, Haryana, K.P. Rao, University of Hyderabad, and Bharati Jagannathan for providing photographs of inscriptions, coins, monuments, sculpture, painting, including illustrations of archaeological and historical sites and artefacts, such as pottery, tools and associated finds. We would like to thank Geetanjali Surendran and the members of the National Manuscript Mission, New Delhi for photographs of manuscripts. Catherine Jarrige kindly granted us permission to reproduce the sketches of Mehrgarh. We would also like to thank those who provided us with pictures of children — Umesh Matta of UNICEF, New Delhi, R.C. Das of CIET, NCERT, and Springdales School, New Delhi.
 
-<!-- pdf page 12 -->
+<!-- page 11 (pdf 12) -->
 
 (xii)
 
@@ -198,7 +198,7 @@ The Council also gratefully acknowledges the contributions of Arvind Sharma, DTP
 
 The Council acknowledges the valuable inputs for analysing syllabi, textbooks and the content, proposed to be rationalised for this edition by Umesh Ashok Kadam, Professor, Centre for Historical Studies, Jawaharlal Nehru University, New Delhi; Sunil Kumar Singh, PGT History, Kendriya Vidyalaya, AFS, Tughlakabad, New Delhi; Krishna Ranjan, PGT History, Kendriya Vidyalaya, Vikaspuri; Archana Verma, Department of History, Hindu College, University of Delhi, Delhi; Shruti Mishra, PGT History and HoD, History, Delhi Public School, R.K. Puram, New Delhi; Gouri Srivastava, Professor and Head, Pratyusa K. Mandal, Professor; Seema S. Ojha, Professor, DESS; Mily Roy Anand, Professor, DGS and Sharad Kumar Pandey, Associate Professor, DCS&D, NCERT.
 
-<!-- pdf page 13 -->
+<!-- page 2 (pdf 13) -->
 
 Contents
 

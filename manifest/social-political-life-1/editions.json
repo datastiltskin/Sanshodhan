@@ -31,7 +31,7 @@
           "title": "Understanding Diversity",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch01.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "3-12",
           "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
           "role_counts": {
             "body": 108,
@@ -53,7 +53,7 @@
           "title": "Diversity and Discrimination",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "d0a121ea0de35e5a1060a3c1dc74f943c1546dc17e5a8383ce320152e5e74b6f",
           "role_counts": {
             "body": 95,
@@ -76,7 +76,7 @@
           "title": "What is Government?",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch03.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "27-34",
           "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
           "role_counts": {
             "body": 53,
@@ -98,7 +98,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
           "role_counts": {
             "body": 46,
@@ -120,7 +120,7 @@
           "title": "Panchayati Raj",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch05.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "43-48",
           "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
           "role_counts": {
             "body": 40,
@@ -142,7 +142,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
           "role_counts": {
             "body": 59,
@@ -165,7 +165,7 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
           "role_counts": {
             "body": 56,
@@ -187,7 +187,7 @@
           "title": "Rural Livelihoods",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch08.pdf",
           "pdf_pages": 9,
-          "printed_pages": null,
+          "printed_pages": "67-75",
           "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
           "role_counts": {
             "body": 69,
@@ -209,7 +209,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2014-06-28/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
           "role_counts": {
             "body": 61,
@@ -254,7 +254,7 @@
           "title": "Understanding Diversity",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch01.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "3-12",
           "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
           "role_counts": {
             "body": 108,
@@ -296,7 +296,7 @@
           "title": "What is Government?",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch03.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "27-34",
           "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
           "role_counts": {
             "body": 53,
@@ -318,7 +318,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
           "role_counts": {
             "body": 46,
@@ -340,7 +340,7 @@
           "title": "Panchayati Raj",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch05.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "43-48",
           "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
           "role_counts": {
             "body": 40,
@@ -362,7 +362,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
           "role_counts": {
             "body": 59,
@@ -385,7 +385,7 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
           "role_counts": {
             "body": 56,
@@ -407,7 +407,7 @@
           "title": "Rural Livelihoods",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch08.pdf",
           "pdf_pages": 9,
-          "printed_pages": null,
+          "printed_pages": "67-75",
           "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
           "role_counts": {
             "body": 69,
@@ -429,7 +429,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2015-04-01/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
           "role_counts": {
             "body": 61,
@@ -463,7 +463,7 @@
           "title": "Understanding Diversity",
           "pdf": "pdfs/social-political-life-1/2017-partial/ch01.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "3-12",
           "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
           "role_counts": {
             "body": 108,
@@ -485,7 +485,7 @@
           "title": "Diversity and Discrimination",
           "pdf": "pdfs/social-political-life-1/2017-partial/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "e3f4e1d4e760ab2b488b1a923f28fe7bdbc8351e59cd32e5bc663382d5fa45c5",
           "role_counts": {
             "body": 85,
@@ -509,7 +509,7 @@
           "title": "What is Government?",
           "pdf": "pdfs/social-political-life-1/2017-partial/ch03.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "27-34",
           "fingerprint": "37128042040fb7e1642c58c8ab647ff72919cb0fced1d3648cdcba2ca6d4e2fe",
           "role_counts": {
             "body": 50,
@@ -532,7 +532,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2017-partial/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "3a4dc73424e39ba36ef2de79f1cc95ffee24bef06ca1fc00348c8cb3d48d355b",
           "role_counts": {
             "body": 46,
@@ -589,7 +589,7 @@
           "title": "Diversity",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch01.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "1-12",
           "fingerprint": "cdca05e8ef4f85d27e3943eea9876083a69d5c7db1b8221c0ecad7a6e7fb9690",
           "role_counts": {
             "h2": 5,
@@ -613,7 +613,7 @@
           "title": "Diversity and Discrimination",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "154986fbc29e82c85a940a706fa4b25a88b6664893c3448f6898790f028da700",
           "role_counts": {
             "body": 85,
@@ -637,7 +637,7 @@
           "title": "Gover nment",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "25-34",
           "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
           "role_counts": {
             "caption": 7,
@@ -660,7 +660,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "3a4dc73424e39ba36ef2de79f1cc95ffee24bef06ca1fc00348c8cb3d48d355b",
           "role_counts": {
             "body": 46,
@@ -683,7 +683,7 @@
           "title": "Local Government",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch05.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "41-48",
           "fingerprint": "1f837f3fd99c8fcaa45a7ea969622d7d7165ba4d2f3ca7f05a54103f0552ca53",
           "role_counts": {
             "h2": 4,
@@ -706,7 +706,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "0ca1cac23c5b4dd4c6ceb9eb94835578efb1a822fe4e1a96ee5d6112c816efda",
           "role_counts": {
             "body": 59,
@@ -730,7 +730,7 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "507797240554795f42488e0d134c5bcf2f9ad73b287fe009e53fe56287f8108b",
           "role_counts": {
             "body": 58,
@@ -753,7 +753,7 @@
           "title": "Livelihoods",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch08.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "65-75",
           "fingerprint": "5643f30810b6a2219a2e03cbe7bdf099bd638884573ea11d7cca820b361645a2",
           "role_counts": {
             "h2": 3,
@@ -776,7 +776,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2019-05-04/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "30b783c4df35271e19591b977baf01b49c2dc790ee509dd8b1ba6f3e03556dbe",
           "role_counts": {
             "body": 61,
@@ -836,7 +836,7 @@
           "title": "Diversity",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch01.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "1-12",
           "fingerprint": "729f0afc6f0b5abee8005f6b5532b1ed2b1f1821670cea220cc8d64fdc304091",
           "role_counts": {
             "h2": 5,
@@ -860,7 +860,7 @@
           "title": "Diversity and Discrimination",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "c24f1343d54cb4d8b1d374cedabf6b7492106dd6f75b09548e265f9dfb12923f",
           "role_counts": {
             "body": 93,
@@ -884,7 +884,7 @@
           "title": "Gover nment",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "25-34",
           "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
           "role_counts": {
             "caption": 8,
@@ -907,7 +907,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "ddcfae599a005596811077d4011fbd1d24145f2324c195c912c9e338d5452224",
           "role_counts": {
             "body": 45,
@@ -930,7 +930,7 @@
           "title": "Local Government",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch05.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "3-10",
           "fingerprint": "d02643e1171fc5f95608cca3addf0c607f0f8dd0fdb64508f0a95f01923813b0",
           "role_counts": {
             "h2": 4,
@@ -953,7 +953,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "c5bfa3799d8706d797815f2ba1acabab65f1c5290bc9a3b10f471ed741f09e57",
           "role_counts": {
             "body": 59,
@@ -977,7 +977,7 @@
           "title": "Chapter 7 Urban Administration",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "fca249bc52f37e5275bfb3f025335cd691cf65587987a4cb490bb8341a25aaa4",
           "role_counts": {
             "h2": 1,
@@ -1000,7 +1000,7 @@
           "title": "Livelihoods",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch08.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "65-75",
           "fingerprint": "f2c1413a1d85821ce2ae53a2a57ae748cacf4de5a4a86139115d3257d46d64b3",
           "role_counts": {
             "h2": 3,
@@ -1023,7 +1023,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2020-06-16/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "aadb48adfd8b90c28bd6a943885d1010e17ceeb7d15d292d548788f2562ac31f",
           "role_counts": {
             "body": 61,
@@ -1058,7 +1058,7 @@
           "title": "Diversity",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch01.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "1-12",
           "fingerprint": "729f0afc6f0b5abee8005f6b5532b1ed2b1f1821670cea220cc8d64fdc304091",
           "role_counts": {
             "h2": 5,
@@ -1082,7 +1082,7 @@
           "title": "Gover nment",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "25-34",
           "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
           "role_counts": {
             "caption": 8,
@@ -1105,7 +1105,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "ddcfae599a005596811077d4011fbd1d24145f2324c195c912c9e338d5452224",
           "role_counts": {
             "body": 45,
@@ -1128,7 +1128,7 @@
           "title": "Local Government",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch05.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "41-48",
           "fingerprint": "dab5ddd2992f221002369f894476feb106e79ec1d2ee3e67b5c21b76a2f24059",
           "role_counts": {
             "h2": 4,
@@ -1151,7 +1151,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "c5bfa3799d8706d797815f2ba1acabab65f1c5290bc9a3b10f471ed741f09e57",
           "role_counts": {
             "body": 59,
@@ -1175,7 +1175,7 @@
           "title": "Chapter 7 Urban Administration",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "fca249bc52f37e5275bfb3f025335cd691cf65587987a4cb490bb8341a25aaa4",
           "role_counts": {
             "h2": 1,
@@ -1198,7 +1198,7 @@
           "title": "Livelihoods",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch08.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "65-75",
           "fingerprint": "f2c1413a1d85821ce2ae53a2a57ae748cacf4de5a4a86139115d3257d46d64b3",
           "role_counts": {
             "h2": 3,
@@ -1221,7 +1221,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2021-partial/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "4ed50699c31163dd9e457a849e2db8bc5b0888e4cdee111bb400b111c6c87850",
           "role_counts": {
             "body": 61,
@@ -1283,7 +1283,7 @@
           "title": "Diversity",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch01.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "1-12",
           "fingerprint": "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993ff48",
           "role_counts": {
             "h2": 6,
@@ -1306,7 +1306,7 @@
           "title": "Diversity and",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "9f5ac1312f3ef321ae751d116e3fcb3415599a49b5bf22d8ad598d4319a860aa",
           "role_counts": {
             "body": 109,
@@ -1329,7 +1329,7 @@
           "title": "Government",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "25-34",
           "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
           "role_counts": {
             "h2": 4,
@@ -1352,7 +1352,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "f15679e6ddd3c518cdffe091109627355711d71ff60465289da3643564fd5c29",
           "role_counts": {
             "body": 50,
@@ -1375,7 +1375,7 @@
           "title": "Local Government",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch05.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "41-48",
           "fingerprint": "379571263c5f16ccb8f8ddbcbeed4180cc3359caf7d0de175ef3ce0db9390fb2",
           "role_counts": {
             "h2": 4,
@@ -1398,7 +1398,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "8d2068b4463ba7788df6717ddde87e9a4741d10b25db2ab26a5b45cc84a78d59",
           "role_counts": {
             "body": 66,
@@ -1421,7 +1421,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "b93d5a0a32fef73edd4b71486e914b7938588a225dcba283c6f9010566d0c03e",
           "role_counts": {
             "body": 72,
@@ -1441,7 +1441,7 @@
     },
     {
       "id": "2023-12-23-rationalised",
-      "fingerprint": "2074f23347bde8931012e4963046d4d40e8f53ee3d343f9dd611a1e9a8b6fd2c",
+      "fingerprint": "ca0f7dd6ecdf10c58cd8906c924632f7d9c89a0bb8705143df059a56c39559be",
       "snapshots": [
         "2023-12-23",
         "archive-org-oldncert-2023-24"
@@ -1485,7 +1485,7 @@
           "title": "Diversity",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch01.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "1-12",
           "fingerprint": "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993ff48",
           "role_counts": {
             "h2": 6,
@@ -1508,7 +1508,7 @@
           "title": "Diversity and",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch02.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "13-23",
           "fingerprint": "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08",
           "role_counts": {
             "body": 98,
@@ -1531,7 +1531,7 @@
           "title": "Government",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "24-33",
           "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
           "role_counts": {
             "footer": 10,
@@ -1554,7 +1554,7 @@
           "title": "Local Government",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch04.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "34-41",
           "fingerprint": "0c558ada9d9667c4493819c88fa8427e2eb5825ec2baf823299c95bbb4a9cd3a",
           "role_counts": {
             "footer": 8,
@@ -1577,7 +1577,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch05.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "42-49",
           "fingerprint": "63c632c8aa5914f7be0b40ef654bd03e6555d738ae6af8c5324d56bfbe6671d2",
           "role_counts": {
             "body": 66,
@@ -1600,13 +1600,13 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
-          "fingerprint": "26769c340758257b4581b8fd1feca779d093cc9cba4b1baaa31816a82eece8b7",
+          "printed_pages": "90-97",
+          "fingerprint": "b40c860cdf42994bb20a542bd099d0672cdb5f8833022c03bb2a2e15c2b3ecf0",
           "role_counts": {
-            "body": 70,
+            "body": 68,
             "h2": 1,
             "dropcap": 1,
-            "footer": 8,
+            "footer": 10,
             "table": 7,
             "caption": 1,
             "h3": 1
@@ -1623,7 +1623,7 @@
           "title": "Livelihoods",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch07.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "58-68",
           "fingerprint": "e512b6fbe8109f2f1d66a5ce67cb8d5a369c2d3e78a89b1e7ecd782e845709e6",
           "role_counts": {
             "footer": 11,
@@ -1645,7 +1645,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/2023-12-23/ch08.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "69-78",
           "fingerprint": "23ffaa54134a84d9f9b40d363f5e166348c960039ce77e937a116c9c0d80a10f",
           "role_counts": {
             "body": 72,
@@ -1665,7 +1665,7 @@
     },
     {
       "id": "2024-partial-rationalised",
-      "fingerprint": "2a9c74181a4201449e2e116205980ea859ed7ec3474838c698bdbd3107fe5fa6",
+      "fingerprint": "9fee3de2819c501aa072f00b1e225446ee050cbf6057fc632f67a79bb49a2b5d",
       "snapshots": [
         "2024-partial"
       ],
@@ -1708,7 +1708,7 @@
           "title": "Diversity and",
           "pdf": "pdfs/social-political-life-1/2024-partial/ch02.pdf",
           "pdf_pages": 11,
-          "printed_pages": null,
+          "printed_pages": "13-23",
           "fingerprint": "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08",
           "role_counts": {
             "body": 98,
@@ -1731,7 +1731,7 @@
           "title": "Government",
           "pdf": "pdfs/social-political-life-1/2024-partial/ch03.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "24-33",
           "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
           "role_counts": {
             "footer": 10,
@@ -1754,13 +1754,13 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/2024-partial/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
-          "fingerprint": "26769c340758257b4581b8fd1feca779d093cc9cba4b1baaa31816a82eece8b7",
+          "printed_pages": "90-97",
+          "fingerprint": "b40c860cdf42994bb20a542bd099d0672cdb5f8833022c03bb2a2e15c2b3ecf0",
           "role_counts": {
-            "body": 70,
+            "body": 68,
             "h2": 1,
             "dropcap": 1,
-            "footer": 8,
+            "footer": 10,
             "table": 7,
             "caption": 1,
             "h3": 1
@@ -1809,7 +1809,7 @@
           "title": "Understanding Diversity",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch01.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "3-12",
           "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
           "role_counts": {
             "body": 108,
@@ -1831,7 +1831,7 @@
           "title": "Diversity and Discrimination",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch02.pdf",
           "pdf_pages": 12,
-          "printed_pages": null,
+          "printed_pages": "13-24",
           "fingerprint": "c24f1343d54cb4d8b1d374cedabf6b7492106dd6f75b09548e265f9dfb12923f",
           "role_counts": {
             "body": 93,
@@ -1855,7 +1855,7 @@
           "title": "What is Government?",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch03.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "27-34",
           "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
           "role_counts": {
             "body": 53,
@@ -1877,7 +1877,7 @@
           "title": "Key Elements of a Democratic Government",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch04.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "35-40",
           "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
           "role_counts": {
             "body": 46,
@@ -1899,7 +1899,7 @@
           "title": "Panchayati Raj",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch05.pdf",
           "pdf_pages": 6,
-          "printed_pages": null,
+          "printed_pages": "43-48",
           "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
           "role_counts": {
             "body": 40,
@@ -1921,7 +1921,7 @@
           "title": "Rural Administration",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch06.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "49-56",
           "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
           "role_counts": {
             "body": 59,
@@ -1944,7 +1944,7 @@
           "title": "Urban Administration",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch07.pdf",
           "pdf_pages": 8,
-          "printed_pages": null,
+          "printed_pages": "57-64",
           "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
           "role_counts": {
             "body": 56,
@@ -1966,7 +1966,7 @@
           "title": "Rural Livelihoods",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch08.pdf",
           "pdf_pages": 9,
-          "printed_pages": null,
+          "printed_pages": "67-75",
           "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
           "role_counts": {
             "body": 69,
@@ -1988,7 +1988,7 @@
           "title": "Urban Livelihoods",
           "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch09.pdf",
           "pdf_pages": 10,
-          "printed_pages": null,
+          "printed_pages": "76-85",
           "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
           "role_counts": {
             "body": 61,

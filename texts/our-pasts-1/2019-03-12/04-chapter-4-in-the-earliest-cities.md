@@ -10,10 +10,11 @@ title: "CHAPTER 4 IN THE EARLIEST CITIES"
 source_pdf: "pdfs/our-pasts-1/2019-03-12/ch04.pdf"
 source_sha256: "9dae8d533a84738e8639102b95f07696181bcc58c7b5fdf96413547065941efd"
 pdf_pages: 11
-body_fingerprint: "aa33295383c1aa3afa444617b04a0a5fe5d42b766cf332a2ff7fcad0ef1bb964"
+printed_pages: "32-42"
+body_fingerprint: "d46b2f04f196c4dfaa7d22ce167de194b37b2f7ccdfbfac03e2be9657d7d1a9a"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 32 (pdf 1) -->
 
 # CHAPTER 4 IN THE EARLIEST CITIES
 
@@ -29,9 +30,7 @@ Then, about eighty years ago, archaeologists found the site, and realised that t
 
 Very often, old buildings are pulled down to make way for new construction. Do you think it is important to preserve old buildings?
 
-> [caption] n 32
-
-<!-- pdf page 2 -->
+<!-- page 33 (pdf 2) -->
 
 What was special about these cities?
 
@@ -45,9 +44,7 @@ Other cities, such as Kalibangan and Lothal had fire altars, where sacrifices ma
 
 > [caption] These cities were found in the Punjab and Sind in Pakistan, and in Gujarat, Rajasthan, Haryana and the Punjab in India. Archaeologists have found a set of unique objects in almost all these cities: red pottery painted with designs in black, stone weights, seals, special beads, copper tools, and paralleled sided long stone blades.
 
-> [caption] 33 n
-
-<!-- pdf page 3 -->
+<!-- page 34 (pdf 3) -->
 
 ### Houses, drains and streets
 
@@ -59,9 +56,9 @@ List at least two differences between the houses described here and those that y
 
 > [caption] The Great Bath
 
-> [caption] How bricks were arranged to build walls in Harappan cities n 34
+> [caption] How bricks were arranged to build walls in Harappan cities
 
-<!-- pdf page 4 -->
+<!-- page 35 (pdf 4) -->
 
 ### Life in the city
 
@@ -75,9 +72,7 @@ Make a list of the people who lived in the city. Were any of these people listed
 
 > [caption] Far Left : A Harappan seal. The signs on the top of the seal are part of a script. This is the earliest form of writing known in the subcontinent. Scholars have tried to read these signs but we still do not know exactly what they mean. Left : Terracotta toys.
 
-> [caption] 35 n
-
-<!-- pdf page 5 -->
+<!-- page 36 (pdf 5) -->
 
 ### New crafts in the city
 
@@ -103,9 +98,7 @@ Cotton was probably grown at Mehrgarh from about 7000 years ago. Actual pieces o
 
 > [caption] Bottom Right : Embroidered cloth. A stone statue of an important man found from Mohenjodaro shows him wearing an embroidered garment.
 
-> [caption] n 36
-
-<!-- pdf page 6 -->
+<!-- page 37 (pdf 6) -->
 
 ### Faience
 
@@ -123,9 +116,7 @@ Raw materials are substances that are either found naturally (such as wood, or o
 
 The Harappans probably got copper from present-day Rajasthan, and even from Oman in West Asia. Tin, which was mixed with copper to produce bronze, may have been brought from present-day Afghanistan and Iran. Gold could have come all the way from present-day Karnataka, and precious stones from present-day Gujarat, Iran and Afghanistan.
 
-> [caption] 37 n
-
-<!-- pdf page 7 -->
+<!-- page 38 (pdf 7) -->
 
 ### Food for people in the cities
 
@@ -137,9 +128,7 @@ A new tool, the plough, was used to dig the earth for turning the soil and plant
 
 > [caption] A toy plough. Today, in many farming communities, only men use the plough. We do not know whether the Harappans followed such customs or not.
 
-> [caption] n 38
-
-<!-- pdf page 8 -->
+<!-- page 39 (pdf 8) -->
 
 ### A closer look — Harappan towns in Gujarat
 
@@ -149,9 +138,7 @@ The city of Lothal stood beside a tributary of the Sabarmati, in Gujarat, close 
 
 > [caption] A dockyard at Lothal. This huge tank may have been a dockyard, where boats and ships came in from the sea and through the river channel. Goods were probably loaded and unloaded here.
 
-> [caption] 39 n
-
-<!-- pdf page 9 -->
+<!-- page 40 (pdf 9) -->
 
 A building that was found here was probably a workshop for making beads: pieces of stone, half made beads, tools for bead making, and finished beads have all been found here.
 
@@ -173,9 +160,9 @@ Why did all this happen? We are not sure. Some scholars suggest that the rivers 
 
 ### Keywords
 
-> [caption] city citadel ruler scribe crafts person metal seal specialist raw material plough irrigation n 40
+> [caption] city citadel ruler scribe crafts person metal seal specialist raw material plough irrigation
 
-<!-- pdf page 10 -->
+<!-- page 41 (pdf 10) -->
 
 It appears as if the rulers lost control. In any case, the effects of the change are quite clear. Sites in Sind and west Punjab (present-day Pakistan) were abandoned, while many people moved into newer, smaller settlements to the east and the south.
 
@@ -195,41 +182,23 @@ When they died, the bodies of kings were preserved and buried in these pyramids.
 
 > [table] You are travelling with your parents, about 4000 years ago, from Lothal to Mohenjodaro. Describe how you would travel, what your parents might carry with them, and what you would see in Mohenjodaro.
 
-> [caption] 41 n
-
-<!-- pdf page 11 -->
-
-> [caption] SOME IMPORTANT
+<!-- page 42 (pdf 11) -->
 
 <!-- section: exercises -->
 
 ### Let’s recall
 
-### DATES
-
 > [table] 1. How do archaeologists know that cloth was used in the Harappan civilisation?
 
-> [caption] u Cotton cultivation at
-
-> [caption] Mehrgarh (about 7000 years ago)
-
 > [table] 2. Match the columns
-
-> [caption] u Beginning of cities
-
-> [caption] (about 4700 years ago)
 
 > [table] Copper Gujarat
 
 > [table] Gold Afghanistan
 
-> [caption] u Beginning of the end of these cities (about 3900 years ago)
-
 > [table] Tin Rajasthan
 
 > [table] Precious stones Karnataka
-
-> [caption] u The emergence of other cities (about 2500 years ago)
 
 > [table] 3. Why were metals, writing, the wheel, and the plough important for the Harappans?
 
@@ -247,4 +216,18 @@ When they died, the bodies of kings were preserved and buried in these pyramids.
 
 > [table] 8. Are there any old buildings in your locality? Find out how old they are and who looks after them.
 
-> [table] n 42
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] u Cotton cultivation at
+
+> [caption] Mehrgarh (about 7000 years ago)
+
+> [caption] u Beginning of cities
+
+> [caption] (about 4700 years ago)
+
+> [caption] u Beginning of the end of these cities (about 3900 years ago)
+
+> [caption] u The emergence of other cities (about 2500 years ago)

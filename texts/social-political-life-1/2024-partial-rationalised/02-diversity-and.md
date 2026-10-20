@@ -9,10 +9,11 @@ title: "Diversity and"
 source_pdf: "pdfs/social-political-life-1/2024-partial/ch02.pdf"
 source_sha256: "c461429ee4cfff4cbfa1ac9d7aa9192ac7490735827b7ea0fd6b3b13e3131d7b"
 pdf_pages: 11
+printed_pages: "13-23"
 body_fingerprint: "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 13 (pdf 1) -->
 
 Chapter 2
 
@@ -36,7 +37,7 @@ You will get an idea of how diverse India is if you look even briefly at the fol
 
 There are eight major religions in the world. Every single one of them is practised in India. We have more Some of these statements see villagers as ignorant and see people in cities as money-minded and lazy. When our opinions about certain people are always negative – seeing them as lazy, stingy – as some of these statements, then these become prejudices that we carry about them.
 
-<!-- pdf page 2 -->
+<!-- page 14 (pdf 2) -->
 
 > [table] 14 / Social and Political Life
 
@@ -72,7 +73,7 @@ Prejudice means to judge other people negatively or see them as inferior. When w
 
 We can be prejudiced about many things: people’s religious beliefs, the colour of their skin, the region they come from, the accent they speak in, the clothes they wear etc. Often, our prejudices about others are so strong that we don’t want to form friendships with them. At times, we may even act in ways that hurt them.
 
-<!-- pdf page 3 -->
+<!-- page 15 (pdf 3) -->
 
 > [table] Diversity and Discrimination / 15
 
@@ -90,7 +91,7 @@ Now check, with your teacher’s help, who has put which statement where. Find o
 
 If we take the statement ‘’ They don’t cry”, you’ll see that this is a quality that is generally associated with boys and men. As babies or children when boys fall and hurt themselves, their parents and other family members often console them by saying “Don’t cry. You are a boy. Boys are brave, they don’t cry.” As children grow up they start believing that boys do not cry so that even if a boy feels like crying he stops himself from doing so. He also believes that crying is a sign of weakness. So, even though both boys and girls sometimes want to cry, especially if they are angry or in pain, as they grow older boys learn or teach themselves not to cry. If a grown boy cries, then he feels that others will either tease him or laugh at him, and so he stops himself from doing so in front of others.
 
-<!-- pdf page 4 -->
+<!-- page 16 (pdf 4) -->
 
 The children you see in the illustrations here were seen as ‘disabled’. This term has been changed and now the term used is ‘children with special needs’. Common stereotypes about them are given in large letters. Their own feelings and thoughts too are given.
 
@@ -102,7 +103,7 @@ Do you think children with special needs should be a part of regular schools or 
 
 > [caption] Source: Why are you afraid to hold my hand, by Sheila Dhir
 
-<!-- pdf page 5 -->
+<!-- page 17 (pdf 5) -->
 
 This is the way boys are and this is how girls are: these are statements we hear constantly and accept without even thinking, and we start believing that each one of us must behave accordingly. We fit all boys and all girls into an image that society creates around us.
 
@@ -122,7 +123,7 @@ Discrimination can take place because of several reasons. You probably recall fr
 
 Another difference between the two Samirs was in their economic backgrounds. Samir Do was poor. This difference, as you have read earlier, is not a form of diversity but of inequality. People who are poor do not have the resources or the money to meet their basic needs of food, clothing and shelter. They experience discrimination in offices, in hospitals, schools etc., where they are treated badly because they are poor.
 
-<!-- pdf page 6 -->
+<!-- page 18 (pdf 6) -->
 
 > [table] 18 / Social and Political Life
 
@@ -140,7 +141,7 @@ Long did we wait, but no one turned up. An hour elapsed and the station-master c
 
 We were well-dressed children. From our dress or talk no one could make out that we were children of the untouchables. Indeed the station-master was quite sure we were Brahmin children and was extremely touched at the plight in which he found us. As is usual among the Hindus, the stationmaster asked us who we were. Without a moment’s thought I blurted out that we were Mahars. (Mahar is one of the communities which were treated as untouchables in the Bombay Presidency.) He was stunned. His face underwent a sudden change. We could see that he was overpowered by a strange feeling of repulsion. As soon as he heard my reply, he went away to his room and we stood where we were. Fifteen to twenty minutes elapsed; the sun was almost setting. Our father had not turned up nor had he sent his servant, and now the stationmaster had also left us. We were quite bewildered, and the joy and happiness, which we felt at the beginning of the journey, gave way to a feeling of extreme sadness.
 
-<!-- pdf page 7 -->
+<!-- page 19 (pdf 7) -->
 
 After half an hour the stationmaster returned and asked us what we proposed to do. We said that if we could get a bullock-cart on hire we would go to Koregaon, and if it was not very far we would like to start straightway. There were many bullock-carts plying for hire. But my reply to the station master that we were Mahars had gone round among the cart men and not one of them was prepared to suffer being polluted and to demean himself carrying passengers of the untouchable classes. We were prepared to pay double the fare but we found that money did not work. The stationmaster, who was negotiating on our behalf, stood silent, not knowing what to do.
 
@@ -152,7 +153,7 @@ Dr Bhim Rao Ambedkar (1891-1956) is considered the father of the Indian Constitu
 
 Dr Ambedkar was the first person from his caste who completed his college education and went to England to become a lawyer. He encouraged Dalits to send their children to school and college. He also urged Dalits to take on different kinds of government jobs in order to move out of the caste system. He led many efforts of Dalits to gain entry into temples. Later in life he converted to Buddhism in his search for a religion that treated all members equally. Dr Ambedkar believed that Dalits must fight the caste system and work towards a society based on respect not just for a few but for all persons.
 
-<!-- pdf page 8 -->
+<!-- page 20 (pdf 8) -->
 
 > [table] 20 / Social and Political Life
 
@@ -182,7 +183,7 @@ As pointed out earlier, many Dalits organised themselves to gain entry into temp
 
 > [caption] Women at a rally demanding their rights
 
-<!-- pdf page 9 -->
+<!-- page 21 (pdf 9) -->
 
 When India became a nation in 1947 our leaders too were concerned about the different kinds of inequalities that existed. Those who wrote the Constitution of India, a document that laid out the rules by which the nation would function, were aware of the ways in which discrimination had been practised in our society and how people had struggled against this. Many leaders of these struggles such as Dr Ambedkar had also fought for the rights of the Dalits.
 
@@ -196,7 +197,7 @@ The writers of the Constitution also said that respect for diversity was a signi
 
 Therefore, India became a secular country where people of different religions and faiths have the freedom to practise and follow their religion without any fear of discrimination. This is seen as an important element of our unity – that we all live together and respect one other.
 
-<!-- pdf page 10 -->
+<!-- page 22 (pdf 10) -->
 
 > [table] 22 / Social and Political Life
 
@@ -226,7 +227,7 @@ c. One of the fastest athletes in the world
 
 d. She was not that well-off but had a dream
 
-<!-- pdf page 11 -->
+<!-- page 23 (pdf 11) -->
 
 2. How can the stereotype that girls are a burden on their parents affect the life of a daughter? Imagine this situation and list at least five different effects that this stereotype can have on the way daughters get treated in the house.
 

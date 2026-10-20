@@ -10,12 +10,13 @@ title: "Livelihoods"
 source_pdf: "pdfs/social-political-life-1/2023-12-23/ch07.pdf"
 source_sha256: "56000d32edaa62c40bae81b32c4c96155e6edcc4b49ae8fbc45cf8fe8f750fe1"
 pdf_pages: 11
+printed_pages: "58-68"
 body_fingerprint: "e512b6fbe8109f2f1d66a5ce67cb8d5a369c2d3e78a89b1e7ecd782e845709e6"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 58 (pdf 1) -->
 
-<!-- pdf page 2 -->
+<!-- page 59 (pdf 2) -->
 
 # UNIT - IV
 
@@ -23,7 +24,7 @@ body_fingerprint: "e512b6fbe8109f2f1d66a5ce67cb8d5a369c2d3e78a89b1e7ecd782e84570
 
 ## Livelihoods
 
-<!-- pdf page 3 -->
+<!-- page 60 (pdf 3) -->
 
 Chapter 7
 
@@ -37,7 +38,7 @@ In the first chapter we looked at the many kinds of diversity in our lives. We a
 
 3. In your notebook draw some pictures of work that you have seen people do in rural areas and write a few sentences that describe the work Kalpattu village K alpattu is a village that’s close to the sea coast in Tamil Nadu. People here do many kinds of work. As in other villages, here too there is non-farm work such as making baskets, utensils, pots, bricks, bullock-carts etc.
 
-<!-- pdf page 4 -->
+<!-- page 61 (pdf 4) -->
 
 There are people who provide services such as blacksmiths, nurses, teachers, washermen, weavers, barbers, cycle repair mechanics and so on. There are also some shopkeepers and traders. In the main street, which looks like a bazaar, you will find a variety of small shops such as tea shops, grocery shops, barber shops, a cloth shop, a tailor and two fertiliser and seed shops. There are four teashops, which sell tiffin – such as idli, dosai and upama in the morning and snacks like vadai, bonda and mysorepak in the evening. Near the teashops in a corner lives a blacksmith family whose home serves as their workshop. Next to their home is a cycle hire and repair shop. Two families earn a living by washing clothes. There are some people who go to the nearby town to work as construction workers and lorry drivers.
 
@@ -51,7 +52,7 @@ There are some coconut groves around. Cotton, sugar cane and plantain are also g
 
 Thulasi All of us here work on Ramalingam’s land. He has twenty acres of paddy fields in Kalpattu. Even before I was married I used to work on paddy fields in my parental village. I work from 8.30 in the morning till 4.30 in the evening and Karuthamma, Ramalingam’s wife, supervises us.
 
-<!-- pdf page 5 -->
+<!-- page 62 (pdf 5) -->
 
 > [table] 62 / Social and Political Life
 
@@ -87,7 +88,7 @@ My husband, Raman is also a labourer. We don’t own any land. During this time 
 
 Based on the above diagram would you say that Thulasi earns money throughout the year?
 
-<!-- pdf page 6 -->
+<!-- page 63 (pdf 6) -->
 
 As you saw in Thulasi’s story poor families in rural areas often spend a lot of time every day collecting firewood, getting water and grazing their cattle.
 
@@ -111,7 +112,7 @@ We also have a hybrid cow, whose milk we sell in the local milk cooperative. Thi
 
 As you’ve read above, very often farmers like Sekar need to borrow money to purchase basic things like seeds, fertilisers and pesticides. Often they borrow this money from moneylenders. If the seeds are not of good quality or pests attack their crop there can be a major crop failure.
 
-<!-- pdf page 7 -->
+<!-- page 64 (pdf 7) -->
 
 > [table] 64 / Social and Political Life
 
@@ -137,7 +138,7 @@ Read again Sekar’s and Thulasi’s accounts. What do they say about Ramalingam
 
 3. Apart from farming how else does he earn?
 
-<!-- pdf page 8 -->
+<!-- page 65 (pdf 8) -->
 
 Terrace Farming in Nagaland
 
@@ -161,7 +162,7 @@ From the figures given above would you say that a majority of the country’s fa
 
 We have looked at farming in Kalpattu. Apart from farming, many people in rural areas depend upon collection from the forest, animal husbandry, dairy produce, fishing etc. For example, in some villages in central India, both farming and collection from the forest are important sources of livelihood. Collecting mahua, tendu leaves, honey, to be sold to traders, is an important source of additional income.
 
-<!-- pdf page 9 -->
+<!-- page 66 (pdf 9) -->
 
 > [table] 66 / Social and Political Life
 
@@ -173,7 +174,7 @@ Similarly selling milk to the village cooperative society or taking milk to the 
 
 My husband Paarivelan, my brother and my brother-in-law returned late today. I was very worried. They go to the sea together in our catamaran. They said they were caught in a storm. I have kept aside some fish for the family. I will auction the rest. The money I get from the auction will be divided into four shares. One each for each person who went fishing and the fourth one is for the equipment. Since we own the catamaran, engine and nets, we get that share too. We have taken a loan from a bank and purchased an engine, which is fixed on to the catamaran. Now they can go far into the sea so that they can get a better catch.
 
-<!-- pdf page 10 -->
+<!-- page 67 (pdf 10) -->
 
 The women who buy fish here will carry them in baskets to be sold in nearby villages. Then there are others like traders who buy for the shops in the town. I’ll only finish this auction by noon. In the evening my husband and our relatives will untangle and repair our nets. Early tomorrow morning around 2 a.m. they will set out to sea again. Every year, for at least about four months during the monsoon, they cannot go to the sea because this is when the fish breed. During these months we survive by borrowing from the trader. Because of this, later on we are forced to sell the fish to that trader, and cannot do our auction. Those lean months are the most difficult. Last year we suffered a lot because of the tsunami.
 
@@ -191,7 +192,7 @@ revolves around certain seasons. People are busy during sowing and harvesting an
 
 How people are able to survive or earn will depend upon the land that they cultivate. Many depend on these lands for work as labourers. Most farmers grow crops both for their own requirements and also to sell in the market. Some have to sell to traders from whom they have borrowed money. For their survival, many families need to borrow money for their work or when no work is available. There are some families in rural areas which thrive on large acres of lands, business and other activities. However, most small farmers, agricultural labourers, fishing families, crafts persons in the villages do not find enough work to keep them employed throughout the year.
 
-<!-- pdf page 11 -->
+<!-- page 68 (pdf 11) -->
 
 > [table] 68 / Social and Political Life
 

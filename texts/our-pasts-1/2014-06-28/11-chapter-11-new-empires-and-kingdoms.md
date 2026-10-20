@@ -13,10 +13,11 @@ title: "CHAPTER 11 NEW EMPIRES AND KINGDOMS"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch11.pdf"
 source_sha256: "a1d9c93415340a29d5a7fca22fdb4a08c884fa9b4c239c4058b96200a5b8f87c"
 pdf_pages: 11
-body_fingerprint: "5998acb562c00250708e2a2c8ee19f1658f245c6d3dc03740af8bb5d3decb13a"
+printed_pages: "111-121"
+body_fingerprint: "4c302d637ad868d9198e2ba39f3ba501684ab77125b1e295c1336e6c317461a4"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 111 (pdf 1) -->
 
 # CHAPTER 11 NEW EMPIRES AND KINGDOMS
 
@@ -34,9 +35,7 @@ This inscription is of a special kind known as a prashasti, a Sanskrit word, mea
 
 Let us see what Samudragupta’s prashasti tells us. The poet praised the king in glowing terms — as a warrior, as a king who won victories in battle, who was learned and the best of poets. He is also described as equal to the gods. The prashasti was composed in very long sentences. Here is part of one such sentence:
 
-> [caption] 111
-
-<!-- pdf page 2 -->
+<!-- page 112 (pdf 2) -->
 
 ### Samudragupta the warrior
 
@@ -58,9 +57,7 @@ This map is based on the information provided in the prashasti. Harishena descri
 
 > [caption] The king who played the veena. Some other qualities of Samudragupta are shown on coins such as this one, where he is shown playing the veena.
 
-> [caption] 112
-
-<!-- pdf page 3 -->
+<!-- page 113 (pdf 3) -->
 
 Find Prayaga (the old name for Allahabad), Ujjain and Pataliputra (Patna) on the map. These were important centres of the Gupta rulers.
 
@@ -72,9 +69,7 @@ Can you suggest any reasons for this difference?
 
 > [caption] Kingdoms
 
-> [caption] 113
-
-<!-- pdf page 4 -->
+<!-- page 114 (pdf 4) -->
 
 ### Genealogies
 
@@ -90,9 +85,7 @@ While we can learn about the Gupta rulers from their inscriptions and coins, we 
 
 Harsha was not the eldest son of his father, but became king of Thanesar after both his father and elder brother died. His brother-in-law was the ruler of Kanauj (see Map 7) and he was killed by the ruler of Bengal. Harsha took over the kingdom of Kanauj, and then led an army against the ruler of Bengal.
 
-> [caption] 114
-
-<!-- pdf page 5 -->
+<!-- page 115 (pdf 5) -->
 
 Although he was successful in the east, and conquered both Magadha and Bengal, he was not as successful elsewhere. He tried to cross the Narmada to march into the Deccan, but was stopped by a ruler belonging to the Chalukya dynasty, Pulakeshin II.
 
@@ -108,9 +101,7 @@ The best-known Chalukya ruler was Pulakeshin II. We know about him from a prasha
 
 According to Ravikirti, he led expeditions along both the west and the east coasts. Besides, he checked the advance of Harsha. There is an interesting play of words in the poem. Harsha means happiness. The poet says that after this defeat, Harsha was no longer Harsha! Pulakeshin also attacked the Pallava king, who took shelter behind the walls of Kanchipuram.
 
-> [caption] 115
-
-<!-- pdf page 6 -->
+<!-- page 116 (pdf 6) -->
 
 But the Chalukya victory was short-lived. Ultimately, both the Pallavas and the Chalukyas gave way to new rulers belonging to the Rashtrakuta and Chola dynasties, about which you will study in Class VII.
 
@@ -128,9 +119,7 @@ There were some new developments as well. Kings adopted a number of steps to win
 
 - Besides, important men probably had a say in local administration. These included the nagara-shreshthi or chief banker or merchant of the city, the sarthavaha or leader of the merchant caravans, the prathama-kulika or the chief craftsman, and the head of the kayasthas or scribes.
 
-> [caption] 116
-
-<!-- pdf page 7 -->
+<!-- page 117 (pdf 7) -->
 
 These policies were reasonably effective, but sooner or later, some of these powerful men grew strong enough to set up independent kingdoms.
 
@@ -146,9 +135,7 @@ The inscriptions of the Pallavas mention a number of local assemblies. These inc
 
 The ur was a village assembly found in areas where the land owners were not brahmins. And the nagaram was an organisation of merchants. It is likely that these assemblies were controlled by rich and powerful landowners and merchants. Many of these local assemblies continued to function for centuries.
 
-> [caption] 117
-
-<!-- pdf page 8 -->
+<!-- page 118 (pdf 8) -->
 
 ### Ordinary people in the kingdoms
 
@@ -164,9 +151,7 @@ Do you think that if a poor man finds something and reports this to the police h
 
 Name a famous man who taught in Prakrit and a king who issued inscriptions in Prakrit (hint: see Chapters 7 and 8)
 
-> [caption] 118
-
-<!-- pdf page 9 -->
+<!-- page 119 (pdf 9) -->
 
 The Chinese pilgrim Fa Xian noticed the plight of those who were treated as untouchables by the high and mighty. They were expected to live on the outskirts of the city. He writes: “If such a man enters a town or a market place, he strikes a piece of wood, in order to keep himself separate; people, hearing this sound, know what it means and avoid touching him or brushing against him.”
 
@@ -186,9 +171,7 @@ Make a list of all the things that were carried with the army.
 
 What did the villagers bring for the king?
 
-> [caption] 119
-
-<!-- pdf page 10 -->
+<!-- page 120 (pdf 10) -->
 
 ### Elsewhere
 
@@ -216,11 +199,9 @@ Harshavardhana’s army will visit your village next week. Your parents are prep
 
 > [table] (b) The rulers of Aryavarta brought tribute for Samudragupta.
 
-> [table] 120
-
 > [table] (c) There were twelve rulers in Dakshinapatha.
 
-<!-- pdf page 11 -->
+<!-- page 121 (pdf 11) -->
 
 > [table] (d) Taxila and Madurai were important centres under the control of the Gupta rulers.
 
@@ -267,5 +248,3 @@ Harshavardhana’s army will visit your village next week. Your parents are prep
 - nagaram
 
 > [caption] SOME IMPORTANT DATES Beginning of the Gupta dynasty (about 1700 years ago) The rule of Harshavardhana (about 1400 years ago)
-
-- 121

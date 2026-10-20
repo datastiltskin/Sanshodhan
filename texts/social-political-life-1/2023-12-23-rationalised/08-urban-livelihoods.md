@@ -10,10 +10,11 @@ title: "Urban Livelihoods"
 source_pdf: "pdfs/social-political-life-1/2023-12-23/ch08.pdf"
 source_sha256: "a2aad2b176756c6fc3a9fc1826d73e9a612e8897b2e833e35d608333ba5e4c8c"
 pdf_pages: 10
+printed_pages: "69-78"
 body_fingerprint: "23ffaa54134a84d9f9b40d363f5e166348c960039ce77e937a116c9c0d80a10f"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 69 (pdf 1) -->
 
 Chapter 8
 
@@ -25,7 +26,7 @@ Chapter 8
 
 3. Some parts of the city are different from others. What differences do you notice in this illustration?
 
-<!-- pdf page 2 -->
+<!-- page 70 (pdf 2) -->
 
 > [table] 70 / Social and Political Life
 
@@ -33,7 +34,7 @@ Working on the Street T his is the city where my cousin lives. I’ve been here 
 
 There are more than five thousand towns and twenty seven big cities in India. Big cities like Chennai, Mumbai, Delhi, Kolkata etc. have more than a million people living and working here. They say that ‘the city never sleeps!’ Let’s visit one and find out about the work people do in the city. Are they employed by someone or are they self-employed? How do they organise themselves? And do they have similar employment and earning opportunities?
 
-<!-- pdf page 3 -->
+<!-- page 71 (pdf 3) -->
 
 We bought a red rose and a yellow rose. On the pavement opposite we saw a person selling newspapers with a small crowd of people around him. Everyone wanted to read the news! Buses whizzed past and there were auto-rickshaws filled with school-children. Nearby, under a tree, a cobbler sat taking his tools and materials out of a small tin box. Next to him the roadside barber had begun his work: he already had a customer who wanted an early-morning shave!
 
@@ -53,7 +54,7 @@ take rides of up to 6 kilometres in the surrounding area. Each customer gives me
 
 I stay with my friends in a rented room. They work in a nearby factory. I earn between Rs. 200-300 every day, out of which I spend Rs. 100-150 on food and rent. The rest I save for my family. I visit my village two or three times a year to see my family. Though my family survives on the money I send, my wife also earns from agricultural work that she gets once in a while.
 
-<!-- pdf page 4 -->
+<!-- page 72 (pdf 4) -->
 
 > [table] 72 / Social and Political Life
 
@@ -75,7 +76,7 @@ Vendors sell things that are often prepared at home by their families who purcha
 
 > [caption] Often workers who make a living in the city are forced to set up their homes on the street as well. Below is a space where several workers leave their belongings during the day and cook their meals at night.
 
-<!-- pdf page 5 -->
+<!-- page 73 (pdf 5) -->
 
 There are almost one crore ‘street vendors’ in the country working in urban areas. Street vending was till recently looked upon only as an obstruction to traffic and to people walking. However with the effort of many organisations it is now recognised as a general benefit and as a right of people to earn their livelihood. The government is thinking about modifying the law that banned street vendors, so that they have a place to work and that there is also a free flow of traffic and people. Hawking zones have been suggested for towns and cities. It has also been suggested that mobile vendors should be allowed to move around freely. Hawkers need to be part of committees that are set up to take these and other decisions relating to them.
 
@@ -93,7 +94,7 @@ Harpreet and Vandana: Businesspersons My father and uncle worked in a small shop
 
 We opened this showroom some years ago. I’m a dress designer. Our business has changed. These days people prefer to buy readymade clothes, rather than have them stitched. The trend these days is for readymade garments. You also need an attractive display for them. (Vandana)
 
-<!-- pdf page 6 -->
+<!-- page 74 (pdf 6) -->
 
 > [table] 74 / Social and Political Life
 
@@ -115,7 +116,7 @@ I wanted to have zari work done on one of my dresses which I needed for a specia
 
 There were a large number of people sitting on railings or in groups at the crossing. They seemed to be waiting for someone. Some groups had people on scooters standing by and talking with them. My cousin explained that this place was called “labour chowk”. These were daily wage labourers who work as helpers to masons. They dig at construction sites, lift loads or unload trucks in the market, dig pipelines and telephone cables and also build roads. There are thousands of such casual workers in the city.
 
-<!-- pdf page 7 -->
+<!-- page 75 (pdf 7) -->
 
 > [caption] At labour chowk, daily wage workers wait with their tools for people to come and take them for work.
 
@@ -129,7 +130,7 @@ Nirmala works as a tailor in an export garment unit. The factory where she works
 
 Most workers, like Nirmala, are employed on what is known as casual basis i.e. they are required to come as and when the employer needs them.They are employed when the employer gets large orders or during certain seasons. At other times of the year they have to find some other work.
 
-<!-- pdf page 8 -->
+<!-- page 76 (pdf 8) -->
 
 > [table] 76 / Social and Political Life
 
@@ -149,7 +150,7 @@ My aunt, Sudha works as a Marketing Manager. She had asked us to reach her offic
 
 My aunt is a marketing manager in a company which manufactures biscuits. The factory where the biscuits are made is outside the city. She supervises the work of Medical facilities for her family: Her company pays the medical expenses up to a certain amount for her and her family members. She gets medical leave if she falls ill and her salary is not cut if she takes this leave.
 
-<!-- pdf page 9 -->
+<!-- page 77 (pdf 9) -->
 
 > [table] Urban Livelihoods / 77
 
@@ -177,7 +178,7 @@ Most workers that we find at the labour chowk cannot afford permanent accommodat
 
 Source: Aman Sethi, Hindu On-line
 
-<!-- pdf page 10 -->
+<!-- page 78 (pdf 10) -->
 
 > [table] 78 / Social and Political Life
 
@@ -211,7 +212,7 @@ Name of the shop or office Nature of the service provided
 
 > [caption] Work on their own
 
-<!-- pdf page 1 of references.pdf -->
+<!-- page 79 (pdf 1 of references.pdf) -->
 
 Urban Livelihoods / 79
 
@@ -235,6 +236,6 @@ Chapter 6 Monteiro, Anjali. 1994. Reflections on My Family, Tata Institute of So
 
 Chapter 9 Breman, Jan and Parthiv Shah. 2004. Working in the Mill No More. Oxford University Press, Delhi.
 
-<!-- pdf page 2 of references.pdf -->
+<!-- page 80 (pdf 2 of references.pdf) -->
 
 ## Notes

@@ -9,10 +9,11 @@ title: "Urban Livelihoods"
 source_pdf: "pdfs/social-political-life-1/2019-05-04/ch09.pdf"
 source_sha256: "2e11fa95c742ed2a50d3dd0a36dbb0862f7e195d1610a8593bbeb37d2c87ae12"
 pdf_pages: 10
+printed_pages: "76-85"
 body_fingerprint: "30b783c4df35271e19591b977baf01b49c2dc790ee509dd8b1ba6f3e03556dbe"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 76 (pdf 1) -->
 
 Chapter 9
 
@@ -24,7 +25,7 @@ Chapter 9
 
 3. Some parts of the city are different from others. What differences do you notice in this illustration?
 
-<!-- pdf page 2 -->
+<!-- page 77 (pdf 2) -->
 
 ### Working on the Street
 
@@ -34,7 +35,7 @@ This is the city where my cousin lives. I've been here only a few times. It is v
 
 There are more than five thousand towns and twenty seven big cities in India. Big cities like Chennai, Mumbai, Delhi, Kolkata etc. have more than a million people living and working here. They say that 'the city never sleeps!' Let's visit one and find out about the work people do in the city. Are they employed by someone or are they self-employed? How do they organise themselves? And do they have similar employment and earning opportunities?
 
-<!-- pdf page 3 -->
+<!-- page 78 (pdf 3) -->
 
 > [table] 78 / Social and Political Life
 
@@ -56,7 +57,7 @@ rides of up to 6 kilometres in the surrounding area. Each customer gives me Rs. 
 
 I stay with my friends in a rented room. They work in a nearby factory. I earn between Rs. 80-100 every day, out of which I spend Rs. 50-60 on food and rent. The rest I save for my family. I visit my village two or three times a year to see my family. Though my family survives on the money I send, my wife also earns from agricultural work that she gets once in a while.
 
-<!-- pdf page 4 -->
+<!-- page 79 (pdf 4) -->
 
 1. Why did Bachchu Manjhi come to the city? 2. Why can't Bachchu Manjhi live with his family? 3. Talk to a vegetable vendor or hawker and find out how do they organise their work, their way of preparing, purchasing, selling etc. 4. Bachchu Manjhi has to think twice before taking a day off from work. Why?
 
@@ -70,7 +71,7 @@ Vendors sell things that are often prepared at home by their families who purcha
 
 > [caption] Often workers who make a living in the city are forced to set up their homes on the street as well. Below is a space where several workers leave their belongings during the day and cook their meals at night.
 
-<!-- pdf page 5 -->
+<!-- page 80 (pdf 5) -->
 
 > [table] 80 / Social and Political Life
 
@@ -92,7 +93,7 @@ We opened this showroom some years ago. I'm a dress designer. Our business has c
 
 For our showroom, we buy things from different places. We buy most of the materials from Mumbai, Ahmeda-bad, Ludhiana and Tripura. Some materials also come from Noida and Gurgaon, towns near Delhi. We get some dress items from foreign countries, too.
 
-<!-- pdf page 6 -->
+<!-- page 81 (pdf 6) -->
 
 There are several things we need to do to run this showroom properly. We advertise in various newspapers, cinema theatres, television and radio channels. Currently, this building is rented but soon, we plan to buy it. Ever since this market has become the main market for people living in the surrounding apartments our business has grown. We've been able to buy a car and book a flat in an apartment complex nearby.
 
@@ -108,7 +109,7 @@ I wanted to have zari work done on one of my dresses which I needed for a specia
 
 There were a large number of people sitting on railings or in groups at the crossing. They seemed to be waiting for someone. Some groups had people on scooters standing by and talking with them. My cousin explained that this place was called "labour chowk". These were daily wage labourers who work as helpers to masons. They dig at construction sites, lift loads or unload trucks in the market, dig pipelines and telephone cables and also build roads. There are thousands of such casual workers in the city.
 
-<!-- pdf page 7 -->
+<!-- page 82 (pdf 7) -->
 
 > [table] 82 / Social and Political Life
 
@@ -122,7 +123,7 @@ Nirmala works as a tailor in an export garment unit. The factory where she works
 
 Most workers, like Nirmala, are employed on what is known as casual basis i.e. they are required to come as and when the employer needs them. They are employed when the employer gets large orders or during certain seasons. At other times of the year they have to find some other work.
 
-<!-- pdf page 8 -->
+<!-- page 83 (pdf 8) -->
 
 Jobs like Nirmala's are not permanent. If workers complain about their pay or working conditions they are asked to leave. There is no job security or protection if there is ill treatment. They are also expected to work very long hours. For example in the cloth mill units the workers work on day and night shifts, with each shift lasting 12 hours. One worker works on one machine for 12 hours and then is replaced by another on the same machine for the next 12 hours.
 
@@ -138,7 +139,7 @@ My aunt, Sudha works as a Marketing Manager. She had asked us to reach her offic
 
 My aunt is a marketing manager in a company which manufactures biscuits. The factory where the biscuits are made is outside the city. She supervises the work of 50 salespersons who travel to different parts of the city. They get orders from shopkeepers and collect payments from them. She has divided the city into six regions and once a week she meets the salespersons of each region. She checks their progress report and discusses problems they face. She has to plan the sales in the entire city and often has to work late and travel to different places.
 
-<!-- pdf page 9 -->
+<!-- page 84 (pdf 9) -->
 
 > [table] 84 / Social and Political Life
 
@@ -164,7 +165,7 @@ Holidays: She gets off on Sundays and national holidays. She also gets some days
 
 > [table] Source: Aman Sethi, Hindu On-line
 
-<!-- pdf page 10 -->
+<!-- page 85 (pdf 10) -->
 
 > [table] Urban Livelihoods / 85
 

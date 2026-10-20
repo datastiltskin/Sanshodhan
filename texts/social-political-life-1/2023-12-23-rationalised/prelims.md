@@ -4,7 +4,7 @@ edition: "2023-12-23-rationalised"
 source_pdf: "pdfs/social-political-life-1/2023-12-23/prelims.pdf"
 ---
 
-<!-- pdf page 1 -->
+<!-- page -9 (pdf 1) -->
 
 # SOCIAL SCIENCE
 
@@ -12,7 +12,7 @@ source_pdf: "pdfs/social-political-life-1/2023-12-23/prelims.pdf"
 
 ## Textbook for Class VI
 
-<!-- pdf page 2 -->
+<!-- page -8 (pdf 2) -->
 
 > [caption] PD 525T RSP
 
@@ -50,7 +50,7 @@ source_pdf: "pdfs/social-political-life-1/2023-12-23/prelims.pdf"
 
 > [caption] Layout Sohan Pal, Mrityunjay Chatterjee
 
-<!-- pdf page 3 -->
+<!-- page -7 (pdf 3) -->
 
 Foreword
 
@@ -62,11 +62,11 @@ These aims imply considerable change in school routines and mode of functioning.
 
 National Council of Educational Research and Training (NCERT) appreciates the hard work done by the textbook development committee responsible for this book. We wish to thank the Chairperson of the advisory committee for Social Science textbooks at the Upper Primary Level, Professor Hari Vasudevan and the Chief Advisor for this book, Sarada Balagopalan, for guiding the work of this committee. Several teachers contributed to the development of this textbook; we are grateful to their principals for making this possible. We are iv indebted to the institutions and organisations which have generously permitted us to draw upon their resources, material and personnel. We are especially grateful to the members of the National Monitoring Committee, appointed by the Department of Secondary and Higher Education, Ministry of Human Resource Development under the Chairpersonship of Professor Mrinal Miri and Professor G.P. Deshpande, for their valuable time and contribution. As an organisation committed to the systemic reform and continuous improvement in the quality of its products, NCERT welcomes comments and suggestions which will enable us to undertake further revision and refinement.
 
-<!-- pdf page 4 -->
+<!-- page -6 (pdf 4) -->
 
 Director New Delhi National Council of Educational 20 December 2005 Research and Training Rationalisation of Content in the Textbooks In view of the COVID-19 pandemic, it is imperative to reduce content load on students. The National Education Policy 2020, also emphasises reducing the content load and providing opportunities for experiential learning with creative mindset. In this background, the NCERT has undertaken the exercise to rationalise the textbooks across all classes. Learning Outcomes already developed by the NCERT across classes have been taken into consideration in this exercise. Contents of the textbooks have been rationalised in view of the following:
 
-<!-- pdf page 5 -->
+<!-- page -5 (pdf 5) -->
 
 - Overlapping with similar content included in other subject areas in the same class
 
@@ -80,9 +80,9 @@ Director New Delhi National Council of Educational 20 December 2005 Research and
 
 This present edition, is a reformatted version after carrying out the changes given above.
 
-<!-- pdf page 6 -->
+<!-- page -4 (pdf 6) -->
 
-<!-- pdf page 7 -->
+<!-- page -3 (pdf 7) -->
 
 Textbook Development Committee
 
@@ -96,7 +96,7 @@ Hari Vasudevan, Professor, Department of History, University of Calcutta, Kolkat
 
 > [caption] Member-Coordinator
 
-<!-- pdf page 8 -->
+<!-- page -2 (pdf 8) -->
 
 ## Constitution of India
 
@@ -132,7 +132,7 @@ It shall be the duty of every citizen of India —
 
 > [caption] *(k) was inserted by the Constitution (86th Amendment) Act, 2002 (with effect from 1 April 2010).
 
-<!-- pdf page 9 -->
+<!-- page -1 (pdf 9) -->
 
 Acknowledgments
 
@@ -184,7 +184,7 @@ Children bring in a lot of what happens in the outside world to the classroom. T
 
 This book is divided into four sections that focus on different concepts i.e. diversity, government, local government and administration and livelihoods. Each section contains chapters that elaborate and expand on these concepts.
 
-<!-- pdf page 11 -->
+<!-- page 1 (pdf 11) -->
 
 xi
 
@@ -218,7 +218,7 @@ The third is to allow the student to recall and make connections with what has b
 
 > [caption] The decision of the Indian government to maintain peaceful relations with Russia The decision of the West Bengal Government on whether to have Board exam in Class 8 for all government schools. Introduction of two new train connections between Jammu and Bhubaneswar.
 
-<!-- pdf page 12 -->
+<!-- page 2 (pdf 12) -->
 
 xii xiii xiv
 
@@ -264,7 +264,7 @@ Questions also ask the student to imagine a situation that they have read about 
 
 > [caption] Adapted from Indian Express, May 1, 2004 a. Why was Bhagvan beaten? b. Do you think that the above is a case of discrimination? Why?
 
-<!-- pdf page 13 -->
+<!-- page 3 (pdf 13) -->
 
 > [caption] 7. Discuss:
 
@@ -292,7 +292,7 @@ This book uses several narratives, both fiction and non-fiction, to enable the c
 
 > [caption] Do you think you would enjoy living in a place like this? List five different things that you would miss the most if you lived here.
 
-<!-- pdf page 14 -->
+<!-- page 4 (pdf 14) -->
 
 V. Use of Images
 
@@ -306,7 +306,7 @@ A textbook is important but only one among many sources that can be used in a cl
 
 > [caption] Not bad! One of the taps in the nearby village must be getting water!
 
-<!-- pdf page 15 -->
+<!-- page 5 (pdf 15) -->
 
 ## CONTENTS
 
@@ -330,7 +330,7 @@ Chapter 4 Panchayati Raj 36 Chapter 5 Rural Administration 42 Chapter 6 Urban Ad
 
 Chapter 7 Rural Livelihoods 60 Chapter 8 Urban Livelihoods 69 References 79
 
-<!-- pdf page 16 -->
+<!-- page 6 (pdf 16) -->
 
 THE CO ONSTITUTIO ON INDIA
 

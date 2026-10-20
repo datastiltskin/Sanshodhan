@@ -9,10 +9,11 @@ title: "Rural Livelihoods"
 source_pdf: "pdfs/social-political-life-1/rungtaias-undated/ch08.pdf"
 source_sha256: "133b0dd9ce829ed0b5f27cd7651ae9697ee0acf41e60db05eb37e119144b345b"
 pdf_pages: 9
+printed_pages: "67-75"
 body_fingerprint: "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 67 (pdf 1) -->
 
 Chapter 8
 
@@ -26,7 +27,7 @@ In the first chapter we looked at the many kinds of diversity in our lives. We a
 
 3. In your notebook draw some pictures of work that you have seen people do in rural areas and write a few sentences that describe the work.
 
-<!-- pdf page 2 -->
+<!-- page 68 (pdf 2) -->
 
 > [table] 68 / Social and Political Life
 
@@ -46,7 +47,7 @@ Thulasi
 
 All of us here work on Ramalingam's land. He has twenty acres of paddy fields in Kalpattu. Even before I was married I used to work on paddy fields in my parental village. I work from 8.30 in the morning till 4.30 in the evening and Karuthamma, Ramalingam's wife, supervises us.
 
-<!-- pdf page 3 -->
+<!-- page 69 (pdf 3) -->
 
 This is one of the few times in the year that I find regular work. Now I am transplanting the paddy, when the plants have grown a bit Ramalingam will call us again for weeding and then finally once again for the harvesting.
 
@@ -74,7 +75,7 @@ Our school-going daughters are the joy of our lives. Last year, one of them fell
 
 1. Describe the work that Thulasi does. How is it different from the work Raman does? 2. Thulasi gets paid very little money for the work she does. Why do you think agricultural labourers like her are forced to accept low wages? 3. In what ways would her way of earning a living have been different if Thulasi owned some farm land? Discuss. 4. What are the crops grown in your region or nearby rural area? What kinds of work do agricultural labourers do?
 
-<!-- pdf page 4 -->
+<!-- page 70 (pdf 4) -->
 
 > [table] 70 / Social and Political Life
 
@@ -100,7 +101,7 @@ On being in Debt
 
 As you've read above, very often farmers like Sekar need to borrow money to purchase basic things like seeds, fertilisers and pesticides. Often they borrow this money from moneylenders. If the seeds are not of good quality or pests attack their crop there can be a major crop failure.
 
-<!-- pdf page 5 -->
+<!-- page 71 (pdf 5) -->
 
 > [table] Rural Livelihoods / 71
 
@@ -120,7 +121,7 @@ Read again Sekar’s and Thulasi’s accounts. What do they say about Ramalingam
 
 3. Apart from farming how else does he earn?
 
-<!-- pdf page 6 -->
+<!-- page 72 (pdf 6) -->
 
 > [table] 72 / Social and Political Life
 
@@ -144,7 +145,7 @@ From the figures given above would you say that a majority of the country's farm
 
 We have looked at farming in Kalpattu. Apart from farming, many people in rural areas depend upon collection from the forest, animal husbandry, dairy produce, fishing etc. For example, in some villages in central India, both farming and collection from the forest are important sources of livelihood. Collecting mahua, tendu leaves, honey, to be sold to traders, is an important source of additional income.
 
-<!-- pdf page 7 -->
+<!-- page 73 (pdf 7) -->
 
 Similarly selling milk to the village cooperative society or taking milk to the nearby town may be the main source of livelihood for some families. In the coastal areas, we find fishing villages. Let us find out more about the lives of a fishing family by reading about Aruna and Paarivelan who live in Pudupet, a village close to Kalpattu.
 
@@ -158,7 +159,7 @@ Not very far from Kalpattu is the village of Pudupet. People here earn their liv
 
 My husband Paarivelan, my brother and my brother-in-law returned late today. I was very worried. They go to the sea together in our catamaran. They said they were caught in a storm. I have kept aside some fish for the family. I will auction the rest. The money I get from the auction will be divided into four shares. One each for each person who went fishing and the fourth one is for the equipment. Since we own the catamaran, engine and nets, we get that share too. We have taken a loan from a bank and purchased an engine, which is fixed on to the catamaran. Now they can go far into the sea so that they can get a better catch.
 
-<!-- pdf page 8 -->
+<!-- page 74 (pdf 8) -->
 
 > [table] 74 / Social and Political Life
 
@@ -174,7 +175,7 @@ People in rural areas earn their living in various ways. Some work on farms whil
 
 How people are able to survive or earn will depend upon the land that they cultivate. Many depend on these lands for work as labourers. Most farmers grow crops both for their own requirements and also to sell in the market. Some have to sell to traders from whom they have borrowed money. For their survival, many families need to borrow money for their work or when no work is available. There are some families in rural areas which thrive on large acres of lands, business and other activities. However, most small farmers, agricultural labourers, fishing families, crafts persons in the villages do not find enough work to keep them employed throughout the year.
 
-<!-- pdf page 9 -->
+<!-- page 75 (pdf 9) -->
 
 > [table] Rural Livelihoods / 75
 

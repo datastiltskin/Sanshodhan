@@ -9,10 +9,11 @@ title: "Panchayati Raj"
 source_pdf: "pdfs/social-political-life-1/rungtaias-undated/ch05.pdf"
 source_sha256: "3c88e2a1d0f171d4e99c3dea62221e13ff2488666365374995bebf5b492ea81b"
 pdf_pages: 6
+printed_pages: "43-48"
 body_fingerprint: "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 43 (pdf 1) -->
 
 Chapter 5
 
@@ -30,7 +31,7 @@ The Gram Sabha meeting begins with the Panchayat President (who is also called t
 
 The Gram Sabha is a meeting of all adults who live in the area covered by a Panchayat. This could be only one village or a few villages. In some states, as in the example above, a village meeting is held for each village. Anyone who is 18 years old or more and who has the right to vote is a member of the Gram Sabha.
 
-<!-- pdf page 2 -->
+<!-- page 44 (pdf 2) -->
 
 > [table] 44 / Social and Political Life
 
@@ -52,7 +53,7 @@ In his brother's village people had planted trees, constructed check-dams and ta
 
 The next item on the agenda for the Gram Sabha is the finalisation of the list of people below the poverty line (BPL) which had to be approved by the Gram Sabha. As soon as the list is read out people begin to whisper. "Natwar has just bought a colour T.V. and his son has sent him a new motorcycle. How can he be below the poverty line?" Soorajmal mutters to the person sitting next to him. Saroj says to Sukhi bai "How did Birju's name get on to the list? He has so much land. This list should have only poor people. And Om Prakash is a landless labourer who can barely make ends meet, yet his name is not on the list." "You know that both Natwar and Birju are friends of Amirchand. Who can counter Amirchand's power?” Sukhi bai says, "Amirchand was the earlier Zamindar (landowner) of the village and still has control over a lot of land. But we should get Om Prakash's name put in."
 
-<!-- pdf page 3 -->
+<!-- page 45 (pdf 3) -->
 
 The Sarpanch (Panchayat Presi-dent) notices people whispering and asks if anyone has anything to say. Saroj tries to provoke Soorajmal to ask about Natwar and Birju. But he keeps quiet. Amirchand is sitting in the Gram Sabha keeping an eye on everyone. Then Saroj gets up and says that Om Prakash's name should be in the BPL list. Others agree that he and his family are very poor. The Sarpanch asks how his name had been missed out. The teacher who did the survey of BPL families says, "Om Prakash's house was locked when I went there. He may have gone somewhere to look for work." The Sarpanch gives instructions that Om Prakash's family income be looked at and if it is less than what has been decided by the government, his name should be included in the list.
 
@@ -62,7 +63,7 @@ The Gram Sabha is a key factor in making the Gram Panchayat play its role and be
 
 1. Was there a problem with the BPL list that the Gram Sabha was finalising? What was this problem? 2. Why do you think Soorajmal kept quiet even though Saroj asked him to speak? 3. Have you seen any similar incidents when people are unable to speak for themselves? Why do you think that happened and what prevented the person from speaking? 4. How can the Gram Sabha prevent the Panchayat from doing what it likes?
 
-<!-- pdf page 4 -->
+<!-- page 46 (pdf 4) -->
 
 > [table] 46 / Social and Political Life
 
@@ -86,7 +87,7 @@ Do you remember the options that were suggested to solve the water problem in th
 
 Gram Panchayat members first discussed the suggestion to deepen two handpumps and clean one well, so that the village would not go without water. The Sarpanch (Panchayat President) suggested that since the Panchayat had received some money for maintenance of handpumps, this could be used for completing this work. The members agreed and the Secretary recorded their decision.
 
-<!-- pdf page 5 -->
+<!-- page 47 (pdf 5) -->
 
 The members then went on to discuss the options for a long-term solution. They were sure that the Gram Sabha members would ask questions at the next meeting. Some Panchs asked whether the watershed programme would make a substantial difference to the water level. A lot of discussion followed. In the end it was decided that the Gram Panchayat would approach the Block Development Officer and get more information on the scheme.
 
@@ -106,7 +107,7 @@ After reading about what happened in the Gram Sabha and the Gram Panchayat in Ha
 
 This idea of people's participation in the Panchayati Raj system extends to two other levels. One is the Block level, which is called the Janpad Panchayat or the Panchayat Samiti. The Panchayat Samiti has many Gram Panchayats under it. Above the Panchayat Samiti is the District Panchayat or the Zila Parishad. The Zila Parishad actually makes developmental plans at the district level. With the help of Panchayat Samitis, it also regulates the money distribution among all the Gram Panchayats.
 
-<!-- pdf page 6 -->
+<!-- page 48 (pdf 6) -->
 
 > [table] 48 / Social and Political Life
 

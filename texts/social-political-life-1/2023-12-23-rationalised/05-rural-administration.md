@@ -10,10 +10,11 @@ title: "Rural Administration"
 source_pdf: "pdfs/social-political-life-1/2023-12-23/ch05.pdf"
 source_sha256: "8e5f7eb04f91a1a6c5f130e9acb7dd29668f5390ff18ace159e9a7436428968e"
 pdf_pages: 8
+printed_pages: "42-49"
 body_fingerprint: "63c632c8aa5914f7be0b40ef654bd03e6555d738ae6af8c5324d56bfbe6671d2"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 42 (pdf 1) -->
 
 Chapter 5
 
@@ -35,7 +36,7 @@ He was badly hurt on his head and hand. He was given first aid by one of his nei
 
 After much discussion it was decided that Mohan would go to the police station along with some of the neighbours who had seen the incident.
 
-<!-- pdf page 2 -->
+<!-- page 43 (pdf 2) -->
 
 ### Area of the Police Station
 
@@ -65,7 +66,7 @@ Show the above situation in the police station through a skit.
 
 Then talk about how you felt playing Mohan’s role or that of the S.H.O or the neighbours. Could the S.H.O have handled the situation differently?
 
-<!-- pdf page 3 -->
+<!-- page 44 (pdf 3) -->
 
 > [table] 44 / Social and Political Life
 
@@ -89,7 +90,7 @@ How do people in the village contact him/her?
 
 The Patwari is also responsible for organising the collection of land revenue from the farmers and providing information to the government about the crops grown in this area. This is done from the records that are kept, and this is why it’s important for the Patwari to regularly update these. Farmers may change the crops grown on their fields or someone may dig a well somewhere, Khasra 5
 
-<!-- pdf page 4 -->
+<!-- page 45 (pdf 4) -->
 
 > [table] Rural Administration / 45
 
@@ -167,7 +168,7 @@ Legand and keeping track of all this is the work of the revenue department of th
 
 > [caption] Tree
 
-<!-- pdf page 5 -->
+<!-- page 46 (pdf 5) -->
 
 > [table] 46 / Social and Political Life
 
@@ -181,7 +182,7 @@ A daughter’s wish Father inherited our house from his father And everyone says
 
 > [caption] Anjali Monteiro,TISS)
 
-<!-- pdf page 6 -->
+<!-- page 47 (pdf 6) -->
 
 > [table] Rural Administration / 47
 
@@ -205,11 +206,11 @@ Do the following exercise for your village/by visiting a nearby village or looki
 
 List the public services in the village/area such as: the milk society, the fair price shop, the bank, the police station, the agricultural society for seeds and fertiliser, the post office or sub post office, the anganwadi, crèche, government school/s, health centre or government hospital etc. Collect information on three public services and discuss with your teacher how improvements can be made in their functioning. One example has been worked out.
 
-<!-- pdf page 7 -->
+<!-- page 48 (pdf 7) -->
 
 > [table] 48 / Social and Political Life
 
-<!-- pdf page 8 -->
+<!-- page 49 (pdf 8) -->
 
 > [table] Rural Administration / 49
 

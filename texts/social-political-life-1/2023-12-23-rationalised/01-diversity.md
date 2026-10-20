@@ -10,10 +10,11 @@ title: "Diversity"
 source_pdf: "pdfs/social-political-life-1/2023-12-23/ch01.pdf"
 source_sha256: "01ab52752dbe674d62c5e14e3732fd1d2131899ce9fed34f2fe5ef43c54f221c"
 pdf_pages: 12
+printed_pages: "1-12"
 body_fingerprint: "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993ff48"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 1 (pdf 1) -->
 
 # UNIT - I
 
@@ -21,7 +22,7 @@ body_fingerprint: "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993f
 
 ## Diversity
 
-<!-- pdf page 2 -->
+<!-- page 2 (pdf 2) -->
 
 ## National Anthem of India
 
@@ -47,7 +48,7 @@ They pray for thy blessings and sing thy praise. The saving of all people waits 
 
 > [caption] Note: “Jana Gana Mana” was translated by Gurudev Rabindranath Tagore from Bengali to English in February 1919 at Madanapalle in the District of Chittoor. (Source: www.btcollege.org)
 
-<!-- pdf page 3 -->
+<!-- page 3 (pdf 3) -->
 
 Chapter 1
 
@@ -59,7 +60,7 @@ All these different people, who come from all kinds of backgrounds, and belong t
 
 Three children around your age have drawn the figures above. Use the empty box to draw your human figure. Is your drawing similar to any of the others? The chances are that your drawing is quite different from the other three, which you can see are quite different from each other. This is because each one of us has a unique drawing style. We not only don’t look exactly like each other but also differ in terms of the language we speak, our cultural backgrounds, the religious rituals we observe and, of course the way we draw!
 
-<!-- pdf page 4 -->
+<!-- page 4 (pdf 4) -->
 
 > [table] 4 / Social and Political Life
 
@@ -85,7 +86,7 @@ He paused. “But you look so…so angrez,” he said. “You mean you can even 
 
 “Subjects?” he asked. How could I explain what a subject was to someone who had never been to school? “Well, it is something…” I began, but the lights changed, and the honking behind me grew a hundredfold and I let myself be pushed along with the rest of the traffic.
 
-<!-- pdf page 5 -->
+<!-- page 5 (pdf 5) -->
 
 The next day he was there again, smiling at me and holding out a Hindi paper. “Bhaiyya,” he said, “aap ka akhbaar. Ab Bathaaiye yeh subject kya cheez hai?” the English word sounded strange on his tongue. It sounded like its other meaning in English – to be ruled by someone else.
 
@@ -111,7 +112,7 @@ While Samir Ek is more familiar with English, Samir Do speaks Hindi. Although th
 
 Samir Ek and Samir Do also come from different religious and cultural backgrounds. While Samir Ek is a Hindu, Samir Do is a Muslim. Different religious and cultural backgrounds such as these are an aspect of diversity.
 
-<!-- pdf page 6 -->
+<!-- page 6 (pdf 6) -->
 
 > [table] 6 / Social and Political Life
 
@@ -139,7 +140,7 @@ Make a list of the food that you have eaten from different parts of India.
 
 Make a list of the languages besides your mother tongue that you can speak at least one or two words of.
 
-<!-- pdf page 7 -->
+<!-- page 7 (pdf 7) -->
 
 You probably like reading and hearing stories and adventures about different animals, people and even ghosts. Perhaps you even enjoy making up stories yourself ! Many young people feel happy when they read a good story because it gives them lots of ideas to make up more stories. People who write stories get their ideas from all sorts of different places – from books, and real life and from their imagination.
 
@@ -159,7 +160,7 @@ India is a country of many diversities. We speak different languages, have vario
 
 How do we explain Diversity? A little more than two hundred years ago or long before the train, aeroplane, bus or car became a part of our lives, people travelled from one part of the world to another, in ships, on horses, on camels or on foot.
 
-<!-- pdf page 8 -->
+<!-- page 8 (pdf 8) -->
 
 > [table] 8 / Social and Political Life
 
@@ -189,7 +190,7 @@ Similarly diversity also comes about when people adapt their lives to the geogra
 
 Sometimes, as they began to make their homes in new places, people began to change a little and at other times they managed to do things in the old ways. So their languages, food, Not only do people have different clothing and eating habits, but even the kinds of work they do are different. In cities it is often easy to forget how closely people’s lives are tied to their physical surroundings. This is because in the city people seldom grow their own vegetables and grain. Instead they depend on the market to buy all the food and other goods that they need.
 
-<!-- pdf page 9 -->
+<!-- page 9 (pdf 9) -->
 
 Let us try to understand what we mean when we say that historical and geographical factors influence the diversity of a region. We can do this by reading about life in two different parts of the country, Kerala and Ladakh.
 
@@ -207,7 +208,7 @@ People here keep sheep and goats. The goats in this region are special because t
 
 The people eat meat and milk products like cheese and butter. Each family owns some goats, cows and dzos (yak-cows). Being a desert did not mean that Ladakh did not attract its share of traders. It was considered a good trade route as it had many passes through which caravans travelled to what is today called Tibet. These caravans carried textiles and spices, raw silk and carpets.
 
-<!-- pdf page 10 -->
+<!-- page 10 (pdf 10) -->
 
 > [table] 10 / Social and Political Life
 
@@ -227,7 +228,7 @@ The fishing nets used here look exactly like the Chinese fishing nets and are ca
 
 > [caption] The boat race is an important part of the Onam festival celebrated in Kerala.
 
-<!-- pdf page 11 -->
+<!-- page 11 (pdf 11) -->
 
 While Kerala and Ladakh are quite different in terms of their geographical features, the history of both regions has seen similar cultural influences. Both regions were influenced by Chinese and Arab traders. It was the geography of Kerala which allowed for the cultivation of spices and the special geographical location of Ladakh and its wool that drew traders to these regions. Thus history and geography are often tied in the cultural life of a region.
 
@@ -247,7 +248,7 @@ In the midst of your happiness remember to shed a tear for us The hunter has tor
 
 This song was sung after the Jallianwala Bagh massacre in Amritsar in which a British general opened fire on a large group of unarmed, peaceful people killing many and wounding even more. Men and women, Hindus, Sikhs and Muslims, rich and poor had gathered to protest against the British. This song was composed and sung to honour the memory of those brave people.
 
-<!-- pdf page 12 -->
+<!-- page 12 (pdf 12) -->
 
 > [table] 12 / Social and Political Life
 

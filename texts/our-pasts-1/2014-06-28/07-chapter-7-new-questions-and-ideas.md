@@ -13,10 +13,11 @@ title: "CHAPTER 7 NEW QUESTIONS AND IDEAS"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch07.pdf"
 source_sha256: "7a71b7ac9c738bcd30bed7253ac5d2e8e573b698658b2934631df0dadd060e45"
 pdf_pages: 10
-body_fingerprint: "e2737d3f68a1924dba505b7ec865f82db853b73f03ad157e4a82391a8d690699"
+printed_pages: "65-74"
+body_fingerprint: "6f7300b8243a2b4955a4209bda7b78cdfb7b252306181f0b48e5347b3b8de6ea"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 65 (pdf 1) -->
 
 # CHAPTER 7 NEW QUESTIONS AND IDEAS
 
@@ -30,9 +31,7 @@ Siddhartha, also known as Gautama, the founder of Buddhism, was born about 2500 
 
 The Buddha belonged to a small gana known as the Sakya gana, and was a kshatriya. When he was a young man, he left the comforts of his home in search of knowledge. He wandered for several years, meeting and holding discussions with other thinkers. He finally decided to find his own path to realisation, and meditated for days on end under a peepal tree at Bodh Gaya in Bihar, where he attained enlightenment. After that, he was known as the Buddha or the Wise One. He then went to Sarnath, near Varanasi, where he taught for the first time. He spent the rest of his life travelling on foot, going from place to place, teaching people, till he passed away at Kusinara.
 
-> [caption] 65
-
-<!-- pdf page 2 -->
+<!-- page 66 (pdf 2) -->
 
 The Buddha taught that life is full of suffering and unhappiness. This is caused because we have cravings and desires (which often cannot be fulfilled). Sometimes, even if we get what we want, we are not satisfied, and want even more (or want other things). The Buddha described this as thirst or tanha. He taught that this constant craving could be removed by following moderation in everything.
 
@@ -44,9 +43,7 @@ He also encouraged people to think for themselves rather than to simply accept w
 
 > [caption] The stupa at Sarnath. This building, known as a stupa, was built to mark the place where the Buddha first taught his message. You will learn more about stupas in Chapter 12.
 
-> [caption] 66
-
-<!-- pdf page 3 -->
+<!-- page 67 (pdf 3) -->
 
 ### The story of Kisagotami
 
@@ -68,9 +65,7 @@ Around the time that the Buddha was preaching and perhaps a little earlier, othe
 
 Many of their ideas were recorded in the Upanishads. These were part of the later Vedic texts. Upanishad literally means ‘approaching and sitting near’ and the texts contain conversations between teachers and students. Often, ideas were presented through simple dialogues.
 
-> [table] 67
-
-<!-- pdf page 4 -->
+<!-- page 68 (pdf 4) -->
 
 ### The wise beggar
 
@@ -88,9 +83,7 @@ How did the beggar convince the sages to share their food with him?
 
 Most Upanishadic thinkers were men, especially brahmins and rajas. Occasionally, there is mention of women thinkers, such as Gargi, who was famous for her learning, and participated in debates held in royal courts. Poor people rarely took part in these discussions. One famous exception was Satyakama Jabala, who was named after his mother, the slave woman Jabali. He had a deep desire to learn about reality, was accepted as a student by a brahmin teacher named Gautama, and became one of the best-known thinkers of the time. Many of the ideas of the Upanishads were later developed by the famous thinker Shankaracharya, about whom you will read in Class VII.
 
-> [table] 68
-
-<!-- pdf page 5 -->
+<!-- page 69 (pdf 5) -->
 
 ### Panini, the grammarian
 
@@ -104,9 +97,7 @@ He taught a simple doctrine: men and women who wished to know the truth must lea
 
 Followers of Mahavira, who were known as Jainas, had to lead very simple lives, begging for food. They had to be absolutely honest, and were especially asked not to steal. Also, they had to observe celibacy. And men had to give up everything, including their clothes.
 
-> [caption] 69
-
-<!-- pdf page 6 -->
+<!-- page 70 (pdf 6) -->
 
 It was very difficult for most men and women to follow these strict rules. Nevertheless, thousands left their homes to learn and teach this new way of life. Many more remained behind and supported those who became monks and nuns, providing them with food.
 
@@ -124,9 +115,7 @@ Men and women who joined the sangha led simple lives. They meditated for most of
 
 > [caption] The word Jaina comes from the term Jina, meaning conqueror. Why do you think the term Jina was used for Mahavira?
 
-> [caption] 70
-
-<!-- pdf page 7 -->
+<!-- page 71 (pdf 7) -->
 
 Those who joined the sangha included brahmins, kshatriyas, merchants, labourers, barbers, courtesans and slaves. Many of them wrote down the teachings of the Buddha. Some of them also composed beautiful poems, describing their life in the sangha.
 
@@ -140,9 +129,7 @@ As time went on, many supporters of the monks and nuns, and they themselves, fel
 
 > [caption] A cave hollowed out in the hills. This is a cave in Karle, present-day Maharashtra. Monks and nuns lived and meditated in these shelters.
 
-> [caption] 71
-
-<!-- pdf page 8 -->
+<!-- page 72 (pdf 8) -->
 
 ### A Buddhist text tells us:
 
@@ -164,9 +151,7 @@ Then they had to marry and live as householders (grihastha). Then they had to li
 
 In what way was the system of ashramas different from life in the sangha? What are the varnas mentioned here? Were all four varnas allowed to participate in the system of ashramas?
 
-> [table] 72
-
-<!-- pdf page 9 -->
+<!-- page 73 (pdf 9) -->
 
 ### Elsewhere
 
@@ -214,29 +199,17 @@ You want to go to listen to one of the preachers who lived about 2500 years ago.
 
 - ashrama
 
-> [caption] 73
-
-<!-- pdf page 10 -->
+<!-- page 74 (pdf 10) -->
 
 <!-- section: exercises -->
 
 > [table] e. Upanishadic thinkers believed that the atman and brahman were ultimately one.
 
-> [caption] SOME IMPORTANT
-
-### DATES
-
 > [table] 3. What were the questions that Upanishadic thinkers wanted to answer?
-
-> [caption] Upanishadic thinkers, the Jaina teacher Mahavira and the Buddha (about 2500 years ago)
 
 > [table] 4. What were the main teachings of the Mahavira?
 
 ### Let’s discuss
-
-> [caption] Writing down of the
-
-> [caption] Jaina texts (about 1500 years ago)
 
 > [table] 5. Why do you think Anagha’s mother wanted her to know the story of the Buddha?
 
@@ -248,4 +221,12 @@ You want to go to listen to one of the preachers who lived about 2500 years ago.
 
 > [table] 8. Find out more about men and women who renounce the world today. Where do they live, what kinds of clothes do they wear, what do they eat? Why do they renounce the world?
 
-> [table] 74
+> [caption] SOME IMPORTANT
+
+### DATES
+
+> [caption] Upanishadic thinkers, the Jaina teacher Mahavira and the Buddha (about 2500 years ago)
+
+> [caption] Writing down of the
+
+> [caption] Jaina texts (about 1500 years ago)

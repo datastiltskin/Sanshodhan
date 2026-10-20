@@ -13,10 +13,11 @@ title: "CHAPTER 8 ASHOKA, THE EMPEROR WHO GAVE UP WAR"
 source_pdf: "pdfs/our-pasts-1/2014-06-28/ch08.pdf"
 source_sha256: "2b5cd14039d390d6cea756739a96146ea785d55785b4b555266f5c789b23c87c"
 pdf_pages: 12
+printed_pages: "75-86"
 body_fingerprint: "5762c701b58efbe03b8a60f2c80d6869fbac22662ca48044785ba994514bcd2a"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 75 (pdf 1) -->
 
 # CHAPTER 8 ASHOKA, THE EMPEROR WHO GAVE UP WAR
 
@@ -38,9 +39,7 @@ The empire that Ashoka ruled was founded by his grandfather, Chandragupta Maurya
 
 When members of the same family become rulers one after another, the family is often called a dynasty. The Mauryas were a dynasty with three important rulers — Chandragupta, his son Bindusara, and Bindusara’s son, Ashoka.
 
-> [table] 75
-
-<!-- pdf page 2 -->
+<!-- page 76 (pdf 2) -->
 
 There were several cities in the empire (marked with black dots on the map). These included the capital Pataliputra, Taxila, and Ujjain. Taxila was a gateway to the northwest, including Central Asia, while Ujjain lay on the route from north to south India. Merchants, officials and crafts persons probably lived in these cities.
 
@@ -52,9 +51,7 @@ In other areas there were villages of farmers and herders. In some areas such as
 
 > [caption] The places where inscriptions of Ashoka have been found are marked with red dots. These were included within the empire. Name the countries where Ashokan inscriptions have been found. Which Indian states were outside the empire?
 
-> [caption] 76
-
-<!-- pdf page 3 -->
+<!-- page 77 (pdf 3) -->
 
 How are empires different from kingdoms?
 
@@ -70,9 +67,7 @@ There were other areas or provinces. Each of these was ruled from a provincial c
 
 Besides, there were vast areas between these centres. Here the Mauryas tried to control roads and rivers, which were important for transport, and to collect whatever resources were available as tax and tribute. For example, the Arthashastra tells us that the north-west was important for blankets, and south India for its gold and precious stones. It is possible that these resources were collected as tribute.
 
-> [caption] 77
-
-<!-- pdf page 4 -->
+<!-- page 78 (pdf 4) -->
 
 ### Tribute
 
@@ -94,9 +89,7 @@ Why do you think the king had special servants to taste the food he ate?
 
 In what ways was Pataliputra different from Mohenjodaro? (hint: see Chapter 4)
 
-> [table] 78
-
-<!-- pdf page 5 -->
+<!-- page 79 (pdf 5) -->
 
 ### Ashoka, a unique ruler
 
@@ -124,11 +117,9 @@ I am inscribing this message for the future, so that my son and grandson after m
 
 Instead, they should try to think about how to spread dhamma.” How did the Kalinga war bring about a change in Ashoka’s attitude towards war?
 
-> [table] 79
-
 (‘Dhamma’ is the Prakrit word for the Sanskrit term ‘Dharma’).
 
-<!-- pdf page 6 -->
+<!-- page 80 (pdf 6) -->
 
 What was Ashoka’s dhamma?
 
@@ -138,9 +129,7 @@ Ashoka also sent messengers to spread ideas about dhamma to other lands, such as
 
 > [caption] The Rampurwa bull. Look at this finely polished stone sculpture. This was part of a Mauryan pillar found in Rampurwa, Bihar, and has now been placed in Rashtrapati Bhavan. It is an example of the skill of the sculptors of the time.
 
-> [caption] 80
-
-<!-- pdf page 7 -->
+<!-- page 81 (pdf 7) -->
 
 ### Ashoka’s messages to his subjects:
 
@@ -160,9 +149,7 @@ Identify the parts of Ashoka’s message that you think are relevant today.
 
 > [caption] Early Brahmi Devanagari (Hindi) Bengali Malayalam Tamil Below : The Brahmi script. Most modern Indian scripts have developed from the Brahmi script over hundreds of years. Here you can see the letter ‘a’ written in different scripts.
 
-> [caption] 81
-
-<!-- pdf page 8 -->
+<!-- page 82 (pdf 8) -->
 
 ### Elsewhere
 
@@ -186,9 +173,7 @@ You live in Kalinga, and your parents have suffered in the war. Messengers from 
 
 > [table] (a) Officials collected ———————— from the area under the direct control of the ruler.
 
-> [caption] 82
-
-<!-- pdf page 9 -->
+<!-- page 83 (pdf 9) -->
 
 > [table] (c) The Mauryan rulers tried to control ———————— and ———————— which were important for transport.
 
@@ -236,9 +221,7 @@ You live in Kalinga, and your parents have suffered in the war. Messengers from 
 
 > [caption] SOME IMPORTANT DATES Beginning of the Mauryan empire (more than 2300 years ago)
 
-> [table] 83
-
-<!-- pdf page 10 -->
+<!-- page 84 (pdf 10) -->
 
 MAP : 6 Showing Important Trade Routes including the Silk Route
 
@@ -252,19 +235,15 @@ MAP : 6 Showing Important Trade Routes including the Silk Route
 
 > [caption] These routes were controlled by the Roman emperors.
 
-> [caption] 84
-
-<!-- pdf page 11 -->
+<!-- page 85 (pdf 11) -->
 
 > [table] Chinese, Indian, Iranian, Arab, Greek and Roman traders participated in these exchanges.
 
 > [table] The ports along the coast of south India were important centres for the export of pepper and other spices.
 
-> [table] 85
-
 > [caption] Find Poduca (south India) on the map. This was the Roman name for Arikamedu (Chapter 9). Based on The Times Atlas of World History, (ed. Geoffrey Barraclough) Hammond Inc, New Jersey, 1986, pp 70-71.
 
-<!-- pdf page 12 -->
+<!-- page 86 (pdf 12) -->
 
 ### LOOKING AHEAD
 
@@ -277,8 +256,6 @@ MAP : 6 Showing Important Trade Routes including the Silk Route
 > [caption] In south India, the Cholas, Cheras and Pandyas ruled between 2200 and 1800 years ago. And, about 1500 years ago, there were two large kingdoms, those of the Pallavas and the Chalukyas. There were several other kingdoms and kings as well. We know about them from their coins and inscriptions, as well as from books.
 
 > [caption] There were other changes that were taking place, in which ordinary men and women played a major role. These included the spread of agriculture and the growth of new towns, craft production and trade. Traders explored land routes within the subcontinent and outside, and sea routes to West Asia, East Africa and South East Asia (see Map 6) were also opened up. And many new buildings were built — including the earliest temples and stupas, books were written, and scientific discoveries were made. These developments took place simultaneously, i.e. at the same time. Keep this in mind as you read the rest of the book.
-
-> [table] 86
 
 > [caption] An Indo-Greek coin
 

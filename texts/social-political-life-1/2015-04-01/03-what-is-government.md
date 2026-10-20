@@ -9,10 +9,11 @@ title: "What is Government?"
 source_pdf: "pdfs/social-political-life-1/2015-04-01/ch03.pdf"
 source_sha256: "d0eb868eda1ab6646d9b195b6a3891e3d2152c8a38e09bd6fdccfc402ecda56d"
 pdf_pages: 8
+printed_pages: "27-34"
 body_fingerprint: "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 27 (pdf 1) -->
 
 Chapter 3
 
@@ -24,7 +25,7 @@ Every country needs a government to make decisions and get things done. These ca
 
 Look at the newspaper headlines above and list the different kinds of activities that the government is reported to be doing in these newspaper headlines. 1. 2. 3. 4. Isn't this a wide range of activities? What do you think government is? Discuss in class.
 
-<!-- pdf page 2 -->
+<!-- page 28 (pdf 2) -->
 
 > [table] 28 / Social and Political Life
 
@@ -48,7 +49,7 @@ Some rules have to be made that apply to everyone. For example, there is a need 
 
 Now that you know that the government is responsible for so Haryana or Assam and the national level relates to the entire country. Later in this book, you will read about how local level government functions, and when you go into the next few classes you will learn about how governments function at the state and central levels.
 
-<!-- pdf page 3 -->
+<!-- page 29 (pdf 3) -->
 
 > [table] What is Government? / 29
 
@@ -60,7 +61,7 @@ many different things, can you think of how it manages to do all this? The gover
 
 > [caption] Delhi
 
-<!-- pdf page 4 -->
+<!-- page 30 (pdf 4) -->
 
 > [table] 30 / Social and Political Life
 
@@ -84,7 +85,7 @@ Introduction of a new 1000 rupee note.
 
 > [caption] Local State Central
 
-<!-- pdf page 5 -->
+<!-- page 31 (pdf 5) -->
 
 ### Laws and the Government
 
@@ -104,7 +105,7 @@ The answer to this question depends on the type of government there is in a coun
 
 Another form of government is monarchy. The monarch (king or queen) has the power to make decisions and run the government. The monarch may have a small group of people to discuss matters with, but the final decision-making power remains with the monarch. Unlike in a democracy, kings and queens do not have to explain their actions or defend the decisions they take.
 
-<!-- pdf page 6 -->
+<!-- page 32 (pdf 6) -->
 
 > [table] 32 / Social and Political Life
 
@@ -136,7 +137,7 @@ During the War, many men were away fighting, and because of this women were call
 
 The suffragettes demanded the right to vote for all women and to get their demands heard they chained themselves to railings in public places. Many suffragettes were imprisoned and went on hunger strikes,and they had to be fed by force. American women got the right to vote in 1920 while women in the UK got to vote on the same terms as men some years later, in 1928.
 
-<!-- pdf page 7 -->
+<!-- page 33 (pdf 7) -->
 
 But it was not always like this. Can you believe that there was a time when governments did not allow women and the poor to participate in elections? In their earliest forms governments allowed only men who owned property and were educated, to vote. This meant that women, the poor, the property-less and the uneducated were not allowed to vote. The country was governed by the rules and regulations that these few men made!
 
@@ -148,7 +149,7 @@ In India, before Independence, only a small minority was allowed to vote and the
 
 Writing in the journal Young India in 1931, Gandhiji said, "I cannot possibly bear the idea that a man who has got wealth should get the vote but a man who has got character but no wealth or literacy should have no vote, or that a man who honestly works by the sweat of his brow day in and day out should not have the vote for the crime of being a poor man…".
 
-<!-- pdf page 8 -->
+<!-- page 34 (pdf 8) -->
 
 > [table] 34 / Social and Political Life
 

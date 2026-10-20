@@ -8,10 +8,11 @@ chapter: 6
 title: "Rural Administration"
 source_pdf: "pdfs/social-political-life-1/2022-10-13-partial/ch06.pdf"
 pdf_pages: 8
+printed_pages: "49-56"
 body_fingerprint: "8d2068b4463ba7788df6717ddde87e9a4741d10b25db2ab26a5b45cc84a78d59"
 ---
 
-<!-- pdf page 1 -->
+<!-- page 49 (pdf 1) -->
 
 Chapter 6
 
@@ -33,7 +34,7 @@ He was badly hurt on his head and hand. He was given first aid by one of his nei
 
 After much discussion it was decided that Mohan would go to the police station along with some of the neighbours who had seen the incident.
 
-<!-- pdf page 2 -->
+<!-- page 50 (pdf 2) -->
 
 > [table] 50 / Social and Political Life
 
@@ -63,7 +64,7 @@ Show the above situation in the police station through a skit.
 
 Then talk about how you felt playing Mohan’s role or that of the S.H.O or the neighbours. Could the S.H.O have handled the situation differently?
 
-<!-- pdf page 3 -->
+<!-- page 51 (pdf 3) -->
 
 ### Maintenance of Land Records
 
@@ -87,7 +88,7 @@ How do people in the village contact him/her?
 
 The Patwari is also responsible for organising the collection of land revenue from the farmers and providing information to the government about the crops grown in this area. This is done from the records that are kept, and this is why it’s important for the Patwari to regularly update these. Farmers may change the crops grown on their fields or someone may dig a well somewhere, Khasra 5
 
-<!-- pdf page 4 -->
+<!-- page 52 (pdf 4) -->
 
 > [table] 52 / Social and Political Life
 
@@ -165,7 +166,7 @@ Legand and keeping track of all this is the work of the revenue department of th
 
 > [caption] Tree
 
-<!-- pdf page 5 -->
+<!-- page 53 (pdf 5) -->
 
 All states in India are divided into districts. For managing matters relating to land these districts are further sub-divided. These sub-divisions of a district are known by different names such as tehsil, taluka, etc. At the head is the District Collector and under her are the revenue officers, also known as tehsildars. They have to hear disputes. They also supervise the work of the Patwaris and ensure that records are properly kept and land revenue is collected. They make sure that the farmers can easily obtain a copy of their record, students can obtain their caste certificates etc. The Tehsildar’s office is where land disputes are also heard.
 
@@ -179,7 +180,7 @@ A daughter’s wish Father inherited our house from his father And everyone says
 
 > [caption] Anjali Monteiro,TISS)
 
-<!-- pdf page 6 -->
+<!-- page 54 (pdf 6) -->
 
 > [table] 54 / Social and Political Life
 
@@ -203,11 +204,11 @@ Do the following exercise for your village/by visiting a nearby village or looki
 
 List the public services in the village/area such as: the milk society, the fair price shop, the bank, the police station, the agricultural society for seeds and fertiliser, the post office or sub post office, the anganwadi, crèche, government school/s, health centre or government hospital etc. Collect information on three public services and discuss with your teacher how improvements can be made in their functioning. One example has been worked out.
 
-<!-- pdf page 7 -->
+<!-- page 55 (pdf 7) -->
 
 > [table] Rural Administration / 55
 
-<!-- pdf page 8 -->
+<!-- page 56 (pdf 8) -->
 
 > [table] 56 / Social and Political Life
 
