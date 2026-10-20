@@ -112,6 +112,21 @@ A short italic or bold line straight above a paragraph and aligned with it ("Gul
 bold italic figure-group title, and a short line in a display size well above the body
 ("The value of paper") are headings too.
 
+The 2015 re-encoding of the Our Pasts II files embeds Lucida Sans under a generic name
+("TT3DBT00") while the body face keeps its own, so the activity boxes set in the body column
+in that face would pass as body text. An opaque font that carries a quarter or more of the
+prose set a point below the body size, and none at body size, is taken for the side face of
+that file. A space between a bracket and the word inside it, which an italic word's overhang
+leaves in the text layer ("prashasti )", "( faujdari adalat )"), is removed.
+
+The timeline inserts of chapter 4 ("Jahangir 1605-1627" over a paragraph of campaigns, set
+at 11 pt) have their labels in a bold face in the 2015 files and drawn five times over
+themselves in the 2007 files. An overprinted dated label, on one line or on two ("AKBAR"
+over "1556-1605"), is split from the paragraph after or beside it, as is a bold dated label
+that opens a line. A dated label with its paragraph at the same size under or beside it is a
+heading, and the paragraph is body text however short, where the size alone would have made
+it a table row. A short block overprinted throughout (a 2007 heading) counts as bold.
+
 ## Outlined words
 
 Some files (the 2024-25 Our Pasts II) draw their italic terms as vector outlines with no
@@ -159,7 +174,10 @@ markers reads the same. Inside a section every block keeps its role tag, but it 
 in the section's own stream, and exercises, glossaries, and references are compared without
 regard to order (questions get renumbered and glossary entries reflowed). A `[table]` block
 inside a section is a text box, not a table, so its rows are split into sentences like any
-other text.
+other text. The civics books set a question's lettered statements in a side box beside the
+glossary box, and the reading order puts them after the "Glossary" heading, so inside a
+glossary a lettered or numbered item that is not a "Term: meaning" line reopens the
+exercises, and the next "Term: meaning" line reopens the glossary.
 
 ## Hand corrections
 

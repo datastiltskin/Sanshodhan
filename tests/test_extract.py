@@ -892,3 +892,80 @@ def test_flush_left_wrapped_lines_of_two_exercise_columns_do_not_interleave():
         "d. The work that women do is less valued than that of men.",
         "‘invisible’, ‘physically demanding’, and ‘time consuming’? Give one example of each based on the household tasks undertaken by women in your home.",
     ]
+
+
+def test_opaque_side_font_is_inferred_from_the_file_profile():
+    # The 2015 Our Pasts II files: Bookman-Light 13 body, Lucida Sans embedded as TT3DBT00 at 12.
+    body = extract.Block(90, 100, 425, 300, "Bookman-Light", 13.0, False, False, BODY)
+    note = extract.Block(216, 400, 520, 460, "TT3DBT00", 12.0, False, False, "Make a list of the languages mentioned by Amir Khusrau. Prepare another list of the names of languages spoken today.")
+    assert extract.inferred_side_fonts([[body, note]], 13.0) == ("TT3DBT00",)
+    # A file whose body face is itself opaque (the civics files) infers nothing.
+    body2 = extract.Block(90, 100, 425, 300, "TT18AT00", 13.0, False, False, BODY)
+    assert extract.inferred_side_fonts([[body2, note]], 13.0) == ()
+    blocks = [body, note]
+    extract.classify(blocks, 630.0, 842.0, 13.0, side_fonts=("TT3DBT00",))
+    assert [b.role for b in blocks] == ["body", "note"]
+
+
+def test_overprinted_label_is_a_heading_over_its_paragraph():
+    # Page 49 of the 2007 Our Pasts II chapter 4: "Shah Jahan 1627-1658" drawn five times (the
+    # file's bold), then its paragraph in the plain face, all at 11 pt under a 13 pt body.
+    def line(spans, y):
+        return {"dir": (1.0, 0.0), "bbox": (89, y, 403, y + 12), "spans": [dict(sp, bbox=(sp["x0"], y, sp["x1"], y + 12)) for sp in spans]}
+    def span(text, x0, x1, flags=4):
+        return {"text": text, "font": "BookmanPlain", "size": 11.0, "flags": flags, "x0": x0, "x1": x1}
+    copies = [span("Shah Jahan 1627-1658", 89 + 0.3 * k, 210 + 0.3 * k) for k in range(5)]
+    body_lines = ["Mughal campaigns continued in the Deccan under", "Shah Jahan. The Afghan noble Khan Jahan Lodi", "rebelled and was defeated. Campaigns were launched", "against Ahmadnagar; the Bundelas were defeated."]
+    lines = [line(copies, 269)] + [line([span(t, 89, 400)], 283 + 14 * k) for k, t in enumerate(body_lines)]
+    textpage = {"blocks": [
+        {"type": 0, "bbox": (89, 100, 403, 200), "lines": [{"dir": (1.0, 0.0), "bbox": (89, 100, 403, 112), "spans": [{"text": BODY, "font": "BookmanPlain", "size": 13.0, "flags": 4, "bbox": (89, 100, 403, 112)}]}]},
+        {"type": 0, "bbox": (89, 269, 403, 339), "lines": lines},
+    ]}
+    blocks = extract.blocks_from_dict(textpage)
+    assert [b.text[:20] for b in blocks] == [BODY[:20], "Shah Jahan 1627-1658", "Mughal campaigns con"]
+    assert blocks[1].bold and not blocks[2].bold
+    extract.classify(blocks, 595.0, 842.0, 13.0)
+    assert [b.role for b in blocks] == ["body", "h3", "body"]
+
+
+def test_bold_label_opening_a_line_splits_off_as_a_heading():
+    # "Jahangir 1605-1627" in a Demi face on the same line as the first sentence (2015 file).
+    def line(spans, y):
+        return {"dir": (1.0, 0.0), "bbox": (237, y, 534, y + 12), "spans": [dict(sp, bbox=(sp["x0"], y, sp["x1"], y + 12)) for sp in spans]}
+    first = [{"text": "Jahangir 1605-1627", "font": "Bookman-Demi", "size": 11.0, "flags": 20, "x0": 237, "x1": 345},
+             {"text": " Military campaigns started by Akbar continued.", "font": "Bookman-Light", "size": 11.0, "flags": 4, "x0": 345, "x1": 534}]
+    more = ["The Sisodiya ruler of Mewar, Amar Singh, accepted", "Mughal service. Less successful campaigns against", "the Sikhs, the Ahoms and Ahmadnagar followed."]
+    lines = [line(first, 137)] + [line([{"text": t, "font": "Bookman-Light", "size": 11.0, "flags": 4, "x0": 237, "x1": 534}], 151 + 14 * k) for k, t in enumerate(more)]
+    textpage = {"blocks": [{"type": 0, "bbox": (237, 137, 534, 205), "lines": lines}]}
+    blocks = extract.blocks_from_dict(textpage)
+    assert [b.text[:22] for b in blocks] == ["Jahangir 1605-1627", "Military campaigns sta"]
+    extract.classify(blocks, 630.0, 842.0, 13.0)
+    assert [b.role for b in blocks] == ["h3", "body"]
+    # A lead-in with a colon stays in its sentence.
+    colon = [{"text": "Transparency:", "font": "Bookman-Demi", "size": 11.0, "flags": 20, "x0": 237, "x1": 320},
+             {"text": " the state must act openly and be seen to do so.", "font": "Bookman-Light", "size": 11.0, "flags": 4, "x0": 320, "x1": 534}]
+    assert extract._bold_lead(line(colon, 100)["spans"]) == ([], line(colon, 100)["spans"])
+
+
+def test_two_line_overprinted_label_with_its_paragraph_beside_it():
+    # Page 48 of the 2007 Our Pasts II chapter 4: "AKBAR" over "1556-1605", each drawn five
+    # times, with the paragraph starting beside the label on the same line.
+    def span(text, x0, x1, y):
+        return {"text": text, "font": "BookmanPlain", "size": 11.0, "flags": 4, "bbox": (x0, y, x1, y + 12)}
+    def line(spans, y):
+        return {"dir": (1.0, 0.0), "bbox": (89, y, 403, y + 12), "spans": spans}
+    lines = [line([span(" AKBAR", 89 + 0.3 * k, 150 + 0.3 * k, 456) for k in range(5)], 456),
+             line([span("1556-1605", 89 + 0.3 * k, 160 + 0.3 * k, 469) for k in range(5)], 469)]
+    words = "Akbar was 13 years old when he became emperor. His reign can be divided into three periods. Akbar was 13 years old when he became emperor.".split()
+    for k, i in enumerate(range(0, len(words), 7)):
+        lines.append(line([span(" ".join(words[i:i + 7]), 187, 403, 455 + 13 * k)], 455 + 13 * k))
+    textpage = {"blocks": [
+        {"type": 0, "bbox": (89, 100, 403, 200), "lines": [line([span(BODY, 89, 403, 100)], 100)]},
+        {"type": 0, "bbox": (89, 455, 403, 520), "lines": lines},
+    ]}
+    for ln in textpage["blocks"][0]["lines"]:
+        ln["spans"][0]["size"] = 13.0
+    blocks = extract.blocks_from_dict(textpage)
+    assert [b.text[:24] for b in blocks] == [BODY[:24], "AKBAR 1556-1605", "Akbar was 13 years old w"]
+    extract.classify(blocks, 595.0, 842.0, 13.0)
+    assert [b.role for b in blocks] == ["body", "h3", "body"]

@@ -41,6 +41,8 @@ TEACHERS_NOTE = re.compile(r"^teacher[’']s note", re.IGNORECASE)
 UNIT_OPENER = re.compile(r"^(unit(\s+\w+)?|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)
 UNIT_WORD = re.compile(r"^(unit|one|two|three|four|five|six|seven|eight|nine|ten)$", re.IGNORECASE)  # unit openers set one word per line
 ICON_FONT = re.compile(r"webdings|wingdings|dingbat|zapfdingbats", re.IGNORECASE)
+OPAQUE_FONT = re.compile(r"^TT[0-9A-F]{3,}T\d\d$")  # a font embedded under a generic name ("TT3DBT00")
+DATED_LABEL = re.compile(r"\b1\d{3}\b")  # a label with a year in it ("Jahangir 1605-1627")
 CHAPTER_LABEL = re.compile(r"^chapter\s+(\d{1,2})$", re.IGNORECASE)
 SDG_LABEL = re.compile(r"^Sustainable Development Goal", re.IGNORECASE)  # the UN goal badge printed in the margin since 2019
 ACTIVITY_HEADING = re.compile(r"Let[’']s (recall|discuss|do|understand|imagine|find out|write)|Activity|Imagine|Elsewhere", re.IGNORECASE)  # box labels
@@ -113,13 +115,17 @@ def _dedupe_shadow_spans(lines: list[dict]) -> list[list[dict]]:
     copy of every (text, position) pair reconstructs the heading once.
     """
     kept: list[tuple[str, tuple]] = []
+    kept_spans: dict[tuple[str, tuple], dict] = {}
+    copies: Counter = Counter()  # identical spans dropped on top of a kept one
     shadows: list[tuple[str, tuple]] = []  # duplicates dropped so far, by text and box
     out: list[list[dict]] = []
     for ln in lines:
         spans = []
         for s in ln["spans"]:
             text = s["text"].strip()
-            if text and any(text == t and _overlap_ratio(s["bbox"], bb) >= 0.7 for t, bb in kept):
+            under = next(((t, tuple(bb)) for t, bb in kept if text == t and _overlap_ratio(s["bbox"], bb) >= 0.7), None) if text else None
+            if under is not None:
+                copies[under] += 1
                 shadows.append((text, s["bbox"]))
                 continue
             # The last word of a line drawn again on top of itself ("...a French cartographer"
@@ -151,9 +157,17 @@ def _dedupe_shadow_spans(lines: list[dict]) -> list[list[dict]]:
                             earlier[:] = [e for e in earlier if not (e["text"].strip() == t and e["bbox"] == bb)]
                         spans = [e for e in spans if not (e["text"].strip() == t and e["bbox"] == bb)]
                 kept.append((text, s["bbox"]))
+                kept_spans[(text, tuple(s["bbox"]))] = s
             spans.append(s)
         if any(s["text"].strip() for s in spans) or any(len(s["text"]) >= 3 and s["bbox"][2] - s["bbox"][0] > 20 for s in spans):
             out.append(spans)
+    # A span drawn three or more times on top of itself is the 2007 files' bold face (the
+    # emperor labels of chapter 4, "Jahangir 1605-1627" five times). It is marked, not flagged
+    # bold: the mark is read only by the dated-label rules, so the page's columns, which skip
+    # bold blocks, are not disturbed by it.
+    for key, n in copies.items():
+        if n >= 2 and key in kept_spans:
+            kept_spans[key]["overprint"] = n
     return out
 
 
@@ -547,6 +561,7 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
         flags: Counter = Counter()
         texts: list[str] = []
         line_bold: list[bool] = []  # every span on the line is bold
+        line_overprint: list[bool] = []  # every span on the line was drawn several times over itself
         line_faces: list[tuple[set, float]] = []  # fonts and largest size of each line
         line_text_x: list[float] = []  # where each line's text starts, after any bullet
         line_boxes: list[tuple] = []
@@ -563,7 +578,8 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
                 sp["text"] = decode_symbol_font(sp["text"])
                 if font_fixes and sp["font"] in font_fixes:
                     sp["text"] = sp["text"].translate(font_fixes[sp["font"]])
-        for spans in _dedupe_shadow_spans(lines):
+        deduped = _dedupe_shadow_spans(lines)
+        for spans in deduped:
             joined = _join_spans(spans)
             if not joined.strip() and any(len(sp["text"]) >= 3 and sp["bbox"][2] - sp["bbox"][0] > 20 for sp in spans):
                 joined = UNREADABLE  # glyphs are drawn but the font maps them to nothing
@@ -574,6 +590,7 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
             texts.append(joined)
             inked = [sp for sp in spans if sp["text"].strip()]
             line_bold.append(bool(inked) and all(_span_flags(sp)[0] for sp in inked))
+            line_overprint.append(bool(inked) and all(sp.get("overprint", 0) >= 2 for sp in inked))
             line_faces.append(({sp["font"] for sp in inked}, max((sp["size"] for sp in inked), default=0.0)))
             line_text_x.append(next((sp["bbox"][0] for sp in inked if sp["text"].strip() != BULLET), spans[0]["bbox"][0] if spans else raw["bbox"][0]))
             line_boxes.append(tuple(pymupdf.Rect(spans[0]["bbox"]) | pymupdf.Rect(spans[-1]["bbox"])) if spans else raw["bbox"])
@@ -590,6 +607,8 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
         size = sizes.most_common(1)[0][0]
         font = fonts.most_common(1)[0][0]
         bold, italic = flags.most_common(1)[0][0]
+        if len(text) <= 60 and line_overprint and all(line_overprint):
+            bold = True  # a short block drawn several times over itself: a 2007 heading or label
         x0, y0, x1, y1 = raw["bbox"]
         items = _bullet_items(texts, line_boxes, line_text_x)
         if items:
@@ -599,7 +618,41 @@ def blocks_from_dict(textpage: dict, font_fixes: dict[str, dict] | None = None) 
                 if item and clean.has_content(item):
                     out.append(Block(ix0, iy0, ix1, iy1, font, size, bold, italic, f"- {item}" if is_item else item, max_size))
             continue
-        if _run_in_heading(texts, line_bold, line_faces):
+        k = 0
+        while k < min(2, len(deduped) - 1) and line_overprint[k]:
+            k += 1
+        if k:
+            # A dated label drawn several times over itself (the 2007 files' bold), on one line
+            # ("Shah Jahan 1627-1658") or two ("AKBAR" over "1556-1605"), with its paragraph on
+            # the lines after it or beside it. The label becomes the heading of that paragraph.
+            label = " ".join(t.strip() for t in texts[:k])
+            rest_texts = texts[k:]
+            if not DATED_LABEL.search(label) and rest_texts:
+                m = re.match(r"^(\d{4}(?:-\d{4})?(?:, \d{4}-\d{4})?)\s+(\S.*)$", rest_texts[0].strip())
+                if m:
+                    label, rest_texts = f"{label} {m.group(1)}", [m.group(2)] + rest_texts[1:]
+            if DATED_LABEL.search(label) and len(label) <= 40 and len(label.split()) <= 6 and not re.search(r"[.?!:;,]$", label) and len(" ".join(rest_texts)) >= 80:
+                box = pymupdf.Rect(line_boxes[0])
+                for i in range(1, k):
+                    box |= pymupdf.Rect(line_boxes[i])
+                out.append(Block(box.x0, box.y0, box.x1, box.y1, font, size, True, italic, label, max_size))
+                rest = clean.join_lines(rest_texts)
+                if rest and clean.has_content(rest):
+                    out.append(Block(x0, line_boxes[k][1], x1, y1, font, size, False, italic, rest, max_size))
+                continue
+        lead, rest_spans = _bold_lead(deduped[0]) if len(deduped) >= 2 else ([], [])
+        if lead:
+            # A bold label opening the first line of a plain paragraph ("Jahangir 1605-1627
+            # Military campaigns started by Akbar continued."): the label is written as its own
+            # block, so it classifies as the heading of that paragraph.
+            r = pymupdf.Rect(lead[0]["bbox"]) | pymupdf.Rect(lead[-1]["bbox"])
+            out.append(Block(r.x0, r.y0, r.x1, r.y1, font, size, True, italic, _join_spans(lead).strip(), max_size))
+            texts[0] = _join_spans(rest_spans).strip()
+            rest = clean.join_lines(texts)
+            if rest and clean.has_content(rest):
+                out.append(Block(x0, y0, x1, y1, font, size, False, italic, rest, max_size))
+            continue
+        if _run_in_heading(texts, line_bold, line_faces, line_overprint):
             # A sub-heading set as the bold first line of its paragraph (2023-24 Our Pasts III).
             # Written as its own block so it classifies as a heading, as it does in other printings.
             hx0, hy0, hx1, hy1 = line_boxes[0]
@@ -670,7 +723,60 @@ def _bullet_items(texts: list[str], boxes: list[tuple], text_x: list[float] | No
     return groups
 
 
-def _run_in_heading(texts: list[str], line_bold: list[bool], line_faces: list[tuple[set, float]] | None = None) -> bool:
+def _bold_lead(spans: list[dict]) -> tuple[list[dict], list[dict]]:
+    """The bold dated label that opens a line otherwise set plain, and the spans after it.
+
+    The timeline inserts of the Our Pasts books ("Jahangir 1605-1627 Military campaigns
+    started by Akbar continued."): two to six words with a four-digit year, at most 40
+    characters, starting with a capital, with no closing punctuation, followed on the same
+    line by at least 20 characters of plain text. A bold lead-in without a date ("A nation in
+    the making", "Transparency:") stays in its sentence."""
+    inked = [sp for sp in spans if sp["text"].strip()]
+    lead: list[dict] = []
+    for sp in inked:
+        if not (_span_flags(sp)[0] or sp.get("overprint", 0) >= 2):
+            break
+        lead.append(sp)
+    if not lead or len(lead) == len(inked):
+        return [], spans
+    label = _join_spans(lead).strip()
+    words = label.split()
+    if not (2 <= len(words) <= 6) or len(label) > 40 or not label[0].isupper() or re.search(r"[.?!:;,]$", label) or not DATED_LABEL.search(label):
+        return [], spans
+    rest = [sp for sp in spans if sp not in lead]
+    if len(_join_spans(rest).strip()) < 20:
+        return [], spans
+    return lead, rest
+
+
+def _prose_follows(b: Block, blocks: list[Block]) -> bool:
+    """Is there a paragraph at this block's size right under it (or beside it on the same line)?"""
+    for c in blocks:
+        if c is b or len(c.text) < 80 or abs(c.size - b.size) > 0.6:
+            continue
+        # Under the label, or beside it starting no higher than its top (a two-line label with
+        # its paragraph alongside).
+        if b.y0 - max(b.size, 1.0) <= c.y0 <= b.y1 + 1.5 * max(b.size, 1.0) and c.x0 < b.x1 + 30 and c.x1 > b.x0 - 30:
+            return True
+    return False
+
+
+def _prose_under_headings(blocks: list[Block]) -> None:
+    """A paragraph set below the body size counts as a table row when short. One that sits
+    right under a dated label heading at its own size is prose (the emperors' campaigns in
+    chapter 4 of Our Pasts II, set at 11 pt under their bold labels)."""
+    for b in blocks:
+        if b.role != "table" or len(b.text) < 100 or not re.search(r"[.!?]", b.text):
+            continue
+        for a in blocks:
+            if a is b or a.role != "h3" or not DATED_LABEL.search(a.text) or abs(a.size - b.size) > 0.6:
+                continue
+            if a.y0 <= b.y0 + 2 and b.y0 - a.y1 <= 1.5 * max(b.size, 1.0) and a.x0 < b.x1 and a.x1 > b.x0:
+                b.role = "body"
+                break
+
+
+def _run_in_heading(texts: list[str], line_bold: list[bool], line_faces: list[tuple[set, float]] | None = None, overprinted: list[bool] | None = None) -> bool:
     """Is the first line of this block a short bold heading followed by regular text?
 
     The 2022 Our Pasts III files embed the bold face under a name without "Bold" and
@@ -679,6 +785,8 @@ def _run_in_heading(texts: list[str], line_bold: list[bool], line_faces: list[tu
     line does not use, at least as large, counts as bold."""
     if len(texts) < 2:
         return False
+    if overprinted and overprinted[0] and not overprinted[1] and DATED_LABEL.search(texts[0]):
+        line_bold = [True, False] + list(line_bold[2:])  # a dated label drawn five times (2007 Our Pasts II)
     if not (line_bold[0] and not line_bold[1]):
         if not line_faces or len(line_faces) < 2:
             return False
@@ -690,7 +798,8 @@ def _run_in_heading(texts: list[str], line_bold: list[bool], line_faces: list[tu
     rest = " ".join(texts[1:]).strip()
     # Two or more words, no figure label, no closing punctuation, and a paragraph after it
     # (a caption's bold "Fig. 1" line followed by its short text is not a heading).
-    return 2 <= len(words) and len(first) <= 60 and not re.match(r"^fig", first, re.IGNORECASE) and not re.search(r"[.?!:;,]$", first) and len(rest) >= 80
+    min_words = 1 if DATED_LABEL.search(first) else 2  # "Jahangir 1605-1627" is one word and a date
+    return min_words <= len(words) and len(first) <= 60 and not re.match(r"^fig", first, re.IGNORECASE) and not re.search(r"[.?!:;,]$", first) and len(rest) >= 80
 
 
 def decode_symbol_font(text: str) -> str:
@@ -808,7 +917,31 @@ def _strip_running_title(text: str, keys: set[str]) -> str | None:
     return None
 
 
-def classify(blocks: list[Block], width: float, height: float, body_size: float = DEFAULT_BODY_SIZE, running: RunningFooters | None = None) -> int | None:
+def inferred_side_fonts(pages_blocks: list[list[Block]], body_size: float) -> tuple[str, ...]:
+    """Fonts a file embeds under a generic name and uses the way the books use Lucida Sans.
+
+    The 2015 re-encoding of the Our Pasts II files keeps the body face's name (Bookman-Light)
+    but embeds Lucida Sans as "TT3DBT00", so the side-font rule cannot see it and the activity
+    boxes set in the body column pass as body text. An opaque font that carries a quarter or
+    more of the prose set a point below the body size, and none of the prose at body size,
+    is that face."""
+    at_body: Counter = Counter()
+    below: Counter = Counter()
+    for blocks in pages_blocks:
+        for b in blocks:
+            if len(b.text) < 60:
+                continue
+            if abs(b.size - body_size) <= 0.5:
+                at_body[b.font] += len(b.text)
+            elif body_size - 1.6 <= b.size <= body_size - 0.5:
+                below[b.font] += len(b.text)
+    if not at_body or not below or OPAQUE_FONT.match(at_body.most_common(1)[0][0]):
+        return ()
+    total = sum(below.values())
+    return tuple(f for f, n in below.items() if OPAQUE_FONT.match(f) and n >= 0.25 * total and at_body[f] == 0)
+
+
+def classify(blocks: list[Block], width: float, height: float, body_size: float = DEFAULT_BODY_SIZE, running: RunningFooters | None = None, side_fonts: tuple[str, ...] = ()) -> int | None:
     """Assign a role to each block in place. Returns the printed page number if found.
 
     `running` (from running_footers) makes the footer test strict: a block in the footer
@@ -845,7 +978,7 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
             continue
         b.text = LEADING_TICKS.sub("", b.text)
         in_column = col_left <= b.centre_x <= col_right
-        side_font = any(f in b.font for f in SIDE_FONTS)
+        side_font = any(f in b.font for f in SIDE_FONTS) or b.font in side_fonts
         delta = body_size - b.size  # positive when smaller than body text
         # Footers are short and set small. An exercise question that happens to end the
         # page is neither, even though it sits in the same band.
@@ -911,6 +1044,9 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
         if ACTIVITY_HEADING.fullmatch(b.text):
             b.role = "h3"
             continue
+        if b.bold and in_column and delta <= 2.6 and len(b.text) <= 60 and DATED_LABEL.search(b.text) and not re.search(r"[.?!:;,]$", b.text) and _prose_follows(b, blocks):
+            b.role = "h3"  # a dated label over its paragraph in a timeline insert set below the body size
+            continue
         if delta > 2.4 or (b.italic and delta >= 1.4):
             b.role = "caption"
             continue
@@ -924,6 +1060,7 @@ def classify(blocks: list[Block], width: float, height: float, body_size: float 
             b.role = "body"  # body text, smaller exercise questions, or a long note set smaller
             continue
         b.role = "table"
+    _prose_under_headings(blocks)
     _keyword_list(blocks)
     _join_wrapped_items(blocks)
     _extend_captions(blocks, body_size)
@@ -1119,6 +1256,7 @@ def _read_all_pages(pdf_path: Path, vocab: set[str] | None = None) -> tuple[list
                 rasterised.add(i)
             raw.append((i, blocks, page.rect.width, page.rect.height))
     body_size = font_profile([blocks for i, blocks, _, _ in raw if i not in rasterised])
+    side_fonts = inferred_side_fonts([blocks for i, blocks, _, _ in raw if i not in rasterised], body_size)
     running = running_footers([(blocks, h) for i, blocks, _, h in raw if i not in rasterised])
     for i, blocks, w, h in raw:
         if i in rasterised:
@@ -1126,7 +1264,7 @@ def _read_all_pages(pdf_path: Path, vocab: set[str] | None = None) -> tuple[list
             # page is judged against its own commonest size.
             printed = classify(blocks, w, h, _commonest_size(blocks) or body_size)
         else:
-            printed = classify(blocks, w, h, body_size, running)
+            printed = classify(blocks, w, h, body_size, running, side_fonts)
         pages.append(Page(i, printed, blocks, ocr=i in rasterised))
     fix_page_numbers(pages)
     return pages, width
