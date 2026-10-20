@@ -5,6 +5,7 @@ edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
   - "rungtaias-2015-16"
+  - "2018-partial"
 chapter: 5
 title: "Judiciary"
 source_pdf: "pdfs/social-political-life-3/2016-09-10/ch05.pdf"

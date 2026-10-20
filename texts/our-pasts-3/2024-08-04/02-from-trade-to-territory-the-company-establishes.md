@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2024-08-04"
 snapshots:
   - "2024-08-04"
+  - "archive-org-oldncert-2024-25"
   - "live-2026-10-18"
 chapter: 2
 title: "From Trade to Territory The Company Establishes Power"

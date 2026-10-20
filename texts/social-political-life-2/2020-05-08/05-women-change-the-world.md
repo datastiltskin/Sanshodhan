@@ -4,6 +4,7 @@ book_title: "Social and Political Life II"
 edition: "2020-05-08"
 snapshots:
   - "2020-05-08"
+  - "archive-org-2020-21"
 chapter: 5
 title: "Women Change the World"
 source_pdf: "pdfs/social-political-life-2/2020-05-08/ch05.pdf"

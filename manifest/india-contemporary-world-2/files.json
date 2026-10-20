@@ -1,0 +1,1432 @@
+{
+  "book": "india-contemporary-world-2",
+  "title": "India and the Contemporary World II",
+  "class": 10,
+  "codes": {
+    "single": "jess3"
+  },
+  "files": [
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch01.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "f568d2febafd6b34332b682d1e882cbc1729f53066efce6ee3e53706c22a7ad3",
+      "size": 941529,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch02.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "c790824f53ebfaa58aa9b908639a8856a0c1ee7099057dec09e677e4c5b1869d",
+      "size": 1395072,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch03.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "045188733e09adec48895a521238b3fc5182baa98b008b3d26d6feff0b96d758",
+      "size": 1507190,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch04.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "6dbe7f05d86620a830ca06dbd9fe2ac97c941c6eb85a6d6b2eb63a1813f2f57d",
+      "size": 1105770,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch05.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "b50951b604b08fecd6f500d827508c2cf281e0dd073d1b37e4d5affe59042eb7",
+      "size": 1714174,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch06.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "ba476cfd5785228f1b0cfd8d5d98ea6b671dc1c5224d020c8d4a05c48e3d2aaa",
+      "size": 1481872,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch07.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "dacfb1a99c0a49920a49e8fef0042b065ec19b9b9a8161ae6f60fd1288648886",
+      "size": 975559,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch08.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "586e624087556ff371d7cfde6fd050da3c3e09961cdbd829a91b267035393f6e",
+      "size": 618606,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "5a232b259be73389ce82266d3f358935546f1d4e01f5fb08cdf53776c3eb015b",
+      "size": 9883858,
+      "members": [
+        "pdfs/india-contemporary-world-2/2011-10-17/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch06.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch07.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/ch08.pdf",
+        "pdfs/india-contemporary-world-2/2011-10-17/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2011-10-17/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20111017032327id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#prelims.pdf",
+      "wayback": "20111017032327",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "4a2fc95ace7a495b211f56e84aacc75fe8cbfb6fd3bd7d9f6dd3ec3f98dfe947",
+      "size": 680089,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2013-partial/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess305.pdf",
+      "download_url": "http://web.archive.org/web/20130612080841id_/http://ncert.nic.in/ncerts/l/jess305.pdf",
+      "wayback": "20130612080841",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "01bf127d6f5b0691c505b6b2b23480c2133afa8f53f7b2295bf336f6670565af",
+      "size": 1596526,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2013-partial/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess306.pdf",
+      "download_url": "http://web.archive.org/web/20130717211914id_/http://ncert.nic.in/ncerts/l/jess306.pdf",
+      "wayback": "20130717211914",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "c627227487f876d3af182033e7496cb002a97a559e427e519be325226597f43e",
+      "size": 1361554,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2013-partial/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess308.pdf",
+      "download_url": "http://web.archive.org/web/20131019055228id_/http://ncert.nic.in/ncerts/l/jess308.pdf",
+      "wayback": "20131019055228",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "e6af4a7f5a5329af7d8fb16fe0ff692f1fc7ab2787e6028bdf87c34091a7bb24",
+      "size": 544934,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch01.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "025a1c0395072fd9108f649e92bccc443c852b9e4b28943f465b61ccaecdcc75",
+      "size": 814721,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch02.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "5c091bfc88a67fdc527adb212bd5bb3789e4ed278e55030893b61ed9af3f8253",
+      "size": 1282314,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch03.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "ec380e02ff65ff49342f2bd64a32db5758be1d8cf36016a726c37a9020530c0b",
+      "size": 1398868,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch04.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "858271cf26df93c89dd51ccc8b1c697d009443bd16689c4b8438d218acae3df4",
+      "size": 980670,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch05.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "01bf127d6f5b0691c505b6b2b23480c2133afa8f53f7b2295bf336f6670565af",
+      "size": 1596526,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch06.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "c627227487f876d3af182033e7496cb002a97a559e427e519be325226597f43e",
+      "size": 1361554,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch07.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "cabe42f5f03ebdcede2d1d86c822cd43588cb4043d7a4bc3bdb79570fb537181",
+      "size": 850051,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#ch08.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "33dc9845a2d72bf4924174b2071486c925295012fa98e9257838f4b25cba6297",
+      "size": 1420400,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "8f047aea8e7ca78c96aaf98081bcd94e6b9750420ca67d1be8d83e16fa038b7d",
+      "size": 10609169,
+      "members": [
+        "pdfs/india-contemporary-world-2/2014-09-07/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch06.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch07.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/ch08.pdf",
+        "pdfs/india-contemporary-world-2/2014-09-07/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2014-09-07/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20140907124444id_/http://ncert.nic.in/ncerts/l/jess3dd.zip#prelims.pdf",
+      "wayback": "20140907124444",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "044ab339f1e2a64d8606e49b8fdea99eb267eb1b8365f3e73c3f82202f6ac724",
+      "size": 1302442,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2015-partial/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess303.pdf",
+      "download_url": "http://web.archive.org/web/20150225231204id_/http://ncert.nic.in/ncerts/l/jess303.pdf",
+      "wayback": "20150225231204",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "ec380e02ff65ff49342f2bd64a32db5758be1d8cf36016a726c37a9020530c0b",
+      "size": 1398868,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess301.pdf",
+      "download_url": "http://web.archive.org/web/20160327150557id_/http://ncert.nic.in/ncerts/l/jess301.pdf",
+      "wayback": "20160327150557",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "025a1c0395072fd9108f649e92bccc443c852b9e4b28943f465b61ccaecdcc75",
+      "size": 814721,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess302.pdf",
+      "download_url": "http://web.archive.org/web/20161213040725id_/http://ncert.nic.in/ncerts/l/jess302.pdf",
+      "wayback": "20161213040725",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "5c091bfc88a67fdc527adb212bd5bb3789e4ed278e55030893b61ed9af3f8253",
+      "size": 1282314,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess304.pdf",
+      "download_url": "http://web.archive.org/web/20160705033846id_/http://ncert.nic.in/ncerts/l/jess304.pdf",
+      "wayback": "20160705033846",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "858271cf26df93c89dd51ccc8b1c697d009443bd16689c4b8438d218acae3df4",
+      "size": 980670,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess307.pdf",
+      "download_url": "http://web.archive.org/web/20160909212649id_/http://ncert.nic.in/ncerts/l/jess307.pdf",
+      "wayback": "20160909212649",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "cabe42f5f03ebdcede2d1d86c822cd43588cb4043d7a4bc3bdb79570fb537181",
+      "size": 850051,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess308.pdf",
+      "download_url": "http://web.archive.org/web/20161019210213id_/http://ncert.nic.in/ncerts/l/jess308.pdf",
+      "wayback": "20161019210213",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "33dc9845a2d72bf4924174b2071486c925295012fa98e9257838f4b25cba6297",
+      "size": 1420400,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2016-partial/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3ps.pdf",
+      "download_url": "http://web.archive.org/web/20160615225107id_/http://ncert.nic.in/ncerts/l/jess3ps.pdf",
+      "wayback": "20160615225107",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "044ab339f1e2a64d8606e49b8fdea99eb267eb1b8365f3e73c3f82202f6ac724",
+      "size": 1302442,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2018-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess301.pdf",
+      "download_url": "http://web.archive.org/web/20180712233005id_/https://ncert.nic.in/textbook/pdf/jess301.pdf",
+      "wayback": "20180712233005",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "72143564586ddd0c7d969a8b466ed42f425e0da479de2469f1c14c5543f8b19f",
+      "size": 4208080,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2018-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess306.pdf",
+      "download_url": "http://web.archive.org/web/20180921044138id_/https://ncert.nic.in/textbook/pdf/jess306.pdf",
+      "wayback": "20180921044138",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "d2642d80a11b3c4faeeec0daa6d07f632e2c040203db0eaf39ea5de37900bddf",
+      "size": 5819332,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2018-partial/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess308.pdf",
+      "download_url": "http://web.archive.org/web/20181223001829id_/https://ncert.nic.in/textbook/pdf/jess308.pdf",
+      "wayback": "20181223001829",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "2070ac9637869049b8057aeab479048144555f2fac052344a76b22789c13b005",
+      "size": 3829408,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "72143564586ddd0c7d969a8b466ed42f425e0da479de2469f1c14c5543f8b19f",
+      "size": 4208080,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "66060e3ee8a62e7b414e6dad0517d63fc03e1292f9ec00417043c0f5a9095d8d",
+      "size": 4721558,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "85bf88a304a9aec9de5545e8cab9efa7ca90d08051b4ab7ca645e751a82806c8",
+      "size": 3762966,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "2f25b619713c5948559f25c9edb6877079d9d31c54f7c48185681b72a2a6a484",
+      "size": 4606805,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "ede347f869f5d1e1313259694fa2c474d73458502ac8ad4974881e1d89d20461",
+      "size": 4763826,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch06.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "d2642d80a11b3c4faeeec0daa6d07f632e2c040203db0eaf39ea5de37900bddf",
+      "size": 5819332,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch07.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "3ed795c55ec866e5a69103610290047eab135c1cbc6e4292479ddcb77bb38796",
+      "size": 5046439,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch08.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "2070ac9637869049b8057aeab479048144555f2fac052344a76b22789c13b005",
+      "size": 3829408,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "83deb46d9bfe4037bd3691190a794957888f5f591de28e9162c99e5d7b9618a6",
+      "size": 37045487,
+      "members": [
+        "pdfs/india-contemporary-world-2/2019-03-12/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch06.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch07.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/ch08.pdf",
+        "pdfs/india-contemporary-world-2/2019-03-12/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-03-12/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190312174053id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20190312174053",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "de3c164abe8ecd878b019961c7c6280af86eaf4d8c3bf732d58bdc7aa600128a",
+      "size": 840218,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "c34733a39bce72f06698f4023419371191e1fc284ebdc49cfc1287577682ffbd",
+      "size": 5535924,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "7c7abeca5b26751aaa49628899ae29dff1d039c1f771e2d4136927ba9fa6105c",
+      "size": 5135749,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "33a6a39b40ef4de8e2a3e8b43d902873e279e1b580acec3d0fb2d026a9eb6d2f",
+      "size": 6011950,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "adeaf68934d413be01829f39c4d94a0a4bcc5dee4117695f79c0382fcec7dfb2",
+      "size": 5961262,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "8c4792e4166308c9f6d26fb4cd906fb13c9f1fcc92f91fc3e8be61e56a05269a",
+      "size": 5298886,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "f4e7524f58be578954ce3a64d823cf1c47609c6f2eb96b2150366e0a18e658a7",
+      "size": 28529808,
+      "members": [
+        "pdfs/india-contemporary-world-2/2019-05-04/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2019-05-04/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2019-05-04/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2019-05-04/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2019-05-04/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2019-05-04/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2019-05-04/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190504054805id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20190504054805",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "3e00cf6e695cdd72329f19d6726637f972cb3db6c073bad5d9bccddfc6d6cefa",
+      "size": 1661722,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "8f1bb0da1ebdf2b0dc845ae92b1606a232d190ecd14404854551c37340eade1b",
+      "size": 5890578,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "740698b2336b3d9c69c2cd9f03494680e32fc7175cb1f78179070bcc2a7feb34",
+      "size": 5228050,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "c9573a34bf43dcabcaa6d91d525b4062f344dccc2a60eb2c2c1551727978e320",
+      "size": 6253563,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "3f9a817c1266b8d8770e1d20f71168c62a26a63b370d7c47602cc733b5e7149b",
+      "size": 6152399,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "f045b3b792a45eae2db6adb1351a5794c70f2a015a4d8e9622dfcc461a673f6a",
+      "size": 6518169,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "81e9fe9c8b13ca7d860f8a1cc4f8f0a7c5b5daeb5f4df38691344b87fc26e825",
+      "size": 31419433,
+      "members": [
+        "pdfs/india-contemporary-world-2/2020-05-17/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2020-05-17/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2020-05-17/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2020-05-17/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2020-05-17/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2020-05-17/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2020-05-17/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20200517154230id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20200517154230",
+      "fetched_at": "2026-10-20T08:04:59+00:00",
+      "sha256": "e17ec6e5fe15c6ccdf36a4705f6306fb470f2c9abff542d9ef2523ac855d86be",
+      "size": 1693673,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2021-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess301.pdf",
+      "download_url": "http://web.archive.org/web/20211018060915id_/https://ncert.nic.in/textbook/pdf/jess301.pdf",
+      "wayback": "20211018060915",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "fdb07b2cf243f562b7e5b2606c90e4bad9a3fe0ed9b5a091c313c0bb3d3846e8",
+      "size": 5544391,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2021-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+      "download_url": "http://web.archive.org/web/20210815060515id_/https://ncert.nic.in/textbook/pdf/jess302.pdf",
+      "wayback": "20210815060515",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "682cfc9c3c597800ca6fe5cf8073efcc432c28a5753f5eaf260b6d9a0eadd5c6",
+      "size": 5143521,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2021-partial/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess303.pdf",
+      "download_url": "http://web.archive.org/web/20211018060720id_/https://ncert.nic.in/textbook/pdf/jess303.pdf",
+      "wayback": "20211018060720",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "be7ff766c718824d4cf73a5395dd6091a370ed44067cdebf3ea5ac98234d7859",
+      "size": 6020403,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2021-partial/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess304.pdf",
+      "download_url": "http://web.archive.org/web/20211018060826id_/https://ncert.nic.in/textbook/pdf/jess304.pdf",
+      "wayback": "20211018060826",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "f2025d1749137976603d3436f59248987ed238bb7c46e4cd82d2441ad10958d4",
+      "size": 5969244,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2021-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess305.pdf",
+      "download_url": "http://web.archive.org/web/20211018060808id_/https://ncert.nic.in/textbook/pdf/jess305.pdf",
+      "wayback": "20211018060808",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "42d1fa4c5c7fe7fd945fa8ca47669d7ab91668b5988d0e269712ada750a526ab",
+      "size": 5306242,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "7ffcd9ec802ddf5ccbc5b9752b101a2296bfd2c797381487ec3461753c0837f1",
+      "size": 5955277,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "ee8ff698389734cf76402ab988b3b461fea611f5895f3119adeae054511358b1",
+      "size": 5291711,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "dbbfab9d18d23318a1ea7d3d9bc18d9e79d6c50620962314e300bd51875bb3e2",
+      "size": 6320412,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "96e6ff51686899dd792e4d3d810555d12942ce1bdf1b4ef03c29e23b29ba1ff4",
+      "size": 6213329,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "741f4bcdf2f5f6de9c975e549547a7a2f84e544570fab217fd5663a07245f7f3",
+      "size": 6590006,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "143e0a19daf109a70622d91116ea6fd6c3e3ee536638cc2c83a09a4c38936206",
+      "size": 31187679,
+      "members": [
+        "pdfs/india-contemporary-world-2/2022-08-24/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2022-08-24/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2022-08-24/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2022-08-24/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2022-08-24/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2022-08-24/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2022-08-24/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20220824131503id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20220824131503",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "0b60a52765d1a99a855d024afae3365d8cc2ff15cadb7d6cf276f6ac92fadc60",
+      "size": 2321663,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "5a0bebe00416b7be36552cc66bb9467a8566007d21be127ad7a0394bea917862",
+      "size": 5533286,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b54d551c23f0096508517b0f5f56b866b2d95e8048c7f4bbc018ce49bb7f0263",
+      "size": 5145625,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "acc84d7dbacee7259e815df8837681dff6497349cb3709fd658351b9703eb6b8",
+      "size": 6022552,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "893a4fbf09c4f4fff482764410c7f95423f5d44874b13e03dfad7602648ed3dd",
+      "size": 5971329,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3b174a46dfce8bcfdc0d7dfa4d55e3a81d6eb12ce81882e8ccd0b1f81426e4c5",
+      "size": 5308316,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "ab4699d3cd431265ab5a208ed85f34bc8a9c5b89cf1f865c7d04f28cc043a6b0",
+      "size": 28614291,
+      "members": [
+        "pdfs/india-contemporary-world-2/2023-12-23/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2023-12-23/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2023-12-23/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2023-12-23/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2023-12-23/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2023-12-23/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2023-12-23/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20231223073634id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20231223073634",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "19d9edd925095aa36b037ce649bb3e136bd706ffc405072d4109dfc86f6a161a",
+      "size": 1705989,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2024-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess302.pdf",
+      "download_url": "http://web.archive.org/web/20240726102737id_/https://ncert.nic.in/textbook/pdf/jess302.pdf",
+      "wayback": "20240726102737",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "5a8a914af942ef73d2bf0a16957d3887766a10b44dbc01fb0504d521345839d7",
+      "size": 5095635,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2024-partial/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess304.pdf",
+      "download_url": "http://web.archive.org/web/20240608104115id_/https://ncert.nic.in/textbook/pdf/jess304.pdf",
+      "wayback": "20240608104115",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "7be48d73f903c538397086167b0330458b8f82dfcb10519cbaf440daceaf2190",
+      "size": 6173501,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2024-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess305.pdf",
+      "download_url": "http://web.archive.org/web/20240110072800id_/https://ncert.nic.in/textbook/pdf/jess305.pdf",
+      "wayback": "20240110072800",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3b174a46dfce8bcfdc0d7dfa4d55e3a81d6eb12ce81882e8ccd0b1f81426e4c5",
+      "size": 5308316,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2024-partial/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3ps.pdf",
+      "download_url": "http://web.archive.org/web/20240110155555id_/https://ncert.nic.in/textbook/pdf/jess3ps.pdf",
+      "wayback": "20240110155555",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "19d9edd925095aa36b037ce649bb3e136bd706ffc405072d4109dfc86f6a161a",
+      "size": 1705989,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3e6c0680c1363b37b0f1bf5754698ff5ffc927968467c861ffce76bdf28ad4e9",
+      "size": 5955349,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "5a8a914af942ef73d2bf0a16957d3887766a10b44dbc01fb0504d521345839d7",
+      "size": 5095635,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "35fd30e505a48236201f51e5f29f0818db8450ae39deeed7da520c88dc37d9b6",
+      "size": 6288062,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "7be48d73f903c538397086167b0330458b8f82dfcb10519cbaf440daceaf2190",
+      "size": 6173501,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b88e77fe7e34cffa7e3f9e8ec98eec310edb5ead1e908be1c5f70246bcdf7a2b",
+      "size": 6536539,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-02-12/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20250212190631id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20250212190631",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "7a8c3e0ff7ad01174c3b5ac86f0366687d6c82dfb6e7486559026cdb32a21fc5",
+      "size": 28855511,
+      "members": [
+        "pdfs/india-contemporary-world-2/2025-02-12/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2025-02-12/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2025-02-12/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2025-02-12/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2025-02-12/ch05.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "51dd75b3e22d41ecb3a2ef5a296144d9de94eb1c07a202f3ec81c9e6f4ed0c9a",
+      "size": 5639921,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3cc917842905f78e1c7391f59a2f29ae1b2140aee37852c862cc6be59a56fb5a",
+      "size": 5018520,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "0e8ec97441ed984af59fbd334212084a27eb02472425001a62f18e751b7d9a35",
+      "size": 6060619,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "c746cdd710c72eb184e1811e1e66e7634672e7539639b7881b6fac418073f7aa",
+      "size": 6015787,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "da7b32b37825c808a74fa1b69c1f2bbc2e0d26470eff25b1f605ad6712f17138",
+      "size": 5355233,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "a5d10b32d8d0fa96a0166634d04622225e2ba3fc03d6c8f927d7492666a76728",
+      "size": 28717916,
+      "members": [
+        "pdfs/india-contemporary-world-2/2025-04-22/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2025-04-22/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2025-04-22/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2025-04-22/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2025-04-22/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2025-04-22/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2025-04-22/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20250422205455id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20250422205455",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "88c69518546392d06cc61c11cbcd69f7f4de2f3a1228f4fdb60db7817a4ea81d",
+      "size": 1711325,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b66dc3c971b610d0d56046450e23d494327f591fcc9afcf4ecdffc46b32252af",
+      "size": 5649051,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "774b4b9d379b94888a9dd124c079a34c913f845d51ad193b4c5695d3b961a03f",
+      "size": 5057222,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "d05d0e3fae418f3e9609410897df1bcfd03db9c1b8278ab4e5545ac32efb1de3",
+      "size": 6060574,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "4d9221dd6d954eb57c151e549405bfbaa1a9668ef7ec80e15fad70d371541fb4",
+      "size": 6015785,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b51d5a431f0624a7a7a68242dd02f150c3d6ebf2c6b3645f4270103bdc497f89",
+      "size": 5466596,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "a31b1fe76a0b6588fb681415acfcb7bf533033cc2184da737c81915fed11b2ab",
+      "size": 29113574,
+      "members": [
+        "pdfs/india-contemporary-world-2/2026-05-08/ch01.pdf",
+        "pdfs/india-contemporary-world-2/2026-05-08/ch02.pdf",
+        "pdfs/india-contemporary-world-2/2026-05-08/ch03.pdf",
+        "pdfs/india-contemporary-world-2/2026-05-08/ch04.pdf",
+        "pdfs/india-contemporary-world-2/2026-05-08/ch05.pdf",
+        "pdfs/india-contemporary-world-2/2026-05-08/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/2026-05-08/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20260508225525id_/https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": "20260508225525",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "d871b4c8c86ca614afc8d5b222bec05f7cef1dad27d3722bec0975583c911598",
+      "size": 1952381,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch01.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch01.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch01.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "8f1bb0da1ebdf2b0dc845ae92b1606a232d190ecd14404854551c37340eade1b",
+      "size": 5890578,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch02.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch02.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch02.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "740698b2336b3d9c69c2cd9f03494680e32fc7175cb1f78179070bcc2a7feb34",
+      "size": 5228050,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch03.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch03.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch03.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "c9573a34bf43dcabcaa6d91d525b4062f344dccc2a60eb2c2c1551727978e320",
+      "size": 6253563,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch04.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch04.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch04.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3f9a817c1266b8d8770e1d20f71168c62a26a63b370d7c47602cc733b5e7149b",
+      "size": 6152399,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch05.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch05.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#ch05.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "f045b3b792a45eae2db6adb1351a5794c70f2a015a4d8e9622dfcc461a673f6a",
+      "size": 6518169,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/full-book.zip",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "81e9fe9c8b13ca7d860f8a1cc4f8f0a7c5b5daeb5f4df38691344b87fc26e825",
+      "size": 31419433,
+      "members": [
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch01.pdf",
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch02.pdf",
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch03.pdf",
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch04.pdf",
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/ch05.pdf",
+        "pdfs/india-contemporary-world-2/archive-org-2019-reprint/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2019-reprint/prelims.pdf",
+      "source_url": "https://archive.org/download/jess3dd/jess3dd.zip#prelims.pdf",
+      "download_url": "https://archive.org/download/jess3dd/jess3dd.zip#prelims.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "e17ec6e5fe15c6ccdf36a4705f6306fb470f2c9abff542d9ef2523ac855d86be",
+      "size": 1693673,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/ch01.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess301.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess301.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "8f1bb0da1ebdf2b0dc845ae92b1606a232d190ecd14404854551c37340eade1b",
+      "size": 5890578,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/ch02.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess302.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess302.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "740698b2336b3d9c69c2cd9f03494680e32fc7175cb1f78179070bcc2a7feb34",
+      "size": 5228050,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/ch03.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess303.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess303.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "c9573a34bf43dcabcaa6d91d525b4062f344dccc2a60eb2c2c1551727978e320",
+      "size": 6253563,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/ch04.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess304.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess304.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "3f9a817c1266b8d8770e1d20f71168c62a26a63b370d7c47602cc733b5e7149b",
+      "size": 6152399,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/ch05.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess305.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess305.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "f045b3b792a45eae2db6adb1351a5794c70f2a015a4d8e9622dfcc461a673f6a",
+      "size": 6518169,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/archive-org-2020-21/prelims.pdf",
+      "source_url": "https://archive.org/download/ncert-jess3/jess3ps.pdf",
+      "download_url": "https://archive.org/download/ncert-jess3/jess3ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "e17ec6e5fe15c6ccdf36a4705f6306fb470f2c9abff542d9ef2523ac855d86be",
+      "size": 1693673,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/covers/2015-12-20.jpg",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess3cc.jpg",
+      "download_url": "http://web.archive.org/web/20151220202815id_/http://ncert.nic.in/ncerts/l/jess3cc.jpg",
+      "wayback": "20151220202815",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "dcf1726a2a417ff53bbd687612b4f7ef56585b3c8246bb2904e65b1578607b5c",
+      "size": 74650,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/covers/2022-08-09.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "download_url": "http://web.archive.org/web/20220809155421id_/https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "wayback": "20220809155421",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "8e1d3001adcf5052291e45551cf73a6ed78bf01c861a4853b1194b9a88dfa8a4",
+      "size": 183030,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/covers/2026-08-16.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "download_url": "http://web.archive.org/web/20260816135443id_/https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "wayback": "20260816135443",
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "8e03ddd238f62262310e16813333ea9bf6f60ed2b871398bee359f37f4298835",
+      "size": 76282,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/covers/live.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3cc.jpg",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "8e03ddd238f62262310e16813333ea9bf6f60ed2b871398bee359f37f4298835",
+      "size": 76282,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch01.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b66dc3c971b610d0d56046450e23d494327f591fcc9afcf4ecdffc46b32252af",
+      "size": 5649051,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch02.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "774b4b9d379b94888a9dd124c079a34c913f845d51ad193b4c5695d3b961a03f",
+      "size": 5057222,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch03.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "d05d0e3fae418f3e9609410897df1bcfd03db9c1b8278ab4e5545ac32efb1de3",
+      "size": 6060574,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch04.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "4d9221dd6d954eb57c151e549405bfbaa1a9668ef7ec80e15fad70d371541fb4",
+      "size": 6015785,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#ch05.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "b51d5a431f0624a7a7a68242dd02f150c3d6ebf2c6b3645f4270103bdc497f89",
+      "size": 5466596,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "a31b1fe76a0b6588fb681415acfcb7bf533033cc2184da737c81915fed11b2ab",
+      "size": 29113574,
+      "members": [
+        "pdfs/india-contemporary-world-2/live-2026-10-20/ch01.pdf",
+        "pdfs/india-contemporary-world-2/live-2026-10-20/ch02.pdf",
+        "pdfs/india-contemporary-world-2/live-2026-10-20/ch03.pdf",
+        "pdfs/india-contemporary-world-2/live-2026-10-20/ch04.pdf",
+        "pdfs/india-contemporary-world-2/live-2026-10-20/ch05.pdf",
+        "pdfs/india-contemporary-world-2/live-2026-10-20/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/live-2026-10-20/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess3dd.zip#prelims.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "d871b4c8c86ca614afc8d5b222bec05f7cef1dad27d3722bec0975583c911598",
+      "size": 1952381,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch01.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess301.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess301.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "025a1c0395072fd9108f649e92bccc443c852b9e4b28943f465b61ccaecdcc75",
+      "size": 814721,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch02.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess302.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess302.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "5c091bfc88a67fdc527adb212bd5bb3789e4ed278e55030893b61ed9af3f8253",
+      "size": 1282314,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch03.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess303.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess303.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "ec380e02ff65ff49342f2bd64a32db5758be1d8cf36016a726c37a9020530c0b",
+      "size": 1398868,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch04.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess304.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess304.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "858271cf26df93c89dd51ccc8b1c697d009443bd16689c4b8438d218acae3df4",
+      "size": 980670,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch05.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess305.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess305.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "01bf127d6f5b0691c505b6b2b23480c2133afa8f53f7b2295bf336f6670565af",
+      "size": 1596526,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch06.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess306.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess306.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "c627227487f876d3af182033e7496cb002a97a559e427e519be325226597f43e",
+      "size": 1361554,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch07.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess307.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess307.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "cabe42f5f03ebdcede2d1d86c822cd43588cb4043d7a4bc3bdb79570fb537181",
+      "size": 850051,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/ch08.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess308.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess308.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "33dc9845a2d72bf4924174b2071486c925295012fa98e9257838f4b25cba6297",
+      "size": 1420400,
+      "members": []
+    },
+    {
+      "path": "pdfs/india-contemporary-world-2/rungtaias-undated/prelims.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess3ps.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20History%20-%20India%20and%20the%20Contemporary%20World-II/jess3ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:05:00+00:00",
+      "sha256": "044ab339f1e2a64d8606e49b8fdea99eb267eb1b8365f3e73c3f82202f6ac724",
+      "size": 1302442,
+      "members": []
+    }
+  ]
+}

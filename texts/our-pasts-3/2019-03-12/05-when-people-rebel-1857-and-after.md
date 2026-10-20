@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2019-03-12"
 snapshots:
   - "2019-03-12"
+  - "archive-org-oldncert-2018-19"
 part: 1
 chapter: 5
 title: "When People Rebel 1857 and After"

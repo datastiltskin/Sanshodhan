@@ -5,6 +5,7 @@ edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
   - "rungtaias-2015-16"
+  - "2015-partial"
   - "2017-partial"
 chapter: 2
 title: "NEW KINGS AND KINGDOMS"

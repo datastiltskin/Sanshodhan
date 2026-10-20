@@ -5,6 +5,7 @@ edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
   - "rungtaias-2015-16"
+  - "2018-partial"
 chapter: 7
 title: "Understanding Marginalisation"
 source_pdf: "pdfs/social-political-life-3/2016-09-10/ch07.pdf"

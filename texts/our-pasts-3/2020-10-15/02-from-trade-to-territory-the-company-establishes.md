@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2020-10-15"
 snapshots:
   - "2020-10-15"
+  - "archive-org-2020-21"
 chapter: 2
 title: "From Trade to Territory The Company Establishes Power"
 source_pdf: "pdfs/our-pasts-3/2020-10-15/ch02.pdf"

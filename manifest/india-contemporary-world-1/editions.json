@@ -1,0 +1,665 @@
+{
+  "book": "india-contemporary-world-1",
+  "title": "India and the Contemporary World I",
+  "editions": [
+    {
+      "id": "2014-07-28",
+      "fingerprint": "813ab77aeeae1e569b2a311e81a6e6ea79d7aef47fe81fcb74d55e90296a73f9",
+      "snapshots": [
+        "2014-07-28",
+        "2016-09-10",
+        "rungtaias-undated",
+        "2017-partial",
+        "2018-ncerts-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "February 2007",
+            "December 2007",
+            "January 2009"
+          ],
+          "latest_print": "January 2009",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 13
+        }
+      },
+      "chapter_count": 7,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch01.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "1-24",
+          "fingerprint": "e08eca0e050fbd8aaa50062da783d5cad02d5a1430161e789c4b17ff6f58aa49",
+          "role_counts": {
+            "footer": 24,
+            "body": 89,
+            "h2": 23,
+            "caption": 113,
+            "h3": 7,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Socialism in Europe and the Russian Revolution",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "25-48",
+          "fingerprint": "6cc6d155f6d3d6a7848431934ddb1001cd74e44b7cec18d008356359a105f543",
+          "role_counts": {
+            "footer": 24,
+            "h2": 16,
+            "body": 120,
+            "h3": 9,
+            "caption": 99,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/02-socialism-in-europe-and-the-russian-revolution.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "75-96",
+          "fingerprint": "a13c0a4d9fe0b4918be56758a387de1b92aa6935b92fc7a0fd8d8984065e3c1e",
+          "role_counts": {
+            "footer": 22,
+            "body": 90,
+            "h2": 13,
+            "caption": 63,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/04-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Pastoralists in the Modern W astoralists in the Modern World",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch05.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "97-116",
+          "fingerprint": "a789561c5abfd8bf237dd8b16cad70ee1ed8f9f9d20d6566638b27be3f2b8e34",
+          "role_counts": {
+            "footer": 20,
+            "h2": 9,
+            "body": 76,
+            "caption": 59,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch03.pdf",
+          "pdf_pages": 1,
+          "printed_pages": "74-74",
+          "fingerprint": "88ab2c58539c749bf4f5a005ecfe7fca79b3b167c0ae917ffb6cb5cf6d23e311",
+          "role_counts": {
+            "footer": 1,
+            "h2": 2,
+            "body": 9,
+            "chapter-number": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch07.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "139-158",
+          "fingerprint": "3309d34d135f04cabc4487789b09c051ad2adf9bda4e3380dc19f54addc8e221",
+          "role_counts": {
+            "footer": 20,
+            "h2": 10,
+            "body": 75,
+            "caption": 69,
+            "h3": 6,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/07-section-iii.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Clothing: A Social History",
+          "pdf": "pdfs/india-contemporary-world-1/2014-07-28/ch08.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "159-178",
+          "fingerprint": "cc26f4b1a7e6cb6ad74ed90f8d329d434855ab7da9ec48201f859e5195a7a4cd",
+          "role_counts": {
+            "footer": 20,
+            "h2": 16,
+            "body": 114,
+            "caption": 84,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2014-07-28/08-clothing-a-social-history.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-03-12",
+      "fingerprint": "150536f6646d02ed721b45f90570b58907c12f76c5b19cea674a2626919c8253",
+      "snapshots": [
+        "2019-03-12",
+        "2018-partial",
+        "2020-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "February 2007",
+            "December 2007",
+            "January 2009",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "October 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017"
+          ],
+          "latest_print": "December 2017",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 7,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch01.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "1-24",
+          "fingerprint": "2b2e80df48fee25d89d38cd195ea2645eb716a2a335551dd541706596c30d0c4",
+          "role_counts": {
+            "footer": 48,
+            "body": 96,
+            "h2": 23,
+            "caption": 116,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Socialism in Europe and the Russian Revolution",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "25-48",
+          "fingerprint": "311784c9723011b9e2d58f7d116cf19c5b27f514b05067df0abf9c15d5604aaa",
+          "role_counts": {
+            "footer": 48,
+            "h2": 16,
+            "body": 125,
+            "caption": 101,
+            "h3": 3,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/02-socialism-in-europe-and-the-russian-revolution.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "75-96",
+          "fingerprint": "e86b4e9cf3fdf904e4b1e3369f64986c989ef735e6285f1001bafd63ef07fa88",
+          "role_counts": {
+            "footer": 44,
+            "body": 90,
+            "h2": 13,
+            "caption": 63,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/04-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Pastoralists in the Modern W astoralists in the Modern World",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch05.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "97-116",
+          "fingerprint": "15244e9a92f6cf670f8a49edab7a7ef5477ec5bf23d427f655a8e312d882bfc8",
+          "role_counts": {
+            "footer": 40,
+            "h2": 9,
+            "body": 79,
+            "caption": 60
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch03.pdf",
+          "pdf_pages": 1,
+          "printed_pages": "74-74",
+          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
+          "role_counts": {
+            "footer": 2,
+            "h2": 2,
+            "body": 9,
+            "chapter-number": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch07.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "139-158",
+          "fingerprint": "9361c6007704ad74ebed3e031dc65e652619490379b294d99a430e2ecaf05296",
+          "role_counts": {
+            "footer": 40,
+            "h2": 10,
+            "body": 81,
+            "caption": 70,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/07-section-iii.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Clothing: A Social History",
+          "pdf": "pdfs/india-contemporary-world-1/2019-03-12/ch08.pdf",
+          "pdf_pages": 21,
+          "printed_pages": "159-179",
+          "fingerprint": "e056d24c38101b317edaadf036600e3e8decade8a61fd153f6078867608ee91e",
+          "role_counts": {
+            "footer": 42,
+            "h2": 16,
+            "body": 121,
+            "caption": 84,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2019-03-12/08-clothing-a-social-history.md"
+        }
+      ]
+    },
+    {
+      "id": "2021-08-15",
+      "fingerprint": "bdedfeefeda73fc789986699bac25fbac3a3880162c3d48d22cf7a211f8b08df",
+      "snapshots": [
+        "2021-08-15",
+        "2022-08-02",
+        "2023-12-23",
+        "2025-04-27",
+        "archive-org-2020-21",
+        "archive-org-oldncert-2025-26"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "February 2007",
+            "December 2007",
+            "January 2009",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "October 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "January 2019",
+            "August 2019"
+          ],
+          "latest_print": "August 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch01.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "1-24",
+          "fingerprint": "2b2e80df48fee25d89d38cd195ea2645eb716a2a335551dd541706596c30d0c4",
+          "role_counts": {
+            "footer": 48,
+            "body": 96,
+            "h2": 23,
+            "caption": 116,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Socialism in Europe and the Russian Revolution",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "25-48",
+          "fingerprint": "311784c9723011b9e2d58f7d116cf19c5b27f514b05067df0abf9c15d5604aaa",
+          "role_counts": {
+            "footer": 48,
+            "h2": 16,
+            "body": 125,
+            "caption": 101,
+            "h3": 3,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/02-socialism-in-europe-and-the-russian-revolution.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "75-96",
+          "fingerprint": "4a26883f2730e3dfbb32ced280c01a4b674053d304c0bc5ebabe0130873ec7bb",
+          "role_counts": {
+            "footer": 44,
+            "body": 89,
+            "h2": 13,
+            "caption": 63,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/04-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Pastoralists in the Modern W astoralists in the Modern World",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch05.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "97-118",
+          "fingerprint": "9270d63fc29de6843d6efced56c17bbac625ef65330d11c6b67c450a1a670df2",
+          "role_counts": {
+            "footer": 43,
+            "h2": 10,
+            "body": 91,
+            "caption": 60
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
+          "pdf": "pdfs/india-contemporary-world-1/2021-08-15/ch03.pdf",
+          "pdf_pages": 1,
+          "printed_pages": "74-74",
+          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
+          "role_counts": {
+            "footer": 2,
+            "h2": 2,
+            "body": 9,
+            "chapter-number": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2021-08-15/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-08-04",
+      "fingerprint": "faac16df2355c33e731f650ad66a9c36b1c595bb9e04911de3003c0c9c6c045f",
+      "snapshots": [
+        "2024-08-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "February 2007",
+            "December 2007",
+            "January 2009",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "October 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "January 2019",
+            "August 2019",
+            "March 2021",
+            "November 2021",
+            "November 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch01.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "1-24",
+          "fingerprint": "2b2e80df48fee25d89d38cd195ea2645eb716a2a335551dd541706596c30d0c4",
+          "role_counts": {
+            "footer": 48,
+            "body": 96,
+            "h2": 23,
+            "caption": 116,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Socialism in Europe and the Russian Revolution",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "25-48",
+          "fingerprint": "311784c9723011b9e2d58f7d116cf19c5b27f514b05067df0abf9c15d5604aaa",
+          "role_counts": {
+            "footer": 48,
+            "h2": 16,
+            "body": 125,
+            "caption": 101,
+            "h3": 3,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/02-socialism-in-europe-and-the-russian-revolution.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "75-96",
+          "fingerprint": "4a26883f2730e3dfbb32ced280c01a4b674053d304c0bc5ebabe0130873ec7bb",
+          "role_counts": {
+            "footer": 44,
+            "body": 89,
+            "h2": 13,
+            "caption": 63,
+            "table": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/04-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Pastoralists in the Modern W astoralists in the Modern World",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch05.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "97-118",
+          "fingerprint": "4bd960eecaeee4053e7a9782530972a46292b562a564edfeeb980523bcffd7e8",
+          "role_counts": {
+            "footer": 42,
+            "h2": 10,
+            "body": 91,
+            "caption": 60
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/05-pastoralists-in-the-modern-w-astoralists-in-the.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": ". In what ways did the Nazi state seek to establish total control over its people ??",
+          "pdf": "pdfs/india-contemporary-world-1/2024-08-04/ch03.pdf",
+          "pdf_pages": 1,
+          "printed_pages": "74-74",
+          "fingerprint": "d993a89cc8831fb9f017e79324a81626de9042d3a1040cf4926209e7e85efaaa",
+          "role_counts": {
+            "footer": 2,
+            "h2": 2,
+            "body": 9,
+            "chapter-number": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-1/2024-08-04/06-in-what-ways-did-the-nazi-state-seek-to-establis.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [],
+  "overrides_missed": []
+}

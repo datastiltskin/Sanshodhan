@@ -299,6 +299,7 @@
       "snapshots": [
         "2016-09-10",
         "rungtaias-2015-16",
+        "2015-partial",
         "2017-partial"
       ],
       "prelims": {
@@ -602,6 +603,7 @@
         "2019-05-04",
         "2020-06-16",
         "2021-08-13",
+        "archive-org-2020-21",
         "2018-partial"
       ],
       "prelims": {
@@ -1506,6 +1508,7 @@
       "fingerprint": "4b5721bb88676f07f37ecd29fc1e72273eee2a21f044ffb17bebdbf7a9ff48c0",
       "snapshots": [
         "2024-05-24",
+        "archive-org-oldncert-2024-25",
         "live-2026-10-18"
       ],
       "prelims": {
@@ -1761,6 +1764,104 @@
           "ocr_pages": null,
           "overrides": null,
           "file": "texts/our-pasts-2/2024-05-24/08-eighteenth-century-political-formations.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-partial",
+      "fingerprint": "88836101774c65e3288bdc825c991389988ca0e86734ef6d2543295862051b79",
+      "snapshots": [
+        "2025-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 2,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "INTRODUCTION: TRACING CHANGES THROUGH A THOUSAND YEARS",
+          "pdf": "pdfs/our-pasts-2/2025-partial/ch01.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "1-15",
+          "fingerprint": "7dfab0702637d5dd0b427734e7639368f4336550be0b77e9dc8b40d710dd8711",
+          "role_counts": {
+            "footer": 44,
+            "dropcap": 1,
+            "body": 107,
+            "note": 1,
+            "h2": 8,
+            "caption": 11,
+            "h3": 8,
+            "keyword": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/our-pasts-2/2025-partial/01-introduction-tracing-changes-through-a-thousand.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "THE MUGHALS (16th TO 17th CENTURY)",
+          "pdf": "pdfs/our-pasts-2/2025-partial/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "39-48",
+          "fingerprint": "7bfc390608998b33ec9a8591f05f6e63892338c076dce52dd2cb354895dee1e6",
+          "role_counts": {
+            "footer": 25,
+            "dropcap": 1,
+            "body": 66,
+            "h2": 9,
+            "caption": 11,
+            "note": 1,
+            "h3": 9,
+            "keyword": 11
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": [
+            "page 55: Jahangir's words on sulh-i kul are a quoted source box, as the 2007 printing tags them, not body text (browser review 2026-10-20)"
+          ],
+          "file": "texts/our-pasts-2/2025-partial/04-the-mughals-16th-to-17th-century.md"
+        }
+      ]
+    },
+    {
+      "id": "2026-partial",
+      "fingerprint": "4d4c55df9dec762a77a525691e7074b8bc6cd317be204b77ef00710bd948d507",
+      "snapshots": [
+        "2026-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 1,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 2,
+          "title": "KINGS AND KINGDOMS",
+          "pdf": "pdfs/our-pasts-2/2026-partial/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "0b9f98cc4fc5bd8a7d3da8feeba60bd33d39de46fd18025c1c972d517c39c6ac",
+          "role_counts": {
+            "footer": 35,
+            "dropcap": 1,
+            "body": 109,
+            "chapter-number": 1,
+            "caption": 10,
+            "h2": 5,
+            "h3": 11,
+            "keyword": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/our-pasts-2/2026-partial/02-kings-and-kingdoms.md"
         }
       ]
     }

@@ -1,0 +1,1275 @@
+{
+  "book": "india-contemporary-world-2",
+  "title": "India and the Contemporary World II",
+  "editions": [
+    {
+      "id": "2011-10-17",
+      "fingerprint": "f8ee040a46b9ac01efc002f480957c9b157baa841907f699931a375c9b4c4be4",
+      "snapshots": [
+        "2011-10-17",
+        "2013-partial",
+        "2015-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009"
+          ],
+          "latest_print": "January 2009",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Rise of Nationalism in Europe",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch01.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "3-28",
+          "fingerprint": "6402d71ece3a8978bc6065982dc8f7117f695fd065b4d50745623d34a1cb7484",
+          "role_counts": {
+            "footer": 26,
+            "body": 91,
+            "caption": 166,
+            "h2": 27,
+            "h3": 9,
+            "note": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/01-the-rise-of-nationalism-in-europe.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "The Nationalist Movement in Indo-China",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "29-52",
+          "fingerprint": "be7abc285b82dc12d656b83a623bcfb87d76634360988bcb85648878c09fdfca",
+          "role_counts": {
+            "footer": 24,
+            "body": 117,
+            "h2": 19,
+            "caption": 106,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/02-the-nationalist-movement-in-indo-china.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "53-74",
+          "fingerprint": "882c9af63b2cd4ad238a28fbdd92b22fb201c583a4f333d54c460d111a2999f3",
+          "role_counts": {
+            "footer": 22,
+            "body": 88,
+            "h2": 19,
+            "caption": 79,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/03-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Making of a Global World",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch04.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "77-102",
+          "fingerprint": "8185d5ac217db2024c85c7511c1a5cef73fff1e788fdf5fd8cf05f78528b89d6",
+          "role_counts": {
+            "footer": 26,
+            "h2": 14,
+            "body": 155,
+            "caption": 120,
+            "h3": 3,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/04-the-making-of-a-global-world.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch05.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "103-126",
+          "fingerprint": "7d56cea924c6d8168dff29010c0e9cc7053234658f25f9b002db8d34bc4b8ff6",
+          "role_counts": {
+            "footer": 24,
+            "h2": 21,
+            "body": 129,
+            "h3": 7,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/05-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Work, Life and Leisure Cities in the Contemporary World",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch06.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "127-150",
+          "fingerprint": "d851fd7942f44bf92c76d53ccea7106817a2719e37978ccffe3bf6c245e89668",
+          "role_counts": {
+            "footer": 24,
+            "body": 113,
+            "h2": 24,
+            "caption": 102,
+            "h3": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/06-work-life-and-leisure-cities-in-the-contemporary.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Print Culture and the Modern World",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch07.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "153-176",
+          "fingerprint": "dc910d6edd2d3b7c500591db24d6ffbec4328f9e0a0604d28e28b6a812cae510",
+          "role_counts": {
+            "footer": 24,
+            "body": 175,
+            "h2": 25,
+            "caption": 74,
+            "h3": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/07-print-culture-and-the-modern-world.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Novels, Society and History",
+          "pdf": "pdfs/india-contemporary-world-2/2011-10-17/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "177-199",
+          "fingerprint": "df713839dc2b4c927487d6cb3b326e5e39642bcc3fe18d96ba8b14b5f878fbb0",
+          "role_counts": {
+            "footer": 12,
+            "h2": 5,
+            "body": 52,
+            "h3": 2,
+            "caption": 37
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2011-10-17/08-novels-society-and-history.md"
+        }
+      ]
+    },
+    {
+      "id": "2014-09-07",
+      "fingerprint": "21d43723d62e00b049209739b8bc0d3f092448f07a908b3c4861c07e131a94f5",
+      "snapshots": [
+        "2014-09-07",
+        "rungtaias-undated",
+        "2016-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013"
+          ],
+          "latest_print": "November 2013",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 11
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "The Rise of Nationalism in Europe",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch01.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "3-28",
+          "fingerprint": "6402d71ece3a8978bc6065982dc8f7117f695fd065b4d50745623d34a1cb7484",
+          "role_counts": {
+            "footer": 26,
+            "body": 91,
+            "caption": 166,
+            "h2": 27,
+            "h3": 9,
+            "note": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/01-the-rise-of-nationalism-in-europe.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "The Nationalist Movement in Indo-China",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "29-52",
+          "fingerprint": "be7abc285b82dc12d656b83a623bcfb87d76634360988bcb85648878c09fdfca",
+          "role_counts": {
+            "footer": 24,
+            "body": 117,
+            "h2": 19,
+            "caption": 106,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/02-the-nationalist-movement-in-indo-china.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "53-74",
+          "fingerprint": "882c9af63b2cd4ad238a28fbdd92b22fb201c583a4f333d54c460d111a2999f3",
+          "role_counts": {
+            "footer": 22,
+            "body": 88,
+            "h2": 19,
+            "caption": 79,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/03-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Making of a Global World",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch04.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "77-102",
+          "fingerprint": "8185d5ac217db2024c85c7511c1a5cef73fff1e788fdf5fd8cf05f78528b89d6",
+          "role_counts": {
+            "footer": 26,
+            "h2": 14,
+            "body": 155,
+            "caption": 120,
+            "h3": 3,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/04-the-making-of-a-global-world.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch05.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "103-126",
+          "fingerprint": "7d56cea924c6d8168dff29010c0e9cc7053234658f25f9b002db8d34bc4b8ff6",
+          "role_counts": {
+            "footer": 24,
+            "h2": 21,
+            "body": 129,
+            "h3": 7,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/05-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Work, Life and Leisure Cities in the Contemporary World",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch06.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "127-150",
+          "fingerprint": "d851fd7942f44bf92c76d53ccea7106817a2719e37978ccffe3bf6c245e89668",
+          "role_counts": {
+            "footer": 24,
+            "body": 113,
+            "h2": 24,
+            "caption": 102,
+            "h3": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/06-work-life-and-leisure-cities-in-the-contemporary.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Print Culture and the Modern World",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch07.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "153-176",
+          "fingerprint": "dc910d6edd2d3b7c500591db24d6ffbec4328f9e0a0604d28e28b6a812cae510",
+          "role_counts": {
+            "footer": 24,
+            "body": 175,
+            "h2": 25,
+            "caption": 74,
+            "h3": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/07-print-culture-and-the-modern-world.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Novels, Society and History",
+          "pdf": "pdfs/india-contemporary-world-2/2014-09-07/ch08.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "177-200",
+          "fingerprint": "677bd9882118ed47f13d1b46e49d1bae3ed78ee2ba64f4c61d017dcc8a6a6761",
+          "role_counts": {
+            "footer": 24,
+            "h2": 13,
+            "body": 94,
+            "note": 15,
+            "h3": 4,
+            "caption": 69
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2014-09-07/08-novels-society-and-history.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-03-12",
+      "fingerprint": "3ca597794c09add086aa885ea341acd0a55c4a9c2fbdec610c1509223833d234",
+      "snapshots": [
+        "2019-03-12",
+        "2018-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017"
+          ],
+          "latest_print": "December 2017",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "f5084074fcc2a8a1378830f0011806eb1a4632372c1f8d1e4a38f207a3931562",
+          "role_counts": {
+            "h2": 29,
+            "footer": 54,
+            "body": 98,
+            "caption": 166,
+            "note": 2,
+            "h3": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "The Nationalist Movement in Indo-China",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch02.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "29-52",
+          "fingerprint": "32e63974c073b44233be17e6a9f7709b47522803eaa73c5ffb20786c93b93084",
+          "role_counts": {
+            "footer": 48,
+            "body": 118,
+            "h2": 19,
+            "caption": 108,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/02-the-nationalist-movement-in-indo-china.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "53-74",
+          "fingerprint": "c48e42a59a77a1205e38b68be5d5bde0d57da017bdbe56bf5fe498135a83fcd6",
+          "role_counts": {
+            "footer": 44,
+            "body": 93,
+            "h2": 19,
+            "caption": 84
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/03-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch04.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "75-102",
+          "fingerprint": "15645c1aae7af20e08753c3ef22659d9103afb14a0c5e71082d46555f5c9e8eb",
+          "role_counts": {
+            "h2": 16,
+            "footer": 54,
+            "body": 158,
+            "caption": 120,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/04-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch05.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "103-126",
+          "fingerprint": "0e66b2d61e0b6acfd15b731039c7baae1053ba90fb2ef2ca73b9ba442aa1c4d6",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 136,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/05-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Work, Life and Leisure Cities in the Contemporary World",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch06.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "127-150",
+          "fingerprint": "daa85979493021f379ffbfd042827069100ca4260da4a2371c38a6792eab497a",
+          "role_counts": {
+            "footer": 48,
+            "body": 122,
+            "h2": 24,
+            "caption": 102
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/06-work-life-and-leisure-cities-in-the-contemporary.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch07.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "151-176",
+          "fingerprint": "3ce9d0b6e55a4abfbae0ec726d5f1d8a653c75c8b5cac301671fc6f14fa25df4",
+          "role_counts": {
+            "h2": 27,
+            "footer": 50,
+            "body": 182,
+            "caption": 79,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/07-section-iii.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Novels, Society and History",
+          "pdf": "pdfs/india-contemporary-world-2/2019-03-12/ch08.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "177-200",
+          "fingerprint": "6a3f70a4e89f73acb083e84bffb86fe1c8934cf1fa41901d3d95c2e8b0d36151",
+          "role_counts": {
+            "footer": 48,
+            "h2": 13,
+            "body": 113,
+            "caption": 71
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-03-12/08-novels-society-and-history.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "1637f3aa991bc9bcf09c8fe7cf3ce783b3e10a3d3ab1a12d743963422155beec",
+      "snapshots": [
+        "2019-05-04",
+        "2020-05-17",
+        "2021-partial",
+        "2023-12-23",
+        "archive-org-2019-reprint",
+        "archive-org-2020-21"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "February 2019"
+          ],
+          "latest_print": "February 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-2/2019-05-04/ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "f5084074fcc2a8a1378830f0011806eb1a4632372c1f8d1e4a38f207a3931562",
+          "role_counts": {
+            "h2": 29,
+            "footer": 54,
+            "body": 98,
+            "caption": 166,
+            "note": 2,
+            "h3": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-05-04/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2019-05-04/ch02.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "29-50",
+          "fingerprint": "66f82c837b100f6224b024a61696a82cb2c358aa4402f74c24635493a793e188",
+          "role_counts": {
+            "footer": 44,
+            "body": 93,
+            "h2": 19,
+            "caption": 84
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-05-04/02-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-2/2019-05-04/ch03.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "51-78",
+          "fingerprint": "15645c1aae7af20e08753c3ef22659d9103afb14a0c5e71082d46555f5c9e8eb",
+          "role_counts": {
+            "h2": 16,
+            "footer": 54,
+            "body": 158,
+            "caption": 120,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-05-04/03-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2019-05-04/ch04.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "79-102",
+          "fingerprint": "0e66b2d61e0b6acfd15b731039c7baae1053ba90fb2ef2ca73b9ba442aa1c4d6",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 136,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-05-04/04-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2019-05-04/ch05.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "103-128",
+          "fingerprint": "3ce9d0b6e55a4abfbae0ec726d5f1d8a653c75c8b5cac301671fc6f14fa25df4",
+          "role_counts": {
+            "h2": 27,
+            "footer": 50,
+            "body": 182,
+            "caption": 81,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2019-05-04/05-section-iii.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-08-24",
+      "fingerprint": "df6c21f8e3548f1de4c93a2b605e753d9dab04dc5d3da20ec39bc7d3a2d7b09b",
+      "snapshots": [
+        "2022-08-24"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "February 2019",
+            "August 2019",
+            "January 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-2/2022-08-24/ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "f5084074fcc2a8a1378830f0011806eb1a4632372c1f8d1e4a38f207a3931562",
+          "role_counts": {
+            "h2": 29,
+            "footer": 54,
+            "body": 98,
+            "caption": 166,
+            "note": 2,
+            "h3": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2022-08-24/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2022-08-24/ch02.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "29-50",
+          "fingerprint": "54604457b7f746106ccb3f50a626bdffc013aad6dd466b564f7c6b1e0f1b36f7",
+          "role_counts": {
+            "footer": 44,
+            "body": 92,
+            "h2": 19,
+            "caption": 84,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2022-08-24/02-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-2/2022-08-24/ch03.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "51-78",
+          "fingerprint": "15645c1aae7af20e08753c3ef22659d9103afb14a0c5e71082d46555f5c9e8eb",
+          "role_counts": {
+            "h2": 16,
+            "footer": 54,
+            "body": 158,
+            "caption": 120,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2022-08-24/03-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2022-08-24/ch04.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "79-102",
+          "fingerprint": "fee4a6ce1b4736068645dc15695a5c84d4d1c6dae575e0d9f0484b2de68f85f4",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 135,
+            "caption": 70,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2022-08-24/04-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2022-08-24/ch05.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "103-128",
+          "fingerprint": "3ce9d0b6e55a4abfbae0ec726d5f1d8a653c75c8b5cac301671fc6f14fa25df4",
+          "role_counts": {
+            "h2": 27,
+            "footer": 51,
+            "body": 182,
+            "caption": 81,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2022-08-24/05-section-iii.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-partial-rationalised",
+      "fingerprint": "340c7227944d603f6d64483def278f33ef70144bfdbe768c92bc502fed633b40",
+      "snapshots": [
+        "2024-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "February 2019",
+            "August 2019",
+            "January 2021",
+            "November 2021",
+            "October 2022"
+          ],
+          "latest_print": "October 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 3,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 2,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2024-partial/ch02.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "29-50",
+          "fingerprint": "6e03d9ec22ae257a5210a29a7edb1c21854025e1ec0e67dd1ce4f65f00e82660",
+          "role_counts": {
+            "footer": 44,
+            "body": 93,
+            "h2": 19,
+            "caption": 84
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2024-partial-rationalised/02-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2024-partial/ch04.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "79-102",
+          "fingerprint": "0e66b2d61e0b6acfd15b731039c7baae1053ba90fb2ef2ca73b9ba442aa1c4d6",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 136,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2024-partial-rationalised/04-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2024-partial/ch05.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "103-128",
+          "fingerprint": "3ce9d0b6e55a4abfbae0ec726d5f1d8a653c75c8b5cac301671fc6f14fa25df4",
+          "role_counts": {
+            "h2": 27,
+            "footer": 51,
+            "body": 182,
+            "caption": 81,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2024-partial-rationalised/05-section-iii.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-02-12",
+      "fingerprint": "51acbebf89e6589442b47cb81542e0fca7351afa16bf06ea1492855b7042384f",
+      "snapshots": [
+        "2025-02-12",
+        "2025-04-22"
+      ],
+      "prelims": {},
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-2/2025-02-12/ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "41d3fc6dba1a593435251d39aa15514e621a22591ab5d010afe44854e5c1aee2",
+          "role_counts": {
+            "h2": 29,
+            "footer": 54,
+            "body": 98,
+            "caption": 166,
+            "note": 2,
+            "h3": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2025-02-12/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2025-02-12/ch02.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "29-50",
+          "fingerprint": "6e03d9ec22ae257a5210a29a7edb1c21854025e1ec0e67dd1ce4f65f00e82660",
+          "role_counts": {
+            "footer": 44,
+            "body": 93,
+            "h2": 19,
+            "caption": 84
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2025-02-12/02-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-2/2025-02-12/ch03.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "51-78",
+          "fingerprint": "4782ca7c51110b30450a9b0592fcc171a343a6b57592874fdc61c935acd8dd4d",
+          "role_counts": {
+            "h2": 16,
+            "footer": 54,
+            "body": 158,
+            "caption": 120,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2025-02-12/03-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2025-02-12/ch04.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "79-102",
+          "fingerprint": "0e66b2d61e0b6acfd15b731039c7baae1053ba90fb2ef2ca73b9ba442aa1c4d6",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 136,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2025-02-12/04-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2025-02-12/ch05.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "103-128",
+          "fingerprint": "3ce9d0b6e55a4abfbae0ec726d5f1d8a653c75c8b5cac301671fc6f14fa25df4",
+          "role_counts": {
+            "h2": 27,
+            "footer": 51,
+            "body": 182,
+            "caption": 81,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2025-02-12/05-section-iii.md"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-08",
+      "fingerprint": "4334c7a6b3d209539c6621c1dc059de0659f72b09d1b6120d1b2fe615dc7a559",
+      "snapshots": [
+        "2026-05-08",
+        "live-2026-10-20"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "January 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "February 2016",
+            "December 2016",
+            "December 2017",
+            "February 2019",
+            "August 2019",
+            "January 2021",
+            "November 2021",
+            "October 2022",
+            "March 2024",
+            "June 2024",
+            "December 2024",
+            "January 2026"
+          ],
+          "latest_print": "January 2026",
+          "rationalised": null,
+          "reprint_label": "Reprint 2026-27",
+          "pages": 12
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "SECTION I",
+          "pdf": "pdfs/india-contemporary-world-2/2026-05-08/ch01.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "1-28",
+          "fingerprint": "412d72eec57a5909adfd805fa3a212e3bc99cd55ca795364c304a703c2a489d5",
+          "role_counts": {
+            "h2": 29,
+            "footer": 54,
+            "body": 98,
+            "caption": 166,
+            "note": 2,
+            "h3": 2,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2026-05-08/01-section-i.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Nationalism in India",
+          "pdf": "pdfs/india-contemporary-world-2/2026-05-08/ch02.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "29-50",
+          "fingerprint": "27b72f43e4d96ac282f9a5557bac4b28f0aac25f5f20cc6283f1ce4c1e294e92",
+          "role_counts": {
+            "footer": 44,
+            "body": 93,
+            "h2": 19,
+            "caption": 84
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2026-05-08/02-nationalism-in-india.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "SECTION II",
+          "pdf": "pdfs/india-contemporary-world-2/2026-05-08/ch03.pdf",
+          "pdf_pages": 28,
+          "printed_pages": "51-78",
+          "fingerprint": "4782ca7c51110b30450a9b0592fcc171a343a6b57592874fdc61c935acd8dd4d",
+          "role_counts": {
+            "h2": 16,
+            "footer": 54,
+            "body": 158,
+            "caption": 120,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2026-05-08/03-section-ii.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "The Age of Industrialisation",
+          "pdf": "pdfs/india-contemporary-world-2/2026-05-08/ch04.pdf",
+          "pdf_pages": 24,
+          "printed_pages": "79-102",
+          "fingerprint": "0e66b2d61e0b6acfd15b731039c7baae1053ba90fb2ef2ca73b9ba442aa1c4d6",
+          "role_counts": {
+            "footer": 48,
+            "h2": 21,
+            "body": 136,
+            "caption": 70
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2026-05-08/04-the-age-of-industrialisation.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "SECTION III",
+          "pdf": "pdfs/india-contemporary-world-2/2026-05-08/ch05.pdf",
+          "pdf_pages": 26,
+          "printed_pages": "103-128",
+          "fingerprint": "601f10fca94cfbf6cb96c7740cf6b2e0d9e0b7dd1ac521b2d9f7a135a6a12d66",
+          "role_counts": {
+            "h2": 27,
+            "footer": 51,
+            "body": 182,
+            "caption": 81,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/india-contemporary-world-2/2026-05-08/05-section-iii.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [],
+  "overrides_missed": []
+}

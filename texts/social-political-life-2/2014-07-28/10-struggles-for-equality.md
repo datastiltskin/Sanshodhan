@@ -4,13 +4,14 @@ book_title: "Social and Political Life II"
 edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
+  - "2017-partial"
 chapter: 10
 title: "Struggles for Equality"
 source_pdf: "pdfs/social-political-life-2/2014-07-28/ch10.pdf"
 source_sha256: "880472f33cb3eac4ccb296d541ad4317b3a9e9aaf7c9bc6c22cabae3218e6f7c"
 pdf_pages: 8
 printed_pages: "114-121"
-body_fingerprint: "17cd793f95523cb30d196982900beb89fccd46f630115d2da5b132fe7b4f45c6"
+body_fingerprint: "852f0d611def6ad3f7d233766fb7ed37d82dabbd4e48e7046e877b262c017de1"
 ---
 
 <!-- page 114 (pdf 1) -->
@@ -125,9 +126,41 @@ Over 1,500 persons attended a public hearing in Lucknow in 2001 to protest viole
 
 > [note] Can you make up a social advertisement on equality? You can do this in small groups.
 
-<!-- page 122 (pdf 1 of gess3rf.pdf) -->
+<!-- page 122 (pdf 1 of references.pdf) -->
 
 <!-- section: references -->
+
+## References
+
+Dreze, Jean and Aparajita Goyal. 2003. ‘Future of Mid-day Meals’.
+
+In Economic and Political Weekly.
+
+Hossein, Sakhwat Rokeya. 1905. (reprint) 1988. Sultana’s Dream.
+
+Feminist Press, New York.
+
+Kumar. Krishna. 1986. “Growing Up Male” in Seminar 318.
+
+Mazumdar, Indrani. 2007. Women and Globalization: The Impact on Women Workers in the Formal and Informal Sectors in India. Stree, Kolkata.
+
+Mead, Margaret. 1928, 1973. (edition) Growing Up In Samoa.
+
+American Museum of Natural History, Washington D.C.
+
+Parks, Rosa. 2000. Quiet Strength. Grand Rapids, Zondervan, Michigan.
+
+Rashsundari Devi. 1999. Words to Win. Translated and with an introduction by Tanika Sarkar. Zubaan, New Delhi.
+
+Roy, Tirthankar. 1999. ‘Growth and Recession in Small-Scale Industry: A Study of Tamil Nadu Powerlooms’ Economic and Political Weekly.
+
+Valmiki, Omprakash. 2003. Joothan: A Dalit’s Life. SAMYA, Kolkata.
+
+Zubaan. 1996. Poster Women: A Visual History of the Women’s Movement in India. Zubaan, New Delhi.
+
+www.cehat.org/rthc/policybrieffinal.pdf www.infochangeindia.org
+
+<!-- page 122 (pdf 1 of gess3rf.pdf) -->
 
 ## References
 

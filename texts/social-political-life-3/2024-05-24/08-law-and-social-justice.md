@@ -4,6 +4,7 @@ book_title: "Social and Political Life III"
 edition: "2024-05-24"
 snapshots:
   - "2024-05-24"
+  - "archive-org-oldncert-2024-25"
   - "live-2026-10-19"
 chapter: 8
 title: "Law and Social Justice"

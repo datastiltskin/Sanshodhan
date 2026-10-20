@@ -6,7 +6,8 @@
       "id": "2014-07-28",
       "fingerprint": "2e28afc47f1afa143c5b43c5b3acdd1c2a1e35da69d2dc3760208f84cc55ba9c",
       "snapshots": [
-        "2014-07-28"
+        "2014-07-28",
+        "2015-partial"
       ],
       "prelims": {
         "single": {
@@ -266,7 +267,8 @@
       "fingerprint": "3726137539b9becba1356ab1a851c3c4000d1efcd86f61b91b3d73edcd0f52f9",
       "snapshots": [
         "2016-09-10",
-        "rungtaias-2015-16"
+        "rungtaias-2015-16",
+        "2018-partial"
       ],
       "prelims": {
         "single": {
@@ -527,6 +529,174 @@
           "ocr_pages": null,
           "overrides": null,
           "file": "texts/social-political-life-3/2016-09-10/10-law-and-social-justice.md"
+        }
+      ]
+    },
+    {
+      "id": "2017-partial",
+      "fingerprint": "02843920a497e9e5680f537e1b972ec953a4f4065e821199a803fc63b10812da",
+      "snapshots": [
+        "2017-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2008",
+          "revised": null,
+          "reprints": [
+            "January 2009",
+            "December 2009",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014"
+          ],
+          "latest_print": "December 2014",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 10
+        }
+      },
+      "chapter_count": 6,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 2,
+          "title": "Understanding Secularism",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch02.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "18-27",
+          "fingerprint": "52bc98cd822d09f9e0ad0748527143cf41282c29795732a7c40e066940d8b9a6",
+          "role_counts": {
+            "footer": 25,
+            "chapter-number": 1,
+            "body": 25,
+            "h2": 6,
+            "caption": 17,
+            "table": 12
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/02-understanding-secularism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Why Do We Need a Parliament?",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch03.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "28-41",
+          "fingerprint": "f6635b48199efe3462c94633f826eb3b10ad76616d69ffe2badeda892e3126ea",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 48,
+            "chapter-number": 1,
+            "caption": 38,
+            "dropcap": 1,
+            "table": 25,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/03-why-do-we-need-a-parliament.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Judiciary",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "52-65",
+          "fingerprint": "0b3eeb13e4510b5ef1bfd61be402899d8b7435cfb039f7044fbb72013c9e2d20",
+          "role_counts": {
+            "footer": 34,
+            "h2": 10,
+            "body": 40,
+            "chapter-number": 1,
+            "caption": 26,
+            "table": 36,
+            "dropcap": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/05-judiciary.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Our Criminal Justice System",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "66-77",
+          "fingerprint": "0323f05e275a88bab9d241262959df54e064441ec93cd59450ae87e932e0bb46",
+          "role_counts": {
+            "footer": 30,
+            "chapter-number": 1,
+            "h2": 7,
+            "body": 28,
+            "caption": 55,
+            "dropcap": 3,
+            "table": 35
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/06-understanding-our-criminal-justice-system.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Understanding Marginalisation",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch07.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "78-93",
+          "fingerprint": "ddcb567b7d497a8ba67df58f784fa28e71dc09cea55f0a30ba436607a777c822",
+          "role_counts": {
+            "footer": 39,
+            "h2": 11,
+            "body": 47,
+            "chapter-number": 1,
+            "caption": 56,
+            "table": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/07-understanding-marginalisation.md"
+        },
+        {
+          "part": null,
+          "number": 10,
+          "title": "Law and Social Justice",
+          "pdf": "pdfs/social-political-life-3/2017-partial/ch10.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "120-134",
+          "fingerprint": "805c445e2c49bb30d64856bc91ea3df2c87ad62213a6bd617ecb42fd3a917c0a",
+          "role_counts": {
+            "footer": 16,
+            "chapter-number": 1,
+            "body": 54,
+            "h2": 8,
+            "caption": 46,
+            "table": 24,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-3/2017-partial/10-law-and-social-justice.md"
         }
       ]
     },
@@ -1841,6 +2011,7 @@
       "fingerprint": "4eb85d4258f09518bb75a0c5ce0703b310b67807246a7c9808f188b7b498f7b1",
       "snapshots": [
         "2024-05-24",
+        "archive-org-oldncert-2024-25",
         "live-2026-10-19"
       ],
       "prelims": {

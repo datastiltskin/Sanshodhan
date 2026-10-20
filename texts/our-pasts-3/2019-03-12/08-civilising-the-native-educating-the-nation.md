@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2019-03-12"
 snapshots:
   - "2019-03-12"
+  - "archive-org-oldncert-2018-19"
 part: 2
 chapter: 8
 title: "Civilising the “Native”, Educating the Nation"

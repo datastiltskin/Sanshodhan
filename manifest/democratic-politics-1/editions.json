@@ -1,0 +1,1451 @@
+{
+  "book": "democratic-politics-1",
+  "title": "Democratic Politics I",
+  "editions": [
+    {
+      "id": "2012-partial",
+      "fingerprint": "13d8c4a8c9419678dc0883cf927c84d81ec9e75d326dcc4c028e98c4d0865f90",
+      "snapshots": [
+        "2012-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 1,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER I Democracy in the Contemporary World",
+          "pdf": "pdfs/democratic-politics-1/2012-partial/ch01.pdf",
+          "pdf_pages": 21,
+          "printed_pages": "1-21",
+          "fingerprint": "20245b78e5e36162983044341d8d117293e43caf046c049c33ee6360cad0ecd4",
+          "role_counts": {
+            "footer": 31,
+            "h3": 5,
+            "body": 216,
+            "h2": 23,
+            "caption": 14,
+            "note": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2012-partial/01-chapter-i-democracy-in-the-contemporary-world.md"
+        }
+      ]
+    },
+    {
+      "id": "2014-07-28",
+      "fingerprint": "37dc33528b78f991a78b412be3c576bf8d9dccf5f5c18b3217aa027576e63a72",
+      "snapshots": [
+        "2014-07-28"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012"
+          ],
+          "latest_print": "November 2012",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 6,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER I Democracy in the Contemporary World",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch01.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "2-21",
+          "fingerprint": "e4124dce51689304c43478fbbeb412faa7fef09912fb2a1c18980e86e517cf9f",
+          "role_counts": {
+            "footer": 30,
+            "h3": 6,
+            "body": 214,
+            "h2": 26,
+            "caption": 14,
+            "note": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/01-chapter-i-democracy-in-the-contemporary-world.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch02.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "22-39",
+          "fingerprint": "a5e63927dad0e0adce72d0c9126e8ce420f60f3915854e47f99ac708440f77e8",
+          "role_counts": {
+            "footer": 26,
+            "h3": 6,
+            "body": 274,
+            "h2": 28,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/02-chapter-2-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch03.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "40-55",
+          "fingerprint": "2d84a38ab5c29535390e80b484d34bd78f8834f86808ec1b45e4e353194e388c",
+          "role_counts": {
+            "footer": 24,
+            "h2": 58,
+            "h3": 4,
+            "body": 143,
+            "caption": 38,
+            "decoration": 4,
+            "table": 7,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/03-chapter-3-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "56-77",
+          "fingerprint": "ce682ec3b9ac4b82fdeed4c0c3553a08da2af46c90f2350df726469d0f495669",
+          "role_counts": {
+            "footer": 32,
+            "h3": 6,
+            "body": 285,
+            "h2": 24,
+            "note": 8,
+            "table": 10,
+            "caption": 53
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/04-chapter-4-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "CHAPTER 5 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch05.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "78-95",
+          "fingerprint": "f97e54f9131dbd4ce83abaac96d44c6a727acac0ce9784d973e2809e9c2690ec",
+          "role_counts": {
+            "footer": 27,
+            "h3": 7,
+            "body": 252,
+            "h2": 20,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/05-chapter-5-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "CHAPTER 6 DEMOCRATIC RIGHTS",
+          "pdf": "pdfs/democratic-politics-1/2014-07-28/ch06.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "96-112",
+          "fingerprint": "63a315fdc60829a135eaa5ecaf10575a243c5bfbfec113fe139edf7cd42112ab",
+          "role_counts": {
+            "footer": 24,
+            "h3": 4,
+            "body": 209,
+            "h2": 19,
+            "decoration": 1,
+            "note": 11
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2014-07-28/06-chapter-6-democratic-rights.md"
+        }
+      ]
+    },
+    {
+      "id": "2016-09-11",
+      "fingerprint": "c6bd21f11cc6badb0a395989e7da3d4765cd19e9797d927d11353f2f6cfbd53d",
+      "snapshots": [
+        "2016-09-11",
+        "rungtaias-undated",
+        "2017-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014"
+          ],
+          "latest_print": "December 2014",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 13
+        }
+      },
+      "chapter_count": 6,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER I Democracy in the Contemporary World",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch01.pdf",
+          "pdf_pages": 20,
+          "printed_pages": "2-21",
+          "fingerprint": "a1e71a8bd7f8f4a64c068d4c349548e8e41cb46d380f67ba8e5300adf71bd5b9",
+          "role_counts": {
+            "footer": 30,
+            "h3": 5,
+            "body": 216,
+            "h2": 27,
+            "caption": 14,
+            "note": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/01-chapter-i-democracy-in-the-contemporary-world.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch02.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "22-39",
+          "fingerprint": "84923175eeccc6150229fb1383034cf648e8750f8aea7ff6c26325bab18c6235",
+          "role_counts": {
+            "footer": 26,
+            "h3": 4,
+            "body": 275,
+            "h2": 28,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/02-chapter-2-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch03.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "40-55",
+          "fingerprint": "be7f904b3ef7caf7ed5752c1516ef8122ca6393758081f256d9983d1ecca4734",
+          "role_counts": {
+            "footer": 24,
+            "h2": 56,
+            "h3": 2,
+            "body": 148,
+            "caption": 37,
+            "decoration": 4,
+            "table": 7,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/03-chapter-3-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch04.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "56-77",
+          "fingerprint": "5925cd5e765d7507c2b8b326b79e80aab612bdf7756c3f316dc6543b97f47ba7",
+          "role_counts": {
+            "footer": 54,
+            "h3": 6,
+            "body": 285,
+            "h2": 24,
+            "note": 8,
+            "table": 10,
+            "caption": 53
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/04-chapter-4-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "CHAPTER 5 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch05.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "78-95",
+          "fingerprint": "5a44b6a1626aa07d8d3667943c14bebd50ec12edca707545719131e3148ba95e",
+          "role_counts": {
+            "footer": 45,
+            "h3": 7,
+            "body": 250,
+            "h2": 20,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/05-chapter-5-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "CHAPTER 6 DEMOCRATIC RIGHTS",
+          "pdf": "pdfs/democratic-politics-1/2016-09-11/ch06.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "96-112",
+          "fingerprint": "a8b81715f608bd9c0fa0d44888b96cefb22633fddd5167dd96f04b7482050487",
+          "role_counts": {
+            "footer": 41,
+            "h3": 4,
+            "body": 211,
+            "h2": 19,
+            "decoration": 1,
+            "note": 11
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2016-09-11/06-chapter-6-democratic-rights.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "c65f62c97ffcd42ed79c4d39c116e0343d218943aa714dcf6fc0673394ff3a83",
+      "snapshots": [
+        "2019-05-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019"
+          ],
+          "latest_print": "February 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2019-05-04/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "4d2173fcbfb369626d2b123710bed438630dbf7d37553c4718718ab39da12fff",
+          "role_counts": {
+            "h3": 5,
+            "body": 266,
+            "h2": 34,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2019-05-04/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2019-05-04/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "445581002bfeec8f75fe3e230529371a44d9718ffbf54649b435ce381cdb47a9",
+          "role_counts": {
+            "footer": 39,
+            "h2": 56,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 7,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2019-05-04/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2019-05-04/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "f8cc098d0978fa516cb5616fbf5b724871a2d3d60e590f5fec9651f41b1dddf8",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 24,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2019-05-04/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2019-05-04/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "985efbdfc0b29c9d175534631a1174c87a79eefa38d924e017d55d5b80c761e5",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 254,
+            "h2": 21,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2019-05-04/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2019-05-04/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "7fd64af544860ca44035cc6e74a9e91450cafe0a218163edccb14b3cbb8051e5",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 15,
+            "body": 156,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2019-05-04/79-a.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-06-16",
+      "fingerprint": "1267248b4bd6c6f296bcd5bb7fc688cfca49f44134a523407acb3d7f5f2defe5",
+      "snapshots": [
+        "2020-06-16",
+        "archive-org-2020-21"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019"
+          ],
+          "latest_print": "December 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2020-06-16/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "4d2173fcbfb369626d2b123710bed438630dbf7d37553c4718718ab39da12fff",
+          "role_counts": {
+            "h3": 5,
+            "body": 266,
+            "h2": 34,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2020-06-16/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2020-06-16/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "13fb71c6963fa5aa403dbd20797fa4d88c9f7b75d749d5053279446e8aac7ee7",
+          "role_counts": {
+            "footer": 39,
+            "h2": 56,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 9,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2020-06-16/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2020-06-16/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "717dd6a88e602da03f4f73ee0ade2198d1c0d01f4b59029938a6da2e811f5bd0",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 24,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2020-06-16/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2020-06-16/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "a464c06f57a06b30ac4843d26f29cb63188570713faa88d7489c418637de4f07",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 253,
+            "h2": 22,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2020-06-16/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2020-06-16/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "7fd64af544860ca44035cc6e74a9e91450cafe0a218163edccb14b3cbb8051e5",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 15,
+            "body": 156,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2020-06-16/79-a.md"
+        }
+      ]
+    },
+    {
+      "id": "2021-08-14",
+      "fingerprint": "21a7830643b54c7d5393af1a74b23d3177e3d8fbe8d10b116dbfd749cca22497",
+      "snapshots": [
+        "2021-08-14"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019",
+            "March 2021"
+          ],
+          "latest_print": "March 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2021-08-14/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "4d2173fcbfb369626d2b123710bed438630dbf7d37553c4718718ab39da12fff",
+          "role_counts": {
+            "h3": 5,
+            "body": 266,
+            "h2": 34,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2021-08-14/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2021-08-14/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "3ebab1c3ac9293faebb2979820257282e70b6a843233ac6f189ec516fc01887b",
+          "role_counts": {
+            "footer": 39,
+            "h2": 56,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 9,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2021-08-14/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2021-08-14/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "717dd6a88e602da03f4f73ee0ade2198d1c0d01f4b59029938a6da2e811f5bd0",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 24,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2021-08-14/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2021-08-14/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "ec147fd7b73c9b02f23b4d19941b73bebfed1dd311f49e073ba0ef659f437c5f",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 253,
+            "h2": 22,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2021-08-14/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2021-08-14/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "7fd64af544860ca44035cc6e74a9e91450cafe0a218163edccb14b3cbb8051e5",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 15,
+            "body": 156,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2021-08-14/79-a.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-09-09-ocr",
+      "fingerprint": "871af1a773a73a1a311fdad0cfd6b2fede40690ea6981b9a2b3bc5a132049d89",
+      "snapshots": [
+        "2022-09-09"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019",
+            "March 2021",
+            "August 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": true,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2022-09-09/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "02e22f526e53f81d0b4fcda43df34340a926c1be43b5d6414352f0abc3dab7f8",
+          "role_counts": {
+            "caption": 41,
+            "h2": 17,
+            "h3": 7,
+            "body": 148,
+            "footer": 32,
+            "table": 27,
+            "note": 9
+          },
+          "ocr": true,
+          "ocr_confidence": 95.4,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2021-08-14",
+          "file": "texts/democratic-politics-1/2022-09-09-ocr/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2022-09-09/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "d32b3297e84d66de6570a42e22dade4f08bb8dfd97caeab4f1ed7546a9f101a1",
+          "role_counts": {
+            "caption": 178,
+            "h2": 8,
+            "table": 5,
+            "footer": 33,
+            "body": 20,
+            "h3": 1,
+            "decoration": 1
+          },
+          "ocr": true,
+          "ocr_confidence": 94.4,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2021-08-14",
+          "file": "texts/democratic-politics-1/2022-09-09-ocr/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2022-09-09/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "c5b98f96d5921a2eec604ac0fd4df22ace4c6016dccae198996f2b1ef00652cd",
+          "role_counts": {
+            "caption": 270,
+            "h2": 6,
+            "body": 20,
+            "footer": 49,
+            "table": 12,
+            "note": 2
+          },
+          "ocr": true,
+          "ocr_confidence": 94.1,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2021-08-14",
+          "file": "texts/democratic-politics-1/2022-09-09-ocr/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2022-09-09/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "fda4cf8d020e4be69b7ec57a017e1dc0bd948d2678fd72e3366a2711f2e06d33",
+          "role_counts": {
+            "caption": 203,
+            "h2": 10,
+            "body": 14,
+            "footer": 41,
+            "table": 8,
+            "h3": 1
+          },
+          "ocr": true,
+          "ocr_confidence": 95.5,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2021-08-14",
+          "file": "texts/democratic-politics-1/2022-09-09-ocr/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "CHAPTER 5 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2022-09-09/ch05.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "74-90",
+          "fingerprint": "7886ef02d5f36bd4dc059b5f26ff62c839872dbbac5fe41177b3fcf2eed69feb",
+          "role_counts": {
+            "caption": 37,
+            "h2": 6,
+            "body": 164,
+            "footer": 38,
+            "table": 41,
+            "note": 6,
+            "h3": 2
+          },
+          "ocr": true,
+          "ocr_confidence": 94.7,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2017-partial",
+          "file": "texts/democratic-politics-1/2022-09-09-ocr/05-chapter-5-working-of-institutions.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "9b4a12d15247c8f34e1b0bb3464bc2156ca864cca009453794f0a56d25d90efa",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2023-12-23/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "4d2173fcbfb369626d2b123710bed438630dbf7d37553c4718718ab39da12fff",
+          "role_counts": {
+            "h3": 5,
+            "body": 266,
+            "h2": 34,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2023-12-23-rationalised/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2023-12-23/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "13fb71c6963fa5aa403dbd20797fa4d88c9f7b75d749d5053279446e8aac7ee7",
+          "role_counts": {
+            "footer": 39,
+            "h2": 56,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 9,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2023-12-23-rationalised/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2023-12-23/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "717dd6a88e602da03f4f73ee0ade2198d1c0d01f4b59029938a6da2e811f5bd0",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 24,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2023-12-23-rationalised/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2023-12-23/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "a464c06f57a06b30ac4843d26f29cb63188570713faa88d7489c418637de4f07",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 253,
+            "h2": 22,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2023-12-23-rationalised/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2023-12-23/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "d5a8aaadbf9858ce86e9aae9799a2c1cc775a99484184421db259ca6a09b7f75",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 15,
+            "body": 156,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2023-12-23-rationalised/79-a.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-05-24",
+      "fingerprint": "0115fb03ac552c9e1c9775780393a0d39a709117f0aaa49ef0034930382da364",
+      "snapshots": [
+        "2024-05-24"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2024-05-24/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "4d2173fcbfb369626d2b123710bed438630dbf7d37553c4718718ab39da12fff",
+          "role_counts": {
+            "h3": 5,
+            "body": 266,
+            "h2": 34,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2024-05-24/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2024-05-24/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "2640848cdeb6a3f5fa1cc692caecf416d14315fe88c4261918880a575930180c",
+          "role_counts": {
+            "footer": 40,
+            "h2": 56,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 9,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2024-05-24/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2024-05-24/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "d27203d3b2dfa09231f72e867be78b94d2bf5a92b3d6abdc1f92050dcb7ece7b",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 23,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2024-05-24/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2024-05-24/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "a464c06f57a06b30ac4843d26f29cb63188570713faa88d7489c418637de4f07",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 253,
+            "h2": 22,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2024-05-24/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2024-05-24/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "9ab5674eca2fac202095eceb654eef2c4140d3c8c71c9a6cd0aa539d452ac558",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 15,
+            "body": 157,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2024-05-24/79-a.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-04-27",
+      "fingerprint": "ec16c4665ff7d476272c4a232604b09f38ad195780a99183dba0ee7b3b5dc5f8",
+      "snapshots": [
+        "2025-04-27",
+        "archive-org-oldncert-2025-26"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2006",
+          "revised": null,
+          "reprints": [
+            "January 2007",
+            "January 2008",
+            "December 2008",
+            "January 2010",
+            "November 2010",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "December 2015",
+            "January 2017",
+            "December 2017",
+            "February 2019",
+            "December 2019",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022",
+            "March 2024",
+            "December 2024"
+          ],
+          "latest_print": "December 2024",
+          "rationalised": null,
+          "reprint_label": "Reprint 2025-26",
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "CHAPTER 1 What is Democracy? Why Democracy?",
+          "pdf": "pdfs/democratic-politics-1/2025-04-27/ch01.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "1-17",
+          "fingerprint": "d08b7c4b959fc0cb6019980bcdd151b335b4d14a4a392ecb1f5149c027927751",
+          "role_counts": {
+            "h3": 6,
+            "body": 265,
+            "h2": 32,
+            "footer": 40,
+            "note": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2025-04-27/01-chapter-1-what-is-democracy-why-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "CHAPTER 2 CONSTITUTIONAL DESIGN",
+          "pdf": "pdfs/democratic-politics-1/2025-04-27/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "18-33",
+          "fingerprint": "dd38a5c4a36c0407d1aaca1fd46026e186f861f317f7e012bbf4ad8d59f7c886",
+          "role_counts": {
+            "footer": 40,
+            "h2": 54,
+            "h3": 4,
+            "body": 147,
+            "caption": 37,
+            "decoration": 4,
+            "table": 9,
+            "note": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2025-04-27/02-chapter-2-constitutional-design.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "CHAPTER 3 Electoral Politics",
+          "pdf": "pdfs/democratic-politics-1/2025-04-27/ch03.pdf",
+          "pdf_pages": 22,
+          "printed_pages": "34-55",
+          "fingerprint": "fdb6bd1ada7a5af611e2f6aa7b63aee45603581879fec34607eb7d5c8813bf38",
+          "role_counts": {
+            "footer": 53,
+            "h3": 6,
+            "body": 288,
+            "h2": 21,
+            "note": 8,
+            "caption": 54,
+            "table": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2025-04-27/03-chapter-3-electoral-politics.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "CHAPTER 4 Working of Institutions",
+          "pdf": "pdfs/democratic-politics-1/2025-04-27/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "56-73",
+          "fingerprint": "ec147fd7b73c9b02f23b4d19941b73bebfed1dd311f49e073ba0ef659f437c5f",
+          "role_counts": {
+            "footer": 45,
+            "h3": 5,
+            "body": 253,
+            "h2": 22,
+            "caption": 1,
+            "table": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2025-04-27/04-chapter-4-working-of-institutions.md"
+        },
+        {
+          "part": null,
+          "number": 79,
+          "title": "ã",
+          "pdf": "pdfs/democratic-politics-1/2025-04-27/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "79-90",
+          "fingerprint": "d12baf07c232e057c906154163d9269cfafc307e38c841932841818a7d5fd08f",
+          "role_counts": {
+            "chapter-number": 1,
+            "h2": 12,
+            "body": 157,
+            "footer": 29,
+            "note": 10,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-1/2025-04-27/79-a.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [],
+  "overrides_missed": []
+}

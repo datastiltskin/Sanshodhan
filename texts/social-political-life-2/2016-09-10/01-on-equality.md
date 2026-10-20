@@ -5,6 +5,7 @@ edition: "2016-09-10"
 snapshots:
   - "2016-09-10"
   - "rungtaias-2015-16"
+  - "2018-partial"
 chapter: 1
 title: "On Equality"
 source_pdf: "pdfs/social-political-life-2/2016-09-10/ch01.pdf"

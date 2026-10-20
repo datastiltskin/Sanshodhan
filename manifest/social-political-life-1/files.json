@@ -1,0 +1,1198 @@
+{
+  "book": "social-political-life-1",
+  "title": "Social and Political Life I",
+  "class": 6,
+  "codes": {
+    "single": "fess3"
+  },
+  "files": [
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch01.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b867da8fb250882959a064cbe17583371b7263a3dabcd492a042f06621830608",
+      "size": 699891,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch02.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "739d9d7e891c9cd160fba49a2c2967ba1569f47080cceecb929c801e5c28c241",
+      "size": 1729859,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch03.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d0eb868eda1ab6646d9b195b6a3891e3d2152c8a38e09bd6fdccfc402ecda56d",
+      "size": 692292,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch04.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7318f33290ceeeff3bba7247b29a5e875827b84cc943e837009060ec3a3706f2",
+      "size": 802671,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch05.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "3c88e2a1d0f171d4e99c3dea62221e13ff2488666365374995bebf5b492ea81b",
+      "size": 2265477,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch06.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "87019f070723d901114ba941d3a3942ebf745ac71268fdc8617f9809d6e0efa0",
+      "size": 2431633,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch07.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5185ffe10e096ab9aa6d68435df638d391b85b37770deeaf1cd756be3533e692",
+      "size": 1998955,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch08.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "133b0dd9ce829ed0b5f27cd7651ae9697ee0acf41e60db05eb37e119144b345b",
+      "size": 751985,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/ch09.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch09.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "14da5b563461063aad5cdaf0a58b741bffb869e51e99f84dca71bf99823dabc0",
+      "size": 724013,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "06f27be3df2b4963439f724201ae32e479836b33cf08686f84e263b0b578661e",
+      "size": 12641542,
+      "members": [
+        "pdfs/social-political-life-1/2014-06-28/ch01.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch02.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch03.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch04.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch05.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch06.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch07.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch08.pdf",
+        "pdfs/social-political-life-1/2014-06-28/ch09.pdf",
+        "pdfs/social-political-life-1/2014-06-28/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/2014-06-28/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20140628065728id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#prelims.pdf",
+      "wayback": "20140628065728",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "6760d1115e8b56818bb731fc5f18d3ed027872472a00203f51aded693bc2452f",
+      "size": 880916,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch01.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b867da8fb250882959a064cbe17583371b7263a3dabcd492a042f06621830608",
+      "size": 699891,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch02.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "334191aa23d316519a4573951956a6070a65dd95931684e96cd5edbc55379b63",
+      "size": 18158349,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch03.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d0eb868eda1ab6646d9b195b6a3891e3d2152c8a38e09bd6fdccfc402ecda56d",
+      "size": 692292,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch04.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7318f33290ceeeff3bba7247b29a5e875827b84cc943e837009060ec3a3706f2",
+      "size": 802671,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch05.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "3c88e2a1d0f171d4e99c3dea62221e13ff2488666365374995bebf5b492ea81b",
+      "size": 2265477,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch06.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "87019f070723d901114ba941d3a3942ebf745ac71268fdc8617f9809d6e0efa0",
+      "size": 2431633,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch07.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5185ffe10e096ab9aa6d68435df638d391b85b37770deeaf1cd756be3533e692",
+      "size": 1998955,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch08.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "133b0dd9ce829ed0b5f27cd7651ae9697ee0acf41e60db05eb37e119144b345b",
+      "size": 751985,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/ch09.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#ch09.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "14da5b563461063aad5cdaf0a58b741bffb869e51e99f84dca71bf99823dabc0",
+      "size": 724013,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8656f24c9c0f1bc2cffee645cd517598c62843a66a54c801e1bbf70f880a0e93",
+      "size": 19530940,
+      "members": [
+        "pdfs/social-political-life-1/2015-04-01/ch01.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch02.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch03.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch04.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch05.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch06.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch07.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch08.pdf",
+        "pdfs/social-political-life-1/2015-04-01/ch09.pdf",
+        "pdfs/social-political-life-1/2015-04-01/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/2015-04-01/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20150401193154id_/http://ncert.nic.in/ncerts/l/fess3dd.zip#prelims.pdf",
+      "wayback": "20150401193154",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8a7c6fe72d0b67ec73f5b3395663f616cdf042b570fdbdfed751f17f307ba67d",
+      "size": 14417733,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2016-partial/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess305.pdf",
+      "download_url": "http://web.archive.org/web/20161213072701id_/http://ncert.nic.in/ncerts/l/fess305.pdf",
+      "wayback": "20161213072701",
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "3c88e2a1d0f171d4e99c3dea62221e13ff2488666365374995bebf5b492ea81b",
+      "size": 2265477,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2017-partial/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess301.pdf",
+      "download_url": "http://web.archive.org/web/20170809023947id_/http://ncert.nic.in/ncerts/l/fess301.pdf",
+      "wayback": "20170809023947",
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "b867da8fb250882959a064cbe17583371b7263a3dabcd492a042f06621830608",
+      "size": 699891,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2017-partial/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess302.pdf",
+      "download_url": "http://web.archive.org/web/20170809051338id_/http://ncert.nic.in/ncerts/l/fess302.pdf",
+      "wayback": "20170809051338",
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "93f233d1c49952193c1765d2609090e0a00a35aa6a93a13eba5ac213d94e3dcb",
+      "size": 1394947,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2017-partial/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess303.pdf",
+      "download_url": "http://web.archive.org/web/20170918171259id_/http://ncert.nic.in/ncerts/l/fess303.pdf",
+      "wayback": "20170918171259",
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "7d8b3d73c6dcc4860d692d9f2faedd39ee5eeb368bd40db3a0fd3fe51ce4b10a",
+      "size": 1126232,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2017-partial/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess304.pdf",
+      "download_url": "http://web.archive.org/web/20170918193217id_/http://ncert.nic.in/ncerts/l/fess304.pdf",
+      "wayback": "20170918193217",
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "9bf9172e708b6864bd87820325740ef0a5d2f2d19fa8f78b1431b33114f75b94",
+      "size": 1047700,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2018-partial/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess306.pdf",
+      "download_url": "http://web.archive.org/web/20181223065131id_/http://ncert.nic.in/ncerts/l/fess306.pdf",
+      "wayback": "20181223065131",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "87019f070723d901114ba941d3a3942ebf745ac71268fdc8617f9809d6e0efa0",
+      "size": 2431633,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e32ae835b4d856f737143abcc17d6d48fcc09fac5074702bb5b7a9f54bf855f1",
+      "size": 1768840,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "de9cb93c8817a9347ed1e8010ebe0a346fbf7b0004c878dcc28e76d650fd9437",
+      "size": 1038550,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5f355af71e975c407196923ebd872d77d18e53bfa6f0cf3446d8a308ebb2f7d4",
+      "size": 1449859,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "171f0b1d767736836523bed7ae6489543fce53ae3bbbed86301b9a0ed345f1d1",
+      "size": 1169105,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "488fc6a334b30ceb035a461ada40576e4d5c919b77122ea9b4dd8aa33443cbc4",
+      "size": 1390374,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "44805bd7f2a60245c4ac73f126f73a75fd79184a6dfc7b80c21e8b9ff00b6c00",
+      "size": 1239020,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e72a7836badb79df7ba90a62fe23a5f464fece64c29f46f44f6d93a9f1dbf7cd",
+      "size": 915438,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "04f03d495674a0f82690a23060815d89b6a8c0dcd6d74a99ee6ff0e5fa07f836",
+      "size": 1715368,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch09.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2e11fa95c742ed2a50d3dd0a36dbb0862f7e195d1610a8593bbeb37d2c87ae12",
+      "size": 1709438,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4dff4749bd6a3cbdb8c07ff530e384f8bd7186da9ab00d1ed6a31de354346f71",
+      "size": 13236893,
+      "members": [
+        "pdfs/social-political-life-1/2019-05-04/ch01.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch02.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch03.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch04.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch05.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch06.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch07.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch08.pdf",
+        "pdfs/social-political-life-1/2019-05-04/ch09.pdf",
+        "pdfs/social-political-life-1/2019-05-04/prelims.pdf",
+        "pdfs/social-political-life-1/2019-05-04/references.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2f09bb226d8cadef916da27dd287af8c33b463bc22b1d129abc79850231604bf",
+      "size": 1255663,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2019-05-04/references.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "download_url": "http://web.archive.org/web/20190504054842id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "wayback": "20190504054842",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "6219e0f5f096e244c737c62fccfd3b67ae570c4a8a64743b85da67ca351c66fc",
+      "size": 172176,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "824fd4a8a8b825ff830196e25ff747fe0bcbd1714757eb8812630490754cc53b",
+      "size": 1488099,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "429f6bdacdb7f353e3319a8f940c29bd5dc866bece6ecc71c4ec303f022d6de5",
+      "size": 1742281,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e65c78b44c47c6992b630135f9ede1148ab8d0d3fe8eb3279d2eddde6f38e201",
+      "size": 1358559,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2a54d1f2d35228c375d06e8fb7dce702eeb4f7ffe2f2c3b05d1af5f69c5e2618",
+      "size": 1215689,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "00960661491d81399e5c612edce48b1ee3bb2b5d070de4203f3a7d016b78d89d",
+      "size": 1171281,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2e39bf99c0f80d40d663cb4e9f601d005c2b208659f613dae9464ac83bc8c563",
+      "size": 1299486,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a186a255f087f3a53755b01afc7c1f1edd330362b16bbc407327d5e93feb5495",
+      "size": 1344672,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "0aa843264f18fe170ce8b047368a5c0b1d05350fdc09309f95c0f9c0c93644c7",
+      "size": 1460188,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch09.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a48b14a855d2a837ca3957ca316b84467df8454d42a4c86e9288de34f49e1706",
+      "size": 2016555,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "ae9643b8d3825cc2bc736eddb7aeb00d3376cabcfb1f5acc4c3bc1d47112b4b0",
+      "size": 14902625,
+      "members": [
+        "pdfs/social-political-life-1/2020-06-16/ch01.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch02.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch03.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch04.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch05.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch06.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch07.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch08.pdf",
+        "pdfs/social-political-life-1/2020-06-16/ch09.pdf",
+        "pdfs/social-political-life-1/2020-06-16/prelims.pdf",
+        "pdfs/social-political-life-1/2020-06-16/references.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f460e0883d2f7c941c559aff61625358e4b1612a5918c4562f7b75d640515230",
+      "size": 1804478,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2020-06-16/references.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "download_url": "http://web.archive.org/web/20200616082100id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "wayback": "20200616082100",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d10a4be610bfb6ed149bc2459f741e10d4b9eed881998994a1fedf98304bf441",
+      "size": 153640,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess301.pdf",
+      "download_url": "http://web.archive.org/web/20211018060746id_/https://ncert.nic.in/textbook/pdf/fess301.pdf",
+      "wayback": "20211018060746",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "3b8195c604d3f4aa6ca31a2b34ae414d82d5ee21c403de13e1a0a954197cb07f",
+      "size": 1489105,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess303.pdf",
+      "download_url": "http://web.archive.org/web/20211018060711id_/https://ncert.nic.in/textbook/pdf/fess303.pdf",
+      "wayback": "20211018060711",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "1adfe5fa986cf25771dd17224d312ef478c04eebfa69500a19ac091f2ae3e980",
+      "size": 1370690,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess304.pdf",
+      "download_url": "http://web.archive.org/web/20211018060757id_/https://ncert.nic.in/textbook/pdf/fess304.pdf",
+      "wayback": "20211018060757",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "57a68811cd43f2cc2bcd0c2cb42ddc760ba5fad36f5920ab9b4dae2e08241ec5",
+      "size": 1215411,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess305.pdf",
+      "download_url": "http://web.archive.org/web/20211018060714id_/https://ncert.nic.in/textbook/pdf/fess305.pdf",
+      "wayback": "20211018060714",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "473143876b26f4ea2b2f90e4e5a9e224c834c56da65bdde8854d9874c185a6e5",
+      "size": 1173180,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess306.pdf",
+      "download_url": "http://web.archive.org/web/20211018060733id_/https://ncert.nic.in/textbook/pdf/fess306.pdf",
+      "wayback": "20211018060733",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "20556c8ab1bfe1bbcd725714b8e7f58c601309617b56e8f8eb23f8573ec29196",
+      "size": 1299197,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess307.pdf",
+      "download_url": "http://web.archive.org/web/20211018060930id_/https://ncert.nic.in/textbook/pdf/fess307.pdf",
+      "wayback": "20211018060930",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "4b48e1986842cb29d07d6652061dffe791cc46565e7e2e60bb81e9f036109fc9",
+      "size": 1344095,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess308.pdf",
+      "download_url": "http://web.archive.org/web/20211018060859id_/https://ncert.nic.in/textbook/pdf/fess308.pdf",
+      "wayback": "20211018060859",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "863a10b5ab7d7788f8006692facccc490987326e6e972e27c2ab55d223389764",
+      "size": 1463058,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2021-partial/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess309.pdf",
+      "download_url": "http://web.archive.org/web/20211018060735id_/https://ncert.nic.in/textbook/pdf/fess309.pdf",
+      "wayback": "20211018060735",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "cb102f7d46e43a73392e1afaf2f0a48b5f9bfcfce8a1e344c6255768b8515e48",
+      "size": 2015910,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2022-10-13-partial/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess309.pdf",
+      "download_url": "http://web.archive.org/web/20230221165310id_/https://ncert.nic.in/textbook/pdf/fess309.pdf",
+      "wayback": "20230221165310",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "058a263844c77b2d848ffce7b1f9a3b6201e2fbbfcc2ffa188a0ce6f5cb4334d",
+      "size": 2520629,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2022-10-13-partial/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20221013013108id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "wayback": "20221013013108",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "23ae776759efda260986fce922131588268744a8a5b0c252a49e6d0f3aff6e19",
+      "size": 12420096,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2022-10-13-partial/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3ps.pdf",
+      "download_url": "http://web.archive.org/web/20221208053523id_/https://ncert.nic.in/textbook/pdf/fess3ps.pdf",
+      "wayback": "20221208053523",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5765bfaf3ff1a24c6546182ad69f9b924a8deb9beea8befb05e3c784aa9e4e90",
+      "size": 2170689,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch01.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "01ab52752dbe674d62c5e14e3732fd1d2131899ce9fed34f2fe5ef43c54f221c",
+      "size": 2515574,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch02.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c461429ee4cfff4cbfa1ac9d7aa9192ac7490735827b7ea0fd6b3b13e3131d7b",
+      "size": 1852799,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch03.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a85030d51ee9f5cabcf279ce5595b40006763622f5180c311bf6d8536354b5c8",
+      "size": 2442519,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch04.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "9f859390e1c653493dfdbf38baa0e8eba1577714b0fe84fd9b892e8181aab850",
+      "size": 1764293,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch05.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8e5f7eb04f91a1a6c5f130e9acb7dd29668f5390ff18ace159e9a7436428968e",
+      "size": 1465229,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch06.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "cf19fd24f0c9b1312e4f77e7a35a359ada06975d66ade2f4eeae0d785923e24f",
+      "size": 1404977,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch07.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "56000d32edaa62c40bae81b32c4c96155e6edcc4b49ae8fbc45cf8fe8f750fe1",
+      "size": 2489867,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#ch08.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a2aad2b176756c6fc3a9fc1826d73e9a612e8897b2e833e35d608333ba5e4c8c",
+      "size": 2412783,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "45c755aea2dd89bdbac93e80818e85aca7830e0327158b67d675a18e585d3a36",
+      "size": 17740766,
+      "members": [
+        "pdfs/social-political-life-1/2023-12-23/ch01.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch02.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch03.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch04.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch05.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch06.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch07.pdf",
+        "pdfs/social-political-life-1/2023-12-23/ch08.pdf",
+        "pdfs/social-political-life-1/2023-12-23/prelims.pdf",
+        "pdfs/social-political-life-1/2023-12-23/references.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#prelims.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8870fff59031366a08c151487dcd5f7f76e308696888605c53c1f5bc52df63de",
+      "size": 2340805,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2023-12-23/references.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "download_url": "http://web.archive.org/web/20231223073750id_/https://ncert.nic.in/textbook/pdf/fess3dd.zip#references.pdf",
+      "wayback": "20231223073750",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c01ce00b89f0ccdeb3f9fda042e4545046d00c9e7ef221d8357c5f78a26c32f3",
+      "size": 272833,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2024-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess302.pdf",
+      "download_url": "http://web.archive.org/web/20240511024227id_/https://ncert.nic.in/textbook/pdf/fess302.pdf",
+      "wayback": "20240511024227",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "c461429ee4cfff4cbfa1ac9d7aa9192ac7490735827b7ea0fd6b3b13e3131d7b",
+      "size": 1852799,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2024-partial/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess303.pdf",
+      "download_url": "http://web.archive.org/web/20240511014549id_/https://ncert.nic.in/textbook/pdf/fess303.pdf",
+      "wayback": "20240511014549",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "a85030d51ee9f5cabcf279ce5595b40006763622f5180c311bf6d8536354b5c8",
+      "size": 2442519,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2024-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess306.pdf",
+      "download_url": "http://web.archive.org/web/20240511014601id_/https://ncert.nic.in/textbook/pdf/fess306.pdf",
+      "wayback": "20240511014601",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "cf19fd24f0c9b1312e4f77e7a35a359ada06975d66ade2f4eeae0d785923e24f",
+      "size": 1404977,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/2024-partial/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3ps.pdf",
+      "download_url": "http://web.archive.org/web/20240216122900id_/https://ncert.nic.in/textbook/pdf/fess3ps.pdf",
+      "wayback": "20240216122900",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "8870fff59031366a08c151487dcd5f7f76e308696888605c53c1f5bc52df63de",
+      "size": 2340805,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch01.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess301.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess301.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "824fd4a8a8b825ff830196e25ff747fe0bcbd1714757eb8812630490754cc53b",
+      "size": 1488099,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch02.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess302.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess302.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "429f6bdacdb7f353e3319a8f940c29bd5dc866bece6ecc71c4ec303f022d6de5",
+      "size": 1742281,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch03.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess303.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess303.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "e65c78b44c47c6992b630135f9ede1148ab8d0d3fe8eb3279d2eddde6f38e201",
+      "size": 1358559,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch04.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess304.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess304.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "2a54d1f2d35228c375d06e8fb7dce702eeb4f7ffe2f2c3b05d1af5f69c5e2618",
+      "size": 1215689,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch05.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess305.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess305.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "00960661491d81399e5c612edce48b1ee3bb2b5d070de4203f3a7d016b78d89d",
+      "size": 1171281,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch06.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess306.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess306.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "2e39bf99c0f80d40d663cb4e9f601d005c2b208659f613dae9464ac83bc8c563",
+      "size": 1299486,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch07.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess307.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess307.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "a186a255f087f3a53755b01afc7c1f1edd330362b16bbc407327d5e93feb5495",
+      "size": 1344672,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch08.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess308.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess308.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "0aa843264f18fe170ce8b047368a5c0b1d05350fdc09309f95c0f9c0c93644c7",
+      "size": 1460188,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/ch09.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess309.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess309.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "a48b14a855d2a837ca3957ca316b84467df8454d42a4c86e9288de34f49e1706",
+      "size": 2016555,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/prelims.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess3ps.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess3ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "f460e0883d2f7c941c559aff61625358e4b1612a5918c4562f7b75d640515230",
+      "size": 1804478,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-2020-21/references.pdf",
+      "source_url": "https://archive.org/download/ncert-fess3/fess3rf.pdf",
+      "download_url": "https://archive.org/download/ncert-fess3/fess3rf.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "d10a4be610bfb6ed149bc2459f741e10d4b9eed881998994a1fedf98304bf441",
+      "size": 153640,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch01.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch01.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch01.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "01ab52752dbe674d62c5e14e3732fd1d2131899ce9fed34f2fe5ef43c54f221c",
+      "size": 2515574,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch02.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch02.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch02.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "c461429ee4cfff4cbfa1ac9d7aa9192ac7490735827b7ea0fd6b3b13e3131d7b",
+      "size": 1852799,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch03.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch03.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch03.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "a85030d51ee9f5cabcf279ce5595b40006763622f5180c311bf6d8536354b5c8",
+      "size": 2442519,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch04.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch04.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch04.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "9f859390e1c653493dfdbf38baa0e8eba1577714b0fe84fd9b892e8181aab850",
+      "size": 1764293,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch05.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch05.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch05.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "8e5f7eb04f91a1a6c5f130e9acb7dd29668f5390ff18ace159e9a7436428968e",
+      "size": 1465229,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch06.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch06.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch06.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "cf19fd24f0c9b1312e4f77e7a35a359ada06975d66ade2f4eeae0d785923e24f",
+      "size": 1404977,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch07.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch07.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch07.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "56000d32edaa62c40bae81b32c4c96155e6edcc4b49ae8fbc45cf8fe8f750fe1",
+      "size": 2489867,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch08.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch08.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#ch08.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "a2aad2b176756c6fc3a9fc1826d73e9a612e8897b2e833e35d608333ba5e4c8c",
+      "size": 2412783,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/full-book.zip",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "45c755aea2dd89bdbac93e80818e85aca7830e0327158b67d675a18e585d3a36",
+      "size": 17740766,
+      "members": [
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch01.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch02.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch03.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch04.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch05.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch06.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch07.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/ch08.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/prelims.pdf",
+        "pdfs/social-political-life-1/archive-org-oldncert-2023-24/references.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/prelims.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#prelims.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#prelims.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "8870fff59031366a08c151487dcd5f7f76e308696888605c53c1f5bc52df63de",
+      "size": 2340805,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/archive-org-oldncert-2023-24/references.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#references.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess3dd.zip#references.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "c01ce00b89f0ccdeb3f9fda042e4545046d00c9e7ef221d8357c5f78a26c32f3",
+      "size": 272833,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/covers/2014-12-27.jpg",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess3cc.jpg",
+      "download_url": "http://web.archive.org/web/20141227144736id_/http://ncert.nic.in/ncerts/l/fess3cc.jpg",
+      "wayback": "20141227144736",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "37978f4ebb0092fe08770ab489bd27569f7ec4b2bcc24a1356ea4a13fa587986",
+      "size": 112182,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/covers/2021-08-31.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess3cc.jpg",
+      "download_url": "http://web.archive.org/web/20210831132753id_/https://ncert.nic.in/textbook/pdf/fess3cc.jpg",
+      "wayback": "20210831132753",
+      "fetched_at": "2026-10-20T08:03:59+00:00",
+      "sha256": "62b122f306f15a3b922d0eed9caa963db9d29a2e690702c0472874819bdfff5c",
+      "size": 282423,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch01.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess301.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess301.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "b867da8fb250882959a064cbe17583371b7263a3dabcd492a042f06621830608",
+      "size": 699891,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch02.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess302.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess302.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "429f6bdacdb7f353e3319a8f940c29bd5dc866bece6ecc71c4ec303f022d6de5",
+      "size": 1742281,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch03.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess303.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess303.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "d0eb868eda1ab6646d9b195b6a3891e3d2152c8a38e09bd6fdccfc402ecda56d",
+      "size": 692292,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch04.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess304.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess304.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "7318f33290ceeeff3bba7247b29a5e875827b84cc943e837009060ec3a3706f2",
+      "size": 802671,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch05.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess305.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess305.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "3c88e2a1d0f171d4e99c3dea62221e13ff2488666365374995bebf5b492ea81b",
+      "size": 2265477,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch06.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess306.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess306.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "87019f070723d901114ba941d3a3942ebf745ac71268fdc8617f9809d6e0efa0",
+      "size": 2431633,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch07.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess307.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess307.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "5185ffe10e096ab9aa6d68435df638d391b85b37770deeaf1cd756be3533e692",
+      "size": 1998955,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch08.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess308.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess308.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "133b0dd9ce829ed0b5f27cd7651ae9697ee0acf41e60db05eb37e119144b345b",
+      "size": 751985,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/ch09.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess309.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess309.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "14da5b563461063aad5cdaf0a58b741bffb869e51e99f84dca71bf99823dabc0",
+      "size": 724013,
+      "members": []
+    },
+    {
+      "path": "pdfs/social-political-life-1/rungtaias-undated/prelims.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess3ps.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20Social%20and%20Political%20Life/fess3ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:58+00:00",
+      "sha256": "40a9a57cc0e436869cd78ac40fec0b7ce49cfa3ef940b1d89cb250b0a6212678",
+      "size": 820284,
+      "members": []
+    }
+  ]
+}

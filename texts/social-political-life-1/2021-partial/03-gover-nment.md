@@ -1,0 +1,173 @@
+---
+book: "social-political-life-1"
+book_title: "Social and Political Life I"
+edition: "2021-partial"
+snapshots:
+  - "2021-partial"
+chapter: 3
+title: "Gover nment"
+source_pdf: "pdfs/social-political-life-1/2021-partial/ch03.pdf"
+source_sha256: "1adfe5fa986cf25771dd17224d312ef478c04eebfa69500a19ac091f2ae3e980"
+pdf_pages: 10
+body_fingerprint: "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce"
+---
+
+<!-- pdf page 1 -->
+
+# UNIT - II
+
+> [caption] Not bad! One of the taps in the nearby village must be getting water!
+
+## Gover nment
+
+> [caption] I told him to make the garland smaller... He is a frail old man and wouldn't be able to stand the weight of such a huge garland!
+
+> [caption] A cartoonist's business in a democracy is to exercise his right to criticise, ridicule, find fault with... political leaders, through cartoons...
+
+> [caption] - R.K.Laxman
+
+<!-- pdf page 2 -->
+
+<!-- pdf page 3 -->
+
+Chapter 3
+
+You must have heard the word 'government' mentioned several times. In this chapter you will learn about what a government is and the important role it plays in our lives. What do governments do? How do they decide what to do? What is the difference between different types of governments such as monarchies and democracies? Read more and find out….
+
+## What is Government?
+
+Every country needs a government to make decisions and get things done. These can be decisions about where to build roads and schools, or how to reduce the price of onions when they get too expensive or ways to increase the supply of electricity. The government also takes action on many social issues, for example it has several programmes to help the poor. It does other important things such as running postal and railway services.
+
+Look at the newspaper headlines above and list the different kinds of activities that the government is reported to be doing in these newspaper headlines. 1. 2. 3. 4. Isn't this a wide range of activities? What do you think government is? Discuss in class.
+
+<!-- pdf page 4 -->
+
+> [table] 28 / Social and Political Life
+
+The government also has the job of protecting the boundaries of the country and maintaining peaceful relations with other countries. It is responsible for ensuring that all its citizens have enough to eat and have good health facilities. When there are natural disasters like the tsunami or an earthquake it is the government that mainly organises aid and assistance for the affected people. If there is a dispute or if someone has committed a crime you find people in a court. Courts are also part of the government.
+
+Perhaps you are wondering how governments manage to do all this. And why it is necessary for them to do so. When human beings live and work together, there needs to be some amount of organisation so that decisions can be made.
+
+> [caption] Some examples of institutions that are part of the government: The Supreme Court, The Indian Railways and Bharat Petroleum.
+
+Can you list three things that the government does which have not been mentioned.
+
+1.
+
+2.
+
+3.
+
+Some rules have to be made that apply to everyone. For example, there is a need to control resources and protect the territory of a country, so people can feel secure. Governments do this on behalf of their people by exercising leadership, taking decisions and implementing these among all the people living in their territory.
+
+### Levels of Government
+
+Now that you know that the government is responsible for so many different things, can you think of how it manages to do all these? The government works at different levels: at the local level, at the level of the state and at the national level. The local level means in your village, town or locality, the state level would mean that which covers an entire state like Haryana or Assam and the national level relates to the entire country (see the maps). Later in this book, you will read about how local level government functions, and when you go into the next few classes you will learn about how governments function at the state and central levels.
+
+<!-- pdf page 5 -->
+
+> [table] What is Government? / 29
+
+<!-- pdf page 6 -->
+
+> [table] 30 / Social and Political Life
+
+> [caption] Source: www.censusindia.gov.in/2011census/maps/atlas/00part1.pdf Note: Telangana became the 29th State of India on the 2nd June, 2014 after the reorganisation of the State of Andhra Pradesh.
+
+> [caption] Since 31 October 2019, the state of Jammu & Kashmir was divided into two union territories — Jammu & Kashmir and Ladakh. 2021-22
+
+<!-- pdf page 7 -->
+
+### Laws and the Government
+
+The government makes laws and everyone who lives in the country has to follow these. This is the only way governments can function. Just like the government has the power to make decisions, similarly it has the power to enforce its decisions. For example, there is a law that says that all persons driving a motor vehicle must have a licence. Any person caught driving a vehicle without a licence can either be jailed or fined a large sum of money. Without these laws the government's power to make decisions is not of much use.
+
+Discuss
+
+Think of an example of another law. Why do you think it is important that people abide by this law?
+
+In addition to any actions that governments can take, there are also steps that people can take if they feel that a particular law is not being followed. If a person feels, for example, that they were not hired for a job because of their religion or caste, he or she may approach the court and claim that the law is not being followed. The court can then give orders about what should be done.
+
+### Types of Government
+
+Who gives the government this power to make decisions and enforce laws?
+
+The answer to this question depends on the type of government there is in a country. In a democracy it is the people who give the government this power. They do this through elections in which they vote for particular persons and elect them. Once elected, these persons form the government. In a democracy the government has to explain its actions and defend its decisions to the people.
+
+> [table] What is Government? / 31
+
+Another form of government is monarchy. The monarch (king or queen) has the power to make decisions and run the government. The monarch may have a small group of people to discuss matters with, but the final decision-making power remains with the monarch. Unlike in a democracy, kings and queens do not have to explain their actions or defend the decisions they take.
+
+<!-- pdf page 8 -->
+
+> [table] 32 / Social and Political Life
+
+Discuss 1. Do you think it is important for people to be involved in decisions that affect them? Give two reasons for your answer. 2. Which type of government would you prefer to have in the place you live in? Why? 3. Which of the statements below is correct? Correct those sentences that you think need correction.
+
+a. In a monarchy the country's citizens are allowed to elect whomever they want.
+
+b. In a democracy a king has absolute powers to rule the country.
+
+c. In a monarchy people can raise questions about the decisions the monarch takes.
+
+### Democratic Governments
+
+India is a democracy. This achievement is the result of a long and eventful struggle of the Indian people. There are other places in the world where people have also struggled to have democracies. You now know that the main feature of a democracy is that the people have the power to elect their leaders. So in a sense a democracy is rule by the people. The basic idea is that people rule themselves by participating in the making of these rules.
+
+Democratic governments in our times are usually referred to as representative democracies. In representative democracies people do not participate directly but, instead, choose their representatives through an election process. These representatives meet and make decisions for the entire population. These days a government cannot call itself democratic unless it allows what is known as universal adult franchise. This means that all adults in the country are allowed to vote.
+
+Nowhere in the world have gover-
+
+nments willingly
+
+shared power.
+
+All over Europe
+
+and USA, women and the poor have had to fight for participation in government. Women's struggle to vote got strengthened during the First World War. This movement is called the women's suffrage movement as the term suffrage usually means right to vote.
+
+During the War, many men were away fighting, and because of this women were called upon to do work that was earlier considered men's work. Many women began organising and managing different kinds of work. When people saw this they began to wonder why they had created so many unfair stereotypes about women and what they were capable of doing. So women began to be seen as being equally capable of making decisions.
+
+The suffragettes demanded the right to vote for all women and to get their demands heard they chained themselves to railings in public places. Many suffragettes were imprisoned and went on hunger strikes,and they had to be fed by force. American women got the right to vote in 1920 while women in the UK got to vote on the same terms as men some years later, in 1928.
+
+<!-- pdf page 9 -->
+
+But it was not always like this. Can you believe that there was a time when governments did not allow women and the poor to participate in elections? In their earliest forms governments allowed only men who owned property and were educated, to vote. This meant that women, the poor, the property-less and the uneducated were not allowed to vote. The country was governed by the rules and regulations that these few men made!
+
+> [table] What is Government? / 33
+
+> [caption] Voting in a rural area: A mark is put on the finger to make sure that a person casts only one vote.
+
+In India, before Independence, only a small minority was allowed to vote and they therefore came together to determine the fate of the majority. Several people including Gandhiji were shocked at the unfairness of this practice and demanded that all adults have the right to vote. This is known as universal adult franchise.
+
+Writing in the journal Young India in 1931, Gandhiji said, "I cannot possibly bear the idea that a man who has got wealth should have the vote, but that a man who has got character but no wealth or literacy should have no vote, or that a man who works honestly by the sweat of his brow day in and day out should not have the vote for the crime of being a poor man…".
+
+<!-- pdf page 10 -->
+
+> [table] 34 / Social and Political Life
+
+Look at the maps on Pages 29 and 30. They show the States, Union Territories and Districts of India. Find out the following information from these maps and various other resources.
+
+Names of the neighbours of India Names of your State or Union Territory and its neighbours Names of your District and its neighbours Routes from your District to the National Capital Exercise: Look at the statements in the column on the left. Can you identify which level they belong to? Place tick marks against the level you consider most appropriate.
+
+> [table] Local State Central
+
+The decision of the Government of India to maintain peaceful relations with Russia.
+
+The decision of the Government of West Bengal on whether to have Board exam in Class 8 for all government schools.
+
+Introduction of two new trains between Dibrugarh and Kanyakumari.
+
+The decision to locate a common well in a particular area of the village.
+
+Decision to construct a big children's park in Patna.
+
+The decision of the Government of Haryana to provide free electricity for all farmers.
+
+Introduction of a new 1000 rupee note.
+
+<!-- section: exercises -->
+
+QUESTIONS
+
+1. What do you understand by the word 'government'? List five ways in which you think the government affects your daily life. 2. Why do you think the government needs to make rules for everyone in the form of laws? 3. Name two essential features of a democratic government. 4. What was the suffrage movement? What did it accomplish? 5. Gandhiji strongly believed that every adult in India should be given the right to vote. However, a few people don't share his views. They feel that illiterate people, who are mainly poor, should not be given the right to vote. What do you think? Do you think this would be a form of discrimination? Give five points to support your view and share these with the class.

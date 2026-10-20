@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2020-10-15"
 snapshots:
   - "2020-10-15"
+  - "archive-org-2020-21"
 chapter: 9
 title: "The Making of the National Movement: 1870s--1947"
 source_pdf: "pdfs/our-pasts-3/2020-10-15/ch09.pdf"

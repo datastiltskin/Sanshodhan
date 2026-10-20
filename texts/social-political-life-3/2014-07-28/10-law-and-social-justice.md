@@ -4,6 +4,7 @@ book_title: "Social and Political Life III"
 edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
+  - "2015-partial"
 chapter: 10
 title: "Law and Social Justice"
 source_pdf: "pdfs/social-political-life-3/2014-07-28/ch10.pdf"

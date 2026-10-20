@@ -1,0 +1,256 @@
+---
+book: "social-political-life-1"
+book_title: "Social and Political Life I"
+edition: "2023-12-23-rationalised"
+snapshots:
+  - "2023-12-23"
+  - "archive-org-oldncert-2023-24"
+chapter: 2
+title: "Diversity and"
+source_pdf: "pdfs/social-political-life-1/2023-12-23/ch02.pdf"
+source_sha256: "c461429ee4cfff4cbfa1ac9d7aa9192ac7490735827b7ea0fd6b3b13e3131d7b"
+pdf_pages: 11
+body_fingerprint: "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08"
+---
+
+<!-- pdf page 1 -->
+
+Chapter 2
+
+In the previous chapter you have discussed the meanings of diversity. Sometimes people who are ‘different’ from others are teased, laughed at or not included in a certain activity or group. We feel hurt, angry, helpless or sad when friends or others treat us in such ways. Have you ever wondered why this happens?
+
+# Diversity and
+
+## Discrimination
+
+In this chapter we will try and explore how such experiences are related to the society we live in. We will look at how they are connected to the inequalities that exist around us.
+
+Difference and Prejudice T than 1600 languages that are people’s mother tongues, and there are more than a hundred dance forms.
+
+here are many things that make us what we are – how we live, the languages we speak, what we eat, wear, the games we play and the things we celebrate. All of these are influenced both by the geography and history of the place where we live.
+
+Yet this diversity is not always celebrated. This is because we feel safe and secure with people who look, talk, dress and think like us.
+
+Sometimes when we meet people who are very different from us we may find them strange and unfamiliar. At times we may not understand or know the reasons why they are different from us. People also form certain attitudes and opinions about others who are not like them.
+
+You will get an idea of how diverse India is if you look even briefly at the following statement:
+
+There are eight major religions in the world. Every single one of them is practised in India. We have more Some of these statements see villagers as ignorant and see people in cities as money-minded and lazy. When our opinions about certain people are always negative – seeing them as lazy, stingy – as some of these statements, then these become prejudices that we carry about them.
+
+<!-- pdf page 2 -->
+
+> [table] 14 / Social and Political Life
+
+### Prejudice
+
+Look at the statements below that you believed to be true about rural and urban life in India. Tick mark those that you agree with.
+
+Do you have a prejudice against rural or urban people? Find out if this is shared by others and discuss the reasons why people have these prejudices.
+
+Can you list some of the prejudices that you have noticed around you. How do they affect the ways in which people treat each other?
+
+### On Rural People
+
+More than 50% of all Indians live in villages.
+
+People in villages do not like to use modern technology.
+
+In peak harvesting and plantation season, families spend 12 to 14 hours working in the fields.
+
+Villagers are forced to migrate to cities in search of work.
+
+### On Urban People
+
+Life in the city is easy. People here are spoilt and lazy.
+
+In cities families spend very little time with each other.
+
+People in cities only care about money, not about people.
+
+Living in a city is expensive. A large part of people’s earnings is spent on rent and transport.
+
+Prejudice means to judge other people negatively or see them as inferior. When we think that only one particular way is the best and right way to do things we often end up not respecting others, who may prefer to do things differently. For example, if we think English is the best language and other languages are not important, we are judging these other languages negatively. As a result, we might not respect people who speak languages other than English.
+
+We can be prejudiced about many things: people’s religious beliefs, the colour of their skin, the region they come from, the accent they speak in, the clothes they wear etc. Often, our prejudices about others are so strong that we don’t want to form friendships with them. At times, we may even act in ways that hurt them.
+
+<!-- pdf page 3 -->
+
+> [table] Diversity and Discrimination / 15
+
+### Creating Stereotypes
+
+All of us are familiar with gender differences. What does it mean to be a boy or a girl? Many of you would say, “We are born as boys and girls. It is a given. What is there to think about?” Let’s see if this is the case.
+
+Arrange the statements given below in these two sections, according to what you think is appropriate for the section.
+
+They are well behaved. They are soft spoken and gentle. They are physically strong . They are naughty. They are good at dance and painting. They don’t cry. They are rowdy. They are good at sport. They are good at cooking. They are emotional.
+
+Girls Boys 1 1
+
+Now check, with your teacher’s help, who has put which statement where. Find out and discuss people’s reasons for doing this. Are the qualities you put in for boys something that boys are born with?
+
+If we take the statement ‘’ They don’t cry”, you’ll see that this is a quality that is generally associated with boys and men. As babies or children when boys fall and hurt themselves, their parents and other family members often console them by saying “Don’t cry. You are a boy. Boys are brave, they don’t cry.” As children grow up they start believing that boys do not cry so that even if a boy feels like crying he stops himself from doing so. He also believes that crying is a sign of weakness. So, even though both boys and girls sometimes want to cry, especially if they are angry or in pain, as they grow older boys learn or teach themselves not to cry. If a grown boy cries, then he feels that others will either tease him or laugh at him, and so he stops himself from doing so in front of others.
+
+<!-- pdf page 4 -->
+
+The children you see in the illustrations here were seen as ‘disabled’. This term has been changed and now the term used is ‘children with special needs’. Common stereotypes about them are given in large letters. Their own feelings and thoughts too are given.
+
+Discuss what these children are saying about stereotypes regarding them and why.
+
+Do you think children with special needs should be a part of regular schools or study in a separate school? Give reasons for your answer.
+
+> [caption] 16 / Social and Political Life
+
+> [caption] Source: Why are you afraid to hold my hand, by Sheila Dhir
+
+<!-- pdf page 5 -->
+
+This is the way boys are and this is how girls are: these are statements we hear constantly and accept without even thinking, and we start believing that each one of us must behave accordingly. We fit all boys and all girls into an image that society creates around us.
+
+You can take other statements such as They are soft and gentle or They are well behaved and discuss how these are applied to girls. Do girls possess these qualities at birth or do they learn such behaviour from others? What do you think about girls who are not soft and gentle and those who are naughty?
+
+When we fix people into one image we create a stereotype. When people say that those who belong to a particular country, religion, sex, race or economic background are “stingy,” “lazy,” “criminal” or “dumb,” they are using stereotypes. There are stingy and generous people everywhere, in every country, in every religion, in every group whether rich or poor, male or female. And just because some people are like that it is not fair to think that everyone will be the same.
+
+Stereotypes stop us from looking at each person as a unique individual with his or her own special qualities and skills that are different from others. They fit large numbers of people into only one pattern or type. Stereotypes affect all of us as they prevent us from doing certain things, that we might otherwise be good at.
+
+> [table] Diversity and Discrimination / 17
+
+### Inequality and Discrimination
+
+Discrimination happens when people act on their prejudices or stereotypes. If you do something to put other people down, if you stop them from taking part in certain activities and taking up jobs, or stop them from living in certain neighbourhoods, prevent them from taking water from the same well or hand pump, or not allow them to drink tea in the same cups or glasses as others, you are discriminating against them.
+
+Discrimination can take place because of several reasons. You probably recall from the previous chapter that Samir Ek and Samir Do were different from each other in many ways. For example, they belonged to different religions. This is an aspect of diversity. However, this diversity can also be a source of discrimination. Groups of people who may speak a certain language, follow a particular religion, live in specific regions etc., may be discriminated against as their customs or practices may be seen as inferior.
+
+Another difference between the two Samirs was in their economic backgrounds. Samir Do was poor. This difference, as you have read earlier, is not a form of diversity but of inequality. People who are poor do not have the resources or the money to meet their basic needs of food, clothing and shelter. They experience discrimination in offices, in hospitals, schools etc., where they are treated badly because they are poor.
+
+<!-- pdf page 6 -->
+
+> [table] 18 / Social and Political Life
+
+Dalit is a term that people belonging to so-called lower castes use to address themselves. They prefer this word to ‘untouchable’. Dalit means those who have been ‘broken’. This word according to Dalits shows how social prejudices and discrimination have ‘broken’ the Dalit people. The government refers to this group of people as Scheduled Castes (SC).
+
+Some people may experience both kinds of dis-crimination. They are poor and they belong to groups whose culture is not valued. Tribals, some religious groups and even particular regions, are discriminated against for one or more of these reasons. In the following section we will look at how a famous Indian was discriminated against. This will help us understand the ways in which caste was used to discriminate against large number of people.
+
+What is the difference between discrimination and stereotypes?
+
+How do you think a person who is discriminated against might feel?
+
+Dr Bhimrao Ambedkar, one of the greatest leaders of India, shares his first experience of caste-based discrimi-nation, which took place in 1901 when he was just nine years old. He had gone with his brothers and cousins to meet his father in Koregaon which is now in Maharashtra.
+
+Long did we wait, but no one turned up. An hour elapsed and the station-master came to enquire. He asked us for our tickets. We showed them to him. He asked us why we tarried. We told him that we were bound for Koregaon and that we were waiting for father or his servant to come, but that neither had turned up and that we did not know how to reach Koregaon.
+
+We were well-dressed children. From our dress or talk no one could make out that we were children of the untouchables. Indeed the station-master was quite sure we were Brahmin children and was extremely touched at the plight in which he found us. As is usual among the Hindus, the stationmaster asked us who we were. Without a moment’s thought I blurted out that we were Mahars. (Mahar is one of the communities which were treated as untouchables in the Bombay Presidency.) He was stunned. His face underwent a sudden change. We could see that he was overpowered by a strange feeling of repulsion. As soon as he heard my reply, he went away to his room and we stood where we were. Fifteen to twenty minutes elapsed; the sun was almost setting. Our father had not turned up nor had he sent his servant, and now the stationmaster had also left us. We were quite bewildered, and the joy and happiness, which we felt at the beginning of the journey, gave way to a feeling of extreme sadness.
+
+<!-- pdf page 7 -->
+
+After half an hour the stationmaster returned and asked us what we proposed to do. We said that if we could get a bullock-cart on hire we would go to Koregaon, and if it was not very far we would like to start straightway. There were many bullock-carts plying for hire. But my reply to the station master that we were Mahars had gone round among the cart men and not one of them was prepared to suffer being polluted and to demean himself carrying passengers of the untouchable classes. We were prepared to pay double the fare but we found that money did not work. The stationmaster, who was negotiating on our behalf, stood silent, not knowing what to do.
+
+> [table] Source: Dr B. R. Ambedkar, Writings and Speeches, Volume 12, Edited Vasant Moon, Bombay Education Department, Govt. of Maharashtra.
+
+> [table] Diversity and Discrimination / 19
+
+Dr Bhim Rao Ambedkar (1891-1956) is considered the father of the Indian Constitution and is also the best known leader of the Dalits. Dr Ambedkar fought for the rights of the Dalit community. He was born into the Mahar caste, which was considered untouchable. The Mahars were poor, owned no land and children born to them also had to do the work their parents did. They lived in spaces outside the main village and were not allowed into the village.
+
+Dr Ambedkar was the first person from his caste who completed his college education and went to England to become a lawyer. He encouraged Dalits to send their children to school and college. He also urged Dalits to take on different kinds of government jobs in order to move out of the caste system. He led many efforts of Dalits to gain entry into temples. Later in life he converted to Buddhism in his search for a religion that treated all members equally. Dr Ambedkar believed that Dalits must fight the caste system and work towards a society based on respect not just for a few but for all persons.
+
+<!-- pdf page 8 -->
+
+> [table] 20 / Social and Political Life
+
+Despite the children offering money the cartmen refused them. Why?
+
+How did people at the station discriminate against Dr Ambedkar and his brothers?
+
+How do you think Dr Ambedkar felt as a child, when he saw the stationmaster’s reaction to his statement that they were Mahars?
+
+Have you ever experienced prejudice or witnessed an incident of discrimination? How did this make you feel?
+
+Imagine how difficult it would be if people could not move easily from one place to the other, how insulting and hurtful it is to have people move away, refuse to touch you or allow you to drink water from the same source as they do.
+
+Discuss
+
+In addition to the lower castes being discriminated against, there are also various other communities that are subject to discrimination.
+
+Can you think of a few other examples of discrimination.
+
+Discuss the ways in which persons with special needs might be subject to discrimination.
+
+### Striving for Equality
+
+The struggle for freedom from British rule also included within it the struggle of large groups of people who not only fought against the British but also fought to be treated more equally. Dalits, women, tribals and peasants fought against the inequalities they experienced in their lives.
+
+As pointed out earlier, many Dalits organised themselves to gain entry into temples. Women demanded that they should have as much a right to education as men did. Peasants and tribals fought to release themselves from the grasp of the moneylender and the high interest they were charged.
+
+> [caption] Women at a rally demanding their rights
+
+<!-- pdf page 9 -->
+
+When India became a nation in 1947 our leaders too were concerned about the different kinds of inequalities that existed. Those who wrote the Constitution of India, a document that laid out the rules by which the nation would function, were aware of the ways in which discrimination had been practised in our society and how people had struggled against this. Many leaders of these struggles such as Dr Ambedkar had also fought for the rights of the Dalits.
+
+So these leaders set out a vision and goals in the Constitution to ensure that all the people of India were considered equal. This equality of all persons is seen as a key value that unites us all as Indians. Everyone has equal rights and opportunities. Untouchability is seen as a crime and has been legally abolished by law. People are free to choose the kind of work they wish to do. Government jobs are open to all people. In addition, the Constitution also placed responsibility on the government to take specific steps to realise this right to equality for poor and other such marginal communities.
+
+> [table] Diversity and Discrimination / 21
+
+The writers of the Constitution also said that respect for diversity was a significant element in ensuring equality. They felt that people must have the freedom to follow their religion, speak their language, celebrate their festivals and express themselves freely. They said that no one language, religion or festival should become compulsory for all to follow. They said that the government must treat all religions equally.
+
+> [caption] Some of the members who wrote the Constitution of India.
+
+Therefore, India became a secular country where people of different religions and faiths have the freedom to practise and follow their religion without any fear of discrimination. This is seen as an important element of our unity – that we all live together and respect one other.
+
+<!-- pdf page 10 -->
+
+> [table] 22 / Social and Political Life
+
+Though these ideals are enshrined in our Constitution, this chapter points out that inequalities exist even today. Equality is a value that we have to keep striving for and not something which will happen automatically. People’s struggles and positive actions by the government are necessary to make this a reality for all Indians.
+
+> [caption] The first page of the Constitution that clearly states that all Indians are entitled to equality of status and opportunity.
+
+<!-- section: exercises -->
+
+QUESTIONS
+
+1. Match the following statements in way that challenges stereotypes.
+
+a. Two surgeons were sitting down to lunch when one of them made a call on the mobile phone
+
+1. suffers from chronic asthma.
+
+b. The boy who won the drawing competition went to the dias
+
+2. to become an astronaut which she did.
+
+c. One of the fastest athletes in the world
+
+3. to speak with her daughter who had just returned from school.
+
+4. on a wheelchair to collect his prize.
+
+d. She was not that well-off but had a dream
+
+<!-- pdf page 11 -->
+
+2. How can the stereotype that girls are a burden on their parents affect the life of a daughter? Imagine this situation and list at least five different effects that this stereotype can have on the way daughters get treated in the house.
+
+3. What does the Constitution say with regard to equality? Why do you think it is important for all people to be equal?
+
+4. Sometimes people make prejudiced comments in our presence. We are often not in a position to do anything about this because it is difficult to say something right then and there. Divide the class into groups and each group discuss what they could do in one of the following situations:
+
+a. A friend begins to tease a classmate because he is poor.
+
+b. You are watching TV with your family and one of them makes a prejudicial
+
+comment about a particular religious community.
+
+c. Children in your class refuse to share their food with a particular person
+
+because they think she is dirty.
+
+d. Someone tells you a joke that makes fun of a community because of their
+
+accent.
+
+e. Some boys make remarks about girls not being able to play games as well
+
+as them.
+
+Discuss in class what the different groups have suggested for the above situations, and also talk about the problems that can come up when raising the issue.

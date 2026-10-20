@@ -4,6 +4,7 @@ book_title: "Our Pasts III"
 edition: "2020-10-15"
 snapshots:
   - "2020-10-15"
+  - "archive-org-2020-21"
 chapter: 5
 title: "When People Rebel 1857 and After"
 source_pdf: "pdfs/our-pasts-3/2020-10-15/ch05.pdf"

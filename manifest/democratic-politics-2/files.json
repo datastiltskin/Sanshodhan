@@ -1,0 +1,1565 @@
+{
+  "book": "democratic-politics-2",
+  "title": "Democratic Politics II",
+  "class": 10,
+  "codes": {
+    "single": "jess4"
+  },
+  "files": [
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "09792ce6684caba59e51c015c1103b3258823eae9bbcf3c7e4053d0b13414857",
+      "size": 898057,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "bd8cefda628135a12fdc1c536884054d17292762d65305e7a5fc0a09811f55c7",
+      "size": 917273,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d15d64e83d8a6eadbb9a330137e25e1ab54371c68ebfcb2b249ead992532e678",
+      "size": 534189,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "fb2d9d5fff2e17460651945605620888f3eefadd44f0e293ebce66bfc93db3e9",
+      "size": 1419862,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "af666a9233467e9e8f4cc9d396a16b1a0a9bb1c3fd9438f3ba21b6cfa92cc563",
+      "size": 680653,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4f2db6037c11b7e21d281412bca375c225a55f9ad701f1372c7156ab80d64f58",
+      "size": 1227870,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4890321e210d6a82dcf022c2f2e49f328a6eb91885977c91e181e0a5f7516979",
+      "size": 595188,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e5624159654f4b78ce9bf98ab4cea3894710c767ed7cb5ad726feadc5ac8e24a",
+      "size": 352370,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "998b69de2633e347f0b56fd2e0cd04b1c5d6281abc1e39efd981d7677a1dbc87",
+      "size": 7008346,
+      "members": [
+        "pdfs/democratic-politics-2/2011-10-17/ch01.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch02.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch03.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch04.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch05.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch06.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch07.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/ch08.pdf",
+        "pdfs/democratic-politics-2/2011-10-17/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2011-10-17/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20111017024647id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "wayback": "20111017024647",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "af81930238b27a27e1fe93416c124c45192a7ebc06790949dbc5a4e316dab422",
+      "size": 961681,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "3feba7bebccee33a605cab5def74bd7e04bc07e7ec10a94fa2bde65068151069",
+      "size": 494796,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "ae418bbf348244970b99a8adab5dfecbdc3f3d2bf08e8417331dee9ab2f4e823",
+      "size": 917847,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f5401f368d3a1921783d74b323888574c70dd7502c6e4af6ddb6e43edb549260",
+      "size": 639926,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a52cda2e5fa6bf508e85a51344b654f74de96c535ec55c54ef943d3f63cbeae0",
+      "size": 1497230,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "817cd0d80da8cadb542ef87d04c020419af73be355cb36ab6cf2b8f9f57b8aae",
+      "size": 789546,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a2e1c0e6d34bd7ab38ad5f8b6ad6114c4370132326b357b2b7872b8babc53f2b",
+      "size": 908211,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "024b404a2b1e77c705ad1aee8ced40821b5745122b779152d42e34fa914d940d",
+      "size": 679404,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e6013a07e23ec8313b61c31dd360e1cf6cdab76f08b76402c988e504bf1130ed",
+      "size": 467394,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "6ab8bd17b6ca8b8a810cf959708e6466e484936750f14e8263ce4714847b1bad",
+      "size": 6778277,
+      "members": [
+        "pdfs/democratic-politics-2/2013-02-19/ch01.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch02.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch03.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch04.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch05.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch06.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch07.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/ch08.pdf",
+        "pdfs/democratic-politics-2/2013-02-19/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2013-02-19/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20130219080031id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "wayback": "20130219080031",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "cbb9310de57a813c1aaae6cb021ac53cbe41fb46884f611ac5890a45a416afcb",
+      "size": 944371,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f181d940efa3b67bcda7e1556c27e49c77a72cc9165805ef98fd4ce6b55bcf8f",
+      "size": 1044956,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "70da1862f7cc2483b46e60c1bb7a88338d63c608df41cd29fb4998cacda9fd09",
+      "size": 974613,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f5401f368d3a1921783d74b323888574c70dd7502c6e4af6ddb6e43edb549260",
+      "size": 639926,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7593767e572b2155da05f152f1ecd5f7901f3a845db9552a6e455c0dfac51d88",
+      "size": 1414413,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "840eae0fe5fd38e5c3df56f4c41062cfb40ef6dbec6ab9f20b580107a67200d0",
+      "size": 1443288,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "98cab954d8b42e5bea482c66e2679d97098e666bb8554d76c02f42e456756b45",
+      "size": 2221234,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8aacfbf8eed6e49a0f4dce667fdef6b54973d4026c994f45be6853c962088930",
+      "size": 1072932,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a355133de733ba4e8c9080f7365cb443ff32120128f6030e439c377e3dae4cb9",
+      "size": 722099,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "efcc63b7b676ff38e7d13b2dbffc5f296333279b3c914e638a61e9ef4fa5a7b7",
+      "size": 9853475,
+      "members": [
+        "pdfs/democratic-politics-2/2014-09-07/ch01.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch02.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch03.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch04.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch05.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch06.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch07.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/ch08.pdf",
+        "pdfs/democratic-politics-2/2014-09-07/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2014-09-07/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20140907121804id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "wayback": "20140907121804",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2dbd3f77eb44b68ff3b0123f32e4a03a6d28cca8bf716526d71f1548b507f123",
+      "size": 1088189,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch01.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f181d940efa3b67bcda7e1556c27e49c77a72cc9165805ef98fd4ce6b55bcf8f",
+      "size": 1044956,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch02.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "723cfd7561ba4d11a9925cbecfa7817fe00593b8118a077fe9f3c2ebef13aae2",
+      "size": 1269371,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch03.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f5401f368d3a1921783d74b323888574c70dd7502c6e4af6ddb6e43edb549260",
+      "size": 639926,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch04.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7593767e572b2155da05f152f1ecd5f7901f3a845db9552a6e455c0dfac51d88",
+      "size": 1414413,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch05.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "840eae0fe5fd38e5c3df56f4c41062cfb40ef6dbec6ab9f20b580107a67200d0",
+      "size": 1443288,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch06.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "37a23f4a379ba42b739a6d08885f4e162b93f390c4b9be9cc0e16d179afd1d67",
+      "size": 1409579,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch07.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8aacfbf8eed6e49a0f4dce667fdef6b54973d4026c994f45be6853c962088930",
+      "size": 1072932,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#ch08.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a355133de733ba4e8c9080f7365cb443ff32120128f6030e439c377e3dae4cb9",
+      "size": 722099,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "ac2e67addf3d9e12f83e6af09db5bdb3dd9d86e3f528d8a81a84ce8d0ddf9450",
+      "size": 9512787,
+      "members": [
+        "pdfs/democratic-politics-2/2015-04-01/ch01.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch02.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch03.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch04.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch05.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch06.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch07.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/ch08.pdf",
+        "pdfs/democratic-politics-2/2015-04-01/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2015-04-01/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20150401130924id_/http://ncert.nic.in/ncerts/l/jess4dd.zip#prelims.pdf",
+      "wayback": "20150401130924",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2e974f679a09b99a1f0aa72832c21fa75d33f2c8aa7e0ae49fa2138055fde2e4",
+      "size": 1148295,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2016-partial/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess401.pdf",
+      "download_url": "http://web.archive.org/web/20160705133632id_/http://ncert.nic.in/ncerts/l/jess401.pdf",
+      "wayback": "20160705133632",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f181d940efa3b67bcda7e1556c27e49c77a72cc9165805ef98fd4ce6b55bcf8f",
+      "size": 1044956,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2016-partial/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess405.pdf",
+      "download_url": "http://web.archive.org/web/20160327150618id_/http://ncert.nic.in/ncerts/l/jess405.pdf",
+      "wayback": "20160327150618",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "840eae0fe5fd38e5c3df56f4c41062cfb40ef6dbec6ab9f20b580107a67200d0",
+      "size": 1443288,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2016-partial/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess406.pdf",
+      "download_url": "http://web.archive.org/web/20161213030210id_/http://ncert.nic.in/ncerts/l/jess406.pdf",
+      "wayback": "20161213030210",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "37a23f4a379ba42b739a6d08885f4e162b93f390c4b9be9cc0e16d179afd1d67",
+      "size": 1409579,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2016-partial/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess408.pdf",
+      "download_url": "http://web.archive.org/web/20161213040729id_/http://ncert.nic.in/ncerts/l/jess408.pdf",
+      "wayback": "20161213040729",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a355133de733ba4e8c9080f7365cb443ff32120128f6030e439c377e3dae4cb9",
+      "size": 722099,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2016-partial/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4ps.pdf",
+      "download_url": "http://web.archive.org/web/20160527233756id_/http://ncert.nic.in/ncerts/l/jess4ps.pdf",
+      "wayback": "20160527233756",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2e974f679a09b99a1f0aa72832c21fa75d33f2c8aa7e0ae49fa2138055fde2e4",
+      "size": 1148295,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2017-partial/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess402.pdf",
+      "download_url": "http://web.archive.org/web/20170329101122id_/http://ncert.nic.in/ncerts/l/jess402.pdf",
+      "wayback": "20170329101122",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "723cfd7561ba4d11a9925cbecfa7817fe00593b8118a077fe9f3c2ebef13aae2",
+      "size": 1269371,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2017-partial/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess404.pdf",
+      "download_url": "http://web.archive.org/web/20170516194512id_/http://ncert.nic.in/ncerts/l/jess404.pdf",
+      "wayback": "20170516194512",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7593767e572b2155da05f152f1ecd5f7901f3a845db9552a6e455c0dfac51d88",
+      "size": 1414413,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2018-partial/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess403.pdf",
+      "download_url": "http://web.archive.org/web/20180219122323id_/http://ncert.nic.in/ncerts/l/jess403.pdf",
+      "wayback": "20180219122323",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f5401f368d3a1921783d74b323888574c70dd7502c6e4af6ddb6e43edb549260",
+      "size": 639926,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2018-partial/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess407.pdf",
+      "download_url": "http://web.archive.org/web/20180219024307id_/http://ncert.nic.in/ncerts/l/jess407.pdf",
+      "wayback": "20180219024307",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8aacfbf8eed6e49a0f4dce667fdef6b54973d4026c994f45be6853c962088930",
+      "size": 1072932,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8c8d2481656fa7db8669e0a58ba2cdc3a344bdbbe7f8a0f6d4cb140b464da340",
+      "size": 1476377,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7cde282198fc35f19f7924a3878bb5b803f4924a547af59ad0b7ab7e69588b5c",
+      "size": 3194932,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4555ef3fb22cdf89cd8fdf5fd7b47952fb4570938bce0fc9198346ed429157fd",
+      "size": 1398220,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5b6d1f899a97d61946b897e6b097a3eca9a77855ecb01c87d67e8d478a9cf66d",
+      "size": 2952210,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "512c478a0483ab393d5a161fbd74bfa57cf97cfeedc9b0b92ebbac16fb8ca387",
+      "size": 2509577,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d42ac91ae3d45f5260f9e379c1e8a1db4890510702ddcbcc21b1d405644c3095",
+      "size": 2796164,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "89bdbabed0867f4565ee792a9658a4e2660f584d44305dd4879b435d26aa7af6",
+      "size": 1937812,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "30676b4ad85f663e67ce34ab835653ed9f8e42a954355433f44a1111f0514d96",
+      "size": 1281118,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "d87df75bbe7df805fb18d14b0ce5ebc9acc0243934ae3cb1e67006ab4d594955",
+      "size": 18022937,
+      "members": [
+        "pdfs/democratic-politics-2/2019-05-04/ch01.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch02.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch03.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch04.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch05.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch06.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch07.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/ch08.pdf",
+        "pdfs/democratic-politics-2/2019-05-04/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2019-05-04/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190504055401id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20190504055401",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "235412d2dc1e70a760fb7f2923460b16e1c596d8e37e95a6db0fc4ebf02cc73a",
+      "size": 1490304,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "026ec2dc5221bed51c649ac481cbdaf550d363193331177ce7f2e1f731d12edd",
+      "size": 1477348,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "cee4a499b80c7c4d9b02f68a41a623f47a1c81434a9d9b4abd51f7131c783f32",
+      "size": 3240081,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "49f6e5acf5ca4e8f34e22facc4449895c509c4c04988e2f613291bedb6aa1aa8",
+      "size": 1399062,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8a823e14456d83eae455056326e853ee4e2a7efd5f5c68acf43f0d234f423436",
+      "size": 3016107,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2a0ede0cc1d80714bafb1b3c007a45fb56584359d64563a58777689baa8c3821",
+      "size": 2510830,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "75851240ec44e13bd375403c7676cdf5c68ad6c9722468f628f4e2b986d7b98d",
+      "size": 2810699,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "0380d9dbbfedd90909d6579e8dbf9854b94577f8f57e901f2aad5dd251a53381",
+      "size": 1938586,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b8e7474739da164aa116ac145039657bb90e053ef20e7209da195cb1f8d52344",
+      "size": 1282045,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5f39d9de159cd77b812becad2803151cccbcab7828cee9b7d2d57da3358e50b1",
+      "size": 18981156,
+      "members": [
+        "pdfs/democratic-politics-2/2020-05-17/ch01.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch02.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch03.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch04.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch05.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch06.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch07.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/ch08.pdf",
+        "pdfs/democratic-politics-2/2020-05-17/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2020-05-17/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20200517045511id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20200517045511",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f1e46f0393fca169abac89b58722fbaf1fadf619e704de844520a0f89aaede00",
+      "size": 1495061,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess401.pdf",
+      "download_url": "http://web.archive.org/web/20211018061101id_/https://ncert.nic.in/textbook/pdf/jess401.pdf",
+      "wayback": "20211018061101",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "026ec2dc5221bed51c649ac481cbdaf550d363193331177ce7f2e1f731d12edd",
+      "size": 1477348,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess402.pdf",
+      "download_url": "http://web.archive.org/web/20210505103225id_/https://ncert.nic.in/textbook/pdf/jess402.pdf",
+      "wayback": "20210505103225",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "cee4a499b80c7c4d9b02f68a41a623f47a1c81434a9d9b4abd51f7131c783f32",
+      "size": 3240081,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess404.pdf",
+      "download_url": "http://web.archive.org/web/20211018061746id_/https://ncert.nic.in/textbook/pdf/jess404.pdf",
+      "wayback": "20211018061746",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5ab905f31e368838eb47ec8a951625df5e206021bc783db3c4a558b5f9923f6a",
+      "size": 3026877,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess405.pdf",
+      "download_url": "http://web.archive.org/web/20211018060727id_/https://ncert.nic.in/textbook/pdf/jess405.pdf",
+      "wayback": "20211018060727",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a2f88db69c5cdbec998222c8110c66bb8bc4e5ae7a0db9e9d8968c3ba2ba2a7a",
+      "size": 2522432,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess406.pdf",
+      "download_url": "http://web.archive.org/web/20210508170214id_/https://ncert.nic.in/textbook/pdf/jess406.pdf",
+      "wayback": "20210508170214",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "75851240ec44e13bd375403c7676cdf5c68ad6c9722468f628f4e2b986d7b98d",
+      "size": 2810699,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess407.pdf",
+      "download_url": "http://web.archive.org/web/20211018061246id_/https://ncert.nic.in/textbook/pdf/jess407.pdf",
+      "wayback": "20211018061246",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "bc4475796034adcbeb0581d53dc0309e66322f97c0b62433cadec65391b8bc83",
+      "size": 1950196,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2021-partial/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess408.pdf",
+      "download_url": "http://web.archive.org/web/20211018060928id_/https://ncert.nic.in/textbook/pdf/jess408.pdf",
+      "wayback": "20211018060928",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "6eee55d82af6844197b9ac2ad094e3a92b3339cbec105c1d62293a171aaa7110",
+      "size": 1294526,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "783ab40c114db93ab1847765f93699d708c454bdcd55cfd6c2be140f5f9a9d78",
+      "size": 1915670,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c4c353d162c3256d2230c2fe87be77f3270880418226e9ad0078c8ba44d9165d",
+      "size": 3263876,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "862b73cb26b4b15f2c9f47722b274fc3a8746d8166326a7705080d52c1d509be",
+      "size": 1841025,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4c900aa6dd33d5e4f123f0d0d939a78781d7fe0a8b5e7f9887cd07cb43d1ae36",
+      "size": 3453927,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "1fd0852a446d1743a5eb40fbc64e1d741fafcf899d0905002873161e48120b71",
+      "size": 2847249,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch06.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "3f969bd4ddc4dc6d2bd73e1d848e6f1a85b4d0467817fd615128e30d55c477ee",
+      "size": 4003007,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch07.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "34442e420722ff40c8712f32640fe8e9c4f6c62e4e51fe8832fbc0ad2a635b08",
+      "size": 2130770,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch08.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "07deb93a068bdf2e60d842800e3178be73333b98f1bc06a2c2f86bf48c9248e7",
+      "size": 1610334,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4800d13fcb212705fa9b10e6e3d8f7f08816c4c8cbe4689e6d29e58c2df1f91e",
+      "size": 20989698,
+      "members": [
+        "pdfs/democratic-politics-2/2022-08-03/ch01.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch02.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch03.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch04.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch05.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch06.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch07.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/ch08.pdf",
+        "pdfs/democratic-politics-2/2022-08-03/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2022-08-03/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20220803135039id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20220803135039",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "364d26314d0b5f72140a4370ac54476cc656e65ce3c5eb94201eb8b89a17fead",
+      "size": 1823131,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-02-28-partial/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20230228030318id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20230228030318",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "ca861c88b20f83b8d9d0de884613b449c776155ec7f68b591d9848e594465b26",
+      "size": 7929856,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-02-28/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20230228030318id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20230228030318",
+      "fetched_at": "2026-10-20T07:27:29+00:00",
+      "sha256": "ca861c88b20f83b8d9d0de884613b449c776155ec7f68b591d9848e594465b26",
+      "size": 7929856,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "43fc9daea2faad895c18b762365da4c4d8b94955437e390f366cb807c4cbd52c",
+      "size": 1461863,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "22f54eaf9e4297f5b54a9084028a7615a3f1c5cc31ca65dd05cfb1d6be5ac269",
+      "size": 2658565,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "5360736672cdebcb45de2dde36d079cd4a0ea2d1accb58fc4a7049def165860d",
+      "size": 2569757,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "36754deac05b60522437996360f469966791ab2e90cc971b5ea1e3273a1b7937",
+      "size": 3502872,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "0666042a2e09b481475b16ebff62f70731adb7fba2759a2269c843267cc50911",
+      "size": 1442205,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4509394074e80626d7f17716159825e84033aba11ea4c8e6343aa829bb08bab7",
+      "size": 12332525,
+      "members": [
+        "pdfs/democratic-politics-2/2023-12-23/ch01.pdf",
+        "pdfs/democratic-politics-2/2023-12-23/ch02.pdf",
+        "pdfs/democratic-politics-2/2023-12-23/ch03.pdf",
+        "pdfs/democratic-politics-2/2023-12-23/ch04.pdf",
+        "pdfs/democratic-politics-2/2023-12-23/ch05.pdf",
+        "pdfs/democratic-politics-2/2023-12-23/jess4 ps.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2023-12-23/jess4 ps.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#jess4 ps.pdf",
+      "download_url": "http://web.archive.org/web/20231223074046id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#jess4 ps.pdf",
+      "wayback": "20231223074046",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "140e6a60e20ee13cadf8b891973d801db2187361958ae37d30580c84aa526e41",
+      "size": 1870219,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "1a8391316027c3031faf1a0c78df8d830aaae0b17b84cbf681cf4921ed22c3fa",
+      "size": 1486236,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "20fa1af2545267d2cebe3dfde4e182681628ef24cb11ee90325e9b207024492f",
+      "size": 2270258,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "1bb2b53cbd3fdd0e3d55bde0aef3033333769c5d25b322f99e37e46f74cde036",
+      "size": 1900362,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "acd1d776700a25029210f41a10e534efa5f60b5aa2f8bcbc8e4534e75baeebe6",
+      "size": 2289737,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "36e5e920139d8a7b696ae685a530ac3d0da0a7ba7e042941feed1cb8274cb7b0",
+      "size": 1491547,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "252142816fc156708742e618554070a170fe1c007ffd9a38fbcf839376949931",
+      "size": 12160492,
+      "members": [
+        "pdfs/democratic-politics-2/2024-05-24/ch01.pdf",
+        "pdfs/democratic-politics-2/2024-05-24/ch02.pdf",
+        "pdfs/democratic-politics-2/2024-05-24/ch03.pdf",
+        "pdfs/democratic-politics-2/2024-05-24/ch04.pdf",
+        "pdfs/democratic-politics-2/2024-05-24/ch05.pdf",
+        "pdfs/democratic-politics-2/2024-05-24/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2024-05-24/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20240524022950id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20240524022950",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2cbb3a83b04400d6d8dc67145488172abc0d56896a85f573f6167e8f718b83b1",
+      "size": 3837421,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "75aedfc143a28f7a86bcb0494318ab8e2e7a009ceb0d34114d8423e9d03de009",
+      "size": 1493247,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "6b9cf595264329c2584d5de0b46aafafe6e6ef5f77af49f217dbb70cf1edc626",
+      "size": 2293681,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "14e6d7c47926a127ec541ac04f25e9c6426d2f34d02421f8816781743e8349bc",
+      "size": 1913540,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "97d71c16d23689dbae862eb0b96aea8c59fd333bbc9c3485f7bdcdad6373a201",
+      "size": 2314782,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "dc8e6cfe7eac31bbc315c3ee63ca1fadab48f07d08da23d2f8871d5a336ad865",
+      "size": 1504758,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "ca9a79747af134b8251048d0a70bc79658ac2ae0c00ffc254fee0f4e647a973a",
+      "size": 10495610,
+      "members": [
+        "pdfs/democratic-politics-2/2025-04-26/ch01.pdf",
+        "pdfs/democratic-politics-2/2025-04-26/ch02.pdf",
+        "pdfs/democratic-politics-2/2025-04-26/ch03.pdf",
+        "pdfs/democratic-politics-2/2025-04-26/ch04.pdf",
+        "pdfs/democratic-politics-2/2025-04-26/ch05.pdf",
+        "pdfs/democratic-politics-2/2025-04-26/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2025-04-26/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20250426120052id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20250426120052",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4449c20c03f4742ae1d8bdca3bd046b1bb3da3fbc604e0cad5084ceee1baefd5",
+      "size": 1879852,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f196321f2b8b61df09cb2cf49684e950d8ad1a52aef26388af07b4467e7823e5",
+      "size": 1865598,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b8e30317fdd6085e679df31b00337119f638c78b9f8748d35f733b48a77623cb",
+      "size": 2696611,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "29742b10357d4a0787a4a97ce5a4521d732c47ff2a0df6d6909d75b53a692106",
+      "size": 2358657,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "848863f8ebe983fe81ffff0e19462c8059f35af97788ce6ff7393287699bf7c9",
+      "size": 3555972,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f9049b6789da596463e6e2171c8982b0578cab252fb07e741d99f4200095c325",
+      "size": 2164380,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e29bcee6ed4110c989221c7bd10e22583f3f45ba8eb1a4be9fd5a5344a55a275",
+      "size": 13370156,
+      "members": [
+        "pdfs/democratic-politics-2/2026-05-08/ch01.pdf",
+        "pdfs/democratic-politics-2/2026-05-08/ch02.pdf",
+        "pdfs/democratic-politics-2/2026-05-08/ch03.pdf",
+        "pdfs/democratic-politics-2/2026-05-08/ch04.pdf",
+        "pdfs/democratic-politics-2/2026-05-08/ch05.pdf",
+        "pdfs/democratic-politics-2/2026-05-08/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/2026-05-08/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20260508225526id_/https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": "20260508225526",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c4808f2cde54910812bc324560f62149654caa4bda282c64b3965451905ff22f",
+      "size": 2115669,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch01.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess401.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess401.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "026ec2dc5221bed51c649ac481cbdaf550d363193331177ce7f2e1f731d12edd",
+      "size": 1477348,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch02.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess402.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess402.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "cee4a499b80c7c4d9b02f68a41a623f47a1c81434a9d9b4abd51f7131c783f32",
+      "size": 3240081,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch03.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess403.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess403.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "49f6e5acf5ca4e8f34e22facc4449895c509c4c04988e2f613291bedb6aa1aa8",
+      "size": 1399062,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch04.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess404.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess404.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8a823e14456d83eae455056326e853ee4e2a7efd5f5c68acf43f0d234f423436",
+      "size": 3016107,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch05.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess405.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess405.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2a0ede0cc1d80714bafb1b3c007a45fb56584359d64563a58777689baa8c3821",
+      "size": 2510830,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch06.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess406.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess406.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "75851240ec44e13bd375403c7676cdf5c68ad6c9722468f628f4e2b986d7b98d",
+      "size": 2810699,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch07.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess407.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess407.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "0380d9dbbfedd90909d6579e8dbf9854b94577f8f57e901f2aad5dd251a53381",
+      "size": 1938586,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/ch08.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess408.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess408.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b8e7474739da164aa116ac145039657bb90e053ef20e7209da195cb1f8d52344",
+      "size": 1282045,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/archive-org-2020-21/prelims.pdf",
+      "source_url": "https://archive.org/download/ncert-jess4/jess4ps.pdf",
+      "download_url": "https://archive.org/download/ncert-jess4/jess4ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f1e46f0393fca169abac89b58722fbaf1fadf619e704de844520a0f89aaede00",
+      "size": 1495061,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/covers/2015-08-26.jpg",
+      "source_url": "http://ncert.nic.in/ncerts/l/jess4cc.jpg",
+      "download_url": "http://web.archive.org/web/20150826051953id_/http://ncert.nic.in/ncerts/l/jess4cc.jpg",
+      "wayback": "20150826051953",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8efe69620dcfb8e0a8b9e363471845284795f7852810603fe55ead3b8f42c428",
+      "size": 106559,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/covers/2022-09-18.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "download_url": "http://web.archive.org/web/20220918220504id_/https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "wayback": "20220918220504",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "4b39c6a8f95828d4154e9ba4060f6de4af05927b2b6e4f8ed26e065abb271658",
+      "size": 177566,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/covers/2026-07-11.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "download_url": "http://web.archive.org/web/20260711142252id_/https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "wayback": "20260711142252",
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c8dfa2feab81acf723dbb4a2e9a746d72e9cb86b16d0966d4411f6a3606e297c",
+      "size": 57281,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/covers/live.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4cc.jpg",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c8dfa2feab81acf723dbb4a2e9a746d72e9cb86b16d0966d4411f6a3606e297c",
+      "size": 57281,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch01.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f196321f2b8b61df09cb2cf49684e950d8ad1a52aef26388af07b4467e7823e5",
+      "size": 1865598,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch02.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "b8e30317fdd6085e679df31b00337119f638c78b9f8748d35f733b48a77623cb",
+      "size": 2696611,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch03.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "29742b10357d4a0787a4a97ce5a4521d732c47ff2a0df6d6909d75b53a692106",
+      "size": 2358657,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch04.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "848863f8ebe983fe81ffff0e19462c8059f35af97788ce6ff7393287699bf7c9",
+      "size": 3555972,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#ch05.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f9049b6789da596463e6e2171c8982b0578cab252fb07e741d99f4200095c325",
+      "size": 2164380,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "e29bcee6ed4110c989221c7bd10e22583f3f45ba8eb1a4be9fd5a5344a55a275",
+      "size": 13370156,
+      "members": [
+        "pdfs/democratic-politics-2/live-2026-10-20/ch01.pdf",
+        "pdfs/democratic-politics-2/live-2026-10-20/ch02.pdf",
+        "pdfs/democratic-politics-2/live-2026-10-20/ch03.pdf",
+        "pdfs/democratic-politics-2/live-2026-10-20/ch04.pdf",
+        "pdfs/democratic-politics-2/live-2026-10-20/ch05.pdf",
+        "pdfs/democratic-politics-2/live-2026-10-20/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/democratic-politics-2/live-2026-10-20/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "download_url": "https://ncert.nic.in/textbook/pdf/jess4dd.zip#prelims.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "c4808f2cde54910812bc324560f62149654caa4bda282c64b3965451905ff22f",
+      "size": 2115669,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch01.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess401.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess401.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f181d940efa3b67bcda7e1556c27e49c77a72cc9165805ef98fd4ce6b55bcf8f",
+      "size": 1044956,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch02.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess402.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess402.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "723cfd7561ba4d11a9925cbecfa7817fe00593b8118a077fe9f3c2ebef13aae2",
+      "size": 1269371,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch03.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess403.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess403.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "f5401f368d3a1921783d74b323888574c70dd7502c6e4af6ddb6e43edb549260",
+      "size": 639926,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch04.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess404.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess404.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "7593767e572b2155da05f152f1ecd5f7901f3a845db9552a6e455c0dfac51d88",
+      "size": 1414413,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch05.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess405.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess405.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "840eae0fe5fd38e5c3df56f4c41062cfb40ef6dbec6ab9f20b580107a67200d0",
+      "size": 1443288,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch06.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess406.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess406.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "37a23f4a379ba42b739a6d08885f4e162b93f390c4b9be9cc0e16d179afd1d67",
+      "size": 1409579,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch07.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess407.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess407.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "8aacfbf8eed6e49a0f4dce667fdef6b54973d4026c994f45be6853c962088930",
+      "size": 1072932,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/ch08.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess408.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess408.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "a355133de733ba4e8c9080f7365cb443ff32120128f6030e439c377e3dae4cb9",
+      "size": 722099,
+      "members": []
+    },
+    {
+      "path": "pdfs/democratic-politics-2/rungtaias-undated/prelims.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess4ps.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%2010/Class%2010%20-%20Democratic%20Politics/jess4ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T08:03:28+00:00",
+      "sha256": "2e974f679a09b99a1f0aa72832c21fa75d33f2c8aa7e0ae49fa2138055fde2e4",
+      "size": 1148295,
+      "members": []
+    }
+  ]
+}

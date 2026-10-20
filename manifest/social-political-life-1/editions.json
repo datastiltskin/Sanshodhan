@@ -1,0 +1,2012 @@
+{
+  "book": "social-political-life-1",
+  "title": "Social and Political Life I",
+  "editions": [
+    {
+      "id": "2014-06-28",
+      "fingerprint": "455e28548f1f7485580b5dae55839006588255c73f5d47a5d0659eb8cb47511c",
+      "snapshots": [
+        "2014-06-28",
+        "2016-partial",
+        "2018-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 13
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Understanding Diversity",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch01.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
+          "role_counts": {
+            "body": 108,
+            "h2": 1,
+            "dropcap": 1,
+            "table": 20,
+            "h3": 3,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/01-understanding-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "d0a121ea0de35e5a1060a3c1dc74f943c1546dc17e5a8383ce320152e5e74b6f",
+          "role_counts": {
+            "body": 95,
+            "h3": 5,
+            "dropcap": 1,
+            "h2": 1,
+            "table": 20,
+            "decoration": 4,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "What is Government?",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch03.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
+          "role_counts": {
+            "body": 53,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 4,
+            "caption": 4,
+            "table": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/03-what-is-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
+          "role_counts": {
+            "body": 46,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Panchayati Raj",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch05.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
+          "role_counts": {
+            "body": 40,
+            "h2": 1,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/05-panchayati-raj.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
+          "role_counts": {
+            "body": 56,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/07-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Rural Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch08.pdf",
+          "pdf_pages": 9,
+          "printed_pages": null,
+          "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
+          "role_counts": {
+            "body": 69,
+            "h2": 1,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/08-rural-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2014-06-28/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2014-06-28/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2015-04-01",
+      "fingerprint": "f76d92da847278e594ede89d4f273c36a0e0c66b721aaaf7e0dc344d3650f063",
+      "snapshots": [
+        "2015-04-01"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 1
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Understanding Diversity",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch01.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
+          "role_counts": {
+            "body": 108,
+            "h2": 1,
+            "dropcap": 1,
+            "table": 20,
+            "h3": 3,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/01-understanding-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch02.pdf",
+          "pdf_pages": 1,
+          "printed_pages": null,
+          "fingerprint": "029e060bfeba20c2264e1330e081988b6137618100bb9620e0c62a6398e9c962",
+          "role_counts": {
+            "table": 9,
+            "body": 4,
+            "caption": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2014-06-28",
+          "file": "texts/social-political-life-1/2015-04-01/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "What is Government?",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch03.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
+          "role_counts": {
+            "body": 53,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 4,
+            "caption": 4,
+            "table": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/03-what-is-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
+          "role_counts": {
+            "body": 46,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Panchayati Raj",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch05.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
+          "role_counts": {
+            "body": 40,
+            "h2": 1,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/05-panchayati-raj.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
+          "role_counts": {
+            "body": 56,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/07-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Rural Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch08.pdf",
+          "pdf_pages": 9,
+          "printed_pages": null,
+          "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
+          "role_counts": {
+            "body": 69,
+            "h2": 1,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/08-rural-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2015-04-01/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2015-04-01/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2017-partial",
+      "fingerprint": "f42a45e17d25862cfc8e2aee4f478d2239207991a7a367968c08506a829dab96",
+      "snapshots": [
+        "2017-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 4,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Understanding Diversity",
+          "pdf": "pdfs/social-political-life-1/2017-partial/ch01.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
+          "role_counts": {
+            "body": 108,
+            "h2": 1,
+            "dropcap": 1,
+            "table": 20,
+            "h3": 3,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2017-partial/01-understanding-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/2017-partial/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "e3f4e1d4e760ab2b488b1a923f28fe7bdbc8351e59cd32e5bc663382d5fa45c5",
+          "role_counts": {
+            "body": 85,
+            "h3": 5,
+            "dropcap": 1,
+            "h2": 1,
+            "footer": 12,
+            "table": 20,
+            "decoration": 4,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2017-partial/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "What is Government?",
+          "pdf": "pdfs/social-political-life-1/2017-partial/ch03.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "37128042040fb7e1642c58c8ab647ff72919cb0fced1d3648cdcba2ca6d4e2fe",
+          "role_counts": {
+            "body": 50,
+            "h2": 1,
+            "dropcap": 1,
+            "footer": 8,
+            "h3": 4,
+            "caption": 4,
+            "table": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2017-partial/03-what-is-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2017-partial/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "3a4dc73424e39ba36ef2de79f1cc95ffee24bef06ca1fc00348c8cb3d48d355b",
+          "role_counts": {
+            "body": 46,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "footer": 6,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2017-partial/04-key-elements-of-a-democratic-government.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "0337d6fcf2c5b207407d64fa43a202dff1a97d30646fc8603d1665c0dd91b7b9",
+      "snapshots": [
+        "2019-05-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": null,
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015",
+            "January 2017",
+            "January 2018"
+          ],
+          "latest_print": "January 2018",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Diversity",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "cdca05e8ef4f85d27e3943eea9876083a69d5c7db1b8221c0ecad7a6e7fb9690",
+          "role_counts": {
+            "h2": 5,
+            "footer": 12,
+            "h3": 8,
+            "body": 120,
+            "decoration": 1,
+            "dropcap": 1,
+            "table": 20,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/01-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "154986fbc29e82c85a940a706fa4b25a88b6664893c3448f6898790f028da700",
+          "role_counts": {
+            "body": 85,
+            "h3": 5,
+            "dropcap": 1,
+            "h2": 1,
+            "footer": 12,
+            "table": 20,
+            "decoration": 4,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gover nment",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
+          "role_counts": {
+            "caption": 7,
+            "h2": 3,
+            "footer": 10,
+            "body": 51,
+            "dropcap": 1,
+            "h3": 4,
+            "table": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/03-gover-nment.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "3a4dc73424e39ba36ef2de79f1cc95ffee24bef06ca1fc00348c8cb3d48d355b",
+          "role_counts": {
+            "body": 46,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "footer": 6,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Local Government",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch05.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "1f837f3fd99c8fcaa45a7ea969622d7d7165ba4d2f3ca7f05a54103f0552ca53",
+          "role_counts": {
+            "h2": 4,
+            "footer": 8,
+            "body": 40,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/05-local-government.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "0ca1cac23c5b4dd4c6ceb9eb94835578efb1a822fe4e1a96ee5d6112c816efda",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "footer": 8,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "507797240554795f42488e0d134c5bcf2f9ad73b287fe009e53fe56287f8108b",
+          "role_counts": {
+            "body": 58,
+            "h2": 1,
+            "dropcap": 1,
+            "footer": 8,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/07-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch08.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "5643f30810b6a2219a2e03cbe7bdf099bd638884573ea11d7cca820b361645a2",
+          "role_counts": {
+            "h2": 3,
+            "footer": 11,
+            "body": 69,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/08-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2019-05-04/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "30b783c4df35271e19591b977baf01b49c2dc790ee509dd8b1ba6f3e03556dbe",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "footer": 10,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2019-05-04/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-06-16",
+      "fingerprint": "4606133b68753403129573a802f6e2fdb43fe31e75886ac4eb1ee966ca7fb34c",
+      "snapshots": [
+        "2020-06-16",
+        "archive-org-2020-21"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": null,
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015",
+            "January 2017",
+            "January 2018",
+            "February 2019",
+            "January 2020"
+          ],
+          "latest_print": "January 2020",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Diversity",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "729f0afc6f0b5abee8005f6b5532b1ed2b1f1821670cea220cc8d64fdc304091",
+          "role_counts": {
+            "h2": 5,
+            "footer": 12,
+            "h3": 8,
+            "body": 120,
+            "decoration": 1,
+            "caption": 7,
+            "dropcap": 1,
+            "table": 20
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/01-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "c24f1343d54cb4d8b1d374cedabf6b7492106dd6f75b09548e265f9dfb12923f",
+          "role_counts": {
+            "body": 93,
+            "h3": 6,
+            "dropcap": 1,
+            "h2": 1,
+            "footer": 12,
+            "table": 20,
+            "decoration": 4,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gover nment",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
+          "role_counts": {
+            "caption": 8,
+            "h2": 3,
+            "footer": 10,
+            "body": 51,
+            "dropcap": 1,
+            "h3": 4,
+            "table": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/03-gover-nment.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "ddcfae599a005596811077d4011fbd1d24145f2324c195c912c9e338d5452224",
+          "role_counts": {
+            "body": 45,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "footer": 6,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Local Government",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch05.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "d02643e1171fc5f95608cca3addf0c607f0f8dd0fdb64508f0a95f01923813b0",
+          "role_counts": {
+            "h2": 4,
+            "footer": 8,
+            "body": 40,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/05-local-government.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "c5bfa3799d8706d797815f2ba1acabab65f1c5290bc9a3b10f471ed741f09e57",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "footer": 8,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Chapter 7 Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "fca249bc52f37e5275bfb3f025335cd691cf65587987a4cb490bb8341a25aaa4",
+          "role_counts": {
+            "h2": 1,
+            "body": 57,
+            "dropcap": 1,
+            "footer": 8,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/07-chapter-7-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch08.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "f2c1413a1d85821ce2ae53a2a57ae748cacf4de5a4a86139115d3257d46d64b3",
+          "role_counts": {
+            "h2": 3,
+            "footer": 11,
+            "body": 69,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/08-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2020-06-16/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "aadb48adfd8b90c28bd6a943885d1010e17ceeb7d15d292d548788f2562ac31f",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "footer": 10,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2020-06-16/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2021-partial",
+      "fingerprint": "5b03e8b59930183d24f83f48ab99277258ca4d4c0d9e13e79bfb8dfa9b2637e3",
+      "snapshots": [
+        "2021-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Diversity",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "729f0afc6f0b5abee8005f6b5532b1ed2b1f1821670cea220cc8d64fdc304091",
+          "role_counts": {
+            "h2": 5,
+            "footer": 12,
+            "h3": 8,
+            "body": 120,
+            "decoration": 1,
+            "caption": 7,
+            "dropcap": 1,
+            "table": 20
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/01-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gover nment",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "994b04104450dd2ff6d165dad8afc22307872bb3d8fdb1403f8c3254f44fefce",
+          "role_counts": {
+            "caption": 8,
+            "h2": 3,
+            "footer": 9,
+            "body": 51,
+            "dropcap": 1,
+            "h3": 4,
+            "table": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/03-gover-nment.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "ddcfae599a005596811077d4011fbd1d24145f2324c195c912c9e338d5452224",
+          "role_counts": {
+            "body": 45,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "footer": 6,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Local Government",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch05.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "dab5ddd2992f221002369f894476feb106e79ec1d2ee3e67b5c21b76a2f24059",
+          "role_counts": {
+            "h2": 4,
+            "footer": 8,
+            "body": 40,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/05-local-government.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "c5bfa3799d8706d797815f2ba1acabab65f1c5290bc9a3b10f471ed741f09e57",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "footer": 8,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Chapter 7 Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "fca249bc52f37e5275bfb3f025335cd691cf65587987a4cb490bb8341a25aaa4",
+          "role_counts": {
+            "h2": 1,
+            "body": 57,
+            "dropcap": 1,
+            "footer": 8,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/07-chapter-7-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch08.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "f2c1413a1d85821ce2ae53a2a57ae748cacf4de5a4a86139115d3257d46d64b3",
+          "role_counts": {
+            "h2": 3,
+            "footer": 11,
+            "body": 69,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/08-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2021-partial/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "4ed50699c31163dd9e457a849e2db8bc5b0888e4cdee111bb400b111c6c87850",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "footer": 10,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2021-partial/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-10-13-partial",
+      "fingerprint": "eea217177d1dc489ea9a212d89275878ec59ff7bc078c411e99ea000cc36e90f",
+      "snapshots": [
+        "2022-10-13-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": null,
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015",
+            "January 2017",
+            "January 2018",
+            "February 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 7,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Diversity",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993ff48",
+          "role_counts": {
+            "h2": 6,
+            "footer": 12,
+            "body": 136,
+            "h3": 4,
+            "caption": 6,
+            "dropcap": 1,
+            "table": 11
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/01-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "9f5ac1312f3ef321ae751d116e3fcb3415599a49b5bf22d8ad598d4319a860aa",
+          "role_counts": {
+            "body": 109,
+            "h2": 2,
+            "footer": 12,
+            "table": 11,
+            "h3": 7,
+            "decoration": 4,
+            "caption": 6
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/02-diversity-and.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Government",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
+          "role_counts": {
+            "h2": 4,
+            "body": 56,
+            "caption": 5,
+            "footer": 10,
+            "dropcap": 1,
+            "table": 7,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/03-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "f15679e6ddd3c518cdffe091109627355711d71ff60465289da3643564fd5c29",
+          "role_counts": {
+            "body": 50,
+            "h2": 1,
+            "dropcap": 1,
+            "caption": 8,
+            "footer": 6,
+            "table": 5,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Local Government",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch05.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "379571263c5f16ccb8f8ddbcbeed4180cc3359caf7d0de175ef3ce0db9390fb2",
+          "role_counts": {
+            "h2": 4,
+            "footer": 8,
+            "body": 48,
+            "dropcap": 1,
+            "h3": 3,
+            "table": 5,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/05-local-government.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "8d2068b4463ba7788df6717ddde87e9a4741d10b25db2ab26a5b45cc84a78d59",
+          "role_counts": {
+            "body": 66,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 4,
+            "footer": 8,
+            "table": 7,
+            "caption": 45
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2022-10-13-partial/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "b93d5a0a32fef73edd4b71486e914b7938588a225dcba283c6f9010566d0c03e",
+          "role_counts": {
+            "body": 72,
+            "h2": 1,
+            "footer": 10,
+            "table": 19,
+            "caption": 5,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2022-10-13-partial/09-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "2074f23347bde8931012e4963046d4d40e8f53ee3d343f9dd611a1e9a8b6fd2c",
+      "snapshots": [
+        "2023-12-23",
+        "archive-org-oldncert-2023-24"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": "November 2022",
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015",
+            "January 2017",
+            "January 2018",
+            "February 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "February 2022",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 16
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Diversity",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "f9eed0a55e721ca409377c3bc5123b7b81ec8a308867b2d0cfd60454f993ff48",
+          "role_counts": {
+            "h2": 6,
+            "footer": 12,
+            "body": 136,
+            "h3": 4,
+            "caption": 6,
+            "dropcap": 1,
+            "table": 11
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/01-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch02.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08",
+          "role_counts": {
+            "body": 98,
+            "h2": 2,
+            "footer": 11,
+            "table": 9,
+            "h3": 6,
+            "decoration": 4,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/02-diversity-and.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Government",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
+          "role_counts": {
+            "footer": 10,
+            "h2": 4,
+            "body": 56,
+            "caption": 5,
+            "dropcap": 1,
+            "table": 7,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/03-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Local Government",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch04.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "0c558ada9d9667c4493819c88fa8427e2eb5825ec2baf823299c95bbb4a9cd3a",
+          "role_counts": {
+            "footer": 8,
+            "h2": 4,
+            "body": 48,
+            "dropcap": 1,
+            "h3": 3,
+            "table": 5,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/04-local-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch05.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "63c632c8aa5914f7be0b40ef654bd03e6555d738ae6af8c5324d56bfbe6671d2",
+          "role_counts": {
+            "body": 66,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 4,
+            "footer": 8,
+            "table": 7,
+            "caption": 45
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/05-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "26769c340758257b4581b8fd1feca779d093cc9cba4b1baaa31816a82eece8b7",
+          "role_counts": {
+            "body": 70,
+            "h2": 1,
+            "dropcap": 1,
+            "footer": 8,
+            "table": 7,
+            "caption": 1,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/06-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch07.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "e512b6fbe8109f2f1d66a5ce67cb8d5a369c2d3e78a89b1e7ecd782e845709e6",
+          "role_counts": {
+            "footer": 11,
+            "h2": 4,
+            "body": 80,
+            "table": 9,
+            "caption": 7,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/07-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/2023-12-23/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "23ffaa54134a84d9f9b40d363f5e166348c960039ce77e937a116c9c0d80a10f",
+          "role_counts": {
+            "body": 72,
+            "h2": 1,
+            "footer": 10,
+            "table": 19,
+            "caption": 5,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2023-12-23-rationalised/08-urban-livelihoods.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-partial-rationalised",
+      "fingerprint": "2a9c74181a4201449e2e116205980ea859ed7ec3474838c698bdbd3107fe5fa6",
+      "snapshots": [
+        "2024-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": "November 2022",
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015",
+            "January 2017",
+            "January 2018",
+            "February 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "February 2022",
+            "November 2022"
+          ],
+          "latest_print": "November 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 16
+        }
+      },
+      "chapter_count": 3,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and",
+          "pdf": "pdfs/social-political-life-1/2024-partial/ch02.pdf",
+          "pdf_pages": 11,
+          "printed_pages": null,
+          "fingerprint": "505668ee7152de786d34b31ccdfe0c00c180398dbb06acf09654482e1c834e08",
+          "role_counts": {
+            "body": 98,
+            "h2": 2,
+            "footer": 11,
+            "table": 9,
+            "h3": 6,
+            "decoration": 4,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2024-partial-rationalised/02-diversity-and.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Government",
+          "pdf": "pdfs/social-political-life-1/2024-partial/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "99f20310a73ab5a04bae3467f22b70f8bbbb2be139799b5f358828388527d619",
+          "role_counts": {
+            "footer": 10,
+            "h2": 4,
+            "body": 56,
+            "caption": 5,
+            "dropcap": 1,
+            "table": 7,
+            "h3": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2024-partial-rationalised/03-government.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/2024-partial/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "26769c340758257b4581b8fd1feca779d093cc9cba4b1baaa31816a82eece8b7",
+          "role_counts": {
+            "body": 70,
+            "h2": 1,
+            "dropcap": 1,
+            "footer": 8,
+            "table": 7,
+            "caption": 1,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/2024-partial-rationalised/06-urban-administration.md"
+        }
+      ]
+    },
+    {
+      "id": "rungtaias-undated",
+      "fingerprint": "9d3e198b0933c5073ee44f7ff2750c752f010e41ee4eed908642b7a6b0e44f0e",
+      "snapshots": [
+        "rungtaias-undated"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "February 2006",
+          "revised": null,
+          "reprints": [
+            "December 2006",
+            "December 2007",
+            "December 2009",
+            "January 2011",
+            "February 2012",
+            "November 2012",
+            "November 2013",
+            "January 2015"
+          ],
+          "latest_print": "January 2015",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 9,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Understanding Diversity",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch01.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "e4f867889401e07d952c4fad28154439ec88327cbfa93cb7dfbf3c2c8f06c8f0",
+          "role_counts": {
+            "body": 108,
+            "h2": 1,
+            "dropcap": 1,
+            "table": 20,
+            "h3": 3,
+            "caption": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/01-understanding-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Diversity and Discrimination",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch02.pdf",
+          "pdf_pages": 12,
+          "printed_pages": null,
+          "fingerprint": "c24f1343d54cb4d8b1d374cedabf6b7492106dd6f75b09548e265f9dfb12923f",
+          "role_counts": {
+            "body": 93,
+            "h3": 6,
+            "dropcap": 1,
+            "h2": 1,
+            "footer": 12,
+            "table": 20,
+            "decoration": 4,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/02-diversity-and-discrimination.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "What is Government?",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch03.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "8da1067a55e270393f4bd6fa7b8cb22fb5a1876a80678f7756316d4fde662004",
+          "role_counts": {
+            "body": 53,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 4,
+            "caption": 4,
+            "table": 10
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/03-what-is-government.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Key Elements of a Democratic Government",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch04.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a1f6f791c8063d40f6a6eea5ec1220347b50a6f4370ea075832994bfe2adc15f",
+          "role_counts": {
+            "body": 46,
+            "caption": 7,
+            "dropcap": 1,
+            "h2": 2,
+            "table": 6,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/04-key-elements-of-a-democratic-government.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Panchayati Raj",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch05.pdf",
+          "pdf_pages": 6,
+          "printed_pages": null,
+          "fingerprint": "a7db392004cc77c09dff606156ce24fce2fc7763e32c58bb6c6e63602f0971c3",
+          "role_counts": {
+            "body": 40,
+            "h2": 1,
+            "h3": 3,
+            "dropcap": 1,
+            "table": 12,
+            "caption": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/05-panchayati-raj.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Rural Administration",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch06.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "14bab4447693aac6a04f6477a711fe1f60c152f0a03a93420a2c2ad580deb7eb",
+          "role_counts": {
+            "body": 59,
+            "h2": 1,
+            "h3": 5,
+            "dropcap": 1,
+            "table": 8,
+            "caption": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/06-rural-administration.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Urban Administration",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch07.pdf",
+          "pdf_pages": 8,
+          "printed_pages": null,
+          "fingerprint": "4353d211b6ed18d8057e02f35a8d73504bd683754e26f385df6e940f46169d6b",
+          "role_counts": {
+            "body": 56,
+            "h2": 1,
+            "dropcap": 1,
+            "h3": 2,
+            "table": 13,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/07-urban-administration.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Rural Livelihoods",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch08.pdf",
+          "pdf_pages": 9,
+          "printed_pages": null,
+          "fingerprint": "dd2b44e2dd2e11a932c8082484b652beae65c88c2f26702b28aaed6a0c38331a",
+          "role_counts": {
+            "body": 69,
+            "h2": 1,
+            "h3": 5,
+            "table": 13,
+            "dropcap": 1,
+            "caption": 9
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/08-rural-livelihoods.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Urban Livelihoods",
+          "pdf": "pdfs/social-political-life-1/rungtaias-undated/ch09.pdf",
+          "pdf_pages": 10,
+          "printed_pages": null,
+          "fingerprint": "cf735522b55a515b87f14c048376fd7b2a3a1e1c13f02f02565e2f206670d24c",
+          "role_counts": {
+            "body": 61,
+            "h2": 1,
+            "table": 10,
+            "h3": 6,
+            "dropcap": 1,
+            "caption": 15
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-1/rungtaias-undated/09-urban-livelihoods.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [],
+  "overrides_missed": []
+}

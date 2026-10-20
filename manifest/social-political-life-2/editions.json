@@ -4,9 +4,10 @@
   "editions": [
     {
       "id": "2014-07-28",
-      "fingerprint": "ba60b49b90d5c17b64857b2d773bed034eded5340153b6f9076042bd2af2a97d",
+      "fingerprint": "fb9025b58c3dc33bf41a611045b31a8244abb71dd5ca309a49dcb306e9d5fa86",
       "snapshots": [
-        "2014-07-28"
+        "2014-07-28",
+        "2017-partial"
       ],
       "prelims": {
         "single": {
@@ -242,7 +243,7 @@
           "pdf": "pdfs/social-political-life-2/2014-07-28/ch10.pdf",
           "pdf_pages": 8,
           "printed_pages": "114-121",
-          "fingerprint": "17cd793f95523cb30d196982900beb89fccd46f630115d2da5b132fe7b4f45c6",
+          "fingerprint": "852f0d611def6ad3f7d233766fb7ed37d82dabbd4e48e7046e877b262c017de1",
           "role_counts": {
             "h2": 1,
             "note": 8,
@@ -265,7 +266,8 @@
       "fingerprint": "64f15c52b41ed8af49d072fa01ff1769cc5f350b2721c04b7fe4540a3af6a2c2",
       "snapshots": [
         "2016-09-10",
-        "rungtaias-2015-16"
+        "rungtaias-2015-16",
+        "2018-partial"
       ],
       "prelims": {
         "single": {
@@ -766,7 +768,8 @@
       "id": "2020-05-08",
       "fingerprint": "aa4255bce2db61f33e250bf4adb0fb22044d0c7bc099c583e008ed903bfb96e6",
       "snapshots": [
-        "2020-05-08"
+        "2020-05-08",
+        "archive-org-2020-21"
       ],
       "prelims": {
         "single": {
@@ -1009,6 +1012,212 @@
       ]
     },
     {
+      "id": "2021-partial-ocr",
+      "fingerprint": "c2122fb5b51b78a07cce53c8f5083eff5088d133cd74d48eb92d042d9266d75c",
+      "snapshots": [
+        "2021-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 9,
+      "ocr": true,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch01.pdf",
+          "pdf_pages": 0,
+          "printed_pages": null,
+          "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "role_counts": {},
+          "ocr": true,
+          "ocr_confidence": 0.0,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2021-partial-ocr/01-on-equality.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "16-29",
+          "fingerprint": "f47ae6117f6226703af72fbbe497ab5c955f27412a95ee28530a7ebc75161635",
+          "role_counts": {
+            "footer": 29,
+            "h2": 4,
+            "body": 62,
+            "chapter-number": 1,
+            "caption": 26,
+            "table": 47,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/02-role-of-the-government-in-health.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "How the State Government Works",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch03.pdf",
+          "pdf_pages": 0,
+          "printed_pages": null,
+          "fingerprint": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "role_counts": {},
+          "ocr": true,
+          "ocr_confidence": 0.0,
+          "ocr_pages": null,
+          "overrides": null,
+          "title_borrowed_from": "2020-05-08",
+          "file": "texts/social-political-life-2/2021-partial-ocr/03-how-the-state-government-works.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Growing up as Boys and Girls",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch04.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "44-53",
+          "fingerprint": "4103c9ab27f97eba8ecbfa7615913397eb0aa8be8eabf29d63f78d883a8cd0b1",
+          "role_counts": {
+            "h2": 2,
+            "body": 28,
+            "chapter-number": 1,
+            "footer": 19,
+            "note": 24,
+            "caption": 20,
+            "table": 26
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/04-growing-up-as-boys-and-girls.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Women Change the World",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "54-67",
+          "fingerprint": "47cba543d09bd10eff100159bb0753455fa9bd70294e04d21e43c87bb529ef1c",
+          "role_counts": {
+            "h2": 1,
+            "body": 81,
+            "chapter-number": 1,
+            "footer": 22,
+            "caption": 19,
+            "table": 18,
+            "decoration": 6,
+            "note": 8
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/05-women-change-the-world.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Understanding Media",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch06.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "68-79",
+          "fingerprint": "753ddc343cef30d5505f69c2357662583cd77bc010117dee975d17e4c7800535",
+          "role_counts": {
+            "footer": 27,
+            "h2": 5,
+            "body": 82,
+            "chapter-number": 1,
+            "note": 30,
+            "caption": 5,
+            "table": 26
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/06-understanding-media.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Markets Around Us",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "80-91",
+          "fingerprint": "29c76e2d923ed375a3fee469984f5fe4ce9131ca8b2131645e44b249da4a7709",
+          "role_counts": {
+            "footer": 26,
+            "h2": 4,
+            "body": 51,
+            "chapter-number": 1,
+            "note": 25,
+            "table": 16,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/07-markets-around-us.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "A Shirt in the Market",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch08.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "92-101",
+          "fingerprint": "c257a8de92a723fbbaa3039ff99130ab65a8841851433ac61baf02bf756b9d36",
+          "role_counts": {
+            "h2": 1,
+            "body": 58,
+            "chapter-number": 1,
+            "footer": 23,
+            "caption": 20,
+            "note": 24,
+            "decoration": 4,
+            "table": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/08-a-shirt-in-the-market.md"
+        },
+        {
+          "part": null,
+          "number": 9,
+          "title": "Struggles for Equality",
+          "pdf": "pdfs/social-political-life-2/2021-partial/ch09.pdf",
+          "pdf_pages": 11,
+          "printed_pages": "102-112",
+          "fingerprint": "b92785d843b0cf111665aa20a7ebdf47833ef301ad2ceb35a18d73fc10e1d465",
+          "role_counts": {
+            "h2": 2,
+            "body": 44,
+            "chapter-number": 1,
+            "footer": 22,
+            "table": 31,
+            "caption": 20
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/social-political-life-2/2021-partial-ocr/09-struggles-for-equality.md"
+        }
+      ]
+    },
+    {
       "id": "2022-08-02-ocr",
       "fingerprint": "9834bdac776ab321f0c469f57589bba547a8de8e56d4c56950c658e730c94a4e",
       "snapshots": [
@@ -1074,7 +1283,7 @@
             "The blue box at the top of page 14 (Article 15) is white text on a coloured ground and the OCR read nothing from it. The text is typed from the page image",
             "Page 15 reads 'In a democracy'. The OCR dropped the space"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2023-12-23",
           "file": "texts/social-political-life-2/2022-08-02-ocr/01-on-equality.md"
         },
         {
@@ -1106,7 +1315,7 @@
             "The caption on page 27 reads 'serve as a mobile clinic for patients.' The OCR dropped the spaces",
             "The caption on page 26 has no backslash. The OCR read a stray mark after the A"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/02-role-of-the-government-in-health.md"
         },
         {
@@ -1136,7 +1345,7 @@
             "Page 39 reads 'like'. The OCR dropped the i",
             "Page 39 reads 'etc.' The OCR misread the c as an e"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2023-12-23",
           "file": "texts/social-political-life-2/2022-08-02-ocr/03-how-the-state-government-works.md"
         },
         {
@@ -1164,7 +1373,7 @@
             "Page 49 reads 'A number of these tasks'. The OCR glued 'A number'",
             "The caption on page 51 reads 'Madhya Pradesh'. The OCR misread the h"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/04-growing-up-as-boys-and-girls.md"
         },
         {
@@ -1197,7 +1406,7 @@
             "The caption on page 66 reads 'On 8 March'. The OCR read the 8 as an ampersand",
             "Page 64 reads 'Satyarani'. The OCR misread the last letter"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/05-women-change-the-world.md"
         },
         {
@@ -1222,7 +1431,7 @@
             "The newspaper column on page 74 reads 'The government says that it has done a lot to relocate us.' The OCR misread the start of this fragment",
             "The headline of the second newspaper cutting on page 74 reads 'Closure of factories causes unrest' in lower case. The OCR capitalised 'causes'"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/06-understanding-media.md"
         },
         {
@@ -1247,7 +1456,7 @@
           "overrides": [
             "Page 85 reads 'the amount of ₹ 3000'. The OCR read the rupee sign as a percent sign"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/07-markets-around-us.md"
         },
         {
@@ -1274,7 +1483,7 @@
             "Page 98 prints a rupee sign and a blank line at each of these three places. The OCR dropped the first and read the other two as question marks",
             "Page 98 prints a rupee sign and a blank line before 'is his profit'. The OCR read them as the letter z"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/08-a-shirt-in-the-market.md"
         },
         {
@@ -1300,7 +1509,7 @@
             "The poster on page 112 reads https://twitter.com/dtptraffic. The OCR misread the slashes and the double f",
             "The poster on page 112 reads https://www.facebook.com/dtptraffic. The OCR misread the f and the double f"
           ],
-          "title_borrowed_from": "2020-05-08",
+          "title_borrowed_from": "2021-partial",
           "file": "texts/social-political-life-2/2022-08-02-ocr/09-struggles-for-equality.md"
         }
       ]
@@ -1541,6 +1750,7 @@
       "fingerprint": "98c12282ab9d9d2ddee630af36f990d98b6c85082bd73fd55e9a224ef7c2a5da",
       "snapshots": [
         "2024-05-24",
+        "archive-org-oldncert-2024-25",
         "live-2026-10-19"
       ],
       "prelims": {
@@ -1788,6 +1998,109 @@
             "Page 98 prints the address without a space. The OCR inserted one"
           ],
           "file": "texts/social-political-life-2/2024-05-24/08-a-shirt-in-the-market.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-partial",
+      "fingerprint": "e42e9abb7c21b2180a5370699cec307a337804deaa614624d6d2adfd3d85da80",
+      "snapshots": [
+        "2025-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": "Social and Political Life–II Textbook for Class VII",
+          "first_edition": "February 2007",
+          "revised": "November 2022",
+          "reprints": [
+            "February 2008",
+            "March 2009",
+            "January 2010",
+            "December 2010",
+            "January 2012",
+            "November 2012",
+            "November 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020",
+            "March 2021",
+            "August 2021",
+            "November 2021",
+            "November 2022",
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 18
+        }
+      },
+      "chapter_count": 1,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "On Equality",
+          "pdf": "pdfs/social-political-life-2/2025-partial/ch01.pdf",
+          "pdf_pages": 8,
+          "printed_pages": "2-9",
+          "fingerprint": "eef6c8db4dee9b3084b17d82242685767233c81da571620d4e7b8c8974cfeca5",
+          "role_counts": {
+            "footer": 13,
+            "h2": 5,
+            "body": 38,
+            "table": 14,
+            "caption": 1,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": [
+            4
+          ],
+          "overrides": null,
+          "file": "texts/social-political-life-2/2025-partial/01-on-equality.md"
+        }
+      ]
+    },
+    {
+      "id": "2026-partial",
+      "fingerprint": "924f7f31ce0ae56766bf5a94e88497ab94d5cbbe49c036ab42a04a59beaaf77f",
+      "snapshots": [
+        "2026-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 1,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 2,
+          "title": "Role of the Government in Health",
+          "pdf": "pdfs/social-political-life-2/2026-partial/ch02.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "10-23",
+          "fingerprint": "7737543fd42b151dbcb61d711009336cdd102948cadaea118adad66616237b1e",
+          "role_counts": {
+            "footer": 22,
+            "h2": 3,
+            "body": 70,
+            "chapter-number": 1,
+            "caption": 26,
+            "table": 31,
+            "note": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": [
+            5
+          ],
+          "overrides": null,
+          "file": "texts/social-political-life-2/2026-partial/02-role-of-the-government-in-health.md"
         }
       ]
     }

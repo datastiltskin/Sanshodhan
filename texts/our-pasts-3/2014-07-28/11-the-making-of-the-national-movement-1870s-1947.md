@@ -5,6 +5,10 @@ edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
   - "2016-09-10"
+  - "2015-partial"
+  - "2017-partial"
+  - "2018-ncerts-partial"
+  - "2018-partial"
 part: 2
 chapter: 11
 title: "The Making of the National Movement: 1870s--1947"

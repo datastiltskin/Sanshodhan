@@ -1,0 +1,2054 @@
+{
+  "book": "democratic-politics-2",
+  "title": "Democratic Politics II",
+  "editions": [
+    {
+      "id": "2011-10-17",
+      "fingerprint": "f477bfc1e5b9cc25c77bffd6d3e9080376a7ca274890f38b96476356062f53c8",
+      "snapshots": [
+        "2011-10-17"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009"
+          ],
+          "latest_print": "January 2009",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power sharing",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "17f747ae652fada11fbb49301f1f7f0ceedbf4278177171fa4e516878acccf04",
+          "role_counts": {
+            "footer": 12,
+            "h2": 9,
+            "note": 2,
+            "body": 51,
+            "caption": 23,
+            "table": 21,
+            "h3": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "d796c7993a0669b3c50a0ca32f9e145bb6f113fe0761922e6f0d71eecbc18fb9",
+          "role_counts": {
+            "footer": 16,
+            "h2": 7,
+            "note": 1,
+            "body": 70,
+            "caption": 47,
+            "table": 23,
+            "h3": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "4f0edce31de04be8f73b02ae596ec45dbdee90d98f8992b4eece36eba73be721",
+          "role_counts": {
+            "footer": 10,
+            "h2": 8,
+            "note": 1,
+            "caption": 21,
+            "body": 35,
+            "table": 13,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "b5e132a642bcac17985a102d71b62859a188cc8aae1824f803bf31725e35f037",
+          "role_counts": {
+            "footer": 18,
+            "h2": 10,
+            "note": 1,
+            "body": 107,
+            "h3": 11,
+            "caption": 36,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "072a3bd7549405cbe75d4bb9ff4f07102129eb0ce9959b99bed6ac1c5eac878f",
+          "role_counts": {
+            "footer": 14,
+            "h2": 5,
+            "note": 1,
+            "body": 59,
+            "h3": 6,
+            "caption": 16,
+            "table": 25
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "832ca0d9f6196eeb7a756d22fc0263e4f4fef1edda854b1a95ba231b89720dc0",
+          "role_counts": {
+            "footer": 19,
+            "h2": 11,
+            "note": 4,
+            "body": 90,
+            "h3": 4,
+            "caption": 22,
+            "table": 27
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "5ea49f203943c0f8e556b79f4b6eb18db21bd640dbf2929af8d14d4d5ebdf7b0",
+          "role_counts": {
+            "footer": 13,
+            "h2": 9,
+            "note": 2,
+            "body": 55,
+            "caption": 32,
+            "h3": 7,
+            "table": 17
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2011-10-17/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "5e07faf4b73b41fa2c72f0496d0396f67e2f052504767e92e1a72020b074220f",
+          "role_counts": {
+            "footer": 12,
+            "h2": 9,
+            "note": 1,
+            "body": 70,
+            "h3": 4,
+            "table": 49,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2011-10-17/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2013-02-19",
+      "fingerprint": "fab0f9da09201010df054a77a83756d76bd0aa7b29a7efa4b3aa0e0809f6ad6d",
+      "snapshots": [
+        "2013-02-19",
+        "2018-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": null,
+          "revised": null,
+          "reprints": [],
+          "latest_print": null,
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 11
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power sharing",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "4e09dec61d34e84f9d67aa6292164021a6335ee06fc49d131e7341b6823b62df",
+          "role_counts": {
+            "footer": 12,
+            "h2": 10,
+            "body": 52,
+            "caption": 23,
+            "table": 21,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "7d037e8f162310239fd06a9218053724e6cc588c01c840b74e124298e71526f2",
+          "role_counts": {
+            "footer": 16,
+            "h2": 6,
+            "body": 74,
+            "caption": 46,
+            "table": 23,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "5a6e51a1d535b57695ab9789768d44dc14ec2d012791edb5f6ea1649ae36a673",
+          "role_counts": {
+            "footer": 10,
+            "h2": 8,
+            "body": 36,
+            "caption": 21,
+            "table": 13,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "c32b3cf3195a2a9a0a521b050bcd44d4220edd78abfb88c28ab41487037f160f",
+          "role_counts": {
+            "footer": 18,
+            "h2": 10,
+            "body": 108,
+            "h3": 11,
+            "caption": 36,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "5baadafe94650f025dd8305b6fd7e5c64bf489ec864e514ff6e7d12e549341b9",
+          "role_counts": {
+            "footer": 14,
+            "h2": 5,
+            "body": 60,
+            "h3": 6,
+            "caption": 16,
+            "table": 25
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "6996a4f1f0a38afc5208d4e2b25f32460fd8381c3d85057ea03232c07230030b",
+          "role_counts": {
+            "footer": 19,
+            "h2": 12,
+            "body": 92,
+            "h3": 4,
+            "caption": 22,
+            "note": 3,
+            "table": 27,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "6a0253f6c87993f4cf9811a26306f17eb4119e46e700e88b5f403b238fd6fd86",
+          "role_counts": {
+            "footer": 13,
+            "h2": 9,
+            "body": 54,
+            "caption": 32,
+            "h3": 6,
+            "table": 17,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2013-02-19/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "b21a46026633fb2d0f1a89be6582141f03a5dc0b930835322f5c18829b8f4f9a",
+          "role_counts": {
+            "footer": 12,
+            "h2": 9,
+            "body": 71,
+            "h3": 4,
+            "table": 49,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2013-02-19/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2014-09-07",
+      "fingerprint": "e8da6380d6eb360abf2eb65992e06521df266b892afd9e9c3a1088a6c41e4a1e",
+      "snapshots": [
+        "2014-09-07"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "December 2013"
+          ],
+          "latest_print": "December 2013",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 13
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "9e4772be8f4466b1fc2787e3360bf26b51783236f712269e7bcfbf73df0f8f4e",
+          "role_counts": {
+            "footer": 12,
+            "h2": 11,
+            "body": 52,
+            "caption": 23,
+            "table": 21,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "38e02f03f7a546621739f7cc1b9e4cfba04421b9f8c0e7c8a987d9207bedac00",
+          "role_counts": {
+            "footer": 16,
+            "h2": 6,
+            "body": 71,
+            "caption": 48,
+            "table": 23,
+            "h3": 7,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "5a6e51a1d535b57695ab9789768d44dc14ec2d012791edb5f6ea1649ae36a673",
+          "role_counts": {
+            "footer": 10,
+            "h2": 8,
+            "body": 36,
+            "caption": 21,
+            "table": 13,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "d179d1a2182eaef54442f5f18f5048a4fb6666811b59538ebdf2a8125ec50b8b",
+          "role_counts": {
+            "footer": 18,
+            "h2": 10,
+            "body": 108,
+            "h3": 11,
+            "caption": 43,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "17060e6d27f036a83cc9c6ab0ba6343f084d7d66aea437393ac2d41018099a87",
+          "role_counts": {
+            "footer": 14,
+            "h2": 5,
+            "body": 60,
+            "h3": 6,
+            "caption": 17,
+            "table": 25
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "57fedc28d699125b93a9ba2905914b7e7eea0bf6c62b7167931c5f81446f1a5e",
+          "role_counts": {
+            "footer": 19,
+            "h2": 12,
+            "body": 92,
+            "h3": 4,
+            "caption": 23,
+            "note": 3,
+            "table": 28,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "7c30c6930962487907c8fe3670d04dec3c164ecff861ea8e15cf63c5cce6d416",
+          "role_counts": {
+            "footer": 14,
+            "h2": 9,
+            "body": 54,
+            "caption": 32,
+            "h3": 6,
+            "table": 17,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2014-09-07/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "07966dfb1eff96572c408dc5210c39f57b2e183f1c41af7c9aadd57d40f5c73b",
+          "role_counts": {
+            "footer": 12,
+            "h2": 9,
+            "body": 70,
+            "h3": 4,
+            "table": 49,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2014-09-07/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2015-04-01",
+      "fingerprint": "e5d767c5f3bd62e6175b177484f0d5e17b1de0893c9baa3e7ce6c45397731601",
+      "snapshots": [
+        "2015-04-01",
+        "rungtaias-undated",
+        "2016-partial",
+        "2017-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014"
+          ],
+          "latest_print": "December 2014",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 13
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "9e4772be8f4466b1fc2787e3360bf26b51783236f712269e7bcfbf73df0f8f4e",
+          "role_counts": {
+            "footer": 12,
+            "h2": 11,
+            "body": 52,
+            "caption": 23,
+            "table": 21,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "8666619994fb87ad7e716e8bb472fba23e8d6be66fc16a4b631042f78781809b",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 73,
+            "caption": 49,
+            "table": 23,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "5a6e51a1d535b57695ab9789768d44dc14ec2d012791edb5f6ea1649ae36a673",
+          "role_counts": {
+            "footer": 10,
+            "h2": 8,
+            "body": 36,
+            "caption": 21,
+            "table": 13,
+            "h3": 4
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "d179d1a2182eaef54442f5f18f5048a4fb6666811b59538ebdf2a8125ec50b8b",
+          "role_counts": {
+            "footer": 18,
+            "h2": 10,
+            "body": 108,
+            "h3": 11,
+            "caption": 43,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "17060e6d27f036a83cc9c6ab0ba6343f084d7d66aea437393ac2d41018099a87",
+          "role_counts": {
+            "footer": 14,
+            "h2": 5,
+            "body": 60,
+            "h3": 6,
+            "caption": 17,
+            "table": 25
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "630215b590e9b536626b676293ae2a2c84076769445d51dd36fd4a34c3d5965a",
+          "role_counts": {
+            "footer": 37,
+            "h2": 12,
+            "body": 94,
+            "h3": 2,
+            "caption": 24,
+            "note": 3,
+            "table": 28,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "7c30c6930962487907c8fe3670d04dec3c164ecff861ea8e15cf63c5cce6d416",
+          "role_counts": {
+            "footer": 14,
+            "h2": 9,
+            "body": 54,
+            "caption": 32,
+            "h3": 6,
+            "table": 17,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2015-04-01/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "07966dfb1eff96572c408dc5210c39f57b2e183f1c41af7c9aadd57d40f5c73b",
+          "role_counts": {
+            "footer": 12,
+            "h2": 9,
+            "body": 70,
+            "h3": 4,
+            "table": 49,
+            "caption": 3
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2015-04-01/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2019-05-04",
+      "fingerprint": "c0eccae685fc020e37b568d9a6ef94ad9c8c311812e4375e23937af47db48daf",
+      "snapshots": [
+        "2019-05-04"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019"
+          ],
+          "latest_print": "January 2019",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "9992715abb6b9b57773541e17b8bf51eb3c8570941f1e75bab0a2a094c68a2a8",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 52,
+            "caption": 21,
+            "table": 42,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "17f4a5b23d0a8058ad82bdddc8ff6a0897531f0d8d73bfdc3b9df240afa75dfd",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 72,
+            "caption": 46,
+            "table": 26,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "776deed31b831630b5e1c5e20b13681ba625b62213471021e2c8cd24e91e9c6d",
+          "role_counts": {
+            "footer": 20,
+            "h2": 8,
+            "body": 41,
+            "caption": 20,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "66645852fa6451a0f464389efe10aceab92053f1d0934eb5918ab36683074921",
+          "role_counts": {
+            "footer": 36,
+            "h2": 11,
+            "body": 111,
+            "h3": 8,
+            "caption": 44,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "ad4583dc4c46b679eb549c067cfa86b5773298a0bc05551b61dafedd4a0c202d",
+          "role_counts": {
+            "footer": 28,
+            "h2": 5,
+            "body": 63,
+            "h3": 5,
+            "caption": 13,
+            "table": 30
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "4809dfb969333348cc333ca45cb1d389a7588794c5c95d84a08b54d01d414199",
+          "role_counts": {
+            "footer": 37,
+            "h2": 12,
+            "body": 96,
+            "h3": 2,
+            "caption": 19,
+            "note": 3,
+            "table": 31,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "935301200b93669ce6e7fbf60e64dcf0dd837694d87606b80fe843b703ed74d1",
+          "role_counts": {
+            "footer": 25,
+            "h2": 9,
+            "body": 63,
+            "caption": 31,
+            "table": 18,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2019-05-04/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "2743fdd317b5195e5a514bfc382838462d430a2e69072fa5f1039592b43068c5",
+          "role_counts": {
+            "footer": 25,
+            "h2": 9,
+            "body": 75,
+            "table": 46,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2019-05-04/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2020-05-17",
+      "fingerprint": "2721c637524f2f0ffb708066f4e61f28d3ff9da4d95fdc1f702e4f49692bf35a",
+      "snapshots": [
+        "2020-05-17",
+        "archive-org-2020-21",
+        "2021-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020"
+          ],
+          "latest_print": "January 2020",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "9992715abb6b9b57773541e17b8bf51eb3c8570941f1e75bab0a2a094c68a2a8",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 52,
+            "caption": 21,
+            "table": 42,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "b746a5261d6ecb85122e062df29e5480fd9704a1f09859df17f1c1665e396430",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 73,
+            "caption": 46,
+            "table": 26,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "776deed31b831630b5e1c5e20b13681ba625b62213471021e2c8cd24e91e9c6d",
+          "role_counts": {
+            "footer": 20,
+            "h2": 8,
+            "body": 41,
+            "caption": 20,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "6dd287f1df5ee89ca7e3c46f195c7b420d3bb09d4ad11406f4bf961835549a90",
+          "role_counts": {
+            "footer": 36,
+            "h2": 11,
+            "body": 111,
+            "h3": 8,
+            "caption": 39,
+            "table": 28
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "ad4583dc4c46b679eb549c067cfa86b5773298a0bc05551b61dafedd4a0c202d",
+          "role_counts": {
+            "footer": 28,
+            "h2": 5,
+            "body": 63,
+            "h3": 5,
+            "caption": 13,
+            "table": 30
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "c65361a5bec118115be3c7144b6da0bfd15eb4b1709d6179992b61fe5975199d",
+          "role_counts": {
+            "footer": 37,
+            "h2": 12,
+            "body": 95,
+            "h3": 2,
+            "caption": 19,
+            "note": 3,
+            "table": 31,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "935301200b93669ce6e7fbf60e64dcf0dd837694d87606b80fe843b703ed74d1",
+          "role_counts": {
+            "footer": 25,
+            "h2": 9,
+            "body": 63,
+            "caption": 31,
+            "table": 18,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2020-05-17/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "2743fdd317b5195e5a514bfc382838462d430a2e69072fa5f1039592b43068c5",
+          "role_counts": {
+            "footer": 25,
+            "h2": 9,
+            "body": 75,
+            "table": 46,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2020-05-17/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2022-08-03",
+      "fingerprint": "ee3d302b7c640921f548d4f4cb897757366d7c7bbbbf38ab15fcea63d490e52a",
+      "snapshots": [
+        "2022-08-03",
+        "2023-02-28-partial"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": null,
+          "reprints": [
+            "February 2008",
+            "January 2009",
+            "January 2010",
+            "January 2011",
+            "January 2012",
+            "November 2012",
+            "December 2013",
+            "December 2014",
+            "January 2016",
+            "January 2017",
+            "December 2017",
+            "January 2019",
+            "January 2020",
+            "March 2021",
+            "November 2021"
+          ],
+          "latest_print": "November 2021",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 12
+        }
+      },
+      "chapter_count": 8,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "7507e8bf0bf6aad222529557efb3b150535e5c2466f8a338dd68ec77a25492ac",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 52,
+            "caption": 21,
+            "table": 31,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "c2f59775928d2e2c8166c522b185ef7fe5a1a39251d0254269d0eddf1a4a88d5",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 72,
+            "caption": 46,
+            "table": 28,
+            "h3": 5
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Democracy and Diversity",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch03.pdf",
+          "pdf_pages": 10,
+          "printed_pages": "29-38",
+          "fingerprint": "d71c7b064c7a57ec429d3107be31d8705402b21eb10be1fe39a7e1b96675d12e",
+          "role_counts": {
+            "footer": 20,
+            "h2": 8,
+            "body": 41,
+            "caption": 20,
+            "table": 13
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/03-democracy-and-diversity.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch04.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "39-56",
+          "fingerprint": "851b9201799756ddcf167e3cd7fa5ed00976acac6253c5422205938f1e1d9d85",
+          "role_counts": {
+            "footer": 36,
+            "h2": 11,
+            "body": 111,
+            "h3": 8,
+            "caption": 39,
+            "table": 29
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/04-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Popular Struggles and Movements",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch05.pdf",
+          "pdf_pages": 14,
+          "printed_pages": "57-70",
+          "fingerprint": "d82bdd70d90d9f568d299522d85de9110992885ebd801b98bbce176144ab8dec",
+          "role_counts": {
+            "footer": 28,
+            "h2": 5,
+            "body": 63,
+            "h3": 5,
+            "caption": 13,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/05-popular-struggles-and-movements.md"
+        },
+        {
+          "part": null,
+          "number": 6,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch06.pdf",
+          "pdf_pages": 18,
+          "printed_pages": "71-88",
+          "fingerprint": "f2620c496042e26d41f53b5afa36151abf65707d3d00ec5d2a54aebfbcb1f035",
+          "role_counts": {
+            "footer": 37,
+            "h2": 12,
+            "body": 96,
+            "h3": 2,
+            "caption": 19,
+            "note": 3,
+            "table": 31,
+            "dropcap": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/06-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 7,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch07.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "89-100",
+          "fingerprint": "67a66204e1decb4d5dc7f8041e7af7b1c8a99d87e359bd7bc79d9fc76587bde8",
+          "role_counts": {
+            "footer": 26,
+            "h2": 9,
+            "body": 64,
+            "caption": 30,
+            "table": 18,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/07-outcomes-of-democracy.md"
+        },
+        {
+          "part": null,
+          "number": 8,
+          "title": "Challenges to Democracy",
+          "pdf": "pdfs/democratic-politics-2/2022-08-03/ch08.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "101-112",
+          "fingerprint": "2743fdd317b5195e5a514bfc382838462d430a2e69072fa5f1039592b43068c5",
+          "role_counts": {
+            "footer": 25,
+            "h2": 9,
+            "body": 75,
+            "table": 46,
+            "caption": 2
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2022-08-03/08-challenges-to-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2023-12-23-rationalised",
+      "fingerprint": "3686c0e9bae663133ca9cc2ba5b5745417382d585d999028884d4a6cab4e515d",
+      "snapshots": [
+        "2023-12-23"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": "May 2022",
+          "reprints": [],
+          "latest_print": "May 2022",
+          "rationalised": "2023-24",
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2023-12-23/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "3920225c14dc87b66d5e6db5ab4e934e1cb9bf202942230650dcbc903ce2a151",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 57,
+            "caption": 24,
+            "table": 28,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2023-12-23-rationalised/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2023-12-23/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "1cc0a1a0eeb5e43038166148f2bb67509a4257888c85db797efe2562e560725a",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 65,
+            "caption": 47,
+            "table": 46,
+            "h3": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2023-12-23-rationalised/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2023-12-23/ch03.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "29-45",
+          "fingerprint": "c246ec6145623619d85cd4f9c30be40063aa24c39977abf56c9ec45fb3b29171",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 108,
+            "h3": 10,
+            "caption": 39,
+            "table": 29
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2023-12-23-rationalised/03-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2023-12-23/ch04.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "46-62",
+          "fingerprint": "74cae8f317556524ace8910ff803f56d7a428aefb39ff134e2d7fa93f6d42d96",
+          "role_counts": {
+            "footer": 36,
+            "h2": 10,
+            "body": 91,
+            "h3": 6,
+            "caption": 21,
+            "decoration": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2023-12-23-rationalised/04-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2023-12-23/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "63-74",
+          "fingerprint": "d62a79459d482e507ef33157d720e6b3583434be571d9e35bb4107b3f4709329",
+          "role_counts": {
+            "footer": 27,
+            "h2": 9,
+            "body": 60,
+            "caption": 32,
+            "h3": 4,
+            "table": 16,
+            "dropcap": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2023-12-23-rationalised/05-outcomes-of-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2024-05-24",
+      "fingerprint": "89abf59ebfb6e1873ebe6849d6a8727f6377da36edd54663336bb3df48dde99f",
+      "snapshots": [
+        "2024-05-24"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": "May 2022",
+          "reprints": [
+            "March 2024"
+          ],
+          "latest_print": "March 2024",
+          "rationalised": null,
+          "reprint_label": null,
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2024-05-24/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "fe98623ca45bb5898c28119c0156990200e66ae4450f365bdacbb071f8dadce2",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 58,
+            "caption": 24,
+            "table": 28,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2024-05-24/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2024-05-24/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "ac845c705afb202a180eea19b634e0d835bf7a0ba3419e79b1cb8d8d76c0b88c",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 65,
+            "caption": 47,
+            "table": 46,
+            "h3": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2024-05-24/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2024-05-24/ch03.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "29-45",
+          "fingerprint": "e6db37a3183c409883bc60cf76b2f1735df7c27b614444fb6cc425041949f4fa",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 111,
+            "h3": 10,
+            "caption": 38,
+            "table": 29
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2024-05-24/03-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2024-05-24/ch04.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "46-62",
+          "fingerprint": "eac72c16cede3316e8d8a2fc2739620bb29c9618959f0b2b0ec6b0fb17c441cc",
+          "role_counts": {
+            "footer": 36,
+            "h2": 10,
+            "body": 89,
+            "h3": 6,
+            "caption": 21,
+            "decoration": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2024-05-24/04-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2024-05-24/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "63-74",
+          "fingerprint": "d62a79459d482e507ef33157d720e6b3583434be571d9e35bb4107b3f4709329",
+          "role_counts": {
+            "footer": 27,
+            "h2": 9,
+            "body": 60,
+            "caption": 33,
+            "h3": 4,
+            "table": 16,
+            "dropcap": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2024-05-24/05-outcomes-of-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-04-26",
+      "fingerprint": "6618f465bea9af3cdc9c474e8f5309faec5d7e62978ebded91f943a39b9dda31",
+      "snapshots": [
+        "2025-04-26"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": "May 2022",
+          "reprints": [
+            "March 2024",
+            "June 2024",
+            "December 2024"
+          ],
+          "latest_print": "December 2024",
+          "rationalised": null,
+          "reprint_label": "Reprint 2025-26",
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2025-04-26/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "fe98623ca45bb5898c28119c0156990200e66ae4450f365bdacbb071f8dadce2",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 58,
+            "caption": 24,
+            "table": 28,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2025-04-26/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2025-04-26/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "ac845c705afb202a180eea19b634e0d835bf7a0ba3419e79b1cb8d8d76c0b88c",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 65,
+            "caption": 47,
+            "table": 46,
+            "h3": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2025-04-26/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2025-04-26/ch03.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "29-45",
+          "fingerprint": "e6db37a3183c409883bc60cf76b2f1735df7c27b614444fb6cc425041949f4fa",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 111,
+            "h3": 10,
+            "caption": 38,
+            "table": 29
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2025-04-26/03-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2025-04-26/ch04.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "46-62",
+          "fingerprint": "80522089db590f7919db177091f9441119f1970f083ce4df85bd7d68f859b311",
+          "role_counts": {
+            "footer": 36,
+            "h2": 10,
+            "body": 89,
+            "h3": 6,
+            "caption": 21,
+            "decoration": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2025-04-26/04-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2025-04-26/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "63-74",
+          "fingerprint": "d62a79459d482e507ef33157d720e6b3583434be571d9e35bb4107b3f4709329",
+          "role_counts": {
+            "footer": 27,
+            "h2": 9,
+            "body": 60,
+            "caption": 33,
+            "h3": 4,
+            "table": 16,
+            "dropcap": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2025-04-26/05-outcomes-of-democracy.md"
+        }
+      ]
+    },
+    {
+      "id": "2026-05-08",
+      "fingerprint": "f678d8fa82acf8eb97234bf02a05cf9a624cd72137939acdbeef6cee8ef822fd",
+      "snapshots": [
+        "2026-05-08",
+        "live-2026-10-20"
+      ],
+      "prelims": {
+        "single": {
+          "title": null,
+          "first_edition": "March 2007",
+          "revised": "May 2022",
+          "reprints": [
+            "March 2024",
+            "June 2024",
+            "December 2024",
+            "December 2025"
+          ],
+          "latest_print": "December 2025",
+          "rationalised": null,
+          "reprint_label": "Reprint 2026-27",
+          "pages": 14
+        }
+      },
+      "chapter_count": 5,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 1,
+          "title": "Power-sharing",
+          "pdf": "pdfs/democratic-politics-2/2026-05-08/ch01.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "1-12",
+          "fingerprint": "fe98623ca45bb5898c28119c0156990200e66ae4450f365bdacbb071f8dadce2",
+          "role_counts": {
+            "footer": 24,
+            "h2": 11,
+            "body": 58,
+            "caption": 24,
+            "table": 28,
+            "h3": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2026-05-08/01-power-sharing.md"
+        },
+        {
+          "part": null,
+          "number": 2,
+          "title": "Federalism",
+          "pdf": "pdfs/democratic-politics-2/2026-05-08/ch02.pdf",
+          "pdf_pages": 16,
+          "printed_pages": "13-28",
+          "fingerprint": "1cc0a1a0eeb5e43038166148f2bb67509a4257888c85db797efe2562e560725a",
+          "role_counts": {
+            "footer": 32,
+            "h2": 6,
+            "body": 65,
+            "caption": 47,
+            "table": 46,
+            "h3": 7
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2026-05-08/02-federalism.md"
+        },
+        {
+          "part": null,
+          "number": 3,
+          "title": "Gender, Religion and Caste",
+          "pdf": "pdfs/democratic-politics-2/2026-05-08/ch03.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "29-45",
+          "fingerprint": "e6db37a3183c409883bc60cf76b2f1735df7c27b614444fb6cc425041949f4fa",
+          "role_counts": {
+            "footer": 34,
+            "h2": 8,
+            "body": 111,
+            "h3": 10,
+            "caption": 38,
+            "table": 29
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2026-05-08/03-gender-religion-and-caste.md"
+        },
+        {
+          "part": null,
+          "number": 4,
+          "title": "Political Parties",
+          "pdf": "pdfs/democratic-politics-2/2026-05-08/ch04.pdf",
+          "pdf_pages": 17,
+          "printed_pages": "46-62",
+          "fingerprint": "80522089db590f7919db177091f9441119f1970f083ce4df85bd7d68f859b311",
+          "role_counts": {
+            "footer": 36,
+            "h2": 10,
+            "body": 89,
+            "h3": 6,
+            "caption": 21,
+            "decoration": 1,
+            "table": 31
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2026-05-08/04-political-parties.md"
+        },
+        {
+          "part": null,
+          "number": 5,
+          "title": "Outcomes of Democracy",
+          "pdf": "pdfs/democratic-politics-2/2026-05-08/ch05.pdf",
+          "pdf_pages": 12,
+          "printed_pages": "63-74",
+          "fingerprint": "d62a79459d482e507ef33157d720e6b3583434be571d9e35bb4107b3f4709329",
+          "role_counts": {
+            "footer": 27,
+            "h2": 9,
+            "body": 60,
+            "caption": 33,
+            "h3": 4,
+            "table": 16,
+            "dropcap": 1,
+            "note": 1
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/democratic-politics-2/2026-05-08/05-outcomes-of-democracy.md"
+        }
+      ]
+    }
+  ],
+  "skipped_snapshots": [],
+  "overrides_missed": []
+}

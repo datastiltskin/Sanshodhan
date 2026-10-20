@@ -1,0 +1,1562 @@
+{
+  "book": "our-pasts-1",
+  "title": "Our Pasts I",
+  "class": 6,
+  "codes": {
+    "single": "fess1"
+  },
+  "files": [
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch01.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "6d8580bbeae6b4fc5f6a8947addefad3a8db5d885962b61f06a515a6c117a67c",
+      "size": 545174,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch02.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "a0e1ea1dbdd490d33d2b16dcab3678b88840a8d887304dd0dea80bb7ae226625",
+      "size": 601241,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch03.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "500c5d67c2638a1cb36bbd925a888138f9938e427951f6c9820aa2d0386ec962",
+      "size": 404130,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch04.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "360c383eaca87ceb3fbed6cc85f9d06ffb47c933ce5d4dd2f816fef2fc29ca27",
+      "size": 802370,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch05.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "d3ed92ea375f2e1ec94a2faa52d3e72b5cf5d343f37afb9db5e3c489b4f0bded",
+      "size": 703669,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch06.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "0103c2c1121b30ca8f6321d9fa7cff5a4a8058c4bd1d1a7f43ad0e5c94205ed4",
+      "size": 498035,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch07.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "7a71b7ac9c738bcd30bed7253ac5d2e8e573b698658b2934631df0dadd060e45",
+      "size": 603899,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch08.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "2b5cd14039d390d6cea756739a96146ea785d55785b4b555266f5c789b23c87c",
+      "size": 963334,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch09.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch09.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "3d0ea52040623a0894b346884d14e483a7c0cd113e238488ac981b1b20c7c5da",
+      "size": 646332,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch10.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch10.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "ab4a84f7f0074527233d1a1e174a6ef3e4d7873bd3421fc059a0b301037f6082",
+      "size": 621117,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch11.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch11.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch11.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "a1d9c93415340a29d5a7fca22fdb4a08c884fa9b4c239c4058b96200a5b8f87c",
+      "size": 548141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/ch12.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch12.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch12.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "ec10e7eb0ef4bc41e4cbbcaed9c6bc1e6e675e704c419854add94c1fd5923636",
+      "size": 905195,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "de11881ba5c3f27683389e7fde077027f81d1c6f4590330254e43c8716d98ebc",
+      "size": 7810886,
+      "members": [
+        "pdfs/our-pasts-1/2014-06-28/ch01.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch02.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch03.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch04.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch05.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch06.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch07.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch08.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch09.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch10.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch11.pdf",
+        "pdfs/our-pasts-1/2014-06-28/ch12.pdf",
+        "pdfs/our-pasts-1/2014-06-28/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2014-06-28/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20140628094416id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#prelims.pdf",
+      "wayback": "20140628094416",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "e3151f4b5a8e94ef6be98e01fd78d931d63bb5037fb906c926e437dfacc73ade",
+      "size": 491466,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch01.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "6d8580bbeae6b4fc5f6a8947addefad3a8db5d885962b61f06a515a6c117a67c",
+      "size": 545174,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch02.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch02.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "a0e1ea1dbdd490d33d2b16dcab3678b88840a8d887304dd0dea80bb7ae226625",
+      "size": 601241,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch03.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch03.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "500c5d67c2638a1cb36bbd925a888138f9938e427951f6c9820aa2d0386ec962",
+      "size": 404130,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch04.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "360c383eaca87ceb3fbed6cc85f9d06ffb47c933ce5d4dd2f816fef2fc29ca27",
+      "size": 802370,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch05.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "d3ed92ea375f2e1ec94a2faa52d3e72b5cf5d343f37afb9db5e3c489b4f0bded",
+      "size": 703669,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch06.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch06.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "0103c2c1121b30ca8f6321d9fa7cff5a4a8058c4bd1d1a7f43ad0e5c94205ed4",
+      "size": 498035,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch07.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "7a71b7ac9c738bcd30bed7253ac5d2e8e573b698658b2934631df0dadd060e45",
+      "size": 603899,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch08.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch08.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "811456b8deaeb30d5ab7eb8e4c77282e551ea8fc8f918ab66e7d1f01431ffb2e",
+      "size": 961416,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch09.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch09.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "3d0ea52040623a0894b346884d14e483a7c0cd113e238488ac981b1b20c7c5da",
+      "size": 646332,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch10.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch10.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "348e93aabd86af02e26beb070a0e02fcead7514e10e7f1d1fd165f707e072474",
+      "size": 620940,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch11.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch11.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch11.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "a1d9c93415340a29d5a7fca22fdb4a08c884fa9b4c239c4058b96200a5b8f87c",
+      "size": 548141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/ch12.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#ch12.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#ch12.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "f9d94e91329539941561dfa1a32dc6330dc3cc30a83e7047078b5c630b2dd916",
+      "size": 904362,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/full-book.zip",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "128a1d205a5b39b23ed6c93a106e9eaf8da7274730a8687102fd5c2794573022",
+      "size": 7867236,
+      "members": [
+        "pdfs/our-pasts-1/2015-04-02/ch01.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch02.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch03.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch04.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch05.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch06.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch07.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch08.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch09.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch10.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch11.pdf",
+        "pdfs/our-pasts-1/2015-04-02/ch12.pdf",
+        "pdfs/our-pasts-1/2015-04-02/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2015-04-02/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20150402014437id_/http://ncert.nic.in/ncerts/l/fess1dd.zip#prelims.pdf",
+      "wayback": "20150402014437",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "e242be0fe1bfc4fd7a1eb25050b5e4ae35f0194bf7cc2dee2164c30aa678c43c",
+      "size": 575141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2016-partial/ch01.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess101.pdf",
+      "download_url": "http://web.archive.org/web/20160705012634id_/http://ncert.nic.in/ncerts/l/fess101.pdf",
+      "wayback": "20160705012634",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "6d8580bbeae6b4fc5f6a8947addefad3a8db5d885962b61f06a515a6c117a67c",
+      "size": 545174,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2016-partial/ch05.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess105.pdf",
+      "download_url": "http://web.archive.org/web/20160909024318id_/http://ncert.nic.in/ncerts/l/fess105.pdf",
+      "wayback": "20160909024318",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "d3ed92ea375f2e1ec94a2faa52d3e72b5cf5d343f37afb9db5e3c489b4f0bded",
+      "size": 703669,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2016-partial/ch09.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess109.pdf",
+      "download_url": "http://web.archive.org/web/20160109071139id_/http://ncert.nic.in/ncerts/l/fess109.pdf",
+      "wayback": "20160109071139",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "3d0ea52040623a0894b346884d14e483a7c0cd113e238488ac981b1b20c7c5da",
+      "size": 646332,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2016-partial/ch10.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess110.pdf",
+      "download_url": "http://web.archive.org/web/20160222040931id_/http://ncert.nic.in/ncerts/l/fess110.pdf",
+      "wayback": "20160222040931",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "348e93aabd86af02e26beb070a0e02fcead7514e10e7f1d1fd165f707e072474",
+      "size": 620940,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2016-partial/prelims.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1ps.pdf",
+      "download_url": "http://web.archive.org/web/20160804043123id_/http://ncert.nic.in/ncerts/l/fess1ps.pdf",
+      "wayback": "20160804043123",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "e242be0fe1bfc4fd7a1eb25050b5e4ae35f0194bf7cc2dee2164c30aa678c43c",
+      "size": 575141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2017-partial/ch04.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess104.pdf",
+      "download_url": "http://web.archive.org/web/20170918175005id_/http://ncert.nic.in/ncerts/l/fess104.pdf",
+      "wayback": "20170918175005",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "360c383eaca87ceb3fbed6cc85f9d06ffb47c933ce5d4dd2f816fef2fc29ca27",
+      "size": 802370,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2017-partial/ch07.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess107.pdf",
+      "download_url": "http://web.archive.org/web/20170829074933id_/http://ncert.nic.in/ncerts/l/fess107.pdf",
+      "wayback": "20170829074933",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "7a71b7ac9c738bcd30bed7253ac5d2e8e573b698658b2934631df0dadd060e45",
+      "size": 603899,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2017-partial/ch11.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess111.pdf",
+      "download_url": "http://web.archive.org/web/20171118091340id_/http://ncert.nic.in/ncerts/l/fess111.pdf",
+      "wayback": "20171118091340",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "a1d9c93415340a29d5a7fca22fdb4a08c884fa9b4c239c4058b96200a5b8f87c",
+      "size": 548141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2017-partial/ch12.pdf",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess112.pdf",
+      "download_url": "http://web.archive.org/web/20170922000950id_/http://ncert.nic.in/ncerts/l/fess112.pdf",
+      "wayback": "20170922000950",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "f9d94e91329539941561dfa1a32dc6330dc3cc30a83e7047078b5c630b2dd916",
+      "size": 904362,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2018-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess102.pdf",
+      "download_url": "http://web.archive.org/web/20180827054743id_/https://ncert.nic.in/textbook/pdf/fess102.pdf",
+      "wayback": "20180827054743",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "dd53afbb48474094074ce1469f7203303ca8192be105efe87a7d0f84754f9a8c",
+      "size": 720471,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2018-partial/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess103.pdf",
+      "download_url": "http://web.archive.org/web/20181223042234id_/https://ncert.nic.in/textbook/pdf/fess103.pdf",
+      "wayback": "20181223042234",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2c26554eb2992cd6d0042491bb868b061143142c6b33a33bb4fffc6b66d44b15",
+      "size": 376838,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2018-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess106.pdf",
+      "download_url": "http://web.archive.org/web/20181222221547id_/https://ncert.nic.in/textbook/pdf/fess106.pdf",
+      "wayback": "20181222221547",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "f3e77eac090caf6c12c0e6f46225eced26a215b9bb78425c249e1fa1570f6beb",
+      "size": 449405,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "dcf85523e2b0c2129e72783745090a73c6a59d65a5ead33db2cd222376badd44",
+      "size": 575186,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "dd53afbb48474094074ce1469f7203303ca8192be105efe87a7d0f84754f9a8c",
+      "size": 720471,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "2c26554eb2992cd6d0042491bb868b061143142c6b33a33bb4fffc6b66d44b15",
+      "size": 376838,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "9dae8d533a84738e8639102b95f07696181bcc58c7b5fdf96413547065941efd",
+      "size": 965960,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "78a1e4c31b0dfcc8bb3729ee34b7cefb4c93b5500066c3d05663557b7f19b9df",
+      "size": 618388,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "f3e77eac090caf6c12c0e6f46225eced26a215b9bb78425c249e1fa1570f6beb",
+      "size": 449405,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "0564a3351830cba0019a359f87b1989be3f078d5085027812ddc747c53bff9d4",
+      "size": 529001,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "60058f536c42ea1fcd4145aead0f499e5ee2012be9bde9780782be5345021c98",
+      "size": 1289693,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "3f1ae511a761baa8d1adc791112125ea3ea326d2fc76a3e47de6e93d9aca2505",
+      "size": 648620,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch10.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "f443744896020af4b6b1d24fa00c0ad93e19053fd330b03917a041790a01f394",
+      "size": 660482,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch11.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "216452b6232aae45cabfbe48f78e92d3c07e70053c0bb54d2aa7900d6626792f",
+      "size": 347850,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/ch12.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch12.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch12.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "3b6bb78f5d1fb2fb3c115a7d8dc57d61fb2b5c6f273469e325095de0f55d70cd",
+      "size": 1276867,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "72fd9a2b865e7d2736b47cdf0a3f40a9ed22e42c6fb13b2184e494f78fad6043",
+      "size": 8544850,
+      "members": [
+        "pdfs/our-pasts-1/2019-03-12/ch01.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch02.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch03.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch04.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch05.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch06.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch07.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch08.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch09.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch10.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch11.pdf",
+        "pdfs/our-pasts-1/2019-03-12/ch12.pdf",
+        "pdfs/our-pasts-1/2019-03-12/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-03-12/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190312174631id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "wayback": "20190312174631",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "50ce5bb6ae6680e39787a667f179dfd0102a40b6caaa4f44cb6bf9a968031a83",
+      "size": 641085,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "685ef76f3641b57e900544bc51f03c7dbd0e07576a3b6de394eeb6bf3466ff16",
+      "size": 457292,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "004a0ddea4224a6d75245216a5308788c594a67dfac6bb90d963e78629725ea1",
+      "size": 810609,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "36661fcfa0fd83424a600483f60c5650d95fb5a475229108bf91e886fab3389f",
+      "size": 948163,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "b8fc692b5f072cb7898cdcbf8c6e993e4de56bdcc508bcf9c5ec68d2782330c9",
+      "size": 601254,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "ede58f51325b529ff5ec64e64de7a8db447b85fa3bc7c6f125a95ab8f919eb59",
+      "size": 422835,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "5dba7fb933c57cb10bcd05abb34256346453186df26dd7c199eb886cb4ae450e",
+      "size": 493873,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "58170f2fa4e2ca5518df2ff1d3bf3ed3058a17f6d399dd2ed875cd9e0f49b88d",
+      "size": 1272042,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "30f83ca5d403e338ed35f19faf8e2af11a9df2d7c492c1a20c77ead3d1a09b6d",
+      "size": 569402,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "447a165c619fc34ae83a42cc310477f83b0c0648b14249862773cae95dea6927",
+      "size": 635683,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch10.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "eedf756cc074f2d4bf49038ab83eb926dfcc7c8a82d1bbbc609d78c900da9398",
+      "size": 339321,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/ch11.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "a40b30ba6861d69ebaf8ccd19f9d00f6a169154d3ad556aebab512a37770c77e",
+      "size": 1233877,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "f89e32c196ad2fca7389fd79aea4879a3b58edafaed67fe379fbe60b84a40b47",
+      "size": 8688827,
+      "members": [
+        "pdfs/our-pasts-1/2019-05-04/ch01.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch02.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch03.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch04.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch05.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch06.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch07.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch08.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch09.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch10.pdf",
+        "pdfs/our-pasts-1/2019-05-04/ch11.pdf",
+        "pdfs/our-pasts-1/2019-05-04/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2019-05-04/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20190504055640id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "wayback": "20190504055640",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "57b46aa087f33724924f7d227ad11e5de8af97d230f53614404dfff408c966cb",
+      "size": 1299565,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "5ca5f7c5c9c2349fea9de019319403bffe785f9bbe85ff7ac2ebbf5b6ac1b448",
+      "size": 975822,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "02a914d92d58541c19e73449bd8b8c60e6437741ae56e2a0ba2c9d341a55abf5",
+      "size": 1325149,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "2efa70252c689ac794cc8414e09735fcb9cb1918db857580fa79d74c69e54661",
+      "size": 1922417,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "d8620e781d41496d462cab07b467ff63d533da680e529a57d90e1fd98032c652",
+      "size": 1120914,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "3813a07e5706fc1b384041db8589bfd652dc575822d710dff75600ffcef3d043",
+      "size": 942416,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "fbd38c07d444d592a1039f5e4c17c5c7cdedd4948e25b48e12839d21403c5216",
+      "size": 1012477,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "e67abfc30a1076824d1196018e5800ed5d4c37e571362cb9aef1fdd82045675c",
+      "size": 1792232,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "1e78d4c9aee35d1b2f8a3ff3572a628d6f2390586c909d1e88b2b9bff4a54df3",
+      "size": 1088464,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "d5c5de63342d64c56184f8e06c0a3182e0fd62d51706d6f58261ef7f9971d9c0",
+      "size": 1155766,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch10.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "fab191a7ae7dd893711159cb32b9c00b93644488d3ed4f2e16a8f6d59e21bbaa",
+      "size": 862388,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/ch11.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch11.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "8192b873781d9818c3586b2ec46bf7898cdf9e5ced361ddb4d2bedbda105876d",
+      "size": 1936144,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "cf9a56ef13f53531f3cb4f888d5d6c8901066780e476643582a1dcd8d6c22475",
+      "size": 16872005,
+      "members": [
+        "pdfs/our-pasts-1/2020-06-16/ch01.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch02.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch03.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch04.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch05.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch06.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch07.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch08.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch09.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch10.pdf",
+        "pdfs/our-pasts-1/2020-06-16/ch11.pdf",
+        "pdfs/our-pasts-1/2020-06-16/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2020-06-16/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20200616235132id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "wayback": "20200616235132",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "799ae353cd761a72dc0d93f7d9377e50c11f992c597e0cca8a6b536597d197b4",
+      "size": 1598389,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess101.pdf",
+      "download_url": "http://web.archive.org/web/20210820045914id_/https://ncert.nic.in/textbook/pdf/fess101.pdf",
+      "wayback": "20210820045914",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "ffbe175541398eb9d637985208690b220df82c4e82e311a8206189972d6be16b",
+      "size": 5570294,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess102.pdf",
+      "download_url": "http://web.archive.org/web/20211018060720id_/https://ncert.nic.in/textbook/pdf/fess102.pdf",
+      "wayback": "20211018060720",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "de3c5065f2679afa1862d31f5c669d4e6a175a250ea13e689349006e8030b085",
+      "size": 7324194,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess103.pdf",
+      "download_url": "http://web.archive.org/web/20210419155621id_/https://ncert.nic.in/textbook/pdf/fess103.pdf",
+      "wayback": "20210419155621",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2efa70252c689ac794cc8414e09735fcb9cb1918db857580fa79d74c69e54661",
+      "size": 1922417,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess104.pdf",
+      "download_url": "http://web.archive.org/web/20211018060829id_/https://ncert.nic.in/textbook/pdf/fess104.pdf",
+      "wayback": "20211018060829",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "6dc471fee7c861c9d940585130db22117bac1d0b72b4381da9c5747dc88a17ed",
+      "size": 4670624,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess105.pdf",
+      "download_url": "http://web.archive.org/web/20210821211827id_/https://ncert.nic.in/textbook/pdf/fess105.pdf",
+      "wayback": "20210821211827",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "0735caf12288140e8433a3940695f66168e9d0b5f109308f67bc643d4d6b0b62",
+      "size": 2637490,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess106.pdf",
+      "download_url": "http://web.archive.org/web/20211018061132id_/https://ncert.nic.in/textbook/pdf/fess106.pdf",
+      "wayback": "20211018061132",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2b55c139f113f0072cdaf7a103e788dd16dd39e43cdb20f9f6ecee8802d43454",
+      "size": 8389441,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess107.pdf",
+      "download_url": "http://web.archive.org/web/20210809203232id_/https://ncert.nic.in/textbook/pdf/fess107.pdf",
+      "wayback": "20210809203232",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "c9a360af375e244faf84fed5224e1a250e09f878d408e15d5ea10c373ac6ceb8",
+      "size": 14690766,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess108.pdf",
+      "download_url": "http://web.archive.org/web/20211018061542id_/https://ncert.nic.in/textbook/pdf/fess108.pdf",
+      "wayback": "20211018061542",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "c22a10acf00b55b4434bed59855190444dc75b77dd92780c8f233d2f45b6c954",
+      "size": 7482169,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess109.pdf",
+      "download_url": "http://web.archive.org/web/20211018060725id_/https://ncert.nic.in/textbook/pdf/fess109.pdf",
+      "wayback": "20211018060725",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "295ed38c3ab27a9bf843861e659ab0fee47743a43052fdd73d3a74bac1a3966c",
+      "size": 8131992,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch10.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess110.pdf",
+      "download_url": "http://web.archive.org/web/20211018060900id_/https://ncert.nic.in/textbook/pdf/fess110.pdf",
+      "wayback": "20211018060900",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "4446c035b45c8c456c95edff0cbb4e7085966ed2af3d709a08ac3a3e65240121",
+      "size": 3129254,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/ch11.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess111.pdf",
+      "download_url": "http://web.archive.org/web/20211018060838id_/https://ncert.nic.in/textbook/pdf/fess111.pdf",
+      "wayback": "20211018060838",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "22b8f2c78d82a339b4624b7a0411d21261bab526286f6c2f11fb098e403eeaff",
+      "size": 22946496,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2021-partial/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1ps.pdf",
+      "download_url": "http://web.archive.org/web/20211124062729id_/https://ncert.nic.in/textbook/pdf/fess1ps.pdf",
+      "wayback": "20211124062729",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "f2d07694a85593468b103add47553964aece103aa670fdc4f49b6e36e9d9d6c2",
+      "size": 5715748,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2022-partial/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess101.pdf",
+      "download_url": "http://web.archive.org/web/20220521220605id_/https://ncert.nic.in/textbook/pdf/fess101.pdf",
+      "wayback": "20220521220605",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "5affeb8b7331a8842ecb904a0e951ec35235bcf259da5ccb3e13a1ef5a0dd67b",
+      "size": 5446036,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch01.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch01.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "370a75df3c12a577e523cda7c306b8cd0d321cb448051e903303dce4c94a6246",
+      "size": 3251005,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch02.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch02.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "210f5ab21bce6cbbc3954bf1042295de2716dcd9fdcaa33977823199085cb868",
+      "size": 4579882,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch03.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch03.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "2660f15785124fcafae955dde3047ed31d8f8e9824c3b3cba5a43506f5586a32",
+      "size": 2628891,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch04.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch04.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "d25b9b0b3072fdcc9d18a5a62c25cd70b90e926aebf03ba0cb7403b71089c10a",
+      "size": 1710184,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch05.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "de81d413bdb4a001704480752b0594cd821aa634cd57269254698a56e16ab6fc",
+      "size": 1014143,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch06.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch06.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "6b76d0638d4dd304f698600e5b80d1757c85565d0a4be58b8d44d162bd2b3c26",
+      "size": 1114746,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch07.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch07.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "b0fa5ef1f10501c92f08289d3bcd350890a78f3827fe722b8fc318a2b7d6e758",
+      "size": 1829360,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch08.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch08.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "e078ff5e1dd1bc7fea2e85699955ce952ff95f8705ec7aaa6bbf2edea0670153",
+      "size": 1091023,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch09.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "40414c14b0d03b760a0c12582595b49ce5cfc3154fbe9b70c4909adfd2bc07ab",
+      "size": 1038342,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/ch10.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#ch10.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "4916aeacfe31b8e8dadf3562b972e115fcd9f7df83b1ba2da5269a3e86c09234",
+      "size": 2441343,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/full-book.zip",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "f61596fb4f27b627d55cc3f873c836e959cae11c5775fa53d89f2405478cb7f8",
+      "size": 21263652,
+      "members": [
+        "pdfs/our-pasts-1/2023-12-23/ch01.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch02.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch03.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch04.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch05.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch06.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch07.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch08.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch09.pdf",
+        "pdfs/our-pasts-1/2023-12-23/ch10.pdf",
+        "pdfs/our-pasts-1/2023-12-23/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/2023-12-23/prelims.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "download_url": "http://web.archive.org/web/20231223073812id_/https://ncert.nic.in/textbook/pdf/fess1dd.zip#prelims.pdf",
+      "wayback": "20231223073812",
+      "fetched_at": "2026-10-20T11:58:07+00:00",
+      "sha256": "2b88f57e5b3c6ff8aad298a8faa6c16c5e994db0ae6c65f3a54b376a1d2547b3",
+      "size": 1959099,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2024-partial/ch05.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess105.pdf",
+      "download_url": "http://web.archive.org/web/20240416135826id_/https://ncert.nic.in/textbook/pdf/fess105.pdf",
+      "wayback": "20240416135826",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "de81d413bdb4a001704480752b0594cd821aa634cd57269254698a56e16ab6fc",
+      "size": 1014143,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/2024-partial/ch09.pdf",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess109.pdf",
+      "download_url": "http://web.archive.org/web/20240418171826id_/https://ncert.nic.in/textbook/pdf/fess109.pdf",
+      "wayback": "20240418171826",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "40414c14b0d03b760a0c12582595b49ce5cfc3154fbe9b70c4909adfd2bc07ab",
+      "size": 1038342,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch01.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fees101.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fees101.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "5ca5f7c5c9c2349fea9de019319403bffe785f9bbe85ff7ac2ebbf5b6ac1b448",
+      "size": 975822,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch02.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess102.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess102.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "02a914d92d58541c19e73449bd8b8c60e6437741ae56e2a0ba2c9d341a55abf5",
+      "size": 1325149,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch03.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess103.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess103.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2efa70252c689ac794cc8414e09735fcb9cb1918db857580fa79d74c69e54661",
+      "size": 1922417,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch04.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess104.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess104.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "d8620e781d41496d462cab07b467ff63d533da680e529a57d90e1fd98032c652",
+      "size": 1120914,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch05.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess105.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess105.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "3813a07e5706fc1b384041db8589bfd652dc575822d710dff75600ffcef3d043",
+      "size": 942416,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch06.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess106.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess106.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "fbd38c07d444d592a1039f5e4c17c5c7cdedd4948e25b48e12839d21403c5216",
+      "size": 1012477,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch07.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess107.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess107.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "e67abfc30a1076824d1196018e5800ed5d4c37e571362cb9aef1fdd82045675c",
+      "size": 1792232,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch08.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess108.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess108.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "1e78d4c9aee35d1b2f8a3ff3572a628d6f2390586c909d1e88b2b9bff4a54df3",
+      "size": 1088464,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch09.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess109.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess109.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "d5c5de63342d64c56184f8e06c0a3182e0fd62d51706d6f58261ef7f9971d9c0",
+      "size": 1155766,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch10.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess1010.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess1010.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "fab191a7ae7dd893711159cb32b9c00b93644488d3ed4f2e16a8f6d59e21bbaa",
+      "size": 862388,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/ch11.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess1011.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess1011.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "8192b873781d9818c3586b2ec46bf7898cdf9e5ced361ddb4d2bedbda105876d",
+      "size": 1936144,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-2020-21/prelims.pdf",
+      "source_url": "https://archive.org/download/ncert-fess1/fess1ps.pdf",
+      "download_url": "https://archive.org/download/ncert-fess1/fess1ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "799ae353cd761a72dc0d93f7d9377e50c11f992c597e0cca8a6b536597d197b4",
+      "size": 1598389,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch01.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch01.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch01.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "370a75df3c12a577e523cda7c306b8cd0d321cb448051e903303dce4c94a6246",
+      "size": 3251005,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch02.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch02.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch02.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "210f5ab21bce6cbbc3954bf1042295de2716dcd9fdcaa33977823199085cb868",
+      "size": 4579882,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch03.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch03.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch03.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2660f15785124fcafae955dde3047ed31d8f8e9824c3b3cba5a43506f5586a32",
+      "size": 2628891,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch04.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch04.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch04.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "d25b9b0b3072fdcc9d18a5a62c25cd70b90e926aebf03ba0cb7403b71089c10a",
+      "size": 1710184,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch05.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch05.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch05.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "de81d413bdb4a001704480752b0594cd821aa634cd57269254698a56e16ab6fc",
+      "size": 1014143,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch06.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch06.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch06.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "6b76d0638d4dd304f698600e5b80d1757c85565d0a4be58b8d44d162bd2b3c26",
+      "size": 1114746,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch07.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch07.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch07.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "b0fa5ef1f10501c92f08289d3bcd350890a78f3827fe722b8fc318a2b7d6e758",
+      "size": 1829360,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch08.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch08.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch08.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "e078ff5e1dd1bc7fea2e85699955ce952ff95f8705ec7aaa6bbf2edea0670153",
+      "size": 1091023,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch09.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch09.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch09.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "40414c14b0d03b760a0c12582595b49ce5cfc3154fbe9b70c4909adfd2bc07ab",
+      "size": 1038342,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch10.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch10.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#ch10.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "4916aeacfe31b8e8dadf3562b972e115fcd9f7df83b1ba2da5269a3e86c09234",
+      "size": 2441343,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/full-book.zip",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "f61596fb4f27b627d55cc3f873c836e959cae11c5775fa53d89f2405478cb7f8",
+      "size": 21263652,
+      "members": [
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch01.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch02.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch03.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch04.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch05.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch06.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch07.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch08.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch09.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/ch10.pdf",
+        "pdfs/our-pasts-1/archive-org-oldncert-2023-24/prelims.pdf"
+      ]
+    },
+    {
+      "path": "pdfs/our-pasts-1/archive-org-oldncert-2023-24/prelims.pdf",
+      "source_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#prelims.pdf",
+      "download_url": "https://archive.org/download/OldNCERTBooks/Class%206/fess1dd.zip#prelims.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "2b88f57e5b3c6ff8aad298a8faa6c16c5e994db0ae6c65f3a54b376a1d2547b3",
+      "size": 1959099,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/covers/2014-12-27.jpg",
+      "source_url": "http://ncert.nic.in/ncerts/l/fess1cc.jpg",
+      "download_url": "http://web.archive.org/web/20141227142328id_/http://ncert.nic.in/ncerts/l/fess1cc.jpg",
+      "wayback": "20141227142328",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "10977af5584526a590c612b5368d117caa1414b1a1d7dc613533da698c2819a8",
+      "size": 42637,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/covers/2021-08-31.jpg",
+      "source_url": "https://ncert.nic.in/textbook/pdf/fess1cc.jpg",
+      "download_url": "http://web.archive.org/web/20210831132705id_/https://ncert.nic.in/textbook/pdf/fess1cc.jpg",
+      "wayback": "20210831132705",
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "9cf9965c68452854afb928acf32d60dd2d4ad01c834ee34ae007309de8ccd6a2",
+      "size": 170428,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch01.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess101.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess101.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "6d8580bbeae6b4fc5f6a8947addefad3a8db5d885962b61f06a515a6c117a67c",
+      "size": 545174,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch02.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess102.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess102.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "a0e1ea1dbdd490d33d2b16dcab3678b88840a8d887304dd0dea80bb7ae226625",
+      "size": 601241,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch03.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess103.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess103.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "500c5d67c2638a1cb36bbd925a888138f9938e427951f6c9820aa2d0386ec962",
+      "size": 404130,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch04.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess104.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess104.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "360c383eaca87ceb3fbed6cc85f9d06ffb47c933ce5d4dd2f816fef2fc29ca27",
+      "size": 802370,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch05.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess105.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess105.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "d3ed92ea375f2e1ec94a2faa52d3e72b5cf5d343f37afb9db5e3c489b4f0bded",
+      "size": 703669,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch06.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess106.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess106.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "0103c2c1121b30ca8f6321d9fa7cff5a4a8058c4bd1d1a7f43ad0e5c94205ed4",
+      "size": 498035,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch07.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess107.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess107.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "7a71b7ac9c738bcd30bed7253ac5d2e8e573b698658b2934631df0dadd060e45",
+      "size": 603899,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch08.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess108.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess108.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "811456b8deaeb30d5ab7eb8e4c77282e551ea8fc8f918ab66e7d1f01431ffb2e",
+      "size": 961416,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch09.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess109.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess109.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "3d0ea52040623a0894b346884d14e483a7c0cd113e238488ac981b1b20c7c5da",
+      "size": 646332,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch10.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess110.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess110.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "348e93aabd86af02e26beb070a0e02fcead7514e10e7f1d1fd165f707e072474",
+      "size": 620940,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch11.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess111.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess111.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "a1d9c93415340a29d5a7fca22fdb4a08c884fa9b4c239c4058b96200a5b8f87c",
+      "size": 548141,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/ch12.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess112.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess112.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "f9d94e91329539941561dfa1a32dc6330dc3cc30a83e7047078b5c630b2dd916",
+      "size": 904362,
+      "members": []
+    },
+    {
+      "path": "pdfs/our-pasts-1/rungtaias-undated/prelims.pdf",
+      "source_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess1ps.pdf",
+      "download_url": "https://rungtaias.org/public/uploads/NCERT%20TEXT%20BOOKS/Class%206/Class%206%20-%20History%20-%20Our%20Past-I/fess1ps.pdf",
+      "wayback": null,
+      "fetched_at": "2026-10-20T11:58:37+00:00",
+      "sha256": "e242be0fe1bfc4fd7a1eb25050b5e4ae35f0194bf7cc2dee2164c30aa678c43c",
+      "size": 575141,
+      "members": []
+    }
+  ]
+}

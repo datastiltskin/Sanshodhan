@@ -7,7 +7,11 @@
       "fingerprint": "9976a11c750782ebefd873407a814b121cf3e14072c7eed8eb469eba98f59ffc",
       "snapshots": [
         "2014-07-28",
-        "2016-09-10"
+        "2016-09-10",
+        "2015-partial",
+        "2017-partial",
+        "2018-ncerts-partial",
+        "2018-partial"
       ],
       "prelims": {
         "part1": {
@@ -331,7 +335,8 @@
       "id": "2019-03-12",
       "fingerprint": "e2a2e5445131386447da68a8c315e547c4e6d2d25d5bb9a4278378932fb41a8c",
       "snapshots": [
-        "2019-03-12"
+        "2019-03-12",
+        "archive-org-oldncert-2018-19"
       ],
       "prelims": {
         "part1": {
@@ -675,7 +680,8 @@
       "id": "2020-10-15",
       "fingerprint": "fdb97169e3ac26544010963e5efd3db7d4f8a7f32605649e3c2f8df1ff82b54e",
       "snapshots": [
-        "2020-10-15"
+        "2020-10-15",
+        "archive-org-2020-21"
       ],
       "prelims": {
         "single": {
@@ -1720,6 +1726,7 @@
       "fingerprint": "7a1caab509b90afee32d126a44b3ebce049f1aacbbc70f4541e3d7d94b8e1a94",
       "snapshots": [
         "2024-08-04",
+        "archive-org-oldncert-2024-25",
         "live-2026-10-18"
       ],
       "prelims": {
@@ -1944,6 +1951,42 @@
             "wide word spacing in the Source 2 box on page 96, the print reads \"remains\""
           ],
           "file": "texts/our-pasts-3/2024-08-04/08-the-making-of-the-national-movement-1870s1947.md"
+        }
+      ]
+    },
+    {
+      "id": "2025-partial",
+      "fingerprint": "163939c72d90bc524cf3a0d6e56304440130b86e0c1ad1836e8ba5ca42c162c9",
+      "snapshots": [
+        "2025-partial"
+      ],
+      "prelims": {},
+      "chapter_count": 1,
+      "ocr": false,
+      "chapters": [
+        {
+          "part": null,
+          "number": 7,
+          "title": "Women, Caste and Reform",
+          "pdf": "pdfs/our-pasts-3/2025-partial/ch07.pdf",
+          "pdf_pages": 15,
+          "printed_pages": "78-92",
+          "fingerprint": "c4e20d26cdda68d5ff527161f510ce77b323ea7361a00638cd237c3ffc9becd6",
+          "role_counts": {
+            "body": 94,
+            "chapter-number": 1,
+            "caption": 31,
+            "footer": 29,
+            "h2": 10,
+            "h3": 12,
+            "table": 7,
+            "note": 18
+          },
+          "ocr": false,
+          "ocr_confidence": null,
+          "ocr_pages": null,
+          "overrides": null,
+          "file": "texts/our-pasts-3/2025-partial/07-women-caste-and-reform.md"
         }
       ]
     }

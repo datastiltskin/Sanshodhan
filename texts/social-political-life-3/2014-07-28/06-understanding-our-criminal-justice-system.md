@@ -4,6 +4,7 @@ book_title: "Social and Political Life III"
 edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
+  - "2015-partial"
 chapter: 6
 title: "Understanding Our Criminal Justice System"
 source_pdf: "pdfs/social-political-life-3/2014-07-28/ch06.pdf"

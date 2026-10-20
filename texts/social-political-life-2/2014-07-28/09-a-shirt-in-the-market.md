@@ -4,6 +4,7 @@ book_title: "Social and Political Life II"
 edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
+  - "2017-partial"
 chapter: 9
 title: "A Shirt in the Market"
 source_pdf: "pdfs/social-political-life-2/2014-07-28/ch09.pdf"

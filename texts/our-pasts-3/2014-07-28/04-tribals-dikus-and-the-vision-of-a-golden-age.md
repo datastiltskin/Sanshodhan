@@ -5,6 +5,10 @@ edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
   - "2016-09-10"
+  - "2015-partial"
+  - "2017-partial"
+  - "2018-ncerts-partial"
+  - "2018-partial"
 part: 1
 chapter: 4
 title: "Tribals, Dikus and the Vision of a Golden Age"

@@ -5,6 +5,10 @@ edition: "2014-07-28"
 snapshots:
   - "2014-07-28"
   - "2016-09-10"
+  - "2015-partial"
+  - "2017-partial"
+  - "2018-ncerts-partial"
+  - "2018-partial"
 part: 1
 chapter: 2
 title: "From Trade to Territory The Company Establishes Power"
