@@ -1,0 +1,68 @@
+{
+ "book": "our-pasts-2",
+ "from": "2025-partial",
+ "to": "2026-partial",
+ "ocr": false,
+ "summary": {
+  "chapters_dropped": 2,
+  "chapters_added": 1,
+  "body": {
+   "deleted": 0,
+   "inserted": 0,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "other_streams": {
+   "deleted": 0,
+   "inserted": 0,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "suspect_pages": 0
+ },
+ "chapters": [
+  {
+   "from": {
+    "number": 1,
+    "part": null,
+    "title": "INTRODUCTION: TRACING CHANGES THROUGH A THOUSAND YEARS",
+    "file": "texts/our-pasts-2/2025-partial/01-introduction-tracing-changes-through-a-thousand.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 4,
+    "part": null,
+    "title": "THE MUGHALS (16th TO 17th CENTURY)",
+    "file": "texts/our-pasts-2/2025-partial/04-the-mughals-16th-to-17th-century.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": null,
+   "to": {
+    "number": 2,
+    "part": null,
+    "title": "KINGS AND KINGDOMS",
+    "file": "texts/our-pasts-2/2026-partial/02-kings-and-kingdoms.md"
+   },
+   "similarity": 0.0,
+   "status": "added"
+  }
+ ]
+}

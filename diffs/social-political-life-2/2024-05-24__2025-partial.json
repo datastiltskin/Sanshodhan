@@ -1,0 +1,1637 @@
+{
+ "book": "social-political-life-2",
+ "from": "2024-05-24",
+ "to": "2025-partial",
+ "ocr": false,
+ "summary": {
+  "chapters_dropped": 7,
+  "chapters_added": 0,
+  "body": {
+   "deleted": 0,
+   "inserted": 0,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "other_streams": {
+   "deleted": 0,
+   "inserted": 1,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "suspect_pages": 0
+ },
+ "chapters": [
+  {
+   "from": {
+    "number": 1,
+    "part": null,
+    "title": "On Equality",
+    "file": "texts/social-political-life-2/2024-05-24/01-on-equality.md"
+   },
+   "to": {
+    "number": 1,
+    "part": null,
+    "title": "On Equality",
+    "file": "texts/social-political-life-2/2025-partial/01-on-equality.md"
+   },
+   "similarity": 1.0,
+   "status": "matched",
+   "streams": {
+    "heading": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 1,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "UNIT",
+       "new": "UNIT",
+       "old_page": 2,
+       "new_page": 2,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "ONE",
+       "new": "ONE",
+       "old_page": 2,
+       "new_page": 2,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "Equality in Indian Democracy",
+       "new": "Equality in Indian Democracy",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "On Equality",
+       "new": "On Equality",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "inserted",
+       "stream": "heading",
+       "similarity": null,
+       "old": null,
+       "new": "fig ZEROHUNGER",
+       "old_page": null,
+       "new_page": 5,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "Issues of equality in other democracies",
+       "new": "Issues of equality in other democracies",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 5
+      }
+     ]
+    },
+    "body": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Teacher’s note in people’s movements around various social and economic issues.",
+       "new": "Teacher’s note in people’s movements around various social and economic issues.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This Unit introduces the learner to the critical role of equality in democracy, with specific reference to India.",
+       "new": "This Unit introduces the learner to the critical role of equality in democracy, with specific reference to India.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Constitution of India guarantees equality to all citizens.",
+       "new": "The Constitution of India guarantees equality to all citizens.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Despite this, the daily lives of people in India are far from equal.",
+       "new": "Despite this, the daily lives of people in India are far from equal.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Earlier discussions on equality in Civics textbooks most often reiterated certain provisions of the Constitution without adequately considering the reality of these in people’s lives.",
+       "new": "Earlier discussions on equality in Civics textbooks most often reiterated certain provisions of the Constitution without adequately considering the reality of these in people’s lives.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This Unit adopts a different approach.",
+       "new": "This Unit adopts a different approach.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It discusses the need for equality through highlighting the inequalities that continue to be practised and experienced by various communities.",
+       "new": "It discusses the need for equality through highlighting the inequalities that continue to be practised and experienced by various communities.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Local situations should be used as a practical reference to make the discussion on underlying concepts more relevant and appropriate.",
+       "new": "Local situations should be used as a practical reference to make the discussion on underlying concepts more relevant and appropriate.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "A discussion on equality in the classroom requires empathy as well as a firm commitment on the teacher’s part to ensuring that the dignity of all learners be respected.",
+       "new": "A discussion on equality in the classroom requires empathy as well as a firm commitment on the teacher’s part to ensuring that the dignity of all learners be respected.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The government’s role in passing laws and instituting policies is discussed to show that commitment to the alleviation of existing inequalities is a major part of the work that governments undertake.",
+       "new": "The government’s role in passing laws and instituting policies is discussed to show that commitment to the alleviation of existing inequalities is a major part of the work that governments undertake.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The chapter also briefly introduces an issue of inequality in the United States of America to highlight that this is a global phenomenon and a feature of many democratic countries.",
+       "new": "The chapter also briefly introduces an issue of inequality in the United States of America to highlight that this is a global phenomenon and a feature of many democratic countries.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This chapter aims to help the learner understand that equality and democracy are dynamic and not static concepts.",
+       "new": "This chapter aims to help the learner understand that equality and democracy are dynamic and not static concepts.",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This dynamism is reflected in the government’s passing of new laws and programmes, and",
+       "new": "This dynamism is reflected in the government’s passing of new laws and programmes, and",
+       "old_page": 3,
+       "new_page": 3,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him.",
+       "new": "In the 1975 film, Deewar, a boy who works as a shoeshine refuses to pick up a coin thrown at him.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "He feels that there is dignity in the work that he does and insists that his fee be given respectfully.",
+       "new": "He feels that there is dignity in the work that he does and insists that his fee be given respectfully.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Equality in Indian democracy",
+       "new": "Equality in Indian democracy",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Indian Constitution recognises every person as equal.",
+       "new": "The Indian Constitution recognises every person as equal.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal.",
+       "new": "This means that every individual in the country, including male and female persons from all castes, religions, tribes, educational and economic backgrounds are recognised as equal.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This is not to say that inequality ceases to exist.",
+       "new": "This is not to say that inequality ceases to exist.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It doesn’t.",
+       "new": "It doesn’t.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "But atleast, in democratic India, the principle of the equality of all persons is recognised.",
+       "new": "But atleast, in democratic India, the principle of the equality of all persons is recognised.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "While earlier no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.",
+       "new": "While earlier no law existed to protect people from discrimination and ill-treatment, now there are several that work to see that people are treated with dignity and as equals.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law.",
+       "new": "This recognition of equality includes some of the following provisions in the Constitution: first that every person is equal before the law.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws.",
+       "new": "What this means is that every person, from the President of the country to Kanta, a domestic worker, has to obey the same laws.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male.",
+       "new": "Second, no person can be discriminated against on the basis of their religion, race, caste, place of birth or whether they are female or male.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Third, every person has access to all public places including playgrounds, hotels, shops and markets.",
+       "new": "Third, every person has access to all public places including playgrounds, hotels, shops and markets.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "All persons can use publicly available wells, roads and bathing ghats.",
+       "new": "All persons can use publicly available wells, roads and bathing ghats.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": 26
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Fourth, untouchability has been abolished.",
+       "new": "Fourth, untouchability has been abolished.",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 27,
+       "new_pos": 27
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities.",
+       "new": "The two ways in which the government has tried to implement the equality that is guaranteed in the Constitution is first through laws and second through government programmes or schemes to help disadvantaged communities.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": 28
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "There are several laws in India that protect every person’s right to be treated equally.",
+       "new": "There are several laws in India that protect every person’s right to be treated equally.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 29,
+       "new_pos": 29
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries.",
+       "new": "In addition to laws, the government has also set up several schemes to improve the lives of communities and individuals who have been treated unequally for several centuries.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 30,
+       "new_pos": 30
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These schemes are to ensure greater opportunity for people who have not had this in the past.",
+       "new": "These schemes are to ensure greater opportunity for people who have not had this in the past.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 31,
+       "new_pos": 31
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "One of the steps taken by the government includes the midday meal scheme.",
+       "new": "One of the steps taken by the government includes the midday meal scheme.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 32,
+       "new_pos": 32
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This refers to the programme introduced in all government elementary schools to provide children with cooked lunch.",
+       "new": "This refers to the programme introduced in all government elementary schools to provide children with cooked lunch.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 33,
+       "new_pos": 33
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months.",
+       "new": "Tamil Nadu was the first state in India to introduce this scheme, and in 2001, the Supreme Court asked all state governments to begin this programme in their schools within six months.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 34
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This programme has had many positive effects.",
+       "new": "This programme has had many positive effects.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 35,
+       "new_pos": 35
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These include the fact that more poor children have begun enrolling and regularly attending school.",
+       "new": "These include the fact that more poor children have begun enrolling and regularly attending school.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 36,
+       "new_pos": 36
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
+       "new": "Teachers reported that earlier children would often go home for lunch and then not return to school but now with the midday meal being provided in school, their attendance has improved.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 37
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
+       "new": "Their mothers, who earlier had to interrupt their work to feed their children at home during the day, now no longer need to do so.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 38
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
+       "new": "This programme has also helped reduce caste prejudices because children of all castes in the school eat this meal together, and in quite a few places, Dalit women have been employed to cook the meal.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 39
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
+       "new": "The midday meal programme also helps reduce the hunger of poor students who often come to school and cannot concentrate because their stomachs are empty.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.",
+       "new": "The Parliament is the cornerstone of our democracy and we are represented in it through our elected representatives.",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "www.in.undp.org",
+       "new": "www.in.undp.org",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 42,
+       "new_pos": 42
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Children being served their midday meal at a government school in Uttarakhand.",
+       "new": "Children being served their midday meal at a government school in Uttarakhand.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 43
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done.",
+       "new": "While government programmes play an important role in increasing equality of opportunity, there is much that still needs to be done.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 44,
+       "new_pos": 44
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend.",
+       "new": "While the midday meal programme has helped increase the enrolment and attendance of poor children in school, there continues to be big differences in our country between schools that the rich attend and those that the poor attend.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 45,
+       "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Even today there are several schools in the country in which Dalit children are discriminated against and treated unequally.",
+       "new": "Even today there are several schools in the country in which Dalit children are discriminated against and treated unequally.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 46,
+       "new_pos": 46
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These children are forced into unequal situations in which their dignity is not respected.",
+       "new": "These children are forced into unequal situations in which their dignity is not respected.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 47,
+       "new_pos": 47
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This is because people refuse to think of them as equal even though the law requires it.",
+       "new": "This is because people refuse to think of them as equal even though the law requires it.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 48,
+       "new_pos": 48
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "One of the main reasons for this is that attitudes change very slowly.",
+       "new": "One of the main reasons for this is that attitudes change very slowly.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 49,
+       "new_pos": 49
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women.",
+       "new": "Even though persons are aware that discrimination is against the law, they continue to treat people unequally on the basis of their caste, religion, disability, economic status and because they are women.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 50,
+       "new_pos": 50
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change.",
+       "new": "It is only when people begin to believe that no one is inferior, and that every person deserves to be treated with dignity, that present attitudes can change.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 51,
+       "new_pos": 51
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.",
+       "new": "Establishing equality in a democratic society is a continuous struggle and one in which individuals as well as various communities in India contribute to and you will read more about this in this book.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 52,
+       "new_pos": 52
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "You are probably wondering whether India is the only democratic country in which there is inequality and where the struggle for equality continues to exist.",
+       "new": "You are probably wondering whether India is the only democratic country in which there is inequality and where the struggle for equality continues to exist.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 53,
+       "new_pos": 53
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The truth is that in many democratic countries around the world, the issue of equality continues to be the key issue around which communities struggle.",
+       "new": "The truth is that in many democratic countries around the world, the issue of equality continues to be the key issue around which communities struggle.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 54,
+       "new_pos": 54
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "So, for example, in the United States of America, the African–Americans whose ancestors were the slaves who were brought over from Africa, continue to describe their lives today as largely unequal.",
+       "new": "So, for example, in the United States of America, the African–Americans whose ancestors were the slaves who were brought over from Africa, continue to describe their lives today as largely unequal.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 55,
+       "new_pos": 55
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This, despite the fact that there was a movement in the late 1950s to push for equal rights for African– Americans.",
+       "new": "This, despite the fact that there was a movement in the late 1950s to push for equal rights for African– Americans.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 56,
+       "new_pos": 56
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Prior to this, African–Americans were treated extremely unequally in the United States and denied equality through law.",
+       "new": "Prior to this, African–Americans were treated extremely unequally in the United States and denied equality through law.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 57,
+       "new_pos": 57
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "For example, when travelling by bus, they either had to sit at the back of the bus or get up from their seat whenever a white person wished to sit.",
+       "new": "For example, when travelling by bus, they either had to sit at the back of the bus or get up from their seat whenever a white person wished to sit.",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 58,
+       "new_pos": 58
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Rosa Parks (1913–2005) was an African–American woman.",
+       "new": "Rosa Parks (1913–2005) was an African–American woman.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 59,
+       "new_pos": 59
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Tired from a long day at work she refused to give up her seat on a bus to a white man on 1 December 1955.",
+       "new": "Tired from a long day at work she refused to give up her seat on a bus to a white man on 1 December 1955.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 60,
+       "new_pos": 60
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Her refusal that day started a huge agitation against the unequal ways in which African–Americans were treated and which came to be known as the Civil Rights Movement.",
+       "new": "Her refusal that day started a huge agitation against the unequal ways in which African–Americans were treated and which came to be known as the Civil Rights Movement.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 61,
+       "new_pos": 61
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin.",
+       "new": "The Civil Rights Act of 1964 prohibited discrimination on the basis of race, religion or national origin.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 62,
+       "new_pos": 62
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It also stated that all schools would be open to African–American children and that they would no longer have to attend separate schools specially set up for them.",
+       "new": "It also stated that all schools would be open to African–American children and that they would no longer have to attend separate schools specially set up for them.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 63,
+       "new_pos": 63
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "However, despite this, a majority of African–Americans continue to be among the poorest in the country.",
+       "new": "However, despite this, a majority of African–Americans continue to be among the poorest in the country.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 64,
+       "new_pos": 64
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.",
+       "new": "Most African-American children can only afford to attend government schools that have fewer facilities and poorly qualified teachers as compared to white students who either go to private schools or live in areas where the government schools are as highly rated as private schools.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 65,
+       "new_pos": 65
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "“It is disgraceful to live at the cost of one's self-respect.",
+       "new": "“It is disgraceful to live at the cost of one's self-respect.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 66,
+       "new_pos": 66
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Self-respect is the most vital factor in life.",
+       "new": "Self-respect is the most vital factor in life.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 67,
+       "new_pos": 67
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Without it, man is a cipher.",
+       "new": "Without it, man is a cipher.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 68,
+       "new_pos": 68
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "To live worthily with self-respect, one has to overcome difficulties.",
+       "new": "To live worthily with self-respect, one has to overcome difficulties.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 69,
+       "new_pos": 69
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.",
+       "new": "It is out of hard and ceaseless struggle alone that one derives strength, confidence and recognition.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 70,
+       "new_pos": 70
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "“Man is mortal.",
+       "new": "“Man is mortal.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 71,
+       "new_pos": 71
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Everyone has to die some day or the other.",
+       "new": "Everyone has to die some day or the other.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 72,
+       "new_pos": 72
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "But one must resolve to lay down one's life in enriching the noble ideals of self-respect and in bettering one's human life...",
+       "new": "But one must resolve to lay down one's life in enriching the noble ideals of self-respect and in bettering one's human life...",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 73,
+       "new_pos": 73
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”",
+       "new": "Nothing is more disgraceful for a brave man than to live life devoid of self-respect.”",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 74,
+       "new_pos": 74
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "– B.R. Ambedkar",
+       "new": "– B.R. Ambedkar",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 75,
+       "new_pos": 75
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Rosa Parks, an African– American woman, changed the course of American history with one defiant act.",
+       "new": "Rosa Parks, an African– American woman, changed the course of American history with one defiant act.",
+       "old_page": 7,
+       "new_page": 7,
+       "words": [],
+       "old_pos": 76,
+       "new_pos": 76
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Challenge of democracy",
+       "new": "Challenge of democracy",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 77,
+       "new_pos": 77
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "No country can be described as being completely democratic.",
+       "new": "No country can be described as being completely democratic.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 78,
+       "new_pos": 78
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.",
+       "new": "There are always communities and individuals trying to expand the idea of democracy and push for a greater recognition of equality on existing as well as new issues.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 79,
+       "new_pos": 79
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained.",
+       "new": "Central to this is the struggle for the recognition of all persons as equal and for their dignity to be maintained.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 80,
+       "new_pos": 80
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India.",
+       "new": "In this book you will read about how this issue of equality affects various aspects of our daily lives in democratic India.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 81,
+       "new_pos": 81
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.",
+       "new": "As you read these chapters, think about whether the equality of all persons and their being able to maintain their dignity is upheld.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 82,
+       "new_pos": 82
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Excerpt from Article 15 of the Indian Constitution EXERCISES Glossary",
+       "new": "Excerpt from Article 15 of the Indian Constitution EXERCISES Glossary",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 83,
+       "new_pos": 83
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.",
+       "new": "Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 84,
+       "new_pos": 84
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.",
+       "new": "(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 85,
+       "new_pos": 85
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to –",
+       "new": "(2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to –",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 86,
+       "new_pos": 86
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(a) access to shops, public restaurants, hotels and places of public entertainment;",
+       "new": "(a) access to shops, public restaurants, hotels and places of public entertainment;",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 87,
+       "new_pos": 87
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "or",
+       "new": "or",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 88,
+       "new_pos": 88
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "(b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.",
+       "new": "(b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.",
+       "old_page": 8,
+       "new_page": 8,
+       "words": [],
+       "old_pos": 89,
+       "new_pos": 89
+      }
+     ]
+    },
+    "note": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "caption": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Sustainable Development Goal (SDG)",
+       "new": "Sustainable Development Goal (SDG)",
+       "old_page": 5,
+       "new_page": 5,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      }
+     ]
+    },
+    "table": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Can you think of an incident in your life in which your dignity was violated? How did this make you feel?",
+       "new": "Can you think of an incident in your life in which your dignity was violated? How did this make you feel?",
+       "old_page": 4,
+       "new_page": 4,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Find out about one government scheme in your area. What does this scheme do? Whom is this scheme set up to benefit?",
+       "new": "Find out about one government scheme in your area. What does this scheme do? Whom is this scheme set up to benefit?",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "What is the midday meal programme? Can you list three benefits of the programme? How do you think this programme might help promote greater equality?",
+       "new": "What is the midday meal programme? Can you list three benefits of the programme? How do you think this programme might help promote greater equality?",
+       "old_page": 6,
+       "new_page": 6,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "1. In a democracy why is universal adult franchise important?",
+       "new": "1. In a democracy why is universal adult franchise important?",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
+       "new": "2. Re-read the box on Article 15 and state two ways in which this Article addresses inequality?",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "3. What do you understand by the term “all persons are equal before the law”? Why do you think it is important in a democracy?",
+       "new": "3. What do you understand by the term “all persons are equal before the law”? Why do you think it is important in a democracy?",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "4. According to the Rights of Persons with Disabilities Act, 2016, persons with disabilities have equal rights, and that the government should make possible their full participation in society. The government has to provide http://disabilityaffairs.gov.in free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
+       "new": "4. According to the Rights of Persons with Disabilities Act, 2016, persons with disabilities have equal rights, and that the government should make possible their full participation in society. The government has to provide http://disabilityaffairs.gov.in free education and integrate children with disabilities into mainstream schools. This law also states that all public places including buildings, schools, etc., should be accessible and provided with ramps.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Civil Rights Movement: A movement that began in USA in 1950s in which African–American people demanded equal rights and an end to racial discrimination.",
+       "new": "Civil Rights Movement: A movement that began in USA in 1950s in which African–American people demanded equal rights and an end to racial discrimination.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Constitution: This is a document that lays down the basic rules and regulations for people and the government in the country to follow.",
+       "new": "Constitution: This is a document that lays down the basic rules and regulations for people and the government in the country to follow.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Dignity: This refers to thinking of oneself and other persons as worthy of respect.",
+       "new": "Dignity: This refers to thinking of oneself and other persons as worthy of respect.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?",
+       "new": "Look at the photograph and think about the boy who is being carried down the stairs. Do you think the above law is being implemented in his case? What needs to be done to make the building more accessible for him? How would his being carried down the stairs affect his dignity as well as his safety?",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.",
+       "new": "Universal adult franchise: This is a very important aspect of democratic societies. It means that all adult (those who are 18 and above) citizens have the right to vote irrespective of their social or economic backgrounds.",
+       "old_page": 9,
+       "new_page": 9,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 8
+      }
+     ]
+    },
+    "source": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "exercises": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "glossary": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "references": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "teachers-note": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    }
+   },
+   "pages": {
+    "old": [
+     {
+      "page": 3,
+      "new_page": 3,
+      "sentences": 14,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 4,
+      "new_page": 4,
+      "sentences": 17,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 5,
+      "new_page": 5,
+      "sentences": 16,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 6,
+      "new_page": 6,
+      "sentences": 19,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 7,
+      "new_page": 7,
+      "sentences": 18,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 8,
+      "new_page": 8,
+      "sentences": 13,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 9,
+      "new_page": 9,
+      "sentences": 9,
+      "score": 1.0,
+      "suspect": false
+     }
+    ],
+    "new": [],
+    "suspect": 0
+   }
+  },
+  {
+   "from": {
+    "number": 2,
+    "part": null,
+    "title": "Role of the Government in Health",
+    "file": "texts/social-political-life-2/2024-05-24/02-role-of-the-government-in-health.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 3,
+    "part": null,
+    "title": "How the State Government Works",
+    "file": "texts/social-political-life-2/2024-05-24/03-how-the-state-government-works.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 4,
+    "part": null,
+    "title": "Growing up as Boys and Girls",
+    "file": "texts/social-political-life-2/2024-05-24/04-growing-up-as-boys-and-girls.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 5,
+    "part": null,
+    "title": "Women Change the World",
+    "file": "texts/social-political-life-2/2024-05-24/05-women-change-the-world.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 6,
+    "part": null,
+    "title": "Understanding Media",
+    "file": "texts/social-political-life-2/2024-05-24/06-understanding-media.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 7,
+    "part": null,
+    "title": "Markets Around Us",
+    "file": "texts/social-political-life-2/2024-05-24/07-markets-around-us.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 8,
+    "part": null,
+    "title": "A Shirt in the Market",
+    "file": "texts/social-political-life-2/2024-05-24/08-a-shirt-in-the-market.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  }
+ ]
+}

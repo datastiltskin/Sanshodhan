@@ -1,0 +1,2783 @@
+{
+ "book": "our-pasts-1",
+ "from": "2021-partial",
+ "to": "2022-partial-ocr",
+ "ocr": true,
+ "summary": {
+  "chapters_dropped": 10,
+  "chapters_added": 0,
+  "body": {
+   "deleted": 2,
+   "inserted": 4,
+   "modified": 8,
+   "moved": 3,
+   "typographic": 0,
+   "restreamed": 4,
+   "resplit": 1,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "other_streams": {
+   "deleted": 10,
+   "inserted": 7,
+   "modified": 6,
+   "moved": 0,
+   "typographic": 5,
+   "restreamed": 13,
+   "resplit": 5,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "suspect_pages": 0
+ },
+ "chapters": [
+  {
+   "from": {
+    "number": 1,
+    "part": null,
+    "title": "CHAPTER 1 WHAT, WHERE, HO, WHERE, HOW AND WHEN?",
+    "file": "texts/our-pasts-1/2021-partial/01-chapter-1-what-where-ho-where-how-and-when.md"
+   },
+   "to": {
+    "number": 1,
+    "part": null,
+    "title": "CHAPTER 1 WHAT, WHERE, HO, WHERE, HOW AND WHEN?",
+    "file": "texts/our-pasts-1/2022-partial-ocr/01-chapter-1-what-where-ho-where-how-and-when.md"
+   },
+   "similarity": 0.867,
+   "status": "matched",
+   "streams": {
+    "heading": {
+     "counts": {
+      "deleted": 4,
+      "inserted": 1,
+      "modified": 1,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 8,
+      "resplit": 1,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "inserted",
+       "stream": "heading",
+       "similarity": null,
+       "old": null,
+       "new": "turn to page 37. away by insects, some were destroyed, but many",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 0
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "CHAPTER 1 WHAT, WHERE, HO, WHERE, HOW AND WHEN?",
+       "new": null,
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "P T O L M I I S",
+       "new": null,
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "K L I O P A D (T) R A",
+       "new": null,
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": null
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "Elsewhere",
+       "new": "Elsewhere",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 1
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "Let’s discuss",
+       "new": null,
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": null
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "Imagine",
+       "new": "Imagine",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "heading",
+       "similarity": 1.0,
+       "old": "Let’s recall",
+       "new": "Let’s recall",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 3
+      },
+      {
+       "type": "modified",
+       "stream": "heading",
+       "similarity": 0.842,
+       "old": "Let’s do",
+       "new": "Let’s do Oy",
+       "old_page": 10,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "Let’s do"
+        ],
+        [
+         "+",
+         "Oy"
+        ]
+       ],
+       "old_pos": 15,
+       "new_pos": 4
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
+       "old": "Rasheeda’s question",
+       "new": "Rasheeda’s question",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 0
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
+       "old": "Finding out what happened",
+       "new": "Finding out what happened",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 1
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
+       "old": "Where did people live?",
+       "new": "Where did people live?",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 8
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>table",
+       "similarity": 1.0,
+       "old": "Names of the land",
+       "new": "Names of the land",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 2
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>body",
+       "similarity": 1.0,
+       "old": "Finding out about the past",
+       "new": "Finding out about the past",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 48
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>table",
+       "similarity": 1.0,
+       "old": "What do dates mean?",
+       "new": "What do dates mean?",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 3
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>table",
+       "similarity": 1.0,
+       "old": "Letters with dates",
+       "new": "Letters with dates",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 4
+      },
+      {
+       "type": "restreamed",
+       "stream": "heading>exercises",
+       "similarity": 1.0,
+       "old": "DATES",
+       "new": "DATES",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 19
+      },
+      {
+       "type": "resplit",
+       "stream": "heading>exercises",
+       "similarity": 1.0,
+       "old": "Keywords travelling manuscript inscription archaeology historian source decipherment",
+       "new": "KEYWORDS travelling manuscript inscription archaeology historian source decipherment",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 2
+      }
+     ]
+    },
+    "body": {
+     "counts": {
+      "deleted": 2,
+      "inserted": 4,
+      "modified": 8,
+      "moved": 3,
+      "typographic": 0,
+      "restreamed": 4,
+      "resplit": 1,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "These were usually written on palm leaf,",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 54
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "To see a as the birch, which grows in the Himalayas. birch bark manuscript, Over the years, many manuscripts were eaten",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 56
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "have survived, often preserved in temples and monasteries.",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 57
+      },
+      {
+       "type": "inserted",
+       "stream": "body",
+       "similarity": null,
+       "old": null,
+       "new": "of the country.",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 88
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.912,
+       "old": "What can we kno e know about the past?",
+       "new": "What can we know about the past?",
+       "old_page": 1,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "What can we"
+        ],
+        [
+         "-",
+         "kno e"
+        ],
+        [
+         "=",
+         "know about the past?"
+        ]
+       ],
+       "old_pos": 4,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Yesterday: you could listen to the radio, watch television, read a newspaper.",
+       "new": "Yesterday: you could listen to the radio, watch television, read a newspaper.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 2
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Last year: ask somebody who remembers.",
+       "new": "Last year: ask somebody who remembers.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "There are several things we can find out — what people ate, the kinds of clothes they wore, the houses in which they lived.",
+       "new": "There are several things we can find out — what people ate, the kinds of clothes they wore, the houses in which they lived.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We can find out about the lives of hunters, herders, farmers, rulers, merchants, priests, crafts persons, artists, musicians, and scientists.",
+       "new": "We can find out about the lives of hunters, herders, farmers, rulers, merchants, priests, crafts persons, artists, musicians, and scientists.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We can also find out about the games children played, the stories they heard, the plays they saw, the songs they sang.",
+       "new": "We can also find out about the games children played, the stories they heard, the plays they saw, the songs they sang.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Find the river Narmada on Map 1 (page 2).",
+       "new": "Find the river Narmada on Map 1 (page 2).",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "People have lived along the banks of this river for several hundred thousand years.",
+       "new": "People have lived along the banks of this river for several hundred thousand years.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 10
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Some of the earliest people who lived here were skilled gatherers, — that is, people who gathered their food.",
+       "new": "Some of the earliest people who lived here were skilled gatherers, — that is, people who gathered their food.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They knew about the vast wealth of plants in the surrounding forests, and collected roots, fruits and other forest produce for their food.",
+       "new": "They knew about the vast wealth of plants in the surrounding forests, and collected roots, fruits and other forest produce for their food.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They also hunted animals.",
+       "new": "They also hunted animals.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Now find the Sulaiman and Kirthar hills to the northwest.",
+       "new": "Now find the Sulaiman and Kirthar hills to the northwest.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Some of the areas where women and men first began to grow crops such as wheat and barley about 8000 years ago are located here.",
+       "new": "Some of the areas where women and men first began to grow crops such as wheat and barley about 8000 years ago are located here.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "People also began rearing animals like sheep, goat, and cattle, and lived in villages.",
+       "new": "People also began rearing animals like sheep, goat, and cattle, and lived in villages.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 16
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Locate the Garo hills to the north-east and the Vindhyas in central India.",
+       "new": "Locate the Garo hills to the north-east and the Vindhyas in central India.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 17
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These were some of the other areas where agriculture developed.",
+       "new": "These were some of the other areas where agriculture developed.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The places where rice was first grown are to the north of the Vindhyas.",
+       "new": "The places where rice was first grown are to the north of the Vindhyas.",
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 19
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Trace the river Indus and its tributaries (tributaries are smaller rivers that flow into a larger river).",
+       "new": "Trace the river Indus and its tributaries (tributaries are smaller rivers that flow into a larger river).",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": 20
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "About 4700 years ago, some of the earliest cities flourished on the banks of these rivers.",
+       "new": "About 4700 years ago, some of the earliest cities flourished on the banks of these rivers.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 20,
+       "new_pos": 21
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Later, about 2500 years ago, cities developed on the banks of the Ganga and its tributaries, and along the sea coasts.",
+       "new": "Later, about 2500 years ago, cities developed on the banks of the Ganga and its tributaries, and along the sea coasts.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": 22
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Locate the Ganga and its tributary called the Son.",
+       "new": "Locate the Ganga and its tributary called the Son.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": 23
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In ancient times the area along these rivers to the south of the Ganga was known as Magadha now lying in the state of Bihar.",
+       "new": "In ancient times the area along these rivers to the south of the Ganga was known as Magadha now lying in the state of Bihar.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": 24
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Its rulers were very powerful, and set up a large kingdom.",
+       "new": "Its rulers were very powerful, and set up a large kingdom.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": 25
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Kingdoms were set up in other parts of the country as well.",
+       "new": "Kingdoms were set up in other parts of the country as well.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 25,
+       "new_pos": 26
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Throughout, people travelled from one part of the subcontinent to another.",
+       "new": "Throughout, people travelled from one part of the subcontinent to another.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 26,
+       "new_pos": 27
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The hills and high mountains including the Himalayas, deserts, rivers and seas made journeys dangerous at times, but never impossible.",
+       "new": "The hills and high mountains including the Himalayas, deserts, rivers and seas made journeys dangerous at times, but never impossible.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 27,
+       "new_pos": 28
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "So, men and women moved in search of livelihood, as also to escape from natural disasters like floods or droughts.",
+       "new": "So, men and women moved in search of livelihood, as also to escape from natural disasters like floods or droughts.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": 29
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Sometimes men marched in armies, conquering others’ lands.",
+       "new": "Sometimes men marched in armies, conquering others’ lands.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 29,
+       "new_pos": 30
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Besides, merchants travelled with caravans or ships, carrying valuable goods from place to place.",
+       "new": "Besides, merchants travelled with caravans or ships, carrying valuable goods from place to place.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 30,
+       "new_pos": 31
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "And religious teachers walked from village to village, town to town, stopping to offer instruction and advice on the way.",
+       "new": "And religious teachers walked from village to village, town to town, stopping to offer instruction and advice on the way.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 31,
+       "new_pos": 32
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Finally, some people perhaps travelled driven by a spirit of adventure, wanting to discover new and exciting places.",
+       "new": "Finally, some people perhaps travelled driven by a spirit of adventure, wanting to discover new and exciting places.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 32,
+       "new_pos": 33
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "All these led to the sharing of ideas between people.",
+       "new": "All these led to the sharing of ideas between people.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 33,
+       "new_pos": 34
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Why do people travel nowadays?",
+       "new": "Why do people travel nowadays?",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 34,
+       "new_pos": 35
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Look at Map 1 once more.",
+       "new": "Look at Map 1 once more.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 35,
+       "new_pos": 36
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Hills, mountains and seas form the natural frontiers of the subcontinent.",
+       "new": "Hills, mountains and seas form the natural frontiers of the subcontinent.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 36,
+       "new_pos": 37
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "While it was difficult to cross these frontiers, those who wanted could and did scale the mountains and cross the seas.",
+       "new": "While it was difficult to cross these frontiers, those who wanted could and did scale the mountains and cross the seas.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": 38
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "People from across the frontiers also came into the subcontinent and settled here.",
+       "new": "People from across the frontiers also came into the subcontinent and settled here.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": 39
+      },
+      {
+       "type": "deleted",
+       "stream": "body",
+       "similarity": null,
+       "old": "Over the years, many manuscripts were eaten away by insects, some were destroyed, but many have survived, often preserved in temples and monasteries.",
+       "new": null,
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 51,
+       "new_pos": null
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.912,
+       "old": "One is to search for and read books that were written long ago.",
+       "new": "One is to search for and read books that manuscript. were written long ago.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "One is to search for and read books that"
+        ],
+        [
+         "+",
+         "manuscript."
+        ],
+        [
+         "=",
+         "were written long ago."
+        ]
+       ],
+       "old_pos": 48,
+       "new_pos": 50
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.813,
+       "old": "These are called manuscripts, because they were written by hand (this comes from the Latin word ‘manu’, meaning hand).",
+       "new": "These are called This manuscript was manuscripts, because they were written by hand written about a thousand (this comes from the Latin word ‘manu’, meaning",
+       "old_page": 4,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "These are called"
+        ],
+        [
+         "+",
+         "This manuscript was"
+        ],
+        [
+         "=",
+         "manuscripts, because they were written by hand"
+        ],
+        [
+         "+",
+         "written about a thousand"
+        ],
+        [
+         "=",
+         "(this comes from the Latin word ‘manu’, meaning"
+        ],
+        [
+         "-",
+         "hand)."
+        ]
+       ],
+       "old_pos": 49,
+       "new_pos": 51
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.812,
+       "old": "There are several ways of finding out about the past.",
+       "new": "There are several ways of finding out about the A page from a palm leaf past.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "There are several ways of finding out about the"
+        ],
+        [
+         "+",
+         "A page from a palm leaf"
+        ],
+        [
+         "=",
+         "past."
+        ]
+       ],
+       "old_pos": 47,
+       "new_pos": 49
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.589,
+       "old": "These were usually written on palm leaf, or on the specially prepared bark of a tree known as the birch, which grows in the Himalayas.",
+       "new": "and tied together to or on the specially prepared bark of a tree known make books.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [
+        [
+         "-",
+         "These were usually written on palm leaf,"
+        ],
+        [
+         "+",
+         "and tied together to"
+        ],
+        [
+         "=",
+         "or on the specially prepared bark of a tree known"
+        ],
+        [
+         "-",
+         "as the birch, which grows in the Himalayas."
+        ],
+        [
+         "+",
+         "make books."
+        ]
+       ],
+       "old_pos": 50,
+       "new_pos": 55
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These movements of people enriched our cultural traditions.",
+       "new": "These movements of people enriched our cultural traditions.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 39,
+       "new_pos": 40
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "People have shared new ways of carving stone, composing music, and even cooking food over several hundreds of years.",
+       "new": "People have shared new ways of carving stone, composing music, and even cooking food over several hundreds of years.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 40,
+       "new_pos": 41
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Two of the words we often use for our country are India and Bharat.",
+       "new": "Two of the words we often use for our country are India and Bharat.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 41,
+       "new_pos": 42
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The word India comes from the Indus, called Sindhu in Sanskrit.",
+       "new": "The word India comes from the Indus, called Sindhu in Sanskrit.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 42,
+       "new_pos": 43
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Find Iran and Greece in your atlas.",
+       "new": "Find Iran and Greece in your atlas.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": 44
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The Iranians and the Greeks who came through the northwest about 2500 years ago and were familiar with the Indus, called it the Hindos or the Indos, and the land to the east of the river was called India.",
+       "new": "The Iranians and the Greeks who came through the northwest about 2500 years ago and were familiar with the Indus, called it the Hindos or the Indos, and the land to the east of the river was called India.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 44,
+       "new_pos": 45
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "The name Bharata was used for a group of people who lived in the north-west, and who are mentioned in the Rigveda, the earliest composition in Sanskrit (dated to about 3500 years ago).",
+       "new": "The name Bharata was used for a group of people who lived in the north-west, and who are mentioned in the Rigveda, the earliest composition in Sanskrit (dated to about 3500 years ago).",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 45,
+       "new_pos": 46
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Later it was used for the country.",
+       "new": "Later it was used for the country.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 46,
+       "new_pos": 47
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These books dealt with all kinds of subjects: religious beliefs and practices, the lives of kings, medicine and science.",
+       "new": "These books dealt with all kinds of subjects: religious beliefs and practices, the lives of kings, medicine and science.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 52,
+       "new_pos": 58
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Besides, there were epics, poems, plays.",
+       "new": "Besides, there were epics, poems, plays.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 53,
+       "new_pos": 59
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Many of these were written in Sanskrit, others were in Prakrit (languages used by ordinary people) and Tamil.",
+       "new": "Many of these were written in Sanskrit, others were in Prakrit (languages used by ordinary people) and Tamil.",
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 54,
+       "new_pos": 60
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.916,
+       "old": "Can you think of the advantages of writing on a hard surface?",
+       "new": "Can you think of [am ¥ the advantages of ‘ NS writing on a hard surface?",
+       "old_page": 5,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "Can you think of"
+        ],
+        [
+         "+",
+         "[am ¥"
+        ],
+        [
+         "=",
+         "the advantages of"
+        ],
+        [
+         "+",
+         "‘ NS"
+        ],
+        [
+         "=",
+         "writing on a hard surface?"
+        ]
+       ],
+       "old_pos": 60,
+       "new_pos": 66
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We can also study inscriptions.",
+       "new": "We can also study inscriptions.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 55,
+       "new_pos": 61
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These are writings on relatively hard surfaces such as stone or metal.",
+       "new": "These are writings on relatively hard surfaces such as stone or metal.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 56,
+       "new_pos": 62
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Sometimes, kings got their orders inscribed so that people could see, read and obey them.",
+       "new": "Sometimes, kings got their orders inscribed so that people could see, read and obey them.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 57,
+       "new_pos": 63
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "There are other kinds of inscriptions as well, where men and women (including kings and queens) recorded what they did.",
+       "new": "There are other kinds of inscriptions as well, where men and women (including kings and queens) recorded what they did.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 58,
+       "new_pos": 64
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "For example, kings often kept records of victories in battle.",
+       "new": "For example, kings often kept records of victories in battle.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 59,
+       "new_pos": 65
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "And what could have been the difficulties?",
+       "new": "And what could have been the difficulties?",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 61,
+       "new_pos": 67
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "There were many other things that were made and used in the past.",
+       "new": "There were many other things that were made and used in the past.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 62,
+       "new_pos": 68
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Those who study these objects are called archaeologists.",
+       "new": "Those who study these objects are called archaeologists.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 63,
+       "new_pos": 69
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They study the remains of buildings made of stone and brick, paintings and sculpture.",
+       "new": "They study the remains of buildings made of stone and brick, paintings and sculpture.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 64,
+       "new_pos": 70
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They also explore and excavate (dig under the surface of the earth) to find tools, weapons, pots, pans, ornaments and coins.",
+       "new": "They also explore and excavate (dig under the surface of the earth) to find tools, weapons, pots, pans, ornaments and coins.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 65,
+       "new_pos": 71
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Some of these objects may be made of stone, others of bone, baked clay or metal.",
+       "new": "Some of these objects may be made of stone, others of bone, baked clay or metal.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 66,
+       "new_pos": 72
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Objects that are made of hard, imperishable substances usually survive for a long time.",
+       "new": "Objects that are made of hard, imperishable substances usually survive for a long time.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 67,
+       "new_pos": 73
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.865,
+       "old": "One past or many? y?y?",
+       "new": "One past or many?",
+       "old_page": 6,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "One past or many?"
+        ],
+        [
+         "-",
+         "y?y?"
+        ]
+       ],
+       "old_pos": 74,
+       "new_pos": 80
+      },
+      {
+       "type": "modified",
+       "stream": "body",
+       "similarity": 0.816,
+       "old": "Also, as is true even today, people followed different practices and customs in different parts of the country.",
+       "new": "Also, as is true even today, people followed different practices and customs in different parts Besides, there is another kind of difference.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "Also, as is true even today, people followed different practices and customs in different parts"
+        ],
+        [
+         "+",
+         "Besides, there is another kind"
+        ],
+        [
+         "=",
+         "of"
+        ],
+        [
+         "-",
+         "the country."
+        ],
+        [
+         "+",
+         "difference."
+        ]
+       ],
+       "old_pos": 78,
+       "new_pos": 84
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Archaeologists also look for bones — of animals, birds, and fish — to find out what people ate in the past.",
+       "new": "Archaeologists also look for bones — of animals, birds, and fish — to find out what people ate in the past.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 68,
+       "new_pos": 74
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Plant remains survive far more rarely — if seeds of grain or pieces of wood have been burnt, they survive in a charred form.",
+       "new": "Plant remains survive far more rarely — if seeds of grain or pieces of wood have been burnt, they survive in a charred form.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 69,
+       "new_pos": 75
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Do you think cloth is found frequently by archaeologists?",
+       "new": "Do you think cloth is found frequently by archaeologists?",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 70,
+       "new_pos": 76
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Historians, that is, scholars who study the past, often use the word source to refer to the information found from manuscripts, inscriptions and archaeology.",
+       "new": "Historians, that is, scholars who study the past, often use the word source to refer to the information found from manuscripts, inscriptions and archaeology.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 71,
+       "new_pos": 77
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Once sources are found, learning about the past becomes an adventure, as we reconstruct it bit by bit.",
+       "new": "Once sources are found, learning about the past becomes an adventure, as we reconstruct it bit by bit.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 72,
+       "new_pos": 78
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "So historians and archaeologists are like detectives, who use all these sources like clues to find out about our pasts.",
+       "new": "So historians and archaeologists are like detectives, who use all these sources like clues to find out about our pasts.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 73,
+       "new_pos": 79
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Did you notice the title of this book, Our Pasts?",
+       "new": "Did you notice the title of this book, Our Pasts?",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 75,
+       "new_pos": 81
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We have used the word ‘pasts’ in plural to draw attention to the fact that the past was different for different groups of people.",
+       "new": "We have used the word ‘pasts’ in plural to draw attention to the fact that the past was different for different groups of people.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 76,
+       "new_pos": 82
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "For example, the lives of herders or farmers were different from those of kings and queens, the lives of merchants were different from those of crafts persons, and so on.",
+       "new": "For example, the lives of herders or farmers were different from those of kings and queens, the lives of merchants were different from those of crafts persons, and so on.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 77,
+       "new_pos": 83
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "For example, today most people living in the Andaman Islands get their own food by fishing, hunting, and collecting forest produce.",
+       "new": "For example, today most people living in the Andaman Islands get their own food by fishing, hunting, and collecting forest produce.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 79,
+       "new_pos": 89
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "By contrast, most people living in cities depend on others for supplies of food.",
+       "new": "By contrast, most people living in cities depend on others for supplies of food.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 80,
+       "new_pos": 90
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Differences such as these existed in the past as well.",
+       "new": "Differences such as these existed in the past as well.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 81,
+       "new_pos": 91
+      },
+      {
+       "type": "deleted",
+       "stream": "body",
+       "similarity": null,
+       "old": "Besides, there is another kind of difference.",
+       "new": null,
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 82,
+       "new_pos": null
+      },
+      {
+       "type": "moved",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We know a great deal about kings and the battles they fought because they kept records of their victories.",
+       "new": "We know a great deal about kings and the battles they fought because they kept records of their victories.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 83,
+       "new_pos": 85
+      },
+      {
+       "type": "moved",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Generally, ordinary people such as hunters, fishing folk, gatherers, farmers or herders did not keep records of what they did.",
+       "new": "Generally, ordinary people such as hunters, fishing folk, gatherers, farmers or herders did not keep records of what they did.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 84,
+       "new_pos": 86
+      },
+      {
+       "type": "moved",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "While archaeology helps us to find out about their lives, there is much that remains unknown.",
+       "new": "While archaeology helps us to find out about their lives, there is much that remains unknown.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 85,
+       "new_pos": 87
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "If somebody asks you the date, you will probably mention the day, month and year, 2000 and something.",
+       "new": "If somebody asks you the date, you will probably mention the day, month and year, 2000 and something.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 86,
+       "new_pos": 92
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "These years are counted from the date generally assigned to the birth of Jesus Christ, the founder of Christianity.",
+       "new": "These years are counted from the date generally assigned to the birth of Jesus Christ, the founder of Christianity.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 87,
+       "new_pos": 93
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "So, 2000 means 2000 years after the birth of Christ.",
+       "new": "So, 2000 means 2000 years after the birth of Christ.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 88,
+       "new_pos": 94
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "All dates before the birth of Christ are counted backwards and usually have the letters BC (Before Christ) added on.",
+       "new": "All dates before the birth of Christ are counted backwards and usually have the letters BC (Before Christ) added on.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 89,
+       "new_pos": 95
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "In this book, we will refer to dates going back from the present, using 2000 as our starting point.",
+       "new": "In this book, we will refer to dates going back from the present, using 2000 as our starting point.",
+       "old_page": 7,
+       "new_page": null,
+       "words": [],
+       "old_pos": 90,
+       "new_pos": 96
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "We have seen that inscriptions are inscribed on hard surfaces.",
+       "new": "We have seen that inscriptions are inscribed on hard surfaces.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 95,
+       "new_pos": 97
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Many of these were inscribed several hundreds of years ago.",
+       "new": "Many of these were inscribed several hundreds of years ago.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 96,
+       "new_pos": 98
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "All inscriptions contain both scripts and languages.",
+       "new": "All inscriptions contain both scripts and languages.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 97,
+       "new_pos": 99
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Languages which were used, as well as scripts, have changed over time.",
+       "new": "Languages which were used, as well as scripts, have changed over time.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 98,
+       "new_pos": 100
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "So how do scholars understand what was inscribed?",
+       "new": "So how do scholars understand what was inscribed?",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 99,
+       "new_pos": 101
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "This can be done through a process known as decipherment.",
+       "new": "This can be done through a process known as decipherment.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 100,
+       "new_pos": 102
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Rosetta is a town on the north coast of Egypt, and here an inscribed stone was found, which contained inscriptions in three different languages and scripts (Greek, and two forms of Egyptian).",
+       "new": "Rosetta is a town on the north coast of Egypt, and here an inscribed stone was found, which contained inscriptions in three different languages and scripts (Greek, and two forms of Egyptian).",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 101,
+       "new_pos": 104
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "Scholars who could read Greek figured out that the names of kings and queens were enclosed in a little frame, called a cartouche.",
+       "new": "Scholars who could read Greek figured out that the names of kings and queens were enclosed in a little frame, called a cartouche.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 102,
+       "new_pos": 105
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "They then placed the Greek and the Egyptian signs side by side, and identified the sounds for which the Egyptian letters stood.",
+       "new": "They then placed the Greek and the Egyptian signs side by side, and identified the sounds for which the Egyptian letters stood.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 103,
+       "new_pos": 106
+      },
+      {
+       "type": "equal",
+       "stream": "body",
+       "similarity": 1.0,
+       "old": "As you can see, a lion stood for L, and a bird for A. Once they knew what the letters stood for, they could read other inscriptions as well.",
+       "new": "As you can see, a lion stood for L, and a bird for A. Once they knew what the letters stood for, they could read other inscriptions as well.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 104,
+       "new_pos": 107
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>caption",
+       "similarity": 1.0,
+       "old": "Sometimes CE is used instead of AD and BCE instead of BC.",
+       "new": "Sometimes CE is used instead of AD and BCE instead of BC.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 91,
+       "new_pos": 21
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>caption",
+       "similarity": 1.0,
+       "old": "The letters CE stand for ‘Common Era’ and BCE for ‘Before Common Era’.",
+       "new": "The letters CE stand for ‘Common Era’ and BCE for ‘Before Common Era’.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 92,
+       "new_pos": 22
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>caption",
+       "similarity": 1.0,
+       "old": "We use these terms because the Christian Era is now used in most countries of the world.",
+       "new": "We use these terms because the Christian Era is now used in most countries of the world.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 93,
+       "new_pos": 23
+      },
+      {
+       "type": "restreamed",
+       "stream": "body>caption",
+       "similarity": 1.0,
+       "old": "In India we began using this form of dating from about two hundred years ago.",
+       "new": "In India we began using this form of dating from about two hundred years ago.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 94,
+       "new_pos": 24
+      },
+      {
+       "type": "resplit",
+       "stream": "body>table",
+       "similarity": 1.0,
+       "old": "But what about long, long ago? Let us see how it can be done.",
+       "new": "But what about long, long ago? Let us see how it can be done.",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 1
+      }
+     ]
+    },
+    "note": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "caption": {
+     "counts": {
+      "deleted": 4,
+      "inserted": 5,
+      "modified": 1,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "or, re f pls EP ue 5 S pa a ad > a MAP : 1 / hy Physical Map of the Subcontinent suns on 2 4 Es . a ₹ 4 t ef j te { / ) 7 ie \\ ; ee 4 es Vindhyas FS\\ | \\ i SRE, dwn \\ } ae Satpura en Melita, — ae at al ( <7 , a al — Tapti R. po My On, ( $\\ 4 Godavari R. \\ \\ (= Bay of Bengal \\ =, \\ DECCAN & % Krishna R. he \\ ; m > 2 at Ae oS iz WB 0 on 4 os ma: \\ aoe ny & th | c= ~, a) a ey t } % v a9 t =. ae ~ N Sketch Map ‘sy Indian Ocean A Not to Scale m2 OUR PASTS—I",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 0
+      },
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "5",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 10
+      },
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "7",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 16
+      },
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "P A DQ) R A a8",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 27
+      },
+      {
+       "type": "inserted",
+       "stream": "caption",
+       "similarity": null,
+       "old": null,
+       "new": "years ago.",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 28
+      },
+      {
+       "type": "deleted",
+       "stream": "caption",
+       "similarity": null,
+       "old": "MAP : 1 Physical Map of the Subcontinent",
+       "new": null,
+       "old_page": 2,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": null
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Facing Page: This is a map of South Asia (including the present countries of India, Pakistan, Bangladesh, Nepal, Bhutan and Sri Lanka) and the neighbouring countries of Afghanistan, Iran, China and Myanmar.",
+       "new": "Facing Page: This is a map of South Asia (including the present countries of India, Pakistan, Bangladesh, Nepal, Bhutan and Sri Lanka) and the neighbouring countries of Afghanistan, Iran, China and Myanmar.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "South Asia is often called a subcontinent because although it is smaller than a continent, it is very large, and is separated from the rest of Asia by seas, hills and mountains.",
+       "new": "South Asia is often called a subcontinent because although it is smaller than a continent, it is very large, and is separated from the rest of Asia by seas, hills and mountains.",
+       "old_page": 3,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 2
+      },
+      {
+       "type": "deleted",
+       "stream": "caption",
+       "similarity": null,
+       "old": "A page from a palm leaf manuscript.",
+       "new": null,
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "caption",
+       "similarity": null,
+       "old": "This manuscript was written about a thousand years ago.",
+       "new": null,
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "caption",
+       "similarity": null,
+       "old": "To see a birch bark manuscript, turn to page 37.",
+       "new": null,
+       "old_page": 4,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": null
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "An old inscription.",
+       "new": "An old inscription.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 3
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "This inscription dates to about 2250 years ago, and was found in Kandahar, present-day Afghanistan.",
+       "new": "This inscription dates to about 2250 years ago, and was found in Kandahar, present-day Afghanistan.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 4
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "It was inscribed on the orders of a ruler named Ashoka.",
+       "new": "It was inscribed on the orders of a ruler named Ashoka.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 5
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "You will read about him in Chapter 8. When we write anything, we use a script.",
+       "new": "You will read about him in Chapter 8. When we write anything, we use a script.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Scripts consist of letters or signs.",
+       "new": "Scripts consist of letters or signs.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 7
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "When we read what is written, or speak, we use a language.",
+       "new": "When we read what is written, or speak, we use a language.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "This inscription was inscribed in two different scripts and languages, Greek (top) and Aramaic (below), which were used in this area.",
+       "new": "This inscription was inscribed in two different scripts and languages, Greek (top) and Aramaic (below), which were used in this area.",
+       "old_page": 5,
+       "new_page": null,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Left : A pot from an old city.",
+       "new": "Left : A pot from an old city.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Pots like these were used about 4700 years ago.",
+       "new": "Pots like these were used about 4700 years ago.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Right : An old silver coin.",
+       "new": "Right : An old silver coin.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": 13
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "Coins such as this one were in use from about 2500 years ago.",
+       "new": "Coins such as this one were in use from about 2500 years ago.",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 17,
+       "new_pos": 14
+      },
+      {
+       "type": "equal",
+       "stream": "caption",
+       "similarity": 1.0,
+       "old": "In what ways is the coin different from the ones we use today?",
+       "new": "In what ways is the coin different from the ones we use today?",
+       "old_page": 6,
+       "new_page": null,
+       "words": [],
+       "old_pos": 18,
+       "new_pos": 15
+      },
+      {
+       "type": "modified",
+       "stream": "caption>body",
+       "similarity": 0.709,
+       "old": "The palm leaves were cut into pages and tied together to make books.",
+       "new": "The palm . leaves were cut into pages hand).",
+       "old_page": 4,
+       "new_page": null,
+       "words": [
+        [
+         "=",
+         "The palm"
+        ],
+        [
+         "+",
+         "."
+        ],
+        [
+         "=",
+         "leaves were cut into pages"
+        ],
+        [
+         "-",
+         "and tied together to make books."
+        ],
+        [
+         "+",
+         "hand)."
+        ]
+       ],
+       "old_pos": 5,
+       "new_pos": 53
+      }
+     ]
+    },
+    "table": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 3,
+      "resplit": 3,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "equal",
+       "stream": "table",
+       "similarity": 1.0,
+       "old": "Rasheeda sat reading the newspaper. Suddenly, her eyes fell on a small headline: “One Hundred Years Ago.” How, she wondered, could anyone know what had happened so many years ago?",
+       "new": "Rasheeda sat reading the newspaper. Suddenly, her eyes fell on a small headline: “One Hundred Years Ago.” How, she wondered, could anyone know what had happened so many years ago?",
+       "old_page": 1,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "restreamed",
+       "stream": "table>caption",
+       "similarity": 1.0,
+       "old": "And sometimes, the letters BP meaning ‘Before Present’ are used.",
+       "new": "And sometimes, the letters BP meaning ‘Before Present’ are used.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 25
+      },
+      {
+       "type": "restreamed",
+       "stream": "table>caption",
+       "similarity": 1.0,
+       "old": "Find two dates mentioned on page 3. Which set of letters would you use for them?",
+       "new": "Find two dates mentioned on page 3. Which set of letters would you use for them?",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 26
+      },
+      {
+       "type": "resplit",
+       "stream": "table>caption",
+       "similarity": 1.0,
+       "old": "You will sometimes find AD before dates. This stands for two Latin words, ‘Anno Domini’, meaning ‘in the year of the Lord’ (i.e. Christ). So 2012 can also be written as AD 2012.",
+       "new": "You will sometimes find AD before dates. This stands for two Latin words, ‘Anno Domini’, meaning ‘in the year of the Lord’ (i.e. Christ). So 2012 can also be written as AD 2012.",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 18
+      },
+      {
+       "type": "resplit",
+       "stream": "table>body",
+       "similarity": 1.0,
+       "old": "One of the most famous stories of decipherment comes from Egypt, a country in north Africa where there were kings and queens about 5000 years ago.",
+       "new": "years ago. One of the most famous stories of decipherment comes from Egypt, a country in north Africa where there were kings and queens about 5000",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 52
+      },
+      {
+       "type": "resplit",
+       "stream": "table>body",
+       "similarity": 1.0,
+       "old": "You have to interview an archaeologist. Prepare a list of five questions that you would like to ask her/him.",
+       "new": "You have to interview an archaeologist. Prepare a list of five questions that you would like to ask her/him.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 108
+      },
+      {
+       "type": "restreamed",
+       "stream": "table>caption",
+       "similarity": 1.0,
+       "old": "BC, we have seen stands for ‘Before Christ.’",
+       "new": "BC, we have seen stands for “Before Christ.’",
+       "old_page": 8,
+       "new_page": null,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 17
+      }
+     ]
+    },
+    "source": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "exercises": {
+     "counts": {
+      "deleted": 2,
+      "inserted": 1,
+      "modified": 4,
+      "moved": 0,
+      "typographic": 5,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "inserted",
+       "stream": "exercises",
+       "similarity": null,
+       "old": null,
+       "new": "9",
+       "old_page": null,
+       "new_page": null,
+       "words": [],
+       "old_pos": null,
+       "new_pos": 9
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Can you think of some answers to it?",
+       "new": "Can you think of some answers to it?",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 8
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "2. List one major difference between manuscripts and inscriptions.",
+       "new": "2. List one major difference between manuscripts and inscriptions.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 6
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "1. Match the following:",
+       "new": "1. Match the following:",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 0
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Narmada Valley The first big kingdom",
+       "new": "Narmada Valley The first big kingdom",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 1,
+       "new_pos": 1
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "3. Return to Rasheeda’s question.",
+       "new": "3. Return to Rasheeda’s question.",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": 7
+      },
+      {
+       "type": "deleted",
+       "stream": "exercises",
+       "similarity": null,
+       "old": "2000 AD/CE)",
+       "new": null,
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 19,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "exercises",
+       "similarity": null,
+       "old": "Indus (4700 years ago)",
+       "new": null,
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": null
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.986,
+       "old": "u cities in the Ganga valley, a big kingdom in Magadha (2500 years ago)",
+       "new": "> cities in the Ganga valley, a big kingdom in Magadha (2500 years ago)",
+       "old_page": 10,
+       "new_page": null,
+       "words": [
+        [
+         "-",
+         "u"
+        ],
+        [
+         "+",
+         ">"
+        ],
+        [
+         "=",
+         "cities in the Ganga valley, a big kingdom in Magadha (2500 years ago)"
+        ]
+       ],
+       "old_pos": 17,
+       "new_pos": 22
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.979,
+       "old": "u the beginning of agriculture (8000 years ago)",
+       "new": "> the beginning of agriculture (8000 years ago)",
+       "old_page": 10,
+       "new_page": null,
+       "words": [
+        [
+         "-",
+         "u"
+        ],
+        [
+         "+",
+         ">"
+        ],
+        [
+         "=",
+         "the beginning of agriculture (8000 years ago)"
+        ]
+       ],
+       "old_pos": 14,
+       "new_pos": 20
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.731,
+       "old": "u the present (about",
+       "new": "> the present (about 2000 AD/CE)",
+       "old_page": 10,
+       "new_page": null,
+       "words": [
+        [
+         "-",
+         "u"
+        ],
+        [
+         "+",
+         ">"
+        ],
+        [
+         "=",
+         "the present (about"
+        ],
+        [
+         "+",
+         "2000 AD/CE)"
+        ]
+       ],
+       "old_pos": 18,
+       "new_pos": 23
+      },
+      {
+       "type": "modified",
+       "stream": "exercises",
+       "similarity": 0.658,
+       "old": "u the first cities on the",
+       "new": "> the first cities on the Indus (4700 years ago)",
+       "old_page": 10,
+       "new_page": null,
+       "words": [
+        [
+         "-",
+         "u"
+        ],
+        [
+         "+",
+         ">"
+        ],
+        [
+         "=",
+         "the first cities on the"
+        ],
+        [
+         "+",
+         "Indus (4700 years ago)"
+        ]
+       ],
+       "old_pos": 15,
+       "new_pos": 21
+      },
+      {
+       "type": "typographic",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "6. Describe at least two ways in which you think the lives of kings would have been different from those of farmers.",
+       "new": "Describe at least two ways in which you think the lives of kings would have been different from those of farmers.",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 8,
+       "new_pos": 13
+      },
+      {
+       "type": "typographic",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "7. Find the word crafts persons on page 1. List at least five different crafts that you know about today.",
+       "new": "Find the word crafts persons on page 1. List at least five different crafts that you know about today.",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 9,
+       "new_pos": 14
+      },
+      {
+       "type": "typographic",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "4. Make a list of all the objects that archaeologists may find.",
+       "new": "Make a list of all the objects that archaeologists may find.",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": 10
+      },
+      {
+       "type": "typographic",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "8. What were the subjects on which books were written in the past?",
+       "new": "What were the subjects on which books were written in the past?",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 11,
+       "new_pos": 16
+      },
+      {
+       "type": "typographic",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "5. Why do you think ordinary men and women did not generally keep records of what they did?",
+       "new": "Why do you think ordinary men and women did not generally keep records of what they did?",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 7,
+       "new_pos": 12
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Are the crafts persons — (a) men (b) women (c) both men and women?",
+       "new": "Are the crafts persons — (a) men (b) women (c) both men and women?",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": 15
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "SOME IMPORTANT",
+       "new": "SOME IMPORTANT",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": 18
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Which of these could be made of stone?",
+       "new": "Which of these could be made of stone?",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 6,
+       "new_pos": 11
+      },
+      {
+       "type": "equal",
+       "stream": "exercises",
+       "similarity": 1.0,
+       "old": "Which of these would you like to read?",
+       "new": "Which of these would you like to read?",
+       "old_page": 10,
+       "new_page": null,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": 17
+      }
+     ]
+    },
+    "glossary": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 2,
+      "resplit": 1,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": [
+      {
+       "type": "restreamed",
+       "stream": "glossary>exercises",
+       "similarity": 1.0,
+       "old": "Garo hills Cities about 2500 years ago",
+       "new": "Garo hills Cities about 2500 years ago",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 2,
+       "new_pos": 4
+      },
+      {
+       "type": "restreamed",
+       "stream": "glossary>exercises",
+       "similarity": 1.0,
+       "old": "Magadha Hunting and gathering",
+       "new": "Magadha Hunting and gathering",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": 3
+      },
+      {
+       "type": "resplit",
+       "stream": "glossary>exercises",
+       "similarity": 1.0,
+       "old": "Indus and its tributaries Early agriculture Ganga Valley The first cities",
+       "new": "Indus and its tributaries Early agriculture Ganga Valley The first cities",
+       "old_page": 9,
+       "new_page": null,
+       "words": [],
+       "old_pos": 4,
+       "new_pos": 5
+      }
+     ]
+    },
+    "references": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    },
+    "teachers-note": {
+     "counts": {
+      "deleted": 0,
+      "inserted": 0,
+      "modified": 0,
+      "moved": 0,
+      "typographic": 0,
+      "restreamed": 0,
+      "resplit": 0,
+      "unreadable": 0,
+      "punctuation": 0
+     },
+     "hunks": []
+    }
+   },
+   "pages": {
+    "old": [
+     {
+      "page": 1,
+      "new_page": null,
+      "sentences": 17,
+      "score": 0.94,
+      "suspect": false
+     },
+     {
+      "page": 2,
+      "new_page": null,
+      "sentences": 7,
+      "score": 0.86,
+      "suspect": false
+     },
+     {
+      "page": 3,
+      "new_page": null,
+      "sentences": 22,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 4,
+      "new_page": null,
+      "sentences": 22,
+      "score": 0.82,
+      "suspect": false
+     },
+     {
+      "page": 5,
+      "new_page": null,
+      "sentences": 20,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 6,
+      "new_page": null,
+      "sentences": 19,
+      "score": 1.0,
+      "suspect": false
+     },
+     {
+      "page": 7,
+      "new_page": null,
+      "sentences": 10,
+      "score": 0.9,
+      "suspect": false
+     },
+     {
+      "page": 8,
+      "new_page": null,
+      "sentences": 18,
+      "score": 0.89,
+      "suspect": false
+     },
+     {
+      "page": 9,
+      "new_page": null,
+      "sentences": 18,
+      "score": 0.94,
+      "suspect": false
+     },
+     {
+      "page": 10,
+      "new_page": null,
+      "sentences": 17,
+      "score": 0.88,
+      "suspect": false
+     }
+    ],
+    "new": [],
+    "suspect": 0
+   }
+  },
+  {
+   "from": {
+    "number": 2,
+    "part": null,
+    "title": "FROM HUNTIN OM HUNTING–GA GATHERING T THERING TO GROWING F WING FOOD",
+    "file": "texts/our-pasts-1/2021-partial/02-from-huntin-om-huntingga-gathering-t-thering-to.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 3,
+    "part": null,
+    "title": "CHAPTER 3 IN THE EARLIEST CITIES",
+    "file": "texts/our-pasts-1/2021-partial/03-chapter-3-in-the-earliest-cities.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 4,
+    "part": null,
+    "title": "CHAPTER 4 WHAT BOOK T BOOKS AND BURIALS TELL US",
+    "file": "texts/our-pasts-1/2021-partial/04-chapter-4-what-book-t-books-and-burials-tell-us.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 5,
+    "part": null,
+    "title": "CHAPTER 5 KINGDOMS, KINGS AND AN EARLY REPUBLIC",
+    "file": "texts/our-pasts-1/2021-partial/05-chapter-5-kingdoms-kings-and-an-early-republic.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 6,
+    "part": null,
+    "title": "CHAPTER 6 NEW QUESTIONS AND IDEAS",
+    "file": "texts/our-pasts-1/2021-partial/06-chapter-6-new-questions-and-ideas.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 7,
+    "part": null,
+    "title": "CHAPTER 7 ASHOKA, THE EMPEROR WHO GAVE UP W VE UP WAR",
+    "file": "texts/our-pasts-1/2021-partial/07-chapter-7-ashoka-the-emperor-who-gave-up-w-ve-up.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 8,
+    "part": null,
+    "title": "CHAPTER 8 VITAL VILLA AL VILLAGES, THRIVING T GES, THRIVING TOWNS",
+    "file": "texts/our-pasts-1/2021-partial/08-chapter-8-vital-villa-al-villages-thriving-t-ges.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 9,
+    "part": null,
+    "title": "CHAPTER 9 TRADERS, KINGS AND PILGRIMS",
+    "file": "texts/our-pasts-1/2021-partial/09-chapter-9-traders-kings-and-pilgrims.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 10,
+    "part": null,
+    "title": "CHAPTER 10 NEW EMPIRES AND KINGDOMS",
+    "file": "texts/our-pasts-1/2021-partial/10-chapter-10-new-empires-and-kingdoms.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": {
+    "number": 11,
+    "part": null,
+    "title": "CHAPTER 11 BUILDINGS, PAINTINGS AND BOOK AINTINGS AND BOOKS",
+    "file": "texts/our-pasts-1/2021-partial/11-chapter-11-buildings-paintings-and-book-aintings.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  }
+ ]
+}

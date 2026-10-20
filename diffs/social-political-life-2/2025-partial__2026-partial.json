@@ -1,0 +1,57 @@
+{
+ "book": "social-political-life-2",
+ "from": "2025-partial",
+ "to": "2026-partial",
+ "ocr": false,
+ "summary": {
+  "chapters_dropped": 1,
+  "chapters_added": 1,
+  "body": {
+   "deleted": 0,
+   "inserted": 0,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "other_streams": {
+   "deleted": 0,
+   "inserted": 0,
+   "modified": 0,
+   "moved": 0,
+   "typographic": 0,
+   "restreamed": 0,
+   "resplit": 0,
+   "unreadable": 0,
+   "punctuation": 0
+  },
+  "suspect_pages": 0
+ },
+ "chapters": [
+  {
+   "from": {
+    "number": 1,
+    "part": null,
+    "title": "On Equality",
+    "file": "texts/social-political-life-2/2025-partial/01-on-equality.md"
+   },
+   "to": null,
+   "similarity": 0.0,
+   "status": "dropped"
+  },
+  {
+   "from": null,
+   "to": {
+    "number": 2,
+    "part": null,
+    "title": "Role of the Government in Health",
+    "file": "texts/social-political-life-2/2026-partial/02-role-of-the-government-in-health.md"
+   },
+   "similarity": 0.0,
+   "status": "added"
+  }
+ ]
+}

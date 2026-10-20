@@ -18,7 +18,7 @@
    "punctuation": 0
   },
   "other_streams": {
-   "deleted": 24,
+   "deleted": 67,
    "inserted": 23,
    "modified": 5,
    "moved": 0,
@@ -27279,7 +27279,7 @@
    "streams": {
     "heading": {
      "counts": {
-      "deleted": 0,
+      "deleted": 1,
       "inserted": 1,
       "modified": 0,
       "moved": 0,
@@ -27301,6 +27301,18 @@
        "words": [],
        "old_pos": 0,
        "new_pos": 0
+      },
+      {
+       "type": "deleted",
+       "stream": "heading",
+       "similarity": null,
+       "old": "References",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": null
       },
       {
        "type": "equal",
@@ -28895,7 +28907,7 @@
     },
     "references": {
      "counts": {
-      "deleted": 0,
+      "deleted": 42,
       "inserted": 1,
       "modified": 0,
       "moved": 0,
@@ -28907,6 +28919,510 @@
      },
      "hunks": [
       {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "“Growing Up Male” in Seminar 318.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 12,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "‘Future of Mid-day Meals’.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 44,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "‘Growth and Recession in Small-Scale Industry: A Study of Tamil Nadu Powerlooms’ Economic and Political Weekly.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 32,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "(edition) Growing Up In Samoa.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 61,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "(reprint) 1988.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 48,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1905.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 5,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1928, 1973.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 60,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1986.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 53,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1996.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 38,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1999.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 68,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "1999.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 73,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "2000.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 22,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "2003.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 43,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "2003.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 76,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "2007.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 14,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "American Museum of Natural History, Washington D.C.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 62,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Dreze, Jean and Aparajita Goyal.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 0,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Feminist Press, New York.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 50,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Grand Rapids, Zondervan, Michigan.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 24,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Hossein, Sakhwat Rokeya.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 46,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "In Economic and Political Weekly.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 3,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Joothan: A Dalit’s Life.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 77,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Krishna.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 10,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Kumar.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 51,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Mazumdar, Indrani.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 13,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Mead, Margaret.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 59,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Parks, Rosa.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 21,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Poster Women: A Visual History of the Women’s Movement in India.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 81,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Quiet Strength.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 23,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Rashsundari Devi.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 67,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Roy, Tirthankar.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 30,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "SAMYA, Kolkata.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 78,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Stree, Kolkata.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 16,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Sultana’s Dream.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 49,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Translated and with an introduction by Tanika Sarkar.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 28,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Valmiki, Omprakash.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 75,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Women and Globalization: The Impact on Women Workers in the Formal and Informal Sectors in India.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 15,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Words to Win.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 69,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "www.cehat.org/rthc/policybrieffinal.pdf www.infochangeindia.org",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 83,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Zubaan.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 37,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Zubaan, New Delhi.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 71,
+       "new_pos": null
+      },
+      {
+       "type": "deleted",
+       "stream": "references",
+       "similarity": null,
+       "old": "Zubaan, New Delhi.",
+       "new": null,
+       "old_page": 122,
+       "new_page": null,
+       "words": [],
+       "old_pos": 82,
+       "new_pos": null
+      },
+      {
        "type": "equal",
        "stream": "references",
        "similarity": 1.0,
@@ -28915,7 +29431,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 12,
+       "old_pos": 54,
        "new_pos": 12
       },
       {
@@ -28939,7 +29455,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 32,
+       "old_pos": 74,
        "new_pos": 32
       },
       {
@@ -28975,7 +29491,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 5,
+       "old_pos": 47,
        "new_pos": 5
       },
       {
@@ -29011,7 +29527,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 38,
+       "old_pos": 80,
        "new_pos": 38
       },
       {
@@ -29047,7 +29563,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 22,
+       "old_pos": 64,
        "new_pos": 22
       },
       {
@@ -29083,7 +29599,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 14,
+       "old_pos": 56,
        "new_pos": 14
       },
       {
@@ -29107,7 +29623,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 0,
+       "old_pos": 42,
        "new_pos": 0
       },
       {
@@ -29131,7 +29647,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 24,
+       "old_pos": 66,
        "new_pos": 24
       },
       {
@@ -29155,7 +29671,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 3,
+       "old_pos": 45,
        "new_pos": 3
       },
       {
@@ -29179,7 +29695,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 10,
+       "old_pos": 52,
        "new_pos": 10
       },
       {
@@ -29203,7 +29719,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 13,
+       "old_pos": 55,
        "new_pos": 13
       },
       {
@@ -29227,7 +29743,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 21,
+       "old_pos": 63,
        "new_pos": 21
       },
       {
@@ -29251,7 +29767,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 23,
+       "old_pos": 65,
        "new_pos": 23
       },
       {
@@ -29275,7 +29791,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 30,
+       "old_pos": 72,
        "new_pos": 30
       },
       {
@@ -29299,7 +29815,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 16,
+       "old_pos": 58,
        "new_pos": 16
       },
       {
@@ -29323,7 +29839,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 28,
+       "old_pos": 70,
        "new_pos": 28
       },
       {
@@ -29347,7 +29863,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 15,
+       "old_pos": 57,
        "new_pos": 15
       },
       {
@@ -29383,7 +29899,7 @@
        "old_page": 122,
        "new_page": 122,
        "words": [],
-       "old_pos": 37,
+       "old_pos": 79,
        "new_pos": 37
       },
       {
@@ -29500,8 +30016,8 @@
      {
       "page": 122,
       "new_page": 122,
-      "sentences": 43,
-      "score": 1.0,
+      "sentences": 86,
+      "score": 0.5,
       "suspect": false
      }
     ],
