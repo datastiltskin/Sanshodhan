@@ -571,8 +571,14 @@ def write_compare_data(book_id: str, editions: list, diffs: dict, out: Path, *, 
     return written
 
 
-def build(out: Path, images_base: str, *, search: bool = True, log=print) -> Path:
+def build(out: Path, images_base: str, *, base_url: str = "", search: bool = True, log=print) -> Path:
+    """`base_url` is the path the site is served under, "" at a domain root or "/Sanshodhan"
+    on a GitHub Pages project site. Templates and scripts put it before every site URL."""
     env = _env()
+    base_url = base_url.rstrip("/")
+    env.globals["base"] = base_url
+    if images_base.startswith("/"):
+        images_base = base_url + images_base  # a local images folder moves with the site, a bucket URL does not
     books = load_books()
     out.mkdir(parents=True, exist_ok=True)
     shutil.copytree(HERE / "static", out / "static", dirs_exist_ok=True)

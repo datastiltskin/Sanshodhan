@@ -7,7 +7,7 @@
   <h1>Search the books</h1>
   <p class="subtitle">Type a word or a phrase to find every chapter that carries it, and see in which editions it appears. A result that matches only older editions marks text that was later removed.</p>
 </div>
-<form class="search-bar" id="search-form" action="/search/" method="get">
+<form class="search-bar" id="search-form" action="{{ base }}/search/" method="get">
   <input type="search" id="search-q" name="q" placeholder="A word, a name, or a phrase" aria-label="Search terms" autocomplete="off" autofocus>
   <label>Class <select id="search-class" name="class"><option value="">any</option></select></label>
   <label>Subject <select id="search-subject" name="subject"><option value="">any</option></select></label>
@@ -21,8 +21,8 @@
 <div id="search-results" class="search-results"></div>
 <p id="search-more-wrap" hidden><button type="button" id="search-more">Show more chapters</button></p>
 <div id="search-help" class="search-help">
-  <p>Try <a href="/search/?q=Mughal+emperors">Mughal emperors</a>, <a href="/search/?q=Rani+Avantibai">Rani Avantibai</a>, or <a href="/search/?q=secularism&amp;subject=civics">secularism in the civics books</a>. Each result is one chapter followed by a chip for every edition of its book. Open a chip to read that edition's chapter with the words marked.</p>
+  <p>Try <a href="{{ base }}/search/?q=Mughal+emperors">Mughal emperors</a>, <a href="{{ base }}/search/?q=Rani+Avantibai">Rani Avantibai</a>, or <a href="{{ base }}/search/?q=secularism&amp;subject=civics">secularism in the civics books</a>. Each result is one chapter followed by a chip for every edition of its book. Open a chip to read that edition's chapter with the words marked.</p>
   <p>The search covers the text of every edition on this site, notes and exercises included. Text that an edition removed is not counted as present in it. Spelling must match the book's, so "Orissa" and "Odisha" are different searches.</p>
 </div>
 {% endblock %}
-{% block scripts %}<script src="/static/search.js"></script>{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/search.js"></script>{% endblock %}

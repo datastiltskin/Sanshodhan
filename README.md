@@ -57,6 +57,7 @@ uv run ncert-diff diff             # compare consecutive editions -> diffs/<book
 uv run ncert-diff render-pages     # one WebP per printed page -> site/images/<book>/<edition>/<chapter>/
 uv run ncert-diff build            # the website -> site/ (images expected at --images-base, default /images)
                                    # also the search index -> site/pagefind/ (skip with --no-search)
+                                   # --base-url /Sanshodhan when the site is served under a path, as on GitHub Pages
 uv run pytest
 ```
 
@@ -66,7 +67,8 @@ same pages with a flagging layer (select text, press Flag) that writes to
 `review/annotations.jsonl`. In production the HTML is deployed to GitHub Pages by
 `.github/workflows/site.yml` and the page images are uploaded to a Cloudflare R2 bucket by
 `scripts/upload-images.sh`, with the bucket's public URL in the `IMAGES_BASE` repository
-variable.
+variable. The workflow builds for `/<repository name>`, where a GitHub Pages project site
+lives. With a custom domain, set the `BASE_URL` repository variable to `/`.
 
 `diffs/index.html` lists every comparison with counts. Each pair's HTML shows deleted,
 inserted, and modified sentences per chapter with word-level highlights, and folds away the
@@ -83,9 +85,13 @@ See `docs/text-format.md` for what the extracted Markdown looks like and why.
 Downloads are skipped when the file already exists. The Wayback Machine is hit exactly once per
 snapshot. Please keep it that way.
 
-## Copyright
+## Copyright and licence
+
+The code in this repository (everything under `src/`, `scripts/`, `tests/`, and the site
+templates and stylesheet) is released under the MIT licence, see `LICENSE`.
 
 The textbooks are copyright NCERT. They are distributed free of charge by NCERT, and this
-project exists to document how a public curriculum changes over time. Extracted text and diffs
-are published here for that purpose. The PDFs themselves are not redistributed from this
-repository.
+project exists to document how a public curriculum changes over time. The extracted text in
+`texts/`, the comparisons in `diffs/`, and the page images on the site reproduce NCERT's
+work for that purpose and are not covered by the MIT licence. The PDFs themselves are not
+redistributed from this repository.

@@ -6,6 +6,7 @@
   "use strict";
   var form = document.getElementById("search-form");
   if (!form) return;
+  var BASE = document.documentElement.getAttribute("data-base") || ""; // "" at a domain root, "/Sanshodhan" on a project site
   var qEl = document.getElementById("search-q");
   var sel = {
     klass: document.getElementById("search-class"),
@@ -91,9 +92,9 @@
   // ---- Pagefind ----
   function loadPagefind() {
     if (pagefind) return Promise.resolve(pagefind);
-    return import("/pagefind/pagefind.js").then(function (mod) {
+    return import(BASE + "/pagefind/pagefind.js").then(function (mod) {
       pagefind = mod;
-      return pagefind.options({ excerptLength: 30, highlightParam: "highlight" }).then(function () { return pagefind; });
+      return pagefind.options({ excerptLength: 30, highlightParam: "highlight", baseUrl: BASE + "/" }).then(function () { return pagefind; });
     }).catch(function () {
       pagefindFailed = true;
       throw new Error("no index");
@@ -205,7 +206,7 @@
           var href = hit.url + (hit.page ? "#p" + hit.page : "");
           return chipHtml("hit", e.short, e.label + (hit.page ? ", page " + hit.page : ""), href);
         }
-        if (chapters[e.id]) return chipHtml("miss", e.short, e.label + ": chapter present, phrase not found", "/" + book.id + "/" + e.id + "/" + chapters[e.id] + "/");
+        if (chapters[e.id]) return chipHtml("miss", e.short, e.label + ": chapter present, phrase not found", BASE + "/" + book.id + "/" + e.id + "/" + chapters[e.id] + "/");
         return chipHtml("absent", e.short, e.label + ": chapter not in this edition", null);
       });
       var best = g.best;
@@ -254,7 +255,7 @@
   sel.edition.addEventListener("change", function () { search(true); });
   sel.chapter.addEventListener("change", function () { search(true); });
 
-  fetch("/search/catalogue.json").then(function (r) { return r.json(); }).then(function (cat) {
+  fetch(BASE + "/search/catalogue.json").then(function (r) { return r.json(); }).then(function (cat) {
     catalogue = cat;
     cat.books.forEach(function (b) { booksById[b.id] = b; });
     var p = new URLSearchParams(location.search);

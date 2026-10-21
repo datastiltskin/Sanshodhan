@@ -4,7 +4,7 @@
 {% block mainclass %}wide{% endblock %}
 {% block content %}
 <div class="title-block">
-  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › Extraction check</p>
+  <p class="crumbs"><a href="{{ base }}/{{ book.id }}/">{{ book.title }}</a> › Extraction check</p>
   <h1>Pages to check</h1>
   <p class="subtitle">{{ total }} page{{ 's' if total != 1 }} where fewer than half the sentences survived into the next edition. Each is either a real cut, a page that moved, or a reading error in the extraction. The two page images are shown so a person can tell which. A page is listed once it has at least four comparable sentences.</p>
 </div>
@@ -17,10 +17,10 @@
     <p>
       {% if i.kind == 'old' %}
       <strong>Chapter {{ i.chapter.from.number }}, page {{ i.page }}</strong> of the {{ pair.from.label }}: {{ (i.score * 100)|round|int }} per cent of {{ i.sentences }} sentences survived{% if i.other %}, best matched by page {{ i.other }} of the {{ pair.to.label }}{% else %}, no matching page found{% endif %}.
-      <a href="/{{ book.id }}/{{ pair.from.id }}/{{ i.old_dir }}/#p{{ i.page }}">Open old</a>{% if i.other %}, <a href="/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.other }}">open new</a>{% endif %}.
+      <a href="{{ base }}/{{ book.id }}/{{ pair.from.id }}/{{ i.old_dir }}/#p{{ i.page }}">Open old</a>{% if i.other %}, <a href="{{ base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.other }}">open new</a>{% endif %}.
       {% else %}
       <strong>Chapter {{ i.chapter.to.number }}, page {{ i.page }}</strong> of the {{ pair.to.label }}: {{ (i.score * 100)|round|int }} per cent of {{ i.sentences }} sentences have no source in the {{ pair.from.label }}.
-      <a href="/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.page }}">Open</a>.
+      <a href="{{ base }}/{{ book.id }}/{{ pair.to.id }}/{{ i.new_dir }}/#p{{ i.page }}">Open</a>.
       {% endif %}
     </p>
     <div class="check-images">

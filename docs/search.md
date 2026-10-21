@@ -129,9 +129,10 @@ and the `mark` colour, all on the existing colour tokens, light and dark.
   from the same index with no script of ours. The grouping exists only because one result
   per chapter with edition chips answers "when did this disappear?" and a plain list does
   not.
-- **Hosting under a subpath**: every URL on the site is root-absolute (`/pagefind/...`,
-  `/search/catalogue.json`), as the rest of the site already assumes. Set Pagefind's
-  `baseUrl` and `basePath` options if that ever changes.
+- **Hosting under a subpath**: the build's `--base-url` (the `BASE_URL` repository
+  variable in CI, `/<repository name>` by default) is put before every site URL by the
+  templates (`{{ base }}`) and by the scripts, which read it from `<html data-base>`.
+  The script passes it to Pagefind as `baseUrl`, so hit URLs carry it too.
 - **Hindi editions**: Pagefind indexes any language. Set `force_language` per directory or
   drop it, and check the stemming (`pagefind.app/docs/multilingual`).
 

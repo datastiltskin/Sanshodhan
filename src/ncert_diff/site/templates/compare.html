@@ -4,7 +4,7 @@
 {% block mainclass %}wide{% endblock %}
 {% block content %}
 <div class="title-block">
-  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › Compare</p>
+  <p class="crumbs"><a href="{{ base }}/{{ book.id }}/">{{ book.title }}</a> › Compare</p>
   <h1>Compare two editions</h1>
   <p class="subtitle">Pick any two editions and a chapter. Pages are paired by where their text went, since page numbers shift between printings. A page with no counterpart stands alone. The address bar follows your choices, so a view can be shared as a link.</p>
 </div>
@@ -41,4 +41,4 @@
 <div id="cmp-rows" class="cmp-rows layout-split images-side"></div>
 <p id="cmp-empty" class="muted" hidden>No pages to show with the current filters.</p>
 {% endblock %}
-{% block scripts %}<script src="/static/compare.js"></script>{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/compare.js"></script>{% endblock %}

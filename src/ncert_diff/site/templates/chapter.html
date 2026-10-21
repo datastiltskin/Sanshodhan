@@ -5,17 +5,17 @@
 {% block content %}
 <div class="content">
 <div class="title-block">
-  <p class="crumbs"><a href="/{{ book.id }}/">{{ book.title }}</a> › <a href="{{ ed.url }}">{{ ed.label }}</a></p>
+  <p class="crumbs"><a href="{{ base }}/{{ book.id }}/">{{ book.title }}</a> › <a href="{{ base }}{{ ed.url }}">{{ ed.label }}</a></p>
   <h1>{% if chapter.ch.part %}Part {{ chapter.ch.part }}, {% endif %}{{ chapter.ch.number }}. {{ chapter.ch.title|ttl }}</h1>
 </div>
 <div class="viewer-bar">
   <span class="switcher">Edition:
     <select id="edition-switch">
-    {% for e in editions %}<option value="/{{ book.id }}/{{ e.id }}/{{ chdir }}/" {% if e.id == ed.id %}selected{% endif %}>{{ e.label }}</option>{% endfor %}
+    {% for e in editions %}<option value="{{ base }}/{{ book.id }}/{{ e.id }}/{{ chdir }}/" {% if e.id == ed.id %}selected{% endif %}>{{ e.label }}</option>{% endfor %}
     </select>
   </span>
   {% if prev and chapter.diff %}
-  <a href="/{{ book.id }}/compare/?from={{ prev.id }}&amp;to={{ ed.id }}&amp;chapter={{ chdir }}">Compare page by page</a>
+  <a href="{{ base }}/{{ book.id }}/compare/?from={{ prev.id }}&amp;to={{ ed.id }}&amp;chapter={{ chdir }}">Compare page by page</a>
   <label><input type="checkbox" id="toggle-changes" checked> Show changes since the {{ prev.label }}</label>
   <label><input type="checkbox" id="toggle-minor"> Include minor differences (punctuation, case, moved text)</label>
   {% elif prev %}
@@ -49,8 +49,8 @@
 {% endfor %}
 </div>
 <nav class="chapter-nav">
-  {% if prev_chapter %}<a href="/{{ book.id }}/{{ ed.id }}/{{ prev_chapter.dir }}/">← {{ prev_chapter.ch.number }}. {{ prev_chapter.ch.title|ttl }}</a>{% else %}<span></span>{% endif %}
-  {% if next_chapter %}<a href="/{{ book.id }}/{{ ed.id }}/{{ next_chapter.dir }}/">{{ next_chapter.ch.number }}. {{ next_chapter.ch.title|ttl }} →</a>{% endif %}
+  {% if prev_chapter %}<a href="{{ base }}/{{ book.id }}/{{ ed.id }}/{{ prev_chapter.dir }}/">← {{ prev_chapter.ch.number }}. {{ prev_chapter.ch.title|ttl }}</a>{% else %}<span></span>{% endif %}
+  {% if next_chapter %}<a href="{{ base }}/{{ book.id }}/{{ ed.id }}/{{ next_chapter.dir }}/">{{ next_chapter.ch.number }}. {{ next_chapter.ch.title|ttl }} →</a>{% endif %}
 </nav>
 </div>
 <aside class="toc">
@@ -58,4 +58,4 @@
   <ul>{% for p in chapter.pages if p.page %}<li><a href="#p{{ p.page }}">Page {{ p.page }}</a></li>{% endfor %}</ul>
 </aside>
 {% endblock %}
-{% block scripts %}<script src="/static/viewer.js"></script>{% endblock %}
+{% block scripts %}<script src="{{ base }}/static/viewer.js"></script>{% endblock %}

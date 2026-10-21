@@ -3,6 +3,7 @@
 // written by the site build. State lives in the URL (from, to, chapter) and the
 // settings in localStorage.
 (function () {
+  var BASE = document.documentElement.getAttribute("data-base") || ""; // "" at a domain root, "/Sanshodhan" on a project site
   var bar = document.getElementById("cmp-bar");
   if (!bar) return;
   var book = bar.dataset.book;
@@ -180,13 +181,13 @@
     if (!state.slug) { rowsEl.innerHTML = ""; summaryEl.textContent = "No chapters to compare for this pair."; return; }
     var chapter = index.pairs[state.key].chapters.filter(function (c) { return c.slug === state.slug; })[0];
     summaryEl.textContent = "Loading…";
-    fetch("/data/" + book + "/" + state.key + "/" + state.slug + ".json")
+    fetch(BASE + "/data/" + book + "/" + state.key + "/" + state.slug + ".json")
       .then(function (r) { return r.json(); })
       .then(function (data) { current = { state: state, chapter: chapter, data: data }; render(state, chapter, data); })
       .catch(function () { summaryEl.textContent = "Could not load this comparison."; });
   }
 
-  fetch("/data/" + book + "/pairs.json")
+  fetch(BASE + "/data/" + book + "/pairs.json")
     .then(function (r) { return r.json(); })
     .then(function (data) { index = data; applySettings(); load(); })
     .catch(function () { summaryEl.textContent = "Could not load the edition list."; });

@@ -1,6 +1,7 @@
 // Change toggles and the edition switcher. Preferences are remembered per browser.
 (function () {
   var body = document.body;
+  var BASE = document.documentElement.getAttribute("data-base") || "";
   function bind(id, cls, onByDefault) {
     var box = document.getElementById(id);
     if (!box) return;
@@ -23,7 +24,7 @@
   if (sw) sw.addEventListener("change", function () { location.href = sw.value + location.hash; });
   // Arriving from the search page: mark the search words on this page (Pagefind's own script).
   if (new URLSearchParams(location.search).has("highlight")) {
-    import("/pagefind/pagefind-highlight.js").then(function () {
+    import(BASE + "/pagefind/pagefind-highlight.js").then(function () {
       new PagefindHighlight({ highlightParam: "highlight" });
     }).catch(function () {});
   }

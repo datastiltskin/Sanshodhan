@@ -6,6 +6,6 @@
   <h1>What changed</h1>
   <p class="subtitle">A reading of the differences between editions, with page numbers.</p>
 </div>
-<p class="lede">For the complete machine-generated lists see each book's "every change" page: {% for id, b in books.items() %}<a href="/{{ id }}/changes/">{{ b.title }}</a>{{ ", " if not loop.last }}{% endfor %}.</p>
+<p class="lede">For the complete machine-generated lists see each book's "every change" page: {% for id, b in books.items() %}<a href="{{ base }}/{{ id }}/changes/">{{ b.title }}</a>{{ ", " if not loop.last }}{% endfor %}.</p>
 <div class="prose">{{ findings|md|safe }}</div>
 {% endblock %}
